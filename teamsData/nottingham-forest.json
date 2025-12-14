@@ -1,0 +1,434 @@
+{
+    "globalStatistics": {
+        "corners": "5.38",
+        "fouls": "10.88",
+        "goalKicks": "7.56",
+        "saves": "3.00",
+        "offsides": "1.44",
+        "shotsOnTarget": "4.06/4.69",
+        "yellowCards": "1.63/1.81",
+        "goals": "1.06/1.56",
+        "throwIns": "19.69",
+        "ballPossession": 50.75,
+        "tackles": "17.75/15.75",
+        "interceptions": "7.75/9.06",
+        "aerialDuels": "14.31",
+        "aerialDuelsAttempted": "29.69",
+        "dribbles": "7.25/7.75",
+        "dribblesAttempted": "15.31/17.00"
+    },
+    "teamSlug": "nottingham-forest",
+    "teamId": "14",
+    "teamName": "Nottingham Forest",
+    "tournament": "Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/tottenham-hotspur-nottingham-forest/osI#id:14025204,tab:statistics",
+            "teams": [
+                "Forest",
+                "Tottenham"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "14",
+                "33"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/everton-nottingham-forest/osY#id:14025162,tab:statistics",
+            "teams": [
+                "Everton",
+                "Forest"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "48",
+                "14"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nottingham-forest-wolverhampton/dso#id:14025144,tab:statistics",
+            "teams": [
+                "Wolves",
+                "Forest"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "3",
+                "14"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brighton-and-hove-albion-nottingham-forest/osF#id:14025111,tab:statistics",
+            "teams": [
+                "Forest",
+                "Brighton"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "14",
+                "30"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/liverpool-nottingham-forest/osU#id:14025081,tab:statistics",
+            "teams": [
+                "Liverpool",
+                "Forest"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "44",
+                "14"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leeds-united-nottingham-forest/osJ#id:14025051,tab:statistics",
+            "teams": [
+                "Forest",
+                "Leeds"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "14",
+                "34"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manchester-united-nottingham-forest/osK#id:14025285,tab:statistics",
+            "teams": [
+                "Forest",
+                "Man Utd"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "14",
+                "35"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bournemouth-nottingham-forest/oskb#id:14025253,tab:statistics",
+            "teams": [
+                "Bournemouth",
+                "Forest"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "60",
+                "14"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/3[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "3/0[H]",
+            "throwIns": "22/24[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Forest,Tottenham,Home",
+            "tackles": "17/27[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "12/10[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "19/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "15/17[A]",
+            "goalKicks": "8/3[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "0/3[A]",
+            "throwIns": "29/21[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Forest,Everton,Away",
+            "tackles": "24/15[A]",
+            "interceptions": "6/11[A]",
+            "aerialDuels": "24/21[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "8/3[A]",
+            "dribblesAttempted": "11/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[A]",
+            "fouls": "11/19[A]",
+            "goalKicks": "4/7[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "22/17[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Forest,Wolves,Away",
+            "tackles": "17/19[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "15/17[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "12/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/2[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "11/10[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "14/16[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Forest,Brighton,Home",
+            "tackles": "22/19[H]",
+            "interceptions": "7/13[H]",
+            "aerialDuels": "13/13[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "17/6[H]",
+            "dribblesAttempted": "28/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[A]",
+            "fouls": "8/11[A]",
+            "goalKicks": "14/2[A]",
+            "saves": "3/4[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "3/0[A]",
+            "throwIns": "17/25[A]",
+            "averageBallPossession": "25/75[A]",
+            "teams": "Forest,Liverpool,Away",
+            "tackles": "27/15[A]",
+            "interceptions": "7/4[A]",
+            "aerialDuels": "12/17[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "7/14[A]",
+            "dribblesAttempted": "18/32[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "20/17[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Forest,Leeds,Home",
+            "tackles": "27/15[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "13/19[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "17/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "17/0[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "4/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "15/12[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Forest,Man Utd,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "11/10[H]",
+            "aerialDuels": "17/29[H]",
+            "aerialDuelsAttempted": "46/46[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "11/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "7/17[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "3/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/21[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Forest,Bournemouth,Away",
+            "tackles": "19/9[A]",
+            "interceptions": "9/12[A]",
+            "aerialDuels": "21/17[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "8/16[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "3/3[H]+3/6[A]+9/3[A]+9/2[H]+6/8[A]+6/4[H]+8/5[H]+4/6[A]",
+        "fouls": "9/13[H]+15/17[A]+11/19[A]+11/10[H]+8/11[A]+10/11[H]+17/0[H]+7/17[A]",
+        "goalKicks": "6/9[H]+8/3[A]+4/7[A]+11/10[H]+14/2[A]+5/9[H]+7/9[H]+7/7[A]",
+        "saves": "1/3[H]+3/2[A]+1/2[A]+3/3[H]+3/4[A]+2/3[H]+4/1[H]+3/4[A]",
+        "offsides": "4/1[H]+1/3[A]+2/2[A]+1/0[H]+2/0[A]+2/1[H]+2/1[H]+0/3[A]",
+        "shotsOnTarget": "6/1[H]+3/5[A]+3/1[A]+3/6[H]+7/4[A]+6/3[H]+3/7[H]+4/5[A]",
+        "yellowCards": "1/3[H]+3/4[A]+2/2[A]+0/1[H]+0/2[A]+2/1[H]+1/1[H]+1/3[A]",
+        "goals": "3/0[H]+0/3[A]+1/0[A]+0/2[H]+3/0[A]+3/1[H]+2/2[H]+0/2[A]",
+        "throwIns": "22/24[H]+29/21[A]+22/17[A]+14/16[H]+17/25[A]+20/17[H]+15/12[H]+19/21[A]",
+        "averageBallPossession": "48/52[H]+59/41[A]+50/50[A]+52/48[H]+25/75[A]+46/54[H]+41/59[H]+48/52[A]",
+        "teams": "Forest,Tottenham,Home+Forest,Everton,Away+Forest,Wolves,Away+Forest,Brighton,Home+Forest,Liverpool,Away+Forest,Leeds,Home+Forest,Man Utd,Home+Forest,Bournemouth,Away",
+        "tackles": "17/27[H]+24/15[A]+17/19[A]+22/19[H]+27/15[A]+27/15[H]+17/12[H]+19/9[A]",
+        "interceptions": "11/13[H]+6/11[A]+5/10[A]+7/13[H]+7/4[A]+6/9[H]+11/10[H]+9/12[A]",
+        "aerialDuels": "12/10[H]+24/21[A]+15/17[A]+13/13[H]+12/17[A]+13/19[H]+17/29[H]+21/17[A]",
+        "aerialDuelsAttempted": "22/22[H]+45/45[A]+32/32[A]+26/26[H]+29/29[A]+32/32[H]+46/46[H]+38/38[A]",
+        "dribbles": "6/9[H]+8/3[A]+4/8[A]+17/6[H]+7/14[A]+7/5[H]+5/8[H]+2/7[A]",
+        "dribblesAttempted": "19/17[H]+11/14[A]+12/13[A]+28/16[H]+18/32[A]+17/23[H]+11/19[H]+8/16[A]",
+        "isHome": "true+false+false+true+false+true+true+false",
+        "cornersTotals": "48/37",
+        "cornersTotalsHome": "26/14",
+        "cornersTotalsAway": "22/23",
+        "cornersAverage": "6.00/4.63",
+        "cornersAverageHome": "6.50/3.50",
+        "cornersAverageAway": "5.50/5.75",
+        "foulsTotals": "88/98",
+        "foulsTotalsHome": "47/34",
+        "foulsTotalsAway": "41/64",
+        "foulsAverage": "11.00/12.25",
+        "foulsAverageHome": "11.75/8.50",
+        "foulsAverageAway": "10.25/16.00",
+        "goalKicksTotals": "62/56",
+        "goalKicksTotalsHome": "29/37",
+        "goalKicksTotalsAway": "33/19",
+        "goalKicksAverage": "7.75/7.00",
+        "goalKicksAverageHome": "7.25/9.25",
+        "goalKicksAverageAway": "8.25/4.75",
+        "savesTotals": "20/22",
+        "savesTotalsHome": "10/10",
+        "savesTotalsAway": "10/12",
+        "savesAverage": "2.50/2.75",
+        "savesAverageHome": "2.50/2.50",
+        "savesAverageAway": "2.50/3.00",
+        "offsidesTotals": "14/11",
+        "offsidesTotalsHome": "9/3",
+        "offsidesTotalsAway": "5/8",
+        "offsidesAverage": "1.75/1.38",
+        "offsidesAverageHome": "2.25/0.75",
+        "offsidesAverageAway": "1.25/2.00",
+        "shotsOnTargetTotals": "35/32",
+        "shotsOnTargetTotalsHome": "18/17",
+        "shotsOnTargetTotalsAway": "17/15",
+        "shotsOnTargetAverage": "4.38/4.00",
+        "shotsOnTargetAverageHome": "4.50/4.25",
+        "shotsOnTargetAverageAway": "4.25/3.75",
+        "yellowCardsTotals": "10/17",
+        "yellowCardsTotalsHome": "4/6",
+        "yellowCardsTotalsAway": "6/11",
+        "yellowCardsAverage": "1.25/2.13",
+        "yellowCardsAverageHome": "1.00/1.50",
+        "yellowCardsAverageAway": "1.50/2.75",
+        "goalsTotals": "12/10",
+        "goalsTotalsHome": "8/5",
+        "goalsTotalsAway": "4/5",
+        "goalsAverage": "1.50/1.25",
+        "goalsAverageHome": "2.00/1.25",
+        "goalsAverageAway": "1.00/1.25",
+        "throwInsTotals": "158/153",
+        "throwInsTotalsHome": "71/69",
+        "throwInsTotalsAway": "87/84",
+        "throwInsAverage": "19.75/19.13",
+        "throwInsAverageHome": "17.75/17.25",
+        "throwInsAverageAway": "21.75/21.00",
+        "averageBallPossessionTotals": "369/431",
+        "averageBallPossessionTotalsHome": "187/213",
+        "averageBallPossessionTotalsAway": "182/218",
+        "averageBallPossessionAverage": "46.13/53.88",
+        "averageBallPossessionAverageHome": "46.75/53.25",
+        "averageBallPossessionAverageAway": "45.50/54.50",
+        "tacklesTotals": "170/131",
+        "tacklesTotalsHome": "83/73",
+        "tacklesTotalsAway": "87/58",
+        "tacklesAverage": "21.25/16.38",
+        "tacklesAverageHome": "20.75/18.25",
+        "tacklesAverageAway": "21.75/14.50",
+        "interceptionsTotals": "62/82",
+        "interceptionsTotalsHome": "35/45",
+        "interceptionsTotalsAway": "27/37",
+        "interceptionsAverage": "7.75/10.25",
+        "interceptionsAverageHome": "8.75/11.25",
+        "interceptionsAverageAway": "6.75/9.25",
+        "aerialDuelsTotals": "127/143",
+        "aerialDuelsTotalsHome": "55/71",
+        "aerialDuelsTotalsAway": "72/72",
+        "aerialDuelsAverage": "15.88/17.88",
+        "aerialDuelsAverageHome": "13.75/17.75",
+        "aerialDuelsAverageAway": "18.00/18.00",
+        "aerialDuelsAttemptedTotals": "270/270",
+        "aerialDuelsAttemptedTotalsHome": "126/126",
+        "aerialDuelsAttemptedTotalsAway": "144/144",
+        "aerialDuelsAttemptedAverage": "33.75/33.75",
+        "aerialDuelsAttemptedAverageHome": "31.50/31.50",
+        "aerialDuelsAttemptedAverageAway": "36.00/36.00",
+        "dribblesTotals": "56/60",
+        "dribblesTotalsHome": "35/28",
+        "dribblesTotalsAway": "21/32",
+        "dribblesAverage": "7.00/7.50",
+        "dribblesAverageHome": "8.75/7.00",
+        "dribblesAverageAway": "5.25/8.00",
+        "dribblesAttemptedTotals": "124/150",
+        "dribblesAttemptedTotalsHome": "75/75",
+        "dribblesAttemptedTotalsAway": "49/75",
+        "dribblesAttemptedAverage": "15.50/18.75",
+        "dribblesAttemptedAverageHome": "18.75/18.75",
+        "dribblesAttemptedAverageAway": "12.25/18.75"
+    }
+}

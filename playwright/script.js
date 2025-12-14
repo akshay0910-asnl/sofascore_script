@@ -27,7 +27,9 @@ const CONFIG = {
 		ftIndicator: 'div[title="FT"]',
 		liveScoreDiv: 'div[title*="live score"]',
 		scoreBox: '.score-box',
-		jsonLdScript: 'script[type="application/ld+json"]'
+		jsonLdScript: 'script[type="application/ld+json"]',
+		teamImg: `img`
+
 	},
 	timeouts: {
 		pageLoad: 50000,
@@ -428,6 +430,18 @@ async function extractMatchScore(linkElement, index, teamId) {
 			console.error(`⚠ Error extracting teams from match ${index}:`, err.message);
 		}
 
+		let teamIds = [];
+		const images = await linkElement.$$(CONFIG.selectors.teamImg).catch(() => null);
+		try{
+			for (const imgElement of images) {
+				const src = await imgElement.getAttribute('src');
+				const teamIdNow = src.split('/').find(segment => parseInt(segment));
+				teamIds.push(teamIdNow);
+			}			
+		}catch(err){
+			console.error(`⚠ Error extracting team IDs from match ${index}:`, err.message);
+		}
+
 		// Extract scores
 		let scores = [];
 		try {
@@ -453,7 +467,7 @@ async function extractMatchScore(linkElement, index, teamId) {
 
 		// Count home and away matches based on team position
 		//const teamIndex = teams.indexOf(result.teamName);
-		const teamIndex = teams.findIndex(team => (cache[teamId].teamName.includes(team) || team.includes(cache[teamId].teamName))); //teams.indexOf(cache[teamId].teamName);
+		const teamIndex = teamIds.findIndex(teamId1 => (teamId1 == cache[teamId].teamId)); //teams.indexOf(cache[teamId].teamName);
 		let isHome;
 		if (teamIndex === 0) {
 			//result.homeMatchCount += 1;
@@ -468,7 +482,7 @@ async function extractMatchScore(linkElement, index, teamId) {
 		console.log(`⚽ Match ${index}: ${teams.join(' vs ')} - Score: ${scores.join('-')}`);
 
 		//ßresult = { ...result, matchLinks: [...result.matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, isHome }] }
-		cache = { ...cache, [teamId]: { ...cache[teamId], matchLinks: [...cache[teamId].matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, isHome }] } }
+		cache = { ...cache, [teamId]: { ...cache[teamId], matchLinks: [...cache[teamId].matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, teamIds, isHome }] } }
 
 	} catch (err) {
 		console.error(`✗ Error extracting match score:`, err.message);

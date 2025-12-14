@@ -8,7 +8,9 @@ async function processBatches(teamIds) {
     }
 }
 
-processBatches(['3036', '3009']);
+processBatches(['17','14']);
+
+//processBatches(['7', '17', '14', '33', '41', '39', '37', '40', '50', '34']);
 
 function getElementsBetween(temp1, temp2) {
 
