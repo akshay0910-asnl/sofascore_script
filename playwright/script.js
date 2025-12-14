@@ -11,6 +11,7 @@ try {
 
 const fs = require('fs');
 const path = require('path');
+const { writeFile } = require('fs/promises');
 
 // ============================================================================
 // CONFIGURATION
@@ -43,7 +44,9 @@ const CONFIG = {
 // RESULT OBJECT
 // ============================================================================
 
-const result = {
+let cache = {};
+
+let result = {
 	globalStatistics: null,
 	teamSlug: null,
 	teamId: null,
@@ -77,31 +80,31 @@ function transformStatistics(data) {
 		tackles: `${(stats.tackles / m).toFixed(2)}/${(stats.tacklesAgainst / m).toFixed(2)}`,
 		interceptions: `${(stats.interceptions / m).toFixed(2)}/${(stats.interceptionsAgainst / m).toFixed(2)}`,
 		aerialDuels: (stats.aerialDuelsWon / m).toFixed(2),
-		aerialDuelsTotal: (stats.totalAerialDuels / m).toFixed(2),
+		aerialDuelsAttempted: (stats.totalAerialDuels / m).toFixed(2),
 		dribbles: `${(stats.successfulDribbles / m).toFixed(2)}/${(stats.dribbleAttemptsWonAgainst / m).toFixed(2)}`,
-		dribblesTotal: `${(stats.dribbleAttempts / m).toFixed(2)}/${(stats.dribbleAttemptsTotalAgainst / m).toFixed(2)}`
+		dribblesAttempted: `${(stats.dribbleAttempts / m).toFixed(2)}/${(stats.dribbleAttemptsTotalAgainst / m).toFixed(2)}`
 	};
 }
 
 function transformMatchStatistics(data, matchData) {
 	const matchStats = {
-		corners: 0,
-		fouls: 0,
-		goalKicks: 0,
-		saves: 0,
-		offsides: 0,
-		shotsOnTarget: 0,
-		yellowCards: 0,
-		goals: `${matchData.goals[0]}/${matchData.goals[1]}`,
-		throwIns: 0,
-		averageBallPossession: 0,
+		corners: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		fouls: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		goalKicks: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		saves: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		offsides: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		shotsOnTarget: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		yellowCards: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		goals: matchData.isHome ? `${matchData.goals[0]}/${matchData.goals[1]}[H]` : `${matchData.goals[1]}/${matchData.goals[0]}[A]`,
+		throwIns: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		averageBallPossession: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
 		teams: matchData.isHome ? [matchData.teams[0], matchData.teams[1], 'Home'].join(",") : [matchData.teams[1], matchData.teams[0], 'Away'].join(","),
-		tackles: 0,
-		interceptions: 0,
-		aerialDuels: 0,
-		aerialDuelsTotal: 0,
-		dribbles: 0,
-		dribblesTotal: 0
+		tackles: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		interceptions: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		aerialDuels: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		aerialDuelsAttempted: `0${matchData.isHome ? '[H]' : '[A]'}`,
+		dribbles: `0/0${matchData.isHome ? '[H]' : '[A]'}`,
+		dribblesAttempted: `0/0${matchData.isHome ? '[H]' : '[A]'}`
 	}
 
 
@@ -159,12 +162,12 @@ function transformMatchStatistics(data, matchData) {
 				}
 				case `Aerial duels`: {
 					matchStats.aerialDuels = matchData.isHome ? `${homeValue || 0}/${awayValue || 0}[H]` : `${awayValue || 0}/${homeValue || 0}[A]`
-					matchStats.aerialDuelsTotal = matchData.isHome ? `${homeTotal || 0}/${awayTotal || 0}` : `${awayTotal || 0}/${homeTotal || 0}`
+					matchStats.aerialDuelsAttempted = matchData.isHome ? `${homeTotal || 0}/${awayTotal || 0}[H]` : `${awayTotal || 0}/${homeTotal || 0}[A]`
 					break;
 				}
 				case 'Dribbles': {
 					matchStats.dribbles = matchData.isHome ? `${homeValue || 0}/${awayValue || 0}[H]` : `${awayValue || 0}/${homeValue || 0}[A]`
-					matchStats.dribblesTotal = matchData.isHome ? `${homeTotal || 0}/${awayTotal || 0}` : `${awayTotal || 0}/${homeTotal || 0}`
+					matchStats.dribblesAttempted = matchData.isHome ? `${homeTotal || 0}/${awayTotal || 0}[H]` : `${awayTotal || 0}/${homeTotal || 0}[A]`
 					break;
 				}
 				default: {
@@ -177,8 +180,8 @@ function transformMatchStatistics(data, matchData) {
 	return { ...matchStats, isHome: matchData.isHome };
 }
 
-function parseCombinedStatistics() {
-	const intermediate = result.matchStatistics.reduce((acc, curr) => {
+function parseCombinedStatistics(teamId) {
+	const intermediate = cache[teamId].matchStatistics.reduce((acc, curr) => {
 		for (const key of Object.keys(curr)) {
 			const value = curr[key];
 			if (acc[key]) {
@@ -215,7 +218,7 @@ function parseCombinedStatistics() {
 				countAway++;
 			}
 		}
-		if (key !== 'teams') {
+		if (key !== 'teams' && key !== 'isHome') {
 			acc[`${key}Totals`] = `${numeratorCount}/${denominatorCount}`;
 			acc[`${key}TotalsHome`] = `${numeratorCountHome}/${denominatorCountHome}`;
 			acc[`${key}TotalsAway`] = `${numeratorCountAway}/${denominatorCountAway}`;
@@ -227,21 +230,22 @@ function parseCombinedStatistics() {
 
 	}, { ...intermediate });
 
-	result.combinedMatchStatistics = resultModified;
+	//result.combinedMatchStatistics = resultModified;
+	cache[teamId].combinedMatchStatistics = resultModified;
 
-	fs.writeFileSync(`${path.join(__dirname, `..`, `teamsData`, `${result.teamSlug}.json`)}`, JSON.stringify(result), null, 4);
 }
 
 // ============================================================================
 // API INTERCEPTION
 // ============================================================================
 
-const handleStatisticsResponse = async (response) => {
+const handleStatisticsResponse = async (response, teamId) => {
 	const url = response.url();
 	if (url.includes('/api/v1/team/') && url.includes('/statistics/')) {
 		try {
 			const data = await response.json();
-			result.globalStatistics = transformStatistics(data);
+			//result.globalStatistics = transformStatistics(data);
+			cache[teamId].globalStatistics = transformStatistics(data);
 			console.log('✓ Statistics intercepted');
 		} catch (err) {
 			console.error('✗ Failed to parse statistics:', err.message);
@@ -249,7 +253,7 @@ const handleStatisticsResponse = async (response) => {
 	}
 };
 
-const handleMatchStatisticsResponse = async (response, match, index, page) => {
+const handleMatchStatisticsResponse = async (response, match, index, page, teamId) => {
 	const url = response.url(), exit = false;
 	const matchId = extractMatchId(match.href);
 
@@ -257,8 +261,12 @@ const handleMatchStatisticsResponse = async (response, match, index, page) => {
 		try {
 			console.log('On index:', index, 'Match ID:', matchId);
 			const data = await response.json();
-			result.matchStatistics[index] = {
-				...(result.matchStatistics[index] || {}),
+			// result.matchStatistics[index] = {
+			// 	...(result.matchStatistics[index] || {}),
+			// 	...transformMatchStatistics(data, match)
+			// };
+			cache[teamId].matchStatistics[index] = {
+				...(cache[teamId].matchStatistics[index] || {}),
 				...transformMatchStatistics(data, match)
 			};
 			console.log('✓ Match Statistics intercepted');
@@ -271,12 +279,12 @@ const handleMatchStatisticsResponse = async (response, match, index, page) => {
 
 };
 
-async function setupStatisticsInterception(page) {
-	page.on('response', handleStatisticsResponse);
+async function setupStatisticsInterception(page, teamId) {
+	page.on('response', (response) => handleStatisticsResponse(response, teamId));
 }
 
-async function setUpMatchStatisticsInterception(page, match, index) {
-	page.on('response', (response) => handleMatchStatisticsResponse(response, match, index, page));
+async function setUpMatchStatisticsInterception(page, match, index, teamId) {
+	page.on('response', (response) => handleMatchStatisticsResponse(response, match, index, page, teamId));
 }
 
 
@@ -302,9 +310,9 @@ async function clickStatisticsTab(page) {
 	}
 }
 
-async function navigateToMatchPage(page, match, index) {
+async function navigateToMatchPage(page, match, index, teamId) {
 	try {
-		await setUpMatchStatisticsInterception(page, match, index);
+		await setUpMatchStatisticsInterception(page, match, index, teamId);
 		// await page.waitForSelector(CONFIG.selectors.statisticsTab, {
 		// 	state: 'visible',
 		// 	timeout: CONFIG.timeouts.statisticsTab
@@ -321,22 +329,24 @@ async function navigateToMatchPage(page, match, index) {
 // TEAM INFORMATION EXTRACTION
 // ============================================================================
 
-async function extractTeamInfo(page) {
+async function extractTeamInfo(page, teamId) {
 	try {
 		const url = page.url();
 		const match = url.match(/\/football\/team\/([^\/]+)\/(\d+)/);
 
 		if (match) {
-			result.teamSlug = match[1];
-			result.teamId = match[2];
-			console.log(`✓ Team info extracted: ${result.teamSlug} (ID: ${result.teamId})`);
+			//result.teamSlug = match[1];
+			//result.teamId = match[2];
+			cache[teamId].teamSlug = match[1];
+			cache[teamId].teamId = match[2]
+			console.log(`✓ Team info extracted: ${cache[teamId].teamSlug} (ID: ${cache[teamId].teamId})`);
 		}
 	} catch (err) {
 		console.error('✗ Error extracting team info:', err.message);
 	}
 }
 
-async function extractTeamName(page) {
+async function extractTeamName(page, teamId) {
 	try {
 		const scripts = await page.$$eval(CONFIG.selectors.jsonLdScript, elements =>
 			elements.map(el => {
@@ -350,8 +360,9 @@ async function extractTeamName(page) {
 
 		for (const data of scripts) {
 			if (data?.['@type'] === 'BreadcrumbList' && data.itemListElement?.length > 0) {
-				result.teamName = data.itemListElement[data.itemListElement.length - 1].name;
-				console.log(`✓ Team name: ${result.teamName}`);
+				//result.teamName = data.itemListElement[data.itemListElement.length - 1].name;
+				cache[teamId].teamName = data.itemListElement[data.itemListElement.length - 1].name;
+				console.log(`✓ Team name: ${cache[teamId].teamName}`);
 				return;
 			}
 		}
@@ -366,7 +377,7 @@ async function extractTeamName(page) {
 // TOURNAMENT EXTRACTION
 // ============================================================================
 
-async function extractTournament(page) {
+async function extractTournament(page, teamId) {
 	try {
 		await page.waitForSelector(CONFIG.selectors.tournamentCombobox, {
 			state: 'visible',
@@ -374,8 +385,9 @@ async function extractTournament(page) {
 		});
 
 		const button = await page.$(CONFIG.selectors.tournamentCombobox);
-		result.tournament = await button.evaluate(el => el.innerText);
-		console.log(`✓ Tournament: ${result.tournament}`);
+		//result.tournament = await button.evaluate(el => el.innerText);
+		cache[teamId].tournament = await button.evaluate(el => el.innerText);
+		console.log(`✓ Tournament: ${cache[teamId].tournament}`);
 	} catch (err) {
 		console.error('✗ Could not extract tournament:', err.message);
 	}
@@ -385,7 +397,7 @@ async function extractTournament(page) {
 // MATCH DATA EXTRACTION FROM TEAM PAGE
 // ============================================================================
 
-async function extractMatchScore(linkElement, index) {
+async function extractMatchScore(linkElement, index, teamId) {
 	try {
 		const hasFT = await linkElement.$(CONFIG.selectors.ftIndicator).catch(() => null);
 		if (!hasFT) return;
@@ -428,26 +440,36 @@ async function extractMatchScore(linkElement, index) {
 		}
 
 		// Count home and away matches based on team position
-		const teamIndex = teams.indexOf(result.teamName);
-		let isHome = true;
+		//const teamIndex = teams.indexOf(result.teamName);
+		const teamIndex = teams.indexOf(cache[teamId].teamName);
+		let isHome;
 		if (teamIndex === 0) {
-			result.homeMatchCount += 1;
+			//result.homeMatchCount += 1;
+			cache[teamId].homeMatchCount += 1;
+			isHome = true;
 		} else if (teamIndex === 1) {
-			result.awayMatchCount += 1;
+			//result.awayMatchCount += 1;
+			cache[teamId].awayMatchCount += 1;
 			isHome = false;
 		}
 
 		console.log(`⚽ Match ${index}: ${teams.join(' vs ')} - Score: ${scores.join('-')}`);
 
-		result.matchLinks.push({ href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, isHome });
+		//ßresult = { ...result, matchLinks: [...result.matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, isHome }] }
+		cache = { ...cache, [teamId]: { ...cache[teamId], matchLinks: [...cache[teamId].matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, isHome }] } }
+
 	} catch (err) {
 		console.error(`✗ Error extracting match score:`, err.message);
 		return;
 	}
 }
 
-async function extractTournamentMatches(page, index) {
-	if (result.homeMatchCount >= 4 && result.awayMatchCount >= 4) {
+async function extractTournamentMatches(page, index, teamId) {
+	// if (result.homeMatchCount >= 4 && result.awayMatchCount >= 4) {
+	// 	return;
+	// }
+
+	if(cache[teamId].homeMatchCount >= 4 && cache[teamId].awayMatchCount >= 4){
 		return;
 	}
 
@@ -460,12 +482,13 @@ async function extractTournamentMatches(page, index) {
 		).catch(() => null);
 
 		// Skip if not the current tournament
-		if (headerText !== result.tournament) return;
+		//if (headerText !== result.tournament) return;
+		if(headerText !== cache[teamId].tournament) return;
 
 		const linkElements = await page.$$(`${selector} a`);
 
 		for (let i = 0; i < linkElements.length; i++) {
-			await extractMatchScore(linkElements[i], i);
+			await extractMatchScore(linkElements[i], i, teamId);
 		}
 
 		return;
@@ -475,7 +498,7 @@ async function extractTournamentMatches(page, index) {
 	}
 }
 
-async function processAllMatches(page, context) {
+async function processAllMatches(page, context, teamId) {
 	try {
 		await page.waitForSelector(CONFIG.selectors.cardComponent, {
 			state: 'attached',
@@ -486,7 +509,7 @@ async function processAllMatches(page, context) {
 		console.log(`✓ Found ${tournamentElements.length} tournament elements`);
 
 		for (let i = 0; i < tournamentElements.length; i++) {
-			await extractTournamentMatches(page, i);
+			await extractTournamentMatches(page, i, teamId);
 		}
 
 		// Click the second next button after loop completes
@@ -496,11 +519,12 @@ async function processAllMatches(page, context) {
 			console.log('✓ Clicked next button');
 			//await page.waitForTimeout(2000)
 			await new Promise(resolve => setTimeout(resolve, 2000));
-			if (!(result.homeMatchCount >= 4 && result.awayMatchCount >= 4)) {
-				await processAllMatches(page, context);
+			//if (!(result.homeMatchCount >= 4 && result.awayMatchCount >= 4)) {
+			if (!(cache[teamId].homeMatchCount >= 4 && cache[teamId].awayMatchCount >= 4)) {
+				await processAllMatches(page, context, teamId);
 			}
 			else {
-				await openMatchLinks(page, context);
+				await openMatchLinks(page, context, teamId);
 			}
 		}
 	} catch (err) {
@@ -515,25 +539,26 @@ async function processAllMatches(page, context) {
 const extractMatchId = url =>
 	(url.split('#')[1]?.split(',').find(p => p.startsWith('id:')) || '').replace('id:', '') || null;
 
-async function processMatchDetails(page, match, index) {
+async function processMatchDetails(page, match, index, teamId) {
 	// Implement match details processing here
 	console.log('Processing match index:', index);
 	await page.goto(match.href, { waitUntil: 'load', timeout: CONFIG.timeouts.pageLoad });
 	console.log('Navigated to index:', index);
-	await navigateToMatchPage(page, match, index);
+	await navigateToMatchPage(page, match, index, teamId);
 	//await setUpMatchStatisticsInterception(page, match, index);
 
 }
 
-async function openMatchLinks(page, context, batchSize = 1) {
-	console.log(`✓ Processing ${result.matchLinks.length} match links`);
-	for (let i = 0; i < result.matchLinks.length; i++) {
-		const match = result.matchLinks[i];
+async function openMatchLinks(page, context, teamId) {
+	//console.log(`✓ Processing ${result.matchLinks.length} match links`);
+	console.log(`✓ Processing ${cache[teamId].matchLinks.length} match links`);
+	for (let i = 0; i < cache[teamId].matchLinks.length; i++) {
+		const match = cache[teamId].matchLinks[i];
 		const absoluteIndex = i; // global index
 
 		try {
 			const matchPage = await context.newPage();
-			await processMatchDetails(matchPage, match, absoluteIndex);
+			await processMatchDetails(matchPage, match, absoluteIndex, teamId);
 		} catch (err) {
 			console.error(`✗ Error in match index ${absoluteIndex}:`, err.message);
 		}
@@ -544,23 +569,29 @@ async function openMatchLinks(page, context, batchSize = 1) {
 // BROWSER KEEP-ALIVE
 // ============================================================================
 
-async function keepBrowserOpenTillRequired(page) {
-	const timeout = setInterval(async () => {
-		const allCollected = isAllDataCollected();
-		if (allCollected) {
-			console.log('\n✓ All data collected. Closing browser.');
-			page.off('response', handleStatisticsResponse);
-			clearInterval(timeout);
-			await page.context().browser().close();
-			// console.log('✓ Browser closed.');
-			// console.log('\n=== FINAL RESULTS ===');
-			// console.log(JSON.stringify(result, null, 2));
-			await parseCombinedStatistics();
-		} else {
-			console.log('\n⏳ Waiting for all data to be collected...');
-			console.log(JSON.stringify(result, null, 2));
+async function keepBrowserOpenTillRequired(page, teamId) {
+	return new Promise((resolve, reject) => {
+		try {
+			const interval = setInterval(async () => {
+				const allCollected = isAllDataCollected(teamId);
+				if (allCollected) {
+					console.log('\n✓ All data collected. Closing browser.');
+					page.off('response', handleStatisticsResponse);
+					clearInterval(interval);
+					await page.context().browser().close();
+					await parseCombinedStatistics(teamId);
+					await writeStatisticsToFile(teamId);
+					resolve(1);
+				} else {
+					console.log('\n⏳ Waiting for all data to be collected...');
+					console.log(JSON.stringify(result, null, 2));
+				}
+			}, 2000); // 2 seconds
+		} catch (err) {
+			console.error('✗ Error in keep-alive mechanism:', err.message);
+			reject(err);
 		}
-	}, 2000); // 2 seconds
+	})
 }
 
 // ============================================================================
@@ -569,26 +600,27 @@ async function keepBrowserOpenTillRequired(page) {
 
 async function executeWorkflow(page, context, teamId) {
 	try {
+
+		cache[teamId] = { ...result } || {};
+
 		// Setup and navigate
-		await setupStatisticsInterception(page);
+		await setupStatisticsInterception(page, teamId);
 		await navigateToPage(page, `https://www.sofascore.com/football/team/cp/${teamId}#tab:statistics`);
 
 		// Click statistics and extract tournament
 		//await clickStatisticsTab(page);
-		await extractTournament(page);
+		await extractTournament(page, teamId);
 
 		// Extract team info
-		await extractTeamInfo(page);
-		await extractTeamName(page);
+		await extractTeamInfo(page, teamId);
+		await extractTeamName(page, teamId);
 
 		// Extract match data
-		await processAllMatches(page, context);
+		await processAllMatches(page, context, teamId);
 
-		await keepBrowserOpenTillRequired(page);
-
-		// Log results
-		// console.log('\n=== FINAL RESULTS ===');
-		// console.log(JSON.stringify(result, null, 2));
+		// Keep browser open until all data is collected
+		await keepBrowserOpenTillRequired(page, teamId);
+		console.log('✓ Workflow completed successfully');
 	} catch (err) {
 		console.error('✗ Workflow error:', err.message);
 		process.exitCode = 1;
@@ -599,18 +631,37 @@ async function executeWorkflow(page, context, teamId) {
 // HELPER FUNCTIONS
 // ============================================================================
 
-function isAllDataCollected() {
-	if (result?.matchStatistics?.length !== result?.matchLinks?.length) {
+function isAllDataCollected(teamId) {
+	// if (result?.matchStatistics?.length !== result?.matchLinks?.length) {
+	// 	return false
+	// }
+	if (cache[teamId]?.matchStatistics?.length !== cache[teamId]?.matchLinks?.length) {
 		return false
 	}
 
-	for (const matchStat of result?.matchStatistics) {
-		if (!matchStat || Object.keys(matchStat).length === 0) {
-			return false
-		}
+	// const homeMatchesWithDataAvailable = result.matchStatistics.filter(stat => stat && stat.isHome).length;
+	// const awayMatchesWithDataAvailable = result.matchStatistics.filter(stat => stat && !stat.isHome).length;
+	const homeMatchesWithDataAvailable = cache[teamId].matchStatistics.filter(stat => stat && stat.isHome).length;
+	const awayMatchesWithDataAvailable = cache[teamId].matchStatistics.filter(stat => stat && !stat.isHome).length;
+
+	// if (homeMatchesWithDataAvailable < 4 || awayMatchesWithDataAvailable < 4) {
+	// 	return false
+	// }
+	if (homeMatchesWithDataAvailable < 4 || awayMatchesWithDataAvailable < 4) {
+		return false
 	}
 
 	return true
+}
+
+async function writeStatisticsToFile(teamId) {
+	const filePath = path.join(__dirname, '..', 'teamsData', `${cache[teamId].teamSlug}.json`);
+	try {
+		await writeFile(filePath, JSON.stringify(cache[teamId], null, 4));
+		console.log(`✓ Data written to ${filePath}`);
+	} catch (err) {
+		console.error(`✗ Error writing data to file:`, err.message);
+	}
 }
 
 
@@ -637,4 +688,6 @@ async function scrape(teamId) {
 }
 
 module.exports = { scrape };
+
+scrape(7)
 
