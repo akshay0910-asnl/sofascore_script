@@ -618,7 +618,7 @@ function isAllDataCollected() {
 // MAIN ENTRY POINT
 // ============================================================================
 
-async function main(teamId) {
+async function scrape(teamId) {
 	let browser;
 	try {
 		browser = await chromium.launch({ headless: false });
@@ -636,5 +636,5 @@ async function main(teamId) {
 	}
 }
 
-main(7);
+module.exports = { scrape };
 
