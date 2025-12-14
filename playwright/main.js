@@ -2,21 +2,9 @@
 
 const { scrape } = require('./script');
 
-const result = {
-	globalStatistics: null,
-	teamSlug: null,
-	teamId: null,
-	teamName: null,
-	tournament: null,
-	matchLinks: [],
-	homeMatchCount: 0,
-	awayMatchCount: 0,
-	matchStatistics: []
-};
-
-async function processBatches(results) {
-    for (let i = 0; i < results.length; i++) {
-        await scrape(results[i], result);
+async function processBatches(teamIds) {
+    for (let i = 0; i < teamIds.length; i++) {
+        await scrape(teamIds[i]);
     }
 }
 

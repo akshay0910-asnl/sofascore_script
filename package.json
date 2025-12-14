@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "playwright:test": "node playwright/script.js"
+    "playwright:test": "node playwright/main.js"
   },
   "keywords": [],
   "author": "",

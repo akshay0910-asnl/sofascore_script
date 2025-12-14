@@ -47,7 +47,7 @@ const CONFIG = {
 let cache = {};
 
 let result = {
-	globalStatistics: null,
+	globalStatistics: {},
 	teamSlug: null,
 	teamId: null,
 	teamName: null,
@@ -231,7 +231,8 @@ function parseCombinedStatistics(teamId) {
 	}, { ...intermediate });
 
 	//result.combinedMatchStatistics = resultModified;
-	cache[teamId].combinedMatchStatistics = resultModified;
+	cache = { ...cache, [teamId]: { ...cache[teamId], combinedMatchStatistics: { ...resultModified } } };
+	//cache[teamId].combinedMatchStatistics = {...resultModified};
 
 }
 
@@ -265,10 +266,21 @@ const handleMatchStatisticsResponse = async (response, match, index, page, teamI
 			// 	...(result.matchStatistics[index] || {}),
 			// 	...transformMatchStatistics(data, match)
 			// };
+
+			///Commented next three lines to get rid of reference problem
 			cache[teamId].matchStatistics[index] = {
 				...(cache[teamId].matchStatistics[index] || {}),
 				...transformMatchStatistics(data, match)
 			};
+
+			// cache = {
+			// 	...cache, [teamId]: {
+			// 		...cache[teamId], matchStatistics: cache[teamId].matchStatistics.map((x, indexInner) => {
+			// 			return indexInner === index ? { ...(cache[teamId].matchStatistics[indexInner] || {}), ...transformMatchStatistics(data, match) } : x
+			// 		})
+			// 	}
+			// };
+
 			console.log('✓ Match Statistics intercepted');
 			await page.off('response', (response) => handleMatchStatisticsResponse(response, match, index, page)); // Remove listener after capturing
 			await page.close(); // Close the match page after capturing statistics
@@ -441,7 +453,7 @@ async function extractMatchScore(linkElement, index, teamId) {
 
 		// Count home and away matches based on team position
 		//const teamIndex = teams.indexOf(result.teamName);
-		const teamIndex = teams.indexOf(cache[teamId].teamName);
+		const teamIndex = teams.findIndex(team => (cache[teamId].teamName.includes(team) || team.includes(cache[teamId].teamName))); //teams.indexOf(cache[teamId].teamName);
 		let isHome;
 		if (teamIndex === 0) {
 			//result.homeMatchCount += 1;
@@ -469,7 +481,7 @@ async function extractTournamentMatches(page, index, teamId) {
 	// 	return;
 	// }
 
-	if(cache[teamId].homeMatchCount >= 4 && cache[teamId].awayMatchCount >= 4){
+	if (cache[teamId].homeMatchCount >= 4 && cache[teamId].awayMatchCount >= 4) {
 		return;
 	}
 
@@ -483,7 +495,7 @@ async function extractTournamentMatches(page, index, teamId) {
 
 		// Skip if not the current tournament
 		//if (headerText !== result.tournament) return;
-		if(headerText !== cache[teamId].tournament) return;
+		if (headerText !== cache[teamId].tournament) return;
 
 		const linkElements = await page.$$(`${selector} a`);
 
@@ -581,10 +593,22 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 					await page.context().browser().close();
 					await parseCombinedStatistics(teamId);
 					await writeStatisticsToFile(teamId);
+					delete cache[teamId];
+					result = {
+						globalStatistics: {},
+						teamSlug: null,
+						teamId: null,
+						teamName: null,
+						tournament: null,
+						matchLinks: [],
+						homeMatchCount: 0,
+						awayMatchCount: 0,
+						matchStatistics: []
+					};
 					resolve(1);
 				} else {
 					console.log('\n⏳ Waiting for all data to be collected...');
-					console.log(JSON.stringify(result, null, 2));
+					//console.log(JSON.stringify(result, null, 2));
 				}
 			}, 2000); // 2 seconds
 		} catch (err) {
@@ -601,7 +625,7 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 async function executeWorkflow(page, context, teamId) {
 	try {
 
-		cache[teamId] = { ...result } || {};
+		cache = { ...cache, [teamId]: { ...result, matchStatistics: result.matchStatistics.map(x => x), matchLinks: result.matchLinks.map(x => x), globalStatistics: { ...result.globalStatistics } } || {} };
 
 		// Setup and navigate
 		await setupStatisticsInterception(page, teamId);
@@ -689,5 +713,5 @@ async function scrape(teamId) {
 
 module.exports = { scrape };
 
-scrape(7)
+
 
