@@ -1,0 +1,470 @@
+{
+    "globalStatistics": {
+        "corners": "4.79",
+        "fouls": "9.00",
+        "goalKicks": "6.00",
+        "saves": "2.21",
+        "offsides": "2.29",
+        "shotsOnTarget": "3.93/3.86",
+        "yellowCards": "1.43/2.57",
+        "goals": "1.50/1.64",
+        "throwIns": "20.43",
+        "ballPossession": 51.5,
+        "tackles": "14.29/14.00",
+        "interceptions": "8.86/8.50",
+        "aerialDuels": "18.14",
+        "aerialDuelsAttempted": "36.57",
+        "dribbles": "6.00/4.29",
+        "dribblesAttempted": "12.93/11.14"
+    },
+    "teamSlug": "sc-freiburg",
+    "teamId": "2538",
+    "teamName": "SC Freiburg",
+    "tournament": "Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/borussia-dortmund-sc-freiburg/Nabsydb#id:14065177,tab:statistics",
+            "teams": [
+                "Freiburg",
+                "Dortmund"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2538",
+                "2673"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fc-heidenheim-sc-freiburg/NabsKrc#id:14065173,tab:statistics",
+            "teams": [
+                "Heidenheim",
+                "Freiburg"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "5885",
+                "2538"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fsv-mainz-05-sc-freiburg/Nabsgbb#id:14065160,tab:statistics",
+            "teams": [
+                "Freiburg",
+                "Mainz 05"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2538",
+                "2556"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-bayern-munchen-sc-freiburg/Nabsxdb#id:14065148,tab:statistics",
+            "teams": [
+                "Bayern",
+                "Freiburg"
+            ],
+            "goals": [
+                "6",
+                "2"
+            ],
+            "teamIds": [
+                "2672",
+                "2538"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-freiburg-fc-st-pauli/BabsNab#id:14065142,tab:statistics",
+            "teams": [
+                "Freiburg",
+                "St. Pauli"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2538",
+                "2526"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fc-union-berlin-sc-freiburg/NabsXab#id:14065134,tab:statistics",
+            "teams": [
+                "Union Berlin",
+                "Freiburg"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2547",
+                "2538"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bayer-04-leverkusen-sc-freiburg/NabsGdb#id:14065121,tab:statistics",
+            "teams": [
+                "Leverkusen",
+                "Freiburg"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2681",
+                "2538"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eintracht-frankfurt-sc-freiburg/Nabszdb#id:14065111,tab:statistics",
+            "teams": [
+                "Freiburg",
+                "Frankfurt"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2538",
+                "2674"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-freiburg-borussia-mgladbach/CabsNab#id:14065110,tab:statistics",
+            "teams": [
+                "M'gladbach",
+                "Freiburg"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2527",
+                "2538"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 5,
+    "matchStatistics": [
+        {
+            "corners": "6/0[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/5[H]",
+            "offsides": "5/0[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "15/25[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Freiburg,Dortmund,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "11/7[H]",
+            "aerialDuels": "22/11[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "10/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "22/15[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Freiburg,Heidenheim,Away",
+            "tackles": "15/18[A]",
+            "interceptions": "9/13[A]",
+            "aerialDuels": "14/25[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "19/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "0/8[H]",
+            "saves": "1/6[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "10/1[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "26/17[H]",
+            "averageBallPossession": "75/25[H]",
+            "teams": "Freiburg,Mainz 05,Home",
+            "tackles": "17/6[H]",
+            "interceptions": "9/13[H]",
+            "aerialDuels": "22/7[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "7/9[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "2/0[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "2/6[A]",
+            "throwIns": "16/15[A]",
+            "averageBallPossession": "28/72[A]",
+            "teams": "Freiburg,Bayern,Away",
+            "tackles": "15/15[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "6/11[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "5/14[A]",
+            "dribblesAttempted": "11/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "8/12[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/23[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Freiburg,St. Pauli,Home",
+            "tackles": "8/12[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "25/15[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "1/4[H]",
+            "dribblesAttempted": "7/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "13/20[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "1/6[A]",
+            "goals": "0/0[A]",
+            "throwIns": "14/15[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Freiburg,Union Berlin,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "2/6[A]",
+            "aerialDuels": "17/33[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "8/9[A]",
+            "goalKicks": "12/3[A]",
+            "saves": "2/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "10/16[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Freiburg,Leverkusen,Away",
+            "tackles": "22/11[A]",
+            "interceptions": "5/2[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "14/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/1[H]",
+            "fouls": "6/15[H]",
+            "goalKicks": "2/8[H]",
+            "saves": "1/3[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "26/26[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Freiburg,Frankfurt,Home",
+            "tackles": "16/25[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "12/17[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "9/1[H]",
+            "dribblesAttempted": "23/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/4[A]",
+            "fouls": "7/15[A]",
+            "goalKicks": "5/12[A]",
+            "saves": "5/1[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "27/11[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Freiburg,M'gladbach,Away",
+            "tackles": "17/21[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "15/24[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "19/14[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "6/0[H]+6/8[A]+6/2[H]+5/3[A]+9/3[H]+5/5[A]+3/2[A]+3/1[H]+1/4[A]",
+        "fouls": "11/10[H]+10/11[A]+9/12[H]+7/9[A]+8/12[H]+13/20[A]+8/9[A]+6/15[H]+7/15[A]",
+        "goalKicks": "5/8[H]+8/9[A]+0/8[H]+9/5[A]+4/6[H]+9/9[A]+12/3[A]+2/8[H]+5/12[A]",
+        "saves": "3/5[H]+1/1[A]+1/6[H]+2/0[A]+1/2[H]+2/4[A]+2/3[A]+1/3[H]+5/1[A]",
+        "offsides": "5/0[H]+1/1[A]+4/0[H]+3/1[A]+2/4[H]+1/4[A]+0/1[A]+4/0[H]+3/0[A]",
+        "shotsOnTarget": "6/4[H]+2/3[A]+10/1[H]+2/8[A]+4/2[H]+4/2[A]+3/4[A]+5/3[H]+1/5[A]",
+        "yellowCards": "3/2[H]+1/2[A]+0/2[H]+0/1[A]+2/2[H]+1/6[A]+2/1[A]+2/3[H]+1/3[A]",
+        "goals": "1/1[H]+1/2[A]+4/0[H]+2/6[A]+2/1[H]+0/0[A]+0/2[A]+2/2[H]+0/0[A]",
+        "throwIns": "15/25[H]+22/15[A]+26/17[H]+16/15[A]+17/23[H]+14/15[A]+10/16[A]+26/26[H]+27/11[A]",
+        "averageBallPossession": "57/43[H]+61/39[A]+75/25[H]+28/72[A]+60/40[H]+63/37[A]+31/69[A]+51/49[H]+47/53[A]",
+        "teams": "Freiburg,Dortmund,Home+Freiburg,Heidenheim,Away+Freiburg,Mainz 05,Home+Freiburg,Bayern,Away+Freiburg,St. Pauli,Home+Freiburg,Union Berlin,Away+Freiburg,Leverkusen,Away+Freiburg,Frankfurt,Home+Freiburg,M'gladbach,Away",
+        "tackles": "15/14[H]+15/18[A]+17/6[H]+15/15[A]+8/12[H]+12/15[A]+22/11[A]+16/25[H]+17/21[A]",
+        "interceptions": "11/7[H]+9/13[A]+9/13[H]+9/10[A]+9/10[H]+2/6[A]+5/2[A]+12/9[H]+6/8[A]",
+        "aerialDuels": "22/11[H]+14/25[A]+22/7[H]+6/11[A]+25/15[H]+17/33[A]+13/13[A]+12/17[H]+15/24[A]",
+        "aerialDuelsAttempted": "33/33[H]+39/39[A]+29/29[H]+17/17[A]+40/40[H]+50/50[A]+26/26[A]+29/29[H]+39/39[A]",
+        "dribbles": "5/5[H]+7/6[A]+6/5[H]+5/14[A]+1/4[H]+6/3[A]+6/3[A]+9/1[H]+8/2[A]",
+        "dribblesAttempted": "10/12[H]+19/11[A]+8/11[H]+11/23[A]+7/6[H]+11/8[A]+14/16[A]+23/10[H]+19/14[A]",
+        "isHome": "true+false+true+false+true+false+false+true+false",
+        "cornersTotals": "44/28",
+        "cornersTotalsHome": "24/6",
+        "cornersTotalsAway": "20/22",
+        "cornersAverage": "4.89/3.11",
+        "cornersAverageHome": "6.00/1.50",
+        "cornersAverageAway": "4.00/4.40",
+        "foulsTotals": "79/113",
+        "foulsTotalsHome": "34/49",
+        "foulsTotalsAway": "45/64",
+        "foulsAverage": "8.78/12.56",
+        "foulsAverageHome": "8.50/12.25",
+        "foulsAverageAway": "9.00/12.80",
+        "goalKicksTotals": "54/68",
+        "goalKicksTotalsHome": "11/30",
+        "goalKicksTotalsAway": "43/38",
+        "goalKicksAverage": "6.00/7.56",
+        "goalKicksAverageHome": "2.75/7.50",
+        "goalKicksAverageAway": "8.60/7.60",
+        "savesTotals": "18/25",
+        "savesTotalsHome": "6/16",
+        "savesTotalsAway": "12/9",
+        "savesAverage": "2.00/2.78",
+        "savesAverageHome": "1.50/4.00",
+        "savesAverageAway": "2.40/1.80",
+        "offsidesTotals": "23/11",
+        "offsidesTotalsHome": "15/4",
+        "offsidesTotalsAway": "8/7",
+        "offsidesAverage": "2.56/1.22",
+        "offsidesAverageHome": "3.75/1.00",
+        "offsidesAverageAway": "1.60/1.40",
+        "shotsOnTargetTotals": "37/32",
+        "shotsOnTargetTotalsHome": "25/10",
+        "shotsOnTargetTotalsAway": "12/22",
+        "shotsOnTargetAverage": "4.11/3.56",
+        "shotsOnTargetAverageHome": "6.25/2.50",
+        "shotsOnTargetAverageAway": "2.40/4.40",
+        "yellowCardsTotals": "12/22",
+        "yellowCardsTotalsHome": "7/9",
+        "yellowCardsTotalsAway": "5/13",
+        "yellowCardsAverage": "1.33/2.44",
+        "yellowCardsAverageHome": "1.75/2.25",
+        "yellowCardsAverageAway": "1.00/2.60",
+        "goalsTotals": "12/14",
+        "goalsTotalsHome": "9/4",
+        "goalsTotalsAway": "3/10",
+        "goalsAverage": "1.33/1.56",
+        "goalsAverageHome": "2.25/1.00",
+        "goalsAverageAway": "0.60/2.00",
+        "throwInsTotals": "173/163",
+        "throwInsTotalsHome": "84/91",
+        "throwInsTotalsAway": "89/72",
+        "throwInsAverage": "19.22/18.11",
+        "throwInsAverageHome": "21.00/22.75",
+        "throwInsAverageAway": "17.80/14.40",
+        "averageBallPossessionTotals": "473/427",
+        "averageBallPossessionTotalsHome": "243/157",
+        "averageBallPossessionTotalsAway": "230/270",
+        "averageBallPossessionAverage": "52.56/47.44",
+        "averageBallPossessionAverageHome": "60.75/39.25",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "137/137",
+        "tacklesTotalsHome": "56/57",
+        "tacklesTotalsAway": "81/80",
+        "tacklesAverage": "15.22/15.22",
+        "tacklesAverageHome": "14.00/14.25",
+        "tacklesAverageAway": "16.20/16.00",
+        "interceptionsTotals": "72/78",
+        "interceptionsTotalsHome": "41/39",
+        "interceptionsTotalsAway": "31/39",
+        "interceptionsAverage": "8.00/8.67",
+        "interceptionsAverageHome": "10.25/9.75",
+        "interceptionsAverageAway": "6.20/7.80",
+        "aerialDuelsTotals": "146/156",
+        "aerialDuelsTotalsHome": "81/50",
+        "aerialDuelsTotalsAway": "65/106",
+        "aerialDuelsAverage": "16.22/17.33",
+        "aerialDuelsAverageHome": "20.25/12.50",
+        "aerialDuelsAverageAway": "13.00/21.20",
+        "aerialDuelsAttemptedTotals": "302/302",
+        "aerialDuelsAttemptedTotalsHome": "131/131",
+        "aerialDuelsAttemptedTotalsAway": "171/171",
+        "aerialDuelsAttemptedAverage": "33.56/33.56",
+        "aerialDuelsAttemptedAverageHome": "32.75/32.75",
+        "aerialDuelsAttemptedAverageAway": "34.20/34.20",
+        "dribblesTotals": "53/43",
+        "dribblesTotalsHome": "21/15",
+        "dribblesTotalsAway": "32/28",
+        "dribblesAverage": "5.89/4.78",
+        "dribblesAverageHome": "5.25/3.75",
+        "dribblesAverageAway": "6.40/5.60",
+        "dribblesAttemptedTotals": "122/111",
+        "dribblesAttemptedTotalsHome": "48/39",
+        "dribblesAttemptedTotalsAway": "74/72",
+        "dribblesAttemptedAverage": "13.56/12.33",
+        "dribblesAttemptedAverageHome": "12.00/9.75",
+        "dribblesAttemptedAverageAway": "14.80/14.40"
+    }
+}

@@ -1,0 +1,434 @@
+{
+    "globalStatistics": {
+        "corners": "6.06",
+        "fouls": "10.06",
+        "goalKicks": "4.81",
+        "saves": "1.63",
+        "offsides": "1.50",
+        "shotsOnTarget": "5.13/2.25",
+        "yellowCards": "1.25/1.56",
+        "goals": "1.88/0.63",
+        "throwIns": "18.00",
+        "ballPossession": 59.4375,
+        "tackles": "15.69/15.44",
+        "interceptions": "6.81/7.50",
+        "aerialDuels": "16.38",
+        "aerialDuelsAttempted": "31.94",
+        "dribbles": "7.38/5.44",
+        "dribblesAttempted": "15.31/12.19"
+    },
+    "teamSlug": "arsenal",
+    "teamId": "42",
+    "teamName": "Arsenal",
+    "tournament": "Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-wolverhampton/dsR#id:14025183,tab:statistics",
+            "teams": [
+                "Arsenal",
+                "Wolves"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "42",
+                "3"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-aston-villa/PR#id:14025156,tab:statistics",
+            "teams": [
+                "Aston Villa",
+                "Arsenal"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "40",
+                "42"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brentford-arsenal/Rsab#id:14025126,tab:statistics",
+            "teams": [
+                "Arsenal",
+                "Brentford"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "42",
+                "50"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-chelsea/NR#id:14025099,tab:statistics",
+            "teams": [
+                "Chelsea",
+                "Arsenal"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "38",
+                "42"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-tottenham-hotspur/IsR#id:14025066,tab:statistics",
+            "teams": [
+                "Arsenal",
+                "Tottenham"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "42",
+                "33"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-sunderland/QR#id:14025054,tab:statistics",
+            "teams": [
+                "Sunderland",
+                "Arsenal"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "41",
+                "42"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-burnley/gsR#id:14025275,tab:statistics",
+            "teams": [
+                "Burnley",
+                "Arsenal"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "6",
+                "42"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/arsenal-crystal-palace/hsR#id:14025255,tab:statistics",
+            "teams": [
+                "Arsenal",
+                "Crystal Palace"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "42",
+                "7"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/0[H]",
+            "fouls": "7/15[H]",
+            "goalKicks": "1/18[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "20/12[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "Arsenal,Wolves,Home",
+            "tackles": "5/8[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "21/15[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "15/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "6/11[A]",
+            "saves": "4/7[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "9/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Arsenal,Aston Villa,Away",
+            "tackles": "20/15[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "12/7[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "6/10[A]",
+            "dribblesAttempted": "13/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/8[H]",
+            "fouls": "7/9[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "1/5[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "17/14[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Arsenal,Brentford,Home",
+            "tackles": "26/19[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "16/20[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "16/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "3/3[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "6/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "15/14[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Arsenal,Chelsea,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "12/29[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "11/15[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "1/4[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "8/2[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "4/1[H]",
+            "throwIns": "18/22[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Arsenal,Tottenham,Home",
+            "tackles": "23/21[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "15/14[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "17/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "3/6[A]",
+            "saves": "0/5[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "21/17[A]",
+            "averageBallPossession": "65/35[A]",
+            "teams": "Arsenal,Sunderland,Away",
+            "tackles": "12/16[A]",
+            "interceptions": "3/6[A]",
+            "aerialDuels": "31/21[A]",
+            "aerialDuelsAttempted": "52/52[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "17/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "2/9[A]",
+            "saves": "0/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "8/0[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/19[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Arsenal,Burnley,Away",
+            "tackles": "16/14[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "16/18[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "11/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "6/11[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "17/19[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Arsenal,Crystal Palace,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "6/12[H]",
+            "aerialDuels": "21/16[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "11/6[H]",
+            "isHome": true
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "8/0[H]+3/3[A]+4/8[H]+3/3[A]+4/1[H]+2/2[A]+6/1[A]+4/3[H]",
+        "fouls": "7/15[H]+8/10[A]+7/9[H]+13/12[A]+11/15[H]+13/13[A]+13/10[A]+6/11[H]",
+        "goalKicks": "1/18[H]+6/11[A]+5/8[H]+7/8[A]+6/8[H]+3/6[A]+2/9[A]+9/6[H]",
+        "saves": "1/2[H]+4/7[A]+1/5[H]+3/3[A]+1/4[H]+0/5[A]+0/5[A]+1/2[H]",
+        "offsides": "1/1[H]+3/0[A]+0/0[H]+3/1[A]+3/1[H]+0/2[A]+1/0[A]+2/1[H]",
+        "shotsOnTarget": "2/2[H]+9/6[A]+7/1[H]+4/4[A]+8/2[H]+7/2[A]+8/0[A]+3/1[H]",
+        "yellowCards": "0/4[H]+2/0[A]+0/1[H]+6/1[A]+1/3[H]+1/2[A]+1/2[A]+0/0[H]",
+        "goals": "2/1[H]+1/2[A]+2/0[H]+1/1[A]+4/1[H]+2/2[A]+2/0[A]+1/0[H]",
+        "throwIns": "20/12[H]+16/17[A]+17/14[H]+15/14[A]+18/22[H]+21/17[A]+21/19[A]+17/19[H]",
+        "averageBallPossession": "69/31[H]+53/47[A]+62/38[H]+62/38[A]+57/43[H]+65/35[A]+54/46[A]+60/40[H]",
+        "teams": "Arsenal,Wolves,Home+Arsenal,Aston Villa,Away+Arsenal,Brentford,Home+Arsenal,Chelsea,Away+Arsenal,Tottenham,Home+Arsenal,Sunderland,Away+Arsenal,Burnley,Away+Arsenal,Crystal Palace,Home",
+        "tackles": "5/8[H]+20/15[A]+26/19[H]+15/13[A]+23/21[H]+12/16[A]+16/14[A]+12/16[H]",
+        "interceptions": "8/5[H]+11/6[A]+6/10[H]+10/6[A]+11/8[H]+3/6[A]+6/7[A]+6/12[H]",
+        "aerialDuels": "21/15[H]+12/7[A]+16/20[H]+12/29[A]+15/14[H]+31/21[A]+16/18[A]+21/16[H]",
+        "aerialDuelsAttempted": "36/36[H]+19/19[A]+36/36[H]+41/41[A]+29/29[H]+52/52[A]+34/34[A]+37/37[H]",
+        "dribbles": "10/4[H]+6/10[A]+7/5[H]+5/5[A]+5/4[H]+8/2[A]+5/6[A]+5/4[H]",
+        "dribblesAttempted": "15/7[H]+13/17[A]+16/18[H]+12/16[A]+17/12[H]+17/7[A]+11/14[A]+11/6[H]",
+        "isHome": "true+false+true+false+true+false+false+true",
+        "cornersTotals": "34/21",
+        "cornersTotalsHome": "20/12",
+        "cornersTotalsAway": "14/9",
+        "cornersAverage": "4.25/2.63",
+        "cornersAverageHome": "5.00/3.00",
+        "cornersAverageAway": "3.50/2.25",
+        "foulsTotals": "78/95",
+        "foulsTotalsHome": "31/50",
+        "foulsTotalsAway": "47/45",
+        "foulsAverage": "9.75/11.88",
+        "foulsAverageHome": "7.75/12.50",
+        "foulsAverageAway": "11.75/11.25",
+        "goalKicksTotals": "39/74",
+        "goalKicksTotalsHome": "21/40",
+        "goalKicksTotalsAway": "18/34",
+        "goalKicksAverage": "4.88/9.25",
+        "goalKicksAverageHome": "5.25/10.00",
+        "goalKicksAverageAway": "4.50/8.50",
+        "savesTotals": "11/33",
+        "savesTotalsHome": "4/13",
+        "savesTotalsAway": "7/20",
+        "savesAverage": "1.38/4.13",
+        "savesAverageHome": "1.00/3.25",
+        "savesAverageAway": "1.75/5.00",
+        "offsidesTotals": "13/6",
+        "offsidesTotalsHome": "6/3",
+        "offsidesTotalsAway": "7/3",
+        "offsidesAverage": "1.63/0.75",
+        "offsidesAverageHome": "1.50/0.75",
+        "offsidesAverageAway": "1.75/0.75",
+        "shotsOnTargetTotals": "48/18",
+        "shotsOnTargetTotalsHome": "20/6",
+        "shotsOnTargetTotalsAway": "28/12",
+        "shotsOnTargetAverage": "6.00/2.25",
+        "shotsOnTargetAverageHome": "5.00/1.50",
+        "shotsOnTargetAverageAway": "7.00/3.00",
+        "yellowCardsTotals": "11/13",
+        "yellowCardsTotalsHome": "1/8",
+        "yellowCardsTotalsAway": "10/5",
+        "yellowCardsAverage": "1.38/1.63",
+        "yellowCardsAverageHome": "0.25/2.00",
+        "yellowCardsAverageAway": "2.50/1.25",
+        "goalsTotals": "15/7",
+        "goalsTotalsHome": "9/2",
+        "goalsTotalsAway": "6/5",
+        "goalsAverage": "1.88/0.88",
+        "goalsAverageHome": "2.25/0.50",
+        "goalsAverageAway": "1.50/1.25",
+        "throwInsTotals": "145/134",
+        "throwInsTotalsHome": "72/67",
+        "throwInsTotalsAway": "73/67",
+        "throwInsAverage": "18.13/16.75",
+        "throwInsAverageHome": "18.00/16.75",
+        "throwInsAverageAway": "18.25/16.75",
+        "averageBallPossessionTotals": "482/318",
+        "averageBallPossessionTotalsHome": "248/152",
+        "averageBallPossessionTotalsAway": "234/166",
+        "averageBallPossessionAverage": "60.25/39.75",
+        "averageBallPossessionAverageHome": "62.00/38.00",
+        "averageBallPossessionAverageAway": "58.50/41.50",
+        "tacklesTotals": "129/122",
+        "tacklesTotalsHome": "66/64",
+        "tacklesTotalsAway": "63/58",
+        "tacklesAverage": "16.13/15.25",
+        "tacklesAverageHome": "16.50/16.00",
+        "tacklesAverageAway": "15.75/14.50",
+        "interceptionsTotals": "61/60",
+        "interceptionsTotalsHome": "31/35",
+        "interceptionsTotalsAway": "30/25",
+        "interceptionsAverage": "7.63/7.50",
+        "interceptionsAverageHome": "7.75/8.75",
+        "interceptionsAverageAway": "7.50/6.25",
+        "aerialDuelsTotals": "144/140",
+        "aerialDuelsTotalsHome": "73/65",
+        "aerialDuelsTotalsAway": "71/75",
+        "aerialDuelsAverage": "18.00/17.50",
+        "aerialDuelsAverageHome": "18.25/16.25",
+        "aerialDuelsAverageAway": "17.75/18.75",
+        "aerialDuelsAttemptedTotals": "284/284",
+        "aerialDuelsAttemptedTotalsHome": "138/138",
+        "aerialDuelsAttemptedTotalsAway": "146/146",
+        "aerialDuelsAttemptedAverage": "35.50/35.50",
+        "aerialDuelsAttemptedAverageHome": "34.50/34.50",
+        "aerialDuelsAttemptedAverageAway": "36.50/36.50",
+        "dribblesTotals": "51/40",
+        "dribblesTotalsHome": "27/17",
+        "dribblesTotalsAway": "24/23",
+        "dribblesAverage": "6.38/5.00",
+        "dribblesAverageHome": "6.75/4.25",
+        "dribblesAverageAway": "6.00/5.75",
+        "dribblesAttemptedTotals": "112/97",
+        "dribblesAttemptedTotalsHome": "59/43",
+        "dribblesAttemptedTotalsAway": "53/54",
+        "dribblesAttemptedAverage": "14.00/12.13",
+        "dribblesAttemptedAverageHome": "14.75/10.75",
+        "dribblesAttemptedAverageAway": "13.25/13.50"
+    }
+}

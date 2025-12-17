@@ -1,0 +1,434 @@
+{
+    "globalStatistics": {
+        "corners": "4.29",
+        "fouls": "12.86",
+        "goalKicks": "8.93",
+        "saves": "2.71",
+        "offsides": "2.57",
+        "shotsOnTarget": "3.93/4.71",
+        "yellowCards": "2.93/1.93",
+        "goals": "1.21/2.00",
+        "throwIns": "18.64",
+        "ballPossession": 45.214285714286,
+        "tackles": "15.64/16.21",
+        "interceptions": "9.43/10.57",
+        "aerialDuels": "16.14",
+        "aerialDuelsAttempted": "33.50",
+        "dribbles": "6.64/6.86",
+        "dribblesAttempted": "14.36/14.86"
+    },
+    "teamSlug": "fc-augsburg",
+    "teamId": "2600",
+    "teamName": "FC Augsburg",
+    "tournament": "Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/eintracht-frankfurt-fc-augsburg/acbszdb#id:14065176,tab:statistics",
+            "teams": [
+                "Frankfurt",
+                "Augsburg"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2674",
+                "2600"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bayer-04-leverkusen-fc-augsburg/acbsGdb#id:14065169,tab:statistics",
+            "teams": [
+                "Augsburg",
+                "Leverkusen"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2600",
+                "2681"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-augsburg-tsg-hoffenheim/ubbsacb#id:14065163,tab:statistics",
+            "teams": [
+                "Hoffenheim",
+                "Augsburg"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2569",
+                "2600"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hamburger-sv-fc-augsburg/acbsBdb#id:14065152,tab:statistics",
+            "teams": [
+                "Augsburg",
+                "HSV"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2600",
+                "2676"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vfb-stuttgart-fc-augsburg/acbsCdb#id:14065141,tab:statistics",
+            "teams": [
+                "Stuttgart",
+                "Augsburg"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2677",
+                "2600"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/borussia-dortmund-fc-augsburg/acbsydb#id:14065133,tab:statistics",
+            "teams": [
+                "Augsburg",
+                "Dortmund"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2600",
+                "2673"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rb-leipzig-fc-augsburg/acbskCo#id:14065127,tab:statistics",
+            "teams": [
+                "Augsburg",
+                "Leipzig"
+            ],
+            "goals": [
+                "0",
+                "6"
+            ],
+            "teamIds": [
+                "2600",
+                "36360"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fc-koln-fc-augsburg/acbswdb#id:14065119,tab:statistics",
+            "teams": [
+                "Köln",
+                "Augsburg"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2671",
+                "2600"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/2[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "3/1[A]",
+            "offsides": "5/3[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "12/17[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Augsburg,Frankfurt,Away",
+            "tackles": "17/16[A]",
+            "interceptions": "2/13[A]",
+            "aerialDuels": "20/11[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "13/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "12/6[H]",
+            "goalKicks": "16/3[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/17[H]",
+            "averageBallPossession": "32/68[H]",
+            "teams": "Augsburg,Leverkusen,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "12/7[H]",
+            "aerialDuels": "9/17[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "6/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "9/17[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "16/14[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Augsburg,Hoffenheim,Away",
+            "tackles": "13/9[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "24/24[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "10/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "5/5[H]",
+            "offsides": "2/7[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "13/24[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Augsburg,HSV,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "9/12[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "18/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "15/25[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Augsburg,Stuttgart,Away",
+            "tackles": "19/14[A]",
+            "interceptions": "14/12[A]",
+            "aerialDuels": "18/22[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "11/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "0/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "28/18[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Augsburg,Dortmund,Home",
+            "tackles": "16/21[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "19/20[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "5/9[H]",
+            "dribblesAttempted": "16/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "9/10[H]",
+            "goalKicks": "3/13[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "2/8[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/6[H]",
+            "throwIns": "22/9[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Augsburg,Leipzig,Home",
+            "tackles": "20/17[H]",
+            "interceptions": "4/9[H]",
+            "aerialDuels": "7/8[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "17/11[H]",
+            "dribblesAttempted": "24/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "17/10[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "1/3[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "19/32[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Augsburg,Köln,Away",
+            "tackles": "15/17[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "19/31[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "16/14[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "6/2[A]+5/7[H]+2/7[A]+4/3[H]+4/4[A]+4/3[H]+2/3[H]+2/5[A]",
+        "fouls": "10/14[A]+12/6[H]+9/17[A]+13/10[H]+10/13[A]+14/16[H]+9/10[H]+17/10[A]",
+        "goalKicks": "7/10[A]+16/3[H]+10/7[A]+7/9[H]+13/6[A]+8/5[H]+3/13[H]+10/4[A]",
+        "saves": "3/1[A]+2/4[H]+1/4[A]+5/5[H]+3/4[A]+0/1[H]+2/2[H]+1/3[A]",
+        "offsides": "5/3[A]+1/1[H]+3/2[A]+2/7[H]+3/3[A]+1/0[H]+2/0[H]+0/6[A]",
+        "shotsOnTarget": "1/4[A]+6/2[H]+4/3[A]+6/6[H]+6/6[A]+1/1[H]+2/8[H]+4/2[A]",
+        "yellowCards": "3/2[A]+4/3[H]+0/1[A]+2/3[H]+3/2[A]+4/1[H]+3/1[H]+2/2[A]",
+        "goals": "0/1[A]+2/0[H]+0/3[A]+1/0[H]+2/3[A]+0/1[H]+0/6[H]+1/1[A]",
+        "throwIns": "12/17[A]+12/17[H]+16/14[A]+13/24[H]+15/25[A]+28/18[H]+22/9[H]+19/32[A]",
+        "averageBallPossession": "49/51[A]+32/68[H]+40/60[A]+48/52[H]+38/62[A]+47/53[H]+50/50[H]+44/56[A]",
+        "teams": "Augsburg,Frankfurt,Away+Augsburg,Leverkusen,Home+Augsburg,Hoffenheim,Away+Augsburg,HSV,Home+Augsburg,Stuttgart,Away+Augsburg,Dortmund,Home+Augsburg,Leipzig,Home+Augsburg,Köln,Away",
+        "tackles": "17/16[A]+15/13[H]+13/9[A]+14/15[H]+19/14[A]+16/21[H]+20/17[H]+15/17[A]",
+        "interceptions": "2/13[A]+12/7[H]+11/12[A]+7/9[H]+14/12[A]+9/11[H]+4/9[H]+11/12[A]",
+        "aerialDuels": "20/11[A]+9/17[H]+24/24[A]+9/12[H]+18/22[A]+19/20[H]+7/8[H]+19/31[A]",
+        "aerialDuelsAttempted": "31/31[A]+26/26[H]+48/48[A]+21/21[H]+40/40[A]+39/39[H]+15/15[H]+50/50[A]",
+        "dribbles": "7/6[A]+3/5[H]+7/5[A]+7/5[H]+7/9[A]+5/9[H]+17/11[H]+6/7[A]",
+        "dribblesAttempted": "13/11[A]+6/15[H]+10/11[A]+18/13[H]+11/20[A]+16/15[H]+24/19[H]+16/14[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "29/34",
+        "cornersTotalsHome": "15/16",
+        "cornersTotalsAway": "14/18",
+        "cornersAverage": "3.63/4.25",
+        "cornersAverageHome": "3.75/4.00",
+        "cornersAverageAway": "3.50/4.50",
+        "foulsTotals": "94/96",
+        "foulsTotalsHome": "48/42",
+        "foulsTotalsAway": "46/54",
+        "foulsAverage": "11.75/12.00",
+        "foulsAverageHome": "12.00/10.50",
+        "foulsAverageAway": "11.50/13.50",
+        "goalKicksTotals": "74/57",
+        "goalKicksTotalsHome": "34/30",
+        "goalKicksTotalsAway": "40/27",
+        "goalKicksAverage": "9.25/7.13",
+        "goalKicksAverageHome": "8.50/7.50",
+        "goalKicksAverageAway": "10.00/6.75",
+        "savesTotals": "17/24",
+        "savesTotalsHome": "9/12",
+        "savesTotalsAway": "8/12",
+        "savesAverage": "2.13/3.00",
+        "savesAverageHome": "2.25/3.00",
+        "savesAverageAway": "2.00/3.00",
+        "offsidesTotals": "17/22",
+        "offsidesTotalsHome": "6/8",
+        "offsidesTotalsAway": "11/14",
+        "offsidesAverage": "2.13/2.75",
+        "offsidesAverageHome": "1.50/2.00",
+        "offsidesAverageAway": "2.75/3.50",
+        "shotsOnTargetTotals": "30/32",
+        "shotsOnTargetTotalsHome": "15/17",
+        "shotsOnTargetTotalsAway": "15/15",
+        "shotsOnTargetAverage": "3.75/4.00",
+        "shotsOnTargetAverageHome": "3.75/4.25",
+        "shotsOnTargetAverageAway": "3.75/3.75",
+        "yellowCardsTotals": "21/15",
+        "yellowCardsTotalsHome": "13/8",
+        "yellowCardsTotalsAway": "8/7",
+        "yellowCardsAverage": "2.63/1.88",
+        "yellowCardsAverageHome": "3.25/2.00",
+        "yellowCardsAverageAway": "2.00/1.75",
+        "goalsTotals": "6/15",
+        "goalsTotalsHome": "3/7",
+        "goalsTotalsAway": "3/8",
+        "goalsAverage": "0.75/1.88",
+        "goalsAverageHome": "0.75/1.75",
+        "goalsAverageAway": "0.75/2.00",
+        "throwInsTotals": "137/156",
+        "throwInsTotalsHome": "75/68",
+        "throwInsTotalsAway": "62/88",
+        "throwInsAverage": "17.13/19.50",
+        "throwInsAverageHome": "18.75/17.00",
+        "throwInsAverageAway": "15.50/22.00",
+        "averageBallPossessionTotals": "348/452",
+        "averageBallPossessionTotalsHome": "177/223",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "43.50/56.50",
+        "averageBallPossessionAverageHome": "44.25/55.75",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "129/122",
+        "tacklesTotalsHome": "65/66",
+        "tacklesTotalsAway": "64/56",
+        "tacklesAverage": "16.13/15.25",
+        "tacklesAverageHome": "16.25/16.50",
+        "tacklesAverageAway": "16.00/14.00",
+        "interceptionsTotals": "70/85",
+        "interceptionsTotalsHome": "32/36",
+        "interceptionsTotalsAway": "38/49",
+        "interceptionsAverage": "8.75/10.63",
+        "interceptionsAverageHome": "8.00/9.00",
+        "interceptionsAverageAway": "9.50/12.25",
+        "aerialDuelsTotals": "125/145",
+        "aerialDuelsTotalsHome": "44/57",
+        "aerialDuelsTotalsAway": "81/88",
+        "aerialDuelsAverage": "15.63/18.13",
+        "aerialDuelsAverageHome": "11.00/14.25",
+        "aerialDuelsAverageAway": "20.25/22.00",
+        "aerialDuelsAttemptedTotals": "270/270",
+        "aerialDuelsAttemptedTotalsHome": "101/101",
+        "aerialDuelsAttemptedTotalsAway": "169/169",
+        "aerialDuelsAttemptedAverage": "33.75/33.75",
+        "aerialDuelsAttemptedAverageHome": "25.25/25.25",
+        "aerialDuelsAttemptedAverageAway": "42.25/42.25",
+        "dribblesTotals": "59/57",
+        "dribblesTotalsHome": "32/30",
+        "dribblesTotalsAway": "27/27",
+        "dribblesAverage": "7.38/7.13",
+        "dribblesAverageHome": "8.00/7.50",
+        "dribblesAverageAway": "6.75/6.75",
+        "dribblesAttemptedTotals": "114/118",
+        "dribblesAttemptedTotalsHome": "64/62",
+        "dribblesAttemptedTotalsAway": "50/56",
+        "dribblesAttemptedAverage": "14.25/14.75",
+        "dribblesAttemptedAverageHome": "16.00/15.50",
+        "dribblesAttemptedAverageAway": "12.50/14.00"
+    }
+}

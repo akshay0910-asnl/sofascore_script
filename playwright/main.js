@@ -4,11 +4,14 @@ const { scrape } = require('./script');
 
 async function processBatches(teamIds) {
     for (let i = 0; i < teamIds.length; i++) {
+        //let batch = teamIds.slice(i, i + 2);
+        //console.log(`Processing batch: ${batch.join(', ')}`);
+        //await Promise.all(batch.map(teamId => scrape(teamId))); 
         await scrape(teamIds[i]);
     }
 }
 
-processBatches(['17','14']);
+processBatches(['2829', '24264', '2836','2818','2526','5885','2672']);   
 
 //processBatches(['7', '17', '14', '33', '41', '39', '37', '40', '50', '34']);
 

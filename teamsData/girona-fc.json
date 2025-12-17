@@ -1,0 +1,722 @@
+{
+    "globalStatistics": {
+        "corners": "3.94",
+        "fouls": "10.38",
+        "goalKicks": "9.38",
+        "saves": "3.75",
+        "offsides": "2.00",
+        "shotsOnTarget": "3.69/5.63",
+        "yellowCards": "2.13/1.38",
+        "goals": "0.94/1.88",
+        "throwIns": "16.75",
+        "ballPossession": 47.0625,
+        "tackles": "13.69/19.06",
+        "interceptions": "8.31/7.25",
+        "aerialDuels": "11.75",
+        "aerialDuelsAttempted": "23.50",
+        "dribbles": "9.00/7.06",
+        "dribblesAttempted": "18.88/12.94"
+    },
+    "teamSlug": "girona-fc",
+    "teamId": "24264",
+    "teamName": "Girona FC",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-real-sociedad/zgbsoKj#id:14083177,tab:statistics",
+            "teams": [
+                "Real Sociedad",
+                "Girona"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2824",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-elche/WgbsoKj#id:14083153,tab:statistics",
+            "teams": [
+                "Elche",
+                "Girona"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2846",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-real-madrid/EgbsoKj#id:14083139,tab:statistics",
+            "teams": [
+                "Girona",
+                "Real Madrid"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24264",
+                "2829"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-real-betis/qgbsoKj#id:14083122,tab:statistics",
+            "teams": [
+                "Real Betis",
+                "Girona"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2816",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-deportivo-alaves/KhbsoKj#id:14083114,tab:statistics",
+            "teams": [
+                "Girona",
+                "Alavés"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "24264",
+                "2885"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-getafe/jhbsoKj#id:14083098,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Girona"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-real-oviedo/bhbsoKj#id:14083708,tab:statistics",
+            "teams": [
+                "Girona",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "24264",
+                "2851"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-barcelona/rgbsoKj#id:14083664,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Girona"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2817",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-valencia/DgbsoKj#id:14083615,tab:statistics",
+            "teams": [
+                "Girona",
+                "Valencia"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "24264",
+                "2828"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-espanyol/ogbsoKj#id:14083595,tab:statistics",
+            "teams": [
+                "Girona",
+                "Espanyol"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "24264",
+                "2814"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-athletic-club/AgbsoKj#id:14083369,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Girona"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2825",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-levante-ud/ZgbsoKj#id:14083285,tab:statistics",
+            "teams": [
+                "Gironax2",
+                "Levante"
+            ],
+            "goals": [
+                "0",
+                "4"
+            ],
+            "teamIds": [
+                "24264",
+                "2849"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-celta-vigo/wgbsoKj#id:14083225,tab:statistics",
+            "teams": [
+                "Celta",
+                "Girona"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2821",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-sevilla/IgbsoKj#id:14083148,tab:statistics",
+            "teams": [
+                "Girona",
+                "Sevilla"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "24264",
+                "2833"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-villarreal/ugbsoKj#id:14083100,tab:statistics",
+            "teams": [
+                "Villarreal",
+                "Girona"
+            ],
+            "goals": [
+                "5",
+                "0"
+            ],
+            "teamIds": [
+                "2819",
+                "24264"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-rayo-vallecano/tgbsoKj#id:14082854,tab:statistics",
+            "teams": [
+                "Girona",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "24264",
+                "2818"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "3/4[A]",
+            "fouls": "5/20[A]",
+            "goalKicks": "4/7[A]",
+            "saves": "3/1[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "15/14[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Girona,Real Sociedad,Away",
+            "tackles": "17/25[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "8/11[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "14/9[A]",
+            "dribblesAttempted": "26/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "13/18[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "24/13[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Girona,Elche,Away",
+            "tackles": "11/24[A]",
+            "interceptions": "3/8[A]",
+            "aerialDuels": "5/4[A]",
+            "aerialDuelsAttempted": "9/9[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "20/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "15/12[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Girona,Real Madrid,Home",
+            "tackles": "15/20[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "10/9[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/8[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "14/3[A]",
+            "saves": "6/3[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/19[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Girona,Real Betis,Away",
+            "tackles": "11/17[A]",
+            "interceptions": "14/11[A]",
+            "aerialDuels": "18/6[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "8/10[A]",
+            "dribblesAttempted": "18/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "9/15[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "5/1[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "15/20[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Girona,Alavés,Home",
+            "tackles": "21/16[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "10/3[H]",
+            "dribblesAttempted": "17/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "15/17[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "14/38[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Girona,Getafe,Away",
+            "tackles": "17/19[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "23/24[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "13/7[A]",
+            "dribblesAttempted": "22/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/4[H]",
+            "fouls": "13/16[H]",
+            "goalKicks": "4/4[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "3/3[H]",
+            "throwIns": "18/11[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Girona,Real Oviedo,Home",
+            "tackles": "12/20[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "16/12[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "14/7[H]",
+            "dribblesAttempted": "23/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/11[A]",
+            "fouls": "7/10[A]",
+            "goalKicks": "20/6[A]",
+            "saves": "7/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/9[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "12/9[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Girona,Barcelona,Away",
+            "tackles": "11/20[A]",
+            "interceptions": "7/5[A]",
+            "aerialDuels": "15/10[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "4/12[A]",
+            "dribblesAttempted": "13/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/7[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "5/2[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/17[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Girona,Valencia,Home",
+            "tackles": "10/10[H]",
+            "interceptions": "10/5[H]",
+            "aerialDuels": "16/12[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/4[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "10/4[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "17/21[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Girona,Espanyol,Home",
+            "tackles": "6/20[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "13/13[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "14/4[H]",
+            "dribblesAttempted": "22/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[A]",
+            "fouls": "15/19[A]",
+            "goalKicks": "13/3[A]",
+            "saves": "4/2[A]",
+            "offsides": "5/0[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/22[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Girona,Athletic Club,Away",
+            "tackles": "10/18[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "7/18[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "21/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "11/17[H]",
+            "goalKicks": "4/5[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "1/7[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "0/4[H]",
+            "throwIns": "15/16[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Gironax2,Levante,Home",
+            "tackles": "16/15[H]",
+            "interceptions": "8/1[H]",
+            "aerialDuels": "2/8[H]",
+            "aerialDuelsAttempted": "10/10[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/10[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "16/4[A]",
+            "saves": "6/7[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "8/7[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/19[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Girona,Celta,Away",
+            "tackles": "16/15[A]",
+            "interceptions": "17/8[A]",
+            "aerialDuels": "9/12[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "10/4[A]",
+            "dribblesAttempted": "18/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/3[H]",
+            "fouls": "5/14[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "2/5[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "23/13[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Girona,Sevilla,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "2/3[H]",
+            "aerialDuels": "14/8[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "11/4[H]",
+            "dribblesAttempted": "22/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/5[A]",
+            "throwIns": "15/15[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Girona,Villarreal,Away",
+            "tackles": "18/22[A]",
+            "interceptions": "6/5[A]",
+            "aerialDuels": "3/11[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "8/13[A]",
+            "dribblesAttempted": "20/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "8/17[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "25/19[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Girona,Rayo Vallecano,Home",
+            "tackles": "13/27[H]",
+            "interceptions": "3/8[H]",
+            "aerialDuels": "15/16[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "3/4[A]+2/2[A]+2/5[H]+0/8[A]+6/1[H]+3/8[A]+11/4[H]+5/11[A]+0/7[H]+8/4[H]+1/8[A]+5/4[H]+3/10[A]+11/3[H]+1/8[A]+2/4[H]",
+        "fouls": "5/20[A]+13/18[A]+9/13[H]+16/10[A]+9/15[H]+15/17[A]+13/16[H]+7/10[A]+13/12[H]+9/11[H]+15/19[A]+11/17[H]+9/7[A]+5/14[H]+9/8[A]+8/17[H]",
+        "goalKicks": "4/7[A]+6/4[A]+11/7[H]+14/3[A]+6/8[H]+8/5[A]+4/4[H]+20/6[A]+8/4[H]+10/4[H]+13/3[A]+4/5[H]+16/4[A]+6/7[H]+10/6[A]+10/7[H]",
+        "saves": "3/1[A]+3/4[A]+4/3[H]+6/3[A]+5/1[H]+2/3[A]+2/3[H]+7/3[A]+5/2[H]+5/3[H]+4/2[A]+2/1[H]+6/7[A]+2/5[H]+2/2[A]+2/1[H]",
+        "offsides": "4/2[A]+1/2[A]+1/2[H]+4/1[A]+1/3[H]+0/3[A]+2/2[H]+2/1[A]+5/1[H]+1/1[H]+5/0[A]+0/1[H]+3/0[A]+2/0[H]+0/3[A]+1/1[H]",
+        "shotsOnTarget": "3/4[A]+4/6[A]+4/4[H]+4/7[A]+2/5[H]+4/4[A]+6/5[H]+4/9[A]+4/6[H]+3/5[H]+3/5[A]+1/7[H]+8/7[A]+5/4[H]+2/7[A]+2/5[H]",
+        "yellowCards": "2/1[A]+3/0[A]+3/0[H]+4/3[A]+0/3[H]+2/1[A]+4/3[H]+2/2[A]+5/1[H]+0/1[H]+2/0[A]+4/3[H]+3/0[A]+0/2[H]+2/1[A]+0/1[H]",
+        "goals": "2/1[A]+0/3[A]+1/1[H]+1/1[A]+1/0[H]+1/2[A]+3/3[H]+1/2[A]+2/1[H]+0/0[H]+1/1[A]+0/4[H]+1/1[A]+0/2[H]+0/5[A]+1/3[H]",
+        "throwIns": "15/14[A]+24/13[A]+15/12[H]+14/19[A]+15/20[H]+14/38[A]+18/11[H]+12/9[A]+15/17[H]+17/21[H]+17/22[A]+15/16[H]+14/19[A]+23/13[H]+15/15[A]+25/19[H]",
+        "averageBallPossession": "53/47[A]+42/58[A]+40/60[H]+46/54[A]+52/48[H]+60/40[A]+65/35[H]+32/68[A]+45/55[H]+60/40[H]+33/67[A]+35/65[H]+40/60[A]+59/41[H]+47/53[A]+44/56[H]",
+        "teams": "Girona,Real Sociedad,Away+Girona,Elche,Away+Girona,Real Madrid,Home+Girona,Real Betis,Away+Girona,Alavés,Home+Girona,Getafe,Away+Girona,Real Oviedo,Home+Girona,Barcelona,Away+Girona,Valencia,Home+Girona,Espanyol,Home+Girona,Athletic Club,Away+Gironax2,Levante,Home+Girona,Celta,Away+Girona,Sevilla,Home+Girona,Villarreal,Away+Girona,Rayo Vallecano,Home",
+        "tackles": "17/25[A]+11/24[A]+15/20[H]+11/17[A]+21/16[H]+17/19[A]+12/20[H]+11/20[A]+10/10[H]+6/20[H]+10/18[A]+16/15[H]+16/15[A]+15/17[H]+18/22[A]+13/27[H]",
+        "interceptions": "10/13[A]+3/8[A]+10/8[H]+14/11[A]+11/6[H]+9/9[A]+4/5[H]+7/5[A]+10/5[H]+8/11[H]+11/10[A]+8/1[H]+17/8[A]+2/3[H]+6/5[A]+3/8[H]",
+        "aerialDuels": "8/11[A]+5/4[A]+10/9[H]+18/6[A]+14/14[H]+23/24[A]+16/12[H]+15/10[A]+16/12[H]+13/13[H]+7/18[A]+2/8[H]+9/12[A]+14/8[H]+3/11[A]+15/16[H]",
+        "aerialDuelsAttempted": "19/19[A]+9/9[A]+19/19[H]+24/24[A]+28/28[H]+47/47[A]+28/28[H]+25/25[A]+28/28[H]+26/26[H]+25/25[A]+10/10[H]+21/21[A]+22/22[H]+14/14[A]+31/31[H]",
+        "dribbles": "14/9[A]+7/4[A]+3/7[H]+8/10[A]+10/3[H]+13/7[A]+14/7[H]+4/12[A]+5/7[H]+14/4[H]+9/8[A]+5/7[H]+10/4[A]+11/4[H]+8/13[A]+9/7[H]",
+        "dribblesAttempted": "26/16[A]+20/6[A]+17/13[H]+18/15[A]+17/12[H]+22/16[A]+23/13[H]+13/19[A]+10/10[H]+22/7[H]+21/13[A]+13/15[H]+18/9[A]+22/9[H]+20/22[A]+20/12[H]",
+        "isHome": "false+false+true+false+true+false+true+false+true+true+false+true+false+true+false+true",
+        "cornersTotals": "63/91",
+        "cornersTotalsHome": "45/32",
+        "cornersTotalsAway": "18/59",
+        "cornersAverage": "3.94/5.69",
+        "cornersAverageHome": "5.63/4.00",
+        "cornersAverageAway": "2.25/7.38",
+        "foulsTotals": "166/224",
+        "foulsTotalsHome": "77/115",
+        "foulsTotalsAway": "89/109",
+        "foulsAverage": "10.38/14.00",
+        "foulsAverageHome": "9.63/14.38",
+        "foulsAverageAway": "11.13/13.63",
+        "goalKicksTotals": "150/84",
+        "goalKicksTotalsHome": "59/46",
+        "goalKicksTotalsAway": "91/38",
+        "goalKicksAverage": "9.38/5.25",
+        "goalKicksAverageHome": "7.38/5.75",
+        "goalKicksAverageAway": "11.38/4.75",
+        "savesTotals": "60/44",
+        "savesTotalsHome": "27/19",
+        "savesTotalsAway": "33/25",
+        "savesAverage": "3.75/2.75",
+        "savesAverageHome": "3.38/2.38",
+        "savesAverageAway": "4.13/3.13",
+        "offsidesTotals": "32/23",
+        "offsidesTotalsHome": "13/11",
+        "offsidesTotalsAway": "19/12",
+        "offsidesAverage": "2.00/1.44",
+        "offsidesAverageHome": "1.63/1.38",
+        "offsidesAverageAway": "2.38/1.50",
+        "shotsOnTargetTotals": "59/90",
+        "shotsOnTargetTotalsHome": "27/41",
+        "shotsOnTargetTotalsAway": "32/49",
+        "shotsOnTargetAverage": "3.69/5.63",
+        "shotsOnTargetAverageHome": "3.38/5.13",
+        "shotsOnTargetAverageAway": "4.00/6.13",
+        "yellowCardsTotals": "36/22",
+        "yellowCardsTotalsHome": "16/14",
+        "yellowCardsTotalsAway": "20/8",
+        "yellowCardsAverage": "2.25/1.38",
+        "yellowCardsAverageHome": "2.00/1.75",
+        "yellowCardsAverageAway": "2.50/1.00",
+        "goalsTotals": "15/30",
+        "goalsTotalsHome": "8/14",
+        "goalsTotalsAway": "7/16",
+        "goalsAverage": "0.94/1.88",
+        "goalsAverageHome": "1.00/1.75",
+        "goalsAverageAway": "0.88/2.00",
+        "throwInsTotals": "268/278",
+        "throwInsTotalsHome": "143/129",
+        "throwInsTotalsAway": "125/149",
+        "throwInsAverage": "16.75/17.38",
+        "throwInsAverageHome": "17.88/16.13",
+        "throwInsAverageAway": "15.63/18.63",
+        "averageBallPossessionTotals": "753/847",
+        "averageBallPossessionTotalsHome": "400/400",
+        "averageBallPossessionTotalsAway": "353/447",
+        "averageBallPossessionAverage": "47.06/52.94",
+        "averageBallPossessionAverageHome": "50.00/50.00",
+        "averageBallPossessionAverageAway": "44.13/55.88",
+        "tacklesTotals": "219/305",
+        "tacklesTotalsHome": "108/145",
+        "tacklesTotalsAway": "111/160",
+        "tacklesAverage": "13.69/19.06",
+        "tacklesAverageHome": "13.50/18.13",
+        "tacklesAverageAway": "13.88/20.00",
+        "interceptionsTotals": "133/116",
+        "interceptionsTotalsHome": "56/47",
+        "interceptionsTotalsAway": "77/69",
+        "interceptionsAverage": "8.31/7.25",
+        "interceptionsAverageHome": "7.00/5.88",
+        "interceptionsAverageAway": "9.63/8.63",
+        "aerialDuelsTotals": "188/188",
+        "aerialDuelsTotalsHome": "100/92",
+        "aerialDuelsTotalsAway": "88/96",
+        "aerialDuelsAverage": "11.75/11.75",
+        "aerialDuelsAverageHome": "12.50/11.50",
+        "aerialDuelsAverageAway": "11.00/12.00",
+        "aerialDuelsAttemptedTotals": "376/376",
+        "aerialDuelsAttemptedTotalsHome": "192/192",
+        "aerialDuelsAttemptedTotalsAway": "184/184",
+        "aerialDuelsAttemptedAverage": "23.50/23.50",
+        "aerialDuelsAttemptedAverageHome": "24.00/24.00",
+        "aerialDuelsAttemptedAverageAway": "23.00/23.00",
+        "dribblesTotals": "144/113",
+        "dribblesTotalsHome": "71/46",
+        "dribblesTotalsAway": "73/67",
+        "dribblesAverage": "9.00/7.06",
+        "dribblesAverageHome": "8.88/5.75",
+        "dribblesAverageAway": "9.13/8.38",
+        "dribblesAttemptedTotals": "302/207",
+        "dribblesAttemptedTotalsHome": "144/91",
+        "dribblesAttemptedTotalsAway": "158/116",
+        "dribblesAttemptedAverage": "18.88/12.94",
+        "dribblesAttemptedAverageHome": "18.00/11.38",
+        "dribblesAttemptedAverageAway": "19.75/14.50"
+    }
+}

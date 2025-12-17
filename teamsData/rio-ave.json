@@ -10,11 +10,11 @@
         "goals": "1.21/1.57",
         "throwIns": "16.07",
         "ballPossession": 45.785714285714,
-        "tackles": "14.64/16.14",
-        "interceptions": "8.57/7.64",
+        "tackles": "14.71/16.14",
+        "interceptions": "8.50/7.64",
         "aerialDuels": "11.57",
         "aerialDuelsAttempted": "22.00",
-        "dribbles": "7.64/7.64",
+        "dribbles": "7.64/7.57",
         "dribblesAttempted": "16.71/14.43"
     },
     "teamSlug": "rio-ave",
@@ -32,6 +32,10 @@
                 "0",
                 "1"
             ],
+            "teamIds": [
+                "3036",
+                "3009"
+            ],
             "isHome": true
         },
         {
@@ -43,6 +47,10 @@
             "goals": [
                 "1",
                 "2"
+            ],
+            "teamIds": [
+                "483088",
+                "3036"
             ],
             "isHome": false
         },
@@ -56,6 +64,10 @@
                 "1",
                 "1"
             ],
+            "teamIds": [
+                "3036",
+                "3011"
+            ],
             "isHome": true
         },
         {
@@ -67,6 +79,10 @@
             "goals": [
                 "1",
                 "1"
+            ],
+            "teamIds": [
+                "190328",
+                "3036"
             ],
             "isHome": false
         },
@@ -80,6 +96,10 @@
                 "0",
                 "4"
             ],
+            "teamIds": [
+                "3036",
+                "4500"
+            ],
             "isHome": true
         },
         {
@@ -91,6 +111,10 @@
             "goals": [
                 "1",
                 "2"
+            ],
+            "teamIds": [
+                "3035",
+                "3036"
             ],
             "isHome": false
         },
@@ -104,6 +128,10 @@
                 "3",
                 "0"
             ],
+            "teamIds": [
+                "3036",
+                "38396"
+            ],
             "isHome": true
         },
         {
@@ -115,6 +143,10 @@
             "goals": [
                 "0",
                 "0"
+            ],
+            "teamIds": [
+                "49531",
+                "3036"
             ],
             "isHome": false
         },
@@ -128,6 +160,10 @@
                 "1",
                 "1"
             ],
+            "teamIds": [
+                "3006",
+                "3036"
+            ],
             "isHome": false
         },
         {
@@ -139,6 +175,10 @@
             "goals": [
                 "0",
                 "3"
+            ],
+            "teamIds": [
+                "3036",
+                "3002"
             ],
             "isHome": true
         },
@@ -152,6 +192,10 @@
                 "3",
                 "1"
             ],
+            "teamIds": [
+                "3014",
+                "3036"
+            ],
             "isHome": false
         },
         {
@@ -163,6 +207,10 @@
             "goals": [
                 "2",
                 "2"
+            ],
+            "teamIds": [
+                "3036",
+                "2999"
             ],
             "isHome": true
         },
@@ -176,6 +224,10 @@
                 "3",
                 "3"
             ],
+            "teamIds": [
+                "25777",
+                "3036"
+            ],
             "isHome": false
         },
         {
@@ -187,6 +239,10 @@
             "goals": [
                 "1",
                 "1"
+            ],
+            "teamIds": [
+                "3036",
+                "3013"
             ],
             "isHome": true
         }
@@ -206,11 +262,11 @@
             "throwIns": "13/19[H]",
             "averageBallPossession": "43/57[H]",
             "teams": "Rio Ave,Vitória,Home",
-            "tackles": "16/16[H]",
-            "interceptions": "8/8[H]",
+            "tackles": "17/16[H]",
+            "interceptions": "7/8[H]",
             "aerialDuels": "9/10[H]",
             "aerialDuelsAttempted": "19/19[H]",
-            "dribbles": "3/9[H]",
+            "dribbles": "3/8[H]",
             "dribblesAttempted": "12/18[H]",
             "isHome": true
         },
@@ -487,11 +543,11 @@
         "throwIns": "13/19[H]+28/15[A]+17/16[H]+20/24[A]+13/19[H]+24/19[A]+14/20[H]+20/15[A]+15/31[A]+17/13[H]+6/21[A]+16/28[H]+11/20[A]+11/20[H]",
         "averageBallPossession": "43/57[H]+65/35[A]+58/42[H]+43/57[A]+41/59[H]+43/57[A]+47/53[H]+42/58[A]+31/69[A]+48/52[H]+46/54[A]+28/72[H]+44/56[A]+62/38[H]",
         "teams": "Rio Ave,Vitória,Home+Rio Ave,AVS,Away+Rio Ave,Santa Clara,Home+Rio Ave,Alverca,Away+Rio Ave,Estoril,Home+Rio Ave,Estrela Amadora,Away+Rio Ave,Tondela,Home+Rio Ave,Famalicão,Away+Rio Ave,Benfica,Away+Rio Ave,Porto,Home+Rio Ave,Moreirense,Away+Rio Ave,Braga,Home+Rio Ave,Arouca,Away+Rio Ave,Nacional,Home",
-        "tackles": "16/16[H]+11/13[A]+10/19[H]+16/15[A]+14/11[H]+16/16[A]+15/16[H]+17/17[A]+24/25[A]+9/10[H]+10/19[A]+12/16[H]+11/18[A]+24/15[H]",
-        "interceptions": "8/8[H]+3/4[A]+10/15[H]+9/7[A]+9/8[H]+9/7[A]+14/5[H]+14/6[A]+9/9[A]+12/10[H]+5/9[A]+8/3[H]+8/5[A]+2/11[H]",
+        "tackles": "17/16[H]+11/13[A]+10/19[H]+16/15[A]+14/11[H]+16/16[A]+15/16[H]+17/17[A]+24/25[A]+9/10[H]+10/19[A]+12/16[H]+11/18[A]+24/15[H]",
+        "interceptions": "7/8[H]+3/4[A]+10/15[H]+9/7[A]+9/8[H]+9/7[A]+14/5[H]+14/6[A]+9/9[A]+12/10[H]+5/9[A]+8/3[H]+8/5[A]+2/11[H]",
         "aerialDuels": "9/10[H]+16/12[A]+8/6[H]+7/6[A]+8/7[H]+8/11[A]+14/7[H]+16/17[A]+17/13[A]+6/11[H]+14/4[A]+12/12[H]+11/14[A]+16/16[H]",
         "aerialDuelsAttempted": "19/19[H]+28/28[A]+14/14[H]+13/13[A]+15/15[H]+19/19[A]+21/21[H]+33/33[A]+30/30[A]+17/17[H]+18/18[A]+24/24[H]+25/25[A]+32/32[H]",
-        "dribbles": "3/9[H]+8/5[A]+9/9[H]+6/9[A]+12/5[H]+4/9[A]+18/14[H]+10/3[A]+9/11[A]+7/9[H]+7/8[A]+5/4[H]+6/2[A]+3/10[H]",
+        "dribbles": "3/8[H]+8/5[A]+9/9[H]+6/9[A]+12/5[H]+4/9[A]+18/14[H]+10/3[A]+9/11[A]+7/9[H]+7/8[A]+5/4[H]+6/2[A]+3/10[H]",
         "dribblesAttempted": "12/18[H]+12/9[A]+19/18[H]+13/17[A]+23/11[H]+9/17[A]+27/21[H]+22/10[A]+26/21[A]+13/16[H]+18/11[A]+12/9[H]+16/8[A]+12/16[H]",
         "isHome": "true+false+true+false+true+false+true+false+false+true+false+true+false+true",
         "cornersTotals": "54/96",
@@ -554,17 +610,17 @@
         "averageBallPossessionAverage": "45.79/54.21",
         "averageBallPossessionAverageHome": "46.71/53.29",
         "averageBallPossessionAverageAway": "44.86/55.14",
-        "tacklesTotals": "205/226",
-        "tacklesTotalsHome": "100/103",
+        "tacklesTotals": "206/226",
+        "tacklesTotalsHome": "101/103",
         "tacklesTotalsAway": "105/123",
-        "tacklesAverage": "14.64/16.14",
-        "tacklesAverageHome": "14.29/14.71",
+        "tacklesAverage": "14.71/16.14",
+        "tacklesAverageHome": "14.43/14.71",
         "tacklesAverageAway": "15.00/17.57",
-        "interceptionsTotals": "120/107",
-        "interceptionsTotalsHome": "63/60",
+        "interceptionsTotals": "119/107",
+        "interceptionsTotalsHome": "62/60",
         "interceptionsTotalsAway": "57/47",
-        "interceptionsAverage": "8.57/7.64",
-        "interceptionsAverageHome": "9.00/8.57",
+        "interceptionsAverage": "8.50/7.64",
+        "interceptionsAverageHome": "8.86/8.57",
         "interceptionsAverageAway": "8.14/6.71",
         "aerialDuelsTotals": "162/146",
         "aerialDuelsTotalsHome": "73/69",
@@ -578,11 +634,11 @@
         "aerialDuelsAttemptedAverage": "22.00/22.00",
         "aerialDuelsAttemptedAverageHome": "20.29/20.29",
         "aerialDuelsAttemptedAverageAway": "23.71/23.71",
-        "dribblesTotals": "107/107",
-        "dribblesTotalsHome": "57/60",
+        "dribblesTotals": "107/106",
+        "dribblesTotalsHome": "57/59",
         "dribblesTotalsAway": "50/47",
-        "dribblesAverage": "7.64/7.64",
-        "dribblesAverageHome": "8.14/8.57",
+        "dribblesAverage": "7.64/7.57",
+        "dribblesAverageHome": "8.14/8.43",
         "dribblesAverageAway": "7.14/6.71",
         "dribblesAttemptedTotals": "234/202",
         "dribblesAttemptedTotalsHome": "118/109",

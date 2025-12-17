@@ -1,0 +1,470 @@
+{
+    "globalStatistics": {
+        "corners": "6.25",
+        "fouls": "13.75",
+        "goalKicks": "8.25",
+        "saves": "2.81",
+        "offsides": "1.88",
+        "shotsOnTarget": "4.31/4.00",
+        "yellowCards": "2.63/1.44",
+        "goals": "0.81/1.00",
+        "throwIns": "20.50",
+        "ballPossession": 54.5,
+        "tackles": "16.44/14.06",
+        "interceptions": "7.81/7.94",
+        "aerialDuels": "8.88",
+        "aerialDuelsAttempted": "21.06",
+        "dribbles": "6.88/9.00",
+        "dribblesAttempted": "13.81/16.81"
+    },
+    "teamSlug": "rayo-vallecano",
+    "teamId": "2818",
+    "teamName": "Rayo Vallecano",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/rayo-vallecano-real-betis/qgbstgb#id:14083173,tab:statistics",
+            "teams": [
+                "Rayo Vallecano",
+                "Real Betis"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2818",
+                "2816"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rayo-vallecano-espanyol/ogbstgb#id:14083154,tab:statistics",
+            "teams": [
+                "Espanyol",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2814",
+                "2818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valencia-rayo-vallecano/tgbsDgb#id:14083141,tab:statistics",
+            "teams": [
+                "Rayo Vallecano",
+                "Valencia"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2818",
+                "2828"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-rayo-vallecano/tgbsbhb#id:14083128,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2851",
+                "2818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-madrid-rayo-vallecano/tgbsEgb#id:14083112,tab:statistics",
+            "teams": [
+                "Rayo Vallecano",
+                "Real Madrid"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2818",
+                "2829"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/villarreal-rayo-vallecano/tgbsugb#id:14083105,tab:statistics",
+            "teams": [
+                "Villarreal",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2819",
+                "2818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-alaves-rayo-vallecano/tgbsKhb#id:14083721,tab:statistics",
+            "teams": [
+                "Rayo Vallecano",
+                "Alavés"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2818",
+                "2885"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-rayo-vallecano/tgbsZgb#id:14083680,tab:statistics",
+            "teams": [
+                "Levante",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2849",
+                "2818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-sociedad-rayo-vallecano/tgbszgb#id:14083650,tab:statistics",
+            "teams": [
+                "Real Sociedad",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2824",
+                "2818"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 5,
+    "matchStatistics": [
+        {
+            "corners": "8/3[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "6/7[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "19/33[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Rayo Vallecano,Real Betis,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "3/11[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "22/19[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "8/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/21[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Rayo Vallecano,Espanyol,Away",
+            "tackles": "7/16[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "18/16[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "9/4[A]",
+            "dribblesAttempted": "13/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/5[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "0/5[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "28/27[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Rayo Vallecano,Valencia,Home",
+            "tackles": "15/10[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "10/11[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/18[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Rayo Vallecano,Real Oviedo,Away",
+            "tackles": "10/19[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "5/8[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "10/7[A]",
+            "dribblesAttempted": "19/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "17/7[H]",
+            "goalKicks": "9/17[H]",
+            "saves": "5/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "23/26[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Rayo Vallecano,Real Madrid,Home",
+            "tackles": "20/10[H]",
+            "interceptions": "3/10[H]",
+            "aerialDuels": "7/13[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "9/18[H]",
+            "dribblesAttempted": "13/29[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/4[A]",
+            "throwIns": "11/16[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Rayo Vallecano,Villarreal,Away",
+            "tackles": "17/10[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "2/3[A]",
+            "aerialDuelsAttempted": "5/5[A]",
+            "dribbles": "9/17[A]",
+            "dribblesAttempted": "16/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "2/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Rayo Vallecano,Alavés,Home",
+            "tackles": "18/27[H]",
+            "interceptions": "8/1[H]",
+            "aerialDuels": "13/15[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "9/9[H]",
+            "dribblesAttempted": "28/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/11[A]",
+            "fouls": "18/6[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "16/26[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Rayo Vallecano,Levante,Away",
+            "tackles": "27/16[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "5/9[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "4/12[A]",
+            "dribblesAttempted": "11/26[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[A]",
+            "fouls": "21/13[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "19/14[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Rayo Vallecano,Real Sociedad,Away",
+            "tackles": "13/11[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "12/19[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "5/13[A]",
+            "dribblesAttempted": "9/21[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "8/3[H]+2/6[A]+10/5[H]+6/5[A]+5/8[H]+5/3[A]+7/5[H]+4/11[A]+5/7[A]",
+        "fouls": "10/7[H]+22/19[A]+11/9[H]+13/11[A]+17/7[H]+11/7[A]+13/11[H]+18/6[A]+21/13[A]",
+        "goalKicks": "9/11[H]+7/4[A]+6/9[H]+5/7[A]+9/17[H]+8/9[A]+11/11[H]+7/5[A]+10/4[A]",
+        "saves": "6/7[H]+1/2[A]+0/5[H]+2/4[A]+5/2[H]+3/3[A]+2/4[H]+4/1[A]+3/1[A]",
+        "offsides": "4/0[H]+1/1[A]+1/0[H]+1/2[A]+1/1[H]+0/1[A]+2/0[H]+0/1[A]+1/0[A]",
+        "shotsOnTarget": "7/6[H]+2/2[A]+7/2[H]+4/3[A]+2/5[H]+3/7[A]+5/2[H]+5/4[A]+2/3[A]",
+        "yellowCards": "4/1[H]+8/4[A]+1/1[H]+2/1[A]+3/2[H]+1/1[A]+1/3[H]+1/0[A]+2/1[A]",
+        "goals": "0/0[H]+0/1[A]+1/1[H]+0/0[A]+0/0[H]+0/4[A]+1/0[H]+3/0[A]+1/0[A]",
+        "throwIns": "19/33[H]+24/21[A]+28/27[H]+24/18[A]+23/26[H]+11/16[A]+22/19[H]+16/26[A]+19/14[A]",
+        "averageBallPossession": "59/41[H]+64/36[A]+56/44[H]+61/39[A]+46/54[H]+53/47[A]+54/46[H]+46/54[A]+49/51[A]",
+        "teams": "Rayo Vallecano,Real Betis,Home+Rayo Vallecano,Espanyol,Away+Rayo Vallecano,Valencia,Home+Rayo Vallecano,Real Oviedo,Away+Rayo Vallecano,Real Madrid,Home+Rayo Vallecano,Villarreal,Away+Rayo Vallecano,Alavés,Home+Rayo Vallecano,Levante,Away+Rayo Vallecano,Real Sociedad,Away",
+        "tackles": "17/12[H]+7/16[A]+15/10[H]+10/19[A]+20/10[H]+17/10[A]+18/27[H]+27/16[A]+13/11[A]",
+        "interceptions": "3/11[H]+6/12[A]+8/5[H]+9/7[A]+3/10[H]+7/10[A]+8/1[H]+9/6[A]+11/8[A]",
+        "aerialDuels": "7/10[H]+18/16[A]+10/11[H]+5/8[A]+7/13[H]+2/3[A]+13/15[H]+5/9[A]+12/19[A]",
+        "aerialDuelsAttempted": "17/17[H]+34/34[A]+21/21[H]+13/13[A]+20/20[H]+5/5[A]+28/28[H]+14/14[A]+31/31[A]",
+        "dribbles": "7/5[H]+9/4[A]+4/5[H]+10/7[A]+9/18[H]+9/17[A]+9/9[H]+4/12[A]+5/13[A]",
+        "dribblesAttempted": "11/12[H]+13/5[A]+9/15[H]+19/13[A]+13/29[H]+16/24[A]+28/14[H]+11/26[A]+9/21[A]",
+        "isHome": "true+false+true+false+true+false+true+false+false",
+        "cornersTotals": "52/53",
+        "cornersTotalsHome": "30/21",
+        "cornersTotalsAway": "22/32",
+        "cornersAverage": "5.78/5.89",
+        "cornersAverageHome": "7.50/5.25",
+        "cornersAverageAway": "4.40/6.40",
+        "foulsTotals": "136/90",
+        "foulsTotalsHome": "51/34",
+        "foulsTotalsAway": "85/56",
+        "foulsAverage": "15.11/10.00",
+        "foulsAverageHome": "12.75/8.50",
+        "foulsAverageAway": "17.00/11.20",
+        "goalKicksTotals": "72/77",
+        "goalKicksTotalsHome": "35/48",
+        "goalKicksTotalsAway": "37/29",
+        "goalKicksAverage": "8.00/8.56",
+        "goalKicksAverageHome": "8.75/12.00",
+        "goalKicksAverageAway": "7.40/5.80",
+        "savesTotals": "26/29",
+        "savesTotalsHome": "13/18",
+        "savesTotalsAway": "13/11",
+        "savesAverage": "2.89/3.22",
+        "savesAverageHome": "3.25/4.50",
+        "savesAverageAway": "2.60/2.20",
+        "offsidesTotals": "11/6",
+        "offsidesTotalsHome": "8/1",
+        "offsidesTotalsAway": "3/5",
+        "offsidesAverage": "1.22/0.67",
+        "offsidesAverageHome": "2.00/0.25",
+        "offsidesAverageAway": "0.60/1.00",
+        "shotsOnTargetTotals": "37/34",
+        "shotsOnTargetTotalsHome": "21/15",
+        "shotsOnTargetTotalsAway": "16/19",
+        "shotsOnTargetAverage": "4.11/3.78",
+        "shotsOnTargetAverageHome": "5.25/3.75",
+        "shotsOnTargetAverageAway": "3.20/3.80",
+        "yellowCardsTotals": "23/14",
+        "yellowCardsTotalsHome": "9/7",
+        "yellowCardsTotalsAway": "14/7",
+        "yellowCardsAverage": "2.56/1.56",
+        "yellowCardsAverageHome": "2.25/1.75",
+        "yellowCardsAverageAway": "2.80/1.40",
+        "goalsTotals": "6/6",
+        "goalsTotalsHome": "2/1",
+        "goalsTotalsAway": "4/5",
+        "goalsAverage": "0.67/0.67",
+        "goalsAverageHome": "0.50/0.25",
+        "goalsAverageAway": "0.80/1.00",
+        "throwInsTotals": "186/200",
+        "throwInsTotalsHome": "92/105",
+        "throwInsTotalsAway": "94/95",
+        "throwInsAverage": "20.67/22.22",
+        "throwInsAverageHome": "23.00/26.25",
+        "throwInsAverageAway": "18.80/19.00",
+        "averageBallPossessionTotals": "488/412",
+        "averageBallPossessionTotalsHome": "215/185",
+        "averageBallPossessionTotalsAway": "273/227",
+        "averageBallPossessionAverage": "54.22/45.78",
+        "averageBallPossessionAverageHome": "53.75/46.25",
+        "averageBallPossessionAverageAway": "54.60/45.40",
+        "tacklesTotals": "144/131",
+        "tacklesTotalsHome": "70/59",
+        "tacklesTotalsAway": "74/72",
+        "tacklesAverage": "16.00/14.56",
+        "tacklesAverageHome": "17.50/14.75",
+        "tacklesAverageAway": "14.80/14.40",
+        "interceptionsTotals": "64/70",
+        "interceptionsTotalsHome": "22/27",
+        "interceptionsTotalsAway": "42/43",
+        "interceptionsAverage": "7.11/7.78",
+        "interceptionsAverageHome": "5.50/6.75",
+        "interceptionsAverageAway": "8.40/8.60",
+        "aerialDuelsTotals": "79/104",
+        "aerialDuelsTotalsHome": "37/49",
+        "aerialDuelsTotalsAway": "42/55",
+        "aerialDuelsAverage": "8.78/11.56",
+        "aerialDuelsAverageHome": "9.25/12.25",
+        "aerialDuelsAverageAway": "8.40/11.00",
+        "aerialDuelsAttemptedTotals": "183/183",
+        "aerialDuelsAttemptedTotalsHome": "86/86",
+        "aerialDuelsAttemptedTotalsAway": "97/97",
+        "aerialDuelsAttemptedAverage": "20.33/20.33",
+        "aerialDuelsAttemptedAverageHome": "21.50/21.50",
+        "aerialDuelsAttemptedAverageAway": "19.40/19.40",
+        "dribblesTotals": "66/90",
+        "dribblesTotalsHome": "29/37",
+        "dribblesTotalsAway": "37/53",
+        "dribblesAverage": "7.33/10.00",
+        "dribblesAverageHome": "7.25/9.25",
+        "dribblesAverageAway": "7.40/10.60",
+        "dribblesAttemptedTotals": "129/159",
+        "dribblesAttemptedTotalsHome": "61/70",
+        "dribblesAttemptedTotalsAway": "68/89",
+        "dribblesAttemptedAverage": "14.33/17.67",
+        "dribblesAttemptedAverageHome": "15.25/17.50",
+        "dribblesAttemptedAverageAway": "13.60/17.80"
+    }
+}

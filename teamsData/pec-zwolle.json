@@ -1,0 +1,434 @@
+{
+    "globalStatistics": {
+        "corners": "2.38",
+        "fouls": "10.88",
+        "goalKicks": "11.06",
+        "saves": "4.56",
+        "offsides": "1.81",
+        "shotsOnTarget": "2.94/6.75",
+        "yellowCards": "2.00/1.69",
+        "goals": "1.25/2.25",
+        "throwIns": "16.13",
+        "ballPossession": 41.1875,
+        "tackles": "15.19/15.50",
+        "interceptions": "10.69/7.69",
+        "aerialDuels": "10.31",
+        "aerialDuelsAttempted": "24.31",
+        "dribbles": "5.25/7.63",
+        "dribblesAttempted": "12.44/15.06"
+    },
+    "teamSlug": "pec-zwolle",
+    "teamId": "2971",
+    "teamName": "PEC Zwolle",
+    "tournament": "VriendenLoterij Eredivisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-fortuna-sittard/hjbswjb#id:14053695,tab:statistics",
+            "teams": [
+                "Zwolle",
+                "Fortuna"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2971",
+                "2957"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-feyenoord/jjbswjb#id:14053664,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "Zwolle"
+            ],
+            "goals": [
+                "6",
+                "1"
+            ],
+            "teamIds": [
+                "2959",
+                "2971"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-sc-heerenveen/ojbswjb#id:14053658,tab:statistics",
+            "teams": [
+                "Zwolle",
+                "Heerenveen"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2971",
+                "2964"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-fc-groningen/bjbswjb#id:14053611,tab:statistics",
+            "teams": [
+                "Groningen",
+                "Zwolle"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2951",
+                "2971"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-sparta-rotterdam/kjbswjb#id:14053591,tab:statistics",
+            "teams": [
+                "Zwolle",
+                "Sparta"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2971",
+                "2960"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heracles-almelo-pec-zwolle/wjbsCjb#id:14053818,tab:statistics",
+            "teams": [
+                "Heracles",
+                "Zwolle"
+            ],
+            "goals": [
+                "8",
+                "2"
+            ],
+            "teamIds": [
+                "2977",
+                "2971"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-nec-nijmegen/mjbswjb#id:14053794,tab:statistics",
+            "teams": [
+                "Zwolle",
+                "NEC"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2971",
+                "2962"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-nac-breda/Xibswjb#id:14053773,tab:statistics",
+            "teams": [
+                "NAC Breda",
+                "Zwolle"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2947",
+                "2971"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/12[H]",
+            "fouls": "17/13[H]",
+            "goalKicks": "12/9[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "20/25[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Zwolle,Fortuna,Home",
+            "tackles": "20/11[H]",
+            "interceptions": "6/5[H]",
+            "aerialDuels": "13/16[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "13/2[H]",
+            "dribblesAttempted": "18/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/8[A]",
+            "fouls": "12/17[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "6/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/12[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/6[A]",
+            "throwIns": "14/7[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Zwolle,Feyenoord,Away",
+            "tackles": "9/17[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "7/13[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "11/19[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "6/2[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/16[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Zwolle,Heerenveen,Home",
+            "tackles": "18/21[H]",
+            "interceptions": "13/11[H]",
+            "aerialDuels": "13/20[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "7/16[H]",
+            "dribblesAttempted": "14/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/13[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "10/2[A]",
+            "saves": "12/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "3/13[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "15/26[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Zwolle,Groningen,Away",
+            "tackles": "21/16[A]",
+            "interceptions": "13/5[A]",
+            "aerialDuels": "7/13[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "2/9[A]",
+            "dribblesAttempted": "13/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "9/15[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "18/28[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Zwolle,Sparta,Home",
+            "tackles": "17/21[H]",
+            "interceptions": "15/7[H]",
+            "aerialDuels": "18/14[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "5/9[H]",
+            "dribblesAttempted": "15/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "11/16[A]",
+            "goalKicks": "12/4[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/11[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "2/8[A]",
+            "throwIns": "20/16[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Zwolle,Heracles,Away",
+            "tackles": "9/18[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "13/22[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "1/4[A]",
+            "dribblesAttempted": "11/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "1/4[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "22/34[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Zwolle,NEC,Home",
+            "tackles": "17/11[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "15/13[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "3/15[H]",
+            "dribblesAttempted": "6/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "12/15[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Zwolle,NAC Breda,Away",
+            "tackles": "20/18[A]",
+            "interceptions": "5/7[A]",
+            "aerialDuels": "12/24[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "10/19[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "2/12[H]+4/8[A]+3/9[H]+0/13[A]+3/6[H]+2/4[A]+3/4[H]+2/3[A]",
+        "fouls": "17/13[H]+12/17[A]+11/19[H]+9/11[A]+9/15[H]+11/16[A]+11/12[H]+14/11[A]",
+        "goalKicks": "12/9[H]+13/4[A]+9/6[H]+10/2[A]+9/5[H]+12/4[A]+8/5[H]+9/6[A]",
+        "saves": "4/2[H]+6/3[A]+6/2[H]+12/1[A]+1/1[H]+3/2[A]+1/4[H]+4/1[A]",
+        "offsides": "1/1[H]+2/0[A]+4/0[H]+2/0[A]+2/1[H]+0/0[A]+3/2[H]+0/1[A]",
+        "shotsOnTarget": "3/3[H]+4/12[A]+4/7[H]+3/13[A]+3/1[H]+4/11[A]+6/3[H]+3/6[A]",
+        "yellowCards": "3/3[H]+1/1[A]+3/2[H]+3/1[A]+2/4[H]+3/0[A]+0/1[H]+3/1[A]",
+        "goals": "1/0[H]+1/6[A]+2/1[H]+2/2[A]+1/0[H]+2/8[A]+2/2[H]+2/2[A]",
+        "throwIns": "20/25[H]+14/7[A]+17/16[H]+15/26[A]+18/28[H]+20/16[A]+22/34[H]+12/15[A]",
+        "averageBallPossession": "35/65[H]+43/57[A]+44/56[H]+36/64[A]+36/64[H]+43/57[A]+35/65[H]+53/47[A]",
+        "teams": "Zwolle,Fortuna,Home+Zwolle,Feyenoord,Away+Zwolle,Heerenveen,Home+Zwolle,Groningen,Away+Zwolle,Sparta,Home+Zwolle,Heracles,Away+Zwolle,NEC,Home+Zwolle,NAC Breda,Away",
+        "tackles": "20/11[H]+9/17[A]+18/21[H]+21/16[A]+17/21[H]+9/18[A]+17/11[H]+20/18[A]",
+        "interceptions": "6/5[H]+6/6[A]+13/11[H]+13/5[A]+15/7[H]+7/10[A]+12/9[H]+5/7[A]",
+        "aerialDuels": "13/16[H]+7/13[A]+13/20[H]+7/13[A]+18/14[H]+13/22[A]+15/13[H]+12/24[A]",
+        "aerialDuelsAttempted": "29/29[H]+20/20[A]+33/33[H]+20/20[A]+32/32[H]+35/35[A]+28/28[H]+36/36[A]",
+        "dribbles": "13/2[H]+4/7[A]+7/16[H]+2/9[A]+5/9[H]+1/4[A]+3/15[H]+3/8[A]",
+        "dribblesAttempted": "18/8[H]+11/11[A]+14/23[H]+13/22[A]+15/21[H]+11/9[A]+6/24[H]+10/19[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "19/59",
+        "cornersTotalsHome": "11/31",
+        "cornersTotalsAway": "8/28",
+        "cornersAverage": "2.38/7.38",
+        "cornersAverageHome": "2.75/7.75",
+        "cornersAverageAway": "2.00/7.00",
+        "foulsTotals": "94/114",
+        "foulsTotalsHome": "48/59",
+        "foulsTotalsAway": "46/55",
+        "foulsAverage": "11.75/14.25",
+        "foulsAverageHome": "12.00/14.75",
+        "foulsAverageAway": "11.50/13.75",
+        "goalKicksTotals": "82/41",
+        "goalKicksTotalsHome": "38/25",
+        "goalKicksTotalsAway": "44/16",
+        "goalKicksAverage": "10.25/5.13",
+        "goalKicksAverageHome": "9.50/6.25",
+        "goalKicksAverageAway": "11.00/4.00",
+        "savesTotals": "37/16",
+        "savesTotalsHome": "12/9",
+        "savesTotalsAway": "25/7",
+        "savesAverage": "4.63/2.00",
+        "savesAverageHome": "3.00/2.25",
+        "savesAverageAway": "6.25/1.75",
+        "offsidesTotals": "14/5",
+        "offsidesTotalsHome": "10/4",
+        "offsidesTotalsAway": "4/1",
+        "offsidesAverage": "1.75/0.63",
+        "offsidesAverageHome": "2.50/1.00",
+        "offsidesAverageAway": "1.00/0.25",
+        "shotsOnTargetTotals": "30/56",
+        "shotsOnTargetTotalsHome": "16/14",
+        "shotsOnTargetTotalsAway": "14/42",
+        "shotsOnTargetAverage": "3.75/7.00",
+        "shotsOnTargetAverageHome": "4.00/3.50",
+        "shotsOnTargetAverageAway": "3.50/10.50",
+        "yellowCardsTotals": "18/13",
+        "yellowCardsTotalsHome": "8/10",
+        "yellowCardsTotalsAway": "10/3",
+        "yellowCardsAverage": "2.25/1.63",
+        "yellowCardsAverageHome": "2.00/2.50",
+        "yellowCardsAverageAway": "2.50/0.75",
+        "goalsTotals": "13/21",
+        "goalsTotalsHome": "6/3",
+        "goalsTotalsAway": "7/18",
+        "goalsAverage": "1.63/2.63",
+        "goalsAverageHome": "1.50/0.75",
+        "goalsAverageAway": "1.75/4.50",
+        "throwInsTotals": "138/167",
+        "throwInsTotalsHome": "77/103",
+        "throwInsTotalsAway": "61/64",
+        "throwInsAverage": "17.25/20.88",
+        "throwInsAverageHome": "19.25/25.75",
+        "throwInsAverageAway": "15.25/16.00",
+        "averageBallPossessionTotals": "325/475",
+        "averageBallPossessionTotalsHome": "150/250",
+        "averageBallPossessionTotalsAway": "175/225",
+        "averageBallPossessionAverage": "40.63/59.38",
+        "averageBallPossessionAverageHome": "37.50/62.50",
+        "averageBallPossessionAverageAway": "43.75/56.25",
+        "tacklesTotals": "131/133",
+        "tacklesTotalsHome": "72/64",
+        "tacklesTotalsAway": "59/69",
+        "tacklesAverage": "16.38/16.63",
+        "tacklesAverageHome": "18.00/16.00",
+        "tacklesAverageAway": "14.75/17.25",
+        "interceptionsTotals": "77/60",
+        "interceptionsTotalsHome": "46/32",
+        "interceptionsTotalsAway": "31/28",
+        "interceptionsAverage": "9.63/7.50",
+        "interceptionsAverageHome": "11.50/8.00",
+        "interceptionsAverageAway": "7.75/7.00",
+        "aerialDuelsTotals": "98/135",
+        "aerialDuelsTotalsHome": "59/63",
+        "aerialDuelsTotalsAway": "39/72",
+        "aerialDuelsAverage": "12.25/16.88",
+        "aerialDuelsAverageHome": "14.75/15.75",
+        "aerialDuelsAverageAway": "9.75/18.00",
+        "aerialDuelsAttemptedTotals": "233/233",
+        "aerialDuelsAttemptedTotalsHome": "122/122",
+        "aerialDuelsAttemptedTotalsAway": "111/111",
+        "aerialDuelsAttemptedAverage": "29.13/29.13",
+        "aerialDuelsAttemptedAverageHome": "30.50/30.50",
+        "aerialDuelsAttemptedAverageAway": "27.75/27.75",
+        "dribblesTotals": "38/70",
+        "dribblesTotalsHome": "28/42",
+        "dribblesTotalsAway": "10/28",
+        "dribblesAverage": "4.75/8.75",
+        "dribblesAverageHome": "7.00/10.50",
+        "dribblesAverageAway": "2.50/7.00",
+        "dribblesAttemptedTotals": "98/137",
+        "dribblesAttemptedTotalsHome": "53/76",
+        "dribblesAttemptedTotalsAway": "45/61",
+        "dribblesAttemptedAverage": "12.25/17.13",
+        "dribblesAttemptedAverageHome": "13.25/19.00",
+        "dribblesAttemptedAverageAway": "11.25/15.25"
+    }
+}

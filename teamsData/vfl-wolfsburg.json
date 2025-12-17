@@ -1,0 +1,434 @@
+{
+    "globalStatistics": {
+        "corners": "3.64",
+        "fouls": "11.07",
+        "goalKicks": "9.64",
+        "saves": "3.21",
+        "offsides": "1.21",
+        "shotsOnTarget": "4.21/4.86",
+        "yellowCards": "1.93/1.71",
+        "goals": "1.43/1.71",
+        "throwIns": "17.07",
+        "ballPossession": 45.142857142857,
+        "tackles": "14.50/13.64",
+        "interceptions": "10.57/7.36",
+        "aerialDuels": "14.21",
+        "aerialDuelsAttempted": "30.79",
+        "dribbles": "3.93/7.21",
+        "dribblesAttempted": "10.29/13.93"
+    },
+    "teamSlug": "vfl-wolfsburg",
+    "teamId": "2524",
+    "teamName": "VfL Wolfsburg",
+    "tournament": "Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/borussia-mgladbach-vfl-wolfsburg/zabsCab#id:14062146,tab:statistics",
+            "teams": [
+                "M'gladbach",
+                "Wolfsburg"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2527",
+                "2524"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fc-union-berlin-vfl-wolfsburg/zabsXab#id:14065170,tab:statistics",
+            "teams": [
+                "Wolfsburg",
+                "Union Berlin"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2524",
+                "2547"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eintracht-frankfurt-vfl-wolfsburg/zabszdb#id:14065157,tab:statistics",
+            "teams": [
+                "Frankfurt",
+                "Wolfsburg"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2674",
+                "2524"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bayer-04-leverkusen-vfl-wolfsburg/zabsGdb#id:14065150,tab:statistics",
+            "teams": [
+                "Wolfsburg",
+                "Leverkusen"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2524",
+                "2681"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sv-werder-bremen-vfl-wolfsburg/zabsJab#id:14065138,tab:statistics",
+            "teams": [
+                "Bremen",
+                "Wolfsburg"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2534",
+                "2524"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/tsg-hoffenheim-vfl-wolfsburg/zabsubb#id:14065131,tab:statistics",
+            "teams": [
+                "Wolfsburg",
+                "Hoffenheim"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "2524",
+                "2569"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hamburger-sv-vfl-wolfsburg/zabsBdb#id:14065129,tab:statistics",
+            "teams": [
+                "HSV",
+                "Wolfsburg"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2676",
+                "2524"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vfb-stuttgart-vfl-wolfsburg/zabsCdb#id:14065115,tab:statistics",
+            "teams": [
+                "Wolfsburg",
+                "Stuttgart"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2524",
+                "2677"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "8/6[A]",
+            "goalKicks": "7/2[A]",
+            "saves": "4/3[A]",
+            "offsides": "4/4[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "3/1[A]",
+            "throwIns": "13/34[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Wolfsburg,M'gladbach,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "10/29[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "19/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/11[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "12/2[H]",
+            "saves": "5/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "18/29[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Wolfsburg,Union Berlin,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "19/29[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "8/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/14[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "1/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "22/28[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Wolfsburg,Frankfurt,Away",
+            "tackles": "16/17[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "21/16[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "10/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/1[H]",
+            "fouls": "12/7[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "0/9[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "10/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Wolfsburg,Leverkusen,Home",
+            "tackles": "15/11[H]",
+            "interceptions": "7/4[H]",
+            "aerialDuels": "5/8[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "6/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/13[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "12/1[A]",
+            "saves": "5/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "14/25[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Wolfsburg,Bremen,Away",
+            "tackles": "7/15[A]",
+            "interceptions": "14/8[A]",
+            "aerialDuels": "10/15[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "7/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "10/17[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "1/4[H]",
+            "offsides": "3/4[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "23/20[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Wolfsburg,Hoffenheim,Home",
+            "tackles": "11/18[H]",
+            "interceptions": "13/4[H]",
+            "aerialDuels": "10/19[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "13/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/11[A]",
+            "fouls": "18/8[A]",
+            "goalKicks": "19/6[A]",
+            "saves": "7/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "15/23[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Wolfsburg,HSV,Away",
+            "tackles": "14/13[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "10/18[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/8[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "10/14[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Wolfsburg,Stuttgart,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "12/6[H]",
+            "aerialDuels": "20/15[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "11/14[H]",
+            "isHome": true
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+0/11[H]+1/14[A]+9/1[H]+3/13[A]+2/2[H]+1/11[A]+3/8[H]",
+        "fouls": "8/6[A]+13/10[H]+9/7[A]+12/7[H]+8/13[A]+10/17[H]+18/8[A]+12/8[H]",
+        "goalKicks": "7/2[A]+12/2[H]+11/7[A]+5/12[H]+12/1[A]+7/5[H]+19/6[A]+10/7[H]",
+        "saves": "4/3[A]+5/0[H]+1/2[A]+0/9[H]+5/3[A]+1/4[H]+7/1[A]+4/3[H]",
+        "offsides": "4/4[A]+1/1[H]+3/2[A]+1/0[H]+2/2[A]+3/4[H]+1/2[A]+0/1[H]",
+        "shotsOnTarget": "6/4[A]+3/6[H]+3/3[A]+10/3[H]+4/7[A]+6/4[H]+2/6[A]+3/7[H]",
+        "yellowCards": "1/0[A]+4/1[H]+4/1[A]+2/1[H]+0/2[A]+0/2[H]+5/1[A]+1/1[H]",
+        "goals": "3/1[A]+3/1[H]+1/1[A]+1/3[H]+1/2[A]+2/3[H]+1/0[A]+0/3[H]",
+        "throwIns": "13/34[A]+18/29[H]+22/28[A]+17/17[H]+14/25[A]+23/20[H]+15/23[A]+10/14[H]",
+        "averageBallPossession": "42/58[A]+43/57[H]+46/54[A]+38/62[H]+40/60[A]+48/52[H]+39/61[A]+41/59[H]",
+        "teams": "Wolfsburg,M'gladbach,Away+Wolfsburg,Union Berlin,Home+Wolfsburg,Frankfurt,Away+Wolfsburg,Leverkusen,Home+Wolfsburg,Bremen,Away+Wolfsburg,Hoffenheim,Home+Wolfsburg,HSV,Away+Wolfsburg,Stuttgart,Home",
+        "tackles": "15/16[A]+14/13[H]+16/17[A]+15/11[H]+7/15[A]+11/18[H]+14/13[A]+13/16[H]",
+        "interceptions": "9/8[A]+7/8[H]+11/6[A]+7/4[H]+14/8[A]+13/4[H]+9/6[A]+12/6[H]",
+        "aerialDuels": "10/29[A]+19/29[H]+21/16[A]+5/8[H]+10/15[A]+10/19[H]+10/18[A]+20/15[H]",
+        "aerialDuelsAttempted": "39/39[A]+48/48[H]+37/37[A]+13/13[H]+25/25[A]+29/29[H]+28/28[A]+35/35[H]",
+        "dribbles": "7/9[A]+2/7[H]+2/6[A]+4/7[H]+3/8[A]+6/3[H]+5/9[A]+2/8[H]",
+        "dribblesAttempted": "19/16[A]+8/13[H]+10/12[A]+6/17[H]+7/10[A]+13/5[H]+12/16[A]+11/14[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "22/66",
+        "cornersTotalsHome": "14/22",
+        "cornersTotalsAway": "8/44",
+        "cornersAverage": "2.75/8.25",
+        "cornersAverageHome": "3.50/5.50",
+        "cornersAverageAway": "2.00/11.00",
+        "foulsTotals": "90/76",
+        "foulsTotalsHome": "47/42",
+        "foulsTotalsAway": "43/34",
+        "foulsAverage": "11.25/9.50",
+        "foulsAverageHome": "11.75/10.50",
+        "foulsAverageAway": "10.75/8.50",
+        "goalKicksTotals": "83/42",
+        "goalKicksTotalsHome": "34/26",
+        "goalKicksTotalsAway": "49/16",
+        "goalKicksAverage": "10.38/5.25",
+        "goalKicksAverageHome": "8.50/6.50",
+        "goalKicksAverageAway": "12.25/4.00",
+        "savesTotals": "27/25",
+        "savesTotalsHome": "10/16",
+        "savesTotalsAway": "17/9",
+        "savesAverage": "3.38/3.13",
+        "savesAverageHome": "2.50/4.00",
+        "savesAverageAway": "4.25/2.25",
+        "offsidesTotals": "15/16",
+        "offsidesTotalsHome": "5/6",
+        "offsidesTotalsAway": "10/10",
+        "offsidesAverage": "1.88/2.00",
+        "offsidesAverageHome": "1.25/1.50",
+        "offsidesAverageAway": "2.50/2.50",
+        "shotsOnTargetTotals": "37/40",
+        "shotsOnTargetTotalsHome": "22/20",
+        "shotsOnTargetTotalsAway": "15/20",
+        "shotsOnTargetAverage": "4.63/5.00",
+        "shotsOnTargetAverageHome": "5.50/5.00",
+        "shotsOnTargetAverageAway": "3.75/5.00",
+        "yellowCardsTotals": "17/9",
+        "yellowCardsTotalsHome": "7/5",
+        "yellowCardsTotalsAway": "10/4",
+        "yellowCardsAverage": "2.13/1.13",
+        "yellowCardsAverageHome": "1.75/1.25",
+        "yellowCardsAverageAway": "2.50/1.00",
+        "goalsTotals": "12/14",
+        "goalsTotalsHome": "6/10",
+        "goalsTotalsAway": "6/4",
+        "goalsAverage": "1.50/1.75",
+        "goalsAverageHome": "1.50/2.50",
+        "goalsAverageAway": "1.50/1.00",
+        "throwInsTotals": "132/190",
+        "throwInsTotalsHome": "68/80",
+        "throwInsTotalsAway": "64/110",
+        "throwInsAverage": "16.50/23.75",
+        "throwInsAverageHome": "17.00/20.00",
+        "throwInsAverageAway": "16.00/27.50",
+        "averageBallPossessionTotals": "337/463",
+        "averageBallPossessionTotalsHome": "170/230",
+        "averageBallPossessionTotalsAway": "167/233",
+        "averageBallPossessionAverage": "42.13/57.88",
+        "averageBallPossessionAverageHome": "42.50/57.50",
+        "averageBallPossessionAverageAway": "41.75/58.25",
+        "tacklesTotals": "105/119",
+        "tacklesTotalsHome": "53/58",
+        "tacklesTotalsAway": "52/61",
+        "tacklesAverage": "13.13/14.88",
+        "tacklesAverageHome": "13.25/14.50",
+        "tacklesAverageAway": "13.00/15.25",
+        "interceptionsTotals": "82/50",
+        "interceptionsTotalsHome": "39/22",
+        "interceptionsTotalsAway": "43/28",
+        "interceptionsAverage": "10.25/6.25",
+        "interceptionsAverageHome": "9.75/5.50",
+        "interceptionsAverageAway": "10.75/7.00",
+        "aerialDuelsTotals": "105/149",
+        "aerialDuelsTotalsHome": "54/71",
+        "aerialDuelsTotalsAway": "51/78",
+        "aerialDuelsAverage": "13.13/18.63",
+        "aerialDuelsAverageHome": "13.50/17.75",
+        "aerialDuelsAverageAway": "12.75/19.50",
+        "aerialDuelsAttemptedTotals": "254/254",
+        "aerialDuelsAttemptedTotalsHome": "125/125",
+        "aerialDuelsAttemptedTotalsAway": "129/129",
+        "aerialDuelsAttemptedAverage": "31.75/31.75",
+        "aerialDuelsAttemptedAverageHome": "31.25/31.25",
+        "aerialDuelsAttemptedAverageAway": "32.25/32.25",
+        "dribblesTotals": "31/57",
+        "dribblesTotalsHome": "14/25",
+        "dribblesTotalsAway": "17/32",
+        "dribblesAverage": "3.88/7.13",
+        "dribblesAverageHome": "3.50/6.25",
+        "dribblesAverageAway": "4.25/8.00",
+        "dribblesAttemptedTotals": "86/103",
+        "dribblesAttemptedTotalsHome": "38/49",
+        "dribblesAttemptedTotalsAway": "48/54",
+        "dribblesAttemptedAverage": "10.75/12.88",
+        "dribblesAttemptedAverageHome": "9.50/12.25",
+        "dribblesAttemptedAverageAway": "12.00/13.50"
+    }
+}
