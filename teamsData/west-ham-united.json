@@ -1,0 +1,434 @@
+{
+    "globalStatistics": {
+        "corners": "5.56",
+        "fouls": "10.88",
+        "goalKicks": "9.25",
+        "saves": "3.44",
+        "offsides": "1.63",
+        "shotsOnTarget": "3.63/5.25",
+        "yellowCards": "1.63/1.56",
+        "goals": "1.19/2.00",
+        "throwIns": "18.63",
+        "ballPossession": 42.375,
+        "tackles": "14.38/16.44",
+        "interceptions": "8.31/6.94",
+        "aerialDuels": "15.06",
+        "aerialDuelsAttempted": "32.06",
+        "dribbles": "6.94/6.06",
+        "dribblesAttempted": "15.00/12.63"
+    },
+    "teamSlug": "west-ham-united",
+    "teamId": "37",
+    "teamName": "West Ham United",
+    "tournament": "Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/aston-villa-west-ham-united/MP#id:14025210,tab:statistics",
+            "teams": [
+                "West Ham",
+                "Aston Villa"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "37",
+                "40"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/west-ham-united-brighton-and-hove-albion/FsM#id:14025159,tab:statistics",
+            "teams": [
+                "Brighton",
+                "West Ham"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "30",
+                "37"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/west-ham-united-manchester-united/KM#id:14025150,tab:statistics",
+            "teams": [
+                "Man Utd",
+                "West Ham"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "35",
+                "37"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/liverpool-west-ham-united/MU#id:14025120,tab:statistics",
+            "teams": [
+                "West Ham",
+                "Liverpool"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "37",
+                "44"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bournemouth-west-ham-united/Mkb#id:14025063,tab:statistics",
+            "teams": [
+                "Bournemouth",
+                "West Ham"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "60",
+                "37"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/west-ham-united-burnley/gsM#id:14025060,tab:statistics",
+            "teams": [
+                "West Ham",
+                "Burnley"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "37",
+                "6"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newcastle-united-west-ham-united/MO#id:14025291,tab:statistics",
+            "teams": [
+                "West Ham",
+                "Newcastle"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "37",
+                "39"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/west-ham-united-leeds-united/JsM#id:14025265,tab:statistics",
+            "teams": [
+                "Leeds",
+                "West Ham"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "34",
+                "37"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/3[H]",
+            "fouls": "18/13[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "18/12[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "West Ham,Aston Villa,Home",
+            "tackles": "17/22[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "9/19[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "18/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/10[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "18/12[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "13/16[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "West Ham,Brighton,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "13/9[A]",
+            "aerialDuels": "12/14[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "13/6[A]",
+            "dribblesAttempted": "19/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "3/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "19/28[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "West Ham,Man Utd,Away",
+            "tackles": "15/19[A]",
+            "interceptions": "20/5[A]",
+            "aerialDuels": "25/11[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "11/9[A]",
+            "dribblesAttempted": "18/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "3/0[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "0/5[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "0/2[H]",
+            "throwIns": "14/23[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "West Ham,Liverpool,Home",
+            "tackles": "13/11[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "10/16[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "9/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "10/9[A]",
+            "goalKicks": "19/2[A]",
+            "saves": "10/0[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/10[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "10/27[A]",
+            "averageBallPossession": "24/76[A]",
+            "teams": "West Ham,Bournemouth,Away",
+            "tackles": "13/19[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "13/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "8/3[H]",
+            "saves": "5/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/7[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/2[H]",
+            "throwIns": "15/17[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "West Ham,Burnley,Home",
+            "tackles": "14/16[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "9/21[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "5/10[H]",
+            "goalKicks": "11/5[H]",
+            "saves": "3/7[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "9/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "West Ham,Newcastle,Home",
+            "tackles": "21/8[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "5/11[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "10/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "31/18[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "West Ham,Leeds,Away",
+            "tackles": "13/21[A]",
+            "interceptions": "4/13[A]",
+            "aerialDuels": "26/15[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "17/10[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "5/3[H]+6/10[A]+6/6[A]+7/2[H]+2/9[A]+7/4[H]+7/6[H]+4/3[A]",
+        "fouls": "18/13[H]+8/12[A]+9/13[A]+12/14[H]+10/9[A]+15/13[H]+5/10[H]+11/12[A]",
+        "goalKicks": "5/7[H]+18/12[A]+9/5[A]+6/6[H]+19/2[A]+8/3[H]+11/5[H]+5/8[A]",
+        "saves": "2/1[H]+4/4[A]+3/1[A]+3/0[H]+10/0[A]+5/3[H]+3/7[H]+3/2[A]",
+        "offsides": "1/1[H]+1/1[A]+2/3[A]+2/1[H]+2/2[A]+2/1[H]+4/0[H]+1/1[A]",
+        "shotsOnTarget": "3/4[H]+5/4[A]+3/4[A]+0/5[H]+2/10[A]+6/7[H]+9/4[H]+3/5[A]",
+        "yellowCards": "1/2[H]+2/2[A]+2/2[A]+3/0[H]+2/3[A]+2/2[H]+1/2[H]+3/3[A]",
+        "goals": "2/3[H]+1/1[A]+1/1[A]+0/2[H]+2/2[A]+3/2[H]+3/1[H]+1/2[A]",
+        "throwIns": "18/12[H]+13/16[A]+19/28[A]+14/23[H]+10/27[A]+15/17[H]+17/25[H]+31/18[A]",
+        "averageBallPossession": "41/59[H]+32/68[A]+35/65[A]+44/56[H]+24/76[A]+43/57[H]+37/63[H]+59/41[A]",
+        "teams": "West Ham,Aston Villa,Home+West Ham,Brighton,Away+West Ham,Man Utd,Away+West Ham,Liverpool,Home+West Ham,Bournemouth,Away+West Ham,Burnley,Home+West Ham,Newcastle,Home+West Ham,Leeds,Away",
+        "tackles": "17/22[H]+14/12[A]+15/19[A]+13/11[H]+13/19[A]+14/16[H]+21/8[H]+13/21[A]",
+        "interceptions": "9/6[H]+13/9[A]+20/5[A]+9/4[H]+9/7[A]+13/7[H]+7/9[H]+4/13[A]",
+        "aerialDuels": "9/19[H]+12/14[A]+25/11[A]+10/16[H]+12/9[A]+9/21[H]+5/11[H]+26/15[A]",
+        "aerialDuelsAttempted": "28/28[H]+26/26[A]+36/36[A]+26/26[H]+21/21[A]+30/30[H]+16/16[H]+41/41[A]",
+        "dribbles": "6/10[H]+13/6[A]+11/9[A]+5/6[H]+8/9[A]+6/3[H]+7/7[H]+6/5[A]",
+        "dribblesAttempted": "18/17[H]+19/13[A]+18/14[A]+9/13[H]+13/16[A]+18/10[H]+10/15[H]+17/10[A]",
+        "isHome": "true+false+false+true+false+true+true+false",
+        "cornersTotals": "44/43",
+        "cornersTotalsHome": "26/15",
+        "cornersTotalsAway": "18/28",
+        "cornersAverage": "5.50/5.38",
+        "cornersAverageHome": "6.50/3.75",
+        "cornersAverageAway": "4.50/7.00",
+        "foulsTotals": "88/96",
+        "foulsTotalsHome": "50/50",
+        "foulsTotalsAway": "38/46",
+        "foulsAverage": "11.00/12.00",
+        "foulsAverageHome": "12.50/12.50",
+        "foulsAverageAway": "9.50/11.50",
+        "goalKicksTotals": "81/48",
+        "goalKicksTotalsHome": "30/21",
+        "goalKicksTotalsAway": "51/27",
+        "goalKicksAverage": "10.13/6.00",
+        "goalKicksAverageHome": "7.50/5.25",
+        "goalKicksAverageAway": "12.75/6.75",
+        "savesTotals": "33/18",
+        "savesTotalsHome": "13/11",
+        "savesTotalsAway": "20/7",
+        "savesAverage": "4.13/2.25",
+        "savesAverageHome": "3.25/2.75",
+        "savesAverageAway": "5.00/1.75",
+        "offsidesTotals": "15/10",
+        "offsidesTotalsHome": "9/3",
+        "offsidesTotalsAway": "6/7",
+        "offsidesAverage": "1.88/1.25",
+        "offsidesAverageHome": "2.25/0.75",
+        "offsidesAverageAway": "1.50/1.75",
+        "shotsOnTargetTotals": "31/43",
+        "shotsOnTargetTotalsHome": "18/20",
+        "shotsOnTargetTotalsAway": "13/23",
+        "shotsOnTargetAverage": "3.88/5.38",
+        "shotsOnTargetAverageHome": "4.50/5.00",
+        "shotsOnTargetAverageAway": "3.25/5.75",
+        "yellowCardsTotals": "16/16",
+        "yellowCardsTotalsHome": "7/6",
+        "yellowCardsTotalsAway": "9/10",
+        "yellowCardsAverage": "2.00/2.00",
+        "yellowCardsAverageHome": "1.75/1.50",
+        "yellowCardsAverageAway": "2.25/2.50",
+        "goalsTotals": "13/14",
+        "goalsTotalsHome": "8/8",
+        "goalsTotalsAway": "5/6",
+        "goalsAverage": "1.63/1.75",
+        "goalsAverageHome": "2.00/2.00",
+        "goalsAverageAway": "1.25/1.50",
+        "throwInsTotals": "137/166",
+        "throwInsTotalsHome": "64/77",
+        "throwInsTotalsAway": "73/89",
+        "throwInsAverage": "17.13/20.75",
+        "throwInsAverageHome": "16.00/19.25",
+        "throwInsAverageAway": "18.25/22.25",
+        "averageBallPossessionTotals": "315/485",
+        "averageBallPossessionTotalsHome": "165/235",
+        "averageBallPossessionTotalsAway": "150/250",
+        "averageBallPossessionAverage": "39.38/60.63",
+        "averageBallPossessionAverageHome": "41.25/58.75",
+        "averageBallPossessionAverageAway": "37.50/62.50",
+        "tacklesTotals": "120/128",
+        "tacklesTotalsHome": "65/57",
+        "tacklesTotalsAway": "55/71",
+        "tacklesAverage": "15.00/16.00",
+        "tacklesAverageHome": "16.25/14.25",
+        "tacklesAverageAway": "13.75/17.75",
+        "interceptionsTotals": "84/60",
+        "interceptionsTotalsHome": "38/26",
+        "interceptionsTotalsAway": "46/34",
+        "interceptionsAverage": "10.50/7.50",
+        "interceptionsAverageHome": "9.50/6.50",
+        "interceptionsAverageAway": "11.50/8.50",
+        "aerialDuelsTotals": "108/116",
+        "aerialDuelsTotalsHome": "33/67",
+        "aerialDuelsTotalsAway": "75/49",
+        "aerialDuelsAverage": "13.50/14.50",
+        "aerialDuelsAverageHome": "8.25/16.75",
+        "aerialDuelsAverageAway": "18.75/12.25",
+        "aerialDuelsAttemptedTotals": "224/224",
+        "aerialDuelsAttemptedTotalsHome": "100/100",
+        "aerialDuelsAttemptedTotalsAway": "124/124",
+        "aerialDuelsAttemptedAverage": "28.00/28.00",
+        "aerialDuelsAttemptedAverageHome": "25.00/25.00",
+        "aerialDuelsAttemptedAverageAway": "31.00/31.00",
+        "dribblesTotals": "62/55",
+        "dribblesTotalsHome": "24/26",
+        "dribblesTotalsAway": "38/29",
+        "dribblesAverage": "7.75/6.88",
+        "dribblesAverageHome": "6.00/6.50",
+        "dribblesAverageAway": "9.50/7.25",
+        "dribblesAttemptedTotals": "122/108",
+        "dribblesAttemptedTotalsHome": "55/55",
+        "dribblesAttemptedTotalsAway": "67/53",
+        "dribblesAttemptedAverage": "15.25/13.50",
+        "dribblesAttemptedAverageHome": "13.75/13.75",
+        "dribblesAttemptedAverageAway": "16.75/13.25"
+    }
+}

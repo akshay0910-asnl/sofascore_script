@@ -1,0 +1,542 @@
+{
+    "globalStatistics": {
+        "corners": "5.13",
+        "fouls": "12.06",
+        "goalKicks": "8.19",
+        "saves": "2.69",
+        "offsides": "1.81",
+        "shotsOnTarget": "4.56/4.00",
+        "yellowCards": "2.44/2.00",
+        "goals": "1.56/1.44",
+        "throwIns": "16.00",
+        "ballPossession": 51.5,
+        "tackles": "19.19/19.25",
+        "interceptions": "7.69/8.75",
+        "aerialDuels": "12.88",
+        "aerialDuelsAttempted": "27.13",
+        "dribbles": "8.38/10.69",
+        "dribblesAttempted": "17.19/20.31"
+    },
+    "teamSlug": "brighton-and-hove-albion",
+    "teamId": "30",
+    "teamName": "Brighton &amp; Hove Albion",
+    "tournament": "Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/liverpool-brighton-and-hove-albion/FsU#id:14025198,tab:statistics",
+            "teams": [
+                "Liverpool",
+                "Brighton"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "44",
+                "30"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/west-ham-united-brighton-and-hove-albion/FsM#id:14025159,tab:statistics",
+            "teams": [
+                "Brighton",
+                "West Ham"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "30",
+                "37"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aston-villa-brighton-and-hove-albion/FP#id:14025129,tab:statistics",
+            "teams": [
+                "Brighton",
+                "Aston Villa"
+            ],
+            "goals": [
+                "3",
+                "4"
+            ],
+            "teamIds": [
+                "30",
+                "40"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brighton-and-hove-albion-nottingham-forest/osF#id:14025111,tab:statistics",
+            "teams": [
+                "Forest",
+                "Brighton"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "14",
+                "30"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brentford-brighton-and-hove-albion/Fsab#id:14025069,tab:statistics",
+            "teams": [
+                "Brighton",
+                "Brentford"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "30",
+                "50"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brighton-and-hove-albion-crystal-palace/hsF#id:14025033,tab:statistics",
+            "teams": [
+                "Crystal Palace",
+                "Brighton"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "7",
+                "30"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leeds-united-brighton-and-hove-albion/FsJ#id:14025273,tab:statistics",
+            "teams": [
+                "Brighton",
+                "Leeds"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "30",
+                "34"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manchester-united-brighton-and-hove-albion/FsK#id:14025267,tab:statistics",
+            "teams": [
+                "Man Utd",
+                "Brighton"
+            ],
+            "goals": [
+                "4",
+                "2"
+            ],
+            "teamIds": [
+                "35",
+                "30"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newcastle-united-brighton-and-hove-albion/FsO#id:14025233,tab:statistics",
+            "teams": [
+                "Brighton",
+                "Newcastle"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "30",
+                "39"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brighton-and-hove-albion-wolverhampton/dsF#id:14025231,tab:statistics",
+            "teams": [
+                "Wolves",
+                "Brighton"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "3",
+                "30"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chelsea-brighton-and-hove-albion/FsN#id:14025187,tab:statistics",
+            "teams": [
+                "Chelsea",
+                "Brighton"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "38",
+                "30"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 5,
+    "awayMatchCount": 6,
+    "matchStatistics": [
+        {
+            "corners": "2/2[A]",
+            "fouls": "15/8[A]",
+            "goalKicks": "8/13[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "7/9[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Brighton,Liverpool,Away",
+            "tackles": "13/22[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "8/18[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "7/17[A]",
+            "dribblesAttempted": "21/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/6[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "12/18[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "16/13[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Brighton,West Ham,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "9/13[H]",
+            "aerialDuels": "14/12[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "6/13[H]",
+            "dribblesAttempted": "13/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "6/4[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "7/10[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/4[H]",
+            "throwIns": "11/16[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Brighton,Aston Villa,Home",
+            "tackles": "23/23[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "13/13[H]",
+            "dribblesAttempted": "22/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "10/11[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "16/14[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Brighton,Forest,Away",
+            "tackles": "19/22[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "6/17[A]",
+            "dribblesAttempted": "16/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "7/12[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/11[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Brighton,Brentford,Home",
+            "tackles": "23/20[H]",
+            "interceptions": "8/13[H]",
+            "aerialDuels": "14/9[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "20/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/4[A]",
+            "fouls": "12/10[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "17/23[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Brighton,Crystal Palace,Away",
+            "tackles": "16/21[A]",
+            "interceptions": "4/14[A]",
+            "aerialDuels": "20/21[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "12/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "2/4[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "22/18[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Brighton,Leeds,Home",
+            "tackles": "24/12[H]",
+            "interceptions": "3/6[H]",
+            "aerialDuels": "10/10[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "9/11[H]",
+            "dribblesAttempted": "12/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "13/4[A]",
+            "goalKicks": "7/12[A]",
+            "saves": "5/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/9[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/4[A]",
+            "throwIns": "14/16[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Brighton,Man Utd,Away",
+            "tackles": "18/21[A]",
+            "interceptions": "12/14[A]",
+            "aerialDuels": "18/15[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "17/13[A]",
+            "dribblesAttempted": "23/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/4[H]",
+            "fouls": "9/9[H]",
+            "goalKicks": "12/5[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/23[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Brighton,Newcastle,Home",
+            "tackles": "21/17[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "16/13[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "17/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/2[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "3/11[A]",
+            "saves": "3/5[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "23/16[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Brighton,Wolves,Away",
+            "tackles": "19/26[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "12/15[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "28/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "16/9[A]",
+            "goalKicks": "5/11[A]",
+            "saves": "2/0[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "3/1[A]",
+            "throwIns": "19/21[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Brighton,Chelsea,Away",
+            "tackles": "21/21[A]",
+            "interceptions": "12/10[A]",
+            "aerialDuels": "11/8[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "18/22[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "2/2[A]+10/6[H]+5/6[H]+2/9[A]+7/4[H]+8/4[A]+4/7[H]+6/1[A]+8/4[H]+8/2[A]+7/5[A]",
+        "fouls": "15/8[A]+12/8[H]+10/9[H]+10/11[A]+10/9[H]+12/10[A]+10/7[H]+13/4[A]+9/9[H]+9/13[A]+16/9[A]",
+        "goalKicks": "8/13[A]+12/18[H]+6/10[H]+10/11[A]+7/12[H]+7/7[A]+6/11[H]+7/12[A]+12/5[H]+3/11[A]+5/11[A]",
+        "saves": "2/1[A]+4/4[H]+6/4[H]+3/3[A]+3/3[H]+2/3[A]+2/4[H]+5/3[A]+2/3[H]+3/5[A]+2/0[A]",
+        "offsides": "0/2[A]+1/1[H]+4/1[H]+0/1[A]+0/1[H]+1/2[A]+3/1[H]+2/2[A]+3/1[H]+3/1[A]+2/2[A]",
+        "shotsOnTarget": "1/4[A]+4/5[H]+7/10[H]+6/3[A]+5/4[H]+3/2[A]+7/2[H]+5/9[A]+5/3[H]+6/3[A]+3/3[A]",
+        "yellowCards": "2/1[A]+2/2[H]+2/2[H]+1/0[A]+4/2[H]+4/1[A]+0/1[H]+2/2[A]+0/1[H]+4/2[A]+5/3[A]",
+        "goals": "0/2[A]+1/1[H]+3/4[H]+2/0[A]+2/1[H]+0/0[A]+3/0[H]+2/4[A]+2/1[H]+1/1[A]+3/1[A]",
+        "throwIns": "7/9[A]+16/13[H]+11/16[H]+16/14[A]+16/11[H]+17/23[A]+22/18[H]+14/16[A]+15/23[H]+23/16[A]+19/21[A]",
+        "averageBallPossession": "51/49[A]+68/32[H]+56/44[H]+48/52[A]+64/36[H]+58/42[A]+50/50[H]+56/44[A]+46/54[H]+58/42[A]+40/60[A]",
+        "teams": "Brighton,Liverpool,Away+Brighton,West Ham,Home+Brighton,Aston Villa,Home+Brighton,Forest,Away+Brighton,Brentford,Home+Brighton,Crystal Palace,Away+Brighton,Leeds,Home+Brighton,Man Utd,Away+Brighton,Newcastle,Home+Brighton,Wolves,Away+Brighton,Chelsea,Away",
+        "tackles": "13/22[A]+12/14[H]+23/23[H]+19/22[A]+23/20[H]+16/21[A]+24/12[H]+18/21[A]+21/17[H]+19/26[A]+21/21[A]",
+        "interceptions": "6/8[A]+9/13[H]+9/8[H]+13/7[A]+8/13[H]+4/14[A]+3/6[H]+12/14[A]+5/7[H]+9/9[A]+12/10[A]",
+        "aerialDuels": "8/18[A]+14/12[H]+9/10[H]+13/13[A]+14/9[H]+20/21[A]+10/10[H]+18/15[A]+16/13[H]+12/15[A]+11/8[A]",
+        "aerialDuelsAttempted": "26/26[A]+26/26[H]+19/19[H]+26/26[A]+23/23[H]+41/41[A]+20/20[H]+33/33[A]+29/29[H]+27/27[A]+19/19[A]",
+        "dribbles": "7/17[A]+6/13[H]+13/13[H]+6/17[A]+10/9[H]+4/5[A]+9/11[H]+17/13[A]+11/10[H]+8/6[A]+7/10[A]",
+        "dribblesAttempted": "21/24[A]+13/19[H]+22/21[H]+16/28[A]+20/21[H]+12/11[A]+12/24[H]+23/22[A]+17/24[H]+28/14[A]+18/22[A]",
+        "isHome": "false+true+true+false+true+false+true+false+true+false+false",
+        "cornersTotals": "67/50",
+        "cornersTotalsHome": "34/27",
+        "cornersTotalsAway": "33/23",
+        "cornersAverage": "6.09/4.55",
+        "cornersAverageHome": "6.80/5.40",
+        "cornersAverageAway": "5.50/3.83",
+        "foulsTotals": "126/97",
+        "foulsTotalsHome": "51/42",
+        "foulsTotalsAway": "75/55",
+        "foulsAverage": "11.45/8.82",
+        "foulsAverageHome": "10.20/8.40",
+        "foulsAverageAway": "12.50/9.17",
+        "goalKicksTotals": "83/121",
+        "goalKicksTotalsHome": "43/56",
+        "goalKicksTotalsAway": "40/65",
+        "goalKicksAverage": "7.55/11.00",
+        "goalKicksAverageHome": "8.60/11.20",
+        "goalKicksAverageAway": "6.67/10.83",
+        "savesTotals": "34/33",
+        "savesTotalsHome": "17/18",
+        "savesTotalsAway": "17/15",
+        "savesAverage": "3.09/3.00",
+        "savesAverageHome": "3.40/3.60",
+        "savesAverageAway": "2.83/2.50",
+        "offsidesTotals": "19/15",
+        "offsidesTotalsHome": "11/5",
+        "offsidesTotalsAway": "8/10",
+        "offsidesAverage": "1.73/1.36",
+        "offsidesAverageHome": "2.20/1.00",
+        "offsidesAverageAway": "1.33/1.67",
+        "shotsOnTargetTotals": "52/48",
+        "shotsOnTargetTotalsHome": "28/24",
+        "shotsOnTargetTotalsAway": "24/24",
+        "shotsOnTargetAverage": "4.73/4.36",
+        "shotsOnTargetAverageHome": "5.60/4.80",
+        "shotsOnTargetAverageAway": "4.00/4.00",
+        "yellowCardsTotals": "26/17",
+        "yellowCardsTotalsHome": "8/8",
+        "yellowCardsTotalsAway": "18/9",
+        "yellowCardsAverage": "2.36/1.55",
+        "yellowCardsAverageHome": "1.60/1.60",
+        "yellowCardsAverageAway": "3.00/1.50",
+        "goalsTotals": "19/15",
+        "goalsTotalsHome": "11/7",
+        "goalsTotalsAway": "8/8",
+        "goalsAverage": "1.73/1.36",
+        "goalsAverageHome": "2.20/1.40",
+        "goalsAverageAway": "1.33/1.33",
+        "throwInsTotals": "176/180",
+        "throwInsTotalsHome": "80/81",
+        "throwInsTotalsAway": "96/99",
+        "throwInsAverage": "16.00/16.36",
+        "throwInsAverageHome": "16.00/16.20",
+        "throwInsAverageAway": "16.00/16.50",
+        "averageBallPossessionTotals": "595/505",
+        "averageBallPossessionTotalsHome": "284/216",
+        "averageBallPossessionTotalsAway": "311/289",
+        "averageBallPossessionAverage": "54.09/45.91",
+        "averageBallPossessionAverageHome": "56.80/43.20",
+        "averageBallPossessionAverageAway": "51.83/48.17",
+        "tacklesTotals": "209/219",
+        "tacklesTotalsHome": "103/86",
+        "tacklesTotalsAway": "106/133",
+        "tacklesAverage": "19.00/19.91",
+        "tacklesAverageHome": "20.60/17.20",
+        "tacklesAverageAway": "17.67/22.17",
+        "interceptionsTotals": "90/109",
+        "interceptionsTotalsHome": "34/47",
+        "interceptionsTotalsAway": "56/62",
+        "interceptionsAverage": "8.18/9.91",
+        "interceptionsAverageHome": "6.80/9.40",
+        "interceptionsAverageAway": "9.33/10.33",
+        "aerialDuelsTotals": "145/144",
+        "aerialDuelsTotalsHome": "63/54",
+        "aerialDuelsTotalsAway": "82/90",
+        "aerialDuelsAverage": "13.18/13.09",
+        "aerialDuelsAverageHome": "12.60/10.80",
+        "aerialDuelsAverageAway": "13.67/15.00",
+        "aerialDuelsAttemptedTotals": "289/289",
+        "aerialDuelsAttemptedTotalsHome": "117/117",
+        "aerialDuelsAttemptedTotalsAway": "172/172",
+        "aerialDuelsAttemptedAverage": "26.27/26.27",
+        "aerialDuelsAttemptedAverageHome": "23.40/23.40",
+        "aerialDuelsAttemptedAverageAway": "28.67/28.67",
+        "dribblesTotals": "98/124",
+        "dribblesTotalsHome": "49/56",
+        "dribblesTotalsAway": "49/68",
+        "dribblesAverage": "8.91/11.27",
+        "dribblesAverageHome": "9.80/11.20",
+        "dribblesAverageAway": "8.17/11.33",
+        "dribblesAttemptedTotals": "202/230",
+        "dribblesAttemptedTotalsHome": "84/109",
+        "dribblesAttemptedTotalsAway": "118/121",
+        "dribblesAttemptedAverage": "18.36/20.91",
+        "dribblesAttemptedAverageHome": "16.80/21.80",
+        "dribblesAttemptedAverageAway": "19.67/20.17"
+    }
+}

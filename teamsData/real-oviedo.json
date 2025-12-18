@@ -1,0 +1,722 @@
+{
+    "globalStatistics": {
+        "corners": "3.81",
+        "fouls": "11.63",
+        "goalKicks": "7.75",
+        "saves": "5.13",
+        "offsides": "2.13",
+        "shotsOnTarget": "2.69/6.69",
+        "yellowCards": "2.00/1.31",
+        "goals": "0.44/1.63",
+        "throwIns": "18.63",
+        "ballPossession": 44.75,
+        "tackles": "17.00/13.88",
+        "interceptions": "7.56/7.50",
+        "aerialDuels": "13.94",
+        "aerialDuelsAttempted": "26.56",
+        "dribbles": "7.81/7.56",
+        "dribblesAttempted": "15.44/16.44"
+    },
+    "teamSlug": "real-oviedo",
+    "teamId": "2851",
+    "teamName": "Real Oviedo",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-sevilla/Igbsbhb#id:14083179,tab:statistics",
+            "teams": [
+                "Sevilla",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2833",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-mallorca/Bgbsbhb#id:14083162,tab:statistics",
+            "teams": [
+                "Real Oviedox2",
+                "Mallorca"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2851",
+                "2826"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-atletico-madrid/Lgbsbhb#id:14083135,tab:statistics",
+            "teams": [
+                "Atl. Madrid",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2836",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-rayo-vallecano/tgbsbhb#id:14083128,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2851",
+                "2818"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-athletic-club/Agbsbhb#id:14083106,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2825",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-osasuna/vgbsbhb#id:14083104,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Osasuna"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2851",
+                "2820"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-real-oviedo/bhbsoKj#id:14083708,tab:statistics",
+            "teams": [
+                "Girona",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "24264",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-espanyol/ogbsbhb#id:14083694,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Espanyol"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2851",
+                "2814"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-levante-ud/Zgbsbhb#id:14083645,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Levante"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2851",
+                "2849"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-valencia/Dgbsbhb#id:14083601,tab:statistics",
+            "teams": [
+                "Valencia",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2828",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-barcelona/rgbsbhb#id:14083481,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Barcelona"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2851",
+                "2817"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-elche/Wgbsbhb#id:14083275,tab:statistics",
+            "teams": [
+                "Elche",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2846",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-real-oviedo/bhbsjhb#id:14083240,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2859",
+                "2851"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-real-sociedad/zgbsbhb#id:14083157,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Real Sociedad"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2851",
+                "2824"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-real-madrid/Egbsbhb#id:14082862,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Real Madrid"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2851",
+                "2829"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-villarreal/ugbsbhb#id:14082858,tab:statistics",
+            "teams": [
+                "Villarreal",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2819",
+                "2851"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "3/5[A]",
+            "fouls": "12/11[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/4[A]",
+            "throwIns": "23/24[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Real Oviedo,Sevilla,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "11/7[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "13/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "5/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "19/27[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Real Oviedox2,Mallorca,Home",
+            "tackles": "14/4[H]",
+            "interceptions": "11/3[H]",
+            "aerialDuels": "20/19[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "5/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "8/5[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "6/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "10/27[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Real Oviedo,Atl. Madrid,Away",
+            "tackles": "21/13[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "9/9[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "20/11[A]",
+            "dribblesAttempted": "27/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "4/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "18/24[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Real Oviedo,Rayo Vallecano,Home",
+            "tackles": "19/10[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "8/5[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "13/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "17/6[A]",
+            "saves": "7/2[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/23[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Real Oviedo,Athletic Club,Away",
+            "tackles": "15/15[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "13/19[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "10/12[A]",
+            "dribblesAttempted": "15/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "17/17[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "5/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "13/20[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Real Oviedo,Osasuna,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "6/3[H]",
+            "aerialDuels": "20/15[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "17/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/11[A]",
+            "fouls": "16/13[A]",
+            "goalKicks": "4/4[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "3/3[A]",
+            "throwIns": "11/18[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Real Oviedo,Girona,Away",
+            "tackles": "20/12[A]",
+            "interceptions": "5/4[A]",
+            "aerialDuels": "12/16[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "7/14[A]",
+            "dribblesAttempted": "13/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "8/4[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/10[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "20/24[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Real Oviedo,Espanyol,Home",
+            "tackles": "13/11[H]",
+            "interceptions": "11/7[H]",
+            "aerialDuels": "18/18[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "14/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "25/21[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Real Oviedo,Levante,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "25/13[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "15/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "4/2[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "17/11[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Real Oviedo,Valencia,Away",
+            "tackles": "17/10[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "8/8[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "11/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/9[H]",
+            "fouls": "10/6[H]",
+            "goalKicks": "5/2[H]",
+            "saves": "7/2[H]",
+            "offsides": "7/1[H]",
+            "shotsOnTarget": "3/10[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/3[H]",
+            "throwIns": "19/24[H]",
+            "averageBallPossession": "21/79[H]",
+            "teams": "Real Oviedo,Barcelona,Home",
+            "tackles": "21/18[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "11/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "18/9[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/13[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Real Oviedo,Elche,Away",
+            "tackles": "16/18[A]",
+            "interceptions": "5/11[A]",
+            "aerialDuels": "12/6[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "10/7[A]",
+            "dribblesAttempted": "18/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "18/12[A]",
+            "goalKicks": "7/3[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "34/24[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Real Oviedo,Getafe,Away",
+            "tackles": "20/16[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "13/11[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "22/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/10[H]",
+            "fouls": "7/18[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "6/0[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "12/31[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Real Oviedo,Real Sociedad,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "7/4[H]",
+            "aerialDuels": "20/20[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "15/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[H]",
+            "fouls": "8/7[H]",
+            "goalKicks": "12/4[H]",
+            "saves": "8/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/10[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Real Oviedo,Real Madrid,Home",
+            "tackles": "20/23[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "8/10[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "21/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/10[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "14/2[A]",
+            "saves": "8/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/10[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "11/24[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Real Oviedo,Villarreal,Away",
+            "tackles": "11/11[A]",
+            "interceptions": "5/14[A]",
+            "aerialDuels": "12/7[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "17/12[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "3/5[A]+8/5[H]+2/7[A]+5/6[H]+4/7[A]+4/2[H]+4/11[A]+3/5[H]+9/3[H]+4/5[A]+6/9[H]+3/3[A]+3/4[A]+1/10[H]+1/9[H]+1/10[A]",
+        "fouls": "12/11[A]+14/12[H]+8/5[A]+11/13[H]+8/12[A]+17/17[H]+16/13[A]+9/8[H]+10/10[H]+12/14[A]+10/6[H]+18/9[A]+18/12[A]+7/18[H]+8/7[H]+8/10[A]",
+        "goalKicks": "4/10[A]+7/8[H]+6/10[A]+7/5[H]+17/6[A]+4/7[H]+4/4[A]+7/8[H]+5/10[H]+8/4[A]+5/2[H]+7/6[A]+7/3[A]+10/7[H]+12/4[H]+14/2[A]",
+        "saves": "3/1[A]+5/3[H]+6/1[A]+4/2[H]+7/2[A]+5/2[H]+3/2[A]+8/4[H]+3/2[H]+4/2[A]+7/2[H]+4/4[A]+1/1[A]+6/0[H]+8/3[H]+8/4[A]",
+        "offsides": "1/3[A]+2/0[H]+1/2[A]+2/1[H]+4/0[A]+3/0[H]+2/2[A]+0/2[H]+1/2[H]+4/1[A]+7/1[H]+1/1[A]+1/1[A]+2/1[H]+2/2[H]+1/0[A]",
+        "shotsOnTarget": "1/7[A]+3/6[H]+1/8[A]+3/4[H]+2/7[A]+2/5[H]+5/6[A]+4/10[H]+2/5[H]+4/5[A]+3/10[H]+4/5[A]+1/3[A]+1/6[H]+3/10[H]+4/10[A]",
+        "yellowCards": "2/1[A]+2/1[H]+1/0[A]+1/2[H]+1/1[A]+3/1[H]+3/4[A]+2/1[H]+2/2[H]+4/1[A]+1/0[H]+2/2[A]+5/2[A]+2/1[H]+2/1[H]+2/1[A]",
+        "goals": "0/4[A]+0/0[H]+0/2[A]+0/0[H]+0/1[A]+0/0[H]+3/3[A]+0/2[H]+0/2[H]+2/1[A]+1/3[H]+0/1[A]+0/2[A]+1/0[H]+0/3[H]+0/2[A]",
+        "throwIns": "23/24[A]+19/27[H]+10/27[A]+18/24[H]+25/23[A]+13/20[H]+11/18[A]+20/24[H]+25/21[H]+17/11[A]+19/24[H]+24/13[A]+34/24[A]+12/31[H]+17/17[H]+11/24[A]",
+        "averageBallPossession": "44/56[A]+62/38[H]+48/52[A]+39/61[H]+52/48[A]+53/47[H]+35/65[A]+61/39[H]+57/43[H]+43/57[A]+21/79[H]+39/61[A]+52/48[A]+43/57[H]+35/65[H]+32/68[A]",
+        "teams": "Real Oviedo,Sevilla,Away+Real Oviedox2,Mallorca,Home+Real Oviedo,Atl. Madrid,Away+Real Oviedo,Rayo Vallecano,Home+Real Oviedo,Athletic Club,Away+Real Oviedo,Osasuna,Home+Real Oviedo,Girona,Away+Real Oviedo,Espanyol,Home+Real Oviedo,Levante,Home+Real Oviedo,Valencia,Away+Real Oviedo,Barcelona,Home+Real Oviedo,Elche,Away+Real Oviedo,Getafe,Away+Real Oviedo,Real Sociedad,Home+Real Oviedo,Real Madrid,Home+Real Oviedo,Villarreal,Away",
+        "tackles": "14/14[A]+14/4[H]+21/13[A]+19/10[H]+15/15[A]+22/18[H]+20/12[A]+13/11[H]+15/14[H]+17/10[A]+21/18[H]+16/18[A]+20/16[A]+14/15[H]+20/23[H]+11/11[A]",
+        "interceptions": "11/7[A]+11/3[H]+8/6[A]+7/9[H]+11/8[A]+6/3[H]+5/4[A]+11/7[H]+7/11[H]+8/10[A]+4/6[H]+5/11[A]+5/8[A]+7/4[H]+10/9[H]+5/14[A]",
+        "aerialDuels": "11/12[A]+20/19[H]+9/9[A]+8/5[H]+13/19[A]+20/15[H]+12/16[A]+18/18[H]+25/13[H]+8/8[A]+14/14[H]+12/6[A]+13/11[A]+20/20[H]+8/10[H]+12/7[A]",
+        "aerialDuelsAttempted": "23/23[A]+39/39[H]+18/18[A]+13/13[H]+32/32[A]+35/35[H]+28/28[A]+36/36[H]+38/38[H]+16/16[A]+28/28[H]+18/18[A]+24/24[A]+40/40[H]+18/18[H]+19/19[A]",
+        "dribbles": "4/7[A]+3/4[H]+20/11[A]+7/10[H]+10/12[A]+9/4[H]+7/14[A]+10/9[H]+6/3[H]+7/9[A]+5/8[H]+10/7[A]+8/2[A]+6/10[H]+5/7[H]+8/4[A]",
+        "dribblesAttempted": "13/16[A]+5/10[H]+27/16[A]+13/19[H]+15/19[A]+17/18[H]+13/23[A]+14/14[H]+15/11[H]+11/20[A]+11/18[H]+18/14[A]+22/9[A]+15/19[H]+21/25[H]+17/12[A]",
+        "isHome": "false+true+false+true+false+true+false+true+true+false+true+false+false+true+true+false",
+        "cornersTotals": "61/101",
+        "cornersTotalsHome": "37/49",
+        "cornersTotalsAway": "24/52",
+        "cornersAverage": "3.81/6.31",
+        "cornersAverageHome": "4.63/6.13",
+        "cornersAverageAway": "3.00/6.50",
+        "foulsTotals": "186/177",
+        "foulsTotalsHome": "86/91",
+        "foulsTotalsAway": "100/86",
+        "foulsAverage": "11.63/11.06",
+        "foulsAverageHome": "10.75/11.38",
+        "foulsAverageAway": "12.50/10.75",
+        "goalKicksTotals": "124/96",
+        "goalKicksTotalsHome": "57/51",
+        "goalKicksTotalsAway": "67/45",
+        "goalKicksAverage": "7.75/6.00",
+        "goalKicksAverageHome": "7.13/6.38",
+        "goalKicksAverageAway": "8.38/5.63",
+        "savesTotals": "82/35",
+        "savesTotalsHome": "46/18",
+        "savesTotalsAway": "36/17",
+        "savesAverage": "5.13/2.19",
+        "savesAverageHome": "5.75/2.25",
+        "savesAverageAway": "4.50/2.13",
+        "offsidesTotals": "34/19",
+        "offsidesTotalsHome": "19/9",
+        "offsidesTotalsAway": "15/10",
+        "offsidesAverage": "2.13/1.19",
+        "offsidesAverageHome": "2.38/1.13",
+        "offsidesAverageAway": "1.88/1.25",
+        "shotsOnTargetTotals": "43/107",
+        "shotsOnTargetTotalsHome": "21/56",
+        "shotsOnTargetTotalsAway": "22/51",
+        "shotsOnTargetAverage": "2.69/6.69",
+        "shotsOnTargetAverageHome": "2.63/7.00",
+        "shotsOnTargetAverageAway": "2.75/6.38",
+        "yellowCardsTotals": "35/21",
+        "yellowCardsTotalsHome": "15/9",
+        "yellowCardsTotalsAway": "20/12",
+        "yellowCardsAverage": "2.19/1.31",
+        "yellowCardsAverageHome": "1.88/1.13",
+        "yellowCardsAverageAway": "2.50/1.50",
+        "goalsTotals": "7/26",
+        "goalsTotalsHome": "2/10",
+        "goalsTotalsAway": "5/16",
+        "goalsAverage": "0.44/1.63",
+        "goalsAverageHome": "0.25/1.25",
+        "goalsAverageAway": "0.63/2.00",
+        "throwInsTotals": "298/352",
+        "throwInsTotalsHome": "143/188",
+        "throwInsTotalsAway": "155/164",
+        "throwInsAverage": "18.63/22.00",
+        "throwInsAverageHome": "17.88/23.50",
+        "throwInsAverageAway": "19.38/20.50",
+        "averageBallPossessionTotals": "716/884",
+        "averageBallPossessionTotalsHome": "371/429",
+        "averageBallPossessionTotalsAway": "345/455",
+        "averageBallPossessionAverage": "44.75/55.25",
+        "averageBallPossessionAverageHome": "46.38/53.63",
+        "averageBallPossessionAverageAway": "43.13/56.88",
+        "tacklesTotals": "272/222",
+        "tacklesTotalsHome": "138/113",
+        "tacklesTotalsAway": "134/109",
+        "tacklesAverage": "17.00/13.88",
+        "tacklesAverageHome": "17.25/14.13",
+        "tacklesAverageAway": "16.75/13.63",
+        "interceptionsTotals": "121/120",
+        "interceptionsTotalsHome": "63/52",
+        "interceptionsTotalsAway": "58/68",
+        "interceptionsAverage": "7.56/7.50",
+        "interceptionsAverageHome": "7.88/6.50",
+        "interceptionsAverageAway": "7.25/8.50",
+        "aerialDuelsTotals": "223/202",
+        "aerialDuelsTotalsHome": "133/114",
+        "aerialDuelsTotalsAway": "90/88",
+        "aerialDuelsAverage": "13.94/12.63",
+        "aerialDuelsAverageHome": "16.63/14.25",
+        "aerialDuelsAverageAway": "11.25/11.00",
+        "aerialDuelsAttemptedTotals": "425/425",
+        "aerialDuelsAttemptedTotalsHome": "247/247",
+        "aerialDuelsAttemptedTotalsAway": "178/178",
+        "aerialDuelsAttemptedAverage": "26.56/26.56",
+        "aerialDuelsAttemptedAverageHome": "30.88/30.88",
+        "aerialDuelsAttemptedAverageAway": "22.25/22.25",
+        "dribblesTotals": "125/121",
+        "dribblesTotalsHome": "51/55",
+        "dribblesTotalsAway": "74/66",
+        "dribblesAverage": "7.81/7.56",
+        "dribblesAverageHome": "6.38/6.88",
+        "dribblesAverageAway": "9.25/8.25",
+        "dribblesAttemptedTotals": "247/263",
+        "dribblesAttemptedTotalsHome": "111/134",
+        "dribblesAttemptedTotalsAway": "136/129",
+        "dribblesAttemptedAverage": "15.44/16.44",
+        "dribblesAttemptedAverageHome": "13.88/16.75",
+        "dribblesAttemptedAverageAway": "17.00/16.13"
+    }
+}

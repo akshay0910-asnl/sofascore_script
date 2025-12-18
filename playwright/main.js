@@ -11,7 +11,7 @@ async function processBatches(teamIds) {
     }
 }
 
-processBatches(['2829', '24264', '2836','2818','2526','5885','2672']);   
+processBatches([  '2885']);
 
 //processBatches(['7', '17', '14', '33', '41', '39', '37', '40', '50', '34']);
 
