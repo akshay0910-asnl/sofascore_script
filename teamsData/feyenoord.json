@@ -1,0 +1,471 @@
+{
+    "globalStatistics": {
+        "corners": "7.75",
+        "fouls": "9.38",
+        "goalKicks": "6.75",
+        "saves": "2.19",
+        "offsides": "1.13",
+        "shotsOnTarget": "6.81/3.50",
+        "yellowCards": "1.44/1.06",
+        "goals": "2.56/1.25",
+        "throwIns": "19.44",
+        "ballPossession": 54.9375,
+        "tackles": "16.69/16.00",
+        "interceptions": "8.13/8.81",
+        "aerialDuels": "16.13",
+        "aerialDuelsAttempted": "29.13",
+        "dribbles": "9.69/6.13",
+        "dribblesAttempted": "18.38/13.81"
+    },
+    "teamSlug": "feyenoord",
+    "teamId": "2959",
+    "teamName": "Feyenoord",
+    "tournament": "VriendenLoterij Eredivisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/feyenoord-afc-ajax/djbsjjb#id:14053692,tab:statistics",
+            "teams": [
+                "Ajax",
+                "Feyenoord"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2953",
+                "2959"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-feyenoord/jjbswjb#id:14053664,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "Zwolle"
+            ],
+            "goals": [
+                "6",
+                "1"
+            ],
+            "teamIds": [
+                "2959",
+                "2971"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-telstar-feyenoord/jjbsxjb#id:14053649,tab:statistics",
+            "teams": [
+                "Telstar",
+                "Feyenoord"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2972",
+                "2959"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nec-nijmegen-feyenoord/jjbsmjb#id:14053608,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "NEC"
+            ],
+            "goals": [
+                "2",
+                "4"
+            ],
+            "teamIds": [
+                "2959",
+                "2962"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-feyenoord/jjbsEjb#id:14053602,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "Feyenoord"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2979",
+                "2959"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-feyenoord/jjbstjb#id:14053810,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "Volendam"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2959",
+                "2968"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/feyenoord-psv-eindhoven/cjbsjjb#id:14053803,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "PSV"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "2959",
+                "2952"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heracles-almelo-feyenoord/jjbsCjb#id:14053762,tab:statistics",
+            "teams": [
+                "Heracles",
+                "Feyenoord"
+            ],
+            "goals": [
+                "0",
+                "7"
+            ],
+            "teamIds": [
+                "2977",
+                "2959"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/feyenoord-fc-utrecht/Yibsjjb#id:14053755,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "Utrecht"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2959",
+                "2948"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 5,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "12/3[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "6/12[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "22/7[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Feyenoord,Ajax,Away",
+            "tackles": "9/20[A]",
+            "interceptions": "9/16[A]",
+            "aerialDuels": "16/6[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "20/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/4[H]",
+            "fouls": "17/12[H]",
+            "goalKicks": "4/13[H]",
+            "saves": "3/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "12/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "6/1[H]",
+            "throwIns": "7/14[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Feyenoord,Zwolle,Home",
+            "tackles": "17/9[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "13/7[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "11/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "8/8[A]",
+            "goalKicks": "9/4[A]",
+            "saves": "1/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "2/1[A]",
+            "throwIns": "26/17[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Feyenoord,Telstar,Away",
+            "tackles": "26/21[A]",
+            "interceptions": "15/9[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "9/10[A]",
+            "dribblesAttempted": "19/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "8/3[H]",
+            "offsides": "0/6[H]",
+            "shotsOnTarget": "5/12[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/4[H]",
+            "throwIns": "23/18[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Feyenoord,NEC,Home",
+            "tackles": "24/15[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "18/17[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "9/8[H]",
+            "dribblesAttempted": "19/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "10/7[A]",
+            "goalKicks": "11/13[A]",
+            "saves": "3/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/6[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Feyenoord,GA Eagles,Away",
+            "tackles": "8/6[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "19/11[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "9/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/1[H]",
+            "fouls": "4/8[H]",
+            "goalKicks": "12/13[H]",
+            "saves": "0/6[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "3/1[H]",
+            "throwIns": "16/10[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Feyenoord,Volendam,Home",
+            "tackles": "14/10[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "13/7[H]",
+            "dribblesAttempted": "18/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "7/13[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "3/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/3[H]",
+            "throwIns": "23/15[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Feyenoord,PSV,Home",
+            "tackles": "19/19[H]",
+            "interceptions": "15/12[H]",
+            "aerialDuels": "14/12[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "10/10[H]",
+            "dribblesAttempted": "19/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/2[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "0/5[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "12/0[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "7/0[A]",
+            "throwIns": "21/15[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Feyenoord,Heracles,Away",
+            "tackles": "14/15[A]",
+            "interceptions": "3/10[A]",
+            "aerialDuels": "13/20[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "16/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/3[H]",
+            "fouls": "7/10[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "2/6[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "10/4[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "3/2[H]",
+            "throwIns": "20/22[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Feyenoord,Utrecht,Home",
+            "tackles": "16/19[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "17/15[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "13/6[H]",
+            "dribblesAttempted": "21/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "12/3[A]+8/4[H]+5/3[A]+7/6[H]+7/4[A]+10/1[H]+3/5[H]+8/2[A]+12/3[H]",
+        "fouls": "12/12[A]+17/12[H]+8/8[A]+8/13[H]+10/7[A]+4/8[H]+7/13[H]+13/11[A]+7/10[H]",
+        "goalKicks": "6/12[A]+4/13[H]+9/4[A]+4/9[H]+11/13[A]+12/13[H]+6/11[H]+6/6[A]+8/10[H]",
+        "saves": "4/1[A]+3/6[H]+1/6[A]+8/3[H]+3/5[A]+0/6[H]+3/4[H]+0/5[A]+2/6[H]",
+        "offsides": "0/2[A]+0/2[H]+0/1[A]+0/6[H]+1/1[A]+3/0[H]+0/1[H]+2/0[A]+0/1[H]",
+        "shotsOnTarget": "1/7[A]+12/4[H]+7/2[A]+5/12[H]+6/5[A]+9/1[H]+6/6[H]+12/0[A]+10/4[H]",
+        "yellowCards": "1/2[A]+1/1[H]+3/0[A]+1/1[H]+1/2[A]+0/0[H]+0/1[H]+2/1[A]+1/0[H]",
+        "goals": "0/2[A]+6/1[H]+2/1[A]+2/4[H]+1/2[A]+3/1[H]+2/3[H]+7/0[A]+3/2[H]",
+        "throwIns": "22/7[A]+7/14[H]+26/17[A]+23/18[H]+18/6[A]+16/10[H]+23/15[H]+21/15[A]+20/22[H]",
+        "averageBallPossession": "57/43[A]+57/43[H]+51/49[A]+55/45[H]+60/40[A]+54/46[H]+48/52[H]+64/36[A]+55/45[H]",
+        "teams": "Feyenoord,Ajax,Away+Feyenoord,Zwolle,Home+Feyenoord,Telstar,Away+Feyenoord,NEC,Home+Feyenoord,GA Eagles,Away+Feyenoord,Volendam,Home+Feyenoord,PSV,Home+Feyenoord,Heracles,Away+Feyenoord,Utrecht,Home",
+        "tackles": "9/20[A]+17/9[H]+26/21[A]+24/15[H]+8/6[A]+14/10[H]+19/19[H]+14/15[A]+16/19[H]",
+        "interceptions": "9/16[A]+6/6[H]+15/9[A]+7/8[H]+9/7[A]+8/9[H]+15/12[H]+3/10[A]+5/12[H]",
+        "aerialDuels": "16/6[A]+13/7[H]+11/14[A]+18/17[H]+19/11[A]+7/10[H]+14/12[H]+13/20[A]+17/15[H]",
+        "aerialDuelsAttempted": "22/22[A]+20/20[H]+25/25[A]+35/35[H]+30/30[A]+17/17[H]+26/26[H]+33/33[A]+32/32[H]",
+        "dribbles": "4/7[A]+7/4[H]+9/10[A]+9/8[H]+7/5[A]+13/7[H]+10/10[H]+8/5[A]+13/6[H]",
+        "dribblesAttempted": "20/12[A]+11/11[H]+19/27[A]+19/24[H]+9/7[A]+18/11[H]+19/19[H]+16/12[A]+21/11[H]",
+        "isHome": "false+true+false+true+false+true+true+false+true",
+        "cornersTotals": "72/31",
+        "cornersTotalsHome": "40/19",
+        "cornersTotalsAway": "32/12",
+        "cornersAverage": "8.00/3.44",
+        "cornersAverageHome": "8.00/3.80",
+        "cornersAverageAway": "8.00/3.00",
+        "foulsTotals": "86/94",
+        "foulsTotalsHome": "43/56",
+        "foulsTotalsAway": "43/38",
+        "foulsAverage": "9.56/10.44",
+        "foulsAverageHome": "8.60/11.20",
+        "foulsAverageAway": "10.75/9.50",
+        "goalKicksTotals": "66/91",
+        "goalKicksTotalsHome": "34/56",
+        "goalKicksTotalsAway": "32/35",
+        "goalKicksAverage": "7.33/10.11",
+        "goalKicksAverageHome": "6.80/11.20",
+        "goalKicksAverageAway": "8.00/8.75",
+        "savesTotals": "24/42",
+        "savesTotalsHome": "16/25",
+        "savesTotalsAway": "8/17",
+        "savesAverage": "2.67/4.67",
+        "savesAverageHome": "3.20/5.00",
+        "savesAverageAway": "2.00/4.25",
+        "offsidesTotals": "6/14",
+        "offsidesTotalsHome": "3/10",
+        "offsidesTotalsAway": "3/4",
+        "offsidesAverage": "0.67/1.56",
+        "offsidesAverageHome": "0.60/2.00",
+        "offsidesAverageAway": "0.75/1.00",
+        "shotsOnTargetTotals": "68/41",
+        "shotsOnTargetTotalsHome": "42/27",
+        "shotsOnTargetTotalsAway": "26/14",
+        "shotsOnTargetAverage": "7.56/4.56",
+        "shotsOnTargetAverageHome": "8.40/5.40",
+        "shotsOnTargetAverageAway": "6.50/3.50",
+        "yellowCardsTotals": "10/8",
+        "yellowCardsTotalsHome": "3/3",
+        "yellowCardsTotalsAway": "7/5",
+        "yellowCardsAverage": "1.11/0.89",
+        "yellowCardsAverageHome": "0.60/0.60",
+        "yellowCardsAverageAway": "1.75/1.25",
+        "goalsTotals": "26/16",
+        "goalsTotalsHome": "16/11",
+        "goalsTotalsAway": "10/5",
+        "goalsAverage": "2.89/1.78",
+        "goalsAverageHome": "3.20/2.20",
+        "goalsAverageAway": "2.50/1.25",
+        "throwInsTotals": "176/124",
+        "throwInsTotalsHome": "89/79",
+        "throwInsTotalsAway": "87/45",
+        "throwInsAverage": "19.56/13.78",
+        "throwInsAverageHome": "17.80/15.80",
+        "throwInsAverageAway": "21.75/11.25",
+        "averageBallPossessionTotals": "501/399",
+        "averageBallPossessionTotalsHome": "269/231",
+        "averageBallPossessionTotalsAway": "232/168",
+        "averageBallPossessionAverage": "55.67/44.33",
+        "averageBallPossessionAverageHome": "53.80/46.20",
+        "averageBallPossessionAverageAway": "58.00/42.00",
+        "tacklesTotals": "147/134",
+        "tacklesTotalsHome": "90/72",
+        "tacklesTotalsAway": "57/62",
+        "tacklesAverage": "16.33/14.89",
+        "tacklesAverageHome": "18.00/14.40",
+        "tacklesAverageAway": "14.25/15.50",
+        "interceptionsTotals": "77/89",
+        "interceptionsTotalsHome": "41/47",
+        "interceptionsTotalsAway": "36/42",
+        "interceptionsAverage": "8.56/9.89",
+        "interceptionsAverageHome": "8.20/9.40",
+        "interceptionsAverageAway": "9.00/10.50",
+        "aerialDuelsTotals": "128/112",
+        "aerialDuelsTotalsHome": "69/61",
+        "aerialDuelsTotalsAway": "59/51",
+        "aerialDuelsAverage": "14.22/12.44",
+        "aerialDuelsAverageHome": "13.80/12.20",
+        "aerialDuelsAverageAway": "14.75/12.75",
+        "aerialDuelsAttemptedTotals": "240/240",
+        "aerialDuelsAttemptedTotalsHome": "130/130",
+        "aerialDuelsAttemptedTotalsAway": "110/110",
+        "aerialDuelsAttemptedAverage": "26.67/26.67",
+        "aerialDuelsAttemptedAverageHome": "26.00/26.00",
+        "aerialDuelsAttemptedAverageAway": "27.50/27.50",
+        "dribblesTotals": "80/62",
+        "dribblesTotalsHome": "52/35",
+        "dribblesTotalsAway": "28/27",
+        "dribblesAverage": "8.89/6.89",
+        "dribblesAverageHome": "10.40/7.00",
+        "dribblesAverageAway": "7.00/6.75",
+        "dribblesAttemptedTotals": "152/134",
+        "dribblesAttemptedTotalsHome": "88/76",
+        "dribblesAttemptedTotalsAway": "64/58",
+        "dribblesAttemptedAverage": "16.89/14.89",
+        "dribblesAttemptedAverageHome": "17.60/15.20",
+        "dribblesAttemptedAverageAway": "16.00/14.50"
+    }
+}

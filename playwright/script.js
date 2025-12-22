@@ -57,7 +57,8 @@ let result = {
 	matchLinks: [],
 	homeMatchCount: 0,
 	awayMatchCount: 0,
-	matchStatistics: []
+	matchStatistics: [],
+	attempts: 0
 };
 
 // ============================================================================
@@ -306,9 +307,28 @@ async function setUpMatchStatisticsInterception(page, match, index, teamId) {
 // PAGE NAVIGATION
 // ============================================================================
 
-async function navigateToPage(page, url) {
-	await page.goto(url, { waitUntil: 'load', timeout: CONFIG.timeouts.pageLoad });
-	console.log('✓ Page loaded:', await page.title());
+async function navigateToPage(page, url, teamId) {
+	for (let attempt = 1; attempt <= 3; attempt++) {
+		try {
+			await page.goto(url, {
+				waitUntil: 'load',
+				timeout: CONFIG.timeouts.pageLoad
+			});
+			console.log('✓ Page loaded:', await page.title());
+			return; // Success - exit the function
+		}
+		catch (err) {
+			console.error(`✗ Page load error (attempt ${attempt}/${3}):`, err.message);
+			cache[teamId].attempts += 1;
+
+			if (attempt === 3) {
+				// Final attempt failed
+				throw new Error(`Failed to load page after ${3} attempts: ${err.message}`);
+			}
+
+			console.log('  Retrying...');
+		}
+	}
 }
 
 async function clickStatisticsTab(page) {
@@ -432,13 +452,13 @@ async function extractMatchScore(linkElement, index, teamId) {
 
 		let teamIds = [];
 		const images = await linkElement.$$(CONFIG.selectors.teamImg).catch(() => null);
-		try{
+		try {
 			for (const imgElement of images) {
 				const src = await imgElement.getAttribute('src');
 				const teamIdNow = src.split('/').find(segment => parseInt(segment));
 				teamIds.push(teamIdNow);
-			}			
-		}catch(err){
+			}
+		} catch (err) {
 			console.error(`⚠ Error extracting team IDs from match ${index}:`, err.message);
 		}
 
@@ -617,7 +637,8 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 						matchLinks: [],
 						homeMatchCount: 0,
 						awayMatchCount: 0,
-						matchStatistics: []
+						matchStatistics: [],
+						attempts: 0
 					};
 					resolve(1);
 				} else {
@@ -643,7 +664,7 @@ async function executeWorkflow(page, context, teamId) {
 
 		// Setup and navigate
 		await setupStatisticsInterception(page, teamId);
-		await navigateToPage(page, `https://www.sofascore.com/football/team/cp/${teamId}#tab:statistics`);
+		await navigateToPage(page, `https://www.sofascore.com/football/team/cp/${teamId}#tab:statistics`, teamId);
 
 		// Click statistics and extract tournament
 		//await clickStatisticsTab(page);

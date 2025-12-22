@@ -1,0 +1,722 @@
+{
+    "globalStatistics": {
+        "corners": "4.06",
+        "fouls": "11.44",
+        "goalKicks": "9.11",
+        "saves": "3.56",
+        "offsides": "2.17",
+        "shotsOnTarget": "3.39/4.78",
+        "yellowCards": "2.28/1.83",
+        "goals": "0.89/1.17",
+        "throwIns": "18.78",
+        "ballPossession": 44.722222222222,
+        "tackles": "14.00/16.17",
+        "interceptions": "9.67/7.33",
+        "aerialDuels": "17.72",
+        "aerialDuelsAttempted": "33.94",
+        "dribbles": "6.39/6.00",
+        "dribblesAttempted": "14.22/12.67"
+    },
+    "teamSlug": "standard-liege",
+    "teamId": "2901",
+    "teamName": "Standard Liège",
+    "tournament": "Pro League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-standard-liege/bibstib#id:14035958,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "OH Leuven"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2901",
+                "2918"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cercle-brugge-standard-liege/bibsEib#id:14032415,tab:statistics",
+            "teams": [
+                "Cercle Brugge",
+                "Standard Liège"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2929",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kv-mechelen-standard-liege/bibsUac#id:14035949,tab:statistics",
+            "teams": [
+                "Mechelen",
+                "Standard Liège"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "5044",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sv-zulte-waregem-standard-liege/bibsIib#id:14035944,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Zulte Waregem"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2901",
+                "2933"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-sint-truidense-vv/Vhbsbib#id:14035937,tab:statistics",
+            "teams": [
+                "St. Truidense",
+                "Standard Liège"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2895",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-rc-sporting-charleroi/Yhbsbib#id:14035929,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Charleroi"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2901",
+                "2898"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-standard-liege/bibsdib#id:14035920,tab:statistics",
+            "teams": [
+                "Gent",
+                "Standard Liège"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2903",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-royal-antwerp-fc/Ohbsbib#id:14035912,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Royal Antwerp"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2901",
+                "2889"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-rsc-anderlecht/aibsbib#id:14035904,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Standard Liège"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2900",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-club-brugge-kv/Nhbsbib#id:14035895,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Club Brugge"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2901",
+                "2888"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-kvc-westerlo/Thbsbib#id:14035888,tab:statistics",
+            "teams": [
+                "Westerlo",
+                "Standard Liège"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2893",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kv-mechelen-standard-liege/bibsUac#id:14035876,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Mechelen"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2901",
+                "5044"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-standard-liege/bibstib#id:14035868,tab:statistics",
+            "teams": [
+                "OH Leuven",
+                "Standard Liège"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2918",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cercle-brugge-standard-liege/bibsEib#id:14035859,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Cercle Brugge"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2901",
+                "2929"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/royale-union-saint-gilloise-standard-liege/bibskXb#id:14035853,tab:statistics",
+            "teams": [
+                "USG",
+                "Standard Liège"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "4860",
+                "2901"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-krc-genk/Phbsbib#id:14035848,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "Genk"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2901",
+                "2890"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "5/4[H]",
+            "fouls": "13/14[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "8/3[H]",
+            "offsides": "5/2[H]",
+            "shotsOnTarget": "3/9[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "29/27[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Standard Liège,OH Leuven,Home",
+            "tackles": "14/23[H]",
+            "interceptions": "5/2[H]",
+            "aerialDuels": "25/22[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "12/0[H]",
+            "dribblesAttempted": "24/4[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/9[A]",
+            "fouls": "16/7[A]",
+            "goalKicks": "14/5[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/1[A]",
+            "throwIns": "26/32[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Standard Liège,Cercle Brugge,Away",
+            "tackles": "16/19[A]",
+            "interceptions": "16/9[A]",
+            "aerialDuels": "19/28[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "15/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "11/30[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Standard Liège,Mechelen,Away",
+            "tackles": "18/14[A]",
+            "interceptions": "8/14[A]",
+            "aerialDuels": "17/14[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "11/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "5/13[H]",
+            "saves": "2/8[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "8/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "22/13[H]",
+            "averageBallPossession": "74/26[H]",
+            "teams": "Standard Liège,Zulte Waregem,Home",
+            "tackles": "10/13[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "19/15[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "13/9[H]",
+            "dribblesAttempted": "21/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "11/8[A]",
+            "goalKicks": "13/1[A]",
+            "saves": "1/3[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/18[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Standard Liège,St. Truidense,Away",
+            "tackles": "9/13[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "10/7[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "1/5[A]",
+            "dribblesAttempted": "7/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "10/14[H]",
+            "goalKicks": "10/5[H]",
+            "saves": "3/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "17/20[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Standard Liège,Charleroi,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "8/6[H]",
+            "aerialDuels": "21/20[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "6/2[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "9/10[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "20/12[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Standard Liège,Gent,Away",
+            "tackles": "14/17[A]",
+            "interceptions": "15/10[A]",
+            "aerialDuels": "18/18[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "15/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "19/19[H]",
+            "goalKicks": "12/4[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "14/29[H]",
+            "averageBallPossession": "29/71[H]",
+            "teams": "Standard Liège,Royal Antwerp,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "23/20[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "6/8[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "12/18[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/17[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Standard Liège,Anderlecht,Away",
+            "tackles": "20/27[A]",
+            "interceptions": "13/10[A]",
+            "aerialDuels": "20/18[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "21/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/8[H]",
+            "fouls": "13/7[H]",
+            "goalKicks": "10/10[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "12/16[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Standard Liège,Club Brugge,Home",
+            "tackles": "11/11[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "14/15[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "9/1[H]",
+            "dribblesAttempted": "12/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "15/7[A]",
+            "goalKicks": "15/3[A]",
+            "saves": "4/1[A]",
+            "offsides": "8/2[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "5/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "14/28[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Standard Liège,Westerlo,Away",
+            "tackles": "12/13[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "17/19[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "6/11[A]",
+            "dribblesAttempted": "11/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/5[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "4/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/20[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Standard Liège,Mechelen,Home",
+            "tackles": "12/18[H]",
+            "interceptions": "14/5[H]",
+            "aerialDuels": "16/13[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "10/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/14[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Standard Liège,OH Leuven,Away",
+            "tackles": "13/12[A]",
+            "interceptions": "8/2[A]",
+            "aerialDuels": "20/19[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "7/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "4/12[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "6/3[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "3/10[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/3[H]",
+            "throwIns": "23/32[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Standard Liège,Cercle Brugge,Home",
+            "tackles": "20/25[H]",
+            "interceptions": "13/10[H]",
+            "aerialDuels": "17/14[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "13/9[H]",
+            "dribblesAttempted": "29/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/12[A]",
+            "fouls": "6/13[A]",
+            "goalKicks": "9/2[A]",
+            "saves": "7/2[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "1/10[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "6/21[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "Standard Liège,USG,Away",
+            "tackles": "13/17[A]",
+            "interceptions": "13/9[A]",
+            "aerialDuels": "11/10[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "7/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "9/2[H]",
+            "saves": "4/3[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/18[H]",
+            "averageBallPossession": "24/76[H]",
+            "teams": "Standard Liège,Genk,Home",
+            "tackles": "17/14[H]",
+            "interceptions": "11/4[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "4/13[H]",
+            "dribblesAttempted": "10/23[H]",
+            "isHome": true
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "5/4[H]+5/9[A]+4/4[A]+5/3[H]+1/9[A]+4/5[H]+4/4[A]+4/5[H]+4/6[A]+7/8[H]+1/7[A]+12/5[H]+4/4[A]+4/3[H]+1/12[A]+2/6[H]",
+        "fouls": "13/14[H]+16/7[A]+10/11[A]+13/12[H]+11/8[A]+10/14[H]+9/11[A]+19/19[H]+12/18[A]+13/7[H]+15/7[A]+10/8[H]+11/12[A]+4/12[H]+6/13[A]+11/16[H]",
+        "goalKicks": "9/6[H]+14/5[A]+6/6[A]+5/13[H]+13/1[A]+10/5[H]+9/10[A]+12/4[H]+10/9[A]+10/10[H]+15/3[A]+5/5[H]+4/10[A]+8/10[H]+9/2[A]+9/2[H]",
+        "saves": "8/3[H]+5/1[A]+2/1[A]+2/8[H]+1/3[A]+3/2[H]+2/2[A]+2/3[H]+5/1[A]+3/4[H]+4/1[A]+4/2[H]+3/1[A]+6/3[H]+7/2[A]+4/3[H]",
+        "offsides": "5/2[H]+1/2[A]+0/3[A]+4/1[H]+3/2[A]+0/0[H]+0/0[A]+3/1[H]+1/1[A]+1/1[H]+8/2[A]+0/2[H]+3/3[A]+2/3[H]+1/4[A]+4/0[H]",
+        "shotsOnTarget": "3/9[H]+2/6[A]+2/1[A]+8/2[H]+3/2[A]+5/4[H]+2/6[A]+4/3[H]+1/6[A]+5/5[H]+3/4[A]+3/6[H]+1/3[A]+3/10[H]+1/10[A]+5/5[H]",
+        "yellowCards": "2/2[H]+2/0[A]+1/1[A]+2/1[H]+1/0[A]+2/3[H]+2/0[A]+2/3[H]+3/3[A]+4/2[H]+5/0[A]+3/3[H]+3/3[A]+1/3[H]+2/1[A]+4/3[H]",
+        "goals": "0/1[H]+2/1[A]+1/0[A]+0/0[H]+0/1[A]+3/1[H]+0/4[A]+1/0[H]+0/1[A]+1/2[H]+2/0[A]+1/1[H]+0/1[A]+0/3[H]+0/3[A]+2/1[H]",
+        "throwIns": "29/27[H]+26/32[A]+11/30[A]+22/13[H]+23/18[A]+17/20[H]+20/12[A]+14/29[H]+25/17[A]+12/16[H]+14/28[A]+26/20[H]+25/14[A]+23/32[H]+6/21[A]+15/18[H]",
+        "averageBallPossession": "48/52[H]+34/66[A]+44/56[A]+74/26[H]+34/66[A]+42/58[H]+50/50[A]+29/71[H]+49/51[A]+37/63[H]+40/60[A]+53/47[H]+60/40[A]+56/44[H]+30/70[A]+24/76[H]",
+        "teams": "Standard Liège,OH Leuven,Home+Standard Liège,Cercle Brugge,Away+Standard Liège,Mechelen,Away+Standard Liège,Zulte Waregem,Home+Standard Liège,St. Truidense,Away+Standard Liège,Charleroi,Home+Standard Liège,Gent,Away+Standard Liège,Royal Antwerp,Home+Standard Liège,Anderlecht,Away+Standard Liège,Club Brugge,Home+Standard Liège,Westerlo,Away+Standard Liège,Mechelen,Home+Standard Liège,OH Leuven,Away+Standard Liège,Cercle Brugge,Home+Standard Liège,USG,Away+Standard Liège,Genk,Home",
+        "tackles": "14/23[H]+16/19[A]+18/14[A]+10/13[H]+9/13[A]+11/12[H]+14/17[A]+12/16[H]+20/27[A]+11/11[H]+12/13[A]+12/18[H]+13/12[A]+20/25[H]+13/17[A]+17/14[H]",
+        "interceptions": "5/2[H]+16/9[A]+8/14[A]+4/8[H]+9/7[A]+8/6[H]+15/10[A]+8/7[H]+13/10[A]+4/5[H]+6/10[A]+14/5[H]+8/2[A]+13/10[H]+13/9[A]+11/4[H]",
+        "aerialDuels": "25/22[H]+19/28[A]+17/14[A]+19/15[H]+10/7[A]+21/20[H]+18/18[A]+23/20[H]+20/18[A]+14/15[H]+17/19[A]+16/13[H]+20/19[A]+17/14[H]+11/10[A]+15/15[H]",
+        "aerialDuelsAttempted": "47/47[H]+47/47[A]+31/31[A]+34/34[H]+17/17[A]+41/41[H]+36/36[A]+43/43[H]+38/38[A]+29/29[H]+36/36[A]+29/29[H]+39/39[A]+31/31[H]+21/21[A]+30/30[H]",
+        "dribbles": "12/0[H]+8/8[A]+4/3[A]+13/9[H]+1/5[A]+6/2[H]+5/3[A]+6/8[H]+5/6[A]+9/1[H]+6/11[A]+2/8[H]+3/4[A]+13/9[H]+4/8[A]+4/13[H]",
+        "dribblesAttempted": "24/4[H]+15/12[A]+11/16[A]+21/14[H]+7/8[A]+13/10[H]+15/9[A]+13/15[H]+21/10[A]+12/9[H]+11/19[A]+10/12[H]+7/11[A]+29/19[H]+7/12[A]+10/23[H]",
+        "isHome": "true+false+false+true+false+true+false+true+false+true+false+true+false+true+false+true",
+        "cornersTotals": "67/94",
+        "cornersTotalsHome": "43/39",
+        "cornersTotalsAway": "24/55",
+        "cornersAverage": "4.19/5.88",
+        "cornersAverageHome": "5.38/4.88",
+        "cornersAverageAway": "3.00/6.88",
+        "foulsTotals": "183/189",
+        "foulsTotalsHome": "93/102",
+        "foulsTotalsAway": "90/87",
+        "foulsAverage": "11.44/11.81",
+        "foulsAverageHome": "11.63/12.75",
+        "foulsAverageAway": "11.25/10.88",
+        "goalKicksTotals": "148/101",
+        "goalKicksTotalsHome": "68/55",
+        "goalKicksTotalsAway": "80/46",
+        "goalKicksAverage": "9.25/6.31",
+        "goalKicksAverageHome": "8.50/6.88",
+        "goalKicksAverageAway": "10.00/5.75",
+        "savesTotals": "61/40",
+        "savesTotalsHome": "32/28",
+        "savesTotalsAway": "29/12",
+        "savesAverage": "3.81/2.50",
+        "savesAverageHome": "4.00/3.50",
+        "savesAverageAway": "3.63/1.50",
+        "offsidesTotals": "36/27",
+        "offsidesTotalsHome": "19/10",
+        "offsidesTotalsAway": "17/17",
+        "offsidesAverage": "2.25/1.69",
+        "offsidesAverageHome": "2.38/1.25",
+        "offsidesAverageAway": "2.13/2.13",
+        "shotsOnTargetTotals": "51/82",
+        "shotsOnTargetTotalsHome": "36/44",
+        "shotsOnTargetTotalsAway": "15/38",
+        "shotsOnTargetAverage": "3.19/5.13",
+        "shotsOnTargetAverageHome": "4.50/5.50",
+        "shotsOnTargetAverageAway": "1.88/4.75",
+        "yellowCardsTotals": "39/28",
+        "yellowCardsTotalsHome": "20/20",
+        "yellowCardsTotalsAway": "19/8",
+        "yellowCardsAverage": "2.44/1.75",
+        "yellowCardsAverageHome": "2.50/2.50",
+        "yellowCardsAverageAway": "2.38/1.00",
+        "goalsTotals": "13/20",
+        "goalsTotalsHome": "8/9",
+        "goalsTotalsAway": "5/11",
+        "goalsAverage": "0.81/1.25",
+        "goalsAverageHome": "1.00/1.13",
+        "goalsAverageAway": "0.63/1.38",
+        "throwInsTotals": "308/347",
+        "throwInsTotalsHome": "158/175",
+        "throwInsTotalsAway": "150/172",
+        "throwInsAverage": "19.25/21.69",
+        "throwInsAverageHome": "19.75/21.88",
+        "throwInsAverageAway": "18.75/21.50",
+        "averageBallPossessionTotals": "704/896",
+        "averageBallPossessionTotalsHome": "363/437",
+        "averageBallPossessionTotalsAway": "341/459",
+        "averageBallPossessionAverage": "44.00/56.00",
+        "averageBallPossessionAverageHome": "45.38/54.63",
+        "averageBallPossessionAverageAway": "42.63/57.38",
+        "tacklesTotals": "222/264",
+        "tacklesTotalsHome": "107/132",
+        "tacklesTotalsAway": "115/132",
+        "tacklesAverage": "13.88/16.50",
+        "tacklesAverageHome": "13.38/16.50",
+        "tacklesAverageAway": "14.38/16.50",
+        "interceptionsTotals": "155/118",
+        "interceptionsTotalsHome": "67/47",
+        "interceptionsTotalsAway": "88/71",
+        "interceptionsAverage": "9.69/7.38",
+        "interceptionsAverageHome": "8.38/5.88",
+        "interceptionsAverageAway": "11.00/8.88",
+        "aerialDuelsTotals": "282/267",
+        "aerialDuelsTotalsHome": "150/134",
+        "aerialDuelsTotalsAway": "132/133",
+        "aerialDuelsAverage": "17.63/16.69",
+        "aerialDuelsAverageHome": "18.75/16.75",
+        "aerialDuelsAverageAway": "16.50/16.63",
+        "aerialDuelsAttemptedTotals": "549/549",
+        "aerialDuelsAttemptedTotalsHome": "284/284",
+        "aerialDuelsAttemptedTotalsAway": "265/265",
+        "aerialDuelsAttemptedAverage": "34.31/34.31",
+        "aerialDuelsAttemptedAverageHome": "35.50/35.50",
+        "aerialDuelsAttemptedAverageAway": "33.13/33.13",
+        "dribblesTotals": "101/98",
+        "dribblesTotalsHome": "65/50",
+        "dribblesTotalsAway": "36/48",
+        "dribblesAverage": "6.31/6.13",
+        "dribblesAverageHome": "8.13/6.25",
+        "dribblesAverageAway": "4.50/6.00",
+        "dribblesAttemptedTotals": "226/203",
+        "dribblesAttemptedTotalsHome": "132/106",
+        "dribblesAttemptedTotalsAway": "94/97",
+        "dribblesAttemptedAverage": "14.13/12.69",
+        "dribblesAttemptedAverageHome": "16.50/13.25",
+        "dribblesAttemptedAverageAway": "11.75/12.13"
+    }
+}

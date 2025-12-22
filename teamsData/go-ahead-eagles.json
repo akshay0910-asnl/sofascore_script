@@ -1,0 +1,471 @@
+{
+    "globalStatistics": {
+        "corners": "5.38",
+        "fouls": "9.31",
+        "goalKicks": "9.00",
+        "saves": "4.50",
+        "offsides": "1.50",
+        "shotsOnTarget": "4.94/6.19",
+        "yellowCards": "1.38/1.88",
+        "goals": "1.56/1.75",
+        "throwIns": "18.56",
+        "ballPossession": 51.75,
+        "tackles": "11.06/13.06",
+        "interceptions": "6.88/7.06",
+        "aerialDuels": "12.00",
+        "aerialDuelsAttempted": "26.75",
+        "dribbles": "4.69/6.50",
+        "dribblesAttempted": "10.63/10.94"
+    },
+    "teamSlug": "go-ahead-eagles",
+    "teamId": "2979",
+    "teamName": "Go Ahead Eagles",
+    "tournament": "VriendenLoterij Eredivisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-fc-twente/fjbsEjb#id:14053708,tab:statistics",
+            "teams": [
+                "Twente",
+                "GA Eagles"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2955",
+                "2979"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-az-alkmaar/ajbsEjb#id:14053667,tab:statistics",
+            "teams": [
+                "AZ",
+                "GA Eagles"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2950",
+                "2979"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-fc-utrecht/YibsEjb#id:14053655,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "Utrecht"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2979",
+                "2948"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-heracles-almelo/CjbsEjb#id:14053617,tab:statistics",
+            "teams": [
+                "Heracles",
+                "GA Eagles"
+            ],
+            "goals": [
+                "4",
+                "2"
+            ],
+            "teamIds": [
+                "2977",
+                "2979"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-feyenoord/jjbsEjb#id:14053602,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "Feyenoord"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2979",
+                "2959"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-nac-breda/XibsEjb#id:14053812,tab:statistics",
+            "teams": [
+                "NAC Breda",
+                "GA Eagles"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2947",
+                "2979"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-excelsior/rjbsEjb#id:14053800,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "Excelsior"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2979",
+                "2967"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-psv-eindhoven/cjbsEjb#id:14053765,tab:statistics",
+            "teams": [
+                "PSV",
+                "GA Eagles"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2952",
+                "2979"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-nec-nijmegen/mjbsEjb#id:14053760,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "NEC"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2979",
+                "2962"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 5,
+    "matchStatistics": [
+        {
+            "corners": "6/3[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "5/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "25/21[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "GA Eagles,Twente,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "8/3[A]",
+            "aerialDuels": "8/15[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "5/15[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/11[A]",
+            "fouls": "8/8[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "6/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "7/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "18/16[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "GA Eagles,AZ,Away",
+            "tackles": "12/19[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "9/13[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "13/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "6/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/8[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "20/22[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "GA Eagles,Utrecht,Home",
+            "tackles": "13/14[H]",
+            "interceptions": "3/2[H]",
+            "aerialDuels": "12/22[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "9/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "15/6[A]",
+            "goalKicks": "5/2[A]",
+            "saves": "8/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/12[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/4[A]",
+            "throwIns": "21/14[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "GA Eagles,Heracles,Away",
+            "tackles": "18/15[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "17/14[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "10/7[A]",
+            "dribblesAttempted": "21/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "7/10[H]",
+            "goalKicks": "13/11[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "6/18[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "GA Eagles,Feyenoord,Home",
+            "tackles": "6/8[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "11/19[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "7/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "19/18[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "GA Eagles,NAC Breda,Away",
+            "tackles": "13/16[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "18/25[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "1/4[A]",
+            "dribblesAttempted": "7/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/10[H]",
+            "fouls": "7/12[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "19/17[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "GA Eagles,Excelsior,Home",
+            "tackles": "10/9[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "9/9[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "7/4[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "8/7[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "6/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/17[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "GA Eagles,PSV,Away",
+            "tackles": "4/11[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "6/6[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "4/9[A]",
+            "dribblesAttempted": "8/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/4[H]",
+            "fouls": "13/18[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "7/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "1/1[H]",
+            "throwIns": "22/14[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "GA Eagles,NEC,Home",
+            "tackles": "11/18[H]",
+            "interceptions": "3/6[H]",
+            "aerialDuels": "20/17[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "12/9[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "6/3[A]+4/11[A]+4/3[H]+3/6[A]+4/7[H]+2/2[A]+4/10[H]+1/6[A]+11/4[H]",
+        "fouls": "9/7[A]+8/8[A]+9/12[H]+15/6[A]+7/10[H]+8/10[A]+7/12[H]+8/7[A]+13/18[H]",
+        "goalKicks": "11/4[A]+9/5[A]+7/7[H]+5/2[A]+13/11[H]+10/6[A]+8/10[H]+10/5[A]+4/7[H]",
+        "saves": "5/2[A]+6/4[A]+6/4[H]+8/2[A]+5/3[H]+1/2[A]+2/2[H]+6/1[A]+7/1[H]",
+        "offsides": "2/1[A]+1/0[A]+2/1[H]+1/1[A]+1/1[H]+2/1[A]+1/1[H]+2/0[A]+0/0[H]",
+        "shotsOnTarget": "2/7[A]+7/7[A]+6/8[H]+4/12[A]+5/6[H]+2/2[A]+4/2[H]+2/8[A]+3/7[H]",
+        "yellowCards": "3/0[A]+1/2[A]+2/2[H]+3/1[A]+2/1[H]+2/4[A]+1/2[H]+1/1[A]+1/5[H]",
+        "goals": "0/2[A]+2/2[A]+2/2[H]+2/4[A]+2/1[H]+0/1[A]+2/0[H]+1/2[A]+1/1[H]",
+        "throwIns": "25/21[A]+18/16[A]+20/22[H]+21/14[A]+6/18[H]+19/18[A]+19/17[H]+18/17[A]+22/14[H]",
+        "averageBallPossession": "46/54[A]+52/48[A]+59/41[H]+54/46[A]+40/60[H]+56/44[A]+52/48[H]+43/57[A]+54/46[H]",
+        "teams": "GA Eagles,Twente,Away+GA Eagles,AZ,Away+GA Eagles,Utrecht,Home+GA Eagles,Heracles,Away+GA Eagles,Feyenoord,Home+GA Eagles,NAC Breda,Away+GA Eagles,Excelsior,Home+GA Eagles,PSV,Away+GA Eagles,NEC,Home",
+        "tackles": "10/14[A]+12/19[A]+13/14[H]+18/15[A]+6/8[H]+13/16[A]+10/9[H]+4/11[A]+11/18[H]",
+        "interceptions": "8/3[A]+8/5[A]+3/2[H]+9/4[A]+7/9[H]+6/4[A]+10/8[H]+11/10[A]+3/6[H]",
+        "aerialDuels": "8/15[A]+9/13[A]+12/22[H]+17/14[A]+11/19[H]+18/25[A]+9/9[H]+6/6[A]+20/17[H]",
+        "aerialDuelsAttempted": "23/23[A]+22/22[A]+34/34[H]+31/31[A]+30/30[H]+43/43[A]+18/18[H]+12/12[A]+37/37[H]",
+        "dribbles": "5/15[A]+6/6[A]+4/4[H]+10/7[A]+5/7[H]+1/4[A]+3/4[H]+4/9[A]+3/4[H]",
+        "dribblesAttempted": "14/20[A]+13/10[A]+9/8[H]+21/16[A]+7/9[H]+7/9[A]+7/4[H]+8/11[A]+12/9[H]",
+        "isHome": "false+false+true+false+true+false+true+false+true",
+        "cornersTotals": "39/52",
+        "cornersTotalsHome": "23/24",
+        "cornersTotalsAway": "16/28",
+        "cornersAverage": "4.33/5.78",
+        "cornersAverageHome": "5.75/6.00",
+        "cornersAverageAway": "3.20/5.60",
+        "foulsTotals": "84/90",
+        "foulsTotalsHome": "36/52",
+        "foulsTotalsAway": "48/38",
+        "foulsAverage": "9.33/10.00",
+        "foulsAverageHome": "9.00/13.00",
+        "foulsAverageAway": "9.60/7.60",
+        "goalKicksTotals": "77/57",
+        "goalKicksTotalsHome": "32/35",
+        "goalKicksTotalsAway": "45/22",
+        "goalKicksAverage": "8.56/6.33",
+        "goalKicksAverageHome": "8.00/8.75",
+        "goalKicksAverageAway": "9.00/4.40",
+        "savesTotals": "46/21",
+        "savesTotalsHome": "20/10",
+        "savesTotalsAway": "26/11",
+        "savesAverage": "5.11/2.33",
+        "savesAverageHome": "5.00/2.50",
+        "savesAverageAway": "5.20/2.20",
+        "offsidesTotals": "12/6",
+        "offsidesTotalsHome": "4/3",
+        "offsidesTotalsAway": "8/3",
+        "offsidesAverage": "1.33/0.67",
+        "offsidesAverageHome": "1.00/0.75",
+        "offsidesAverageAway": "1.60/0.60",
+        "shotsOnTargetTotals": "35/59",
+        "shotsOnTargetTotalsHome": "18/23",
+        "shotsOnTargetTotalsAway": "17/36",
+        "shotsOnTargetAverage": "3.89/6.56",
+        "shotsOnTargetAverageHome": "4.50/5.75",
+        "shotsOnTargetAverageAway": "3.40/7.20",
+        "yellowCardsTotals": "16/18",
+        "yellowCardsTotalsHome": "6/10",
+        "yellowCardsTotalsAway": "10/8",
+        "yellowCardsAverage": "1.78/2.00",
+        "yellowCardsAverageHome": "1.50/2.50",
+        "yellowCardsAverageAway": "2.00/1.60",
+        "goalsTotals": "12/15",
+        "goalsTotalsHome": "7/4",
+        "goalsTotalsAway": "5/11",
+        "goalsAverage": "1.33/1.67",
+        "goalsAverageHome": "1.75/1.00",
+        "goalsAverageAway": "1.00/2.20",
+        "throwInsTotals": "168/157",
+        "throwInsTotalsHome": "67/71",
+        "throwInsTotalsAway": "101/86",
+        "throwInsAverage": "18.67/17.44",
+        "throwInsAverageHome": "16.75/17.75",
+        "throwInsAverageAway": "20.20/17.20",
+        "averageBallPossessionTotals": "456/444",
+        "averageBallPossessionTotalsHome": "205/195",
+        "averageBallPossessionTotalsAway": "251/249",
+        "averageBallPossessionAverage": "50.67/49.33",
+        "averageBallPossessionAverageHome": "51.25/48.75",
+        "averageBallPossessionAverageAway": "50.20/49.80",
+        "tacklesTotals": "97/124",
+        "tacklesTotalsHome": "40/49",
+        "tacklesTotalsAway": "57/75",
+        "tacklesAverage": "10.78/13.78",
+        "tacklesAverageHome": "10.00/12.25",
+        "tacklesAverageAway": "11.40/15.00",
+        "interceptionsTotals": "65/51",
+        "interceptionsTotalsHome": "23/25",
+        "interceptionsTotalsAway": "42/26",
+        "interceptionsAverage": "7.22/5.67",
+        "interceptionsAverageHome": "5.75/6.25",
+        "interceptionsAverageAway": "8.40/5.20",
+        "aerialDuelsTotals": "110/140",
+        "aerialDuelsTotalsHome": "52/67",
+        "aerialDuelsTotalsAway": "58/73",
+        "aerialDuelsAverage": "12.22/15.56",
+        "aerialDuelsAverageHome": "13.00/16.75",
+        "aerialDuelsAverageAway": "11.60/14.60",
+        "aerialDuelsAttemptedTotals": "250/250",
+        "aerialDuelsAttemptedTotalsHome": "119/119",
+        "aerialDuelsAttemptedTotalsAway": "131/131",
+        "aerialDuelsAttemptedAverage": "27.78/27.78",
+        "aerialDuelsAttemptedAverageHome": "29.75/29.75",
+        "aerialDuelsAttemptedAverageAway": "26.20/26.20",
+        "dribblesTotals": "41/60",
+        "dribblesTotalsHome": "15/19",
+        "dribblesTotalsAway": "26/41",
+        "dribblesAverage": "4.56/6.67",
+        "dribblesAverageHome": "3.75/4.75",
+        "dribblesAverageAway": "5.20/8.20",
+        "dribblesAttemptedTotals": "98/96",
+        "dribblesAttemptedTotalsHome": "35/30",
+        "dribblesAttemptedTotalsAway": "63/66",
+        "dribblesAttemptedAverage": "10.89/10.67",
+        "dribblesAttemptedAverageHome": "8.75/7.50",
+        "dribblesAttemptedAverageAway": "12.60/13.20"
+    }
+}

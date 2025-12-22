@@ -1,0 +1,687 @@
+{
+    "globalStatistics": {
+        "corners": "4.13",
+        "fouls": "8.88",
+        "goalKicks": "9.63",
+        "saves": "4.44",
+        "offsides": "1.06",
+        "shotsOnTarget": "4.06/6.63",
+        "yellowCards": "1.69/1.81",
+        "goals": "1.06/1.94",
+        "throwIns": "15.00",
+        "ballPossession": 45.0625,
+        "tackles": "17.19/13.44",
+        "interceptions": "7.94/8.63",
+        "aerialDuels": "18.31",
+        "aerialDuelsAttempted": "32.38",
+        "dribbles": "5.81/9.13",
+        "dribblesAttempted": "13.63/17.06"
+    },
+    "teamSlug": "sparta-rotterdam",
+    "teamId": "2960",
+    "teamName": "Sparta Rotterdam",
+    "tournament": "VriendenLoterij Eredivisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sc-heerenveen-sparta-rotterdam/kjbsojb#id:14053704,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Heerenveen"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2960",
+                "2964"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-nac-breda/Xibskjb#id:14053673,tab:statistics",
+            "teams": [
+                "Sparta",
+                "NAC Breda"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2960",
+                "2947"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nec-nijmegen-sparta-rotterdam/kjbsmjb#id:14053645,tab:statistics",
+            "teams": [
+                "NEC",
+                "Sparta"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2962",
+                "2960"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-fortuna-sittard/hjbskjb#id:14053620,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Fortuna"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2960",
+                "2957"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-sparta-rotterdam/kjbswjb#id:14053591,tab:statistics",
+            "teams": [
+                "Zwolle",
+                "Sparta"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2971",
+                "2960"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-az-alkmaar/ajbskjb#id:14053821,tab:statistics",
+            "teams": [
+                "Sparta",
+                "AZ"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2960",
+                "2950"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-telstar-sparta-rotterdam/kjbsxjb#id:14053791,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Telstar"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2960",
+                "2972"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-fc-groningen/bjbskjb#id:14046017,tab:statistics",
+            "teams": [
+                "Groningen",
+                "Sparta"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2951",
+                "2960"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-afc-ajax/djbskjb#id:14053740,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Ajax"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "2960",
+                "2953"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heracles-almelo-sparta-rotterdam/kjbsCjb#id:14053730,tab:statistics",
+            "teams": [
+                "Heracles",
+                "Sparta"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2977",
+                "2960"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-fc-twente/fjbskjb#id:14053688,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Twente"
+            ],
+            "goals": [
+                "1",
+                "5"
+            ],
+            "teamIds": [
+                "2960",
+                "2955"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-sparta-rotterdam/kjbsrjb#id:14053674,tab:statistics",
+            "teams": [
+                "Excelsior",
+                "Sparta"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2967",
+                "2960"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-feyenoord/jjbskjb#id:14053651,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Feyenoord"
+            ],
+            "goals": [
+                "0",
+                "4"
+            ],
+            "teamIds": [
+                "2960",
+                "2959"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-sparta-rotterdam/kjbsEjb#id:14053612,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "Sparta"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2979",
+                "2960"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-fc-utrecht/Yibskjb#id:14053601,tab:statistics",
+            "teams": [
+                "Sparta",
+                "Utrecht"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2960",
+                "2948"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 9,
+    "awayMatchCount": 6,
+    "matchStatistics": [
+        {
+            "corners": "5/10[H]",
+            "fouls": "10/15[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/3[H]",
+            "throwIns": "21/28[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Sparta,Heerenveen,Home",
+            "tackles": "23/10[H]",
+            "interceptions": "15/6[H]",
+            "aerialDuels": "20/17[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/14[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "12/6[H]",
+            "saves": "8/4[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "6/9[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "18/21[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Sparta,NAC Breda,Home",
+            "tackles": "25/16[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "16/13[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "18/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "13/9[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "3/6[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "5/7[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "20/20[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Sparta,NEC,Away",
+            "tackles": "12/19[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "15/18[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "18/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "6/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "12/23[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Sparta,Fortuna,Home",
+            "tackles": "20/15[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "19/11[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "4/10[H]",
+            "dribblesAttempted": "14/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "28/18[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Sparta,Zwolle,Away",
+            "tackles": "21/17[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "14/18[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "21/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/9[H]",
+            "fouls": "7/12[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "13/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/14[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "6/10[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Sparta,AZ,Home",
+            "tackles": "17/13[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "20/12[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "4/14[H]",
+            "dribblesAttempted": "9/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "10/10[H]",
+            "saves": "3/5[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "14/24[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Sparta,Telstar,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "3/10[H]",
+            "aerialDuels": "29/9[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "10/8[A]",
+            "saves": "0/0[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/0[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "14/28[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Sparta,Groningen,Away",
+            "tackles": "14/21[A]",
+            "interceptions": "8/3[A]",
+            "aerialDuels": "33/16[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "16/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "8/9[H]",
+            "goalKicks": "10/5[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "3/3[H]",
+            "throwIns": "21/26[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Sparta,Ajax,Home",
+            "tackles": "24/14[H]",
+            "interceptions": "9/5[H]",
+            "aerialDuels": "9/12[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "6/12[H]",
+            "dribblesAttempted": "11/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "13/13[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Sparta,Heracles,Away",
+            "tackles": "9/9[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "12/21[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "12/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "7/6[H]",
+            "goalKicks": "14/10[H]",
+            "saves": "6/1[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "2/11[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/5[H]",
+            "throwIns": "19/17[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Sparta,Twente,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "7/13[H]",
+            "aerialDuels": "16/6[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "14/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "8/11[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "4/6[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Sparta,Excelsior,Away",
+            "tackles": "23/10[A]",
+            "interceptions": "5/9[A]",
+            "aerialDuels": "24/12[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "6/13[A]",
+            "dribblesAttempted": "11/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/9[H]",
+            "fouls": "5/9[H]",
+            "goalKicks": "12/1[H]",
+            "saves": "7/2[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "2/11[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/4[H]",
+            "throwIns": "12/15[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Sparta,Feyenoord,Home",
+            "tackles": "15/11[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "12/21[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "4/15[H]",
+            "dribblesAttempted": "9/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/12[A]",
+            "fouls": "8/6[A]",
+            "goalKicks": "13/10[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "5/14[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Sparta,GA Eagles,Away",
+            "tackles": "13/5[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "23/12[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "7/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/24[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Sparta,Utrecht,Home",
+            "tackles": "22/14[H]",
+            "interceptions": "11/10[H]",
+            "aerialDuels": "20/16[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "11/17[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "5/10[H]+1/14[H]+6/7[A]+7/5[H]+6/3[A]+6/9[H]+6/7[H]+4/7[A]+6/4[H]+4/5[A]+1/6[H]+2/7[A]+1/9[H]+1/12[A]+5/6[H]",
+        "fouls": "10/15[H]+11/10[H]+13/9[A]+9/11[H]+15/9[A]+7/12[H]+9/14[H]+10/11[A]+8/9[H]+11/12[A]+7/6[H]+8/11[A]+5/9[H]+8/6[A]+9/11[H]",
+        "goalKicks": "7/8[H]+12/6[H]+10/9[A]+5/7[H]+5/9[A]+10/9[H]+10/10[H]+10/8[A]+10/5[H]+7/11[A]+14/10[H]+6/8[A]+12/1[H]+13/10[A]+7/5[H]",
+        "saves": "3/3[H]+8/4[H]+3/6[A]+6/3[H]+1/1[A]+13/3[H]+3/5[H]+0/0[A]+1/2[H]+2/4[A]+6/1[H]+4/6[A]+7/2[H]+5/2[A]+4/3[H]",
+        "offsides": "1/1[H]+4/2[H]+0/0[A]+0/3[H]+1/2[A]+2/2[H]+0/1[H]+1/2[A]+1/1[H]+1/3[A]+2/0[H]+1/1[A]+2/2[H]+1/3[A]+0/4[H]",
+        "shotsOnTarget": "3/5[H]+6/9[H]+5/7[A]+4/7[H]+1/3[A]+3/14[H]+6/3[H]+2/0[A]+5/4[H]+5/5[A]+2/11[H]+7/4[A]+2/11[H]+5/6[A]+5/5[H]",
+        "yellowCards": "1/2[H]+1/1[H]+4/2[A]+1/1[H]+4/2[A]+1/1[H]+3/2[H]+2/3[A]+1/3[H]+4/2[A]+0/1[H]+1/4[A]+1/2[H]+2/0[A]+1/3[H]",
+        "goals": "0/3[H]+1/0[H]+1/3[A]+1/1[H]+0/1[A]+0/1[H]+1/0[H]+2/0[A]+3/3[H]+0/3[A]+1/5[H]+1/0[A]+0/4[H]+3/0[A]+2/1[H]",
+        "throwIns": "21/28[H]+18/21[H]+20/20[A]+12/23[H]+28/18[A]+6/10[H]+14/24[H]+14/28[A]+21/26[H]+13/13[A]+19/17[H]+13/18[A]+12/15[H]+5/14[A]+17/24[H]",
+        "averageBallPossession": "53/47[H]+41/59[H]+48/52[A]+61/39[H]+64/36[A]+42/58[H]+47/53[H]+39/61[A]+33/67[H]+52/48[A]+45/55[H]+47/53[A]+38/62[H]+32/68[A]+45/55[H]",
+        "teams": "Sparta,Heerenveen,Home+Sparta,NAC Breda,Home+Sparta,NEC,Away+Sparta,Fortuna,Home+Sparta,Zwolle,Away+Sparta,AZ,Home+Sparta,Telstar,Home+Sparta,Groningen,Away+Sparta,Ajax,Home+Sparta,Heracles,Away+Sparta,Twente,Home+Sparta,Excelsior,Away+Sparta,Feyenoord,Home+Sparta,GA Eagles,Away+Sparta,Utrecht,Home",
+        "tackles": "23/10[H]+25/16[H]+12/19[A]+20/15[H]+21/17[A]+17/13[H]+15/13[H]+14/21[A]+24/14[H]+9/9[A]+12/15[H]+23/10[A]+15/11[H]+13/5[A]+22/14[H]",
+        "interceptions": "15/6[H]+9/8[H]+6/8[A]+9/12[H]+7/15[A]+6/7[H]+3/10[H]+8/3[A]+9/5[H]+7/8[A]+7/13[H]+5/9[A]+8/5[H]+6/7[A]+11/10[H]",
+        "aerialDuels": "20/17[H]+16/13[H]+15/18[A]+19/11[H]+14/18[A]+20/12[H]+29/9[H]+33/16[A]+9/12[H]+12/21[A]+16/6[H]+24/12[A]+12/21[H]+23/12[A]+20/16[H]",
+        "aerialDuelsAttempted": "37/37[H]+29/29[H]+33/33[A]+30/30[H]+32/32[A]+32/32[H]+38/38[H]+49/49[A]+21/21[H]+33/33[A]+22/22[H]+36/36[A]+33/33[H]+35/35[A]+36/36[H]",
+        "dribbles": "7/5[H]+9/5[H]+7/10[A]+4/10[H]+9/5[A]+4/14[H]+7/7[H]+5/11[A]+6/12[H]+3/8[A]+4/7[H]+6/13[A]+4/15[H]+5/5[A]+3/6[H]",
+        "dribblesAttempted": "14/13[H]+18/17[H]+18/16[A]+14/20[H]+21/15[A]+9/25[H]+14/13[H]+16/16[A]+11/19[H]+12/14[A]+14/14[H]+11/21[A]+9/24[H]+7/10[A]+11/17[H]",
+        "isHome": "true+true+false+true+false+true+true+false+true+false+true+false+true+false+true",
+        "cornersTotals": "61/111",
+        "cornersTotalsHome": "38/70",
+        "cornersTotalsAway": "23/41",
+        "cornersAverage": "4.07/7.40",
+        "cornersAverageHome": "4.22/7.78",
+        "cornersAverageAway": "3.83/6.83",
+        "foulsTotals": "140/155",
+        "foulsTotalsHome": "75/97",
+        "foulsTotalsAway": "65/58",
+        "foulsAverage": "9.33/10.33",
+        "foulsAverageHome": "8.33/10.78",
+        "foulsAverageAway": "10.83/9.67",
+        "goalKicksTotals": "138/116",
+        "goalKicksTotalsHome": "87/61",
+        "goalKicksTotalsAway": "51/55",
+        "goalKicksAverage": "9.20/7.73",
+        "goalKicksAverageHome": "9.67/6.78",
+        "goalKicksAverageAway": "8.50/9.17",
+        "savesTotals": "66/45",
+        "savesTotalsHome": "51/26",
+        "savesTotalsAway": "15/19",
+        "savesAverage": "4.40/3.00",
+        "savesAverageHome": "5.67/2.89",
+        "savesAverageAway": "2.50/3.17",
+        "offsidesTotals": "17/27",
+        "offsidesTotalsHome": "12/16",
+        "offsidesTotalsAway": "5/11",
+        "offsidesAverage": "1.13/1.80",
+        "offsidesAverageHome": "1.33/1.78",
+        "offsidesAverageAway": "0.83/1.83",
+        "shotsOnTargetTotals": "61/94",
+        "shotsOnTargetTotalsHome": "36/69",
+        "shotsOnTargetTotalsAway": "25/25",
+        "shotsOnTargetAverage": "4.07/6.27",
+        "shotsOnTargetAverageHome": "4.00/7.67",
+        "shotsOnTargetAverageAway": "4.17/4.17",
+        "yellowCardsTotals": "27/29",
+        "yellowCardsTotalsHome": "10/16",
+        "yellowCardsTotalsAway": "17/13",
+        "yellowCardsAverage": "1.80/1.93",
+        "yellowCardsAverageHome": "1.11/1.78",
+        "yellowCardsAverageAway": "2.83/2.17",
+        "goalsTotals": "16/25",
+        "goalsTotalsHome": "9/18",
+        "goalsTotalsAway": "7/7",
+        "goalsAverage": "1.07/1.67",
+        "goalsAverageHome": "1.00/2.00",
+        "goalsAverageAway": "1.17/1.17",
+        "throwInsTotals": "233/299",
+        "throwInsTotalsHome": "140/188",
+        "throwInsTotalsAway": "93/111",
+        "throwInsAverage": "15.53/19.93",
+        "throwInsAverageHome": "15.56/20.89",
+        "throwInsAverageAway": "15.50/18.50",
+        "averageBallPossessionTotals": "687/813",
+        "averageBallPossessionTotalsHome": "405/495",
+        "averageBallPossessionTotalsAway": "282/318",
+        "averageBallPossessionAverage": "45.80/54.20",
+        "averageBallPossessionAverageHome": "45.00/55.00",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "265/202",
+        "tacklesTotalsHome": "173/121",
+        "tacklesTotalsAway": "92/81",
+        "tacklesAverage": "17.67/13.47",
+        "tacklesAverageHome": "19.22/13.44",
+        "tacklesAverageAway": "15.33/13.50",
+        "interceptionsTotals": "116/126",
+        "interceptionsTotalsHome": "77/76",
+        "interceptionsTotalsAway": "39/50",
+        "interceptionsAverage": "7.73/8.40",
+        "interceptionsAverageHome": "8.56/8.44",
+        "interceptionsAverageAway": "6.50/8.33",
+        "aerialDuelsTotals": "282/214",
+        "aerialDuelsTotalsHome": "161/117",
+        "aerialDuelsTotalsAway": "121/97",
+        "aerialDuelsAverage": "18.80/14.27",
+        "aerialDuelsAverageHome": "17.89/13.00",
+        "aerialDuelsAverageAway": "20.17/16.17",
+        "aerialDuelsAttemptedTotals": "496/496",
+        "aerialDuelsAttemptedTotalsHome": "278/278",
+        "aerialDuelsAttemptedTotalsAway": "218/218",
+        "aerialDuelsAttemptedAverage": "33.07/33.07",
+        "aerialDuelsAttemptedAverageHome": "30.89/30.89",
+        "aerialDuelsAttemptedAverageAway": "36.33/36.33",
+        "dribblesTotals": "83/133",
+        "dribblesTotalsHome": "48/81",
+        "dribblesTotalsAway": "35/52",
+        "dribblesAverage": "5.53/8.87",
+        "dribblesAverageHome": "5.33/9.00",
+        "dribblesAverageAway": "5.83/8.67",
+        "dribblesAttemptedTotals": "199/254",
+        "dribblesAttemptedTotalsHome": "114/162",
+        "dribblesAttemptedTotalsAway": "85/92",
+        "dribblesAttemptedAverage": "13.27/16.93",
+        "dribblesAttemptedAverageHome": "12.67/18.00",
+        "dribblesAttemptedAverageAway": "14.17/15.33"
+    }
+}

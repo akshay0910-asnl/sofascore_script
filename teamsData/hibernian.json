@@ -1,0 +1,614 @@
+{
+    "globalStatistics": {
+        "corners": "5.35",
+        "fouls": "10.76",
+        "goalKicks": "6.59",
+        "saves": "3.29",
+        "offsides": "2.06",
+        "shotsOnTarget": "5.06/4.35",
+        "yellowCards": "1.65/2.24",
+        "goals": "1.59/1.12",
+        "throwIns": "20.59",
+        "ballPossession": 47.823529411765,
+        "tackles": "11.76/13.82",
+        "interceptions": "7.59/7.82",
+        "aerialDuels": "15.76",
+        "aerialDuelsAttempted": "31.29",
+        "dribbles": "6.35/5.24",
+        "dribblesAttempted": "12.82/10.00"
+    },
+    "teamSlug": "hibernian",
+    "teamId": "2354",
+    "teamName": "Hibernian",
+    "tournament": "Scottish Premiership",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-rangers/bXseX#id:14035220,tab:statistics",
+            "teams": [
+                "Rangers",
+                "Hibernian"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2351",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-hibernian/eXsnX#id:14035208,tab:statistics",
+            "teams": [
+                "Hibernian",
+                "Falkirk"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2354",
+                "2363"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-celtic/cXseX#id:14035197,tab:statistics",
+            "teams": [
+                "Hibernian",
+                "Celtic"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2354",
+                "2352"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-motherwell/WWseX#id:14884440,tab:statistics",
+            "teams": [
+                "Motherwell",
+                "Hibernian"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2346",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-hibernian/eXshX#id:14035194,tab:statistics",
+            "teams": [
+                "Hibernian",
+                "Dundee"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2354",
+                "2357"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/st-mirren-hibernian/eXsjX#id:14035188,tab:statistics",
+            "teams": [
+                "St Mirren",
+                "Hibernian"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2359",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/livingston-hibernian/eXsgX#id:14035209,tab:statistics",
+            "teams": [
+                "Livingston",
+                "Hibernian"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2356",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-rangers/bXseX#id:14035176,tab:statistics",
+            "teams": [
+                "Hibernian",
+                "Rangers"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2354",
+                "2351"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aberdeen-hibernian/eXsfX#id:14035166,tab:statistics",
+            "teams": [
+                "Aberdeen",
+                "Hibernian"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2355",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/livingston-hibernian/eXsgX#id:14035160,tab:statistics",
+            "teams": [
+                "Hibernian",
+                "Livingston"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2354",
+                "2356"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-heart-of-midlothian/dXseX#id:14035158,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Hibernian"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2353",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-celtic/cXseX#id:14035147,tab:statistics",
+            "teams": [
+                "Celtic",
+                "Hibernian"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2352",
+                "2354"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-hibernian/eXsnX#id:14608157,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Hibernian"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2363",
+                "2354"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 5,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "5/5[A]",
+            "fouls": "14/17[A]",
+            "goalKicks": "4/8[A]",
+            "saves": "7/2[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/20[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Hibernian,Rangers,Away",
+            "tackles": "19/15[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "10/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/4[H]",
+            "fouls": "13/9[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "3/0[H]",
+            "throwIns": "20/17[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Hibernian,Falkirk,Home",
+            "tackles": "23/12[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "17/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "9/18[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "0/3[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "26/10[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Hibernian,Celtic,Home",
+            "tackles": "6/14[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "11/15[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "3/2[H]",
+            "dribblesAttempted": "12/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/0[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "9/4[A]",
+            "saves": "4/0[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "13/16[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "Hibernian,Motherwell,Away",
+            "tackles": "10/7[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "15/12[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "8/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "1/9[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "16/17[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Hibernian,Dundee,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "5/10[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "15/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "9/10[A]",
+            "saves": "5/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "3/0[A]",
+            "throwIns": "8/8[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Hibernian,St Mirren,Away",
+            "tackles": "3/13[A]",
+            "interceptions": "4/4[A]",
+            "aerialDuels": "23/15[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "5/1[A]",
+            "dribblesAttempted": "11/3[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "13/16[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "3/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "29/15[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Hibernian,Livingston,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "8/12[A]",
+            "aerialDuels": "21/12[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "11/7[A]",
+            "dribblesAttempted": "18/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "2/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "25/15[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Hibernian,Rangers,Home",
+            "tackles": "14/16[H]",
+            "interceptions": "14/8[H]",
+            "aerialDuels": "9/13[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "4/8[H]",
+            "dribblesAttempted": "11/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "8/12[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/1[A]",
+            "throwIns": "15/27[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Hibernian,Aberdeen,Away",
+            "tackles": "20/11[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "16/9[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "13/9[A]",
+            "dribblesAttempted": "18/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/10[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "2/7[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "12/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "14/18[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Hibernian,Livingston,Home",
+            "tackles": "9/13[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "22/16[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "16/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "31/31[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Hibernian,Hearts,Away",
+            "tackles": "15/11[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "26/24[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "1/16[A]",
+            "goalKicks": "18/3[A]",
+            "saves": "6/1[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "17/26[A]",
+            "averageBallPossession": "23/77[A]",
+            "teams": "Hibernian,Celtic,Away",
+            "tackles": "10/7[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "13/12[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "2/2[A]",
+            "dribblesAttempted": "2/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "4/7[A]",
+            "saves": "4/5[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "7/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "19/23[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Hibernian,Falkirk,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "20/20[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "9/4[A]",
+            "dribblesAttempted": "15/9[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "5/5[A]+10/4[H]+4/3[H]+2/0[A]+8/3[H]+6/5[A]+1/6[A]+5/4[H]+3/6[A]+7/10[H]+2/4[A]+2/7[A]+5/5[A]",
+        "fouls": "14/17[A]+13/9[H]+9/18[H]+17/13[A]+9/11[H]+12/13[A]+13/16[A]+14/16[H]+11/13[A]+11/14[H]+10/10[A]+1/16[A]+13/11[A]",
+        "goalKicks": "4/8[A]+5/9[H]+4/7[H]+9/4[A]+1/9[H]+9/10[A]+7/8[A]+5/5[H]+8/12[A]+5/6[H]+6/5[A]+18/3[A]+4/7[A]",
+        "saves": "7/2[A]+5/2[H]+0/3[H]+4/0[A]+4/3[H]+5/4[A]+3/3[A]+2/4[H]+4/2[A]+2/7[H]+2/1[A]+6/1[A]+4/5[A]",
+        "offsides": "4/2[A]+0/2[H]+4/2[H]+1/3[A]+2/0[H]+0/3[A]+2/1[A]+2/1[H]+3/4[A]+2/0[H]+3/2[A]+5/2[A]+2/4[A]",
+        "shotsOnTarget": "3/8[A]+5/4[H]+4/2[H]+1/5[A]+5/4[H]+5/5[A]+5/5[A]+4/3[H]+7/5[A]+12/2[H]+1/3[A]+1/6[A]+7/6[A]",
+        "yellowCards": "3/1[A]+1/4[H]+3/3[H]+1/0[A]+2/1[H]+1/4[A]+3/3[A]+2/3[H]+2/0[A]+1/2[H]+1/2[A]+1/2[A]+2/3[A]",
+        "goals": "0/1[A]+3/0[H]+1/2[H]+0/2[A]+2/0[H]+3/0[A]+2/2[A]+0/1[H]+2/1[A]+4/0[H]+0/1[A]+0/0[A]+2/2[A]",
+        "throwIns": "23/20[A]+20/17[H]+26/10[H]+13/16[A]+16/17[H]+8/8[A]+29/15[A]+25/15[H]+15/27[A]+14/18[H]+31/31[A]+17/26[A]+19/23[A]",
+        "averageBallPossession": "48/52[A]+42/58[H]+40/60[H]+30/70[A]+57/43[H]+54/46[A]+52/48[A]+49/51[H]+46/54[A]+47/53[H]+38/62[A]+23/77[A]+49/51[A]",
+        "teams": "Hibernian,Rangers,Away+Hibernian,Falkirk,Home+Hibernian,Celtic,Home+Hibernian,Motherwell,Away+Hibernian,Dundee,Home+Hibernian,St Mirren,Away+Hibernian,Livingston,Away+Hibernian,Rangers,Home+Hibernian,Aberdeen,Away+Hibernian,Livingston,Home+Hibernian,Hearts,Away+Hibernian,Celtic,Away+Hibernian,Falkirk,Away",
+        "tackles": "19/15[A]+23/12[H]+6/14[H]+10/7[A]+12/17[H]+3/13[A]+10/17[A]+14/16[H]+20/11[A]+9/13[H]+15/11[A]+10/7[A]+12/15[A]",
+        "interceptions": "7/10[A]+9/4[H]+4/6[H]+9/8[A]+5/5[H]+4/4[A]+8/12[A]+14/8[H]+12/5[A]+10/7[H]+5/5[A]+6/12[A]+12/11[A]",
+        "aerialDuels": "13/13[A]+14/14[H]+11/15[H]+15/12[A]+5/10[H]+23/15[A]+21/12[A]+9/13[H]+16/9[A]+22/16[H]+26/24[A]+13/12[A]+20/20[A]",
+        "aerialDuelsAttempted": "26/26[A]+28/28[H]+26/26[H]+27/27[A]+15/15[H]+38/38[A]+33/33[A]+22/22[H]+25/25[A]+38/38[H]+50/50[A]+25/25[A]+40/40[A]",
+        "dribbles": "3/9[A]+11/5[H]+3/2[H]+4/3[A]+6/4[H]+5/1[A]+11/7[A]+4/8[H]+13/9[A]+11/5[H]+3/5[A]+2/2[A]+9/4[A]",
+        "dribblesAttempted": "10/19[A]+17/15[H]+12/6[H]+8/7[A]+15/9[H]+11/3[A]+18/11[A]+11/15[H]+18/18[A]+16/7[H]+8/9[A]+2/6[A]+15/9[A]",
+        "isHome": "false+true+true+false+true+false+false+true+false+true+false+false+false",
+        "cornersTotals": "60/62",
+        "cornersTotalsHome": "34/24",
+        "cornersTotalsAway": "26/38",
+        "cornersAverage": "4.62/4.77",
+        "cornersAverageHome": "6.80/4.80",
+        "cornersAverageAway": "3.25/4.75",
+        "foulsTotals": "147/177",
+        "foulsTotalsHome": "56/68",
+        "foulsTotalsAway": "91/109",
+        "foulsAverage": "11.31/13.62",
+        "foulsAverageHome": "11.20/13.60",
+        "foulsAverageAway": "11.38/13.63",
+        "goalKicksTotals": "85/93",
+        "goalKicksTotalsHome": "20/36",
+        "goalKicksTotalsAway": "65/57",
+        "goalKicksAverage": "6.54/7.15",
+        "goalKicksAverageHome": "4.00/7.20",
+        "goalKicksAverageAway": "8.13/7.13",
+        "savesTotals": "48/37",
+        "savesTotalsHome": "13/19",
+        "savesTotalsAway": "35/18",
+        "savesAverage": "3.69/2.85",
+        "savesAverageHome": "2.60/3.80",
+        "savesAverageAway": "4.38/2.25",
+        "offsidesTotals": "30/26",
+        "offsidesTotalsHome": "10/5",
+        "offsidesTotalsAway": "20/21",
+        "offsidesAverage": "2.31/2.00",
+        "offsidesAverageHome": "2.00/1.00",
+        "offsidesAverageAway": "2.50/2.63",
+        "shotsOnTargetTotals": "60/58",
+        "shotsOnTargetTotalsHome": "30/15",
+        "shotsOnTargetTotalsAway": "30/43",
+        "shotsOnTargetAverage": "4.62/4.46",
+        "shotsOnTargetAverageHome": "6.00/3.00",
+        "shotsOnTargetAverageAway": "3.75/5.38",
+        "yellowCardsTotals": "23/28",
+        "yellowCardsTotalsHome": "9/13",
+        "yellowCardsTotalsAway": "14/15",
+        "yellowCardsAverage": "1.77/2.15",
+        "yellowCardsAverageHome": "1.80/2.60",
+        "yellowCardsAverageAway": "1.75/1.88",
+        "goalsTotals": "19/12",
+        "goalsTotalsHome": "10/3",
+        "goalsTotalsAway": "9/9",
+        "goalsAverage": "1.46/0.92",
+        "goalsAverageHome": "2.00/0.60",
+        "goalsAverageAway": "1.13/1.13",
+        "throwInsTotals": "256/243",
+        "throwInsTotalsHome": "101/77",
+        "throwInsTotalsAway": "155/166",
+        "throwInsAverage": "19.69/18.69",
+        "throwInsAverageHome": "20.20/15.40",
+        "throwInsAverageAway": "19.38/20.75",
+        "averageBallPossessionTotals": "575/725",
+        "averageBallPossessionTotalsHome": "235/265",
+        "averageBallPossessionTotalsAway": "340/460",
+        "averageBallPossessionAverage": "44.23/55.77",
+        "averageBallPossessionAverageHome": "47.00/53.00",
+        "averageBallPossessionAverageAway": "42.50/57.50",
+        "tacklesTotals": "163/168",
+        "tacklesTotalsHome": "64/72",
+        "tacklesTotalsAway": "99/96",
+        "tacklesAverage": "12.54/12.92",
+        "tacklesAverageHome": "12.80/14.40",
+        "tacklesAverageAway": "12.38/12.00",
+        "interceptionsTotals": "105/97",
+        "interceptionsTotalsHome": "42/30",
+        "interceptionsTotalsAway": "63/67",
+        "interceptionsAverage": "8.08/7.46",
+        "interceptionsAverageHome": "8.40/6.00",
+        "interceptionsAverageAway": "7.88/8.38",
+        "aerialDuelsTotals": "208/185",
+        "aerialDuelsTotalsHome": "61/68",
+        "aerialDuelsTotalsAway": "147/117",
+        "aerialDuelsAverage": "16.00/14.23",
+        "aerialDuelsAverageHome": "12.20/13.60",
+        "aerialDuelsAverageAway": "18.38/14.63",
+        "aerialDuelsAttemptedTotals": "393/393",
+        "aerialDuelsAttemptedTotalsHome": "129/129",
+        "aerialDuelsAttemptedTotalsAway": "264/264",
+        "aerialDuelsAttemptedAverage": "30.23/30.23",
+        "aerialDuelsAttemptedAverageHome": "25.80/25.80",
+        "aerialDuelsAttemptedAverageAway": "33.00/33.00",
+        "dribblesTotals": "85/64",
+        "dribblesTotalsHome": "35/24",
+        "dribblesTotalsAway": "50/40",
+        "dribblesAverage": "6.54/4.92",
+        "dribblesAverageHome": "7.00/4.80",
+        "dribblesAverageAway": "6.25/5.00",
+        "dribblesAttemptedTotals": "161/134",
+        "dribblesAttemptedTotalsHome": "71/52",
+        "dribblesAttemptedTotalsAway": "90/82",
+        "dribblesAttemptedAverage": "12.38/10.31",
+        "dribblesAttemptedAverageHome": "14.20/10.40",
+        "dribblesAttemptedAverageAway": "11.25/10.25"
+    }
+}

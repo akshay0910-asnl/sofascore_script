@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "5.29",
+        "fouls": "10.00",
+        "goalKicks": "6.95",
+        "saves": "3.29",
+        "offsides": "2.10",
+        "shotsOnTarget": "4.24/4.38",
+        "yellowCards": "1.52/1.95",
+        "goals": "1.33/1.14",
+        "throwIns": "22.33",
+        "ballPossession": 47.142857142857,
+        "tackles": "15.52/14.24",
+        "interceptions": "9.10/9.86",
+        "aerialDuels": "18.71",
+        "aerialDuelsAttempted": "36.24",
+        "dribbles": "5.67/7.24",
+        "dribblesAttempted": "11.86/15.62"
+    },
+    "teamSlug": "bristol-city",
+    "teamId": "58",
+    "teamName": "Bristol City",
+    "tournament": "Championship",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-coventry-city/lsib#id:14059697,tab:statistics",
+            "teams": [
+                "Coventry",
+                "Bristol City"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "11",
+                "58"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-leicester-city/Gsib#id:14059693,tab:statistics",
+            "teams": [
+                "Bristol City",
+                "Leicester"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "58",
+                "31"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-millwall/Asib#id:14059673,tab:statistics",
+            "teams": [
+                "Bristol City",
+                "Millwall"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "58",
+                "25"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-portsmouth/csib#id:14059669,tab:statistics",
+            "teams": [
+                "Portsmouth",
+                "Bristol City"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2",
+                "58"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wrexham-bristol-city/ibsob#id:14059659,tab:statistics",
+            "teams": [
+                "Wrexham",
+                "Bristol City"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "64",
+                "58"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-bristol-city/ibszb#id:14059637,tab:statistics",
+            "teams": [
+                "Bristol City",
+                "Swansea"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "58",
+                "74"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-watford/zsib#id:14059631,tab:statistics",
+            "teams": [
+                "Watford",
+                "Bristol City"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "58"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-blackburn-rovers/Wsib#id:14059614,tab:statistics",
+            "teams": [
+                "Bristol City",
+                "Blackburn"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "58",
+                "46"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/4[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "3/8[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "8/4[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "17/32[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Bristol City,Coventry,Away",
+            "tackles": "18/10[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "18/14[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "3/12[A]",
+            "dribblesAttempted": "7/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/3[H]",
+            "fouls": "10/15[H]",
+            "goalKicks": "2/10[H]",
+            "saves": "3/9[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "11/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "22/16[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "Bristol City,Leicester,Home",
+            "tackles": "9/14[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "18/12[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "6/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "7/18[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "0/1[H]",
+            "throwIns": "35/20[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Bristol City,Millwall,Home",
+            "tackles": "6/14[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "21/17[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "12/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "12/11[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "2/4[A]",
+            "offsides": "6/2[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "22/28[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Bristol City,Portsmouth,Away",
+            "tackles": "24/16[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "22/22[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "3/3[A]",
+            "offsides": "5/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "26/21[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Bristol City,Wrexham,Away",
+            "tackles": "14/13[A]",
+            "interceptions": "5/12[A]",
+            "aerialDuels": "14/20[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "10/6[A]",
+            "dribblesAttempted": "17/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "3/0[H]",
+            "throwIns": "16/16[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Bristol City,Swansea,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "6/11[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "14/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "8/3[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "4/9[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "22/13[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Bristol City,Watford,Away",
+            "tackles": "19/16[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "10/21[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "4/12[A]",
+            "dribblesAttempted": "10/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "0/5[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "37/26[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Bristol City,Blackburn,Home",
+            "tackles": "11/21[H]",
+            "interceptions": "11/17[H]",
+            "aerialDuels": "22/27[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "19/10[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "5/4[A]+10/3[H]+8/1[H]+4/4[A]+4/2[A]+5/6[H]+4/6[A]+6/3[H]",
+        "fouls": "15/13[A]+10/15[H]+7/18[H]+12/11[A]+8/10[A]+10/7[H]+9/10[A]+8/10[H]",
+        "goalKicks": "11/4[A]+2/10[H]+8/10[H]+9/5[A]+8/10[A]+6/12[H]+4/5[A]+6/8[H]",
+        "saves": "3/8[A]+3/9[H]+5/3[H]+2/4[A]+3/3[A]+5/4[H]+8/3[A]+4/0[H]",
+        "offsides": "3/3[A]+0/2[H]+1/0[H]+6/2[A]+5/1[A]+1/4[H]+3/1[A]+1/1[H]",
+        "shotsOnTarget": "8/4[A]+11/5[H]+3/6[H]+5/2[A]+3/4[A]+8/5[H]+4/9[A]+0/5[H]",
+        "yellowCards": "3/1[A]+2/3[H]+1/5[H]+0/3[A]+2/1[A]+2/0[H]+1/2[A]+0/3[H]",
+        "goals": "0/1[A]+2/2[H]+0/1[H]+1/0[A]+0/2[A]+3/0[H]+1/1[A]+0/1[H]",
+        "throwIns": "17/32[A]+22/16[H]+35/20[H]+22/28[A]+26/21[A]+16/16[H]+22/13[A]+37/26[H]",
+        "averageBallPossession": "38/62[A]+66/34[H]+67/33[H]+50/50[A]+52/48[A]+43/57[H]+36/64[A]+50/50[H]",
+        "teams": "Bristol City,Coventry,Away+Bristol City,Leicester,Home+Bristol City,Millwall,Home+Bristol City,Portsmouth,Away+Bristol City,Wrexham,Away+Bristol City,Swansea,Home+Bristol City,Watford,Away+Bristol City,Blackburn,Home",
+        "tackles": "18/10[A]+9/14[H]+6/14[H]+24/16[A]+14/13[A]+19/13[H]+19/16[A]+11/21[H]",
+        "interceptions": "9/7[A]+9/12[H]+8/12[H]+11/6[A]+5/12[A]+5/12[H]+6/7[A]+11/17[H]",
+        "aerialDuels": "18/14[A]+18/12[H]+21/17[H]+22/22[A]+14/20[A]+6/11[H]+10/21[A]+22/27[H]",
+        "aerialDuelsAttempted": "32/32[A]+30/30[H]+38/38[H]+44/44[A]+34/34[A]+17/17[H]+31/31[A]+49/49[H]",
+        "dribbles": "3/12[A]+3/4[H]+8/8[H]+6/7[A]+10/6[A]+6/7[H]+4/12[A]+6/5[H]",
+        "dribblesAttempted": "7/23[A]+6/7[H]+12/13[H]+14/20[A]+17/13[A]+14/20[H]+10/18[A]+19/10[H]",
+        "isHome": "false+true+true+false+false+true+false+true",
+        "cornersTotals": "46/29",
+        "cornersTotalsHome": "29/13",
+        "cornersTotalsAway": "17/16",
+        "cornersAverage": "5.75/3.63",
+        "cornersAverageHome": "7.25/3.25",
+        "cornersAverageAway": "4.25/4.00",
+        "foulsTotals": "79/94",
+        "foulsTotalsHome": "35/50",
+        "foulsTotalsAway": "44/44",
+        "foulsAverage": "9.88/11.75",
+        "foulsAverageHome": "8.75/12.50",
+        "foulsAverageAway": "11.00/11.00",
+        "goalKicksTotals": "54/64",
+        "goalKicksTotalsHome": "22/40",
+        "goalKicksTotalsAway": "32/24",
+        "goalKicksAverage": "6.75/8.00",
+        "goalKicksAverageHome": "5.50/10.00",
+        "goalKicksAverageAway": "8.00/6.00",
+        "savesTotals": "33/34",
+        "savesTotalsHome": "17/16",
+        "savesTotalsAway": "16/18",
+        "savesAverage": "4.13/4.25",
+        "savesAverageHome": "4.25/4.00",
+        "savesAverageAway": "4.00/4.50",
+        "offsidesTotals": "20/14",
+        "offsidesTotalsHome": "3/7",
+        "offsidesTotalsAway": "17/7",
+        "offsidesAverage": "2.50/1.75",
+        "offsidesAverageHome": "0.75/1.75",
+        "offsidesAverageAway": "4.25/1.75",
+        "shotsOnTargetTotals": "42/40",
+        "shotsOnTargetTotalsHome": "22/21",
+        "shotsOnTargetTotalsAway": "20/19",
+        "shotsOnTargetAverage": "5.25/5.00",
+        "shotsOnTargetAverageHome": "5.50/5.25",
+        "shotsOnTargetAverageAway": "5.00/4.75",
+        "yellowCardsTotals": "11/18",
+        "yellowCardsTotalsHome": "5/11",
+        "yellowCardsTotalsAway": "6/7",
+        "yellowCardsAverage": "1.38/2.25",
+        "yellowCardsAverageHome": "1.25/2.75",
+        "yellowCardsAverageAway": "1.50/1.75",
+        "goalsTotals": "7/8",
+        "goalsTotalsHome": "5/4",
+        "goalsTotalsAway": "2/4",
+        "goalsAverage": "0.88/1.00",
+        "goalsAverageHome": "1.25/1.00",
+        "goalsAverageAway": "0.50/1.00",
+        "throwInsTotals": "197/172",
+        "throwInsTotalsHome": "110/78",
+        "throwInsTotalsAway": "87/94",
+        "throwInsAverage": "24.63/21.50",
+        "throwInsAverageHome": "27.50/19.50",
+        "throwInsAverageAway": "21.75/23.50",
+        "averageBallPossessionTotals": "402/398",
+        "averageBallPossessionTotalsHome": "226/174",
+        "averageBallPossessionTotalsAway": "176/224",
+        "averageBallPossessionAverage": "50.25/49.75",
+        "averageBallPossessionAverageHome": "56.50/43.50",
+        "averageBallPossessionAverageAway": "44.00/56.00",
+        "tacklesTotals": "120/117",
+        "tacklesTotalsHome": "45/62",
+        "tacklesTotalsAway": "75/55",
+        "tacklesAverage": "15.00/14.63",
+        "tacklesAverageHome": "11.25/15.50",
+        "tacklesAverageAway": "18.75/13.75",
+        "interceptionsTotals": "64/85",
+        "interceptionsTotalsHome": "33/53",
+        "interceptionsTotalsAway": "31/32",
+        "interceptionsAverage": "8.00/10.63",
+        "interceptionsAverageHome": "8.25/13.25",
+        "interceptionsAverageAway": "7.75/8.00",
+        "aerialDuelsTotals": "131/144",
+        "aerialDuelsTotalsHome": "67/67",
+        "aerialDuelsTotalsAway": "64/77",
+        "aerialDuelsAverage": "16.38/18.00",
+        "aerialDuelsAverageHome": "16.75/16.75",
+        "aerialDuelsAverageAway": "16.00/19.25",
+        "aerialDuelsAttemptedTotals": "275/275",
+        "aerialDuelsAttemptedTotalsHome": "134/134",
+        "aerialDuelsAttemptedTotalsAway": "141/141",
+        "aerialDuelsAttemptedAverage": "34.38/34.38",
+        "aerialDuelsAttemptedAverageHome": "33.50/33.50",
+        "aerialDuelsAttemptedAverageAway": "35.25/35.25",
+        "dribblesTotals": "46/61",
+        "dribblesTotalsHome": "23/24",
+        "dribblesTotalsAway": "23/37",
+        "dribblesAverage": "5.75/7.63",
+        "dribblesAverageHome": "5.75/6.00",
+        "dribblesAverageAway": "5.75/9.25",
+        "dribblesAttemptedTotals": "99/124",
+        "dribblesAttemptedTotalsHome": "51/50",
+        "dribblesAttemptedTotalsAway": "48/74",
+        "dribblesAttemptedAverage": "12.38/15.50",
+        "dribblesAttemptedAverageHome": "12.75/12.50",
+        "dribblesAttemptedAverageAway": "12.00/18.50"
+    }
+}

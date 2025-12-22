@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "5.24",
+        "fouls": "9.52",
+        "goalKicks": "8.67",
+        "saves": "2.29",
+        "offsides": "1.95",
+        "shotsOnTarget": "4.29/3.67",
+        "yellowCards": "1.38/1.48",
+        "goals": "1.19/1.33",
+        "throwIns": "18.86",
+        "ballPossession": 51.952380952381,
+        "tackles": "14.24/15.57",
+        "interceptions": "8.38/6.81",
+        "aerialDuels": "19.95",
+        "aerialDuelsAttempted": "40.33",
+        "dribbles": "6.48/5.81",
+        "dribblesAttempted": "13.48/13.43"
+    },
+    "teamSlug": "west-bromwich-albion",
+    "teamId": "8",
+    "teamName": "West Bromwich Albion",
+    "tournament": "Championship",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-united-west-bromwich-albion/isp#id:14059708,tab:statistics",
+            "teams": [
+                "West Brom",
+                "Sheffield Utd"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "8",
+                "15"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/southampton-west-bromwich-albion/iV#id:14059690,tab:statistics",
+            "teams": [
+                "Southampton",
+                "West Brom"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "45",
+                "8"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/west-bromwich-albion-queens-park-rangers/bsi#id:14059677,tab:statistics",
+            "teams": [
+                "QPR",
+                "West Brom"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "1",
+                "8"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-west-bromwich-albion/izb#id:14059671,tab:statistics",
+            "teams": [
+                "West Brom",
+                "Swansea"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "8",
+                "74"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/birmingham-city-west-bromwich-albion/isj#id:14059655,tab:statistics",
+            "teams": [
+                "West Brom",
+                "Birmingham"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "8",
+                "9"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/coventry-city-west-bromwich-albion/isl#id:14059641,tab:statistics",
+            "teams": [
+                "Coventry",
+                "West Brom"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "11",
+                "8"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-west-bromwich-albion/isVb#id:14059634,tab:statistics",
+            "teams": [
+                "West Brom",
+                "Oxford Utd"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "8",
+                "95"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlton-athletic-west-bromwich-albion/isX#id:14059617,tab:statistics",
+            "teams": [
+                "Charlton",
+                "West Brom"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "47",
+                "8"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/4[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "3/3[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "25/26[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "West Brom,Sheffield Utd,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "21/26[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "14/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/2[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "3/8[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "18/20[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "West Brom,Southampton,Away",
+            "tackles": "17/14[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "22/12[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "8/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "5/11[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "1/4[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "28/24[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "West Brom,QPR,Away",
+            "tackles": "16/19[A]",
+            "interceptions": "5/4[A]",
+            "aerialDuels": "15/29[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "18/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "7/12[H]",
+            "saves": "0/7[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "10/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/2[H]",
+            "throwIns": "26/13[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "West Brom,Swansea,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "38/21[H]",
+            "aerialDuelsAttempted": "59/59[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "16/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "7/12[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/24[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "West Brom,Birmingham,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "16/10[H]",
+            "aerialDuels": "13/13[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "3/2[H]",
+            "dribblesAttempted": "7/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "10/3[A]",
+            "saves": "7/3[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "5/11[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "16/20[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "West Brom,Coventry,Away",
+            "tackles": "8/13[A]",
+            "interceptions": "8/3[A]",
+            "aerialDuels": "15/27[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/5[H]",
+            "fouls": "6/6[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "3/5[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "26/22[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "West Brom,Oxford Utd,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "16/12[H]",
+            "aerialDuels": "24/30[H]",
+            "aerialDuelsAttempted": "54/54[H]",
+            "dribbles": "10/3[H]",
+            "dribblesAttempted": "20/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "27/13[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "West Brom,Charlton,Away",
+            "tackles": "12/13[A]",
+            "interceptions": "4/7[A]",
+            "aerialDuels": "23/31[A]",
+            "aerialDuelsAttempted": "54/54[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "15/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "8/4[H]+9/2[A]+3/4[A]+7/1[H]+3/3[H]+1/8[A]+11/5[H]+3/4[A]",
+        "fouls": "8/10[H]+13/12[A]+5/11[A]+11/13[H]+7/12[H]+9/10[A]+6/6[H]+12/13[A]",
+        "goalKicks": "6/9[H]+3/8[A]+8/6[A]+7/12[H]+7/10[H]+10/3[A]+8/7[H]+7/9[A]",
+        "saves": "3/3[H]+1/4[A]+1/4[A]+0/7[H]+3/3[H]+7/3[A]+3/5[H]+2/1[A]",
+        "offsides": "3/2[H]+3/1[A]+4/1[A]+1/2[H]+0/1[H]+2/4[A]+3/2[H]+0/0[A]",
+        "shotsOnTarget": "5/3[H]+7/4[A]+5/4[A]+10/2[H]+4/4[H]+5/11[A]+6/4[H]+1/3[A]",
+        "yellowCards": "0/1[H]+2/2[A]+1/1[A]+1/2[H]+1/2[H]+3/2[A]+0/0[H]+0/0[A]",
+        "goals": "2/0[H]+2/3[A]+1/3[A]+3/2[H]+1/1[H]+2/3[A]+2/1[H]+0/1[A]",
+        "throwIns": "25/26[H]+18/20[A]+28/24[A]+26/13[H]+19/24[H]+16/20[A]+26/22[H]+27/13[A]",
+        "averageBallPossession": "48/52[H]+45/55[A]+53/47[A]+65/35[H]+43/57[H]+33/67[A]+62/38[H]+50/50[A]",
+        "teams": "West Brom,Sheffield Utd,Home+West Brom,Southampton,Away+West Brom,QPR,Away+West Brom,Swansea,Home+West Brom,Birmingham,Home+West Brom,Coventry,Away+West Brom,Oxford Utd,Home+West Brom,Charlton,Away",
+        "tackles": "15/17[H]+17/14[A]+16/19[A]+13/16[H]+12/11[H]+8/13[A]+11/15[H]+12/13[A]",
+        "interceptions": "12/9[H]+9/6[A]+5/4[A]+4/8[H]+16/10[H]+8/3[A]+16/12[H]+4/7[A]",
+        "aerialDuels": "21/26[H]+22/12[A]+15/29[A]+38/21[H]+13/13[H]+15/27[A]+24/30[H]+23/31[A]",
+        "aerialDuelsAttempted": "47/47[H]+34/34[A]+44/44[A]+59/59[H]+26/26[H]+42/42[A]+54/54[H]+54/54[A]",
+        "dribbles": "7/5[H]+3/7[A]+7/8[A]+5/4[H]+3/2[H]+3/3[A]+10/3[H]+5/6[A]",
+        "dribblesAttempted": "14/12[H]+8/19[A]+18/15[A]+16/12[H]+7/10[H]+10/10[A]+20/6[H]+15/14[A]",
+        "isHome": "true+false+false+true+true+false+true+false",
+        "cornersTotals": "45/31",
+        "cornersTotalsHome": "29/13",
+        "cornersTotalsAway": "16/18",
+        "cornersAverage": "5.63/3.88",
+        "cornersAverageHome": "7.25/3.25",
+        "cornersAverageAway": "4.00/4.50",
+        "foulsTotals": "71/87",
+        "foulsTotalsHome": "32/41",
+        "foulsTotalsAway": "39/46",
+        "foulsAverage": "8.88/10.88",
+        "foulsAverageHome": "8.00/10.25",
+        "foulsAverageAway": "9.75/11.50",
+        "goalKicksTotals": "56/64",
+        "goalKicksTotalsHome": "28/38",
+        "goalKicksTotalsAway": "28/26",
+        "goalKicksAverage": "7.00/8.00",
+        "goalKicksAverageHome": "7.00/9.50",
+        "goalKicksAverageAway": "7.00/6.50",
+        "savesTotals": "20/30",
+        "savesTotalsHome": "9/18",
+        "savesTotalsAway": "11/12",
+        "savesAverage": "2.50/3.75",
+        "savesAverageHome": "2.25/4.50",
+        "savesAverageAway": "2.75/3.00",
+        "offsidesTotals": "16/13",
+        "offsidesTotalsHome": "7/7",
+        "offsidesTotalsAway": "9/6",
+        "offsidesAverage": "2.00/1.63",
+        "offsidesAverageHome": "1.75/1.75",
+        "offsidesAverageAway": "2.25/1.50",
+        "shotsOnTargetTotals": "43/35",
+        "shotsOnTargetTotalsHome": "25/13",
+        "shotsOnTargetTotalsAway": "18/22",
+        "shotsOnTargetAverage": "5.38/4.38",
+        "shotsOnTargetAverageHome": "6.25/3.25",
+        "shotsOnTargetAverageAway": "4.50/5.50",
+        "yellowCardsTotals": "8/10",
+        "yellowCardsTotalsHome": "2/5",
+        "yellowCardsTotalsAway": "6/5",
+        "yellowCardsAverage": "1.00/1.25",
+        "yellowCardsAverageHome": "0.50/1.25",
+        "yellowCardsAverageAway": "1.50/1.25",
+        "goalsTotals": "13/14",
+        "goalsTotalsHome": "8/4",
+        "goalsTotalsAway": "5/10",
+        "goalsAverage": "1.63/1.75",
+        "goalsAverageHome": "2.00/1.00",
+        "goalsAverageAway": "1.25/2.50",
+        "throwInsTotals": "185/162",
+        "throwInsTotalsHome": "96/85",
+        "throwInsTotalsAway": "89/77",
+        "throwInsAverage": "23.13/20.25",
+        "throwInsAverageHome": "24.00/21.25",
+        "throwInsAverageAway": "22.25/19.25",
+        "averageBallPossessionTotals": "399/401",
+        "averageBallPossessionTotalsHome": "218/182",
+        "averageBallPossessionTotalsAway": "181/219",
+        "averageBallPossessionAverage": "49.88/50.13",
+        "averageBallPossessionAverageHome": "54.50/45.50",
+        "averageBallPossessionAverageAway": "45.25/54.75",
+        "tacklesTotals": "104/118",
+        "tacklesTotalsHome": "51/59",
+        "tacklesTotalsAway": "53/59",
+        "tacklesAverage": "13.00/14.75",
+        "tacklesAverageHome": "12.75/14.75",
+        "tacklesAverageAway": "13.25/14.75",
+        "interceptionsTotals": "74/59",
+        "interceptionsTotalsHome": "48/39",
+        "interceptionsTotalsAway": "26/20",
+        "interceptionsAverage": "9.25/7.38",
+        "interceptionsAverageHome": "12.00/9.75",
+        "interceptionsAverageAway": "6.50/5.00",
+        "aerialDuelsTotals": "171/189",
+        "aerialDuelsTotalsHome": "96/90",
+        "aerialDuelsTotalsAway": "75/99",
+        "aerialDuelsAverage": "21.38/23.63",
+        "aerialDuelsAverageHome": "24.00/22.50",
+        "aerialDuelsAverageAway": "18.75/24.75",
+        "aerialDuelsAttemptedTotals": "360/360",
+        "aerialDuelsAttemptedTotalsHome": "186/186",
+        "aerialDuelsAttemptedTotalsAway": "174/174",
+        "aerialDuelsAttemptedAverage": "45.00/45.00",
+        "aerialDuelsAttemptedAverageHome": "46.50/46.50",
+        "aerialDuelsAttemptedAverageAway": "43.50/43.50",
+        "dribblesTotals": "43/38",
+        "dribblesTotalsHome": "25/14",
+        "dribblesTotalsAway": "18/24",
+        "dribblesAverage": "5.38/4.75",
+        "dribblesAverageHome": "6.25/3.50",
+        "dribblesAverageAway": "4.50/6.00",
+        "dribblesAttemptedTotals": "108/98",
+        "dribblesAttemptedTotalsHome": "57/40",
+        "dribblesAttemptedTotalsAway": "51/58",
+        "dribblesAttemptedAverage": "13.50/12.25",
+        "dribblesAttemptedAverageHome": "14.25/10.00",
+        "dribblesAttemptedAverageAway": "12.75/14.50"
+    }
+}

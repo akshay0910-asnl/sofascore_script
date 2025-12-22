@@ -1,0 +1,759 @@
+{
+    "globalStatistics": {
+        "corners": "4.33",
+        "fouls": "11.57",
+        "goalKicks": "9.19",
+        "saves": "2.62",
+        "offsides": "1.14",
+        "shotsOnTarget": "4.86/3.86",
+        "yellowCards": "2.00/2.29",
+        "goals": "1.43/1.33",
+        "throwIns": "21.38",
+        "ballPossession": 52.333333333333,
+        "tackles": "13.81/18.52",
+        "interceptions": "7.86/7.43",
+        "aerialDuels": "18.95",
+        "aerialDuelsAttempted": "36.38",
+        "dribbles": "7.71/5.10",
+        "dribblesAttempted": "16.71/11.00"
+    },
+    "teamSlug": "watford",
+    "teamId": "24",
+    "teamName": "Watford",
+    "tournament": "Championship",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/wrexham-watford/zsob#id:14059707,tab:statistics",
+            "teams": [
+                "Wrexham",
+                "Watford"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "64",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-sheffield-wednesday/msz#id:14059692,tab:statistics",
+            "teams": [
+                "Watford",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "12"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-watford/znf#id:14059683,tab:statistics",
+            "teams": [
+                "Watford",
+                "Norwich"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "24",
+                "263"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-birmingham-city/jsz#id:14407132,tab:statistics",
+            "teams": [
+                "Birmingham",
+                "Watford"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "9",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-preston-north-end/wz#id:14059656,tab:statistics",
+            "teams": [
+                "Watford",
+                "Preston"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "21"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/derby-county-watford/zC#id:14059640,tab:statistics",
+            "teams": [
+                "Derby",
+                "Watford"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "27",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-city-watford/zsib#id:14059631,tab:statistics",
+            "teams": [
+                "Watford",
+                "Bristol City"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "58"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ipswich-town-watford/zsH#id:14059621,tab:statistics",
+            "teams": [
+                "Ipswich",
+                "Watford"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "32",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-watford/zL#id:14059608,tab:statistics",
+            "teams": [
+                "Watford",
+                "Middlesbrough"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "24",
+                "36"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-coventry-city/lsz#id:14059589,tab:statistics",
+            "teams": [
+                "Coventry",
+                "Watford"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "11",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-west-bromwich-albion/isz#id:14059585,tab:statistics",
+            "teams": [
+                "Watford",
+                "West Brom"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "8"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-sheffield-united/psz#id:14059572,tab:statistics",
+            "teams": [
+                "Sheffield Utd",
+                "Watford"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "15",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-watford/zsVb#id:14059563,tab:statistics",
+            "teams": [
+                "Watford",
+                "Oxford Utd"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "95"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-portsmouth/csz#id:14059551,tab:statistics",
+            "teams": [
+                "Portsmouth",
+                "Watford"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hull-city-watford/zsWb#id:14059538,tab:statistics",
+            "teams": [
+                "Watford",
+                "Hull"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "96"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/millwall-watford/zsA#id:14120332,tab:statistics",
+            "teams": [
+                "Millwall",
+                "Watford"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "25",
+                "24"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/blackburn-rovers-watford/zW#id:14059515,tab:statistics",
+            "teams": [
+                "Watford",
+                "Blackburn"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "46"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 9,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "1/7[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "27/35[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Watford,Wrexham,Away",
+            "tackles": "12/19[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "27/31[A]",
+            "aerialDuelsAttempted": "58/58[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "21/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "14/4[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "0/7[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "47/17[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Watford,Sheffield Wed,Home",
+            "tackles": "19/28[H]",
+            "interceptions": "13/11[H]",
+            "aerialDuels": "15/18[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "8/4[H]",
+            "dribblesAttempted": "21/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "12/5[H]",
+            "goalKicks": "10/5[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/2[H]",
+            "throwIns": "28/15[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Watford,Norwich,Home",
+            "tackles": "11/19[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "20/18[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "21/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/26[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Watford,Birmingham,Away",
+            "tackles": "13/21[A]",
+            "interceptions": "6/5[A]",
+            "aerialDuels": "13/22[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "9/6[A]",
+            "dribblesAttempted": "20/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "12/10[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/18[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Watford,Preston,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "13/18[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "11/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "15/8[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "0/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "3/2[A]",
+            "throwIns": "23/16[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Watford,Derby,Away",
+            "tackles": "6/15[A]",
+            "interceptions": "4/10[A]",
+            "aerialDuels": "21/20[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "15/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "5/4[H]",
+            "saves": "3/8[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "9/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "13/22[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Watford,Bristol City,Home",
+            "tackles": "16/19[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "21/10[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "12/4[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "14/2[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "20/15[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Watford,Ipswich,Away",
+            "tackles": "18/15[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "15/18[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "13/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "10/4[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "11/17[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Watford,Middlesbrough,Home",
+            "tackles": "9/17[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "10/5[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "15/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "0/6[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/3[A]",
+            "throwIns": "18/19[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Watford,Coventry,Away",
+            "tackles": "17/19[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "15/10[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "16/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "9/14[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "13/16[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Watford,West Brom,Home",
+            "tackles": "18/18[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "21/9[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "12/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "0/0[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/19[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Watford,Sheffield Utd,Away",
+            "tackles": "12/18[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "15/25[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "15/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "6/9[H]",
+            "goalKicks": "11/14[H]",
+            "saves": "5/9[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "10/5[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "20/19[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Watford,Oxford Utd,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "21/19[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "22/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "3/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "14/29[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Watford,Portsmouth,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "12/7[A]",
+            "aerialDuels": "23/24[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "7/16[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "3/5[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "2/1[H]",
+            "throwIns": "30/21[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Watford,Hull,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "24/14[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "8/4[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "8/7[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/17[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Watford,Millwall,Away",
+            "tackles": "20/23[A]",
+            "interceptions": "5/11[A]",
+            "aerialDuels": "18/15[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "12/4[A]",
+            "dribblesAttempted": "18/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "9/13[H]",
+            "saves": "4/1[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "27/27[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Watford,Blackburn,Home",
+            "tackles": "14/33[H]",
+            "interceptions": "10/3[H]",
+            "aerialDuels": "17/22[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "31/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "1/7[A]+7/4[H]+6/5[H]+6/6[A]+6/2[H]+3/9[A]+6/4[H]+5/2[A]+1/7[H]+6/5[A]+4/4[H]+3/7[A]+9/3[H]+3/3[A]+6/6[H]+4/7[A]+5/7[H]",
+        "fouls": "9/10[A]+14/4[H]+12/5[H]+10/11[A]+11/10[H]+15/8[A]+10/9[H]+14/2[A]+15/11[H]+8/10[A]+12/8[H]+0/0[A]+6/9[H]+15/9[A]+7/16[H]+9/11[A]+12/14[H]",
+        "goalKicks": "9/3[A]+6/9[H]+10/5[H]+10/9[A]+12/10[H]+8/6[A]+5/4[H]+10/4[A]+10/4[H]+6/4[A]+9/14[H]+9/11[A]+11/14[H]+12/6[A]+10/9[H]+8/7[A]+9/13[H]",
+        "saves": "1/1[A]+0/7[H]+2/3[H]+3/3[A]+2/4[H]+0/1[A]+3/8[H]+4/1[A]+4/1[H]+0/6[A]+4/3[H]+4/1[A]+5/9[H]+3/4[A]+3/5[H]+1/4[A]+4/1[H]",
+        "offsides": "1/5[A]+1/2[H]+0/3[H]+0/0[A]+1/1[H]+0/1[A]+1/3[H]+1/2[A]+0/2[H]+4/3[A]+1/0[H]+0/3[A]+1/0[H]+0/3[A]+2/3[H]+1/1[A]+4/0[H]",
+        "shotsOnTarget": "3/3[A]+9/1[H]+6/4[H]+4/5[A]+5/3[H]+4/2[A]+9/4[H]+2/4[A]+4/4[H]+8/3[A]+5/4[H]+1/6[A]+10/5[H]+6/5[A]+8/4[H]+4/2[A]+1/5[H]",
+        "yellowCards": "5/3[A]+1/1[H]+1/2[H]+2/3[A]+2/4[H]+2/2[A]+2/1[H]+2/1[A]+2/1[H]+2/3[A]+0/2[H]+1/0[A]+3/4[H]+5/2[A]+1/5[H]+0/1[A]+1/2[H]",
+        "goals": "2/2[A]+1/1[H]+3/2[H]+1/2[A]+1/1[H]+3/2[A]+1/1[H]+1/1[A]+3/0[H]+1/3[A]+2/1[H]+0/1[A]+2/1[H]+2/2[A]+2/1[H]+0/1[A]+0/1[H]",
+        "throwIns": "27/35[A]+47/17[H]+28/15[H]+18/26[A]+17/18[H]+23/16[A]+13/22[H]+20/15[A]+11/17[H]+18/19[A]+13/16[H]+23/19[A]+20/19[H]+14/29[A]+30/21[H]+21/17[A]+27/27[H]",
+        "averageBallPossession": "48/52[A]+68/32[H]+54/46[H]+51/49[A]+58/42[H]+62/38[A]+64/36[H]+42/58[A]+45/55[H]+45/55[A]+40/60[H]+60/40[A]+57/43[H]+37/63[A]+55/45[H]+61/39[A]+51/49[H]",
+        "teams": "Watford,Wrexham,Away+Watford,Sheffield Wed,Home+Watford,Norwich,Home+Watford,Birmingham,Away+Watford,Preston,Home+Watford,Derby,Away+Watford,Bristol City,Home+Watford,Ipswich,Away+Watford,Middlesbrough,Home+Watford,Coventry,Away+Watford,West Brom,Home+Watford,Sheffield Utd,Away+Watford,Oxford Utd,Home+Watford,Portsmouth,Away+Watford,Hull,Home+Watford,Millwall,Away+Watford,Blackburn,Home",
+        "tackles": "12/19[A]+19/28[H]+11/19[H]+13/21[A]+14/13[H]+6/15[A]+16/19[H]+18/15[A]+9/17[H]+17/19[A]+18/18[H]+12/18[A]+16/16[H]+15/12[A]+13/16[H]+20/23[A]+14/33[H]",
+        "interceptions": "6/8[A]+13/11[H]+5/12[H]+6/5[A]+8/12[H]+4/10[A]+7/6[H]+10/9[A]+11/9[H]+4/5[A]+11/8[H]+5/5[A]+13/7[H]+12/7[A]+7/9[H]+5/11[A]+10/3[H]",
+        "aerialDuels": "27/31[A]+15/18[H]+20/18[H]+13/22[A]+13/18[H]+21/20[A]+21/10[H]+15/18[A]+10/5[H]+15/10[A]+21/9[H]+15/25[A]+21/19[H]+23/24[A]+24/14[H]+18/15[A]+17/22[H]",
+        "aerialDuelsAttempted": "58/58[A]+33/33[H]+38/38[H]+35/35[A]+31/31[H]+41/41[A]+31/31[H]+33/33[A]+15/15[H]+25/25[A]+30/30[H]+40/40[A]+40/40[H]+47/47[A]+38/38[H]+33/33[A]+39/39[H]",
+        "dribbles": "6/3[A]+8/4[H]+9/6[H]+9/6[A]+6/4[H]+6/2[A]+12/4[H]+5/7[A]+8/9[H]+7/4[A]+5/7[H]+7/5[A]+10/4[H]+4/7[A]+8/4[H]+12/4[A]+9/6[H]",
+        "dribblesAttempted": "21/9[A]+21/13[H]+21/13[H]+20/11[A]+11/9[H]+15/5[A]+18/10[H]+13/14[A]+15/14[H]+16/7[A]+12/14[H]+15/13[A]+22/10[H]+9/14[A]+14/13[H]+18/11[A]+31/14[H]",
+        "isHome": "false+true+true+false+true+false+true+false+true+false+true+false+true+false+true+false+true",
+        "cornersTotals": "81/88",
+        "cornersTotalsHome": "50/42",
+        "cornersTotalsAway": "31/46",
+        "cornersAverage": "4.76/5.18",
+        "cornersAverageHome": "5.56/4.67",
+        "cornersAverageAway": "3.88/5.75",
+        "foulsTotals": "179/147",
+        "foulsTotalsHome": "99/86",
+        "foulsTotalsAway": "80/61",
+        "foulsAverage": "10.53/8.65",
+        "foulsAverageHome": "11.00/9.56",
+        "foulsAverageAway": "10.00/7.63",
+        "goalKicksTotals": "154/132",
+        "goalKicksTotalsHome": "82/82",
+        "goalKicksTotalsAway": "72/50",
+        "goalKicksAverage": "9.06/7.76",
+        "goalKicksAverageHome": "9.11/9.11",
+        "goalKicksAverageAway": "9.00/6.25",
+        "savesTotals": "43/62",
+        "savesTotalsHome": "27/41",
+        "savesTotalsAway": "16/21",
+        "savesAverage": "2.53/3.65",
+        "savesAverageHome": "3.00/4.56",
+        "savesAverageAway": "2.00/2.63",
+        "offsidesTotals": "18/32",
+        "offsidesTotalsHome": "11/14",
+        "offsidesTotalsAway": "7/18",
+        "offsidesAverage": "1.06/1.88",
+        "offsidesAverageHome": "1.22/1.56",
+        "offsidesAverageAway": "0.88/2.25",
+        "shotsOnTargetTotals": "89/64",
+        "shotsOnTargetTotalsHome": "57/34",
+        "shotsOnTargetTotalsAway": "32/30",
+        "shotsOnTargetAverage": "5.24/3.76",
+        "shotsOnTargetAverageHome": "6.33/3.78",
+        "shotsOnTargetAverageAway": "4.00/3.75",
+        "yellowCardsTotals": "32/37",
+        "yellowCardsTotalsHome": "13/22",
+        "yellowCardsTotalsAway": "19/15",
+        "yellowCardsAverage": "1.88/2.18",
+        "yellowCardsAverageHome": "1.44/2.44",
+        "yellowCardsAverageAway": "2.38/1.88",
+        "goalsTotals": "25/23",
+        "goalsTotalsHome": "15/9",
+        "goalsTotalsAway": "10/14",
+        "goalsAverage": "1.47/1.35",
+        "goalsAverageHome": "1.67/1.00",
+        "goalsAverageAway": "1.25/1.75",
+        "throwInsTotals": "370/348",
+        "throwInsTotalsHome": "206/172",
+        "throwInsTotalsAway": "164/176",
+        "throwInsAverage": "21.76/20.47",
+        "throwInsAverageHome": "22.89/19.11",
+        "throwInsAverageAway": "20.50/22.00",
+        "averageBallPossessionTotals": "898/802",
+        "averageBallPossessionTotalsHome": "492/408",
+        "averageBallPossessionTotalsAway": "406/394",
+        "averageBallPossessionAverage": "52.82/47.18",
+        "averageBallPossessionAverageHome": "54.67/45.33",
+        "averageBallPossessionAverageAway": "50.75/49.25",
+        "tacklesTotals": "243/321",
+        "tacklesTotalsHome": "130/179",
+        "tacklesTotalsAway": "113/142",
+        "tacklesAverage": "14.29/18.88",
+        "tacklesAverageHome": "14.44/19.89",
+        "tacklesAverageAway": "14.13/17.75",
+        "interceptionsTotals": "137/137",
+        "interceptionsTotalsHome": "85/77",
+        "interceptionsTotalsAway": "52/60",
+        "interceptionsAverage": "8.06/8.06",
+        "interceptionsAverageHome": "9.44/8.56",
+        "interceptionsAverageAway": "6.50/7.50",
+        "aerialDuelsTotals": "309/298",
+        "aerialDuelsTotalsHome": "162/133",
+        "aerialDuelsTotalsAway": "147/165",
+        "aerialDuelsAverage": "18.18/17.53",
+        "aerialDuelsAverageHome": "18.00/14.78",
+        "aerialDuelsAverageAway": "18.38/20.63",
+        "aerialDuelsAttemptedTotals": "607/607",
+        "aerialDuelsAttemptedTotalsHome": "295/295",
+        "aerialDuelsAttemptedTotalsAway": "312/312",
+        "aerialDuelsAttemptedAverage": "35.71/35.71",
+        "aerialDuelsAttemptedAverageHome": "32.78/32.78",
+        "aerialDuelsAttemptedAverageAway": "39.00/39.00",
+        "dribblesTotals": "131/86",
+        "dribblesTotalsHome": "75/48",
+        "dribblesTotalsAway": "56/38",
+        "dribblesAverage": "7.71/5.06",
+        "dribblesAverageHome": "8.33/5.33",
+        "dribblesAverageAway": "7.00/4.75",
+        "dribblesAttemptedTotals": "292/194",
+        "dribblesAttemptedTotalsHome": "165/110",
+        "dribblesAttemptedTotalsAway": "127/84",
+        "dribblesAttemptedAverage": "17.18/11.41",
+        "dribblesAttemptedAverageHome": "18.33/12.22",
+        "dribblesAttemptedAverageAway": "15.88/10.50"
+    }
+}

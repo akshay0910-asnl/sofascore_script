@@ -1,0 +1,704 @@
+{
+    "globalStatistics": {
+        "corners": "3.56",
+        "fouls": "9.56",
+        "goalKicks": "10.25",
+        "saves": "4.00",
+        "offsides": "1.13",
+        "shotsOnTarget": "3.50/5.81",
+        "yellowCards": "1.13/1.88",
+        "goals": "1.19/1.88",
+        "throwIns": "14.31",
+        "ballPossession": 44.125,
+        "tackles": "16.19/14.94",
+        "interceptions": "8.19/6.88",
+        "aerialDuels": "10.88",
+        "aerialDuelsAttempted": "22.06",
+        "dribbles": "6.19/6.69",
+        "dribblesAttempted": "12.94/15.50"
+    },
+    "teamSlug": "fc-volendam",
+    "teamId": "2968",
+    "teamName": "FC Volendam",
+    "tournament": "VriendenLoterij Eredivisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-fc-groningen/bjbstjb#id:14053701,tab:statistics",
+            "teams": [
+                "Groningen",
+                "Volendam"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2951",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-nec-nijmegen/mjbstjb#id:14053683,tab:statistics",
+            "teams": [
+                "Volendam",
+                "NEC"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "2968",
+                "2962"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-psv-eindhoven/cjbstjb#id:14053639,tab:statistics",
+            "teams": [
+                "PSV",
+                "Volendam"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2952",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-fc-twente/fjbstjb#id:14053627,tab:statistics",
+            "teams": [
+                "Volendam",
+                "Twente"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2968",
+                "2955"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-nac-breda/Xibstjb#id:14053586,tab:statistics",
+            "teams": [
+                "Volendam",
+                "NAC Bredax2"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2968",
+                "2947"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-feyenoord/jjbstjb#id:14053810,tab:statistics",
+            "teams": [
+                "Feyenoord",
+                "Volendam"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2959",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heracles-almelo-fc-volendam/tjbsCjb#id:14053788,tab:statistics",
+            "teams": [
+                "Volendam",
+                "Heracles"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2968",
+                "2977"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-fc-utrecht/Yibstjb#id:14053768,tab:statistics",
+            "teams": [
+                "Utrecht",
+                "Volendam"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2948",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-fortuna-sittard/hjbstjb#id:14053743,tab:statistics",
+            "teams": [
+                "Fortuna",
+                "Volendam"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2957",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pec-zwolle-fc-volendam/tjbswjb#id:14053721,tab:statistics",
+            "teams": [
+                "Volendam",
+                "Zwolle"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2968",
+                "2971"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-excelsior/rjbstjb#id:14053690,tab:statistics",
+            "teams": [
+                "Volendam",
+                "Excelsior"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2968",
+                "2967"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-fc-volendam/tjbsEjb#id:14053665,tab:statistics",
+            "teams": [
+                "GA Eagles",
+                "Volendam"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2979",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-afc-ajax/djbstjb#id:14053637,tab:statistics",
+            "teams": [
+                "Volendam",
+                "Ajax"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2968",
+                "2953"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-telstar-fc-volendam/tjbsxjb#id:14053618,tab:statistics",
+            "teams": [
+                "Telstar",
+                "Volendam"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2972",
+                "2968"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-az-alkmaar/ajbstjb#id:14053606,tab:statistics",
+            "teams": [
+                "Volendam",
+                "AZ"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2968",
+                "2950"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-volendam-sc-heerenveen/ojbstjb#id:14053581,tab:statistics",
+            "teams": [
+                "Heerenveen",
+                "Volendam"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2964",
+                "2968"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "1/18[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "3/0[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "15/14[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Volendam,Groningen,Away",
+            "tackles": "17/17[A]",
+            "interceptions": "8/4[A]",
+            "aerialDuels": "18/12[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "15/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/8[H]",
+            "fouls": "7/17[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "2/3[H]",
+            "throwIns": "13/27[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Volendam,NEC,Home",
+            "tackles": "17/11[H]",
+            "interceptions": "4/1[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "4/8[H]",
+            "dribblesAttempted": "10/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "4/12[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Volendam,PSV,Away",
+            "tackles": "22/21[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "7/8[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "16/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "5/12[H]",
+            "goalKicks": "14/7[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "16/13[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Volendam,Twente,Home",
+            "tackles": "18/14[H]",
+            "interceptions": "7/10[H]",
+            "aerialDuels": "8/3[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "15/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/6[H]",
+            "fouls": "13/9[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "13/22[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Volendam,NAC Bredax2,Home",
+            "tackles": "13/21[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "13/11[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "16/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/10[A]",
+            "fouls": "8/4[A]",
+            "goalKicks": "13/12[A]",
+            "saves": "6/0[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "1/3[A]",
+            "throwIns": "10/16[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Volendam,Feyenoord,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "10/7[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "7/13[A]",
+            "dribblesAttempted": "11/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "6/13[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "3/0[H]",
+            "throwIns": "10/21[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Volendam,Heracles,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "10/15[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "17/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/10[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "10/2[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "12/21[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Volendam,Utrecht,Away",
+            "tackles": "27/12[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "9/16[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "12/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/19[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Volendam,Fortuna,Away",
+            "tackles": "25/23[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "11/13[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "2/10[A]",
+            "dribblesAttempted": "11/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "13/11[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "10/20[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Volendam,Zwolle,Home",
+            "tackles": "18/9[H]",
+            "interceptions": "5/2[H]",
+            "aerialDuels": "9/4[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "5/10[H]",
+            "dribblesAttempted": "11/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "11/19[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "4/5[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "14/18[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Volendam,Excelsior,Home",
+            "tackles": "14/11[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "15/11[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "8/1[H]",
+            "dribblesAttempted": "11/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/7[A]",
+            "fouls": "9/12[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "10/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/13[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Volendam,GA Eagles,Away",
+            "tackles": "5/18[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "5/9[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "12/1[A]",
+            "dribblesAttempted": "20/2[A]",
+            "isHome": false
+        },
+        null,
+        {
+            "corners": "6/4[A]",
+            "fouls": "11/10[A]",
+            "goalKicks": "9/4[A]",
+            "saves": "8/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "6/9[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "24/17[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Volendam,Telstar,Away",
+            "tackles": "18/13[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "15/19[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "9/6[A]",
+            "dribblesAttempted": "17/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "12/6[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "11/13[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Volendam,AZ,Home",
+            "tackles": "14/20[H]",
+            "interceptions": "12/6[H]",
+            "aerialDuels": "8/8[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "12/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "5/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "21/16[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Volendam,Heerenveen,Away",
+            "tackles": "7/14[A]",
+            "interceptions": "11/3[A]",
+            "aerialDuels": "14/15[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "7/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "1/18[A]+4/8[H]+2/5[A]+4/4[H]+8/6[H]+1/10[A]+5/5[H]+0/10[A]+4/7[A]+3/5[H]+5/3[H]+7/7[A]+6/4[A]+3/4[H]+2/9[A]",
+        "fouls": "11/7[A]+7/17[H]+4/12[A]+5/12[H]+13/9[H]+8/4[A]+6/13[H]+13/12[A]+13/14[A]+11/12[H]+11/19[H]+9/12[A]+11/10[A]+10/10[H]+9/8[A]",
+        "goalKicks": "8/8[A]+7/8[H]+9/8[A]+14/7[H]+9/10[H]+13/12[A]+6/6[H]+10/2[A]+13/6[A]+13/11[H]+10/7[H]+5/10[A]+9/4[A]+12/6[H]+12/6[A]",
+        "saves": "3/0[A]+4/3[H]+5/2[A]+5/3[H]+2/3[H]+6/0[A]+1/4[H]+4/3[A]+2/1[A]+1/1[H]+4/5[H]+10/1[A]+8/4[A]+1/1[H]+5/2[A]",
+        "offsides": "2/2[A]+0/2[H]+1/3[A]+1/0[H]+1/1[H]+0/3[A]+1/2[H]+1/0[A]+1/1[A]+2/2[H]+2/0[H]+1/2[A]+0/3[A]+2/0[H]+2/2[A]",
+        "shotsOnTarget": "1/7[A]+5/7[H]+2/8[A]+4/6[H]+5/2[H]+1/9[A]+7/2[H]+3/6[A]+1/3[A]+3/2[H]+7/6[H]+1/13[A]+6/9[A]+3/3[H]+3/6[A]",
+        "yellowCards": "1/0[A]+2/5[H]+0/0[A]+0/3[H]+2/2[H]+0/0[A]+0/3[H]+1/1[A]+2/1[A]+2/3[H]+3/2[H]+1/1[A]+0/3[A]+1/3[H]+1/1[A]",
+        "goals": "0/3[A]+2/3[H]+0/3[A]+1/1[H]+2/1[H]+1/3[A]+3/0[H]+1/3[A]+0/1[A]+2/1[H]+1/2[H]+0/3[A]+2/2[A]+2/2[H]+1/1[A]",
+        "throwIns": "15/14[A]+13/27[H]+13/18[A]+16/13[H]+13/22[H]+10/16[A]+10/21[H]+12/21[A]+21/19[A]+10/20[H]+14/18[H]+16/17[A]+24/17[A]+11/13[H]+21/16[A]",
+        "averageBallPossession": "32/68[A]+43/57[H]+38/62[A]+52/48[H]+51/49[H]+46/54[A]+57/43[H]+42/58[A]+47/53[A]+37/63[H]+49/51[H]+54/46[A]+51/49[A]+34/66[H]+42/58[A]",
+        "teams": "Volendam,Groningen,Away+Volendam,NEC,Home+Volendam,PSV,Away+Volendam,Twente,Home+Volendam,NAC Bredax2,Home+Volendam,Feyenoord,Away+Volendam,Heracles,Home+Volendam,Utrecht,Away+Volendam,Fortuna,Away+Volendam,Zwolle,Home+Volendam,Excelsior,Home+Volendam,GA Eagles,Away+Volendam,Telstar,Away+Volendam,AZ,Home+Volendam,Heerenveen,Away",
+        "tackles": "17/17[A]+17/11[H]+22/21[A]+18/14[H]+13/21[H]+10/14[A]+15/16[H]+27/12[A]+25/23[A]+18/9[H]+14/11[H]+5/18[A]+18/13[A]+14/20[H]+7/14[A]",
+        "interceptions": "8/4[A]+4/1[H]+9/6[A]+7/10[H]+6/10[H]+9/8[A]+9/10[H]+8/7[A]+7/12[A]+5/2[H]+7/6[H]+11/8[A]+7/7[A]+12/6[H]+11/3[A]",
+        "aerialDuels": "18/12[A]+15/15[H]+7/8[A]+8/3[H]+13/11[H]+10/7[A]+10/15[H]+9/16[A]+11/13[A]+9/4[H]+15/11[H]+5/9[A]+15/19[A]+8/8[H]+14/15[A]",
+        "aerialDuelsAttempted": "30/30[A]+30/30[H]+15/15[A]+11/11[H]+24/24[H]+17/17[A]+25/25[H]+25/25[A]+24/24[A]+13/13[H]+26/26[H]+14/14[A]+34/34[A]+16/16[H]+29/29[A]",
+        "dribbles": "7/7[A]+4/8[H]+7/7[A]+7/10[H]+6/3[H]+7/13[A]+6/5[H]+5/9[A]+2/10[A]+5/10[H]+8/1[H]+12/1[A]+9/6[A]+4/4[H]+4/5[A]",
+        "dribblesAttempted": "15/16[A]+10/18[H]+16/21[A]+15/18[H]+16/11[H]+11/18[A]+17/16[H]+12/24[A]+11/20[A]+11/17[H]+11/6[H]+20/2[A]+17/18[A]+12/12[H]+7/11[A]",
+        "isHome": "false+true+false+true+true+false+true+false+false+true+true+false+false+true+false",
+        "cornersTotals": "55/105",
+        "cornersTotalsHome": "32/35",
+        "cornersTotalsAway": "23/70",
+        "cornersAverage": "3.67/7.00",
+        "cornersAverageHome": "4.57/5.00",
+        "cornersAverageAway": "2.88/8.75",
+        "foulsTotals": "141/171",
+        "foulsTotalsHome": "63/92",
+        "foulsTotalsAway": "78/79",
+        "foulsAverage": "9.40/11.40",
+        "foulsAverageHome": "9.00/13.14",
+        "foulsAverageAway": "9.75/9.88",
+        "goalKicksTotals": "150/111",
+        "goalKicksTotalsHome": "71/55",
+        "goalKicksTotalsAway": "79/56",
+        "goalKicksAverage": "10.00/7.40",
+        "goalKicksAverageHome": "10.14/7.86",
+        "goalKicksAverageAway": "9.88/7.00",
+        "savesTotals": "61/33",
+        "savesTotalsHome": "18/20",
+        "savesTotalsAway": "43/13",
+        "savesAverage": "4.07/2.20",
+        "savesAverageHome": "2.57/2.86",
+        "savesAverageAway": "5.38/1.63",
+        "offsidesTotals": "17/23",
+        "offsidesTotalsHome": "9/7",
+        "offsidesTotalsAway": "8/16",
+        "offsidesAverage": "1.13/1.53",
+        "offsidesAverageHome": "1.29/1.00",
+        "offsidesAverageAway": "1.00/2.00",
+        "shotsOnTargetTotals": "52/89",
+        "shotsOnTargetTotalsHome": "34/28",
+        "shotsOnTargetTotalsAway": "18/61",
+        "shotsOnTargetAverage": "3.47/5.93",
+        "shotsOnTargetAverageHome": "4.86/4.00",
+        "shotsOnTargetAverageAway": "2.25/7.63",
+        "yellowCardsTotals": "16/28",
+        "yellowCardsTotalsHome": "10/21",
+        "yellowCardsTotalsAway": "6/7",
+        "yellowCardsAverage": "1.07/1.87",
+        "yellowCardsAverageHome": "1.43/3.00",
+        "yellowCardsAverageAway": "0.75/0.88",
+        "goalsTotals": "18/29",
+        "goalsTotalsHome": "13/10",
+        "goalsTotalsAway": "5/19",
+        "goalsAverage": "1.20/1.93",
+        "goalsAverageHome": "1.86/1.43",
+        "goalsAverageAway": "0.63/2.38",
+        "throwInsTotals": "219/272",
+        "throwInsTotalsHome": "87/134",
+        "throwInsTotalsAway": "132/138",
+        "throwInsAverage": "14.60/18.13",
+        "throwInsAverageHome": "12.43/19.14",
+        "throwInsAverageAway": "16.50/17.25",
+        "averageBallPossessionTotals": "675/825",
+        "averageBallPossessionTotalsHome": "323/377",
+        "averageBallPossessionTotalsAway": "352/448",
+        "averageBallPossessionAverage": "45.00/55.00",
+        "averageBallPossessionAverageHome": "46.14/53.86",
+        "averageBallPossessionAverageAway": "44.00/56.00",
+        "tacklesTotals": "240/234",
+        "tacklesTotalsHome": "109/102",
+        "tacklesTotalsAway": "131/132",
+        "tacklesAverage": "16.00/15.60",
+        "tacklesAverageHome": "15.57/14.57",
+        "tacklesAverageAway": "16.38/16.50",
+        "interceptionsTotals": "120/100",
+        "interceptionsTotalsHome": "50/45",
+        "interceptionsTotalsAway": "70/55",
+        "interceptionsAverage": "8.00/6.67",
+        "interceptionsAverageHome": "7.14/6.43",
+        "interceptionsAverageAway": "8.75/6.88",
+        "aerialDuelsTotals": "167/166",
+        "aerialDuelsTotalsHome": "78/67",
+        "aerialDuelsTotalsAway": "89/99",
+        "aerialDuelsAverage": "11.13/11.07",
+        "aerialDuelsAverageHome": "11.14/9.57",
+        "aerialDuelsAverageAway": "11.13/12.38",
+        "aerialDuelsAttemptedTotals": "333/333",
+        "aerialDuelsAttemptedTotalsHome": "145/145",
+        "aerialDuelsAttemptedTotalsAway": "188/188",
+        "aerialDuelsAttemptedAverage": "22.20/22.20",
+        "aerialDuelsAttemptedAverageHome": "20.71/20.71",
+        "aerialDuelsAttemptedAverageAway": "23.50/23.50",
+        "dribblesTotals": "93/99",
+        "dribblesTotalsHome": "40/41",
+        "dribblesTotalsAway": "53/58",
+        "dribblesAverage": "6.20/6.60",
+        "dribblesAverageHome": "5.71/5.86",
+        "dribblesAverageAway": "6.63/7.25",
+        "dribblesAttemptedTotals": "201/228",
+        "dribblesAttemptedTotalsHome": "92/98",
+        "dribblesAttemptedTotalsAway": "109/130",
+        "dribblesAttemptedAverage": "13.40/15.20",
+        "dribblesAttemptedAverageHome": "13.14/14.00",
+        "dribblesAttemptedAverageAway": "13.63/16.25"
+    }
+}

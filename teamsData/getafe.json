@@ -1,0 +1,651 @@
+{
+    "globalStatistics": {
+        "corners": "4.88",
+        "fouls": "15.31",
+        "goalKicks": "6.50",
+        "saves": "3.44",
+        "offsides": "2.31",
+        "shotsOnTarget": "2.56/4.31",
+        "yellowCards": "2.63/2.06",
+        "goals": "0.81/1.13",
+        "throwIns": "24.94",
+        "ballPossession": 41.1875,
+        "tackles": "17.88/16.00",
+        "interceptions": "7.63/6.06",
+        "aerialDuels": "16.00",
+        "aerialDuelsAttempted": "36.81",
+        "dribbles": "5.94/8.38",
+        "dribblesAttempted": "13.50/17.81"
+    },
+    "teamSlug": "getafe",
+    "teamId": "2859",
+    "teamName": "Getafe",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-espanyol/ogbsjhb#id:14083175,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Espanyol"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "2814"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-villarreal/ugbsjhb#id:14083159,tab:statistics",
+            "teams": [
+                "Villarreal",
+                "Getafe"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2819",
+                "2859"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-elche/Wgbsjhb#id:14083149,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Elche"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2859",
+                "2846"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-atletico-madrid/Lgbsjhb#id:14083131,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Atl. Madrid"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "2836"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-mallorca/Bgbsjhb#id:14083118,tab:statistics",
+            "teams": [
+                "Mallorca",
+                "Getafe"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2826",
+                "2859"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-getafe/jhbsoKj#id:14083098,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Girona"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "24264"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-athletic-club/Agbsjhb#id:14083704,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Getafe"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2825",
+                "2859"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-real-madrid/Egbsjhb#id:14083675,tab:statistics",
+            "teams": [
+                "Getafex2",
+                "Real Madrid"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "2829"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-osasuna/vgbsjhb#id:14652471,tab:statistics",
+            "teams": [
+                "Osasuna",
+                "Getafe"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2820",
+                "2859"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-levante-ud/Zgbsjhb#id:14083569,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Levante"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "2849"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-alaves-getafe/jhbsKhb#id:14083462,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Alavés"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "2885"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-barcelona/rgbsjhb#id:14083262,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Getafe"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2817",
+                "2859"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-real-oviedo/bhbsjhb#id:14083240,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2859",
+                "2851"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-valencia/Dgbsjhb#id:14083187,tab:statistics",
+            "teams": [
+                "Valencia",
+                "Getafe"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2828",
+                "2859"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 6,
+    "matchStatistics": [
+        {
+            "corners": "6/4[H]",
+            "fouls": "18/17[H]",
+            "goalKicks": "3/8[H]",
+            "saves": "3/1[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "29/24[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Getafe,Espanyol,Home",
+            "tackles": "9/16[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "17/22[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "16/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "15/19[A]",
+            "goalKicks": "5/3[A]",
+            "saves": "3/0[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "0/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "10/30[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Getafe,Villarreal,Away",
+            "tackles": "18/18[A]",
+            "interceptions": "13/8[A]",
+            "aerialDuels": "20/22[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "4/10[A]",
+            "dribblesAttempted": "15/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "18/11[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/4[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "29/22[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Getafe,Elche,Home",
+            "tackles": "13/10[H]",
+            "interceptions": "4/9[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "8/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "9/17[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "6/1[H]",
+            "offsides": "2/5[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "28/25[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Getafe,Atl. Madrid,Home",
+            "tackles": "10/17[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "23/21[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "4/13[H]",
+            "dribblesAttempted": "11/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "14/1[A]",
+            "fouls": "8/15[A]",
+            "goalKicks": "2/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "37/31[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Getafe,Mallorca,Away",
+            "tackles": "24/14[A]",
+            "interceptions": "3/11[A]",
+            "aerialDuels": "20/30[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "6/9[A]",
+            "dribblesAttempted": "12/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "17/15[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "38/14[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Getafe,Girona,Home",
+            "tackles": "19/17[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "24/23[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "7/13[H]",
+            "dribblesAttempted": "16/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "5/3[A]",
+            "saves": "4/3[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "36/30[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Getafe,Athletic Club,Away",
+            "tackles": "23/13[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "19/28[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "6/11[A]",
+            "dribblesAttempted": "14/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/4[H]",
+            "fouls": "27/11[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "9/1[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "1/10[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "13/24[H]",
+            "averageBallPossession": "24/76[H]",
+            "teams": "Getafex2,Real Madrid,Home",
+            "tackles": "19/17[H]",
+            "interceptions": "15/6[H]",
+            "aerialDuels": "13/22[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "2/11[H]",
+            "dribblesAttempted": "12/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "6/3[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "26/32[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Getafe,Osasuna,Away",
+            "tackles": "16/10[A]",
+            "interceptions": "9/1[A]",
+            "aerialDuels": "15/26[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "10/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "15/16[H]",
+            "goalKicks": "15/11[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "27/29[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Getafe,Levante,Home",
+            "tackles": "19/18[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "24/23[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "10/3[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "14/20[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "4/0[H]",
+            "offsides": "5/6[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/26[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Getafe,Alavés,Home",
+            "tackles": "25/15[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "21/27[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "16/9[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "21/24[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Getafe,Barcelona,Away",
+            "tackles": "22/12[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "9/13[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "6/11[A]",
+            "dribblesAttempted": "10/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "12/18[H]",
+            "goalKicks": "3/7[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "2/0[H]",
+            "throwIns": "24/34[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Getafe,Real Oviedo,Home",
+            "tackles": "16/20[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "11/13[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "9/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[A]",
+            "fouls": "7/18[A]",
+            "goalKicks": "3/8[A]",
+            "saves": "1/1[A]",
+            "offsides": "5/0[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "22/28[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Getafe,Valencia,Away",
+            "tackles": "16/12[A]",
+            "interceptions": "5/3[A]",
+            "aerialDuels": "6/17[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "11/15[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "6/4[H]+3/5[A]+3/5[H]+6/7[H]+14/1[A]+8/3[H]+5/1[A]+1/4[H]+6/1[A]+6/2[H]+2/7[H]+2/3[A]+4/3[H]+6/8[A]",
+        "fouls": "18/17[H]+15/19[A]+18/11[H]+9/17[H]+8/15[A]+17/15[H]+14/15[A]+27/11[H]+14/11[A]+15/16[H]+14/20[H]+16/9[A]+12/18[H]+7/18[A]",
+        "goalKicks": "3/8[H]+5/3[A]+6/8[H]+5/8[H]+2/6[A]+5/8[H]+5/3[A]+10/7[H]+8/5[A]+15/11[H]+4/6[H]+8/4[A]+3/7[H]+3/8[A]",
+        "saves": "3/1[H]+3/0[A]+4/4[H]+6/1[H]+2/2[A]+3/2[H]+4/3[A]+9/1[H]+2/1[A]+2/3[H]+4/0[H]+4/2[A]+1/1[H]+1/1[A]",
+        "offsides": "2/3[H]+0/6[A]+2/3[H]+2/5[H]+1/0[A]+3/0[H]+4/3[A]+2/3[H]+6/3[A]+2/2[H]+5/6[H]+1/3[A]+1/1[H]+5/0[A]",
+        "shotsOnTarget": "1/4[H]+0/5[A]+6/4[H]+1/6[H]+3/4[A]+4/4[H]+3/4[A]+1/10[H]+2/3[A]+4/3[H]+1/4[H]+2/7[A]+3/1[H]+1/4[A]",
+        "yellowCards": "5/1[H]+4/2[A]+2/2[H]+2/3[H]+2/0[A]+1/2[H]+3/1[A]+4/1[H]+4/1[A]+4/3[H]+2/3[H]+4/2[A]+2/5[H]+0/2[A]",
+        "goals": "0/1[H]+0/2[A]+1/0[H]+0/1[H]+0/1[A]+2/1[H]+1/0[A]+0/1[H]+1/2[A]+1/1[H]+1/1[H]+0/3[A]+2/0[H]+0/3[A]",
+        "throwIns": "29/24[H]+10/30[A]+29/22[H]+28/25[H]+37/31[A]+38/14[H]+36/30[A]+13/24[H]+26/32[A]+27/29[H]+21/26[H]+21/24[A]+24/34[H]+22/28[A]",
+        "averageBallPossession": "56/44[H]+39/61[A]+34/66[H]+41/59[H]+61/39[A]+40/60[H]+43/57[A]+24/76[H]+42/58[A]+54/46[H]+46/54[H]+29/71[A]+48/52[H]+42/58[A]",
+        "teams": "Getafe,Espanyol,Home+Getafe,Villarreal,Away+Getafe,Elche,Home+Getafe,Atl. Madrid,Home+Getafe,Mallorca,Away+Getafe,Girona,Home+Getafe,Athletic Club,Away+Getafex2,Real Madrid,Home+Getafe,Osasuna,Away+Getafe,Levante,Home+Getafe,Alavés,Home+Getafe,Barcelona,Away+Getafe,Real Oviedo,Home+Getafe,Valencia,Away",
+        "tackles": "9/16[H]+18/18[A]+13/10[H]+10/17[H]+24/14[A]+19/17[H]+23/13[A]+19/17[H]+16/10[A]+19/18[H]+25/15[H]+22/12[A]+16/20[H]+16/12[A]",
+        "interceptions": "4/6[H]+13/8[A]+4/9[H]+7/6[H]+3/11[A]+9/9[H]+5/5[A]+15/6[H]+9/1[A]+5/5[H]+10/9[H]+13/7[A]+8/5[H]+5/3[A]",
+        "aerialDuels": "17/22[H]+20/22[A]+14/14[H]+23/21[H]+20/30[A]+24/23[H]+19/28[A]+13/22[H]+15/26[A]+24/23[H]+21/27[H]+9/13[A]+11/13[H]+6/17[A]",
+        "aerialDuelsAttempted": "39/39[H]+42/42[A]+28/28[H]+44/44[H]+50/50[A]+47/47[H]+47/47[A]+35/35[H]+41/41[A]+47/47[H]+48/48[H]+22/22[A]+24/24[H]+23/23[A]",
+        "dribbles": "8/3[H]+4/10[A]+4/6[H]+4/13[H]+6/9[A]+7/13[H]+6/11[A]+2/11[H]+5/9[A]+10/3[H]+6/10[H]+6/11[A]+2/8[H]+6/8[A]",
+        "dribblesAttempted": "16/7[H]+15/21[A]+8/9[H]+11/19[H]+12/24[A]+16/22[H]+14/19[A]+12/22[H]+10/17[A]+18/10[H]+12/21[H]+10/27[A]+9/22[H]+11/15[A]",
+        "isHome": "true+false+true+true+false+true+false+true+false+true+true+false+true+false",
+        "cornersTotals": "72/54",
+        "cornersTotalsHome": "36/35",
+        "cornersTotalsAway": "36/19",
+        "cornersAverage": "5.14/3.86",
+        "cornersAverageHome": "4.50/4.38",
+        "cornersAverageAway": "6.00/3.17",
+        "foulsTotals": "204/212",
+        "foulsTotalsHome": "130/125",
+        "foulsTotalsAway": "74/87",
+        "foulsAverage": "14.57/15.14",
+        "foulsAverageHome": "16.25/15.63",
+        "foulsAverageAway": "12.33/14.50",
+        "goalKicksTotals": "82/92",
+        "goalKicksTotalsHome": "51/63",
+        "goalKicksTotalsAway": "31/29",
+        "goalKicksAverage": "5.86/6.57",
+        "goalKicksAverageHome": "6.38/7.88",
+        "goalKicksAverageAway": "5.17/4.83",
+        "savesTotals": "48/22",
+        "savesTotalsHome": "32/13",
+        "savesTotalsAway": "16/9",
+        "savesAverage": "3.43/1.57",
+        "savesAverageHome": "4.00/1.63",
+        "savesAverageAway": "2.67/1.50",
+        "offsidesTotals": "36/38",
+        "offsidesTotalsHome": "19/23",
+        "offsidesTotalsAway": "17/15",
+        "offsidesAverage": "2.57/2.71",
+        "offsidesAverageHome": "2.38/2.88",
+        "offsidesAverageAway": "2.83/2.50",
+        "shotsOnTargetTotals": "32/63",
+        "shotsOnTargetTotalsHome": "21/36",
+        "shotsOnTargetTotalsAway": "11/27",
+        "shotsOnTargetAverage": "2.29/4.50",
+        "shotsOnTargetAverageHome": "2.63/4.50",
+        "shotsOnTargetAverageAway": "1.83/4.50",
+        "yellowCardsTotals": "39/28",
+        "yellowCardsTotalsHome": "22/20",
+        "yellowCardsTotalsAway": "17/8",
+        "yellowCardsAverage": "2.79/2.00",
+        "yellowCardsAverageHome": "2.75/2.50",
+        "yellowCardsAverageAway": "2.83/1.33",
+        "goalsTotals": "9/17",
+        "goalsTotalsHome": "7/6",
+        "goalsTotalsAway": "2/11",
+        "goalsAverage": "0.64/1.21",
+        "goalsAverageHome": "0.88/0.75",
+        "goalsAverageAway": "0.33/1.83",
+        "throwInsTotals": "361/373",
+        "throwInsTotalsHome": "209/198",
+        "throwInsTotalsAway": "152/175",
+        "throwInsAverage": "25.79/26.64",
+        "throwInsAverageHome": "26.13/24.75",
+        "throwInsAverageAway": "25.33/29.17",
+        "averageBallPossessionTotals": "599/801",
+        "averageBallPossessionTotalsHome": "343/457",
+        "averageBallPossessionTotalsAway": "256/344",
+        "averageBallPossessionAverage": "42.79/57.21",
+        "averageBallPossessionAverageHome": "42.88/57.13",
+        "averageBallPossessionAverageAway": "42.67/57.33",
+        "tacklesTotals": "249/209",
+        "tacklesTotalsHome": "130/130",
+        "tacklesTotalsAway": "119/79",
+        "tacklesAverage": "17.79/14.93",
+        "tacklesAverageHome": "16.25/16.25",
+        "tacklesAverageAway": "19.83/13.17",
+        "interceptionsTotals": "110/90",
+        "interceptionsTotalsHome": "62/55",
+        "interceptionsTotalsAway": "48/35",
+        "interceptionsAverage": "7.86/6.43",
+        "interceptionsAverageHome": "7.75/6.88",
+        "interceptionsAverageAway": "8.00/5.83",
+        "aerialDuelsTotals": "236/301",
+        "aerialDuelsTotalsHome": "147/165",
+        "aerialDuelsTotalsAway": "89/136",
+        "aerialDuelsAverage": "16.86/21.50",
+        "aerialDuelsAverageHome": "18.38/20.63",
+        "aerialDuelsAverageAway": "14.83/22.67",
+        "aerialDuelsAttemptedTotals": "537/537",
+        "aerialDuelsAttemptedTotalsHome": "312/312",
+        "aerialDuelsAttemptedTotalsAway": "225/225",
+        "aerialDuelsAttemptedAverage": "38.36/38.36",
+        "aerialDuelsAttemptedAverageHome": "39.00/39.00",
+        "aerialDuelsAttemptedAverageAway": "37.50/37.50",
+        "dribblesTotals": "76/125",
+        "dribblesTotalsHome": "43/67",
+        "dribblesTotalsAway": "33/58",
+        "dribblesAverage": "5.43/8.93",
+        "dribblesAverageHome": "5.38/8.38",
+        "dribblesAverageAway": "5.50/9.67",
+        "dribblesAttemptedTotals": "174/255",
+        "dribblesAttemptedTotalsHome": "102/132",
+        "dribblesAttemptedTotalsAway": "72/123",
+        "dribblesAttemptedAverage": "12.43/18.21",
+        "dribblesAttemptedAverageHome": "12.75/16.50",
+        "dribblesAttemptedAverageAway": "12.00/20.50"
+    }
+}

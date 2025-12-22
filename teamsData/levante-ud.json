@@ -1,0 +1,614 @@
+{
+    "globalStatistics": {
+        "corners": "3.13",
+        "fouls": "12.27",
+        "goalKicks": "9.67",
+        "saves": "3.87",
+        "offsides": "2.00",
+        "shotsOnTarget": "3.47/5.53",
+        "yellowCards": "2.20/2.13",
+        "goals": "1.07/1.87",
+        "throwIns": "17.87",
+        "ballPossession": 41.466666666667,
+        "tackles": "16.73/17.13",
+        "interceptions": "8.07/8.33",
+        "aerialDuels": "13.67",
+        "aerialDuelsAttempted": "27.47",
+        "dribbles": "6.33/7.53",
+        "dribblesAttempted": "13.87/17.20"
+    },
+    "teamSlug": "levante-ud",
+    "teamId": "2849",
+    "teamName": "Levante UD",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-osasuna/vgbsZgb#id:14083160,tab:statistics",
+            "teams": [
+                "Osasuna",
+                "Levante"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2820",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-athletic-club/AgbsZgb#id:14083145,tab:statistics",
+            "teams": [
+                "Levante",
+                "Athletic Club"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2849",
+                "2825"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-valencia/DgbsZgb#id:14083133,tab:statistics",
+            "teams": [
+                "Valencia",
+                "Levante"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2828",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-atletico-madrid/LgbsZgb#id:14083108,tab:statistics",
+            "teams": [
+                "Atl. Madrid",
+                "Levante"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2836",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-celta-vigo/wgbsZgb#id:14083103,tab:statistics",
+            "teams": [
+                "Levante",
+                "Celta"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2849",
+                "2821"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-mallorca/BgbsZgb#id:14083742,tab:statistics",
+            "teams": [
+                "Mallorca",
+                "Levante"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2826",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-rayo-vallecano/tgbsZgb#id:14083680,tab:statistics",
+            "teams": [
+                "Levante",
+                "Rayo Vallecano"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2849",
+                "2818"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-levante-ud/Zgbsbhb#id:14083645,tab:statistics",
+            "teams": [
+                "Real Oviedo",
+                "Levante"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2851",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-levante-ud/Zgbsjhb#id:14083569,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Levante"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2859",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-real-madrid/EgbsZgb#id:14083426,tab:statistics",
+            "teams": [
+                "Levante",
+                "Real Madrid"
+            ],
+            "goals": [
+                "1",
+                "4"
+            ],
+            "teamIds": [
+                "2849",
+                "2829"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-levante-ud/ZgbsoKj#id:14083285,tab:statistics",
+            "teams": [
+                "Gironax2",
+                "Levante"
+            ],
+            "goals": [
+                "0",
+                "4"
+            ],
+            "teamIds": [
+                "24264",
+                "2849"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-real-betis/qgbsZgb#id:14083249,tab:statistics",
+            "teams": [
+                "Levante",
+                "Real Betis"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2849",
+                "2816"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-elche/WgbsZgb#id:14083129,tab:statistics",
+            "teams": [
+                "Elche",
+                "Levante"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2846",
+                "2849"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 5,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "3/3[A]",
+            "fouls": "7/15[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "22/20[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Levante,Osasuna,Away",
+            "tackles": "9/17[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "17/22[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "9/11[A]",
+            "dribblesAttempted": "15/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "11/19[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "1/4[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "22/24[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Levante,Athletic Club,Home",
+            "tackles": "17/24[H]",
+            "interceptions": "14/11[H]",
+            "aerialDuels": "19/9[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "16/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/7[A]",
+            "fouls": "15/16[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "2/0[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "0/3[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "14/21[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Levante,Valencia,Away",
+            "tackles": "14/17[A]",
+            "interceptions": "8/12[A]",
+            "aerialDuels": "17/12[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "13/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/21[A]",
+            "fouls": "6/5[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "8/2[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "3/10[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/3[A]",
+            "throwIns": "13/29[A]",
+            "averageBallPossession": "26/74[A]",
+            "teams": "Levante,Atl. Madrid,Away",
+            "tackles": "17/19[A]",
+            "interceptions": "9/3[A]",
+            "aerialDuels": "13/11[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "15/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Levante,Celta,Home",
+            "tackles": "17/15[H]",
+            "interceptions": "12/10[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "9/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "13/8[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "4/4[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/20[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Levante,Mallorca,Away",
+            "tackles": "22/10[A]",
+            "interceptions": "12/13[A]",
+            "aerialDuels": "13/18[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "14/11[A]",
+            "dribblesAttempted": "20/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/4[H]",
+            "fouls": "6/18[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "26/16[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Levante,Rayo Vallecano,Home",
+            "tackles": "16/27[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "9/5[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "12/4[H]",
+            "dribblesAttempted": "26/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/25[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Levante,Real Oviedo,Away",
+            "tackles": "14/15[A]",
+            "interceptions": "11/7[A]",
+            "aerialDuels": "13/25[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "11/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "16/15[A]",
+            "goalKicks": "11/15[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/1[A]",
+            "throwIns": "29/27[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Levante,Getafe,Away",
+            "tackles": "18/19[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "23/24[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "3/10[A]",
+            "dribblesAttempted": "10/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "17/9[H]",
+            "goalKicks": "9/3[H]",
+            "saves": "6/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/10[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/4[H]",
+            "throwIns": "13/12[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Levante,Real Madrid,Home",
+            "tackles": "19/22[H]",
+            "interceptions": "8/6[H]",
+            "aerialDuels": "9/2[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "3/11[H]",
+            "dribblesAttempted": "9/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "17/11[A]",
+            "goalKicks": "5/4[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "7/1[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "4/0[A]",
+            "throwIns": "16/15[A]",
+            "averageBallPossession": "65/35[A]",
+            "teams": "Levante,Gironax2,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "1/8[A]",
+            "aerialDuels": "8/2[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "15/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/12[H]",
+            "fouls": "16/11[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "7/0[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/9[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "13/23[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Levante,Real Betis,Home",
+            "tackles": "13/17[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "16/19[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "11/12[H]",
+            "dribblesAttempted": "20/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "17/14[A]",
+            "goalKicks": "10/8[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "12/15[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Levante,Elche,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "7/11[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "7/10[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "3/3[A]+4/2[H]+0/7[A]+4/21[A]+4/4[H]+4/5[A]+11/4[H]+3/9[A]+2/6[A]+1/7[H]+4/5[A]+4/12[H]+2/4[A]",
+        "fouls": "7/15[A]+11/19[H]+15/16[A]+6/5[A]+10/12[H]+13/8[A]+6/18[H]+10/10[A]+16/15[A]+17/9[H]+17/11[A]+16/11[H]+17/14[A]",
+        "goalKicks": "3/10[A]+9/9[H]+7/6[A]+13/4[A]+12/8[H]+13/4[A]+5/7[H]+10/5[A]+11/15[A]+9/3[H]+5/4[A]+12/8[H]+10/8[A]",
+        "saves": "4/4[A]+1/4[H]+2/0[A]+8/2[A]+5/2[H]+4/4[A]+1/4[H]+2/3[A]+3/2[A]+6/1[H]+1/2[A]+7/0[H]+3/1[A]",
+        "offsides": "1/0[A]+4/2[H]+0/2[A]+4/1[A]+0/0[H]+3/3[A]+1/0[H]+2/1[A]+2/2[A]+0/1[H]+1/0[A]+2/1[H]+1/1[A]",
+        "shotsOnTarget": "5/6[A]+4/4[H]+0/3[A]+3/10[A]+3/6[H]+5/4[A]+4/5[H]+5/2[A]+3/4[A]+2/10[H]+7/1[A]+2/9[H]+1/5[A]",
+        "yellowCards": "2/2[A]+3/2[H]+4/4[A]+1/3[A]+2/3[H]+2/3[A]+0/1[H]+2/2[A]+3/4[A]+1/1[H]+3/4[A]+4/2[H]+2/1[A]",
+        "goals": "0/2[A]+0/2[H]+0/1[A]+1/3[A]+1/2[H]+1/1[A]+0/3[H]+2/0[A]+1/1[A]+1/4[H]+4/0[A]+2/2[H]+0/2[A]",
+        "throwIns": "22/20[A]+22/24[H]+14/21[A]+13/29[A]+17/17[H]+14/20[A]+26/16[H]+21/25[A]+29/27[A]+13/12[H]+16/15[A]+13/23[H]+12/15[A]",
+        "averageBallPossession": "59/41[A]+56/44[H]+41/59[A]+26/74[A]+36/64[H]+37/63[A]+54/46[H]+43/57[A]+46/54[A]+37/63[H]+65/35[A]+33/67[H]+33/67[A]",
+        "teams": "Levante,Osasuna,Away+Levante,Athletic Club,Home+Levante,Valencia,Away+Levante,Atl. Madrid,Away+Levante,Celta,Home+Levante,Mallorca,Away+Levante,Rayo Vallecano,Home+Levante,Real Oviedo,Away+Levante,Getafe,Away+Levante,Real Madrid,Home+Levante,Gironax2,Away+Levante,Real Betis,Home+Levante,Elche,Away",
+        "tackles": "9/17[A]+17/24[H]+14/17[A]+17/19[A]+17/15[H]+22/10[A]+16/27[H]+14/15[A]+18/19[A]+19/22[H]+15/16[A]+13/17[H]+13/13[A]",
+        "interceptions": "9/10[A]+14/11[H]+8/12[A]+9/3[A]+12/10[H]+12/13[A]+6/9[H]+11/7[A]+5/5[A]+8/6[H]+1/8[A]+9/6[H]+5/10[A]",
+        "aerialDuels": "17/22[A]+19/9[H]+17/12[A]+13/11[A]+12/11[H]+13/18[A]+9/5[H]+13/25[A]+23/24[A]+9/2[H]+8/2[A]+16/19[H]+7/11[A]",
+        "aerialDuelsAttempted": "39/39[A]+28/28[H]+29/29[A]+24/24[A]+23/23[H]+31/31[A]+14/14[H]+38/38[A]+47/47[A]+11/11[H]+10/10[A]+35/35[H]+18/18[A]",
+        "dribbles": "9/11[A]+5/6[H]+5/7[A]+6/4[A]+4/5[H]+14/11[A]+12/4[H]+3/6[A]+3/10[A]+3/11[H]+7/5[A]+11/12[H]+2/6[A]",
+        "dribblesAttempted": "15/17[A]+16/21[H]+13/12[A]+15/17[A]+9/19[H]+20/20[A]+26/11[H]+11/15[A]+10/18[A]+9/25[H]+15/13[A]+20/18[H]+7/10[A]",
+        "isHome": "false+true+false+false+true+false+true+false+false+true+false+true+false",
+        "cornersTotals": "46/89",
+        "cornersTotalsHome": "24/29",
+        "cornersTotalsAway": "22/60",
+        "cornersAverage": "3.54/6.85",
+        "cornersAverageHome": "4.80/5.80",
+        "cornersAverageAway": "2.75/7.50",
+        "foulsTotals": "161/163",
+        "foulsTotalsHome": "60/69",
+        "foulsTotalsAway": "101/94",
+        "foulsAverage": "12.38/12.54",
+        "foulsAverageHome": "12.00/13.80",
+        "foulsAverageAway": "12.63/11.75",
+        "goalKicksTotals": "119/91",
+        "goalKicksTotalsHome": "47/35",
+        "goalKicksTotalsAway": "72/56",
+        "goalKicksAverage": "9.15/7.00",
+        "goalKicksAverageHome": "9.40/7.00",
+        "goalKicksAverageAway": "9.00/7.00",
+        "savesTotals": "47/29",
+        "savesTotalsHome": "20/11",
+        "savesTotalsAway": "27/18",
+        "savesAverage": "3.62/2.23",
+        "savesAverageHome": "4.00/2.20",
+        "savesAverageAway": "3.38/2.25",
+        "offsidesTotals": "21/14",
+        "offsidesTotalsHome": "7/4",
+        "offsidesTotalsAway": "14/10",
+        "offsidesAverage": "1.62/1.08",
+        "offsidesAverageHome": "1.40/0.80",
+        "offsidesAverageAway": "1.75/1.25",
+        "shotsOnTargetTotals": "44/69",
+        "shotsOnTargetTotalsHome": "15/34",
+        "shotsOnTargetTotalsAway": "29/35",
+        "shotsOnTargetAverage": "3.38/5.31",
+        "shotsOnTargetAverageHome": "3.00/6.80",
+        "shotsOnTargetAverageAway": "3.63/4.38",
+        "yellowCardsTotals": "29/32",
+        "yellowCardsTotalsHome": "10/9",
+        "yellowCardsTotalsAway": "19/23",
+        "yellowCardsAverage": "2.23/2.46",
+        "yellowCardsAverageHome": "2.00/1.80",
+        "yellowCardsAverageAway": "2.38/2.88",
+        "goalsTotals": "13/23",
+        "goalsTotalsHome": "4/13",
+        "goalsTotalsAway": "9/10",
+        "goalsAverage": "1.00/1.77",
+        "goalsAverageHome": "0.80/2.60",
+        "goalsAverageAway": "1.13/1.25",
+        "throwInsTotals": "232/264",
+        "throwInsTotalsHome": "91/92",
+        "throwInsTotalsAway": "141/172",
+        "throwInsAverage": "17.85/20.31",
+        "throwInsAverageHome": "18.20/18.40",
+        "throwInsAverageAway": "17.63/21.50",
+        "averageBallPossessionTotals": "566/734",
+        "averageBallPossessionTotalsHome": "216/284",
+        "averageBallPossessionTotalsAway": "350/450",
+        "averageBallPossessionAverage": "43.54/56.46",
+        "averageBallPossessionAverageHome": "43.20/56.80",
+        "averageBallPossessionAverageAway": "43.75/56.25",
+        "tacklesTotals": "204/231",
+        "tacklesTotalsHome": "82/105",
+        "tacklesTotalsAway": "122/126",
+        "tacklesAverage": "15.69/17.77",
+        "tacklesAverageHome": "16.40/21.00",
+        "tacklesAverageAway": "15.25/15.75",
+        "interceptionsTotals": "109/110",
+        "interceptionsTotalsHome": "49/42",
+        "interceptionsTotalsAway": "60/68",
+        "interceptionsAverage": "8.38/8.46",
+        "interceptionsAverageHome": "9.80/8.40",
+        "interceptionsAverageAway": "7.50/8.50",
+        "aerialDuelsTotals": "176/171",
+        "aerialDuelsTotalsHome": "65/46",
+        "aerialDuelsTotalsAway": "111/125",
+        "aerialDuelsAverage": "13.54/13.15",
+        "aerialDuelsAverageHome": "13.00/9.20",
+        "aerialDuelsAverageAway": "13.88/15.63",
+        "aerialDuelsAttemptedTotals": "347/347",
+        "aerialDuelsAttemptedTotalsHome": "111/111",
+        "aerialDuelsAttemptedTotalsAway": "236/236",
+        "aerialDuelsAttemptedAverage": "26.69/26.69",
+        "aerialDuelsAttemptedAverageHome": "22.20/22.20",
+        "aerialDuelsAttemptedAverageAway": "29.50/29.50",
+        "dribblesTotals": "84/98",
+        "dribblesTotalsHome": "35/38",
+        "dribblesTotalsAway": "49/60",
+        "dribblesAverage": "6.46/7.54",
+        "dribblesAverageHome": "7.00/7.60",
+        "dribblesAverageAway": "6.13/7.50",
+        "dribblesAttemptedTotals": "186/216",
+        "dribblesAttemptedTotalsHome": "80/94",
+        "dribblesAttemptedTotalsAway": "106/122",
+        "dribblesAttemptedAverage": "14.31/16.62",
+        "dribblesAttemptedAverageHome": "16.00/18.80",
+        "dribblesAttemptedAverageAway": "13.25/15.25"
+    }
+}

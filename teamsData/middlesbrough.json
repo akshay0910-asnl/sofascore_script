@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "5.76",
+        "fouls": "9.67",
+        "goalKicks": "6.48",
+        "saves": "1.81",
+        "offsides": "1.90",
+        "shotsOnTarget": "4.14/2.86",
+        "yellowCards": "1.62/2.10",
+        "goals": "1.57/1.05",
+        "throwIns": "20.71",
+        "ballPossession": 55.761904761905,
+        "tackles": "16.43/18.29",
+        "interceptions": "8.05/9.67",
+        "aerialDuels": "12.24",
+        "aerialDuelsAttempted": "26.10",
+        "dribbles": "7.62/6.57",
+        "dribblesAttempted": "16.62/14.57"
+    },
+    "teamSlug": "middlesbrough",
+    "teamId": "36",
+    "teamName": "Middlesbrough",
+    "tournament": "Championship",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-queens-park-rangers/bsL#id:14059700,tab:statistics",
+            "teams": [
+                "Middlesbrough",
+                "QPR"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "36",
+                "1"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlton-athletic-middlesbrough/LsX#id:14059688,tab:statistics",
+            "teams": [
+                "Charlton",
+                "Middlesbrough"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "47",
+                "36"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hull-city-middlesbrough/LsWb#id:14059675,tab:statistics",
+            "teams": [
+                "Hull",
+                "Middlesbrough"
+            ],
+            "goals": [
+                "1",
+                "4"
+            ],
+            "teamIds": [
+                "96",
+                "36"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-derby-county/CsL#id:14059666,tab:statistics",
+            "teams": [
+                "Middlesbrough",
+                "Derby"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "36",
+                "27"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-coventry-city/lsL#id:14059648,tab:statistics",
+            "teams": [
+                "Middlesbrough",
+                "Coventry"
+            ],
+            "goals": [
+                "2",
+                "4"
+            ],
+            "teamIds": [
+                "36",
+                "11"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-middlesbrough/LsVb#id:14059643,tab:statistics",
+            "teams": [
+                "Oxford Utd",
+                "Middlesbrough"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "95",
+                "36"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-birmingham-city/jsL#id:14059628,tab:statistics",
+            "teams": [
+                "Middlesbrough",
+                "Birmingham"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "36",
+                "9"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-leicester-city/GsL#id:14059619,tab:statistics",
+            "teams": [
+                "Leicester",
+                "Middlesbrough"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "31",
+                "36"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "9/4[H]",
+            "fouls": "13/8[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "4/4[H]",
+            "offsides": "3/4[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "3/1[H]",
+            "throwIns": "17/18[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Middlesbrough,QPR,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "13/12[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "19/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "5/18[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "3/5[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "7/3[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "28/25[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Middlesbrough,Charlton,Away",
+            "tackles": "9/14[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "10/22[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "9/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "11/17[A]",
+            "goalKicks": "4/3[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "4/1[A]",
+            "throwIns": "24/29[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Middlesbrough,Hull,Away",
+            "tackles": "22/27[A]",
+            "interceptions": "20/10[A]",
+            "aerialDuels": "10/13[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "10/9[A]",
+            "dribblesAttempted": "26/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/8[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/20[H]",
+            "averageBallPossession": "74/26[H]",
+            "teams": "Middlesbrough,Derby,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "4/10[H]",
+            "aerialDuels": "10/18[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "4/1[H]",
+            "offsides": "6/1[H]",
+            "shotsOnTarget": "2/8[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/4[H]",
+            "throwIns": "13/12[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Middlesbrough,Coventry,Home",
+            "tackles": "11/25[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "17/23[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "2/11[H]",
+            "dribblesAttempted": "12/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "26/23[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "Middlesbrough,Oxford Utd,Away",
+            "tackles": "12/18[A]",
+            "interceptions": "12/13[A]",
+            "aerialDuels": "8/7[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "13/6[A]",
+            "dribblesAttempted": "23/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "18/22[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Middlesbrough,Birmingham,Home",
+            "tackles": "15/10[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "11/11[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "8/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "11/18[A]",
+            "goalKicks": "6/13[A]",
+            "saves": "1/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "1/6[A]",
+            "goals": "1/1[A]",
+            "throwIns": "21/26[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Middlesbrough,Leicester,Away",
+            "tackles": "21/21[A]",
+            "interceptions": "7/9[A]",
+            "aerialDuels": "11/15[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "18/16[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "9/4[H]+5/5[A]+5/2[A]+9/8[H]+8/3[H]+8/1[A]+3/5[H]+6/3[A]",
+        "fouls": "13/8[H]+5/18[A]+11/17[A]+9/13[H]+12/16[H]+12/16[A]+9/13[H]+11/18[A]",
+        "goalKicks": "6/4[H]+8/4[A]+4/3[A]+6/13[H]+8/7[H]+3/10[A]+11/7[H]+6/13[A]",
+        "saves": "4/4[H]+3/5[A]+1/1[A]+0/2[H]+4/1[H]+1/2[A]+4/2[H]+1/3[A]",
+        "offsides": "3/4[H]+1/3[A]+2/2[A]+1/1[H]+6/1[H]+2/2[A]+3/3[H]+2/0[A]",
+        "shotsOnTarget": "7/5[H]+7/3[A]+5/2[A]+4/1[H]+2/8[H]+3/2[A]+4/5[H]+4/2[A]",
+        "yellowCards": "1/0[H]+1/4[A]+0/1[A]+0/2[H]+0/0[H]+3/3[A]+1/1[H]+1/6[A]",
+        "goals": "3/1[H]+2/1[A]+4/1[A]+2/1[H]+2/4[H]+1/1[A]+2/1[H]+1/1[A]",
+        "throwIns": "17/18[H]+28/25[A]+24/29[A]+17/20[H]+13/12[H]+26/23[A]+18/22[H]+21/26[A]",
+        "averageBallPossession": "63/37[H]+62/38[A]+55/45[A]+74/26[H]+60/40[H]+70/30[A]+43/57[H]+63/37[A]",
+        "teams": "Middlesbrough,QPR,Home+Middlesbrough,Charlton,Away+Middlesbrough,Hull,Away+Middlesbrough,Derby,Home+Middlesbrough,Coventry,Home+Middlesbrough,Oxford Utd,Away+Middlesbrough,Birmingham,Home+Middlesbrough,Leicester,Away",
+        "tackles": "15/14[H]+9/14[A]+22/27[A]+14/12[H]+11/25[H]+12/18[A]+15/10[H]+21/21[A]",
+        "interceptions": "11/8[H]+7/7[A]+20/10[A]+4/10[H]+6/7[H]+12/13[A]+7/7[H]+7/9[A]",
+        "aerialDuels": "13/12[H]+10/22[A]+10/13[A]+10/18[H]+17/23[H]+8/7[A]+11/11[H]+11/15[A]",
+        "aerialDuelsAttempted": "25/25[H]+32/32[A]+23/23[A]+28/28[H]+40/40[H]+15/15[A]+22/22[H]+26/26[A]",
+        "dribbles": "9/5[H]+5/4[A]+10/9[A]+7/4[H]+2/11[H]+13/6[A]+3/5[H]+8/5[A]",
+        "dribblesAttempted": "19/15[H]+9/11[A]+26/19[A]+14/15[H]+12/16[H]+23/11[A]+8/13[H]+18/16[A]",
+        "isHome": "true+false+false+true+true+false+true+false",
+        "cornersTotals": "53/31",
+        "cornersTotalsHome": "29/20",
+        "cornersTotalsAway": "24/11",
+        "cornersAverage": "6.63/3.88",
+        "cornersAverageHome": "7.25/5.00",
+        "cornersAverageAway": "6.00/2.75",
+        "foulsTotals": "82/119",
+        "foulsTotalsHome": "43/50",
+        "foulsTotalsAway": "39/69",
+        "foulsAverage": "10.25/14.88",
+        "foulsAverageHome": "10.75/12.50",
+        "foulsAverageAway": "9.75/17.25",
+        "goalKicksTotals": "52/61",
+        "goalKicksTotalsHome": "31/31",
+        "goalKicksTotalsAway": "21/30",
+        "goalKicksAverage": "6.50/7.63",
+        "goalKicksAverageHome": "7.75/7.75",
+        "goalKicksAverageAway": "5.25/7.50",
+        "savesTotals": "18/20",
+        "savesTotalsHome": "12/9",
+        "savesTotalsAway": "6/11",
+        "savesAverage": "2.25/2.50",
+        "savesAverageHome": "3.00/2.25",
+        "savesAverageAway": "1.50/2.75",
+        "offsidesTotals": "20/16",
+        "offsidesTotalsHome": "13/9",
+        "offsidesTotalsAway": "7/7",
+        "offsidesAverage": "2.50/2.00",
+        "offsidesAverageHome": "3.25/2.25",
+        "offsidesAverageAway": "1.75/1.75",
+        "shotsOnTargetTotals": "36/28",
+        "shotsOnTargetTotalsHome": "17/19",
+        "shotsOnTargetTotalsAway": "19/9",
+        "shotsOnTargetAverage": "4.50/3.50",
+        "shotsOnTargetAverageHome": "4.25/4.75",
+        "shotsOnTargetAverageAway": "4.75/2.25",
+        "yellowCardsTotals": "7/17",
+        "yellowCardsTotalsHome": "2/3",
+        "yellowCardsTotalsAway": "5/14",
+        "yellowCardsAverage": "0.88/2.13",
+        "yellowCardsAverageHome": "0.50/0.75",
+        "yellowCardsAverageAway": "1.25/3.50",
+        "goalsTotals": "17/11",
+        "goalsTotalsHome": "9/7",
+        "goalsTotalsAway": "8/4",
+        "goalsAverage": "2.13/1.38",
+        "goalsAverageHome": "2.25/1.75",
+        "goalsAverageAway": "2.00/1.00",
+        "throwInsTotals": "164/175",
+        "throwInsTotalsHome": "65/72",
+        "throwInsTotalsAway": "99/103",
+        "throwInsAverage": "20.50/21.88",
+        "throwInsAverageHome": "16.25/18.00",
+        "throwInsAverageAway": "24.75/25.75",
+        "averageBallPossessionTotals": "490/310",
+        "averageBallPossessionTotalsHome": "240/160",
+        "averageBallPossessionTotalsAway": "250/150",
+        "averageBallPossessionAverage": "61.25/38.75",
+        "averageBallPossessionAverageHome": "60.00/40.00",
+        "averageBallPossessionAverageAway": "62.50/37.50",
+        "tacklesTotals": "119/141",
+        "tacklesTotalsHome": "55/61",
+        "tacklesTotalsAway": "64/80",
+        "tacklesAverage": "14.88/17.63",
+        "tacklesAverageHome": "13.75/15.25",
+        "tacklesAverageAway": "16.00/20.00",
+        "interceptionsTotals": "74/71",
+        "interceptionsTotalsHome": "28/32",
+        "interceptionsTotalsAway": "46/39",
+        "interceptionsAverage": "9.25/8.88",
+        "interceptionsAverageHome": "7.00/8.00",
+        "interceptionsAverageAway": "11.50/9.75",
+        "aerialDuelsTotals": "90/121",
+        "aerialDuelsTotalsHome": "51/64",
+        "aerialDuelsTotalsAway": "39/57",
+        "aerialDuelsAverage": "11.25/15.13",
+        "aerialDuelsAverageHome": "12.75/16.00",
+        "aerialDuelsAverageAway": "9.75/14.25",
+        "aerialDuelsAttemptedTotals": "211/211",
+        "aerialDuelsAttemptedTotalsHome": "115/115",
+        "aerialDuelsAttemptedTotalsAway": "96/96",
+        "aerialDuelsAttemptedAverage": "26.38/26.38",
+        "aerialDuelsAttemptedAverageHome": "28.75/28.75",
+        "aerialDuelsAttemptedAverageAway": "24.00/24.00",
+        "dribblesTotals": "57/49",
+        "dribblesTotalsHome": "21/25",
+        "dribblesTotalsAway": "36/24",
+        "dribblesAverage": "7.13/6.13",
+        "dribblesAverageHome": "5.25/6.25",
+        "dribblesAverageAway": "9.00/6.00",
+        "dribblesAttemptedTotals": "129/116",
+        "dribblesAttemptedTotalsHome": "53/59",
+        "dribblesAttemptedTotalsAway": "76/57",
+        "dribblesAttemptedAverage": "16.13/14.50",
+        "dribblesAttemptedAverageHome": "13.25/14.75",
+        "dribblesAttemptedAverageAway": "19.00/14.25"
+    }
+}

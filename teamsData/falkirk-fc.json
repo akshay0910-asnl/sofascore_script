@@ -1,0 +1,686 @@
+{
+    "globalStatistics": {
+        "corners": "4.53",
+        "fouls": "12.65",
+        "goalKicks": "8.53",
+        "saves": "3.71",
+        "offsides": "2.12",
+        "shotsOnTarget": "3.88/5.12",
+        "yellowCards": "2.35/1.94",
+        "goals": "1.12/1.53",
+        "throwIns": "21.47",
+        "ballPossession": 49.882352941176,
+        "tackles": "18.35/17.65",
+        "interceptions": "8.47/7.71",
+        "aerialDuels": "20.18",
+        "aerialDuelsAttempted": "41.53",
+        "dribbles": "6.29/10.47",
+        "dribblesAttempted": "14.88/20.59"
+    },
+    "teamSlug": "falkirk-fc",
+    "teamId": "2363",
+    "teamName": "Falkirk FC",
+    "tournament": "Scottish Premiership",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-heart-of-midlothian/dXsnX#id:14035233,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Hearts"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2363",
+                "2353"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-hibernian/eXsnX#id:14035208,tab:statistics",
+            "teams": [
+                "Hibernian",
+                "Falkirk"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2354",
+                "2363"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-motherwell/WWsnX#id:14035204,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Motherwell"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2363",
+                "2346"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-rangers/bXsnX#id:14035201,tab:statistics",
+            "teams": [
+                "Rangers",
+                "Falkirk"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2351",
+                "2363"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-dundee-united/ZWsnX#id:14035191,tab:statistics",
+            "teams": [
+                "Dundee Utd",
+                "Falkirk"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2349",
+                "2363"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-livingston/gXsnX#id:14035187,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Livingston"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2363",
+                "2356"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-kilmarnock/XWsnX#id:14035182,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Kilmarnock"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2363",
+                "2347"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-celtic/cXsnX#id:14035168,tab:statistics",
+            "teams": [
+                "Celtic",
+                "Falkirk"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2352",
+                "2363"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-dundee-fc/hXsnX#id:14035169,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Dundee"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2363",
+                "2357"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-motherwell/WWsnX#id:14035163,tab:statistics",
+            "teams": [
+                "Motherwell",
+                "Falkirk"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2346",
+                "2363"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-rangers/bXsnX#id:14035161,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Rangers"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2363",
+                "2351"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-heart-of-midlothian/dXsnX#id:14035150,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Falkirk"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2353",
+                "2363"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-hibernian/eXsnX#id:14608157,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Hibernian"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2363",
+                "2354"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-st-mirren/jXsnX#id:14035130,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "St Mirren"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2363",
+                "2359"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-aberdeen/fXsnX#id:14035134,tab:statistics",
+            "teams": [
+                "Aberdeen",
+                "Falkirk"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2355",
+                "2363"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 7,
+    "matchStatistics": [
+        {
+            "corners": "3/7[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "3/0[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "25/34[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Falkirk,Hearts,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "13/15[H]",
+            "aerialDuels": "20/21[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "17/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/10[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "2/5[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "17/20[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Falkirk,Hibernian,Away",
+            "tackles": "12/23[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "14/14[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "15/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "5/19[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "15/27[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Falkirk,Motherwell,Home",
+            "tackles": "27/15[H]",
+            "interceptions": "13/5[H]",
+            "aerialDuels": "15/24[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "4/18[H]",
+            "dribblesAttempted": "8/32[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "17/11[A]",
+            "goalKicks": "14/5[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "23/27[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Falkirk,Rangers,Away",
+            "tackles": "20/16[A]",
+            "interceptions": "5/11[A]",
+            "aerialDuels": "14/16[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "5/18[A]",
+            "dribblesAttempted": "15/32[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "9/23[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "3/0[A]",
+            "throwIns": "12/26[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Falkirk,Dundee Utd,Away",
+            "tackles": "13/17[A]",
+            "interceptions": "9/14[A]",
+            "aerialDuels": "26/22[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "6/12[A]",
+            "dribblesAttempted": "12/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "19/14[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/23[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Falkirk,Livingston,Home",
+            "tackles": "12/28[H]",
+            "interceptions": "14/7[H]",
+            "aerialDuels": "24/25[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "10/12[H]",
+            "dribblesAttempted": "25/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "18/31[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Falkirk,Kilmarnock,Home",
+            "tackles": "23/12[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "24/24[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "14/4[H]",
+            "dribblesAttempted": "23/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "9/2[A]",
+            "saves": "7/4[A]",
+            "offsides": "5/1[A]",
+            "shotsOnTarget": "4/11[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/4[A]",
+            "throwIns": "12/30[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Falkirk,Celtic,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "19/29[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "11/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/49[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "Falkirk,Dundee,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "26/32[H]",
+            "aerialDuelsAttempted": "58/58[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "19/14[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "20/23[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Falkirk,Motherwell,Away",
+            "tackles": "22/10[A]",
+            "interceptions": "10/4[A]",
+            "aerialDuels": "18/10[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "5/16[A]",
+            "dribblesAttempted": "11/34[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "15/16[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/26[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Falkirk,Rangers,Home",
+            "tackles": "31/18[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "15/24[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "4/18[H]",
+            "dribblesAttempted": "9/37[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/9[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "10/3[A]",
+            "saves": "7/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/10[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "23/23[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Falkirk,Hearts,Away",
+            "tackles": "18/26[A]",
+            "interceptions": "3/8[A]",
+            "aerialDuels": "18/21[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "9/9[A]",
+            "dribblesAttempted": "22/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "5/4[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "6/7[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "23/19[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Falkirk,Hibernian,Home",
+            "tackles": "15/12[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "20/20[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "6/14[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "4/1[H]",
+            "offsides": "8/4[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "30/19[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Falkirk,St Mirren,Home",
+            "tackles": "22/10[H]",
+            "interceptions": "1/1[H]",
+            "aerialDuels": "25/23[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "2/10[H]",
+            "dribblesAttempted": "9/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "13/16[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "4/7[A]",
+            "offsides": "4/4[A]",
+            "shotsOnTarget": "9/4[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "19/28[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Falkirk,Aberdeen,Away",
+            "tackles": "19/19[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "16/18[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "19/20[A]",
+            "isHome": false
+        }
+    ],
+    "combinedMatchStatistics": {
+        "corners": "3/7[H]+4/10[A]+6/3[H]+5/4[A]+5/5[A]+6/1[H]+2/6[H]+3/6[A]+5/3[H]+4/6[A]+7/6[H]+5/9[A]+5/5[H]+4/2[H]+6/5[A]",
+        "fouls": "11/9[H]+9/13[A]+13/15[H]+17/11[A]+9/23[A]+19/14[H]+15/14[H]+12/14[A]+11/12[H]+19/14[A]+15/16[H]+11/7[A]+11/13[H]+6/14[H]+13/16[A]",
+        "goalKicks": "10/7[H]+9/5[A]+5/19[H]+14/5[A]+10/7[A]+6/8[H]+5/8[H]+9/2[A]+9/9[H]+13/4[A]+8/8[H]+10/3[A]+7/4[H]+7/6[H]+6/9[A]",
+        "saves": "3/0[H]+2/5[A]+2/1[H]+4/2[A]+5/2[A]+4/1[H]+4/4[H]+7/4[A]+2/4[H]+4/3[A]+1/3[H]+7/3[A]+5/4[H]+4/1[H]+4/7[A]",
+        "offsides": "1/0[H]+2/0[A]+0/3[H]+3/2[A]+0/0[A]+1/0[H]+1/3[H]+5/1[A]+1/1[H]+1/1[A]+0/2[H]+0/0[A]+4/2[H]+8/4[H]+4/4[A]",
+        "shotsOnTarget": "1/5[H]+4/5[A]+1/1[H]+2/4[A]+4/5[A]+2/5[H]+7/5[H]+4/11[A]+5/3[H]+5/5[A]+4/2[H]+3/10[A]+6/7[H]+2/5[H]+9/4[A]",
+        "yellowCards": "2/2[H]+4/1[A]+2/0[H]+3/0[A]+3/3[A]+3/2[H]+0/1[H]+2/1[A]+2/2[H]+5/1[A]+1/4[H]+1/0[A]+3/2[H]+1/2[H]+5/3[A]",
+        "goals": "0/2[H]+0/3[A]+0/0[H]+0/0[A]+3/0[A]+1/1[H]+3/1[H]+0/4[A]+2/1[H]+2/1[A]+1/1[H]+0/3[A]+2/2[H]+1/2[H]+1/0[A]",
+        "throwIns": "25/34[H]+17/20[A]+15/27[H]+23/27[A]+12/26[A]+26/23[H]+18/31[H]+12/30[A]+19/49[H]+20/23[A]+26/26[H]+23/23[A]+23/19[H]+30/19[H]+19/28[A]",
+        "averageBallPossession": "47/53[H]+58/42[A]+37/63[H]+39/61[A]+57/43[A]+43/57[H]+49/51[H]+40/60[A]+66/34[H]+33/67[A]+43/57[H]+52/48[A]+51/49[H]+60/40[H]+62/38[A]",
+        "teams": "Falkirk,Hearts,Home+Falkirk,Hibernian,Away+Falkirk,Motherwell,Home+Falkirk,Rangers,Away+Falkirk,Dundee Utd,Away+Falkirk,Livingston,Home+Falkirk,Kilmarnock,Home+Falkirk,Celtic,Away+Falkirk,Dundee,Home+Falkirk,Motherwell,Away+Falkirk,Rangers,Home+Falkirk,Hearts,Away+Falkirk,Hibernian,Home+Falkirk,St Mirren,Home+Falkirk,Aberdeen,Away",
+        "tackles": "22/18[H]+12/23[A]+27/15[H]+20/16[A]+13/17[A]+12/28[H]+23/12[H]+15/16[A]+16/16[H]+22/10[A]+31/18[H]+18/26[A]+15/12[H]+22/10[H]+19/19[A]",
+        "interceptions": "13/15[H]+4/9[A]+13/5[H]+5/11[A]+9/14[A]+14/7[H]+10/9[H]+10/6[A]+9/10[H]+10/4[A]+12/8[H]+3/8[A]+11/12[H]+1/1[H]+9/4[A]",
+        "aerialDuels": "20/21[H]+14/14[A]+15/24[H]+14/16[A]+26/22[A]+24/25[H]+24/24[H]+19/29[A]+26/32[H]+18/10[A]+15/24[H]+18/21[A]+20/20[H]+25/23[H]+16/18[A]",
+        "aerialDuelsAttempted": "41/41[H]+28/28[A]+39/39[H]+30/30[A]+48/48[A]+49/49[H]+48/48[H]+48/48[A]+58/58[H]+28/28[A]+39/39[H]+39/39[A]+40/40[H]+48/48[H]+34/34[A]",
+        "dribbles": "8/8[H]+5/11[A]+4/18[H]+5/18[A]+6/12[A]+10/12[H]+14/4[H]+3/5[A]+6/5[H]+5/16[A]+4/18[H]+9/9[A]+4/9[H]+2/10[H]+8/9[A]",
+        "dribblesAttempted": "17/23[H]+15/17[A]+8/32[H]+15/32[A]+12/20[A]+25/20[H]+23/17[H]+11/14[A]+13/15[H]+11/34[A]+9/37[H]+22/18[A]+9/15[H]+9/14[H]+19/20[A]",
+        "isHome": "true+false+true+false+false+true+true+false+true+false+true+false+true+true+false",
+        "cornersTotals": "70/78",
+        "cornersTotalsHome": "38/33",
+        "cornersTotalsAway": "32/45",
+        "cornersAverage": "4.67/5.20",
+        "cornersAverageHome": "4.75/4.13",
+        "cornersAverageAway": "4.57/6.43",
+        "foulsTotals": "191/205",
+        "foulsTotalsHome": "101/107",
+        "foulsTotalsAway": "90/98",
+        "foulsAverage": "12.73/13.67",
+        "foulsAverageHome": "12.63/13.38",
+        "foulsAverageAway": "12.86/14.00",
+        "goalKicksTotals": "128/104",
+        "goalKicksTotalsHome": "57/69",
+        "goalKicksTotalsAway": "71/35",
+        "goalKicksAverage": "8.53/6.93",
+        "goalKicksAverageHome": "7.13/8.63",
+        "goalKicksAverageAway": "10.14/5.00",
+        "savesTotals": "58/44",
+        "savesTotalsHome": "25/18",
+        "savesTotalsAway": "33/26",
+        "savesAverage": "3.87/2.93",
+        "savesAverageHome": "3.13/2.25",
+        "savesAverageAway": "4.71/3.71",
+        "offsidesTotals": "31/23",
+        "offsidesTotalsHome": "16/15",
+        "offsidesTotalsAway": "15/8",
+        "offsidesAverage": "2.07/1.53",
+        "offsidesAverageHome": "2.00/1.88",
+        "offsidesAverageAway": "2.14/1.14",
+        "shotsOnTargetTotals": "59/77",
+        "shotsOnTargetTotalsHome": "28/33",
+        "shotsOnTargetTotalsAway": "31/44",
+        "shotsOnTargetAverage": "3.93/5.13",
+        "shotsOnTargetAverageHome": "3.50/4.13",
+        "shotsOnTargetAverageAway": "4.43/6.29",
+        "yellowCardsTotals": "37/24",
+        "yellowCardsTotalsHome": "14/15",
+        "yellowCardsTotalsAway": "23/9",
+        "yellowCardsAverage": "2.47/1.60",
+        "yellowCardsAverageHome": "1.75/1.88",
+        "yellowCardsAverageAway": "3.29/1.29",
+        "goalsTotals": "16/21",
+        "goalsTotalsHome": "10/10",
+        "goalsTotalsAway": "6/11",
+        "goalsAverage": "1.07/1.40",
+        "goalsAverageHome": "1.25/1.25",
+        "goalsAverageAway": "0.86/1.57",
+        "throwInsTotals": "308/405",
+        "throwInsTotalsHome": "182/228",
+        "throwInsTotalsAway": "126/177",
+        "throwInsAverage": "20.53/27.00",
+        "throwInsAverageHome": "22.75/28.50",
+        "throwInsAverageAway": "18.00/25.29",
+        "averageBallPossessionTotals": "737/763",
+        "averageBallPossessionTotalsHome": "396/404",
+        "averageBallPossessionTotalsAway": "341/359",
+        "averageBallPossessionAverage": "49.13/50.87",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "48.71/51.29",
+        "tacklesTotals": "287/256",
+        "tacklesTotalsHome": "168/129",
+        "tacklesTotalsAway": "119/127",
+        "tacklesAverage": "19.13/17.07",
+        "tacklesAverageHome": "21.00/16.13",
+        "tacklesAverageAway": "17.00/18.14",
+        "interceptionsTotals": "133/123",
+        "interceptionsTotalsHome": "83/67",
+        "interceptionsTotalsAway": "50/56",
+        "interceptionsAverage": "8.87/8.20",
+        "interceptionsAverageHome": "10.38/8.38",
+        "interceptionsAverageAway": "7.14/8.00",
+        "aerialDuelsTotals": "294/323",
+        "aerialDuelsTotalsHome": "169/193",
+        "aerialDuelsTotalsAway": "125/130",
+        "aerialDuelsAverage": "19.60/21.53",
+        "aerialDuelsAverageHome": "21.13/24.13",
+        "aerialDuelsAverageAway": "17.86/18.57",
+        "aerialDuelsAttemptedTotals": "617/617",
+        "aerialDuelsAttemptedTotalsHome": "362/362",
+        "aerialDuelsAttemptedTotalsAway": "255/255",
+        "aerialDuelsAttemptedAverage": "41.13/41.13",
+        "aerialDuelsAttemptedAverageHome": "45.25/45.25",
+        "aerialDuelsAttemptedAverageAway": "36.43/36.43",
+        "dribblesTotals": "93/164",
+        "dribblesTotalsHome": "52/84",
+        "dribblesTotalsAway": "41/80",
+        "dribblesAverage": "6.20/10.93",
+        "dribblesAverageHome": "6.50/10.50",
+        "dribblesAverageAway": "5.86/11.43",
+        "dribblesAttemptedTotals": "218/328",
+        "dribblesAttemptedTotalsHome": "113/173",
+        "dribblesAttemptedTotalsAway": "105/155",
+        "dribblesAttemptedAverage": "14.53/21.87",
+        "dribblesAttemptedAverageHome": "14.13/21.63",
+        "dribblesAttemptedAverageAway": "15.00/22.14"
+    }
+}

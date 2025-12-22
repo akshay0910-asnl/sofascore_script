@@ -1,0 +1,668 @@
+{
+    "globalStatistics": {
+        "corners": "5.15",
+        "fouls": "11.25",
+        "goalKicks": "8.85",
+        "saves": "4.15",
+        "offsides": "1.05",
+        "shotsOnTarget": "3.25/6.40",
+        "yellowCards": "1.60/1.20",
+        "goals": "0.75/2.00",
+        "throwIns": "22.40",
+        "ballPossession": 47.65,
+        "tackles": "16.30/15.80",
+        "interceptions": "8.05/8.40",
+        "aerialDuels": "16.95",
+        "aerialDuelsAttempted": "40.15",
+        "dribbles": "6.50/6.25",
+        "dribblesAttempted": "13.85/14.05"
+    },
+    "teamSlug": "sheffield-wednesday",
+    "teamId": "12",
+    "teamName": "Sheffield Wednesday",
+    "tournament": "Championship",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/derby-county-sheffield-wednesday/msC#id:14407134,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Derby"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "12",
+                "27"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/watford-sheffield-wednesday/msz#id:14059692,tab:statistics",
+            "teams": [
+                "Watford",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24",
+                "12"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/preston-north-end-sheffield-wednesday/msw#id:14059667,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Preston"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "12",
+                "21"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/millwall-sheffield-wednesday/msA#id:14059649,tab:statistics",
+            "teams": [
+                "Millwall",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "25",
+                "12"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-united-sheffield-wednesday/msp#id:14059650,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Sheffield Utd"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "12",
+                "15"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/southampton-sheffield-wednesday/msV#id:14059630,tab:statistics",
+            "teams": [
+                "Southampton",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "45",
+                "12"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-sheffield-wednesday/msnf#id:14059623,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Norwich"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "12",
+                "263"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-wednesday-west-bromwich-albion/ism#id:14059612,tab:statistics",
+            "teams": [
+                "West Brom",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "8",
+                "12"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-sheffield-wednesday/msVb#id:14059601,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Oxford Utd"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "12",
+                "95"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/middlesbrough-sheffield-wednesday/msL#id:14059586,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Middlesbrough"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "12",
+                "36"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlton-athletic-sheffield-wednesday/msX#id:14059566,tab:statistics",
+            "teams": [
+                "Charlton",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "47",
+                "12"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-wednesday-coventry-city/lsm#id:14059561,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "Coventry"
+            ],
+            "goals": [
+                "0",
+                "5"
+            ],
+            "teamIds": [
+                "12",
+                "11"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-wednesday-birmingham-city/jsm#id:14059541,tab:statistics",
+            "teams": [
+                "Birmingham",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "9",
+                "12"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-wednesday-queens-park-rangers/bsm#id:14059535,tab:statistics",
+            "teams": [
+                "Sheffield Wed",
+                "QPR"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "12",
+                "1"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sheffield-wednesday-portsmouth/csm#id:14059526,tab:statistics",
+            "teams": [
+                "Portsmouth",
+                "Sheffield Wed"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2",
+                "12"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 7,
+    "matchStatistics": [
+        {
+            "corners": "1/5[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "1/7[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "22/13[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Sheffield Wed,Derby,Home",
+            "tackles": "18/19[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "16/17[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "4/14[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "7/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/47[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Sheffield Wed,Watford,Away",
+            "tackles": "28/19[A]",
+            "interceptions": "11/13[A]",
+            "aerialDuels": "18/15[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "13/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "2/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/3[H]",
+            "throwIns": "19/21[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Sheffield Wed,Preston,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "11/13[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/1[H]",
+            "dribblesAttempted": "15/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/9[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "6/3[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "17/23[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Sheffield Wed,Millwall,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "22/32[A]",
+            "aerialDuelsAttempted": "54/54[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "13/8[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "0/7[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "0/3[H]",
+            "throwIns": "38/24[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Sheffield Wed,Sheffield Utd,Home",
+            "tackles": "17/28[H]",
+            "interceptions": "9/13[H]",
+            "aerialDuels": "20/36[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "29/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "16/8[A]",
+            "goalKicks": "2/11[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "21/18[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Sheffield Wed,Southampton,Away",
+            "tackles": "17/20[A]",
+            "interceptions": "2/9[A]",
+            "aerialDuels": "12/10[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "15/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/4[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "8/11[H]",
+            "saves": "2/5[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/28[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Sheffield Wed,Norwich,Home",
+            "tackles": "19/18[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "24/24[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "11/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "14/17[A]",
+            "goalKicks": "7/3[A]",
+            "saves": "7/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "15/29[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Sheffield Wed,West Brom,Away",
+            "tackles": "16/13[A]",
+            "interceptions": "12/6[A]",
+            "aerialDuels": "17/28[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "2/4[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "25/26[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Sheffield Wed,Oxford Utd,Home",
+            "tackles": "15/22[H]",
+            "interceptions": "8/14[H]",
+            "aerialDuels": "11/21[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "8/4[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "6/4[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "21/16[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Sheffield Wed,Middlesbrough,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "14/19[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "11/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "22/27[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Sheffield Wed,Charlton,Away",
+            "tackles": "16/17[A]",
+            "interceptions": "3/12[A]",
+            "aerialDuels": "16/23[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "11/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/8[H]",
+            "fouls": "9/3[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "0/10[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/5[H]",
+            "throwIns": "24/17[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Sheffield Wed,Coventry,Home",
+            "tackles": "12/20[H]",
+            "interceptions": "3/7[H]",
+            "aerialDuels": "20/23[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "12/6[H]",
+            "dribblesAttempted": "18/11[H]",
+            "isHome": true
+        },
+        null,
+        {
+            "corners": "5/4[H]",
+            "fouls": "12/19[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "3/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/29[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Sheffield Wed,QPR,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "17/36[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "2/3[H]",
+            "dribblesAttempted": "6/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/11[A]",
+            "fouls": "10/5[A]",
+            "goalKicks": "13/8[A]",
+            "saves": "4/6[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "18/36[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "Sheffield Wed,Portsmouth,Away",
+            "tackles": "22/5[A]",
+            "interceptions": "13/4[A]",
+            "aerialDuels": "21/25[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "1/5[H]+4/7[A]+3/3[H]+5/9[A]+4/7[H]+5/4[A]+9/4[H]+3/8[A]+8/3[H]+6/5[H]+4/2[A]+13/8[H]+5/4[H]+5/11[A]",
+        "fouls": "10/8[H]+4/14[A]+10/12[H]+11/7[A]+13/8[H]+16/8[A]+9/8[H]+14/17[A]+11/11[H]+8/4[H]+11/9[A]+9/3[H]+12/19[H]+10/5[A]",
+        "goalKicks": "7/5[H]+9/6[A]+2/9[H]+13/5[A]+5/6[H]+2/11[A]+8/11[H]+7/3[A]+9/7[H]+11/8[H]+10/9[A]+6/5[H]+8/9[H]+13/8[A]",
+        "saves": "4/1[H]+7/0[A]+2/3[H]+6/3[A]+4/0[H]+3/3[A]+2/5[H]+7/2[A]+2/4[H]+6/4[H]+3/3[A]+4/0[H]+3/4[H]+4/6[A]",
+        "offsides": "1/1[H]+2/1[A]+3/1[H]+0/2[A]+1/3[H]+0/0[A]+3/3[H]+0/1[A]+2/4[H]+0/4[H]+2/2[A]+1/3[H]+0/1[H]+1/3[A]",
+        "shotsOnTarget": "1/7[H]+1/9[A]+5/5[H]+3/8[A]+0/7[H]+3/7[A]+6/3[H]+2/6[A]+5/4[H]+3/7[H]+4/5[A]+0/10[H]+5/5[H]+8/5[A]",
+        "yellowCards": "4/1[H]+1/1[A]+1/1[H]+3/0[A]+3/0[H]+2/2[A]+0/4[H]+1/1[A]+0/0[H]+3/1[H]+2/1[A]+1/1[H]+2/2[H]+4/1[A]",
+        "goals": "0/3[H]+1/1[A]+2/3[H]+0/1[A]+0/3[H]+1/3[A]+1/1[H]+0/0[A]+1/2[H]+0/1[H]+1/2[A]+0/5[H]+1/1[H]+2/0[A]",
+        "throwIns": "22/13[H]+17/47[A]+19/21[H]+17/23[A]+38/24[H]+21/18[A]+26/28[H]+15/29[A]+25/26[H]+21/16[H]+22/27[A]+24/17[H]+26/29[H]+18/36[A]",
+        "averageBallPossession": "60/40[H]+32/68[A]+57/43[H]+46/54[A]+59/41[H]+57/43[A]+46/54[H]+38/62[A]+67/33[H]+52/48[H]+60/40[A]+52/48[H]+50/50[H]+30/70[A]",
+        "teams": "Sheffield Wed,Derby,Home+Sheffield Wed,Watford,Away+Sheffield Wed,Preston,Home+Sheffield Wed,Millwall,Away+Sheffield Wed,Sheffield Utd,Home+Sheffield Wed,Southampton,Away+Sheffield Wed,Norwich,Home+Sheffield Wed,West Brom,Away+Sheffield Wed,Oxford Utd,Home+Sheffield Wed,Middlesbrough,Home+Sheffield Wed,Charlton,Away+Sheffield Wed,Coventry,Home+Sheffield Wed,QPR,Home+Sheffield Wed,Portsmouth,Away",
+        "tackles": "18/19[H]+28/19[A]+15/14[H]+10/12[A]+17/28[H]+17/20[A]+19/18[H]+16/13[A]+15/22[H]+14/15[H]+16/17[A]+12/20[H]+13/12[H]+22/5[A]",
+        "interceptions": "9/10[H]+11/13[A]+4/6[H]+9/8[A]+9/13[H]+2/9[A]+8/8[H]+12/6[A]+8/14[H]+9/10[H]+3/12[A]+3/7[H]+5/6[H]+13/4[A]",
+        "aerialDuels": "16/17[H]+18/15[A]+11/13[H]+22/32[A]+20/36[H]+12/10[A]+24/24[H]+17/28[A]+11/21[H]+14/19[H]+16/23[A]+20/23[H]+17/36[H]+21/25[A]",
+        "aerialDuelsAttempted": "33/33[H]+33/33[A]+24/24[H]+54/54[A]+56/56[H]+22/22[A]+48/48[H]+45/45[A]+32/32[H]+33/33[H]+39/39[A]+43/43[H]+53/53[H]+46/46[A]",
+        "dribbles": "10/4[H]+4/8[A]+7/1[H]+3/7[A]+9/4[H]+6/6[A]+7/10[H]+5/6[A]+9/4[H]+6/9[H]+5/5[A]+12/6[H]+2/3[H]+7/6[A]",
+        "dribblesAttempted": "20/12[H]+13/21[A]+15/12[H]+9/14[A]+29/11[H]+15/17[A]+11/16[H]+9/12[A]+17/13[H]+11/15[H]+11/15[A]+18/11[H]+6/10[H]+10/13[A]",
+        "isHome": "true+false+true+false+true+false+true+false+true+true+false+true+true+false",
+        "cornersTotals": "75/80",
+        "cornersTotalsHome": "49/39",
+        "cornersTotalsAway": "26/41",
+        "cornersAverage": "5.36/5.71",
+        "cornersAverageHome": "6.13/4.88",
+        "cornersAverageAway": "4.33/6.83",
+        "foulsTotals": "148/133",
+        "foulsTotalsHome": "82/73",
+        "foulsTotalsAway": "66/60",
+        "foulsAverage": "10.57/9.50",
+        "foulsAverageHome": "10.25/9.13",
+        "foulsAverageAway": "11.00/10.00",
+        "goalKicksTotals": "110/102",
+        "goalKicksTotalsHome": "56/60",
+        "goalKicksTotalsAway": "54/42",
+        "goalKicksAverage": "7.86/7.29",
+        "goalKicksAverageHome": "7.00/7.50",
+        "goalKicksAverageAway": "9.00/7.00",
+        "savesTotals": "57/38",
+        "savesTotalsHome": "27/21",
+        "savesTotalsAway": "30/17",
+        "savesAverage": "4.07/2.71",
+        "savesAverageHome": "3.38/2.63",
+        "savesAverageAway": "5.00/2.83",
+        "offsidesTotals": "16/29",
+        "offsidesTotalsHome": "11/20",
+        "offsidesTotalsAway": "5/9",
+        "offsidesAverage": "1.14/2.07",
+        "offsidesAverageHome": "1.38/2.50",
+        "offsidesAverageAway": "0.83/1.50",
+        "shotsOnTargetTotals": "46/88",
+        "shotsOnTargetTotalsHome": "25/48",
+        "shotsOnTargetTotalsAway": "21/40",
+        "shotsOnTargetAverage": "3.29/6.29",
+        "shotsOnTargetAverageHome": "3.13/6.00",
+        "shotsOnTargetAverageAway": "3.50/6.67",
+        "yellowCardsTotals": "27/16",
+        "yellowCardsTotalsHome": "14/10",
+        "yellowCardsTotalsAway": "13/6",
+        "yellowCardsAverage": "1.93/1.14",
+        "yellowCardsAverageHome": "1.75/1.25",
+        "yellowCardsAverageAway": "2.17/1.00",
+        "goalsTotals": "10/26",
+        "goalsTotalsHome": "5/19",
+        "goalsTotalsAway": "5/7",
+        "goalsAverage": "0.71/1.86",
+        "goalsAverageHome": "0.63/2.38",
+        "goalsAverageAway": "0.83/1.17",
+        "throwInsTotals": "311/354",
+        "throwInsTotalsHome": "201/174",
+        "throwInsTotalsAway": "110/180",
+        "throwInsAverage": "22.21/25.29",
+        "throwInsAverageHome": "25.13/21.75",
+        "throwInsAverageAway": "18.33/30.00",
+        "averageBallPossessionTotals": "706/694",
+        "averageBallPossessionTotalsHome": "443/357",
+        "averageBallPossessionTotalsAway": "263/337",
+        "averageBallPossessionAverage": "50.43/49.57",
+        "averageBallPossessionAverageHome": "55.38/44.63",
+        "averageBallPossessionAverageAway": "43.83/56.17",
+        "tacklesTotals": "232/234",
+        "tacklesTotalsHome": "123/148",
+        "tacklesTotalsAway": "109/86",
+        "tacklesAverage": "16.57/16.71",
+        "tacklesAverageHome": "15.38/18.50",
+        "tacklesAverageAway": "18.17/14.33",
+        "interceptionsTotals": "105/126",
+        "interceptionsTotalsHome": "55/74",
+        "interceptionsTotalsAway": "50/52",
+        "interceptionsAverage": "7.50/9.00",
+        "interceptionsAverageHome": "6.88/9.25",
+        "interceptionsAverageAway": "8.33/8.67",
+        "aerialDuelsTotals": "239/322",
+        "aerialDuelsTotalsHome": "133/189",
+        "aerialDuelsTotalsAway": "106/133",
+        "aerialDuelsAverage": "17.07/23.00",
+        "aerialDuelsAverageHome": "16.63/23.63",
+        "aerialDuelsAverageAway": "17.67/22.17",
+        "aerialDuelsAttemptedTotals": "561/561",
+        "aerialDuelsAttemptedTotalsHome": "322/322",
+        "aerialDuelsAttemptedTotalsAway": "239/239",
+        "aerialDuelsAttemptedAverage": "40.07/40.07",
+        "aerialDuelsAttemptedAverageHome": "40.25/40.25",
+        "aerialDuelsAttemptedAverageAway": "39.83/39.83",
+        "dribblesTotals": "92/79",
+        "dribblesTotalsHome": "62/41",
+        "dribblesTotalsAway": "30/38",
+        "dribblesAverage": "6.57/5.64",
+        "dribblesAverageHome": "7.75/5.13",
+        "dribblesAverageAway": "5.00/6.33",
+        "dribblesAttemptedTotals": "194/192",
+        "dribblesAttemptedTotalsHome": "127/100",
+        "dribblesAttemptedTotalsAway": "67/92",
+        "dribblesAttemptedAverage": "13.86/13.71",
+        "dribblesAttemptedAverageHome": "15.88/12.50",
+        "dribblesAttemptedAverageAway": "11.17/15.33"
+    }
+}

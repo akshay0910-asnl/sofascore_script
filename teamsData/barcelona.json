@@ -1,0 +1,507 @@
+{
+    "globalStatistics": {
+        "corners": "6.94",
+        "fouls": "9.29",
+        "goalKicks": "4.41",
+        "saves": "2.29",
+        "offsides": "2.18",
+        "shotsOnTarget": "7.71/3.41",
+        "yellowCards": "1.53/2.76",
+        "goals": "2.88/1.18",
+        "throwIns": "17.53",
+        "ballPossession": 67.705882352941,
+        "tackles": "16.53/19.41",
+        "interceptions": "6.82/8.65",
+        "aerialDuels": "11.18",
+        "aerialDuelsAttempted": "19.29",
+        "dribbles": "11.24/6.00",
+        "dribblesAttempted": "22.12/13.59"
+    },
+    "teamSlug": "barcelona",
+    "teamId": "2817",
+    "teamName": "Barcelona",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/osasuna-barcelona/rgbsvgb#id:14083168,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Osasuna"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2817",
+                "2820"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barcelona-real-betis/qgbsrgb#id:14083155,tab:statistics",
+            "teams": [
+                "Real Betis",
+                "Barcelona"
+            ],
+            "goals": [
+                "3",
+                "5"
+            ],
+            "teamIds": [
+                "2816",
+                "2817"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atletico-madrid-barcelona/rgbsLgb#id:14083215,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Atl. Madrid"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2817",
+                "2836"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-alaves-barcelona/rgbsKhb#id:14083144,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Alavés"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2817",
+                "2885"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-barcelona/rgbsAgb#id:14083130,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Athletic Club"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2817",
+                "2825"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/celta-vigo-barcelona/rgbswgb#id:14083115,tab:statistics",
+            "teams": [
+                "Celta",
+                "Barcelona"
+            ],
+            "goals": [
+                "2",
+                "4"
+            ],
+            "teamIds": [
+                "2821",
+                "2817"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/elche-barcelona/rgbsWgb#id:14083095,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Elche"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2817",
+                "2846"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:14083729,tab:statistics",
+            "teams": [
+                "Real Madrid",
+                "Barcelona"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2829",
+                "2817"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/girona-fc-barcelona/rgbsoKj#id:14083664,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Girona"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2817",
+                "24264"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sevilla-barcelona/rgbsIgb#id:14083630,tab:statistics",
+            "teams": [
+                "Sevilla",
+                "Barcelona"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "2833",
+                "2817"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 6,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "14/1[H]",
+            "fouls": "5/8[H]",
+            "goalKicks": "2/16[H]",
+            "saves": "2/5[H]",
+            "offsides": "2/6[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "20/12[H]",
+            "averageBallPossession": "80/20[H]",
+            "teams": "Barcelona,Osasuna,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "12/13[H]",
+            "aerialDuels": "6/13[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "17/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/7[A]",
+            "fouls": "9/14[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/6[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "5/3[A]",
+            "throwIns": "8/22[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Barcelona,Real Betis,Away",
+            "tackles": "17/23[A]",
+            "interceptions": "2/12[A]",
+            "aerialDuels": "10/7[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "9/1[A]",
+            "dribblesAttempted": "19/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "4/14[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "18/23[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Barcelona,Atl. Madrid,Home",
+            "tackles": "18/18[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "8/8[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "19/6[H]",
+            "dribblesAttempted": "29/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "10/17[H]",
+            "goalKicks": "3/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/8[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "17/12[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "Barcelona,Alavés,Home",
+            "tackles": "25/20[H]",
+            "interceptions": "5/9[H]",
+            "aerialDuels": "9/7[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "20/10[H]",
+            "dribblesAttempted": "30/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "9/9[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "2/3[H]",
+            "offsides": "7/3[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "13/11[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Barcelona,Athletic Club,Home",
+            "tackles": "15/18[H]",
+            "interceptions": "5/9[H]",
+            "aerialDuels": "12/6[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "12/5[H]",
+            "dribblesAttempted": "22/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "2/3[A]",
+            "saves": "1/5[A]",
+            "offsides": "2/5[A]",
+            "shotsOnTarget": "9/3[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "4/2[A]",
+            "throwIns": "18/22[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Barcelona,Celta,Away",
+            "tackles": "15/21[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "9/2[A]",
+            "aerialDuelsAttempted": "11/11[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "22/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "2/2[H]",
+            "offsides": "5/5[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "19/14[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Barcelona,Elche,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "12/17[H]",
+            "aerialDuels": "11/5[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "8/12[H]",
+            "dribblesAttempted": "17/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/12[A]",
+            "fouls": "9/12[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "9/4[A]",
+            "offsides": "2/5[A]",
+            "shotsOnTarget": "6/10[A]",
+            "yellowCards": "5/5[A]",
+            "goals": "1/2[A]",
+            "throwIns": "20/11[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Barcelona,Real Madrid,Away",
+            "tackles": "20/24[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "6/7[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "9/13[A]",
+            "dribblesAttempted": "21/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/5[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "6/20[H]",
+            "saves": "3/7[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "9/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "9/12[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Barcelona,Girona,Home",
+            "tackles": "20/11[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "10/15[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "12/4[H]",
+            "dribblesAttempted": "19/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "9/18[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "1/7[A]",
+            "offsides": "0/10[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "5/7[A]",
+            "goals": "1/4[A]",
+            "throwIns": "19/14[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Barcelona,Sevilla,Away",
+            "tackles": "19/18[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "9/3[A]",
+            "dribblesAttempted": "15/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "14/1[H]+7/7[A]+5/4[H]+5/4[H]+5/7[H]+5/2[A]+6/3[H]+4/12[A]+11/5[H]+6/7[A]",
+        "fouls": "5/8[H]+9/14[A]+12/9[H]+10/17[H]+9/9[H]+10/13[A]+12/16[H]+9/12[A]+10/7[H]+9/18[A]",
+        "goalKicks": "2/16[H]+7/4[A]+4/14[H]+3/9[H]+8/7[H]+2/3[A]+6/7[H]+8/6[A]+6/20[H]+6/8[A]",
+        "saves": "2/5[H]+2/3[A]+1/3[H]+1/3[H]+2/3[H]+1/5[A]+2/2[H]+9/4[A]+3/7[H]+1/7[A]",
+        "offsides": "2/6[H]+1/6[A]+1/4[H]+0/8[H]+7/3[H]+2/5[A]+5/5[H]+2/5[A]+1/2[H]+0/10[A]",
+        "shotsOnTarget": "7/2[H]+8/5[A]+6/2[H]+6/2[H]+7/2[H]+9/3[A]+5/3[H]+6/10[A]+9/4[H]+8/5[A]",
+        "yellowCards": "0/3[H]+2/4[A]+1/1[H]+2/3[H]+0/2[H]+5/1[A]+0/1[H]+5/5[A]+2/2[H]+5/7[A]",
+        "goals": "2/0[H]+5/3[A]+3/1[H]+3/1[H]+4/0[H]+4/2[A]+3/1[H]+1/2[A]+2/1[H]+1/4[A]",
+        "throwIns": "20/12[H]+8/22[A]+18/23[H]+17/12[H]+13/11[H]+18/22[A]+19/14[H]+20/11[A]+9/12[H]+19/14[A]",
+        "averageBallPossession": "80/20[H]+62/38[A]+58/42[H]+69/31[H]+68/32[H]+61/39[A]+49/51[H]+68/32[A]+68/32[H]+61/39[A]",
+        "teams": "Barcelona,Osasuna,Home+Barcelona,Real Betis,Away+Barcelona,Atl. Madrid,Home+Barcelona,Alavés,Home+Barcelona,Athletic Club,Home+Barcelona,Celta,Away+Barcelona,Elche,Home+Barcelona,Real Madrid,Away+Barcelona,Girona,Home+Barcelona,Sevilla,Away",
+        "tackles": "12/14[H]+17/23[A]+18/18[H]+25/20[H]+15/18[H]+15/21[A]+17/16[H]+20/24[A]+20/11[H]+19/18[A]",
+        "interceptions": "12/13[H]+2/12[A]+9/10[H]+5/9[H]+5/9[H]+12/11[A]+12/17[H]+7/6[A]+5/7[H]+4/8[A]",
+        "aerialDuels": "6/13[H]+10/7[A]+8/8[H]+9/7[H]+12/6[H]+9/2[A]+11/5[H]+6/7[A]+10/15[H]+11/11[A]",
+        "aerialDuelsAttempted": "19/19[H]+17/17[A]+16/16[H]+16/16[H]+18/18[H]+11/11[A]+16/16[H]+13/13[A]+25/25[H]+22/22[A]",
+        "dribbles": "9/5[H]+9/1[A]+19/6[H]+20/10[H]+12/5[H]+7/7[A]+8/12[H]+9/13[A]+12/4[H]+9/3[A]",
+        "dribblesAttempted": "17/11[H]+19/7[A]+29/18[H]+30/20[H]+22/12[H]+22/14[A]+17/22[H]+21/23[A]+19/13[H]+15/11[A]",
+        "isHome": "true+false+true+true+true+false+true+false+true+false",
+        "cornersTotals": "68/52",
+        "cornersTotalsHome": "46/24",
+        "cornersTotalsAway": "22/28",
+        "cornersAverage": "6.80/5.20",
+        "cornersAverageHome": "7.67/4.00",
+        "cornersAverageAway": "5.50/7.00",
+        "foulsTotals": "95/123",
+        "foulsTotalsHome": "58/66",
+        "foulsTotalsAway": "37/57",
+        "foulsAverage": "9.50/12.30",
+        "foulsAverageHome": "9.67/11.00",
+        "foulsAverageAway": "9.25/14.25",
+        "goalKicksTotals": "52/94",
+        "goalKicksTotalsHome": "29/73",
+        "goalKicksTotalsAway": "23/21",
+        "goalKicksAverage": "5.20/9.40",
+        "goalKicksAverageHome": "4.83/12.17",
+        "goalKicksAverageAway": "5.75/5.25",
+        "savesTotals": "24/42",
+        "savesTotalsHome": "11/23",
+        "savesTotalsAway": "13/19",
+        "savesAverage": "2.40/4.20",
+        "savesAverageHome": "1.83/3.83",
+        "savesAverageAway": "3.25/4.75",
+        "offsidesTotals": "21/54",
+        "offsidesTotalsHome": "16/28",
+        "offsidesTotalsAway": "5/26",
+        "offsidesAverage": "2.10/5.40",
+        "offsidesAverageHome": "2.67/4.67",
+        "offsidesAverageAway": "1.25/6.50",
+        "shotsOnTargetTotals": "71/38",
+        "shotsOnTargetTotalsHome": "40/15",
+        "shotsOnTargetTotalsAway": "31/23",
+        "shotsOnTargetAverage": "7.10/3.80",
+        "shotsOnTargetAverageHome": "6.67/2.50",
+        "shotsOnTargetAverageAway": "7.75/5.75",
+        "yellowCardsTotals": "22/29",
+        "yellowCardsTotalsHome": "5/12",
+        "yellowCardsTotalsAway": "17/17",
+        "yellowCardsAverage": "2.20/2.90",
+        "yellowCardsAverageHome": "0.83/2.00",
+        "yellowCardsAverageAway": "4.25/4.25",
+        "goalsTotals": "28/15",
+        "goalsTotalsHome": "17/4",
+        "goalsTotalsAway": "11/11",
+        "goalsAverage": "2.80/1.50",
+        "goalsAverageHome": "2.83/0.67",
+        "goalsAverageAway": "2.75/2.75",
+        "throwInsTotals": "161/153",
+        "throwInsTotalsHome": "96/84",
+        "throwInsTotalsAway": "65/69",
+        "throwInsAverage": "16.10/15.30",
+        "throwInsAverageHome": "16.00/14.00",
+        "throwInsAverageAway": "16.25/17.25",
+        "averageBallPossessionTotals": "644/356",
+        "averageBallPossessionTotalsHome": "392/208",
+        "averageBallPossessionTotalsAway": "252/148",
+        "averageBallPossessionAverage": "64.40/35.60",
+        "averageBallPossessionAverageHome": "65.33/34.67",
+        "averageBallPossessionAverageAway": "63.00/37.00",
+        "tacklesTotals": "178/183",
+        "tacklesTotalsHome": "107/97",
+        "tacklesTotalsAway": "71/86",
+        "tacklesAverage": "17.80/18.30",
+        "tacklesAverageHome": "17.83/16.17",
+        "tacklesAverageAway": "17.75/21.50",
+        "interceptionsTotals": "73/102",
+        "interceptionsTotalsHome": "48/65",
+        "interceptionsTotalsAway": "25/37",
+        "interceptionsAverage": "7.30/10.20",
+        "interceptionsAverageHome": "8.00/10.83",
+        "interceptionsAverageAway": "6.25/9.25",
+        "aerialDuelsTotals": "92/81",
+        "aerialDuelsTotalsHome": "56/54",
+        "aerialDuelsTotalsAway": "36/27",
+        "aerialDuelsAverage": "9.20/8.10",
+        "aerialDuelsAverageHome": "9.33/9.00",
+        "aerialDuelsAverageAway": "9.00/6.75",
+        "aerialDuelsAttemptedTotals": "173/173",
+        "aerialDuelsAttemptedTotalsHome": "110/110",
+        "aerialDuelsAttemptedTotalsAway": "63/63",
+        "aerialDuelsAttemptedAverage": "17.30/17.30",
+        "aerialDuelsAttemptedAverageHome": "18.33/18.33",
+        "aerialDuelsAttemptedAverageAway": "15.75/15.75",
+        "dribblesTotals": "114/66",
+        "dribblesTotalsHome": "80/42",
+        "dribblesTotalsAway": "34/24",
+        "dribblesAverage": "11.40/6.60",
+        "dribblesAverageHome": "13.33/7.00",
+        "dribblesAverageAway": "8.50/6.00",
+        "dribblesAttemptedTotals": "211/151",
+        "dribblesAttemptedTotalsHome": "134/96",
+        "dribblesAttemptedTotalsAway": "77/55",
+        "dribblesAttemptedAverage": "21.10/15.10",
+        "dribblesAttemptedAverageHome": "22.33/16.00",
+        "dribblesAttemptedAverageAway": "19.25/13.75"
+    }
+}

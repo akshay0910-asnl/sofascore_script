@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "5.29",
+        "fouls": "13.29",
+        "goalKicks": "5.41",
+        "saves": "2.65",
+        "offsides": "1.29",
+        "shotsOnTarget": "3.88/3.82",
+        "yellowCards": "1.76/2.18",
+        "goals": "0.88/1.29",
+        "throwIns": "21.12",
+        "ballPossession": 48.294117647059,
+        "tackles": "15.24/18.06",
+        "interceptions": "8.53/9.71",
+        "aerialDuels": "14.18",
+        "aerialDuelsAttempted": "28.88",
+        "dribbles": "7.59/8.41",
+        "dribblesAttempted": "16.59/16.53"
+    },
+    "teamSlug": "athletic-club",
+    "teamId": "2825",
+    "teamName": "Athletic Club",
+    "tournament": "LaLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-celta-vigo/wgbsAgb#id:14083171,tab:statistics",
+            "teams": [
+                "Celta",
+                "Athletic Club"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2821",
+                "2825"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atletico-madrid-athletic-club/AgbsLgb#id:14083151,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Atl. Madrid"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2825",
+                "2836"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-madrid-athletic-club/AgbsEgb#id:14083210,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Real Madrid"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2825",
+                "2829"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/levante-ud-athletic-club/AgbsZgb#id:14083145,tab:statistics",
+            "teams": [
+                "Levante",
+                "Athletic Club"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2849",
+                "2825"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-barcelona/rgbsAgb#id:14083130,tab:statistics",
+            "teams": [
+                "Barcelona",
+                "Athletic Club"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2817",
+                "2825"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-oviedo-athletic-club/Agbsbhb#id:14083106,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Real Oviedo"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2825",
+                "2851"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-real-sociedad/zgbsAgb#id:14083101,tab:statistics",
+            "teams": [
+                "Real Sociedad",
+                "Athletic Club"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2824",
+                "2825"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-athletic-club/Agbsjhb#id:14083704,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Getafe"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2825",
+                "2859"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/1[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "0/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/22[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Athletic Club,Celta,Away",
+            "tackles": "17/16[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "8/7[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "14/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "8/12[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "23/29[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Athletic Club,Atl. Madrid,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "17/12[H]",
+            "aerialDuels": "20/25[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "9/11[H]",
+            "dribblesAttempted": "17/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "15/4[H]",
+            "goalKicks": "2/10[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/3[H]",
+            "throwIns": "21/17[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Athletic Club,Real Madrid,Home",
+            "tackles": "16/24[H]",
+            "interceptions": "15/8[H]",
+            "aerialDuels": "9/15[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/13[H]",
+            "dribblesAttempted": "21/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "19/11[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "4/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "24/22[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Athletic Club,Levante,Away",
+            "tackles": "24/17[A]",
+            "interceptions": "11/14[A]",
+            "aerialDuels": "9/19[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "21/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "9/9[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "3/2[A]",
+            "offsides": "3/7[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "11/13[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Athletic Club,Barcelona,Away",
+            "tackles": "18/15[A]",
+            "interceptions": "9/5[A]",
+            "aerialDuels": "6/12[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "5/12[A]",
+            "dribblesAttempted": "12/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "6/17[H]",
+            "saves": "2/7[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "23/25[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Athletic Club,Real Oviedo,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "19/13[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "12/10[H]",
+            "dribblesAttempted": "19/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "8/20[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "26/32[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Athletic Club,Real Sociedad,Away",
+            "tackles": "20/20[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "24/22[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "9/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "3/5[H]",
+            "saves": "3/4[H]",
+            "offsides": "3/4[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "30/36[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Athletic Club,Getafe,Home",
+            "tackles": "13/23[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "28/19[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "11/6[H]",
+            "dribblesAttempted": "19/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "4/1[A]+5/6[H]+5/7[H]+2/4[A]+7/5[A]+7/4[H]+2/6[A]+1/5[H]",
+        "fouls": "13/11[A]+9/12[H]+15/4[H]+19/11[A]+9/9[A]+12/8[H]+8/20[A]+15/14[H]",
+        "goalKicks": "3/10[A]+8/12[H]+2/10[H]+9/9[A]+7/8[A]+6/17[H]+5/10[A]+3/5[H]",
+        "saves": "0/2[A]+3/2[H]+5/4[H]+4/1[A]+3/2[A]+2/7[H]+2/2[A]+3/4[H]",
+        "offsides": "3/2[A]+1/2[H]+1/1[H]+2/4[A]+3/7[A]+0/4[H]+1/3[A]+3/4[H]",
+        "shotsOnTarget": "2/2[A]+3/3[H]+4/8[H]+4/4[A]+2/7[A]+7/2[H]+4/5[A]+4/3[H]",
+        "yellowCards": "2/3[A]+3/2[H]+2/0[H]+2/3[A]+2/0[A]+1/1[H]+3/2[A]+1/3[H]",
+        "goals": "0/2[A]+1/0[H]+0/3[H]+2/0[A]+0/4[A]+1/0[H]+2/3[A]+0/1[H]",
+        "throwIns": "21/22[A]+23/29[H]+21/17[H]+24/22[A]+11/13[A]+23/25[H]+26/32[A]+30/36[H]",
+        "averageBallPossession": "50/50[A]+44/56[H]+38/62[H]+44/56[A]+32/68[A]+48/52[H]+49/51[A]+57/43[H]",
+        "teams": "Athletic Club,Celta,Away+Athletic Club,Atl. Madrid,Home+Athletic Club,Real Madrid,Home+Athletic Club,Levante,Away+Athletic Club,Barcelona,Away+Athletic Club,Real Oviedo,Home+Athletic Club,Real Sociedad,Away+Athletic Club,Getafe,Home",
+        "tackles": "17/16[A]+11/15[H]+16/24[H]+24/17[A]+18/15[A]+15/15[H]+20/20[A]+13/23[H]",
+        "interceptions": "10/6[A]+17/12[H]+15/8[H]+11/14[A]+9/5[A]+8/11[H]+4/5[A]+5/5[H]",
+        "aerialDuels": "8/7[A]+20/25[H]+9/15[H]+9/19[A]+6/12[A]+19/13[H]+24/22[A]+28/19[H]",
+        "aerialDuelsAttempted": "15/15[A]+45/45[H]+24/24[H]+28/28[A]+18/18[A]+32/32[H]+46/46[A]+47/47[H]",
+        "dribbles": "5/7[A]+9/11[H]+7/13[H]+6/5[A]+5/12[A]+12/10[H]+4/6[A]+11/6[H]",
+        "dribblesAttempted": "14/14[A]+17/20[H]+21/23[H]+21/16[A]+12/22[A]+19/15[H]+9/19[A]+19/14[H]",
+        "isHome": "false+true+true+false+false+true+false+true",
+        "cornersTotals": "33/38",
+        "cornersTotalsHome": "18/22",
+        "cornersTotalsAway": "15/16",
+        "cornersAverage": "4.13/4.75",
+        "cornersAverageHome": "4.50/5.50",
+        "cornersAverageAway": "3.75/4.00",
+        "foulsTotals": "100/89",
+        "foulsTotalsHome": "51/38",
+        "foulsTotalsAway": "49/51",
+        "foulsAverage": "12.50/11.13",
+        "foulsAverageHome": "12.75/9.50",
+        "foulsAverageAway": "12.25/12.75",
+        "goalKicksTotals": "43/81",
+        "goalKicksTotalsHome": "19/44",
+        "goalKicksTotalsAway": "24/37",
+        "goalKicksAverage": "5.38/10.13",
+        "goalKicksAverageHome": "4.75/11.00",
+        "goalKicksAverageAway": "6.00/9.25",
+        "savesTotals": "22/24",
+        "savesTotalsHome": "13/17",
+        "savesTotalsAway": "9/7",
+        "savesAverage": "2.75/3.00",
+        "savesAverageHome": "3.25/4.25",
+        "savesAverageAway": "2.25/1.75",
+        "offsidesTotals": "14/27",
+        "offsidesTotalsHome": "5/11",
+        "offsidesTotalsAway": "9/16",
+        "offsidesAverage": "1.75/3.38",
+        "offsidesAverageHome": "1.25/2.75",
+        "offsidesAverageAway": "2.25/4.00",
+        "shotsOnTargetTotals": "30/34",
+        "shotsOnTargetTotalsHome": "18/16",
+        "shotsOnTargetTotalsAway": "12/18",
+        "shotsOnTargetAverage": "3.75/4.25",
+        "shotsOnTargetAverageHome": "4.50/4.00",
+        "shotsOnTargetAverageAway": "3.00/4.50",
+        "yellowCardsTotals": "16/14",
+        "yellowCardsTotalsHome": "7/6",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "2.00/1.75",
+        "yellowCardsAverageHome": "1.75/1.50",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "6/13",
+        "goalsTotalsHome": "2/4",
+        "goalsTotalsAway": "4/9",
+        "goalsAverage": "0.75/1.63",
+        "goalsAverageHome": "0.50/1.00",
+        "goalsAverageAway": "1.00/2.25",
+        "throwInsTotals": "179/196",
+        "throwInsTotalsHome": "97/107",
+        "throwInsTotalsAway": "82/89",
+        "throwInsAverage": "22.38/24.50",
+        "throwInsAverageHome": "24.25/26.75",
+        "throwInsAverageAway": "20.50/22.25",
+        "averageBallPossessionTotals": "362/438",
+        "averageBallPossessionTotalsHome": "187/213",
+        "averageBallPossessionTotalsAway": "175/225",
+        "averageBallPossessionAverage": "45.25/54.75",
+        "averageBallPossessionAverageHome": "46.75/53.25",
+        "averageBallPossessionAverageAway": "43.75/56.25",
+        "tacklesTotals": "134/145",
+        "tacklesTotalsHome": "55/77",
+        "tacklesTotalsAway": "79/68",
+        "tacklesAverage": "16.75/18.13",
+        "tacklesAverageHome": "13.75/19.25",
+        "tacklesAverageAway": "19.75/17.00",
+        "interceptionsTotals": "79/66",
+        "interceptionsTotalsHome": "45/36",
+        "interceptionsTotalsAway": "34/30",
+        "interceptionsAverage": "9.88/8.25",
+        "interceptionsAverageHome": "11.25/9.00",
+        "interceptionsAverageAway": "8.50/7.50",
+        "aerialDuelsTotals": "123/132",
+        "aerialDuelsTotalsHome": "76/72",
+        "aerialDuelsTotalsAway": "47/60",
+        "aerialDuelsAverage": "15.38/16.50",
+        "aerialDuelsAverageHome": "19.00/18.00",
+        "aerialDuelsAverageAway": "11.75/15.00",
+        "aerialDuelsAttemptedTotals": "255/255",
+        "aerialDuelsAttemptedTotalsHome": "148/148",
+        "aerialDuelsAttemptedTotalsAway": "107/107",
+        "aerialDuelsAttemptedAverage": "31.88/31.88",
+        "aerialDuelsAttemptedAverageHome": "37.00/37.00",
+        "aerialDuelsAttemptedAverageAway": "26.75/26.75",
+        "dribblesTotals": "59/70",
+        "dribblesTotalsHome": "39/40",
+        "dribblesTotalsAway": "20/30",
+        "dribblesAverage": "7.38/8.75",
+        "dribblesAverageHome": "9.75/10.00",
+        "dribblesAverageAway": "5.00/7.50",
+        "dribblesAttemptedTotals": "132/143",
+        "dribblesAttemptedTotalsHome": "76/72",
+        "dribblesAttemptedTotalsAway": "56/71",
+        "dribblesAttemptedAverage": "16.50/17.88",
+        "dribblesAttemptedAverageHome": "19.00/18.00",
+        "dribblesAttemptedAverageAway": "14.00/17.75"
+    }
+}

@@ -1,0 +1,613 @@
+{
+    "globalStatistics": {
+        "corners": "3.86",
+        "fouls": "15.14",
+        "goalKicks": "8.43",
+        "saves": "3.36",
+        "offsides": "1.36",
+        "shotsOnTarget": "3.29/5.14",
+        "yellowCards": "2.86/2.14",
+        "goals": "1.50/1.71",
+        "throwIns": "20.57",
+        "ballPossession": 48.214285714286,
+        "tackles": "14.36/15.79",
+        "interceptions": "7.29/8.57",
+        "aerialDuels": "11.00",
+        "aerialDuelsAttempted": "24.86",
+        "dribbles": "5.36/7.79",
+        "dribblesAttempted": "13.50/16.50"
+    },
+    "teamSlug": "moreirense",
+    "teamId": "3014",
+    "teamName": "Moreirense",
+    "tournament": "Liga Portugal Betclic",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-benfica/gkbsokb#id:14131986,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Benfica"
+            ],
+            "goals": [
+                "0",
+                "4"
+            ],
+            "teamIds": [
+                "3014",
+                "3006"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/estoril-praia-moreirense/okbsaPb#id:14131970,tab:statistics",
+            "teams": [
+                "Estoril",
+                "Moreirense"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "4500",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/famalicao-moreirense/okbsGPu#id:14131966,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Famalicão"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "3014",
+                "49531"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-sporting-braga/Zjbsokb#id:14131955,tab:statistics",
+            "teams": [
+                "Braga",
+                "Moreirense"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2999",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arouca-moreirense/okbsCpk#id:14131943,tab:statistics",
+            "teams": [
+                "Arouca",
+                "Moreirense"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "25777",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-fc-porto/ckbsokb#id:14131936,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Porto"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "3014",
+                "3002"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-cd-nacional/nkbsokb#id:14131928,tab:statistics",
+            "teams": [
+                "Nacional",
+                "Moreirense"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "3013",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/casa-pia-moreirense/okbspCo#id:14131922,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Casa Pia"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3014",
+                "36365"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-sporting/bkbsokb#id:14131912,tab:statistics",
+            "teams": [
+                "Sporting",
+                "Moreirense"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "3001",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rio-ave-moreirense/okbsLkb#id:14131899,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Rio Ave"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "3014",
+                "3036"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-gil-vicente/kkbsokb#id:14131889,tab:statistics",
+            "teams": [
+                "Gil Vicente",
+                "Moreirense"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3010",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-vitoria-sc/jkbsokb#id:14131885,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Vitória"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3014",
+                "3009"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/moreirense-santa-clara/lkbsokb#id:14131871,tab:statistics",
+            "teams": [
+                "Santa Clara",
+                "Moreirense"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "3011",
+                "3014"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-alverca-moreirense/okbsDgBb#id:14131863,tab:statistics",
+            "teams": [
+                "Moreirense",
+                "Alverca"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3014",
+                "190328"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 7,
+    "awayMatchCount": 7,
+    "matchStatistics": [
+        {
+            "corners": "4/4[H]",
+            "fouls": "19/15[H]",
+            "goalKicks": "6/3[H]",
+            "saves": "1/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/4[H]",
+            "throwIns": "12/13[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Moreirense,Benfica,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "2/10[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "3/15[H]",
+            "dribblesAttempted": "13/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "5/1[A]",
+            "saves": "2/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/3[A]",
+            "throwIns": "27/21[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Moreirense,Estoril,Away",
+            "tackles": "6/15[A]",
+            "interceptions": "10/10[A]",
+            "aerialDuels": "3/10[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "13/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "17/22[H]",
+            "goalKicks": "10/3[H]",
+            "saves": "6/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "6/8[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "2/2[H]",
+            "throwIns": "28/15[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Moreirense,Famalicão,Home",
+            "tackles": "15/22[H]",
+            "interceptions": "2/4[H]",
+            "aerialDuels": "8/17[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "19/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "1/0[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "25/19[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Moreirense,Braga,Away",
+            "tackles": "18/23[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "5/1[A]",
+            "dribblesAttempted": "20/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "11/11[A]",
+            "goalKicks": "11/2[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "28/17[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Moreirense,Arouca,Away",
+            "tackles": "17/20[A]",
+            "interceptions": "7/13[A]",
+            "aerialDuels": "12/11[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "8/10[A]",
+            "dribblesAttempted": "18/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "6/3[H]",
+            "saves": "5/0[H]",
+            "offsides": "0/5[H]",
+            "shotsOnTarget": "1/7[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "23/26[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Moreirense,Porto,Home",
+            "tackles": "15/8[H]",
+            "interceptions": "9/13[H]",
+            "aerialDuels": "10/11[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "12/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "16/12[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/3[A]",
+            "throwIns": "18/23[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Moreirense,Nacional,Away",
+            "tackles": "8/12[A]",
+            "interceptions": "2/5[A]",
+            "aerialDuels": "18/24[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "1/4[A]",
+            "dribblesAttempted": "4/9[A]",
+            "isHome": false
+        },
+        null,
+        {
+            "corners": "4/6[A]",
+            "fouls": "18/16[A]",
+            "goalKicks": "11/0[A]",
+            "saves": "10/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/14[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "14/13[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Moreirense,Sporting,Away",
+            "tackles": "18/17[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "8/8[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "3/17[A]",
+            "dribblesAttempted": "10/29[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "10/8[H]",
+            "saves": "4/5[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "3/1[H]",
+            "throwIns": "21/6[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Moreirense,Rio Ave,Home",
+            "tackles": "19/10[H]",
+            "interceptions": "9/5[H]",
+            "aerialDuels": "4/14[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "8/7[H]",
+            "dribblesAttempted": "11/18[H]",
+            "isHome": true
+        },
+        null,
+        {
+            "corners": "3/7[H]",
+            "fouls": "17/17[H]",
+            "goalKicks": "9/4[H]",
+            "saves": "4/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "19/20[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Moreirense,Vitória,Home",
+            "tackles": "9/14[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "20/12[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/3[A]",
+            "fouls": "18/20[A]",
+            "goalKicks": "12/5[A]",
+            "saves": "3/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "5/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/23[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Moreirense,Santa Clara,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "11/16[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "13/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "15/5[H]",
+            "goalKicks": "4/4[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "20/26[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Moreirense,Alverca,Home",
+            "tackles": "22/17[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "6/13[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "13/23[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "4/4[H]+5/1[A]+5/4[H]+3/5[A]+2/5[A]+2/7[H]+4/2[A]+4/6[A]+7/3[H]+3/7[H]+0/3[A]+6/2[H]",
+        "fouls": "19/15[H]+14/16[A]+17/22[H]+15/13[A]+11/11[A]+15/13[H]+16/12[A]+18/16[A]+12/13[H]+17/17[H]+18/20[A]+15/5[H]",
+        "goalKicks": "6/3[H]+5/1[A]+10/3[H]+6/7[A]+11/2[A]+6/3[H]+8/6[A]+11/0[A]+10/8[H]+9/4[H]+12/5[A]+4/4[H]",
+        "saves": "1/2[H]+2/2[A]+6/4[H]+1/0[A]+2/3[A]+5/0[H]+3/1[A]+10/1[A]+4/5[H]+4/2[H]+3/1[A]+1/1[H]",
+        "offsides": "0/1[H]+3/2[A]+1/0[H]+1/0[A]+2/0[A]+0/5[H]+1/1[A]+0/0[A]+3/3[H]+0/2[H]+2/2[A]+1/0[H]",
+        "shotsOnTarget": "2/5[H]+5/5[A]+6/8[H]+1/3[A]+5/2[A]+1/7[H]+4/7[A]+1/14[A]+8/4[H]+4/4[H]+2/3[A]+3/2[H]",
+        "yellowCards": "2/0[H]+3/2[A]+4/5[H]+2/3[A]+2/3[A]+3/2[H]+3/1[A]+1/1[A]+1/0[H]+5/2[H]+5/4[A]+3/1[H]",
+        "goals": "0/4[H]+3/3[A]+2/2[H]+1/2[A]+2/0[A]+1/2[H]+2/3[A]+0/3[A]+3/1[H]+2/0[H]+1/0[A]+2/1[H]",
+        "throwIns": "12/13[H]+27/21[A]+28/15[H]+25/19[A]+28/17[A]+23/26[H]+18/23[A]+14/13[A]+21/6[H]+19/20[H]+16/23[A]+20/26[H]",
+        "averageBallPossession": "53/47[H]+56/44[A]+48/52[H]+47/53[A]+41/59[A]+39/61[H]+42/58[A]+39/61[A]+54/46[H]+48/52[H]+42/58[A]+58/42[H]",
+        "teams": "Moreirense,Benfica,Home+Moreirense,Estoril,Away+Moreirense,Famalicão,Home+Moreirense,Braga,Away+Moreirense,Arouca,Away+Moreirense,Porto,Home+Moreirense,Nacional,Away+Moreirense,Sporting,Away+Moreirense,Rio Ave,Home+Moreirense,Vitória,Home+Moreirense,Santa Clara,Away+Moreirense,Alverca,Home",
+        "tackles": "15/16[H]+6/15[A]+15/22[H]+18/23[A]+17/20[A]+15/8[H]+8/12[A]+18/17[A]+19/10[H]+9/14[H]+15/16[A]+22/17[H]",
+        "interceptions": "2/10[H]+10/10[A]+2/4[H]+6/9[A]+7/13[A]+9/13[H]+2/5[A]+11/8[A]+9/5[H]+8/11[H]+11/8[A]+9/9[H]",
+        "aerialDuels": "9/10[H]+3/10[A]+8/17[H]+11/12[A]+12/11[A]+10/11[H]+18/24[A]+8/8[A]+4/14[H]+20/12[H]+11/16[A]+6/13[H]",
+        "aerialDuelsAttempted": "19/19[H]+13/13[A]+25/25[H]+23/23[A]+23/23[A]+21/21[H]+42/42[A]+16/16[A]+18/18[H]+32/32[H]+27/27[A]+19/19[H]",
+        "dribbles": "3/15[H]+6/6[A]+7/6[H]+5/1[A]+8/10[A]+7/7[H]+1/4[A]+3/17[A]+8/7[H]+5/3[H]+8/9[A]+5/7[H]",
+        "dribblesAttempted": "13/20[H]+13/10[A]+19/10[H]+20/12[A]+18/20[A]+12/18[H]+4/9[A]+10/29[A]+11/18[H]+13/10[H]+13/20[A]+13/23[H]",
+        "isHome": "true+false+true+false+false+true+false+false+true+true+false+true",
+        "cornersTotals": "45/49",
+        "cornersTotalsHome": "27/27",
+        "cornersTotalsAway": "18/22",
+        "cornersAverage": "3.75/4.08",
+        "cornersAverageHome": "4.50/4.50",
+        "cornersAverageAway": "3.00/3.67",
+        "foulsTotals": "187/173",
+        "foulsTotalsHome": "95/85",
+        "foulsTotalsAway": "92/88",
+        "foulsAverage": "15.58/14.42",
+        "foulsAverageHome": "15.83/14.17",
+        "foulsAverageAway": "15.33/14.67",
+        "goalKicksTotals": "98/46",
+        "goalKicksTotalsHome": "45/25",
+        "goalKicksTotalsAway": "53/21",
+        "goalKicksAverage": "8.17/3.83",
+        "goalKicksAverageHome": "7.50/4.17",
+        "goalKicksAverageAway": "8.83/3.50",
+        "savesTotals": "42/22",
+        "savesTotalsHome": "21/14",
+        "savesTotalsAway": "21/8",
+        "savesAverage": "3.50/1.83",
+        "savesAverageHome": "3.50/2.33",
+        "savesAverageAway": "3.50/1.33",
+        "offsidesTotals": "14/16",
+        "offsidesTotalsHome": "5/11",
+        "offsidesTotalsAway": "9/5",
+        "offsidesAverage": "1.17/1.33",
+        "offsidesAverageHome": "0.83/1.83",
+        "offsidesAverageAway": "1.50/0.83",
+        "shotsOnTargetTotals": "42/64",
+        "shotsOnTargetTotalsHome": "24/30",
+        "shotsOnTargetTotalsAway": "18/34",
+        "shotsOnTargetAverage": "3.50/5.33",
+        "shotsOnTargetAverageHome": "4.00/5.00",
+        "shotsOnTargetAverageAway": "3.00/5.67",
+        "yellowCardsTotals": "34/24",
+        "yellowCardsTotalsHome": "18/10",
+        "yellowCardsTotalsAway": "16/14",
+        "yellowCardsAverage": "2.83/2.00",
+        "yellowCardsAverageHome": "3.00/1.67",
+        "yellowCardsAverageAway": "2.67/2.33",
+        "goalsTotals": "19/21",
+        "goalsTotalsHome": "10/10",
+        "goalsTotalsAway": "9/11",
+        "goalsAverage": "1.58/1.75",
+        "goalsAverageHome": "1.67/1.67",
+        "goalsAverageAway": "1.50/1.83",
+        "throwInsTotals": "251/222",
+        "throwInsTotalsHome": "123/106",
+        "throwInsTotalsAway": "128/116",
+        "throwInsAverage": "20.92/18.50",
+        "throwInsAverageHome": "20.50/17.67",
+        "throwInsAverageAway": "21.33/19.33",
+        "averageBallPossessionTotals": "567/633",
+        "averageBallPossessionTotalsHome": "300/300",
+        "averageBallPossessionTotalsAway": "267/333",
+        "averageBallPossessionAverage": "47.25/52.75",
+        "averageBallPossessionAverageHome": "50.00/50.00",
+        "averageBallPossessionAverageAway": "44.50/55.50",
+        "tacklesTotals": "177/190",
+        "tacklesTotalsHome": "95/87",
+        "tacklesTotalsAway": "82/103",
+        "tacklesAverage": "14.75/15.83",
+        "tacklesAverageHome": "15.83/14.50",
+        "tacklesAverageAway": "13.67/17.17",
+        "interceptionsTotals": "86/105",
+        "interceptionsTotalsHome": "39/52",
+        "interceptionsTotalsAway": "47/53",
+        "interceptionsAverage": "7.17/8.75",
+        "interceptionsAverageHome": "6.50/8.67",
+        "interceptionsAverageAway": "7.83/8.83",
+        "aerialDuelsTotals": "120/158",
+        "aerialDuelsTotalsHome": "57/77",
+        "aerialDuelsTotalsAway": "63/81",
+        "aerialDuelsAverage": "10.00/13.17",
+        "aerialDuelsAverageHome": "9.50/12.83",
+        "aerialDuelsAverageAway": "10.50/13.50",
+        "aerialDuelsAttemptedTotals": "278/278",
+        "aerialDuelsAttemptedTotalsHome": "134/134",
+        "aerialDuelsAttemptedTotalsAway": "144/144",
+        "aerialDuelsAttemptedAverage": "23.17/23.17",
+        "aerialDuelsAttemptedAverageHome": "22.33/22.33",
+        "aerialDuelsAttemptedAverageAway": "24.00/24.00",
+        "dribblesTotals": "66/92",
+        "dribblesTotalsHome": "35/45",
+        "dribblesTotalsAway": "31/47",
+        "dribblesAverage": "5.50/7.67",
+        "dribblesAverageHome": "5.83/7.50",
+        "dribblesAverageAway": "5.17/7.83",
+        "dribblesAttemptedTotals": "159/199",
+        "dribblesAttemptedTotalsHome": "81/99",
+        "dribblesAttemptedTotalsAway": "78/100",
+        "dribblesAttemptedAverage": "13.25/16.58",
+        "dribblesAttemptedAverageHome": "13.50/16.50",
+        "dribblesAttemptedAverageAway": "13.00/16.67"
+    }
+}

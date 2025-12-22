@@ -1,0 +1,651 @@
+{
+    "globalStatistics": {
+        "corners": "3.14",
+        "fouls": "15.21",
+        "goalKicks": "8.93",
+        "saves": "3.00",
+        "offsides": "1.00",
+        "shotsOnTarget": "3.07/5.64",
+        "yellowCards": "2.14/2.86",
+        "goals": "0.64/2.64",
+        "throwIns": "21.50",
+        "ballPossession": 43.571428571429,
+        "tackles": "14.50/15.36",
+        "interceptions": "7.71/8.29",
+        "aerialDuels": "14.57",
+        "aerialDuelsAttempted": "29.43",
+        "dribbles": "7.50/7.57",
+        "dribblesAttempted": "15.29/14.21"
+    },
+    "teamSlug": "avs-futebol-sad",
+    "teamId": "483088",
+    "teamName": "AVS - Futebol SAD",
+    "tournament": "Liga Portugal Betclic",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-sporting/bkbsNlTd#id:14131981,tab:statistics",
+            "teams": [
+                "Sporting",
+                "AVS"
+            ],
+            "goals": [
+                "6",
+                "0"
+            ],
+            "teamIds": [
+                "3001",
+                "483088"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-rio-ave/LkbsNlTd#id:14131969,tab:statistics",
+            "teams": [
+                "AVS",
+                "Rio Ave"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "483088",
+                "3036"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-vitoria-sc/jkbsNlTd#id:14131962,tab:statistics",
+            "teams": [
+                "Vitória",
+                "AVS"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "3009",
+                "483088"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-gil-vicente/kkbsNlTd#id:14131950,tab:statistics",
+            "teams": [
+                "AVS",
+                "Gil Vicente"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "483088",
+                "3010"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-tondela/WrpsNlTd#id:14131941,tab:statistics",
+            "teams": [
+                "AVS",
+                "Tondela"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "483088",
+                "38396"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-santa-clara/lkbsNlTd#id:14131938,tab:statistics",
+            "teams": [
+                "Santa Clara",
+                "AVS"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3011",
+                "483088"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-fc-alverca/DgBbsNlTd#id:14131923,tab:statistics",
+            "teams": [
+                "AVS",
+                "Alverca"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "483088",
+                "190328"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-cf-estrela-amadora/KkbsNlTd#id:14131921,tab:statistics",
+            "teams": [
+                "Estrela Amadora",
+                "AVS"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "3035",
+                "483088"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-benfica/gkbsNlTd#id:14131904,tab:statistics",
+            "teams": [
+                "AVS",
+                "Benfica"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "483088",
+                "3006"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-estoril-praia/aPbsNlTd#id:14131902,tab:statistics",
+            "teams": [
+                "Estoril",
+                "AVS"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "4500",
+                "483088"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-famalicao/GPusNlTd#id:14131886,tab:statistics",
+            "teams": [
+                "AVS",
+                "Famalicão"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "483088",
+                "49531"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-sporting-braga/ZjbsNlTd#id:14131881,tab:statistics",
+            "teams": [
+                "Braga",
+                "AVS"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2999",
+                "483088"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-casa-pia/pCosNlTd#id:14131868,tab:statistics",
+            "teams": [
+                "AVS",
+                "Casa Pia"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "483088",
+                "36365"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-fc-arouca/CpksNlTd#id:14131860,tab:statistics",
+            "teams": [
+                "Arouca",
+                "AVS"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "25777",
+                "483088"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 7,
+    "awayMatchCount": 7,
+    "matchStatistics": [
+        {
+            "corners": "1/8[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "11/1[A]",
+            "saves": "9/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/14[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/6[A]",
+            "throwIns": "11/16[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "AVS,Sporting,Away",
+            "tackles": "17/10[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "17/20[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "6/16[A]",
+            "dribblesAttempted": "13/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/11[H]",
+            "fouls": "16/16[H]",
+            "goalKicks": "6/2[H]",
+            "saves": "6/4[H]",
+            "offsides": "1/6[H]",
+            "shotsOnTarget": "5/8[H]",
+            "yellowCards": "6/6[H]",
+            "goals": "1/2[H]",
+            "throwIns": "15/28[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "AVS,Rio Ave,Home",
+            "tackles": "13/11[H]",
+            "interceptions": "4/3[H]",
+            "aerialDuels": "12/16[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "9/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "0/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "19/16[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "AVS,Vitória,Away",
+            "tackles": "7/18[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "19/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/4[H]",
+            "fouls": "12/19[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "4/7[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "1/1[H]",
+            "throwIns": "22/25[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "AVS,Gil Vicente,Home",
+            "tackles": "12/18[H]",
+            "interceptions": "15/14[H]",
+            "aerialDuels": "15/13[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "18/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "18/17[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "2/2[H]",
+            "throwIns": "29/16[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "AVS,Tondela,Home",
+            "tackles": "9/25[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "11/14[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "20/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/8[A]",
+            "fouls": "15/10[A]",
+            "goalKicks": "12/12[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/15[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "AVS,Santa Clara,Away",
+            "tackles": "14/18[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "9/15[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/5[H]",
+            "fouls": "16/6[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "3/1[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "26/14[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "AVS,Alverca,Home",
+            "tackles": "19/19[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "13/16[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "16/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "20/11[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/3[A]",
+            "throwIns": "23/14[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "AVS,Estrela Amadora,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "13/5[A]",
+            "aerialDuels": "8/11[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "13/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "17/11[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "18/17[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "AVS,Benfica,Home",
+            "tackles": "25/20[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "20/23[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "15/6[H]",
+            "dribblesAttempted": "25/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "11/11[A]",
+            "goalKicks": "14/17[A]",
+            "saves": "2/3[A]",
+            "offsides": "6/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "1/3[A]",
+            "throwIns": "31/10[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "AVS,Estoril,Away",
+            "tackles": "17/13[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "21/15[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "11/10[A]",
+            "dribblesAttempted": "20/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/9[H]",
+            "fouls": "16/18[H]",
+            "goalKicks": "8/13[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "0/1[H]",
+            "throwIns": "24/27[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "AVS,Famalicão,Home",
+            "tackles": "16/10[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "17/18[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "8/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/11[A]",
+            "fouls": "12/9[A]",
+            "goalKicks": "15/2[A]",
+            "saves": "3/0[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "19/26[A]",
+            "averageBallPossession": "24/76[A]",
+            "teams": "AVS,Braga,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "16/11[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "15/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/3[H]",
+            "fouls": "20/20[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "3/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "0/2[H]",
+            "throwIns": "26/19[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "AVS,Casa Pia,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "19/19[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "10/10[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "17/27[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "AVS,Arouca,Away",
+            "tackles": "9/14[A]",
+            "interceptions": "10/5[A]",
+            "aerialDuels": "14/8[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "14/8[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "1/8[A]+3/11[H]+3/7[A]+1/4[H]+5/3[H]+4/8[A]+0/5[H]+6/6[A]+2/1[H]+5/1[A]+5/9[H]+3/11[A]+1/3[H]+5/4[A]",
+        "fouls": "9/11[A]+16/16[H]+14/11[A]+12/19[H]+18/17[H]+15/10[A]+16/6[H]+20/11[A]+17/11[H]+11/11[A]+16/18[H]+12/9[A]+20/20[H]+17/13[A]",
+        "goalKicks": "11/1[A]+6/2[H]+6/5[A]+6/5[H]+9/11[H]+12/12[A]+5/5[H]+6/6[A]+8/9[H]+14/17[A]+8/13[H]+15/2[A]+9/11[H]+10/10[A]",
+        "saves": "9/3[A]+6/4[H]+0/1[A]+4/7[H]+1/3[H]+3/2[A]+3/1[H]+3/2[A]+2/1[H]+2/3[A]+2/3[H]+3/0[A]+3/3[H]+1/1[A]",
+        "offsides": "1/0[A]+1/6[H]+1/3[A]+0/1[H]+0/0[H]+0/2[A]+0/2[H]+0/3[A]+0/3[H]+6/2[A]+2/0[H]+0/2[A]+2/0[H]+1/0[A]",
+        "shotsOnTarget": "3/14[A]+5/8[H]+1/4[A]+8/5[H]+5/3[H]+2/5[A]+2/6[H]+2/6[A]+1/6[H]+4/5[A]+3/3[H]+2/5[A]+3/5[H]+2/4[A]",
+        "yellowCards": "2/1[A]+6/6[H]+1/0[A]+1/5[H]+4/4[H]+1/1[A]+3/2[H]+2/3[A]+1/1[H]+2/5[A]+1/5[H]+3/2[A]+4/5[H]+0/2[A]",
+        "goals": "0/6[A]+1/2[H]+0/4[A]+1/1[H]+2/2[H]+0/2[A]+1/3[H]+0/3[A]+0/3[H]+1/3[A]+0/1[H]+2/2[A]+0/2[H]+1/3[A]",
+        "throwIns": "11/16[A]+15/28[H]+19/16[A]+22/25[H]+29/16[H]+21/15[A]+26/14[H]+23/14[A]+18/17[H]+31/10[A]+24/27[H]+19/26[A]+26/19[H]+17/27[A]",
+        "averageBallPossession": "33/67[A]+35/65[H]+54/46[A]+45/55[H]+55/45[H]+40/60[A]+49/51[H]+45/55[A]+37/63[H]+50/50[A]+45/55[H]+24/76[A]+51/49[H]+47/53[A]",
+        "teams": "AVS,Sporting,Away+AVS,Rio Ave,Home+AVS,Vitória,Away+AVS,Gil Vicente,Home+AVS,Tondela,Home+AVS,Santa Clara,Away+AVS,Alverca,Home+AVS,Estrela Amadora,Away+AVS,Benfica,Home+AVS,Estoril,Away+AVS,Famalicão,Home+AVS,Braga,Away+AVS,Casa Pia,Home+AVS,Arouca,Away",
+        "tackles": "17/10[A]+13/11[H]+7/18[A]+12/18[H]+9/25[H]+14/18[A]+19/19[H]+15/13[A]+25/20[H]+17/13[A]+16/10[H]+13/14[A]+17/12[H]+9/14[A]",
+        "interceptions": "10/7[A]+4/3[H]+9/10[A]+15/14[H]+4/8[H]+4/8[A]+5/12[H]+13/5[A]+5/10[H]+4/8[A]+9/7[H]+9/10[A]+7/9[H]+10/5[A]",
+        "aerialDuels": "17/20[A]+12/16[H]+12/9[A]+15/13[H]+11/14[H]+9/15[A]+13/16[H]+8/11[A]+20/23[H]+21/15[A]+17/18[H]+16/11[A]+19/19[H]+14/8[A]",
+        "aerialDuelsAttempted": "37/37[A]+28/28[H]+21/21[A]+28/28[H]+25/25[H]+24/24[A]+29/29[H]+19/19[A]+43/43[H]+36/36[A]+35/35[H]+27/27[A]+38/38[H]+22/22[A]",
+        "dribbles": "6/16[A]+5/8[H]+5/10[A]+10/9[H]+11/5[H]+7/10[A]+5/6[H]+6/5[A]+15/6[H]+11/10[A]+4/7[H]+7/4[A]+5/4[H]+8/6[A]",
+        "dribblesAttempted": "13/28[A]+9/12[H]+19/12[A]+18/17[H]+20/10[H]+14/15[A]+16/14[H]+13/10[A]+25/19[H]+20/18[A]+8/14[H]+15/13[A]+10/9[H]+14/8[A]",
+        "isHome": "false+true+false+true+true+false+true+false+true+false+true+false+true+false",
+        "cornersTotals": "44/81",
+        "cornersTotalsHome": "17/36",
+        "cornersTotalsAway": "27/45",
+        "cornersAverage": "3.14/5.79",
+        "cornersAverageHome": "2.43/5.14",
+        "cornersAverageAway": "3.86/6.43",
+        "foulsTotals": "213/183",
+        "foulsTotalsHome": "115/107",
+        "foulsTotalsAway": "98/76",
+        "foulsAverage": "15.21/13.07",
+        "foulsAverageHome": "16.43/15.29",
+        "foulsAverageAway": "14.00/10.86",
+        "goalKicksTotals": "125/109",
+        "goalKicksTotalsHome": "51/56",
+        "goalKicksTotalsAway": "74/53",
+        "goalKicksAverage": "8.93/7.79",
+        "goalKicksAverageHome": "7.29/8.00",
+        "goalKicksAverageAway": "10.57/7.57",
+        "savesTotals": "42/34",
+        "savesTotalsHome": "21/22",
+        "savesTotalsAway": "21/12",
+        "savesAverage": "3.00/2.43",
+        "savesAverageHome": "3.00/3.14",
+        "savesAverageAway": "3.00/1.71",
+        "offsidesTotals": "14/24",
+        "offsidesTotalsHome": "5/12",
+        "offsidesTotalsAway": "9/12",
+        "offsidesAverage": "1.00/1.71",
+        "offsidesAverageHome": "0.71/1.71",
+        "offsidesAverageAway": "1.29/1.71",
+        "shotsOnTargetTotals": "43/79",
+        "shotsOnTargetTotalsHome": "27/36",
+        "shotsOnTargetTotalsAway": "16/43",
+        "shotsOnTargetAverage": "3.07/5.64",
+        "shotsOnTargetAverageHome": "3.86/5.14",
+        "shotsOnTargetAverageAway": "2.29/6.14",
+        "yellowCardsTotals": "31/42",
+        "yellowCardsTotalsHome": "20/28",
+        "yellowCardsTotalsAway": "11/14",
+        "yellowCardsAverage": "2.21/3.00",
+        "yellowCardsAverageHome": "2.86/4.00",
+        "yellowCardsAverageAway": "1.57/2.00",
+        "goalsTotals": "9/37",
+        "goalsTotalsHome": "5/14",
+        "goalsTotalsAway": "4/23",
+        "goalsAverage": "0.64/2.64",
+        "goalsAverageHome": "0.71/2.00",
+        "goalsAverageAway": "0.57/3.29",
+        "throwInsTotals": "301/270",
+        "throwInsTotalsHome": "160/146",
+        "throwInsTotalsAway": "141/124",
+        "throwInsAverage": "21.50/19.29",
+        "throwInsAverageHome": "22.86/20.86",
+        "throwInsAverageAway": "20.14/17.71",
+        "averageBallPossessionTotals": "610/790",
+        "averageBallPossessionTotalsHome": "317/383",
+        "averageBallPossessionTotalsAway": "293/407",
+        "averageBallPossessionAverage": "43.57/56.43",
+        "averageBallPossessionAverageHome": "45.29/54.71",
+        "averageBallPossessionAverageAway": "41.86/58.14",
+        "tacklesTotals": "203/215",
+        "tacklesTotalsHome": "111/115",
+        "tacklesTotalsAway": "92/100",
+        "tacklesAverage": "14.50/15.36",
+        "tacklesAverageHome": "15.86/16.43",
+        "tacklesAverageAway": "13.14/14.29",
+        "interceptionsTotals": "108/116",
+        "interceptionsTotalsHome": "49/63",
+        "interceptionsTotalsAway": "59/53",
+        "interceptionsAverage": "7.71/8.29",
+        "interceptionsAverageHome": "7.00/9.00",
+        "interceptionsAverageAway": "8.43/7.57",
+        "aerialDuelsTotals": "204/208",
+        "aerialDuelsTotalsHome": "107/119",
+        "aerialDuelsTotalsAway": "97/89",
+        "aerialDuelsAverage": "14.57/14.86",
+        "aerialDuelsAverageHome": "15.29/17.00",
+        "aerialDuelsAverageAway": "13.86/12.71",
+        "aerialDuelsAttemptedTotals": "412/412",
+        "aerialDuelsAttemptedTotalsHome": "226/226",
+        "aerialDuelsAttemptedTotalsAway": "186/186",
+        "aerialDuelsAttemptedAverage": "29.43/29.43",
+        "aerialDuelsAttemptedAverageHome": "32.29/32.29",
+        "aerialDuelsAttemptedAverageAway": "26.57/26.57",
+        "dribblesTotals": "105/106",
+        "dribblesTotalsHome": "55/45",
+        "dribblesTotalsAway": "50/61",
+        "dribblesAverage": "7.50/7.57",
+        "dribblesAverageHome": "7.86/6.43",
+        "dribblesAverageAway": "7.14/8.71",
+        "dribblesAttemptedTotals": "214/199",
+        "dribblesAttemptedTotalsHome": "106/95",
+        "dribblesAttemptedTotalsAway": "108/104",
+        "dribblesAttemptedAverage": "15.29/14.21",
+        "dribblesAttemptedAverageHome": "15.14/13.57",
+        "dribblesAttemptedAverageAway": "15.43/14.86"
+    }
+}

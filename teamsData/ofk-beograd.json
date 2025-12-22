@@ -1,0 +1,740 @@
+{
+    "globalStatistics": {
+        "corners": "4.11",
+        "fouls": "12.32",
+        "goalKicks": "9.68",
+        "saves": "4.89",
+        "offsides": "1.95",
+        "shotsOnTarget": "4.11/6.53",
+        "yellowCards": "2.05/2.11",
+        "goals": "1.42/1.53",
+        "throwIns": "18.74",
+        "ballPossession": 48.052631578947,
+        "tackles": "14.79/16.37",
+        "interceptions": "8.11/8.63",
+        "aerialDuels": "12.79",
+        "aerialDuelsAttempted": "25.63",
+        "dribbles": "8.21/6.63",
+        "dribblesAttempted": "17.58/14.58"
+    },
+    "teamSlug": "ofk-beograd",
+    "teamId": "5153",
+    "teamName": "OFK Beograd Mozzart",
+    "tournament": "Mozzart Bet Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-vojvodina/adcsddc#id:14015557,tab:statistics",
+            "teams": [
+                "Vojvodina",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "5150",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-javor-ivanjica/Uccsddc#id:14015541,tab:statistics",
+            "teams": [
+                "Javor",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "5144",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-crvena-zvezda/Zccsddc#id:14015540,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Crvena zvezda"
+            ],
+            "goals": [
+                "3",
+                "4"
+            ],
+            "teamIds": [
+                "5153",
+                "5149"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-spartak-subotica-ofk-beograd/ddcsrOo#id:14015525,tab:statistics",
+            "teams": [
+                "Spartak",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "36967",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-ofk-beograd/ddcsCxU#id:14015521,tab:statistics",
+            "teams": [
+                "Radnik",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "111127",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnicki-nis-ofk-beograd/ddcsMok#id:14015506,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Radnički N."
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "5153",
+                "25737"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-ofk-beograd/ddcsBnyc#id:14015501,tab:statistics",
+            "teams": [
+                "IMT",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "308176",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-napredak-krusevac-ofk-beograd/ddcszdd#id:14015489,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Napredak"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "5153",
+                "7674"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnicki-1923-ofk-beograd/ddcsGEr#id:14015480,tab:statistics",
+            "teams": [
+                "Radnički 1923",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "43981",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-partizan/cdcsddc#id:14015471,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Partizan"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "5153",
+                "5152"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zeleznicar-pancevo-ofk-beograd/ddcsdUmc#id:14015460,tab:statistics",
+            "teams": [
+                "Železničar",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "282203",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-novi-pazar-ofk-beograd/ddcsLok#id:14015453,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Novi Pazar"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "5153",
+                "25736"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-cukaricki/Yccsddc#id:14015440,tab:statistics",
+            "teams": [
+                "Čukarički",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "5148",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-mladost-lucani-ofk-beograd/ddcswfd#id:14015435,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Mladost"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "5153",
+                "7771"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-tsc-backa-topola-ofk-beograd/ddcskrfc#id:14015421,tab:statistics",
+            "teams": [
+                "TSC",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "263360",
+                "5153"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-vojvodina/adcsddc#id:14015418,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Vojvodina"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "5153",
+                "5150"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ofk-beograd-fk-javor-ivanjica/Uccsddc#id:14015402,tab:statistics",
+            "teams": [
+                "OFK Beograd",
+                "Javor"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "5153",
+                "5144"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 9,
+    "matchStatistics": [
+        {
+            "corners": "6/8[A]",
+            "fouls": "16/20[A]",
+            "goalKicks": "14/4[A]",
+            "saves": "4/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/17[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "OFK Beograd,Vojvodina,Away",
+            "tackles": "18/20[A]",
+            "interceptions": "5/3[A]",
+            "aerialDuels": "21/18[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "16/6[A]",
+            "dribblesAttempted": "31/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "16/3[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/0[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "OFK Beograd,Javor,Away",
+            "tackles": "12/18[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "19/16[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/10[A]",
+            "dribblesAttempted": "16/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/13[H]",
+            "fouls": "8/9[H]",
+            "goalKicks": "17/3[H]",
+            "saves": "7/1[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/11[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "3/4[H]",
+            "throwIns": "17/18[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "OFK Beograd,Crvena zvezda,Home",
+            "tackles": "5/16[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "8/7[H]",
+            "dribblesAttempted": "16/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "9/25[A]",
+            "goalKicks": "3/11[A]",
+            "saves": "6/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/8[A]",
+            "yellowCards": "1/7[A]",
+            "goals": "2/2[A]",
+            "throwIns": "30/16[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "OFK Beograd,Spartak,Away",
+            "tackles": "16/22[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "13/4[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "24/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "15/20[A]",
+            "goalKicks": "10/12[A]",
+            "saves": "6/1[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/24[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "OFK Beograd,Radnik,Away",
+            "tackles": "7/19[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "19/12[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "18/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "12/10[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "4/4[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "22/25[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "OFK Beograd,Radnički N.,Home",
+            "tackles": "13/22[H]",
+            "interceptions": "6/12[H]",
+            "aerialDuels": "11/14[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "17/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/1[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/17[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "OFK Beograd,IMT,Away",
+            "tackles": "14/15[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "16/16[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "12/7[A]",
+            "dribblesAttempted": "21/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "17/24[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "OFK Beograd,Napredak,Home",
+            "tackles": "16/6[H]",
+            "interceptions": "6/12[H]",
+            "aerialDuels": "17/11[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "11/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/9[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "7/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "13/27[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "OFK Beograd,Radnički 1923,Away",
+            "tackles": "25/20[A]",
+            "interceptions": "11/5[A]",
+            "aerialDuels": "15/13[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "14/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "10/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "4/12[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "11/16[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "OFK Beograd,Partizan,Home",
+            "tackles": "18/8[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "8/7[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "12/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "11/18[A]",
+            "goalKicks": "12/3[A]",
+            "saves": "4/3[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "15/20[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "OFK Beograd,Železničar,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "14/6[A]",
+            "dribblesAttempted": "22/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "34/29[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "OFK Beograd,Novi Pazar,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "7/13[H]",
+            "aerialDuels": "13/17[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "13/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[A]",
+            "fouls": "7/15[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "2/4[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "7/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "3/1[A]",
+            "throwIns": "12/21[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "OFK Beograd,Čukarički,Away",
+            "tackles": "20/11[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "10/4[A]",
+            "dribblesAttempted": "14/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "10/4[H]",
+            "saves": "5/0[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/20[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "OFK Beograd,Mladost,Home",
+            "tackles": "7/9[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "8/18[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        null,
+        {
+            "corners": "4/4[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "4/4[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "5/7[H]",
+            "goals": "1/2[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "OFK Beograd,Vojvodina,Home",
+            "tackles": "18/28[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "16/8[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "27/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "21/21[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "16/21[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "OFK Beograd,Javor,Home",
+            "tackles": "14/18[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "14/20[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "9/8[H]",
+            "dribblesAttempted": "17/19[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "6/8[A]+7/1[A]+1/13[H]+9/5[A]+6/1[A]+4/3[H]+4/1[A]+4/3[H]+0/9[A]+2/6[H]+4/7[A]+4/4[H]+8/1[A]+6/6[H]+4/4[H]+3/6[H]",
+        "fouls": "16/20[A]+11/12[A]+8/9[H]+9/25[A]+15/20[A]+12/10[H]+14/16[A]+11/11[H]+15/13[A]+12/11[H]+11/18[A]+13/15[H]+7/15[A]+14/11[H]+10/16[H]+21/21[H]",
+        "goalKicks": "14/4[A]+16/3[A]+17/3[H]+3/11[A]+10/12[A]+7/9[H]+8/6[A]+9/7[H]+13/6[A]+7/5[H]+12/3[A]+12/8[H]+11/4[A]+10/4[H]+11/8[H]+6/6[H]",
+        "saves": "4/4[A]+5/3[A]+7/1[H]+6/3[A]+6/1[A]+4/4[H]+3/4[A]+4/2[H]+7/4[A]+10/4[H]+4/3[A]+3/1[H]+2/4[A]+5/0[H]+4/4[H]+3/2[H]",
+        "offsides": "0/1[A]+1/1[A]+0/2[H]+2/0[A]+1/4[A]+4/3[H]+1/2[A]+4/0[H]+0/1[A]+2/0[H]+3/2[A]+1/1[H]+4/1[A]+1/0[H]+2/2[H]+3/0[H]",
+        "shotsOnTarget": "4/4[A]+5/5[A]+4/11[H]+5/8[A]+1/7[A]+4/4[H]+5/4[A]+6/4[H]+6/7[A]+4/12[H]+6/5[A]+1/6[H]+7/3[A]+1/6[H]+5/6[H]+2/3[H]",
+        "yellowCards": "2/1[A]+2/0[A]+2/0[H]+1/7[A]+2/2[A]+1/4[H]+2/1[A]+3/2[H]+3/2[A]+0/2[H]+3/2[A]+1/1[H]+2/1[A]+1/2[H]+5/7[H]+4/3[H]",
+        "goals": "0/0[A]+1/0[A]+3/4[H]+2/2[A]+0/1[A]+0/1[H]+1/1[A]+4/0[H]+2/0[A]+0/2[H]+3/1[A]+0/2[H]+3/1[A]+1/1[H]+1/2[H]+1/0[H]",
+        "throwIns": "24/17[A]+13/18[A]+17/18[H]+30/16[A]+25/24[A]+22/25[H]+17/17[A]+17/24[H]+13/27[A]+11/16[H]+15/20[A]+34/29[H]+12/21[A]+18/20[H]+22/19[H]+16/21[H]",
+        "averageBallPossession": "46/54[A]+49/51[A]+35/65[H]+55/45[A]+49/51[A]+59/41[H]+57/43[A]+61/39[H]+33/67[A]+36/64[H]+38/62[A]+55/45[H]+49/51[A]+42/58[H]+49/51[H]+60/40[H]",
+        "teams": "OFK Beograd,Vojvodina,Away+OFK Beograd,Javor,Away+OFK Beograd,Crvena zvezda,Home+OFK Beograd,Spartak,Away+OFK Beograd,Radnik,Away+OFK Beograd,Radnički N.,Home+OFK Beograd,IMT,Away+OFK Beograd,Napredak,Home+OFK Beograd,Radnički 1923,Away+OFK Beograd,Partizan,Home+OFK Beograd,Železničar,Away+OFK Beograd,Novi Pazar,Home+OFK Beograd,Čukarički,Away+OFK Beograd,Mladost,Home+OFK Beograd,Vojvodina,Home+OFK Beograd,Javor,Home",
+        "tackles": "18/20[A]+12/18[A]+5/16[H]+16/22[A]+7/19[A]+13/22[H]+14/15[A]+16/6[H]+25/20[A]+18/8[H]+12/15[A]+11/12[H]+20/11[A]+7/9[H]+18/28[H]+14/18[H]",
+        "interceptions": "5/3[A]+7/8[A]+8/12[H]+11/10[A]+8/9[A]+6/12[H]+10/7[A]+6/12[H]+11/5[A]+9/10[H]+7/8[A]+7/13[H]+10/6[A]+9/10[H]+11/6[H]+5/5[H]",
+        "aerialDuels": "21/18[A]+19/16[A]+9/10[H]+13/4[A]+19/12[A]+11/14[H]+16/16[A]+17/11[H]+15/13[A]+8/7[H]+11/14[A]+13/17[H]+11/14[A]+8/18[H]+16/8[H]+14/20[H]",
+        "aerialDuelsAttempted": "39/39[A]+35/35[A]+19/19[H]+17/17[A]+31/31[A]+25/25[H]+32/32[A]+28/28[H]+28/28[A]+15/15[H]+25/25[A]+30/30[H]+25/25[A]+26/26[H]+24/24[H]+34/34[H]",
+        "dribbles": "16/6[A]+8/10[A]+8/7[H]+8/4[A]+6/6[A]+5/4[H]+12/7[A]+5/5[H]+8/8[A]+6/9[H]+14/6[A]+7/7[H]+10/4[A]+5/5[H]+8/5[H]+9/8[H]",
+        "dribblesAttempted": "31/13[A]+16/16[A]+16/11[H]+24/15[A]+18/10[A]+17/11[H]+21/17[A]+11/16[H]+14/23[A]+12/16[H]+22/12[A]+13/13[H]+14/12[A]+10/9[H]+27/12[H]+17/19[H]",
+        "isHome": "false+false+true+false+false+true+false+true+false+true+false+true+false+true+true+true",
+        "cornersTotals": "72/78",
+        "cornersTotalsHome": "28/45",
+        "cornersTotalsAway": "44/33",
+        "cornersAverage": "4.50/4.88",
+        "cornersAverageHome": "3.50/5.63",
+        "cornersAverageAway": "5.50/4.13",
+        "foulsTotals": "199/243",
+        "foulsTotalsHome": "101/104",
+        "foulsTotalsAway": "98/139",
+        "foulsAverage": "12.44/15.19",
+        "foulsAverageHome": "12.63/13.00",
+        "foulsAverageAway": "12.25/17.38",
+        "goalKicksTotals": "166/99",
+        "goalKicksTotalsHome": "79/50",
+        "goalKicksTotalsAway": "87/49",
+        "goalKicksAverage": "10.38/6.19",
+        "goalKicksAverageHome": "9.88/6.25",
+        "goalKicksAverageAway": "10.88/6.13",
+        "savesTotals": "77/44",
+        "savesTotalsHome": "40/18",
+        "savesTotalsAway": "37/26",
+        "savesAverage": "4.81/2.75",
+        "savesAverageHome": "5.00/2.25",
+        "savesAverageAway": "4.63/3.25",
+        "offsidesTotals": "29/20",
+        "offsidesTotalsHome": "17/8",
+        "offsidesTotalsAway": "12/12",
+        "offsidesAverage": "1.81/1.25",
+        "offsidesAverageHome": "2.13/1.00",
+        "offsidesAverageAway": "1.50/1.50",
+        "shotsOnTargetTotals": "66/95",
+        "shotsOnTargetTotalsHome": "27/52",
+        "shotsOnTargetTotalsAway": "39/43",
+        "shotsOnTargetAverage": "4.13/5.94",
+        "shotsOnTargetAverageHome": "3.38/6.50",
+        "shotsOnTargetAverageAway": "4.88/5.38",
+        "yellowCardsTotals": "34/37",
+        "yellowCardsTotalsHome": "17/21",
+        "yellowCardsTotalsAway": "17/16",
+        "yellowCardsAverage": "2.13/2.31",
+        "yellowCardsAverageHome": "2.13/2.63",
+        "yellowCardsAverageAway": "2.13/2.00",
+        "goalsTotals": "22/18",
+        "goalsTotalsHome": "10/12",
+        "goalsTotalsAway": "12/6",
+        "goalsAverage": "1.38/1.13",
+        "goalsAverageHome": "1.25/1.50",
+        "goalsAverageAway": "1.50/0.75",
+        "throwInsTotals": "306/332",
+        "throwInsTotalsHome": "157/172",
+        "throwInsTotalsAway": "149/160",
+        "throwInsAverage": "19.13/20.75",
+        "throwInsAverageHome": "19.63/21.50",
+        "throwInsAverageAway": "18.63/20.00",
+        "averageBallPossessionTotals": "773/827",
+        "averageBallPossessionTotalsHome": "397/403",
+        "averageBallPossessionTotalsAway": "376/424",
+        "averageBallPossessionAverage": "48.31/51.69",
+        "averageBallPossessionAverageHome": "49.63/50.38",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "226/259",
+        "tacklesTotalsHome": "102/119",
+        "tacklesTotalsAway": "124/140",
+        "tacklesAverage": "14.13/16.19",
+        "tacklesAverageHome": "12.75/14.88",
+        "tacklesAverageAway": "15.50/17.50",
+        "interceptionsTotals": "130/136",
+        "interceptionsTotalsHome": "61/80",
+        "interceptionsTotalsAway": "69/56",
+        "interceptionsAverage": "8.13/8.50",
+        "interceptionsAverageHome": "7.63/10.00",
+        "interceptionsAverageAway": "8.63/7.00",
+        "aerialDuelsTotals": "221/212",
+        "aerialDuelsTotalsHome": "96/105",
+        "aerialDuelsTotalsAway": "125/107",
+        "aerialDuelsAverage": "13.81/13.25",
+        "aerialDuelsAverageHome": "12.00/13.13",
+        "aerialDuelsAverageAway": "15.63/13.38",
+        "aerialDuelsAttemptedTotals": "433/433",
+        "aerialDuelsAttemptedTotalsHome": "201/201",
+        "aerialDuelsAttemptedTotalsAway": "232/232",
+        "aerialDuelsAttemptedAverage": "27.06/27.06",
+        "aerialDuelsAttemptedAverageHome": "25.13/25.13",
+        "aerialDuelsAttemptedAverageAway": "29.00/29.00",
+        "dribblesTotals": "135/101",
+        "dribblesTotalsHome": "53/50",
+        "dribblesTotalsAway": "82/51",
+        "dribblesAverage": "8.44/6.31",
+        "dribblesAverageHome": "6.63/6.25",
+        "dribblesAverageAway": "10.25/6.38",
+        "dribblesAttemptedTotals": "283/225",
+        "dribblesAttemptedTotalsHome": "123/107",
+        "dribblesAttemptedTotalsAway": "160/118",
+        "dribblesAttemptedAverage": "17.69/14.06",
+        "dribblesAttemptedAverageHome": "15.38/13.38",
+        "dribblesAttemptedAverageAway": "20.00/14.75"
+    }
+}

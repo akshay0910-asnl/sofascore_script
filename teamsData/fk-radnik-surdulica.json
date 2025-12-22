@@ -1,0 +1,721 @@
+{
+    "globalStatistics": {
+        "corners": "4.16",
+        "fouls": "16.05",
+        "goalKicks": "9.32",
+        "saves": "3.05",
+        "offsides": "1.79",
+        "shotsOnTarget": "4.53/4.21",
+        "yellowCards": "2.26/3.00",
+        "goals": "1.32/1.26",
+        "throwIns": "21.84",
+        "ballPossession": 46.684210526316,
+        "tackles": "17.89/15.11",
+        "interceptions": "9.26/9.05",
+        "aerialDuels": "16.63",
+        "aerialDuelsAttempted": "35.95",
+        "dribbles": "6.11/8.68",
+        "dribblesAttempted": "13.84/18.16"
+    },
+    "teamSlug": "fk-radnik-surdulica",
+    "teamId": "111127",
+    "teamName": "FK Radnik Surdulica",
+    "tournament": "Mozzart Bet Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-cukaricki/YccsCxU#id:14015554,tab:statistics",
+            "teams": [
+                "Čukarički",
+                "Radnik"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "5148",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-mladost-lucani/wfdsCxU#id:14015544,tab:statistics",
+            "teams": [
+                "Radnik",
+                "Mladost"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "111127",
+                "7771"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-tsc-backa-topola-fk-radnik-surdulica/CxUskrfc#id:14015538,tab:statistics",
+            "teams": [
+                "TSC",
+                "Radnik"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "263360",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-vojvodina/adcsCxU#id:14015526,tab:statistics",
+            "teams": [
+                "Radnik",
+                "Vojvodina"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "111127",
+                "5150"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-ofk-beograd/ddcsCxU#id:14015521,tab:statistics",
+            "teams": [
+                "Radnik",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "111127",
+                "5153"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-crvena-zvezda/ZccsCxU#id:14015505,tab:statistics",
+            "teams": [
+                "Crvena zvezda",
+                "Radnik"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "5149",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-spartak-subotica/rOosCxU#id:14015503,tab:statistics",
+            "teams": [
+                "Radnik",
+                "Spartak"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "111127",
+                "36967"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-javor-ivanjica/UccsCxU#id:14015485,tab:statistics",
+            "teams": [
+                "Javor",
+                "Radnik"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "5144",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-radnicki-nis/MoksCxU#id:14015484,tab:statistics",
+            "teams": [
+                "Radnički N.",
+                "Radnik"
+            ],
+            "goals": [
+                "4",
+                "2"
+            ],
+            "teamIds": [
+                "25737",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-radnik-surdulica/CxUsBnyc#id:14015467,tab:statistics",
+            "teams": [
+                "Radnik",
+                "IMT"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "111127",
+                "308176"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-napredak-krusevac/zddsCxU#id:14015464,tab:statistics",
+            "teams": [
+                "Napredak",
+                "Radnik"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "7674",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-radnicki-1923/GErsCxU#id:14015450,tab:statistics",
+            "teams": [
+                "Radnik",
+                "Radnički 1923"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "111127",
+                "43981"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-partizan/cdcsCxU#id:14015443,tab:statistics",
+            "teams": [
+                "Partizan",
+                "Radnik"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "5152",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zeleznicar-pancevo-fk-radnik-surdulica/CxUsdUmc#id:14015432,tab:statistics",
+            "teams": [
+                "Radnik",
+                "Železničar"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "111127",
+                "282203"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-novi-pazar/LoksCxU#id:14015424,tab:statistics",
+            "teams": [
+                "Novi Pazar",
+                "Radnik"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "25736",
+                "111127"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-cukaricki/YccsCxU#id:14015415,tab:statistics",
+            "teams": [
+                "Radnik",
+                "Čukarički"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "111127",
+                "5148"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-mladost-lucani/wfdsCxU#id:14015405,tab:statistics",
+            "teams": [
+                "Mladost",
+                "Radnik"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "7771",
+                "111127"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 9,
+    "matchStatistics": [
+        null,
+        {
+            "corners": "1/1[H]",
+            "fouls": "14/15[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "1/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "26/30[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Radnik,Mladost,Home",
+            "tackles": "18/18[H]",
+            "interceptions": "11/17[H]",
+            "aerialDuels": "21/18[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "19/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/9[A]",
+            "fouls": "18/18[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "15/19[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "Radnik,TSC,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "14/8[A]",
+            "aerialDuels": "14/10[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "1/12[A]",
+            "dribblesAttempted": "9/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "16/15[H]",
+            "goalKicks": "8/6[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "3/1[H]",
+            "throwIns": "18/24[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Radnik,Vojvodina,Home",
+            "tackles": "14/14[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "19/17[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "17/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "20/15[H]",
+            "goalKicks": "12/10[H]",
+            "saves": "1/6[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "24/25[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Radnik,OFK Beograd,Home",
+            "tackles": "19/7[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "12/19[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "10/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/11[A]",
+            "fouls": "10/12[A]",
+            "goalKicks": "13/1[A]",
+            "saves": "8/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "2/9[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "12/35[A]",
+            "averageBallPossession": "26/74[A]",
+            "teams": "Radnik,Crvena zvezda,Away",
+            "tackles": "18/15[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "10/23[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "6/12[A]",
+            "dribblesAttempted": "10/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "26/18[H]",
+            "goalKicks": "12/15[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "23/21[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Radnik,Spartak,Home",
+            "tackles": "21/12[H]",
+            "interceptions": "7/12[H]",
+            "aerialDuels": "17/21[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "10/8[H]",
+            "dribblesAttempted": "16/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "8/15[A]",
+            "goalKicks": "11/16[A]",
+            "saves": "4/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "2/3[A]",
+            "throwIns": "17/19[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Radnik,Javor,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "11/16[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "12/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/6[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "4/6[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "8/8[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "2/4[A]",
+            "throwIns": "34/25[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Radnik,Radnički N.,Away",
+            "tackles": "12/13[A]",
+            "interceptions": "13/19[A]",
+            "aerialDuels": "23/27[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "14/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "1/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "32/36[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Radnik,IMT,Home",
+            "tackles": "15/19[H]",
+            "interceptions": "12/11[H]",
+            "aerialDuels": "28/20[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "8/13[H]",
+            "dribblesAttempted": "18/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "24/13[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "3/1[A]",
+            "throwIns": "26/31[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Radnik,Napredak,Away",
+            "tackles": "21/19[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "9/23[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "4/14[A]",
+            "dribblesAttempted": "15/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/9[H]",
+            "fouls": "14/15[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "8/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/11[H]",
+            "yellowCards": "2/7[H]",
+            "goals": "2/3[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Radnik,Radnički 1923,Home",
+            "tackles": "23/12[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "19/13[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "6/15[H]",
+            "dribblesAttempted": "13/30[H]",
+            "isHome": true
+        },
+        null,
+        {
+            "corners": "5/9[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "12/9[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "20/16[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Radnik,Železničar,Home",
+            "tackles": "24/23[H]",
+            "interceptions": "10/3[H]",
+            "aerialDuels": "19/26[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "20/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/6[A]",
+            "fouls": "22/15[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "25/16[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Radnik,Novi Pazar,Away",
+            "tackles": "23/14[A]",
+            "interceptions": "3/11[A]",
+            "aerialDuels": "14/19[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "9/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "22/13[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "0/5[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "8/1[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "18/31[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Radnik,Čukarički,Home",
+            "tackles": "22/11[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "21/14[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "9/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "21/12[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "0/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/17[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Radnik,Mladost,Away",
+            "tackles": "20/18[A]",
+            "interceptions": "15/9[A]",
+            "aerialDuels": "22/21[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "19/20[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "1/1[H]+0/9[A]+7/6[H]+1/6[H]+1/11[A]+3/3[H]+6/4[A]+8/6[A]+5/4[H]+2/4[A]+2/9[H]+5/9[H]+10/6[A]+4/2[H]+5/1[A]",
+        "fouls": "14/15[H]+18/18[A]+16/15[H]+20/15[H]+10/12[A]+26/18[H]+8/15[A]+12/16[A]+14/16[H]+24/13[A]+14/15[H]+9/12[H]+22/15[A]+22/13[H]+21/12[A]",
+        "goalKicks": "7/11[H]+13/4[A]+8/6[H]+12/10[H]+13/1[A]+12/15[H]+11/16[A]+8/4[A]+7/7[H]+9/7[A]+11/11[H]+12/9[H]+12/7[A]+8/10[H]+9/11[A]",
+        "saves": "2/1[H]+2/2[A]+2/3[H]+1/6[H]+8/1[A]+2/2[H]+4/1[A]+4/6[A]+1/3[H]+4/3[A]+8/1[H]+3/2[H]+3/2[A]+0/5[H]+0/4[A]",
+        "offsides": "1/4[H]+2/2[A]+1/3[H]+4/1[H]+0/3[A]+1/1[H]+2/0[A]+3/4[A]+4/1[H]+2/3[A]+1/1[H]+1/0[H]+1/2[A]+2/2[H]+1/0[A]",
+        "shotsOnTarget": "1/2[H]+4/1[A]+5/2[H]+7/1[H]+2/9[A]+4/2[H]+3/7[A]+8/8[A]+5/1[H]+6/4[A]+4/11[H]+3/5[H]+3/5[A]+8/1[H]+5/1[A]",
+        "yellowCards": "2/2[H]+2/4[A]+2/5[H]+2/2[H]+4/1[A]+3/4[H]+5/3[A]+0/2[A]+1/3[H]+2/4[A]+2/7[H]+2/3[H]+3/2[A]+1/3[H]+4/3[A]",
+        "goals": "0/0[H]+2/0[A]+3/1[H]+1/0[H]+1/1[A]+2/0[H]+2/3[A]+2/4[A]+2/0[H]+3/1[A]+2/3[H]+1/2[H]+0/2[A]+3/1[H]+0/1[A]",
+        "throwIns": "26/30[H]+15/19[A]+18/24[H]+24/25[H]+12/35[A]+23/21[H]+17/19[A]+34/25[A]+32/36[H]+26/31[A]+22/19[H]+20/16[H]+25/16[A]+18/31[H]+24/17[A]",
+        "averageBallPossession": "57/43[H]+30/70[A]+40/60[H]+51/49[H]+26/74[A]+48/52[H]+55/45[A]+47/53[A]+48/52[H]+46/54[A]+37/63[H]+45/55[H]+57/43[A]+40/60[H]+62/38[A]",
+        "teams": "Radnik,Mladost,Home+Radnik,TSC,Away+Radnik,Vojvodina,Home+Radnik,OFK Beograd,Home+Radnik,Crvena zvezda,Away+Radnik,Spartak,Home+Radnik,Javor,Away+Radnik,Radnički N.,Away+Radnik,IMT,Home+Radnik,Napredak,Away+Radnik,Radnički 1923,Home+Radnik,Železničar,Home+Radnik,Novi Pazar,Away+Radnik,Čukarički,Home+Radnik,Mladost,Away",
+        "tackles": "18/18[H]+10/17[A]+14/14[H]+19/7[H]+18/15[A]+21/12[H]+15/14[A]+12/13[A]+15/19[H]+21/19[A]+23/12[H]+24/23[H]+23/14[A]+22/11[H]+20/18[A]",
+        "interceptions": "11/17[H]+14/8[A]+12/9[H]+9/8[H]+9/6[A]+7/12[H]+10/7[A]+13/19[A]+12/11[H]+11/11[A]+4/5[H]+10/3[H]+3/11[A]+4/5[H]+15/9[A]",
+        "aerialDuels": "21/18[H]+14/10[A]+19/17[H]+12/19[H]+10/23[A]+17/21[H]+11/16[A]+23/27[A]+28/20[H]+9/23[A]+19/13[H]+19/26[H]+14/19[A]+21/14[H]+22/21[A]",
+        "aerialDuelsAttempted": "39/39[H]+24/24[A]+36/36[H]+31/31[H]+33/33[A]+38/38[H]+27/27[A]+50/50[A]+48/48[H]+32/32[A]+32/32[H]+45/45[H]+33/33[A]+35/35[H]+43/43[A]",
+        "dribbles": "9/3[H]+1/12[A]+9/7[H]+6/6[H]+6/12[A]+10/8[H]+6/8[A]+5/4[A]+8/13[H]+4/14[A]+6/15[H]+6/9[H]+2/6[A]+3/6[H]+8/6[A]",
+        "dribblesAttempted": "19/8[H]+9/16[A]+17/14[H]+10/18[H]+10/22[A]+16/18[H]+12/15[A]+14/9[A]+18/21[H]+15/24[A]+13/30[H]+20/24[H]+9/17[A]+9/18[H]+19/20[A]",
+        "isHome": "true+false+true+true+false+true+false+false+true+false+true+true+false+true+false",
+        "cornersTotals": "60/81",
+        "cornersTotalsHome": "28/40",
+        "cornersTotalsAway": "32/41",
+        "cornersAverage": "4.00/5.40",
+        "cornersAverageHome": "3.50/5.00",
+        "cornersAverageAway": "4.57/5.86",
+        "foulsTotals": "250/220",
+        "foulsTotalsHome": "135/119",
+        "foulsTotalsAway": "115/101",
+        "foulsAverage": "16.67/14.67",
+        "foulsAverageHome": "16.88/14.88",
+        "foulsAverageAway": "16.43/14.43",
+        "goalKicksTotals": "152/129",
+        "goalKicksTotalsHome": "77/79",
+        "goalKicksTotalsAway": "75/50",
+        "goalKicksAverage": "10.13/8.60",
+        "goalKicksAverageHome": "9.63/9.88",
+        "goalKicksAverageAway": "10.71/7.14",
+        "savesTotals": "44/42",
+        "savesTotalsHome": "19/23",
+        "savesTotalsAway": "25/19",
+        "savesAverage": "2.93/2.80",
+        "savesAverageHome": "2.38/2.88",
+        "savesAverageAway": "3.57/2.71",
+        "offsidesTotals": "26/27",
+        "offsidesTotalsHome": "15/13",
+        "offsidesTotalsAway": "11/14",
+        "offsidesAverage": "1.73/1.80",
+        "offsidesAverageHome": "1.88/1.63",
+        "offsidesAverageAway": "1.57/2.00",
+        "shotsOnTargetTotals": "68/60",
+        "shotsOnTargetTotalsHome": "37/25",
+        "shotsOnTargetTotalsAway": "31/35",
+        "shotsOnTargetAverage": "4.53/4.00",
+        "shotsOnTargetAverageHome": "4.63/3.13",
+        "shotsOnTargetAverageAway": "4.43/5.00",
+        "yellowCardsTotals": "35/48",
+        "yellowCardsTotalsHome": "15/29",
+        "yellowCardsTotalsAway": "20/19",
+        "yellowCardsAverage": "2.33/3.20",
+        "yellowCardsAverageHome": "1.88/3.63",
+        "yellowCardsAverageAway": "2.86/2.71",
+        "goalsTotals": "24/19",
+        "goalsTotalsHome": "14/7",
+        "goalsTotalsAway": "10/12",
+        "goalsAverage": "1.60/1.27",
+        "goalsAverageHome": "1.75/0.88",
+        "goalsAverageAway": "1.43/1.71",
+        "throwInsTotals": "336/364",
+        "throwInsTotalsHome": "183/202",
+        "throwInsTotalsAway": "153/162",
+        "throwInsAverage": "22.40/24.27",
+        "throwInsAverageHome": "22.88/25.25",
+        "throwInsAverageAway": "21.86/23.14",
+        "averageBallPossessionTotals": "689/811",
+        "averageBallPossessionTotalsHome": "366/434",
+        "averageBallPossessionTotalsAway": "323/377",
+        "averageBallPossessionAverage": "45.93/54.07",
+        "averageBallPossessionAverageHome": "45.75/54.25",
+        "averageBallPossessionAverageAway": "46.14/53.86",
+        "tacklesTotals": "275/226",
+        "tacklesTotalsHome": "156/116",
+        "tacklesTotalsAway": "119/110",
+        "tacklesAverage": "18.33/15.07",
+        "tacklesAverageHome": "19.50/14.50",
+        "tacklesAverageAway": "17.00/15.71",
+        "interceptionsTotals": "144/141",
+        "interceptionsTotalsHome": "69/70",
+        "interceptionsTotalsAway": "75/71",
+        "interceptionsAverage": "9.60/9.40",
+        "interceptionsAverageHome": "8.63/8.75",
+        "interceptionsAverageAway": "10.71/10.14",
+        "aerialDuelsTotals": "259/287",
+        "aerialDuelsTotalsHome": "156/148",
+        "aerialDuelsTotalsAway": "103/139",
+        "aerialDuelsAverage": "17.27/19.13",
+        "aerialDuelsAverageHome": "19.50/18.50",
+        "aerialDuelsAverageAway": "14.71/19.86",
+        "aerialDuelsAttemptedTotals": "546/546",
+        "aerialDuelsAttemptedTotalsHome": "304/304",
+        "aerialDuelsAttemptedTotalsAway": "242/242",
+        "aerialDuelsAttemptedAverage": "36.40/36.40",
+        "aerialDuelsAttemptedAverageHome": "38.00/38.00",
+        "aerialDuelsAttemptedAverageAway": "34.57/34.57",
+        "dribblesTotals": "89/129",
+        "dribblesTotalsHome": "57/67",
+        "dribblesTotalsAway": "32/62",
+        "dribblesAverage": "5.93/8.60",
+        "dribblesAverageHome": "7.13/8.38",
+        "dribblesAverageAway": "4.57/8.86",
+        "dribblesAttemptedTotals": "210/274",
+        "dribblesAttemptedTotalsHome": "122/151",
+        "dribblesAttemptedTotalsAway": "88/123",
+        "dribblesAttemptedAverage": "14.00/18.27",
+        "dribblesAttemptedAverageHome": "15.25/18.88",
+        "dribblesAttemptedAverageAway": "12.57/17.57"
+    }
+}

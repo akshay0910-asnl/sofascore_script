@@ -1,0 +1,704 @@
+{
+    "globalStatistics": {
+        "corners": "3.74",
+        "fouls": "14.16",
+        "goalKicks": "7.95",
+        "saves": "3.00",
+        "offsides": "1.32",
+        "shotsOnTarget": "3.74/5.21",
+        "yellowCards": "2.32/1.95",
+        "goals": "1.11/2.00",
+        "throwIns": "21.84",
+        "ballPossession": 47.578947368421,
+        "tackles": "17.26/13.68",
+        "interceptions": "8.53/9.26",
+        "aerialDuels": "16.42",
+        "aerialDuelsAttempted": "36.00",
+        "dribbles": "7.37/6.89",
+        "dribblesAttempted": "14.68/15.58"
+    },
+    "teamSlug": "fk-imt-beograd",
+    "teamId": "308176",
+    "teamName": "FK IMT Beograd",
+    "tournament": "Mozzart Bet Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-zeleznicar-pancevo/dUmcsBnyc#id:14015551,tab:statistics",
+            "teams": [
+                "Železničar",
+                "IMT"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "282203",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-novi-pazar/LoksBnyc#id:14015546,tab:statistics",
+            "teams": [
+                "IMT",
+                "Novi Pazar"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "308176",
+                "25736"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-cukaricki/YccsBnyc#id:14015536,tab:statistics",
+            "teams": [
+                "Čukarički",
+                "IMT"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "5148",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-mladost-lucani/wfdsBnyc#id:14015529,tab:statistics",
+            "teams": [
+                "IMT",
+                "Mladost"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "308176",
+                "7771"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-tsc-backa-topola/krfcsBnyc#id:14015519,tab:statistics",
+            "teams": [
+                "IMT",
+                "TSC"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "308176",
+                "263360"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-vojvodina/adcsBnyc#id:14015507,tab:statistics",
+            "teams": [
+                "Vojvodina",
+                "IMT"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "5150",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-ofk-beograd/ddcsBnyc#id:14015501,tab:statistics",
+            "teams": [
+                "IMT",
+                "OFK Beograd"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "308176",
+                "5153"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-crvena-zvezda/ZccsBnyc#id:14015488,tab:statistics",
+            "teams": [
+                "Crvena zvezda",
+                "IMT"
+            ],
+            "goals": [
+                "6",
+                "1"
+            ],
+            "teamIds": [
+                "5149",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-spartak-subotica/rOosBnyc#id:14015482,tab:statistics",
+            "teams": [
+                "IMT",
+                "Spartak"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "308176",
+                "36967"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-radnik-surdulica/CxUsBnyc#id:14015467,tab:statistics",
+            "teams": [
+                "Radnik",
+                "IMT"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "111127",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-radnicki-nis/MoksBnyc#id:14015465,tab:statistics",
+            "teams": [
+                "IMT",
+                "Radnički N."
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "308176",
+                "25737"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-javor-ivanjica/UccsBnyc#id:14015447,tab:statistics",
+            "teams": [
+                "Javor",
+                "IMT"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "5144",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-napredak-krusevac/zddsBnyc#id:14015446,tab:statistics",
+            "teams": [
+                "Napredak",
+                "IMT"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "7674",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-radnicki-1923/GErsBnyc#id:14015430,tab:statistics",
+            "teams": [
+                "IMT",
+                "Radnički 1923"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "308176",
+                "43981"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-partizan/cdcsBnyc#id:14015426,tab:statistics",
+            "teams": [
+                "Partizan",
+                "IMT"
+            ],
+            "goals": [
+                "5",
+                "1"
+            ],
+            "teamIds": [
+                "5152",
+                "308176"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-zeleznicar-pancevo/dUmcsBnyc#id:14015413,tab:statistics",
+            "teams": [
+                "IMT",
+                "Železničar"
+            ],
+            "goals": [
+                "1",
+                "4"
+            ],
+            "teamIds": [
+                "308176",
+                "282203"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "3/3[A]",
+            "fouls": "24/17[A]",
+            "goalKicks": "4/1[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "13/12[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "IMT,Železničar,Away",
+            "tackles": "20/10[A]",
+            "interceptions": "2/8[A]",
+            "aerialDuels": "16/25[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "2/9[A]",
+            "dribblesAttempted": "5/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "12/15[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "38/19[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "IMT,Novi Pazar,Home",
+            "tackles": "9/8[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "34/24[H]",
+            "aerialDuelsAttempted": "58/58[H]",
+            "dribbles": "7/3[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[A]",
+            "fouls": "18/20[A]",
+            "goalKicks": "4/14[A]",
+            "saves": "0/2[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "25/21[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "IMT,Čukarički,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "21/29[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "5/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "16/21[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "IMT,Mladost,Home",
+            "tackles": "17/10[H]",
+            "interceptions": "8/6[H]",
+            "aerialDuels": "23/17[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "3/3[H]",
+            "dribblesAttempted": "9/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "14/20[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/5[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/32[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "IMT,TSC,Home",
+            "tackles": "13/17[H]",
+            "interceptions": "10/4[H]",
+            "aerialDuels": "14/21[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/13[A]",
+            "fouls": "10/6[A]",
+            "goalKicks": "14/1[A]",
+            "saves": "6/3[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "6/8[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "3/1[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "IMT,Vojvodina,Away",
+            "tackles": "13/12[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "10/13[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "8/12[A]",
+            "dribblesAttempted": "14/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/4[H]",
+            "fouls": "16/14[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "IMT,OFK Beograd,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "7/10[H]",
+            "aerialDuels": "16/16[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "7/12[H]",
+            "dribblesAttempted": "17/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "5/6[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "4/2[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "3/10[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/6[A]",
+            "throwIns": "12/22[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "IMT,Crvena zvezda,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "6/6[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "12/9[A]",
+            "dribblesAttempted": "18/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "16/12[H]",
+            "goalKicks": "5/4[H]",
+            "saves": "4/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "39/32[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "IMT,Spartak,Home",
+            "tackles": "17/15[H]",
+            "interceptions": "15/8[H]",
+            "aerialDuels": "20/25[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "13/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "16/14[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "36/32[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "IMT,Radnik,Away",
+            "tackles": "19/15[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "20/28[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "13/8[A]",
+            "dribblesAttempted": "21/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "15/17[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "2/0[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "1/2[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "25/21[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "IMT,Radnički N.,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "17/20[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "19/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "8/11[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/5[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/20[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "IMT,Javor,Away",
+            "tackles": "19/16[A]",
+            "interceptions": "5/18[A]",
+            "aerialDuels": "21/30[A]",
+            "aerialDuelsAttempted": "51/51[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "12/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "13/17[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/3[A]",
+            "throwIns": "25/16[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "IMT,Napredak,Away",
+            "tackles": "18/14[A]",
+            "interceptions": "10/11[A]",
+            "aerialDuels": "17/21[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "16/16[A]",
+            "isHome": false
+        },
+        null,
+        {
+            "corners": "3/4[A]",
+            "fouls": "19/11[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "2/4[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "5/7[A]",
+            "yellowCards": "6/1[A]",
+            "goals": "1/5[A]",
+            "throwIns": "12/16[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "IMT,Partizan,Away",
+            "tackles": "22/14[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "8/6[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "11/9[A]",
+            "dribblesAttempted": "19/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "15/10[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "1/4[H]",
+            "throwIns": "29/26[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "IMT,Železničar,Home",
+            "tackles": "27/18[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "12/12[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "13/8[H]",
+            "dribblesAttempted": "26/17[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "3/3[A]+3/2[H]+8/1[A]+7/1[H]+2/6[H]+3/13[A]+1/4[H]+6/6[A]+2/1[H]+4/5[A]+3/3[H]+6/3[A]+2/7[A]+3/4[A]+5/3[H]",
+        "fouls": "24/17[A]+12/15[H]+18/20[A]+11/11[H]+14/20[H]+10/6[A]+16/14[H]+5/6[A]+16/12[H]+16/14[A]+15/17[H]+12/13[A]+13/17[A]+19/11[A]+15/10[H]",
+        "goalKicks": "4/1[A]+5/12[H]+4/14[A]+5/12[H]+8/5[H]+14/1[A]+6/8[H]+7/4[A]+5/4[H]+7/7[A]+7/5[H]+8/11[A]+13/5[A]+5/6[A]+9/8[H]",
+        "saves": "1/2[A]+1/3[H]+0/2[A]+3/3[H]+4/3[H]+6/3[A]+4/3[H]+4/2[A]+4/6[H]+3/1[A]+2/0[H]+3/1[A]+3/1[A]+2/4[A]+1/2[H]",
+        "offsides": "1/3[A]+2/0[H]+3/1[A]+1/2[H]+2/5[H]+2/3[A]+2/1[H]+0/2[A]+0/2[H]+1/4[A]+2/0[H]+0/1[A]+1/1[A]+0/0[A]+1/3[H]",
+        "shotsOnTarget": "3/2[A]+5/5[H]+3/1[A]+4/6[H]+4/6[H]+6/8[A]+4/5[H]+3/10[A]+7/5[H]+1/5[A]+1/2[H]+1/5[A]+2/5[A]+5/7[A]+4/6[H]",
+        "yellowCards": "2/1[A]+0/2[H]+1/2[A]+2/1[H]+2/3[H]+1/0[A]+1/2[H]+1/1[A]+4/1[H]+3/1[A]+1/3[H]+3/5[A]+2/3[A]+6/1[A]+4/1[H]",
+        "goals": "0/1[A]+2/3[H]+1/1[A]+1/3[H]+1/1[H]+3/1[A]+1/1[H]+1/6[A]+1/0[H]+0/2[A]+1/0[H]+0/2[A]+1/3[A]+1/5[A]+1/4[H]",
+        "throwIns": "13/12[A]+38/19[H]+25/21[A]+16/21[H]+18/32[H]+21/20[A]+17/17[H]+12/22[A]+39/32[H]+36/32[A]+25/21[H]+19/20[A]+25/16[A]+12/16[A]+29/26[H]",
+        "averageBallPossession": "37/63[A]+65/35[H]+58/42[A]+58/42[H]+46/54[H]+37/63[A]+43/57[H]+37/63[A]+47/53[H]+52/48[A]+45/55[H]+55/45[A]+46/54[A]+46/54[A]+54/46[H]",
+        "teams": "IMT,Železničar,Away+IMT,Novi Pazar,Home+IMT,Čukarički,Away+IMT,Mladost,Home+IMT,TSC,Home+IMT,Vojvodina,Away+IMT,OFK Beograd,Home+IMT,Crvena zvezda,Away+IMT,Spartak,Home+IMT,Radnik,Away+IMT,Radnički N.,Home+IMT,Javor,Away+IMT,Napredak,Away+IMT,Partizan,Away+IMT,Železničar,Home",
+        "tackles": "20/10[A]+9/8[H]+11/12[A]+17/10[H]+13/17[H]+13/12[A]+15/14[H]+15/13[A]+17/15[H]+19/15[A]+16/16[H]+19/16[A]+18/14[A]+22/14[A]+27/18[H]",
+        "interceptions": "2/8[A]+8/9[H]+8/7[A]+8/6[H]+10/4[H]+8/10[A]+7/10[H]+8/10[A]+15/8[H]+11/12[A]+12/8[H]+5/18[A]+10/11[A]+9/7[A]+9/11[H]",
+        "aerialDuels": "16/25[A]+34/24[H]+21/29[A]+23/17[H]+14/21[H]+10/13[A]+16/16[H]+6/6[A]+20/25[H]+20/28[A]+17/20[H]+21/30[A]+17/21[A]+8/6[A]+12/12[H]",
+        "aerialDuelsAttempted": "41/41[A]+58/58[H]+50/50[A]+40/40[H]+35/35[H]+23/23[A]+32/32[H]+12/12[A]+45/45[H]+48/48[A]+37/37[H]+51/51[A]+38/38[A]+14/14[A]+24/24[H]",
+        "dribbles": "2/9[A]+7/3[H]+3/4[A]+3/3[H]+8/6[H]+8/12[A]+7/12[H]+12/9[A]+7/9[H]+13/8[A]+8/5[H]+5/5[A]+6/4[A]+11/9[A]+13/8[H]",
+        "dribblesAttempted": "5/18[A]+10/9[H]+5/7[A]+9/11[H]+18/10[H]+14/22[A]+17/21[H]+18/16[A]+13/16[H]+21/18[A]+19/12[H]+12/12[A]+16/16[A]+19/28[A]+26/17[H]",
+        "isHome": "false+true+false+true+true+false+true+false+true+false+true+false+false+false+true",
+        "cornersTotals": "58/62",
+        "cornersTotalsHome": "23/20",
+        "cornersTotalsAway": "35/42",
+        "cornersAverage": "3.87/4.13",
+        "cornersAverageHome": "3.29/2.86",
+        "cornersAverageAway": "4.38/5.25",
+        "foulsTotals": "216/203",
+        "foulsTotalsHome": "99/99",
+        "foulsTotalsAway": "117/104",
+        "foulsAverage": "14.40/13.53",
+        "foulsAverageHome": "14.14/14.14",
+        "foulsAverageAway": "14.63/13.00",
+        "goalKicksTotals": "107/103",
+        "goalKicksTotalsHome": "45/54",
+        "goalKicksTotalsAway": "62/49",
+        "goalKicksAverage": "7.13/6.87",
+        "goalKicksAverageHome": "6.43/7.71",
+        "goalKicksAverageAway": "7.75/6.13",
+        "savesTotals": "41/36",
+        "savesTotalsHome": "19/20",
+        "savesTotalsAway": "22/16",
+        "savesAverage": "2.73/2.40",
+        "savesAverageHome": "2.71/2.86",
+        "savesAverageAway": "2.75/2.00",
+        "offsidesTotals": "18/28",
+        "offsidesTotalsHome": "10/13",
+        "offsidesTotalsAway": "8/15",
+        "offsidesAverage": "1.20/1.87",
+        "offsidesAverageHome": "1.43/1.86",
+        "offsidesAverageAway": "1.00/1.88",
+        "shotsOnTargetTotals": "53/78",
+        "shotsOnTargetTotalsHome": "29/35",
+        "shotsOnTargetTotalsAway": "24/43",
+        "shotsOnTargetAverage": "3.53/5.20",
+        "shotsOnTargetAverageHome": "4.14/5.00",
+        "shotsOnTargetAverageAway": "3.00/5.38",
+        "yellowCardsTotals": "33/27",
+        "yellowCardsTotalsHome": "14/13",
+        "yellowCardsTotalsAway": "19/14",
+        "yellowCardsAverage": "2.20/1.80",
+        "yellowCardsAverageHome": "2.00/1.86",
+        "yellowCardsAverageAway": "2.38/1.75",
+        "goalsTotals": "15/33",
+        "goalsTotalsHome": "8/12",
+        "goalsTotalsAway": "7/21",
+        "goalsAverage": "1.00/2.20",
+        "goalsAverageHome": "1.14/1.71",
+        "goalsAverageAway": "0.88/2.63",
+        "throwInsTotals": "345/327",
+        "throwInsTotalsHome": "182/168",
+        "throwInsTotalsAway": "163/159",
+        "throwInsAverage": "23.00/21.80",
+        "throwInsAverageHome": "26.00/24.00",
+        "throwInsAverageAway": "20.38/19.88",
+        "averageBallPossessionTotals": "726/774",
+        "averageBallPossessionTotalsHome": "358/342",
+        "averageBallPossessionTotalsAway": "368/432",
+        "averageBallPossessionAverage": "48.40/51.60",
+        "averageBallPossessionAverageHome": "51.14/48.86",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "251/204",
+        "tacklesTotalsHome": "114/98",
+        "tacklesTotalsAway": "137/106",
+        "tacklesAverage": "16.73/13.60",
+        "tacklesAverageHome": "16.29/14.00",
+        "tacklesAverageAway": "17.13/13.25",
+        "interceptionsTotals": "130/139",
+        "interceptionsTotalsHome": "69/56",
+        "interceptionsTotalsAway": "61/83",
+        "interceptionsAverage": "8.67/9.27",
+        "interceptionsAverageHome": "9.86/8.00",
+        "interceptionsAverageAway": "7.63/10.38",
+        "aerialDuelsTotals": "255/293",
+        "aerialDuelsTotalsHome": "136/135",
+        "aerialDuelsTotalsAway": "119/158",
+        "aerialDuelsAverage": "17.00/19.53",
+        "aerialDuelsAverageHome": "19.43/19.29",
+        "aerialDuelsAverageAway": "14.88/19.75",
+        "aerialDuelsAttemptedTotals": "548/548",
+        "aerialDuelsAttemptedTotalsHome": "271/271",
+        "aerialDuelsAttemptedTotalsAway": "277/277",
+        "aerialDuelsAttemptedAverage": "36.53/36.53",
+        "aerialDuelsAttemptedAverageHome": "38.71/38.71",
+        "aerialDuelsAttemptedAverageAway": "34.63/34.63",
+        "dribblesTotals": "113/106",
+        "dribblesTotalsHome": "53/46",
+        "dribblesTotalsAway": "60/60",
+        "dribblesAverage": "7.53/7.07",
+        "dribblesAverageHome": "7.57/6.57",
+        "dribblesAverageAway": "7.50/7.50",
+        "dribblesAttemptedTotals": "222/233",
+        "dribblesAttemptedTotalsHome": "112/96",
+        "dribblesAttemptedTotalsAway": "110/137",
+        "dribblesAttemptedAverage": "14.80/15.53",
+        "dribblesAttemptedAverageHome": "16.00/13.71",
+        "dribblesAttemptedAverageAway": "13.75/17.13"
+    }
+}

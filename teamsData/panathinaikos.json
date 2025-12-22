@@ -1,0 +1,471 @@
+{
+    "globalStatistics": {
+        "corners": "5.00",
+        "fouls": "15.62",
+        "goalKicks": "5.54",
+        "saves": "0.92",
+        "offsides": "2.23",
+        "shotsOnTarget": "4.46/2.23",
+        "yellowCards": "2.46/3.15",
+        "goals": "1.62/1.15",
+        "throwIns": "23.08",
+        "ballPossession": 55.615384615385,
+        "tackles": "17.62/14.08",
+        "interceptions": "6.69/8.08",
+        "aerialDuels": "14.46",
+        "aerialDuelsAttempted": "27.77",
+        "dribbles": "6.62/6.46",
+        "dribblesAttempted": "13.46/15.31"
+    },
+    "teamSlug": "panathinaikos",
+    "teamId": "3248",
+    "teamName": "Panathinaikos",
+    "tournament": "Stoiximan Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-panathinaikos/YobsjZgc#id:14152045,tab:statistics",
+            "teams": [
+                "Panathinaikos",
+                "Volos"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3248",
+                "267459"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ae-larisa-panathinaikos/Yobsppb#id:14152032,tab:statistics",
+            "teams": [
+                "AEL",
+                "Panathinaikos"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "3265",
+                "3248"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aek-athens-panathinaikos/Yobsapb#id:14152030,tab:statistics",
+            "teams": [
+                "Panathinaikos",
+                "AEK"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "3248",
+                "3250"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mgs-panserraikos-panathinaikos/YobsXBc#id:14152020,tab:statistics",
+            "teams": [
+                "Panserraikos",
+                "Panathinaikos"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "6347",
+                "3248"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/paok-panathinaikos/Yobsbpb#id:14152018,tab:statistics",
+            "teams": [
+                "Panathinaikos",
+                "PAOK"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3248",
+                "3251"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-panathinaikos/YobsjZgc#id:14152006,tab:statistics",
+            "teams": [
+                "Volos",
+                "Panathinaikos"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "267459",
+                "3248"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/asteras-aktor-panathinaikos/YobsRBc#id:14152000,tab:statistics",
+            "teams": [
+                "Panathinaikos",
+                "Asteras"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3248",
+                "6342"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aris-thessaloniki-panathinaikos/Yobscpb#id:14151991,tab:statistics",
+            "teams": [
+                "Aris",
+                "Panathinaikos"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "3252",
+                "3248"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atromitos-athens-panathinaikos/Yobsmbc#id:14151988,tab:statistics",
+            "teams": [
+                "Panathinaikos",
+                "Atromitos"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "3248",
+                "5062"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 5,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/5[H]",
+            "fouls": "21/17[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "3/0[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/6[H]",
+            "goals": "2/1[H]",
+            "throwIns": "28/19[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Panathinaikos,Volos,Home",
+            "tackles": "21/13[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "16/13[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "1/10[H]",
+            "dribblesAttempted": "8/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "2/6[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "8/4[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "2/2[A]",
+            "throwIns": "26/14[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "Panathinaikos,AEL,Away",
+            "tackles": "12/11[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "23/21[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "9/4[A]",
+            "dribblesAttempted": "13/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "18/22[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "0/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "5/5[H]",
+            "goals": "2/3[H]",
+            "throwIns": "26/25[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Panathinaikos,AEK,Home",
+            "tackles": "16/22[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "13/16[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "7/2[H]",
+            "dribblesAttempted": "18/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "7/13[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/0[A]",
+            "throwIns": "21/16[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Panathinaikos,Panserraikos,Away",
+            "tackles": "20/14[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "14/9[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "10/10[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "16/16[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "0/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "27/31[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Panathinaikos,PAOK,Home",
+            "tackles": "19/12[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "13/15[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "8/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/0[A]",
+            "fouls": "16/16[A]",
+            "goalKicks": "6/15[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "0/1[A]",
+            "throwIns": "22/13[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "Panathinaikos,Volos,Away",
+            "tackles": "22/18[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "13/15[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "14/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "18/11[H]",
+            "goalKicks": "3/9[H]",
+            "saves": "0/5[H]",
+            "offsides": "0/6[H]",
+            "shotsOnTarget": "6/0[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "24/19[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Panathinaikos,Asteras,Home",
+            "tackles": "11/17[H]",
+            "interceptions": "3/1[H]",
+            "aerialDuels": "19/11[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "8/4[H]",
+            "dribblesAttempted": "16/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "16/14[A]",
+            "goalKicks": "3/11[A]",
+            "saves": "2/3[A]",
+            "offsides": "3/5[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "25/27[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Panathinaikos,Aris,Away",
+            "tackles": "20/15[A]",
+            "interceptions": "5/4[A]",
+            "aerialDuels": "14/17[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "9/6[A]",
+            "dribblesAttempted": "13/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "18/17[H]",
+            "goalKicks": "2/10[H]",
+            "saves": "0/7[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "8/0[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "15/14[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Panathinaikos,Atromitos,Home",
+            "tackles": "16/14[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "16/8[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "16/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "6/5[H]+5/4[A]+5/2[H]+8/3[A]+3/5[H]+5/0[A]+6/2[H]+2/2[A]+6/2[H]",
+        "fouls": "21/17[H]+10/11[A]+18/22[H]+7/13[A]+16/16[H]+16/16[A]+18/11[H]+16/14[A]+18/17[H]",
+        "goalKicks": "5/7[H]+8/8[A]+3/6[H]+7/8[A]+8/9[H]+6/15[A]+3/9[H]+3/11[A]+2/10[H]",
+        "saves": "3/0[H]+2/6[A]+0/3[H]+2/3[A]+0/1[H]+1/4[A]+0/5[H]+2/3[A]+0/7[H]",
+        "offsides": "2/1[H]+2/2[A]+0/1[H]+2/1[A]+2/1[H]+3/0[A]+0/6[H]+3/5[A]+3/1[H]",
+        "shotsOnTarget": "2/4[H]+8/4[A]+5/4[H]+6/2[A]+3/1[H]+4/2[A]+6/0[H]+4/3[A]+8/0[H]",
+        "yellowCards": "2/6[H]+4/4[A]+5/5[H]+1/2[A]+4/3[H]+1/5[A]+3/3[H]+2/1[A]+0/1[H]",
+        "goals": "2/1[H]+2/2[A]+2/3[H]+3/0[A]+2/1[H]+0/1[A]+2/0[H]+1/1[A]+1/0[H]",
+        "throwIns": "28/19[H]+26/14[A]+26/25[H]+21/16[A]+27/31[H]+22/13[A]+24/19[H]+25/27[A]+15/14[H]",
+        "averageBallPossession": "44/56[H]+69/31[A]+50/50[H]+49/51[A]+33/67[H]+69/31[A]+57/43[H]+54/46[A]+58/42[H]",
+        "teams": "Panathinaikos,Volos,Home+Panathinaikos,AEL,Away+Panathinaikos,AEK,Home+Panathinaikos,Panserraikos,Away+Panathinaikos,PAOK,Home+Panathinaikos,Volos,Away+Panathinaikos,Asteras,Home+Panathinaikos,Aris,Away+Panathinaikos,Atromitos,Home",
+        "tackles": "21/13[H]+12/11[A]+16/22[H]+20/14[A]+19/12[H]+22/18[A]+11/17[H]+20/15[A]+16/14[H]",
+        "interceptions": "10/10[H]+5/5[A]+7/11[H]+6/10[A]+11/6[H]+6/4[A]+3/1[H]+5/4[A]+8/11[H]",
+        "aerialDuels": "16/13[H]+23/21[A]+13/16[H]+14/9[A]+13/15[H]+13/15[A]+19/11[H]+14/17[A]+16/8[H]",
+        "aerialDuelsAttempted": "29/29[H]+44/44[A]+29/29[H]+23/23[A]+28/28[H]+28/28[A]+30/30[H]+31/31[A]+24/24[H]",
+        "dribbles": "1/10[H]+9/4[A]+7/2[H]+10/10[A]+3/6[H]+4/5[A]+8/4[H]+9/6[A]+6/10[H]",
+        "dribblesAttempted": "8/20[H]+13/11[A]+18/9[H]+14/20[A]+8/16[H]+14/14[A]+16/8[H]+13/18[A]+16/18[H]",
+        "isHome": "true+false+true+false+true+false+true+false+true",
+        "cornersTotals": "46/25",
+        "cornersTotalsHome": "26/16",
+        "cornersTotalsAway": "20/9",
+        "cornersAverage": "5.11/2.78",
+        "cornersAverageHome": "5.20/3.20",
+        "cornersAverageAway": "5.00/2.25",
+        "foulsTotals": "140/137",
+        "foulsTotalsHome": "91/83",
+        "foulsTotalsAway": "49/54",
+        "foulsAverage": "15.56/15.22",
+        "foulsAverageHome": "18.20/16.60",
+        "foulsAverageAway": "12.25/13.50",
+        "goalKicksTotals": "45/83",
+        "goalKicksTotalsHome": "21/41",
+        "goalKicksTotalsAway": "24/42",
+        "goalKicksAverage": "5.00/9.22",
+        "goalKicksAverageHome": "4.20/8.20",
+        "goalKicksAverageAway": "6.00/10.50",
+        "savesTotals": "10/32",
+        "savesTotalsHome": "3/16",
+        "savesTotalsAway": "7/16",
+        "savesAverage": "1.11/3.56",
+        "savesAverageHome": "0.60/3.20",
+        "savesAverageAway": "1.75/4.00",
+        "offsidesTotals": "17/18",
+        "offsidesTotalsHome": "7/10",
+        "offsidesTotalsAway": "10/8",
+        "offsidesAverage": "1.89/2.00",
+        "offsidesAverageHome": "1.40/2.00",
+        "offsidesAverageAway": "2.50/2.00",
+        "shotsOnTargetTotals": "46/20",
+        "shotsOnTargetTotalsHome": "24/9",
+        "shotsOnTargetTotalsAway": "22/11",
+        "shotsOnTargetAverage": "5.11/2.22",
+        "shotsOnTargetAverageHome": "4.80/1.80",
+        "shotsOnTargetAverageAway": "5.50/2.75",
+        "yellowCardsTotals": "22/30",
+        "yellowCardsTotalsHome": "14/18",
+        "yellowCardsTotalsAway": "8/12",
+        "yellowCardsAverage": "2.44/3.33",
+        "yellowCardsAverageHome": "2.80/3.60",
+        "yellowCardsAverageAway": "2.00/3.00",
+        "goalsTotals": "15/9",
+        "goalsTotalsHome": "9/5",
+        "goalsTotalsAway": "6/4",
+        "goalsAverage": "1.67/1.00",
+        "goalsAverageHome": "1.80/1.00",
+        "goalsAverageAway": "1.50/1.00",
+        "throwInsTotals": "214/178",
+        "throwInsTotalsHome": "120/108",
+        "throwInsTotalsAway": "94/70",
+        "throwInsAverage": "23.78/19.78",
+        "throwInsAverageHome": "24.00/21.60",
+        "throwInsAverageAway": "23.50/17.50",
+        "averageBallPossessionTotals": "483/417",
+        "averageBallPossessionTotalsHome": "242/258",
+        "averageBallPossessionTotalsAway": "241/159",
+        "averageBallPossessionAverage": "53.67/46.33",
+        "averageBallPossessionAverageHome": "48.40/51.60",
+        "averageBallPossessionAverageAway": "60.25/39.75",
+        "tacklesTotals": "157/136",
+        "tacklesTotalsHome": "83/78",
+        "tacklesTotalsAway": "74/58",
+        "tacklesAverage": "17.44/15.11",
+        "tacklesAverageHome": "16.60/15.60",
+        "tacklesAverageAway": "18.50/14.50",
+        "interceptionsTotals": "61/62",
+        "interceptionsTotalsHome": "39/39",
+        "interceptionsTotalsAway": "22/23",
+        "interceptionsAverage": "6.78/6.89",
+        "interceptionsAverageHome": "7.80/7.80",
+        "interceptionsAverageAway": "5.50/5.75",
+        "aerialDuelsTotals": "141/125",
+        "aerialDuelsTotalsHome": "77/63",
+        "aerialDuelsTotalsAway": "64/62",
+        "aerialDuelsAverage": "15.67/13.89",
+        "aerialDuelsAverageHome": "15.40/12.60",
+        "aerialDuelsAverageAway": "16.00/15.50",
+        "aerialDuelsAttemptedTotals": "266/266",
+        "aerialDuelsAttemptedTotalsHome": "140/140",
+        "aerialDuelsAttemptedTotalsAway": "126/126",
+        "aerialDuelsAttemptedAverage": "29.56/29.56",
+        "aerialDuelsAttemptedAverageHome": "28.00/28.00",
+        "aerialDuelsAttemptedAverageAway": "31.50/31.50",
+        "dribblesTotals": "57/57",
+        "dribblesTotalsHome": "25/32",
+        "dribblesTotalsAway": "32/25",
+        "dribblesAverage": "6.33/6.33",
+        "dribblesAverageHome": "5.00/6.40",
+        "dribblesAverageAway": "8.00/6.25",
+        "dribblesAttemptedTotals": "120/134",
+        "dribblesAttemptedTotalsHome": "66/71",
+        "dribblesAttemptedTotalsAway": "54/63",
+        "dribblesAttemptedAverage": "13.33/14.89",
+        "dribblesAttemptedAverageHome": "13.20/14.20",
+        "dribblesAttemptedAverageAway": "13.50/15.75"
+    }
+}

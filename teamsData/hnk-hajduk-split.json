@@ -1,0 +1,579 @@
+{
+    "globalStatistics": {
+        "corners": "5.53",
+        "fouls": "12.71",
+        "goalKicks": "6.29",
+        "saves": "1.59",
+        "offsides": "2.00",
+        "shotsOnTarget": "4.94/2.53",
+        "yellowCards": "2.12/2.47",
+        "goals": "1.59/0.94",
+        "throwIns": "21.29",
+        "ballPossession": 57.647058823529,
+        "tackles": "17.47/17.94",
+        "interceptions": "7.47/7.71",
+        "aerialDuels": "14.65",
+        "aerialDuelsAttempted": "26.47",
+        "dribbles": "8.47/6.71",
+        "dribblesAttempted": "17.35/15.53"
+    },
+    "teamSlug": "hnk-hajduk-split",
+    "teamId": "2036",
+    "teamName": "HNK Hajduk Split",
+    "tournament": "HNL",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nk-lokomotiva-zagreb-hnk-hajduk-split/LPsWzo#id:14023626,tab:statistics",
+            "teams": [
+                "Lokomotiva",
+                "Hajduk"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "36246",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hnk-hajduk-split-gnk-dinamo-zagreb/HPsLP#id:14023616,tab:statistics",
+            "teams": [
+                "Dinamo",
+                "Hajduk"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2032",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-hajduk-split/LPsFCRb#id:14023614,tab:statistics",
+            "teams": [
+                "Hajduk",
+                "Varaždin"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2036",
+                "231380"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hnk-rijeka-hnk-hajduk-split/LPsOP#id:14023605,tab:statistics",
+            "teams": [
+                "Rijeka",
+                "Hajduk"
+            ],
+            "goals": [
+                "5",
+                "0"
+            ],
+            "teamIds": [
+                "2039",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-osijek-hnk-hajduk-split/LPsPP#id:14023601,tab:statistics",
+            "teams": [
+                "Hajduk",
+                "Osijek"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2036",
+                "2040"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-slaven-belupo-hnk-hajduk-split/LPsRP#id:14023594,tab:statistics",
+            "teams": [
+                "Slaven",
+                "Hajduk"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2042",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hnk-gorica-hnk-hajduk-split/LPsrDr#id:14023494,tab:statistics",
+            "teams": [
+                "Gorica",
+                "Hajduk"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "43917",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-istra-1961-hnk-hajduk-split/LPsEkk#id:14023584,tab:statistics",
+            "teams": [
+                "Istra",
+                "Hajduk"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "25529",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hnk-vukovar-1991-hnk-hajduk-split/LPsxIc#id:14023577,tab:statistics",
+            "teams": [
+                "Vukovar '91",
+                "Hajduk"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "6672",
+                "2036"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-lokomotiva-zagreb-hnk-hajduk-split/LPsWzo#id:14023574,tab:statistics",
+            "teams": [
+                "Hajduk",
+                "Lokomotiva"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2036",
+                "36246"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hnk-hajduk-split-gnk-dinamo-zagreb/HPsLP#id:14023563,tab:statistics",
+            "teams": [
+                "Hajduk",
+                "Dinamo"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2036",
+                "2032"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-hajduk-split/LPsFCRb#id:14023562,tab:statistics",
+            "teams": [
+                "Varaždin",
+                "Hajduk"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "231380",
+                "2036"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "5/1[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "3/9[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "3/1[A]",
+            "throwIns": "20/27[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Hajduk,Lokomotiva,Away",
+            "tackles": "23/11[A]",
+            "interceptions": "12/7[A]",
+            "aerialDuels": "9/10[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "13/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "27/12[A]",
+            "goalKicks": "10/1[A]",
+            "saves": "4/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "11/6[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/29[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Hajduk,Dinamo,Away",
+            "tackles": "17/13[A]",
+            "interceptions": "13/5[A]",
+            "aerialDuels": "10/15[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "10/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "4/13[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "30/13[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Hajduk,Varaždin,Home",
+            "tackles": "13/17[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "8/10[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "1/6[H]",
+            "dribblesAttempted": "8/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "7/19[A]",
+            "goalKicks": "3/11[A]",
+            "saves": "0/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/5[A]",
+            "throwIns": "25/20[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "Hajduk,Rijeka,Away",
+            "tackles": "16/18[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "8/8[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "7/3[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/1[H]",
+            "fouls": "18/21[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "1/9[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "11/1[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/18[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Hajduk,Osijek,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "20/14[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "7/0[H]",
+            "dribblesAttempted": "17/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "11/17[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/0[A]",
+            "throwIns": "23/34[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Hajduk,Slaven,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "16/15[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "18/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "2/5[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "3/1[A]",
+            "throwIns": "20/28[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Hajduk,Gorica,Away",
+            "tackles": "18/19[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "21/7[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "11/4[A]",
+            "dribblesAttempted": "16/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "2/3[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "3/0[A]",
+            "throwIns": "20/23[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Hajduk,Istra,Away",
+            "tackles": "23/17[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "22/17[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "13/8[A]",
+            "dribblesAttempted": "26/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[A]",
+            "fouls": "13/17[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "2/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "18/24[A]",
+            "averageBallPossession": "67/33[A]",
+            "teams": "Hajduk,Vukovar '91,Away",
+            "tackles": "13/17[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "28/11[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "12/9[A]",
+            "dribblesAttempted": "17/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/5[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "2/1[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/19[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Hajduk,Lokomotiva,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "12/5[H]",
+            "aerialDuels": "11/10[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "13/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "5/15[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "1/2[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "19/24[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Hajduk,Dinamo,Home",
+            "tackles": "14/19[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "17/14[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "14/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "8/13[A]",
+            "saves": "2/5[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "20/23[A]",
+            "averageBallPossession": "74/26[A]",
+            "teams": "Hajduk,Varaždin,Away",
+            "tackles": "10/33[A]",
+            "interceptions": "4/11[A]",
+            "aerialDuels": "14/10[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "19/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "5/1[A]+2/8[A]+7/4[H]+8/3[A]+13/1[H]+5/4[A]+6/5[A]+1/6[A]+8/2[A]+0/5[H]+5/5[H]+5/3[A]",
+        "fouls": "11/15[A]+27/12[A]+15/15[H]+7/19[A]+18/21[H]+11/17[A]+12/15[A]+17/13[A]+13/17[A]+13/15[H]+5/15[H]+8/13[A]",
+        "goalKicks": "3/9[A]+10/1[A]+4/13[H]+3/11[A]+5/9[H]+7/10[A]+9/8[A]+11/8[A]+4/10[A]+7/5[H]+6/9[H]+8/13[A]",
+        "saves": "1/3[A]+4/0[A]+1/3[H]+0/3[A]+1/9[H]+2/2[A]+2/5[A]+2/3[A]+2/2[A]+2/1[H]+1/2[H]+2/5[A]",
+        "offsides": "1/2[A]+2/1[A]+0/1[H]+0/1[A]+1/2[H]+1/3[A]+3/1[A]+4/2[A]+3/2[A]+4/3[H]+5/1[H]+3/0[A]",
+        "shotsOnTarget": "6/2[A]+1/5[A]+4/2[H]+3/5[A]+11/1[H]+2/2[A]+8/3[A]+6/2[A]+3/2[A]+3/2[H]+2/3[H]+5/3[A]",
+        "yellowCards": "2/4[A]+11/6[A]+3/3[H]+0/0[A]+1/4[H]+1/4[A]+2/4[A]+2/1[A]+2/2[A]+2/3[H]+0/3[H]+3/0[A]",
+        "goals": "3/1[A]+1/1[A]+1/1[H]+0/5[A]+2/0[H]+0/0[A]+3/1[A]+3/0[A]+1/0[A]+2/0[H]+0/2[H]+0/2[A]",
+        "throwIns": "20/27[A]+17/29[A]+30/13[H]+25/20[A]+21/18[H]+23/34[A]+20/28[A]+20/23[A]+18/24[A]+12/19[H]+19/24[H]+20/23[A]",
+        "averageBallPossession": "52/48[A]+41/59[A]+68/32[H]+69/31[A]+58/42[H]+56/44[A]+47/53[A]+49/51[A]+67/33[A]+45/55[H]+63/37[H]+74/26[A]",
+        "teams": "Hajduk,Lokomotiva,Away+Hajduk,Dinamo,Away+Hajduk,Varaždin,Home+Hajduk,Rijeka,Away+Hajduk,Osijek,Home+Hajduk,Slaven,Away+Hajduk,Gorica,Away+Hajduk,Istra,Away+Hajduk,Vukovar '91,Away+Hajduk,Lokomotiva,Home+Hajduk,Dinamo,Home+Hajduk,Varaždin,Away",
+        "tackles": "23/11[A]+17/13[A]+13/17[H]+16/18[A]+17/16[H]+14/14[A]+18/19[A]+23/17[A]+13/17[A]+19/13[H]+14/19[H]+10/33[A]",
+        "interceptions": "12/7[A]+13/5[A]+6/9[H]+4/8[A]+9/7[H]+4/5[A]+4/6[A]+8/10[A]+8/11[A]+12/5[H]+10/9[H]+4/11[A]",
+        "aerialDuels": "9/10[A]+10/15[A]+8/10[H]+8/8[A]+20/14[H]+16/15[A]+21/7[A]+22/17[A]+28/11[A]+11/10[H]+17/14[H]+14/10[A]",
+        "aerialDuelsAttempted": "19/19[A]+25/25[A]+18/18[H]+16/16[A]+34/34[H]+31/31[A]+28/28[A]+39/39[A]+39/39[A]+21/21[H]+31/31[H]+24/24[A]",
+        "dribbles": "6/8[A]+4/6[A]+1/6[H]+7/3[A]+7/0[H]+9/5[A]+11/4[A]+13/8[A]+12/9[A]+6/10[H]+4/9[H]+4/8[A]",
+        "dribblesAttempted": "13/20[A]+10/9[A]+8/13[H]+11/11[A]+17/7[H]+18/11[A]+16/13[A]+26/23[A]+17/16[A]+13/17[H]+14/14[H]+19/12[A]",
+        "isHome": "false+false+true+false+true+false+false+false+false+true+true+false",
+        "cornersTotals": "65/47",
+        "cornersTotalsHome": "25/15",
+        "cornersTotalsAway": "40/32",
+        "cornersAverage": "5.42/3.92",
+        "cornersAverageHome": "6.25/3.75",
+        "cornersAverageAway": "5.00/4.00",
+        "foulsTotals": "157/187",
+        "foulsTotalsHome": "51/66",
+        "foulsTotalsAway": "106/121",
+        "foulsAverage": "13.08/15.58",
+        "foulsAverageHome": "12.75/16.50",
+        "foulsAverageAway": "13.25/15.13",
+        "goalKicksTotals": "77/106",
+        "goalKicksTotalsHome": "22/36",
+        "goalKicksTotalsAway": "55/70",
+        "goalKicksAverage": "6.42/8.83",
+        "goalKicksAverageHome": "5.50/9.00",
+        "goalKicksAverageAway": "6.88/8.75",
+        "savesTotals": "20/38",
+        "savesTotalsHome": "5/15",
+        "savesTotalsAway": "15/23",
+        "savesAverage": "1.67/3.17",
+        "savesAverageHome": "1.25/3.75",
+        "savesAverageAway": "1.88/2.88",
+        "offsidesTotals": "27/19",
+        "offsidesTotalsHome": "10/7",
+        "offsidesTotalsAway": "17/12",
+        "offsidesAverage": "2.25/1.58",
+        "offsidesAverageHome": "2.50/1.75",
+        "offsidesAverageAway": "2.13/1.50",
+        "shotsOnTargetTotals": "54/32",
+        "shotsOnTargetTotalsHome": "20/8",
+        "shotsOnTargetTotalsAway": "34/24",
+        "shotsOnTargetAverage": "4.50/2.67",
+        "shotsOnTargetAverageHome": "5.00/2.00",
+        "shotsOnTargetAverageAway": "4.25/3.00",
+        "yellowCardsTotals": "29/34",
+        "yellowCardsTotalsHome": "6/13",
+        "yellowCardsTotalsAway": "23/21",
+        "yellowCardsAverage": "2.42/2.83",
+        "yellowCardsAverageHome": "1.50/3.25",
+        "yellowCardsAverageAway": "2.88/2.63",
+        "goalsTotals": "16/13",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "11/10",
+        "goalsAverage": "1.33/1.08",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "1.38/1.25",
+        "throwInsTotals": "245/282",
+        "throwInsTotalsHome": "82/74",
+        "throwInsTotalsAway": "163/208",
+        "throwInsAverage": "20.42/23.50",
+        "throwInsAverageHome": "20.50/18.50",
+        "throwInsAverageAway": "20.38/26.00",
+        "averageBallPossessionTotals": "689/511",
+        "averageBallPossessionTotalsHome": "234/166",
+        "averageBallPossessionTotalsAway": "455/345",
+        "averageBallPossessionAverage": "57.42/42.58",
+        "averageBallPossessionAverageHome": "58.50/41.50",
+        "averageBallPossessionAverageAway": "56.88/43.13",
+        "tacklesTotals": "197/207",
+        "tacklesTotalsHome": "63/65",
+        "tacklesTotalsAway": "134/142",
+        "tacklesAverage": "16.42/17.25",
+        "tacklesAverageHome": "15.75/16.25",
+        "tacklesAverageAway": "16.75/17.75",
+        "interceptionsTotals": "94/93",
+        "interceptionsTotalsHome": "37/30",
+        "interceptionsTotalsAway": "57/63",
+        "interceptionsAverage": "7.83/7.75",
+        "interceptionsAverageHome": "9.25/7.50",
+        "interceptionsAverageAway": "7.13/7.88",
+        "aerialDuelsTotals": "184/141",
+        "aerialDuelsTotalsHome": "56/48",
+        "aerialDuelsTotalsAway": "128/93",
+        "aerialDuelsAverage": "15.33/11.75",
+        "aerialDuelsAverageHome": "14.00/12.00",
+        "aerialDuelsAverageAway": "16.00/11.63",
+        "aerialDuelsAttemptedTotals": "325/325",
+        "aerialDuelsAttemptedTotalsHome": "104/104",
+        "aerialDuelsAttemptedTotalsAway": "221/221",
+        "aerialDuelsAttemptedAverage": "27.08/27.08",
+        "aerialDuelsAttemptedAverageHome": "26.00/26.00",
+        "aerialDuelsAttemptedAverageAway": "27.63/27.63",
+        "dribblesTotals": "84/76",
+        "dribblesTotalsHome": "18/25",
+        "dribblesTotalsAway": "66/51",
+        "dribblesAverage": "7.00/6.33",
+        "dribblesAverageHome": "4.50/6.25",
+        "dribblesAverageAway": "8.25/6.38",
+        "dribblesAttemptedTotals": "182/166",
+        "dribblesAttemptedTotalsHome": "52/51",
+        "dribblesAttemptedTotalsAway": "130/115",
+        "dribblesAttemptedAverage": "15.17/13.83",
+        "dribblesAttemptedAverageHome": "13.00/12.75",
+        "dribblesAttemptedAverageAway": "16.25/14.38"
+    }
+}

@@ -1,0 +1,687 @@
+{
+    "globalStatistics": {
+        "corners": "5.76",
+        "fouls": "11.71",
+        "goalKicks": "7.29",
+        "saves": "2.24",
+        "offsides": "1.41",
+        "shotsOnTarget": "5.24/3.06",
+        "yellowCards": "2.29/2.35",
+        "goals": "2.00/0.76",
+        "throwIns": "24.41",
+        "ballPossession": 52.882352941176,
+        "tackles": "18.88/16.18",
+        "interceptions": "8.82/8.88",
+        "aerialDuels": "24.94",
+        "aerialDuelsAttempted": "47.29",
+        "dribbles": "5.94/7.71",
+        "dribblesAttempted": "14.00/16.59"
+    },
+    "teamSlug": "heart-of-midlothian",
+    "teamId": "2353",
+    "teamName": "Heart of Midlothian",
+    "tournament": "Scottish Premiership",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-heart-of-midlothian/dXsnX#id:14035233,tab:statistics",
+            "teams": [
+                "Falkirk",
+                "Hearts"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2363",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-celtic/cXsdX#id:14035210,tab:statistics",
+            "teams": [
+                "Celtic",
+                "Hearts"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2352",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-kilmarnock/XWsdX#id:14035206,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Kilmarnock"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2353",
+                "2347"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-motherwell/WWsdX#id:14035200,tab:statistics",
+            "teams": [
+                "Motherwell",
+                "Hearts"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2346",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aberdeen-heart-of-midlothian/dXsfX#id:14035189,tab:statistics",
+            "teams": [
+                "Aberdeen",
+                "Hearts"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2355",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-dundee-united/ZWsdX#id:14035190,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Dundee Utd"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2353",
+                "2349"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-heart-of-midlothian/dXshX#id:14035179,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Dundee"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2353",
+                "2357"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/st-mirren-heart-of-midlothian/dXsjX#id:14035173,tab:statistics",
+            "teams": [
+                "St Mirren",
+                "Hearts"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2359",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-celtic/cXsdX#id:14035177,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Celtic"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2353",
+                "2352"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-kilmarnock/XWsdX#id:14035162,tab:statistics",
+            "teams": [
+                "Kilmarnock",
+                "Hearts"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2347",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hibernian-heart-of-midlothian/dXseX#id:14035158,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Hibernian"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2353",
+                "2354"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/falkirk-fc-heart-of-midlothian/dXsnX#id:14035150,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Falkirk"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2353",
+                "2363"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-rangers/bXsdX#id:14035148,tab:statistics",
+            "teams": [
+                "Rangers",
+                "Hearts"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2351",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/livingston-heart-of-midlothian/dXsgX#id:14035128,tab:statistics",
+            "teams": [
+                "Livingston",
+                "Hearts"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2356",
+                "2353"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/heart-of-midlothian-motherwell/WWsdX#id:14035123,tab:statistics",
+            "teams": [
+                "Hearts",
+                "Motherwell"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "2353",
+                "2346"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 7,
+    "awayMatchCount": 8,
+    "matchStatistics": [
+        {
+            "corners": "7/3[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "0/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "34/25[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Hearts,Falkirk,Away",
+            "tackles": "18/22[A]",
+            "interceptions": "15/13[A]",
+            "aerialDuels": "21/20[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "23/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "14/3[A]",
+            "saves": "4/1[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "19/24[A]",
+            "averageBallPossession": "28/72[A]",
+            "teams": "Hearts,Celtic,Away",
+            "tackles": "19/19[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "17/21[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "1/5[A]",
+            "dribblesAttempted": "12/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/1[H]",
+            "fouls": "4/11[H]",
+            "goalKicks": "8/12[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/23[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Hearts,Kilmarnock,Home",
+            "tackles": "21/12[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "29/31[H]",
+            "aerialDuelsAttempted": "60/60[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "13/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "14/4[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "5/0[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "16/22[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Hearts,Motherwell,Away",
+            "tackles": "16/22[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "15/17[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "8/13[A]",
+            "dribblesAttempted": "19/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "15/20[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "18/24[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Hearts,Aberdeen,Away",
+            "tackles": "28/22[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "25/16[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "7/12[A]",
+            "dribblesAttempted": "19/29[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "18/15[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "30/19[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Hearts,Dundee Utd,Home",
+            "tackles": "17/17[H]",
+            "interceptions": "9/17[H]",
+            "aerialDuels": "25/23[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "2/10[H]",
+            "dribblesAttempted": "11/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "8/17[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "0/6[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "10/0[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "25/26[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Hearts,Dundee,Home",
+            "tackles": "9/5[H]",
+            "interceptions": "4/4[H]",
+            "aerialDuels": "22/19[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "7/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/6[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "4/6[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "21/16[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Hearts,St Mirren,Away",
+            "tackles": "14/13[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "38/31[A]",
+            "aerialDuelsAttempted": "69/69[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/9[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "10/5[H]",
+            "saves": "2/5[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "25/17[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Hearts,Celtic,Home",
+            "tackles": "16/12[H]",
+            "interceptions": "9/13[H]",
+            "aerialDuels": "23/29[H]",
+            "aerialDuelsAttempted": "52/52[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "14/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "3/0[A]",
+            "throwIns": "23/24[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Hearts,Kilmarnock,Away",
+            "tackles": "25/18[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "24/29[A]",
+            "aerialDuelsAttempted": "53/53[A]",
+            "dribbles": "0/3[A]",
+            "dribblesAttempted": "9/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "31/31[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Hearts,Hibernian,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "24/26[H]",
+            "aerialDuelsAttempted": "50/50[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "9/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[H]",
+            "fouls": "7/11[H]",
+            "goalKicks": "3/10[H]",
+            "saves": "3/7[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "10/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "23/23[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Hearts,Falkirk,Home",
+            "tackles": "26/18[H]",
+            "interceptions": "8/3[H]",
+            "aerialDuels": "21/18[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "9/9[H]",
+            "dribblesAttempted": "18/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "18/25[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Hearts,Rangers,Away",
+            "tackles": "19/10[A]",
+            "interceptions": "12/12[A]",
+            "aerialDuels": "20/16[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "6/14[A]",
+            "dribblesAttempted": "11/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "16/16[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "2/7[A]",
+            "goals": "2/1[A]",
+            "throwIns": "34/8[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Hearts,Livingston,Away",
+            "tackles": "17/17[A]",
+            "interceptions": "7/9[A]",
+            "aerialDuels": "36/24[A]",
+            "aerialDuelsAttempted": "60/60[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "12/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "14/19[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "0/6[H]",
+            "offsides": "1/5[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "3/3[H]",
+            "throwIns": "25/28[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Hearts,Motherwell,Home",
+            "tackles": "23/15[H]",
+            "interceptions": "15/7[H]",
+            "aerialDuels": "32/19[H]",
+            "aerialDuelsAttempted": "51/51[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "13/20[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "7/3[A]+3/5[A]+9/1[H]+4/3[A]+3/6[A]+4/3[H]+6/2[H]+7/6[A]+5/9[H]+5/4[A]+4/2[H]+9/5[H]+2/9[A]+9/5[A]+9/3[H]",
+        "fouls": "9/11[A]+11/9[A]+4/11[H]+14/4[A]+15/20[A]+18/15[H]+8/17[H]+11/9[A]+11/10[H]+12/16[A]+10/10[H]+7/11[H]+9/13[A]+16/16[A]+14/19[H]",
+        "goalKicks": "7/10[A]+14/3[A]+8/12[H]+12/6[A]+8/10[A]+5/10[H]+6/8[H]+8/6[A]+10/5[H]+5/9[A]+5/6[H]+3/10[H]+7/9[A]+10/9[A]+5/8[H]",
+        "saves": "0/3[A]+4/1[A]+4/2[H]+5/0[A]+1/4[A]+2/2[H]+0/6[H]+4/6[A]+2/5[H]+2/2[A]+1/2[H]+3/7[H]+5/2[A]+1/1[A]+0/6[H]",
+        "offsides": "0/1[A]+4/0[A]+1/1[H]+1/3[A]+3/0[A]+0/4[H]+2/1[H]+2/3[A]+1/3[H]+1/0[A]+2/3[H]+0/0[H]+1/1[A]+1/2[A]+1/5[H]",
+        "shotsOnTarget": "5/1[A]+3/5[A]+3/5[H]+1/5[A]+4/2[A]+2/3[H]+10/0[H]+8/6[A]+7/2[H]+5/2[A]+3/1[H]+10/3[H]+5/6[A]+3/2[A]+9/3[H]",
+        "yellowCards": "2/2[A]+3/1[A]+1/2[H]+4/2[A]+4/3[A]+2/4[H]+0/2[H]+2/2[A]+4/1[H]+2/3[A]+2/1[H]+0/1[H]+1/2[A]+2/7[A]+3/2[H]",
+        "goals": "2/0[A]+2/1[A]+1/1[H]+0/0[A]+0/1[A]+1/1[H]+4/0[H]+2/2[A]+3/1[H]+3/0[A]+1/0[H]+3/0[H]+2/0[A]+2/1[A]+3/3[H]",
+        "throwIns": "34/25[A]+19/24[A]+19/23[H]+16/22[A]+18/24[A]+30/19[H]+25/26[H]+21/16[A]+25/17[H]+23/24[A]+31/31[H]+23/23[H]+18/25[A]+34/8[A]+25/28[H]",
+        "averageBallPossession": "53/47[A]+28/72[A]+65/35[H]+45/55[A]+60/40[A]+63/37[H]+67/33[H]+52/48[A]+35/65[H]+59/41[A]+62/38[H]+48/52[H]+33/67[A]+60/40[A]+49/51[H]",
+        "teams": "Hearts,Falkirk,Away+Hearts,Celtic,Away+Hearts,Kilmarnock,Home+Hearts,Motherwell,Away+Hearts,Aberdeen,Away+Hearts,Dundee Utd,Home+Hearts,Dundee,Home+Hearts,St Mirren,Away+Hearts,Celtic,Home+Hearts,Kilmarnock,Away+Hearts,Hibernian,Home+Hearts,Falkirk,Home+Hearts,Rangers,Away+Hearts,Livingston,Away+Hearts,Motherwell,Home",
+        "tackles": "18/22[A]+19/19[A]+21/12[H]+16/22[A]+28/22[A]+17/17[H]+9/5[H]+14/13[A]+16/12[H]+25/18[A]+11/15[H]+26/18[H]+19/10[A]+17/17[A]+23/15[H]",
+        "interceptions": "15/13[A]+11/11[A]+5/12[H]+7/12[A]+8/9[A]+9/17[H]+4/4[H]+12/5[A]+9/13[H]+5/8[A]+5/5[H]+8/3[H]+12/12[A]+7/9[A]+15/7[H]",
+        "aerialDuels": "21/20[A]+17/21[A]+29/31[H]+15/17[A]+25/16[A]+25/23[H]+22/19[H]+38/31[A]+23/29[H]+24/29[A]+24/26[H]+21/18[H]+20/16[A]+36/24[A]+32/19[H]",
+        "aerialDuelsAttempted": "41/41[A]+38/38[A]+60/60[H]+32/32[A]+41/41[A]+48/48[H]+41/41[H]+69/69[A]+52/52[H]+53/53[A]+50/50[H]+39/39[H]+36/36[A]+60/60[A]+51/51[H]",
+        "dribbles": "8/8[A]+1/5[A]+6/4[H]+8/13[A]+7/12[A]+2/10[H]+5/6[H]+6/4[A]+8/6[H]+0/3[A]+5/3[H]+9/9[H]+6/14[A]+6/6[A]+7/10[H]",
+        "dribblesAttempted": "23/17[A]+12/14[A]+13/13[H]+19/22[A]+19/29[A]+11/19[H]+7/10[H]+11/11[A]+14/12[H]+9/11[A]+9/8[H]+18/22[H]+11/24[A]+12/11[A]+13/20[H]",
+        "isHome": "false+false+true+false+false+true+true+false+true+false+true+true+false+false+true",
+        "cornersTotals": "86/66",
+        "cornersTotalsHome": "46/25",
+        "cornersTotalsAway": "40/41",
+        "cornersAverage": "5.73/4.40",
+        "cornersAverageHome": "6.57/3.57",
+        "cornersAverageAway": "5.00/5.13",
+        "foulsTotals": "169/191",
+        "foulsTotalsHome": "72/93",
+        "foulsTotalsAway": "97/98",
+        "foulsAverage": "11.27/12.73",
+        "foulsAverageHome": "10.29/13.29",
+        "foulsAverageAway": "12.13/12.25",
+        "goalKicksTotals": "113/121",
+        "goalKicksTotalsHome": "42/59",
+        "goalKicksTotalsAway": "71/62",
+        "goalKicksAverage": "7.53/8.07",
+        "goalKicksAverageHome": "6.00/8.43",
+        "goalKicksAverageAway": "8.88/7.75",
+        "savesTotals": "34/49",
+        "savesTotalsHome": "12/30",
+        "savesTotalsAway": "22/19",
+        "savesAverage": "2.27/3.27",
+        "savesAverageHome": "1.71/4.29",
+        "savesAverageAway": "2.75/2.38",
+        "offsidesTotals": "20/27",
+        "offsidesTotalsHome": "7/17",
+        "offsidesTotalsAway": "13/10",
+        "offsidesAverage": "1.33/1.80",
+        "offsidesAverageHome": "1.00/2.43",
+        "offsidesAverageAway": "1.63/1.25",
+        "shotsOnTargetTotals": "78/46",
+        "shotsOnTargetTotalsHome": "44/17",
+        "shotsOnTargetTotalsAway": "34/29",
+        "shotsOnTargetAverage": "5.20/3.07",
+        "shotsOnTargetAverageHome": "6.29/2.43",
+        "shotsOnTargetAverageAway": "4.25/3.63",
+        "yellowCardsTotals": "32/35",
+        "yellowCardsTotalsHome": "12/13",
+        "yellowCardsTotalsAway": "20/22",
+        "yellowCardsAverage": "2.13/2.33",
+        "yellowCardsAverageHome": "1.71/1.86",
+        "yellowCardsAverageAway": "2.50/2.75",
+        "goalsTotals": "29/11",
+        "goalsTotalsHome": "16/6",
+        "goalsTotalsAway": "13/5",
+        "goalsAverage": "1.93/0.73",
+        "goalsAverageHome": "2.29/0.86",
+        "goalsAverageAway": "1.63/0.63",
+        "throwInsTotals": "361/335",
+        "throwInsTotalsHome": "178/167",
+        "throwInsTotalsAway": "183/168",
+        "throwInsAverage": "24.07/22.33",
+        "throwInsAverageHome": "25.43/23.86",
+        "throwInsAverageAway": "22.88/21.00",
+        "averageBallPossessionTotals": "779/721",
+        "averageBallPossessionTotalsHome": "389/311",
+        "averageBallPossessionTotalsAway": "390/410",
+        "averageBallPossessionAverage": "51.93/48.07",
+        "averageBallPossessionAverageHome": "55.57/44.43",
+        "averageBallPossessionAverageAway": "48.75/51.25",
+        "tacklesTotals": "279/237",
+        "tacklesTotalsHome": "123/94",
+        "tacklesTotalsAway": "156/143",
+        "tacklesAverage": "18.60/15.80",
+        "tacklesAverageHome": "17.57/13.43",
+        "tacklesAverageAway": "19.50/17.88",
+        "interceptionsTotals": "132/140",
+        "interceptionsTotalsHome": "55/61",
+        "interceptionsTotalsAway": "77/79",
+        "interceptionsAverage": "8.80/9.33",
+        "interceptionsAverageHome": "7.86/8.71",
+        "interceptionsAverageAway": "9.63/9.88",
+        "aerialDuelsTotals": "372/339",
+        "aerialDuelsTotalsHome": "176/165",
+        "aerialDuelsTotalsAway": "196/174",
+        "aerialDuelsAverage": "24.80/22.60",
+        "aerialDuelsAverageHome": "25.14/23.57",
+        "aerialDuelsAverageAway": "24.50/21.75",
+        "aerialDuelsAttemptedTotals": "711/711",
+        "aerialDuelsAttemptedTotalsHome": "341/341",
+        "aerialDuelsAttemptedTotalsAway": "370/370",
+        "aerialDuelsAttemptedAverage": "47.40/47.40",
+        "aerialDuelsAttemptedAverageHome": "48.71/48.71",
+        "aerialDuelsAttemptedAverageAway": "46.25/46.25",
+        "dribblesTotals": "84/113",
+        "dribblesTotalsHome": "42/48",
+        "dribblesTotalsAway": "42/65",
+        "dribblesAverage": "5.60/7.53",
+        "dribblesAverageHome": "6.00/6.86",
+        "dribblesAverageAway": "5.25/8.13",
+        "dribblesAttemptedTotals": "201/243",
+        "dribblesAttemptedTotalsHome": "85/104",
+        "dribblesAttemptedTotalsAway": "116/139",
+        "dribblesAttemptedAverage": "13.40/16.20",
+        "dribblesAttemptedAverageHome": "12.14/14.86",
+        "dribblesAttemptedAverageAway": "14.50/17.38"
+    }
+}

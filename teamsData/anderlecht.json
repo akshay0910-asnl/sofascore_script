@@ -1,0 +1,651 @@
+{
+    "globalStatistics": {
+        "corners": "6.39",
+        "fouls": "13.61",
+        "goalKicks": "7.67",
+        "saves": "2.22",
+        "offsides": "1.78",
+        "shotsOnTarget": "5.00/3.39",
+        "yellowCards": "2.56/2.50",
+        "goals": "1.39/1.00",
+        "throwIns": "21.00",
+        "ballPossession": 53.111111111111,
+        "tackles": "18.17/18.33",
+        "interceptions": "8.17/10.33",
+        "aerialDuels": "13.00",
+        "aerialDuelsAttempted": "28.11",
+        "dribbles": "7.67/7.28",
+        "dribblesAttempted": "16.72/17.00"
+    },
+    "teamSlug": "anderlecht",
+    "teamId": "2900",
+    "teamName": "RSC Anderlecht",
+    "tournament": "Pro League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-sint-truidense-vv/Vhbsaib#id:14035962,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "St. Truidense"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2900",
+                "2895"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-kvc-westerlo/Thbsaib#id:14032421,tab:statistics",
+            "teams": [
+                "Westerlo",
+                "Anderlecht"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2893",
+                "2900"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/royale-union-saint-gilloise-rsc-anderlecht/aibskXb#id:14035955,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "USG"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2900",
+                "4860"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/raal-la-louviere-rsc-anderlecht/aibsgvXc#id:14035941,tab:statistics",
+            "teams": [
+                "La Louvière",
+                "Anderlecht"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "368506",
+                "2900"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-club-brugge-kv/Nhbsaib#id:14035942,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Club Brugge"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2900",
+                "2888"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kv-mechelen-rsc-anderlecht/aibsUac#id:14035924,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Mechelen"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2900",
+                "5044"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-rc-sporting-charleroi/Yhbsaib#id:14035926,tab:statistics",
+            "teams": [
+                "Charleroi",
+                "Anderlecht"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2898",
+                "2900"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-sint-truidense-vv/Vhbsaib#id:14035907,tab:statistics",
+            "teams": [
+                "St. Truidense",
+                "Anderlecht"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2895",
+                "2900"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-rsc-anderlecht/aibsbib#id:14035904,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Standard Liège"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2900",
+                "2901"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-rsc-anderlecht/aibstib#id:14035892,tab:statistics",
+            "teams": [
+                "OH Leuven",
+                "Anderlecht"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2918",
+                "2900"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-rsc-anderlecht/aibsdib#id:14607824,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Gent"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2900",
+                "2903"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-royal-antwerp-fc/Ohbsaib#id:14035882,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Royal Antwerp"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2900",
+                "2889"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rsc-anderlecht-krc-genk/Phbsaib#id:14035884,tab:statistics",
+            "teams": [
+                "Anderlecht",
+                "Genk"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2900",
+                "2890"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/royale-union-saint-gilloise-rsc-anderlecht/aibskXb#id:14035875,tab:statistics",
+            "teams": [
+                "USG",
+                "Anderlechtx2"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "4860",
+                "2900"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 8,
+    "awayMatchCount": 6,
+    "matchStatistics": [
+        {
+            "corners": "6/2[H]",
+            "fouls": "11/18[H]",
+            "goalKicks": "4/10[H]",
+            "saves": "1/6[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "2/1[H]",
+            "throwIns": "20/26[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Anderlecht,St. Truidense,Home",
+            "tackles": "14/20[H]",
+            "interceptions": "16/12[H]",
+            "aerialDuels": "10/13[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "11/7[H]",
+            "dribblesAttempted": "19/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/4[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Anderlecht,Westerlo,Away",
+            "tackles": "21/25[A]",
+            "interceptions": "10/16[A]",
+            "aerialDuels": "7/12[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "11/11[A]",
+            "dribblesAttempted": "21/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "8/11[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "1/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "2/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "36/27[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Anderlecht,USG,Home",
+            "tackles": "19/26[H]",
+            "interceptions": "8/15[H]",
+            "aerialDuels": "15/18[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "27/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "13/15[A]",
+            "saves": "3/5[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "25/15[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Anderlecht,La Louvière,Away",
+            "tackles": "21/24[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "12/18[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "26/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "17/9[H]",
+            "goalKicks": "7/13[H]",
+            "saves": "3/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "5/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Anderlecht,Club Brugge,Home",
+            "tackles": "13/14[H]",
+            "interceptions": "11/1[H]",
+            "aerialDuels": "7/13[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "5/2[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/2[H]",
+            "fouls": "14/7[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "0/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "16/27[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Anderlecht,Mechelen,Home",
+            "tackles": "17/13[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "12/10[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "7/16[H]",
+            "dribblesAttempted": "14/28[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "18/8[A]",
+            "goalKicks": "3/7[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/18[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Anderlecht,Charleroi,Away",
+            "tackles": "14/11[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "10/19[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "6/12[A]",
+            "dribblesAttempted": "13/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "11/6[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "19/32[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Anderlecht,St. Truidense,Away",
+            "tackles": "24/18[A]",
+            "interceptions": "12/8[A]",
+            "aerialDuels": "16/13[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "11/13[A]",
+            "dribblesAttempted": "22/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "18/12[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "1/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Anderlecht,Standard Liège,Home",
+            "tackles": "27/20[H]",
+            "interceptions": "10/13[H]",
+            "aerialDuels": "18/20[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "10/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "7/16[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "6/1[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/1[A]",
+            "throwIns": "19/19[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Anderlecht,OH Leuven,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "3/9[A]",
+            "aerialDuels": "21/20[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "13/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "16/12[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "2/8[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/20[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Anderlecht,Gent,Home",
+            "tackles": "19/15[H]",
+            "interceptions": "10/15[H]",
+            "aerialDuels": "14/21[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "8/0[H]",
+            "dribblesAttempted": "16/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "2/1[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "23/16[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Anderlecht,Royal Antwerp,Home",
+            "tackles": "9/21[H]",
+            "interceptions": "4/16[H]",
+            "aerialDuels": "19/8[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "21/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[H]",
+            "fouls": "16/7[H]",
+            "goalKicks": "14/4[H]",
+            "saves": "2/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "11/14[H]",
+            "averageBallPossession": "30/70[H]",
+            "teams": "Anderlecht,Genk,Home",
+            "tackles": "19/9[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "16/12[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "2/3[H]",
+            "dribblesAttempted": "7/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "17/7[A]",
+            "goalKicks": "8/2[A]",
+            "saves": "3/3[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "6/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "17/16[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Anderlechtx2,USG,Away",
+            "tackles": "22/23[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "7/11[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "21/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "6/2[H]+9/5[A]+4/2[H]+7/5[A]+6/5[H]+9/2[H]+9/5[A]+6/5[A]+6/4[H]+5/2[A]+8/2[H]+8/2[H]+3/7[H]+5/5[A]",
+        "fouls": "11/18[H]+14/11[A]+8/11[H]+11/14[A]+17/9[H]+14/7[H]+18/8[A]+11/6[A]+18/12[H]+7/16[A]+16/12[H]+9/13[H]+16/7[H]+17/7[A]",
+        "goalKicks": "4/10[H]+10/6[A]+10/7[H]+13/15[A]+7/13[H]+10/7[H]+3/7[A]+9/7[A]+9/10[H]+9/9[A]+9/7[H]+5/12[H]+14/4[H]+8/2[A]",
+        "saves": "1/6[H]+4/3[A]+1/1[H]+3/5[A]+3/3[H]+0/4[H]+2/2[A]+1/2[A]+1/5[H]+6/1[A]+2/8[H]+1/2[H]+2/2[H]+3/3[A]",
+        "offsides": "3/3[H]+2/1[A]+0/0[H]+0/0[A]+2/0[H]+1/3[H]+1/1[A]+1/2[A]+1/1[H]+3/2[A]+3/0[H]+2/0[H]+3/3[H]+3/0[A]",
+        "shotsOnTarget": "9/2[H]+3/8[A]+2/1[H]+7/4[A]+3/3[H]+7/1[H]+2/3[A]+4/3[A]+6/1[H]+2/8[A]+9/2[H]+2/1[H]+3/3[H]+4/5[A]",
+        "yellowCards": "4/5[H]+2/3[A]+2/4[H]+3/2[A]+5/4[H]+1/1[H]+2/2[A]+2/1[A]+3/3[H]+3/4[A]+3/3[H]+3/2[H]+2/3[H]+6/1[A]",
+        "goals": "2/1[H]+0/4[A]+1/0[H]+1/0[A]+1/0[H]+3/1[H]+0/1[A]+2/2[A]+1/0[H]+1/1[A]+1/0[H]+0/0[H]+1/1[H]+0/2[A]",
+        "throwIns": "20/26[H]+21/20[A]+36/27[H]+25/15[A]+17/17[H]+16/27[H]+25/18[A]+19/32[A]+17/25[H]+19/19[A]+19/20[H]+23/16[H]+11/14[H]+17/16[A]",
+        "averageBallPossession": "55/45[H]+63/37[A]+40/60[H]+63/37[A]+41/59[H]+44/56[H]+61/39[A]+50/50[A]+51/49[H]+61/39[A]+54/46[H]+68/32[H]+30/70[H]+51/49[A]",
+        "teams": "Anderlecht,St. Truidense,Home+Anderlecht,Westerlo,Away+Anderlecht,USG,Home+Anderlecht,La Louvière,Away+Anderlecht,Club Brugge,Home+Anderlecht,Mechelen,Home+Anderlecht,Charleroi,Away+Anderlecht,St. Truidense,Away+Anderlecht,Standard Liège,Home+Anderlecht,OH Leuven,Away+Anderlecht,Gent,Home+Anderlecht,Royal Antwerp,Home+Anderlecht,Genk,Home+Anderlechtx2,USG,Away",
+        "tackles": "14/20[H]+21/25[A]+19/26[H]+21/24[A]+13/14[H]+17/13[H]+14/11[A]+24/18[A]+27/20[H]+10/12[A]+19/15[H]+9/21[H]+19/9[H]+22/23[A]",
+        "interceptions": "16/12[H]+10/16[A]+8/15[H]+4/5[A]+11/1[H]+5/12[H]+7/12[A]+12/8[A]+10/13[H]+3/9[A]+10/15[H]+4/16[H]+7/8[H]+7/8[A]",
+        "aerialDuels": "10/13[H]+7/12[A]+15/18[H]+12/18[A]+7/13[H]+12/10[H]+10/19[A]+16/13[A]+18/20[H]+21/20[A]+14/21[H]+19/8[H]+16/12[H]+7/11[A]",
+        "aerialDuelsAttempted": "23/23[H]+19/19[A]+33/33[H]+30/30[A]+20/20[H]+22/22[H]+29/29[A]+29/29[A]+38/38[H]+41/41[A]+35/35[H]+27/27[H]+28/28[H]+18/18[A]",
+        "dribbles": "11/7[H]+11/11[A]+11/10[H]+8/8[A]+5/2[H]+7/16[H]+6/12[A]+11/13[A]+6/5[H]+8/2[A]+8/0[H]+7/8[H]+2/3[H]+8/7[A]",
+        "dribblesAttempted": "19/12[H]+21/19[A]+27/23[H]+26/15[A]+10/9[H]+14/28[H]+13/21[A]+22/25[A]+10/21[H]+13/8[A]+16/13[H]+21/13[H]+7/11[H]+21/19[A]",
+        "isHome": "true+false+true+false+true+true+false+false+true+false+true+true+true+false",
+        "cornersTotals": "91/53",
+        "cornersTotalsHome": "50/26",
+        "cornersTotalsAway": "41/27",
+        "cornersAverage": "6.50/3.79",
+        "cornersAverageHome": "6.25/3.25",
+        "cornersAverageAway": "6.83/4.50",
+        "foulsTotals": "187/151",
+        "foulsTotalsHome": "109/89",
+        "foulsTotalsAway": "78/62",
+        "foulsAverage": "13.36/10.79",
+        "foulsAverageHome": "13.63/11.13",
+        "foulsAverageAway": "13.00/10.33",
+        "goalKicksTotals": "120/116",
+        "goalKicksTotalsHome": "68/70",
+        "goalKicksTotalsAway": "52/46",
+        "goalKicksAverage": "8.57/8.29",
+        "goalKicksAverageHome": "8.50/8.75",
+        "goalKicksAverageAway": "8.67/7.67",
+        "savesTotals": "30/47",
+        "savesTotalsHome": "11/31",
+        "savesTotalsAway": "19/16",
+        "savesAverage": "2.14/3.36",
+        "savesAverageHome": "1.38/3.88",
+        "savesAverageAway": "3.17/2.67",
+        "offsidesTotals": "25/16",
+        "offsidesTotalsHome": "15/10",
+        "offsidesTotalsAway": "10/6",
+        "offsidesAverage": "1.79/1.14",
+        "offsidesAverageHome": "1.88/1.25",
+        "offsidesAverageAway": "1.67/1.00",
+        "shotsOnTargetTotals": "63/45",
+        "shotsOnTargetTotalsHome": "41/14",
+        "shotsOnTargetTotalsAway": "22/31",
+        "shotsOnTargetAverage": "4.50/3.21",
+        "shotsOnTargetAverageHome": "5.13/1.75",
+        "shotsOnTargetAverageAway": "3.67/5.17",
+        "yellowCardsTotals": "41/38",
+        "yellowCardsTotalsHome": "23/25",
+        "yellowCardsTotalsAway": "18/13",
+        "yellowCardsAverage": "2.93/2.71",
+        "yellowCardsAverageHome": "2.88/3.13",
+        "yellowCardsAverageAway": "3.00/2.17",
+        "goalsTotals": "14/13",
+        "goalsTotalsHome": "10/3",
+        "goalsTotalsAway": "4/10",
+        "goalsAverage": "1.00/0.93",
+        "goalsAverageHome": "1.25/0.38",
+        "goalsAverageAway": "0.67/1.67",
+        "throwInsTotals": "285/292",
+        "throwInsTotalsHome": "159/172",
+        "throwInsTotalsAway": "126/120",
+        "throwInsAverage": "20.36/20.86",
+        "throwInsAverageHome": "19.88/21.50",
+        "throwInsAverageAway": "21.00/20.00",
+        "averageBallPossessionTotals": "732/668",
+        "averageBallPossessionTotalsHome": "383/417",
+        "averageBallPossessionTotalsAway": "349/251",
+        "averageBallPossessionAverage": "52.29/47.71",
+        "averageBallPossessionAverageHome": "47.88/52.13",
+        "averageBallPossessionAverageAway": "58.17/41.83",
+        "tacklesTotals": "249/251",
+        "tacklesTotalsHome": "137/138",
+        "tacklesTotalsAway": "112/113",
+        "tacklesAverage": "17.79/17.93",
+        "tacklesAverageHome": "17.13/17.25",
+        "tacklesAverageAway": "18.67/18.83",
+        "interceptionsTotals": "114/150",
+        "interceptionsTotalsHome": "71/92",
+        "interceptionsTotalsAway": "43/58",
+        "interceptionsAverage": "8.14/10.71",
+        "interceptionsAverageHome": "8.88/11.50",
+        "interceptionsAverageAway": "7.17/9.67",
+        "aerialDuelsTotals": "184/208",
+        "aerialDuelsTotalsHome": "111/115",
+        "aerialDuelsTotalsAway": "73/93",
+        "aerialDuelsAverage": "13.14/14.86",
+        "aerialDuelsAverageHome": "13.88/14.38",
+        "aerialDuelsAverageAway": "12.17/15.50",
+        "aerialDuelsAttemptedTotals": "392/392",
+        "aerialDuelsAttemptedTotalsHome": "226/226",
+        "aerialDuelsAttemptedTotalsAway": "166/166",
+        "aerialDuelsAttemptedAverage": "28.00/28.00",
+        "aerialDuelsAttemptedAverageHome": "28.25/28.25",
+        "aerialDuelsAttemptedAverageAway": "27.67/27.67",
+        "dribblesTotals": "109/104",
+        "dribblesTotalsHome": "57/51",
+        "dribblesTotalsAway": "52/53",
+        "dribblesAverage": "7.79/7.43",
+        "dribblesAverageHome": "7.13/6.38",
+        "dribblesAverageAway": "8.67/8.83",
+        "dribblesAttemptedTotals": "240/237",
+        "dribblesAttemptedTotalsHome": "124/130",
+        "dribblesAttemptedTotalsAway": "116/107",
+        "dribblesAttemptedAverage": "17.14/16.93",
+        "dribblesAttemptedAverageHome": "15.50/16.25",
+        "dribblesAttemptedAverageAway": "19.33/17.83"
+    }
+}
