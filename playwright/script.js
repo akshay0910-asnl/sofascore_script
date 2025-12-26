@@ -491,10 +491,16 @@ async function extractMatchScore(linkElement, index, teamId) {
 		let isHome;
 		if (teamIndex === 0) {
 			//result.homeMatchCount += 1;
+			if (cache[teamId].homeMatchCount > 3) {
+				return
+			}
 			cache[teamId].homeMatchCount += 1;
 			isHome = true;
 		} else if (teamIndex === 1) {
 			//result.awayMatchCount += 1;
+			if (cache[teamId].awayMatchCount > 3) {
+				return
+			}
 			cache[teamId].awayMatchCount += 1;
 			isHome = false;
 		}
