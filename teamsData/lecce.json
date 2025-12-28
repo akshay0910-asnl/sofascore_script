@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "5.53",
+        "fouls": "13.07",
+        "goalKicks": "8.47",
+        "saves": "2.93",
+        "offsides": "1.00",
+        "shotsOnTarget": "2.73/4.20",
+        "yellowCards": "1.80/1.80",
+        "goals": "0.73/1.27",
+        "throwIns": "21.20",
+        "ballPossession": 45.266666666667,
+        "tackles": "18.07/17.60",
+        "interceptions": "5.73/8.00",
+        "aerialDuels": "18.40",
+        "aerialDuelsAttempted": "35.27",
+        "dribbles": "5.13/7.07",
+        "dribblesAttempted": "14.13/15.87"
+    },
+    "teamSlug": "lecce",
+    "teamId": "2689",
+    "teamName": "Lecce",
+    "tournament": "Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/pisa-lecce/OdbsMeb#id:13981561,tab:statistics",
+            "teams": [
+                "Lecce",
+                "Pisa"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2689",
+                "2737"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cremonese-lecce/Odbslfb#id:13981563,tab:statistics",
+            "teams": [
+                "Cremonese",
+                "Lecce"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2761",
+                "2689"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/torino-lecce/OdbsWdb#id:13981546,tab:statistics",
+            "teams": [
+                "Lecce",
+                "Torino"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2689",
+                "2696"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lazio-lecce/OdbsZdb#id:13981537,tab:statistics",
+            "teams": [
+                "Lazio",
+                "Lecce"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2699",
+                "2689"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-lecce/Odbsbeb#id:13981526,tab:statistics",
+            "teams": [
+                "Lecce",
+                "Verona"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2689",
+                "2701"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fiorentina-lecce/OdbsTdb#id:13981513,tab:statistics",
+            "teams": [
+                "Fiorentina",
+                "Lecce"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2693",
+                "2689"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/napoli-lecce/Odbsoeb#id:13981509,tab:statistics",
+            "teams": [
+                "Lecce",
+                "Napoli"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2689",
+                "2714"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/udinese-lecce/OdbsVdb#id:13981493,tab:statistics",
+            "teams": [
+                "Udinese",
+                "Lecce"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2695",
+                "2689"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "12/1[H]",
+            "fouls": "17/6[H]",
+            "goalKicks": "9/12[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/0[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "21/20[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Lecce,Pisa,Home",
+            "tackles": "14/21[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "21/24[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "2/5[H]",
+            "dribblesAttempted": "13/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "24/24[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Lecce,Cremonese,Away",
+            "tackles": "19/20[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "20/12[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "14/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "16/22[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "5/0[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "13/18[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Lecce,Torino,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "2/5[H]",
+            "aerialDuels": "27/14[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "16/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "13/8[A]",
+            "goalKicks": "11/2[A]",
+            "saves": "7/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/23[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Lecce,Lazio,Away",
+            "tackles": "15/8[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "10/13[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "8/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "10/18[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "2/6[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "40/18[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Lecce,Verona,Home",
+            "tackles": "20/18[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "27/31[H]",
+            "aerialDuelsAttempted": "58/58[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "17/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "21/14[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "4/3[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "22/15[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Lecce,Fiorentina,Away",
+            "tackles": "21/11[A]",
+            "interceptions": "2/7[A]",
+            "aerialDuels": "23/23[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "9/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "10/14[H]",
+            "goalKicks": "9/3[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "20/28[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Lecce,Napoli,Home",
+            "tackles": "29/23[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "12/12[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "2/10[H]",
+            "dribblesAttempted": "10/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/4[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "23/20[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Lecce,Udinese,Away",
+            "tackles": "26/30[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "20/15[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "22/24[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "12/1[H]+5/5[A]+6/6[H]+2/8[A]+7/2[H]+4/4[A]+3/5[H]+9/4[A]",
+        "fouls": "17/6[H]+12/15[A]+16/22[H]+13/8[A]+10/18[H]+21/14[A]+10/14[H]+12/12[A]",
+        "goalKicks": "9/12[H]+7/11[A]+10/9[H]+11/2[A]+9/8[H]+9/9[A]+9/3[H]+7/9[A]",
+        "saves": "0/2[H]+2/1[A]+5/0[H]+7/2[A]+2/6[H]+4/3[A]+2/2[H]+1/1[A]",
+        "offsides": "1/3[H]+0/0[A]+1/2[H]+2/0[A]+2/2[H]+0/3[A]+1/0[H]+0/1[A]",
+        "shotsOnTarget": "3/0[H]+1/4[A]+2/6[H]+1/9[A]+6/2[H]+4/4[A]+2/3[H]+3/4[A]",
+        "yellowCards": "2/1[H]+2/1[A]+2/3[H]+1/1[A]+1/4[H]+1/4[A]+2/1[H]+2/2[A]",
+        "goals": "1/0[H]+0/2[A]+2/1[H]+0/2[A]+0/0[H]+1/0[A]+0/1[H]+2/3[A]",
+        "throwIns": "21/20[H]+24/24[A]+13/18[H]+21/23[A]+40/18[H]+22/15[A]+20/28[H]+23/20[A]",
+        "averageBallPossession": "51/49[H]+51/49[A]+48/52[H]+33/67[A]+59/41[H]+37/63[A]+41/59[H]+56/44[A]",
+        "teams": "Lecce,Pisa,Home+Lecce,Cremonese,Away+Lecce,Torino,Home+Lecce,Lazio,Away+Lecce,Verona,Home+Lecce,Fiorentina,Away+Lecce,Napoli,Home+Lecce,Udinese,Away",
+        "tackles": "14/21[H]+19/20[A]+17/19[H]+15/8[A]+20/18[H]+21/11[A]+29/23[H]+26/30[A]",
+        "interceptions": "4/6[H]+7/10[A]+2/5[H]+7/15[A]+6/10[H]+2/7[A]+9/11[H]+9/9[A]",
+        "aerialDuels": "21/24[H]+20/12[A]+27/14[H]+10/13[A]+27/31[H]+23/23[A]+12/12[H]+20/15[A]",
+        "aerialDuelsAttempted": "45/45[H]+32/32[A]+41/41[H]+23/23[A]+58/58[H]+46/46[A]+24/24[H]+35/35[A]",
+        "dribbles": "2/5[H]+5/11[A]+9/4[H]+5/7[A]+7/9[H]+3/7[A]+2/10[H]+6/8[A]",
+        "dribblesAttempted": "13/12[H]+14/22[A]+16/11[H]+8/12[A]+17/20[H]+9/17[A]+10/19[H]+22/24[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "48/35",
+        "cornersTotalsHome": "28/14",
+        "cornersTotalsAway": "20/21",
+        "cornersAverage": "6.00/4.38",
+        "cornersAverageHome": "7.00/3.50",
+        "cornersAverageAway": "5.00/5.25",
+        "foulsTotals": "111/109",
+        "foulsTotalsHome": "53/60",
+        "foulsTotalsAway": "58/49",
+        "foulsAverage": "13.88/13.63",
+        "foulsAverageHome": "13.25/15.00",
+        "foulsAverageAway": "14.50/12.25",
+        "goalKicksTotals": "71/63",
+        "goalKicksTotalsHome": "37/32",
+        "goalKicksTotalsAway": "34/31",
+        "goalKicksAverage": "8.88/7.88",
+        "goalKicksAverageHome": "9.25/8.00",
+        "goalKicksAverageAway": "8.50/7.75",
+        "savesTotals": "23/17",
+        "savesTotalsHome": "9/10",
+        "savesTotalsAway": "14/7",
+        "savesAverage": "2.88/2.13",
+        "savesAverageHome": "2.25/2.50",
+        "savesAverageAway": "3.50/1.75",
+        "offsidesTotals": "7/11",
+        "offsidesTotalsHome": "5/7",
+        "offsidesTotalsAway": "2/4",
+        "offsidesAverage": "0.88/1.38",
+        "offsidesAverageHome": "1.25/1.75",
+        "offsidesAverageAway": "0.50/1.00",
+        "shotsOnTargetTotals": "22/32",
+        "shotsOnTargetTotalsHome": "13/11",
+        "shotsOnTargetTotalsAway": "9/21",
+        "shotsOnTargetAverage": "2.75/4.00",
+        "shotsOnTargetAverageHome": "3.25/2.75",
+        "shotsOnTargetAverageAway": "2.25/5.25",
+        "yellowCardsTotals": "13/17",
+        "yellowCardsTotalsHome": "7/9",
+        "yellowCardsTotalsAway": "6/8",
+        "yellowCardsAverage": "1.63/2.13",
+        "yellowCardsAverageHome": "1.75/2.25",
+        "yellowCardsAverageAway": "1.50/2.00",
+        "goalsTotals": "6/9",
+        "goalsTotalsHome": "3/2",
+        "goalsTotalsAway": "3/7",
+        "goalsAverage": "0.75/1.13",
+        "goalsAverageHome": "0.75/0.50",
+        "goalsAverageAway": "0.75/1.75",
+        "throwInsTotals": "184/166",
+        "throwInsTotalsHome": "94/84",
+        "throwInsTotalsAway": "90/82",
+        "throwInsAverage": "23.00/20.75",
+        "throwInsAverageHome": "23.50/21.00",
+        "throwInsAverageAway": "22.50/20.50",
+        "averageBallPossessionTotals": "376/424",
+        "averageBallPossessionTotalsHome": "199/201",
+        "averageBallPossessionTotalsAway": "177/223",
+        "averageBallPossessionAverage": "47.00/53.00",
+        "averageBallPossessionAverageHome": "49.75/50.25",
+        "averageBallPossessionAverageAway": "44.25/55.75",
+        "tacklesTotals": "161/150",
+        "tacklesTotalsHome": "80/81",
+        "tacklesTotalsAway": "81/69",
+        "tacklesAverage": "20.13/18.75",
+        "tacklesAverageHome": "20.00/20.25",
+        "tacklesAverageAway": "20.25/17.25",
+        "interceptionsTotals": "46/73",
+        "interceptionsTotalsHome": "21/32",
+        "interceptionsTotalsAway": "25/41",
+        "interceptionsAverage": "5.75/9.13",
+        "interceptionsAverageHome": "5.25/8.00",
+        "interceptionsAverageAway": "6.25/10.25",
+        "aerialDuelsTotals": "160/144",
+        "aerialDuelsTotalsHome": "87/81",
+        "aerialDuelsTotalsAway": "73/63",
+        "aerialDuelsAverage": "20.00/18.00",
+        "aerialDuelsAverageHome": "21.75/20.25",
+        "aerialDuelsAverageAway": "18.25/15.75",
+        "aerialDuelsAttemptedTotals": "304/304",
+        "aerialDuelsAttemptedTotalsHome": "168/168",
+        "aerialDuelsAttemptedTotalsAway": "136/136",
+        "aerialDuelsAttemptedAverage": "38.00/38.00",
+        "aerialDuelsAttemptedAverageHome": "42.00/42.00",
+        "aerialDuelsAttemptedAverageAway": "34.00/34.00",
+        "dribblesTotals": "39/61",
+        "dribblesTotalsHome": "20/28",
+        "dribblesTotalsAway": "19/33",
+        "dribblesAverage": "4.88/7.63",
+        "dribblesAverageHome": "5.00/7.00",
+        "dribblesAverageAway": "4.75/8.25",
+        "dribblesAttemptedTotals": "109/137",
+        "dribblesAttemptedTotalsHome": "56/62",
+        "dribblesAttemptedTotalsAway": "53/75",
+        "dribblesAttemptedAverage": "13.63/17.13",
+        "dribblesAttemptedAverageHome": "14.00/15.50",
+        "dribblesAttemptedAverageAway": "13.25/18.75"
+    }
+}

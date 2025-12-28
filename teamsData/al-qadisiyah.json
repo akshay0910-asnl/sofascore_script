@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "6.67",
+        "fouls": "11.56",
+        "goalKicks": "7.33",
+        "saves": "2.33",
+        "offsides": "1.89",
+        "shotsOnTarget": "4.22/3.33",
+        "yellowCards": "1.33/2.44",
+        "goals": "1.78/1.00",
+        "throwIns": "15.78",
+        "ballPossession": 56.666666666667,
+        "tackles": "15.22/14.11",
+        "interceptions": "7.89/9.67",
+        "aerialDuels": "10.22",
+        "aerialDuelsAttempted": "21.44",
+        "dribbles": "8.00/5.00",
+        "dribblesAttempted": "15.44/13.00"
+    },
+    "teamSlug": "al-qadisiyah",
+    "teamId": "56027",
+    "teamName": "Al-Qadsiah",
+    "tournament": "Saudi Pro League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/al-qadsiah-al-ahli/uOnsCvx#id:14771895,tab:statistics",
+            "teams": [
+                "Al-Ahli",
+                "Al-Qadsiah"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "34469",
+                "56027"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-kholood-al-qadsiah/CvxsZIhc#id:14771896,tab:statistics",
+            "teams": [
+                "Al-Qadsiah",
+                "Al-Kholood"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "56027",
+                "269199"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-qadsiah-al-taawoun/wvxsCvx#id:14771800,tab:statistics",
+            "teams": [
+                "Al-Taawoun",
+                "Al-Qadsiah"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "56021",
+                "56027"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-okhdood-al-qadsiah/CvxsgEJc#id:14429578,tab:statistics",
+            "teams": [
+                "Al-Qadsiah",
+                "Al-Okhdood"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "56027",
+                "336456"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/neom-sc-al-qadsiah/CvxsGmme#id:14429570,tab:statistics",
+            "teams": [
+                "Neom SC",
+                "Al-Qadsiah"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "530631",
+                "56027"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-qadsiah-al-fateh/yvxsCvx#id:14429561,tab:statistics",
+            "teams": [
+                "Al-Fateh",
+                "Al-Qadsiah"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "56023",
+                "56027"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-khaleej-al-qadsiah/CvxsDUqb#id:14429550,tab:statistics",
+            "teams": [
+                "Al-Qadsiah",
+                "Al-Khaleej"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "56027",
+                "167228"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-najma-sc-al-qadsiah/CvxsGqid#id:14429535,tab:statistics",
+            "teams": [
+                "Al-Qadsiah",
+                "Al-Najma"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "56027",
+                "395831"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "10/0[A]",
+            "fouls": "8/14[A]",
+            "goalKicks": "4/14[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "15/20[A]",
+            "averageBallPossession": "71/29[A]",
+            "teams": "Al-Qadsiah,Al-Ahli,Away",
+            "tackles": "16/13[A]",
+            "interceptions": "7/3[A]",
+            "aerialDuels": "11/15[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "16/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "16/6[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/6[H]",
+            "shotsOnTarget": "6/0[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "17/24[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Al-Qadsiah,Al-Kholood,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "14/16[H]",
+            "aerialDuels": "6/6[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/2[A]",
+            "fouls": "8/4[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "2/3[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/14[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Al-Qadsiah,Al-Taawoun,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "12/7[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "12/5[A]",
+            "dribblesAttempted": "19/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "16/7[H]",
+            "goalKicks": "1/13[H]",
+            "saves": "0/2[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "2/0[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "26/15[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Al-Qadsiah,Al-Okhdood,Home",
+            "tackles": "11/14[H]",
+            "interceptions": "14/7[H]",
+            "aerialDuels": "5/19[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "15/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "3/1[A]",
+            "throwIns": "16/8[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Al-Qadsiah,Neom SC,Away",
+            "tackles": "21/18[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "15/7[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "11/4[A]",
+            "dribblesAttempted": "21/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "16/16[A]",
+            "goalKicks": "11/6[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "9/15[A]",
+            "averageBallPossession": "65/35[A]",
+            "teams": "Al-Qadsiah,Al-Fateh,Away",
+            "tackles": "15/6[A]",
+            "interceptions": "2/6[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "8/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "7/8[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "0/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "13/11[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Al-Qadsiah,Al-Khaleej,Home",
+            "tackles": "12/21[H]",
+            "interceptions": "4/13[H]",
+            "aerialDuels": "13/10[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "20/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/1[H]",
+            "fouls": "9/7[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "3/5[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "19/15[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Al-Qadsiah,Al-Najma,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "8/7[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "10/0[A]+7/5[H]+10/2[A]+8/1[H]+3/4[A]+3/5[A]+6/6[H]+10/1[H]",
+        "fouls": "8/14[A]+16/6[H]+8/4[A]+16/7[H]+13/10[A]+16/16[A]+7/8[H]+9/7[H]",
+        "goalKicks": "4/14[A]+7/9[H]+4/10[A]+1/13[H]+11/7[A]+11/6[A]+9/9[H]+6/7[H]",
+        "saves": "2/2[A]+0/2[H]+2/3[A]+0/2[H]+4/3[A]+2/3[A]+0/2[H]+3/5[H]",
+        "offsides": "2/1[A]+1/6[H]+3/1[A]+3/1[H]+2/3[A]+1/2[A]+2/3[H]+1/2[H]",
+        "shotsOnTarget": "3/4[A]+6/0[H]+3/4[A]+2/0[H]+6/5[A]+4/2[A]+4/1[H]+8/4[H]",
+        "yellowCards": "1/3[A]+0/2[H]+1/1[A]+2/3[H]+2/5[A]+5/3[A]+0/2[H]+0/2[H]",
+        "goals": "1/2[A]+4/0[H]+0/2[A]+0/0[H]+3/1[A]+1/0[A]+2/1[H]+3/1[H]",
+        "throwIns": "15/20[A]+17/24[H]+21/14[A]+26/15[H]+16/8[A]+9/15[A]+13/11[H]+19/15[H]",
+        "averageBallPossession": "71/29[A]+56/44[H]+57/43[A]+63/37[H]+43/57[A]+65/35[A]+57/43[H]+53/47[H]",
+        "teams": "Al-Qadsiah,Al-Ahli,Away+Al-Qadsiah,Al-Kholood,Home+Al-Qadsiah,Al-Taawoun,Away+Al-Qadsiah,Al-Okhdood,Home+Al-Qadsiah,Neom SC,Away+Al-Qadsiah,Al-Fateh,Away+Al-Qadsiah,Al-Khaleej,Home+Al-Qadsiah,Al-Najma,Home",
+        "tackles": "16/13[A]+22/18[H]+15/16[A]+11/14[H]+21/18[A]+15/6[A]+12/21[H]+13/12[H]",
+        "interceptions": "7/3[A]+14/16[H]+9/9[A]+14/7[H]+6/10[A]+2/6[A]+4/13[H]+4/8[H]",
+        "aerialDuels": "11/15[A]+6/6[H]+12/7[A]+5/19[H]+15/7[A]+8/10[A]+13/10[H]+8/7[H]",
+        "aerialDuelsAttempted": "26/26[A]+12/12[H]+19/19[A]+24/24[H]+22/22[A]+18/18[A]+23/23[H]+15/15[H]",
+        "dribbles": "9/5[A]+9/5[H]+12/5[A]+10/9[H]+11/4[A]+7/5[A]+7/4[H]+4/3[H]",
+        "dribblesAttempted": "16/14[A]+20/12[H]+19/15[A]+15/15[H]+21/12[A]+8/14[A]+20/11[H]+11/12[H]",
+        "isHome": "false+true+false+true+false+false+true+true",
+        "cornersTotals": "57/24",
+        "cornersTotalsHome": "31/13",
+        "cornersTotalsAway": "26/11",
+        "cornersAverage": "7.13/3.00",
+        "cornersAverageHome": "7.75/3.25",
+        "cornersAverageAway": "6.50/2.75",
+        "foulsTotals": "93/72",
+        "foulsTotalsHome": "48/28",
+        "foulsTotalsAway": "45/44",
+        "foulsAverage": "11.63/9.00",
+        "foulsAverageHome": "12.00/7.00",
+        "foulsAverageAway": "11.25/11.00",
+        "goalKicksTotals": "53/75",
+        "goalKicksTotalsHome": "23/38",
+        "goalKicksTotalsAway": "30/37",
+        "goalKicksAverage": "6.63/9.38",
+        "goalKicksAverageHome": "5.75/9.50",
+        "goalKicksAverageAway": "7.50/9.25",
+        "savesTotals": "13/22",
+        "savesTotalsHome": "3/11",
+        "savesTotalsAway": "10/11",
+        "savesAverage": "1.63/2.75",
+        "savesAverageHome": "0.75/2.75",
+        "savesAverageAway": "2.50/2.75",
+        "offsidesTotals": "15/19",
+        "offsidesTotalsHome": "7/12",
+        "offsidesTotalsAway": "8/7",
+        "offsidesAverage": "1.88/2.38",
+        "offsidesAverageHome": "1.75/3.00",
+        "offsidesAverageAway": "2.00/1.75",
+        "shotsOnTargetTotals": "36/20",
+        "shotsOnTargetTotalsHome": "20/5",
+        "shotsOnTargetTotalsAway": "16/15",
+        "shotsOnTargetAverage": "4.50/2.50",
+        "shotsOnTargetAverageHome": "5.00/1.25",
+        "shotsOnTargetAverageAway": "4.00/3.75",
+        "yellowCardsTotals": "11/21",
+        "yellowCardsTotalsHome": "2/9",
+        "yellowCardsTotalsAway": "9/12",
+        "yellowCardsAverage": "1.38/2.63",
+        "yellowCardsAverageHome": "0.50/2.25",
+        "yellowCardsAverageAway": "2.25/3.00",
+        "goalsTotals": "14/7",
+        "goalsTotalsHome": "9/2",
+        "goalsTotalsAway": "5/5",
+        "goalsAverage": "1.75/0.88",
+        "goalsAverageHome": "2.25/0.50",
+        "goalsAverageAway": "1.25/1.25",
+        "throwInsTotals": "136/122",
+        "throwInsTotalsHome": "75/65",
+        "throwInsTotalsAway": "61/57",
+        "throwInsAverage": "17.00/15.25",
+        "throwInsAverageHome": "18.75/16.25",
+        "throwInsAverageAway": "15.25/14.25",
+        "averageBallPossessionTotals": "465/335",
+        "averageBallPossessionTotalsHome": "229/171",
+        "averageBallPossessionTotalsAway": "236/164",
+        "averageBallPossessionAverage": "58.13/41.88",
+        "averageBallPossessionAverageHome": "57.25/42.75",
+        "averageBallPossessionAverageAway": "59.00/41.00",
+        "tacklesTotals": "125/118",
+        "tacklesTotalsHome": "58/65",
+        "tacklesTotalsAway": "67/53",
+        "tacklesAverage": "15.63/14.75",
+        "tacklesAverageHome": "14.50/16.25",
+        "tacklesAverageAway": "16.75/13.25",
+        "interceptionsTotals": "60/72",
+        "interceptionsTotalsHome": "36/44",
+        "interceptionsTotalsAway": "24/28",
+        "interceptionsAverage": "7.50/9.00",
+        "interceptionsAverageHome": "9.00/11.00",
+        "interceptionsAverageAway": "6.00/7.00",
+        "aerialDuelsTotals": "78/81",
+        "aerialDuelsTotalsHome": "32/42",
+        "aerialDuelsTotalsAway": "46/39",
+        "aerialDuelsAverage": "9.75/10.13",
+        "aerialDuelsAverageHome": "8.00/10.50",
+        "aerialDuelsAverageAway": "11.50/9.75",
+        "aerialDuelsAttemptedTotals": "159/159",
+        "aerialDuelsAttemptedTotalsHome": "74/74",
+        "aerialDuelsAttemptedTotalsAway": "85/85",
+        "aerialDuelsAttemptedAverage": "19.88/19.88",
+        "aerialDuelsAttemptedAverageHome": "18.50/18.50",
+        "aerialDuelsAttemptedAverageAway": "21.25/21.25",
+        "dribblesTotals": "69/40",
+        "dribblesTotalsHome": "30/21",
+        "dribblesTotalsAway": "39/19",
+        "dribblesAverage": "8.63/5.00",
+        "dribblesAverageHome": "7.50/5.25",
+        "dribblesAverageAway": "9.75/4.75",
+        "dribblesAttemptedTotals": "130/105",
+        "dribblesAttemptedTotalsHome": "66/50",
+        "dribblesAttemptedTotalsAway": "64/55",
+        "dribblesAttemptedAverage": "16.25/13.13",
+        "dribblesAttemptedAverageHome": "16.50/12.50",
+        "dribblesAttemptedAverageAway": "16.00/13.75"
+    }
+}

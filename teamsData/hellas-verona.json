@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "3.87",
+        "fouls": "17.73",
+        "goalKicks": "7.40",
+        "saves": "2.93",
+        "offsides": "2.07",
+        "shotsOnTarget": "4.73/4.27",
+        "yellowCards": "2.80/1.80",
+        "goals": "0.87/1.47",
+        "throwIns": "19.93",
+        "ballPossession": 39.066666666667,
+        "tackles": "19.40/14.53",
+        "interceptions": "10.47/7.07",
+        "aerialDuels": "17.27",
+        "aerialDuelsAttempted": "38.73",
+        "dribbles": "6.73/6.87",
+        "dribblesAttempted": "14.13/16.27"
+    },
+    "teamSlug": "hellas-verona",
+    "teamId": "2701",
+    "teamName": "Hellas Verona",
+    "tournament": "Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-fiorentina/Tdbsbeb#id:13981571,tab:statistics",
+            "teams": [
+                "Fiorentina",
+                "Verona"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2693",
+                "2701"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-atalanta/Ldbsbeb#id:13981553,tab:statistics",
+            "teams": [
+                "Verona",
+                "Atalanta"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2701",
+                "2686"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/genoa-hellas-verona/bebsneb#id:13981547,tab:statistics",
+            "teams": [
+                "Genoa",
+                "Verona"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2713",
+                "2701"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-parma/Pdbsbeb#id:13981532,tab:statistics",
+            "teams": [
+                "Verona",
+                "Parma"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2701",
+                "2690"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-lecce/Odbsbeb#id:13981526,tab:statistics",
+            "teams": [
+                "Lecce",
+                "Verona"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2689",
+                "2701"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-inter/Xdbsbeb#id:13981518,tab:statistics",
+            "teams": [
+                "Verona",
+                "Inter"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2701",
+                "2697"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/como-hellas-verona/bebseeb#id:13981507,tab:statistics",
+            "teams": [
+                "Como",
+                "Verona"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2704",
+                "2701"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cagliari-hellas-verona/bebsueb#id:13981489,tab:statistics",
+            "teams": [
+                "Verona",
+                "Cagliari"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2701",
+                "2719"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/9[A]",
+            "fouls": "22/10[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "13/20[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Verona,Fiorentina,Away",
+            "tackles": "24/12[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "19/13[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "6/9[A]",
+            "dribblesAttempted": "11/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "14/7[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "3/4[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "14/29[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Verona,Atalanta,Home",
+            "tackles": "21/15[H]",
+            "interceptions": "15/10[H]",
+            "aerialDuels": "17/21[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "9/10[H]",
+            "dribblesAttempted": "15/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "19/9[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "2/4[A]",
+            "offsides": "5/4[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "19/16[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Verona,Genoa,Away",
+            "tackles": "22/19[A]",
+            "interceptions": "13/4[A]",
+            "aerialDuels": "26/36[A]",
+            "aerialDuelsAttempted": "62/62[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "17/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "24/6[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "5/1[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "22/14[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Verona,Parma,Home",
+            "tackles": "24/21[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "17/19[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "21/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "18/10[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "6/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "18/40[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Verona,Lecce,Away",
+            "tackles": "18/20[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "31/27[A]",
+            "aerialDuelsAttempted": "58/58[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "20/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/8[H]",
+            "fouls": "16/4[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "16/24[H]",
+            "averageBallPossession": "27/73[H]",
+            "teams": "Verona,Inter,Home",
+            "tackles": "8/17[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "7/21[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/2[H]",
+            "dribblesAttempted": "14/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/1[A]",
+            "fouls": "21/11[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "2/7[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "9/5[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "25/18[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Verona,Como,Away",
+            "tackles": "21/14[A]",
+            "interceptions": "9/11[A]",
+            "aerialDuels": "16/25[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "3/10[A]",
+            "dribblesAttempted": "11/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "16/12[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "2/2[H]",
+            "throwIns": "17/21[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Verona,Cagliari,Home",
+            "tackles": "20/12[H]",
+            "interceptions": "11/10[H]",
+            "aerialDuels": "20/14[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "15/16[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "4/9[A]+5/5[H]+3/2[A]+4/4[H]+2/7[A]+4/8[H]+3/1[A]+3/2[H]",
+        "fouls": "22/10[A]+14/7[H]+19/9[A]+24/6[H]+18/10[A]+16/4[H]+21/11[A]+16/12[H]",
+        "goalKicks": "11/7[A]+5/5[H]+6/6[A]+7/6[H]+8/9[A]+8/4[H]+9/3[A]+7/7[H]",
+        "saves": "4/1[A]+3/4[H]+2/4[A]+5/1[H]+6/2[A]+4/1[H]+2/7[A]+1/4[H]",
+        "offsides": "1/1[A]+3/1[H]+5/4[A]+5/1[H]+2/2[A]+1/1[H]+1/1[A]+1/3[H]",
+        "shotsOnTarget": "3/4[A]+7/5[H]+5/4[A]+2/7[H]+2/6[A]+2/6[H]+9/5[A]+6/3[H]",
+        "yellowCards": "5/1[A]+2/1[H]+3/1[A]+4/3[H]+4/1[A]+2/1[H]+4/1[A]+3/4[H]",
+        "goals": "2/1[A]+3/1[H]+1/2[A]+1/2[H]+0/0[A]+1/2[H]+1/3[A]+2/2[H]",
+        "throwIns": "13/20[A]+14/29[H]+19/16[A]+22/14[H]+18/40[A]+16/24[H]+25/18[A]+17/21[H]",
+        "averageBallPossession": "35/65[A]+36/64[H]+40/60[A]+59/41[H]+41/59[A]+27/73[H]+29/71[A]+37/63[H]",
+        "teams": "Verona,Fiorentina,Away+Verona,Atalanta,Home+Verona,Genoa,Away+Verona,Parma,Home+Verona,Lecce,Away+Verona,Inter,Home+Verona,Como,Away+Verona,Cagliari,Home",
+        "tackles": "24/12[A]+21/15[H]+22/19[A]+24/21[H]+18/20[A]+8/17[H]+21/14[A]+20/12[H]",
+        "interceptions": "12/5[A]+15/10[H]+13/4[A]+10/8[H]+10/6[A]+9/6[H]+9/11[A]+11/10[H]",
+        "aerialDuels": "19/13[A]+17/21[H]+26/36[A]+17/19[H]+31/27[A]+7/21[H]+16/25[A]+20/14[H]",
+        "aerialDuelsAttempted": "32/32[A]+38/38[H]+62/62[A]+36/36[H]+58/58[A]+28/28[H]+41/41[A]+34/34[H]",
+        "dribbles": "6/9[A]+9/10[H]+9/5[A]+8/11[H]+9/7[A]+5/2[H]+3/10[A]+7/4[H]",
+        "dribblesAttempted": "11/24[A]+15/22[H]+17/17[A]+21/19[H]+20/17[A]+14/5[H]+11/17[A]+15/16[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "28/38",
+        "cornersTotalsHome": "16/19",
+        "cornersTotalsAway": "12/19",
+        "cornersAverage": "3.50/4.75",
+        "cornersAverageHome": "4.00/4.75",
+        "cornersAverageAway": "3.00/4.75",
+        "foulsTotals": "150/69",
+        "foulsTotalsHome": "70/29",
+        "foulsTotalsAway": "80/40",
+        "foulsAverage": "18.75/8.63",
+        "foulsAverageHome": "17.50/7.25",
+        "foulsAverageAway": "20.00/10.00",
+        "goalKicksTotals": "61/47",
+        "goalKicksTotalsHome": "27/22",
+        "goalKicksTotalsAway": "34/25",
+        "goalKicksAverage": "7.63/5.88",
+        "goalKicksAverageHome": "6.75/5.50",
+        "goalKicksAverageAway": "8.50/6.25",
+        "savesTotals": "27/24",
+        "savesTotalsHome": "13/10",
+        "savesTotalsAway": "14/14",
+        "savesAverage": "3.38/3.00",
+        "savesAverageHome": "3.25/2.50",
+        "savesAverageAway": "3.50/3.50",
+        "offsidesTotals": "19/14",
+        "offsidesTotalsHome": "10/6",
+        "offsidesTotalsAway": "9/8",
+        "offsidesAverage": "2.38/1.75",
+        "offsidesAverageHome": "2.50/1.50",
+        "offsidesAverageAway": "2.25/2.00",
+        "shotsOnTargetTotals": "36/40",
+        "shotsOnTargetTotalsHome": "17/21",
+        "shotsOnTargetTotalsAway": "19/19",
+        "shotsOnTargetAverage": "4.50/5.00",
+        "shotsOnTargetAverageHome": "4.25/5.25",
+        "shotsOnTargetAverageAway": "4.75/4.75",
+        "yellowCardsTotals": "27/13",
+        "yellowCardsTotalsHome": "11/9",
+        "yellowCardsTotalsAway": "16/4",
+        "yellowCardsAverage": "3.38/1.63",
+        "yellowCardsAverageHome": "2.75/2.25",
+        "yellowCardsAverageAway": "4.00/1.00",
+        "goalsTotals": "11/13",
+        "goalsTotalsHome": "7/7",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.38/1.63",
+        "goalsAverageHome": "1.75/1.75",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "144/182",
+        "throwInsTotalsHome": "69/88",
+        "throwInsTotalsAway": "75/94",
+        "throwInsAverage": "18.00/22.75",
+        "throwInsAverageHome": "17.25/22.00",
+        "throwInsAverageAway": "18.75/23.50",
+        "averageBallPossessionTotals": "304/496",
+        "averageBallPossessionTotalsHome": "159/241",
+        "averageBallPossessionTotalsAway": "145/255",
+        "averageBallPossessionAverage": "38.00/62.00",
+        "averageBallPossessionAverageHome": "39.75/60.25",
+        "averageBallPossessionAverageAway": "36.25/63.75",
+        "tacklesTotals": "158/130",
+        "tacklesTotalsHome": "73/65",
+        "tacklesTotalsAway": "85/65",
+        "tacklesAverage": "19.75/16.25",
+        "tacklesAverageHome": "18.25/16.25",
+        "tacklesAverageAway": "21.25/16.25",
+        "interceptionsTotals": "89/60",
+        "interceptionsTotalsHome": "45/34",
+        "interceptionsTotalsAway": "44/26",
+        "interceptionsAverage": "11.13/7.50",
+        "interceptionsAverageHome": "11.25/8.50",
+        "interceptionsAverageAway": "11.00/6.50",
+        "aerialDuelsTotals": "153/176",
+        "aerialDuelsTotalsHome": "61/75",
+        "aerialDuelsTotalsAway": "92/101",
+        "aerialDuelsAverage": "19.13/22.00",
+        "aerialDuelsAverageHome": "15.25/18.75",
+        "aerialDuelsAverageAway": "23.00/25.25",
+        "aerialDuelsAttemptedTotals": "329/329",
+        "aerialDuelsAttemptedTotalsHome": "136/136",
+        "aerialDuelsAttemptedTotalsAway": "193/193",
+        "aerialDuelsAttemptedAverage": "41.13/41.13",
+        "aerialDuelsAttemptedAverageHome": "34.00/34.00",
+        "aerialDuelsAttemptedAverageAway": "48.25/48.25",
+        "dribblesTotals": "56/58",
+        "dribblesTotalsHome": "29/27",
+        "dribblesTotalsAway": "27/31",
+        "dribblesAverage": "7.00/7.25",
+        "dribblesAverageHome": "7.25/6.75",
+        "dribblesAverageAway": "6.75/7.75",
+        "dribblesAttemptedTotals": "124/137",
+        "dribblesAttemptedTotalsHome": "65/62",
+        "dribblesAttemptedTotalsAway": "59/75",
+        "dribblesAttemptedAverage": "15.50/17.13",
+        "dribblesAttemptedAverageHome": "16.25/15.50",
+        "dribblesAttemptedAverageAway": "14.75/18.75"
+    }
+}

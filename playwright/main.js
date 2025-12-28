@@ -4,24 +4,42 @@ const { scrape } = require('./script');
 
 async function processBatches(teamIds) {
     for (let i = 0; i < teamIds.length; i++) {
-        //let batch = teamIds.slice(i, i + 2);
-        //console.log(`Processing batch: ${batch.join(', ')}`);
-        //await Promise.all(batch.map(teamId => scrape(teamId))); 
+        // let batch = teamIds.slice(i, i + 2);
+        // console.log(`Processing batch: ${batch.join(', ')}`);
+        // await Promise.allSettled(batch.map(teamId => scrape(teamId))); 
         await scrape(teamIds[i]);
     }
 }
 
-processBatches([43,14,2825,2814,190328,3002,3006,49531]);
+processBatches(['3009']);
 
-//[43,14,2825,2814,190328,3002,3006,49531]
+//---- Saturday Leagues to process ----
 
-//['3245', '120224', '3265', '5062', '3251', '3248']
+// Serie A - ['2690', '2693', '2689', '2704', '2696', '2719', '2695', '2699']
+// Liga Portugal - ['49531', '3035']
+// Belgian Pro League - ['2900', '2898', '2889', '2933', '368506', '2918', '5044', '389232']
+// Scottish Premiership - ['2354', '2353', '2357', '2363', '2356', '2352', '2351', '2346', '2359', '2347', '2355', '2349']
+// Saudi Pro League - ['56027', '204126', '23400', '336456', '34315', '34313']
 
-//['2353', '2351', '2352', '2355']
+//Serie B,Turkiye 1 Lig,
 
-//['2036', '6672', '2039', '43917']
+// Easy bets - Ghana,Qatar, Algeria, Bahrain,Indonesia, Cambodia, Egypt
 
-//['5153', '263360', '36967', '5148', '111127', '25736']
+
+// --- Sunday Leagues to process ----
+
+// Premier League - ['41', '34', '7', '33']
+// Serie A - ['2737', '2687', '2692', '2701', '2761', '2714', '2685', '2793']
+// Liga Portugal - ['4500', '190328', '36365', '3009', '25777', '3010', '2999', '3006']
+// Belgian Pro League - ['2903', '2893']
+
+//Serie B,Turkiye 1 Lig,
+
+// Easy bets - Ghana,Qatar, Algeria, Bahrain,Indonesia, Cambodia, Egypt, UAE, Australia A League
+
+
+
+
 
 function getElementsBetween(temp1, temp2) {
 

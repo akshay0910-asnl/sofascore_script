@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "3.07",
+        "fouls": "11.00",
+        "goalKicks": "8.13",
+        "saves": "3.00",
+        "offsides": "1.27",
+        "shotsOnTarget": "3.07/4.27",
+        "yellowCards": "1.93/1.80",
+        "goals": "0.67/1.20",
+        "throwIns": "17.13",
+        "ballPossession": 42.4,
+        "tackles": "14.47/14.60",
+        "interceptions": "6.67/6.67",
+        "aerialDuels": "17.27",
+        "aerialDuelsAttempted": "34.27",
+        "dribbles": "4.53/7.53",
+        "dribblesAttempted": "10.60/16.27"
+    },
+    "teamSlug": "parma",
+    "teamId": "2690",
+    "teamName": "Parma",
+    "tournament": "Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/lazio-parma/PdbsZdb#id:13981566,tab:statistics",
+            "teams": [
+                "Parma",
+                "Laziox2"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2690",
+                "2699"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pisa-parma/PdbsMeb#id:13981555,tab:statistics",
+            "teams": [
+                "Pisa",
+                "Parma"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2737",
+                "2690"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/udinese-parma/PdbsVdb#id:13981544,tab:statistics",
+            "teams": [
+                "Parma",
+                "Udinese"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2690",
+                "2695"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hellas-verona-parma/Pdbsbeb#id:13981532,tab:statistics",
+            "teams": [
+                "Verona",
+                "Parma"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2701",
+                "2690"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/milan-parma/PdbsRdb#id:13981528,tab:statistics",
+            "teams": [
+                "Parma",
+                "Milan"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2690",
+                "2692"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/parma-bologna/KdbsPdb#id:13981522,tab:statistics",
+            "teams": [
+                "Parma",
+                "Bologna"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2690",
+                "2685"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/roma-parma/Pdbsceb#id:13981512,tab:statistics",
+            "teams": [
+                "Roma",
+                "Parma"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2702",
+                "2690"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/genoa-parma/Pdbsneb#id:13981494,tab:statistics",
+            "teams": [
+                "Genoa",
+                "Parma"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2713",
+                "2690"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/4[H]",
+            "fouls": "14/8[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "3/6[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "16/11[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Parma,Laziox2,Home",
+            "tackles": "6/12[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "18/15[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "12/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/6[A]",
+            "fouls": "7/15[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "23/25[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Parma,Pisa,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "5/4[A]",
+            "aerialDuels": "14/24[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "12/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/9[H]",
+            "fouls": "6/19[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "19/22[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Parma,Udinese,Home",
+            "tackles": "21/16[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "18/20[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "6/24[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "14/22[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Parma,Verona,Away",
+            "tackles": "21/24[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "19/17[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "19/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "14/10[H]",
+            "goalKicks": "6/3[H]",
+            "saves": "3/3[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "17/15[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Parma,Milan,Home",
+            "tackles": "7/9[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "16/15[H]",
+            "goalKicks": "16/4[H]",
+            "saves": "3/0[H]",
+            "offsides": "1/6[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "13/20[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Parma,Bologna,Home",
+            "tackles": "14/11[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "22/15[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "2/9[H]",
+            "dribblesAttempted": "8/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "4/4[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "12/23[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Parma,Roma,Away",
+            "tackles": "17/11[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "20/15[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "7/14[A]",
+            "dribblesAttempted": "11/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/3[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "17/6[A]",
+            "saves": "7/0[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "0/7[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "22/20[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Parma,Genoa,Away",
+            "tackles": "15/11[A]",
+            "interceptions": "7/5[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "7/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "4/4[H]+0/6[A]+5/9[H]+4/4[A]+4/3[H]+1/5[H]+2/9[A]+0/3[A]",
+        "fouls": "14/8[H]+7/15[A]+6/19[H]+6/24[A]+14/10[H]+16/15[H]+9/8[A]+13/15[A]",
+        "goalKicks": "6/12[H]+8/8[A]+5/6[H]+6/7[A]+6/3[H]+16/4[H]+9/3[A]+17/6[A]",
+        "saves": "3/6[H]+2/1[A]+3/2[H]+1/5[A]+3/3[H]+3/0[H]+4/4[A]+7/0[A]",
+        "offsides": "2/0[H]+1/0[A]+2/1[H]+1/5[A]+2/3[H]+1/6[H]+2/3[A]+1/2[A]",
+        "shotsOnTarget": "5/5[H]+2/2[A]+2/5[H]+7/2[A]+4/5[H]+1/6[H]+5/6[A]+0/7[A]",
+        "yellowCards": "2/1[H]+2/2[A]+1/2[H]+3/4[A]+1/1[H]+4/2[H]+4/0[A]+5/2[A]",
+        "goals": "0/1[H]+1/0[A]+0/2[H]+2/1[A]+2/2[H]+1/3[H]+1/2[A]+0/0[A]",
+        "throwIns": "16/11[H]+23/25[A]+19/22[H]+14/22[A]+17/15[H]+13/20[H]+12/23[A]+22/20[A]",
+        "averageBallPossession": "47/53[H]+40/60[A]+51/49[H]+41/59[A]+43/57[H]+35/65[H]+40/60[A]+31/69[A]",
+        "teams": "Parma,Laziox2,Home+Parma,Pisa,Away+Parma,Udinese,Home+Parma,Verona,Away+Parma,Milan,Home+Parma,Bologna,Home+Parma,Roma,Away+Parma,Genoa,Away",
+        "tackles": "6/12[H]+13/13[A]+21/16[H]+21/24[A]+7/9[H]+14/11[H]+17/11[A]+15/11[A]",
+        "interceptions": "8/5[H]+5/4[A]+6/6[H]+8/10[A]+7/6[H]+5/5[H]+11/11[A]+7/5[A]",
+        "aerialDuels": "18/15[H]+14/24[A]+18/20[H]+19/17[A]+15/15[H]+22/15[H]+20/15[A]+12/9[A]",
+        "aerialDuelsAttempted": "33/33[H]+38/38[A]+38/38[H]+36/36[A]+30/30[H]+37/37[H]+35/35[A]+21/21[A]",
+        "dribbles": "7/9[H]+6/3[A]+5/6[H]+11/8[A]+4/5[H]+2/9[H]+7/14[A]+3/9[A]",
+        "dribblesAttempted": "12/14[H]+12/13[A]+12/21[H]+19/21[A]+10/10[H]+8/17[H]+11/24[A]+7/19[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "20/43",
+        "cornersTotalsHome": "14/21",
+        "cornersTotalsAway": "6/22",
+        "cornersAverage": "2.50/5.38",
+        "cornersAverageHome": "3.50/5.25",
+        "cornersAverageAway": "1.50/5.50",
+        "foulsTotals": "85/114",
+        "foulsTotalsHome": "50/52",
+        "foulsTotalsAway": "35/62",
+        "foulsAverage": "10.63/14.25",
+        "foulsAverageHome": "12.50/13.00",
+        "foulsAverageAway": "8.75/15.50",
+        "goalKicksTotals": "73/49",
+        "goalKicksTotalsHome": "33/25",
+        "goalKicksTotalsAway": "40/24",
+        "goalKicksAverage": "9.13/6.13",
+        "goalKicksAverageHome": "8.25/6.25",
+        "goalKicksAverageAway": "10.00/6.00",
+        "savesTotals": "26/21",
+        "savesTotalsHome": "12/11",
+        "savesTotalsAway": "14/10",
+        "savesAverage": "3.25/2.63",
+        "savesAverageHome": "3.00/2.75",
+        "savesAverageAway": "3.50/2.50",
+        "offsidesTotals": "12/20",
+        "offsidesTotalsHome": "7/10",
+        "offsidesTotalsAway": "5/10",
+        "offsidesAverage": "1.50/2.50",
+        "offsidesAverageHome": "1.75/2.50",
+        "offsidesAverageAway": "1.25/2.50",
+        "shotsOnTargetTotals": "26/38",
+        "shotsOnTargetTotalsHome": "12/21",
+        "shotsOnTargetTotalsAway": "14/17",
+        "shotsOnTargetAverage": "3.25/4.75",
+        "shotsOnTargetAverageHome": "3.00/5.25",
+        "shotsOnTargetAverageAway": "3.50/4.25",
+        "yellowCardsTotals": "22/14",
+        "yellowCardsTotalsHome": "8/6",
+        "yellowCardsTotalsAway": "14/8",
+        "yellowCardsAverage": "2.75/1.75",
+        "yellowCardsAverageHome": "2.00/1.50",
+        "yellowCardsAverageAway": "3.50/2.00",
+        "goalsTotals": "7/11",
+        "goalsTotalsHome": "3/8",
+        "goalsTotalsAway": "4/3",
+        "goalsAverage": "0.88/1.38",
+        "goalsAverageHome": "0.75/2.00",
+        "goalsAverageAway": "1.00/0.75",
+        "throwInsTotals": "136/158",
+        "throwInsTotalsHome": "65/68",
+        "throwInsTotalsAway": "71/90",
+        "throwInsAverage": "17.00/19.75",
+        "throwInsAverageHome": "16.25/17.00",
+        "throwInsAverageAway": "17.75/22.50",
+        "averageBallPossessionTotals": "328/472",
+        "averageBallPossessionTotalsHome": "176/224",
+        "averageBallPossessionTotalsAway": "152/248",
+        "averageBallPossessionAverage": "41.00/59.00",
+        "averageBallPossessionAverageHome": "44.00/56.00",
+        "averageBallPossessionAverageAway": "38.00/62.00",
+        "tacklesTotals": "114/107",
+        "tacklesTotalsHome": "48/48",
+        "tacklesTotalsAway": "66/59",
+        "tacklesAverage": "14.25/13.38",
+        "tacklesAverageHome": "12.00/12.00",
+        "tacklesAverageAway": "16.50/14.75",
+        "interceptionsTotals": "57/52",
+        "interceptionsTotalsHome": "26/22",
+        "interceptionsTotalsAway": "31/30",
+        "interceptionsAverage": "7.13/6.50",
+        "interceptionsAverageHome": "6.50/5.50",
+        "interceptionsAverageAway": "7.75/7.50",
+        "aerialDuelsTotals": "138/130",
+        "aerialDuelsTotalsHome": "73/65",
+        "aerialDuelsTotalsAway": "65/65",
+        "aerialDuelsAverage": "17.25/16.25",
+        "aerialDuelsAverageHome": "18.25/16.25",
+        "aerialDuelsAverageAway": "16.25/16.25",
+        "aerialDuelsAttemptedTotals": "268/268",
+        "aerialDuelsAttemptedTotalsHome": "138/138",
+        "aerialDuelsAttemptedTotalsAway": "130/130",
+        "aerialDuelsAttemptedAverage": "33.50/33.50",
+        "aerialDuelsAttemptedAverageHome": "34.50/34.50",
+        "aerialDuelsAttemptedAverageAway": "32.50/32.50",
+        "dribblesTotals": "45/63",
+        "dribblesTotalsHome": "18/29",
+        "dribblesTotalsAway": "27/34",
+        "dribblesAverage": "5.63/7.88",
+        "dribblesAverageHome": "4.50/7.25",
+        "dribblesAverageAway": "6.75/8.50",
+        "dribblesAttemptedTotals": "91/139",
+        "dribblesAttemptedTotalsHome": "42/62",
+        "dribblesAttemptedTotalsAway": "49/77",
+        "dribblesAttemptedAverage": "11.38/17.38",
+        "dribblesAttemptedAverageHome": "10.50/15.50",
+        "dribblesAttemptedAverageAway": "12.25/19.25"
+    }
+}
