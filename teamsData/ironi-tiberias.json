@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "3.53",
+        "fouls": "14.33",
+        "goalKicks": "8.73",
+        "saves": "3.67",
+        "offsides": "1.47",
+        "shotsOnTarget": "4.07/6.00",
+        "yellowCards": "3.00/2.53",
+        "goals": "1.13/2.20",
+        "throwIns": "18.87",
+        "ballPossession": 45.333333333333,
+        "tackles": "15.73/15.27",
+        "interceptions": "8.87/7.60",
+        "aerialDuels": "7.80",
+        "aerialDuelsAttempted": "18.67",
+        "dribbles": "6.80/8.67",
+        "dribblesAttempted": "14.93/17.00"
+    },
+    "teamSlug": "ironi-tiberias",
+    "teamId": "61702",
+    "teamName": "Ironi Dorot Tiberias",
+    "tournament": "Israeli Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-hapoel-beer-sheva/cecscJz#id:14091805,tab:statistics",
+            "teams": [
+                "Ironi Tiberias",
+                "H. Be'er Sheva"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "61702",
+                "5202"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-hapoel-haifa/becscJz#id:14091792,tab:statistics",
+            "teams": [
+                "H. Haifa",
+                "Ironi Tiberias"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "5201",
+                "61702"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-ashdod-sc/QhcscJz#id:14091787,tab:statistics",
+            "teams": [
+                "Ashdod",
+                "Ironi Tiberias"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "5391",
+                "61702"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-beitar-jerusalem/eecscJz#id:14091776,tab:statistics",
+            "teams": [
+                "Ironi Tiberias",
+                "Beitar Jerusalem"
+            ],
+            "goals": [
+                "0",
+                "5"
+            ],
+            "teamIds": [
+                "61702",
+                "5204"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/maccabi-bney-reine-ironi-tiberias/cJzsUXjc#id:14091767,tab:statistics",
+            "teams": [
+                "M. Bney Reine",
+                "Ironi Tiberias"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "274894",
+                "61702"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-hapoel-ironi-kiryat-shmona/ZhcscJz#id:14091760,tab:statistics",
+            "teams": [
+                "Ironi Tiberias",
+                "Kiryat Shmona"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "61702",
+                "5399"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-hapoel-tel-aviv/WhcscJz#id:14091748,tab:statistics",
+            "teams": [
+                "H. Tel Aviv",
+                "Ironi Tiberias"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "5396",
+                "61702"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-maccabi-haifa/XdcscJz#id:14091744,tab:statistics",
+            "teams": [
+                "Ironi Tiberias",
+                "M. Haifa"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "61702",
+                "5197"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/8[H]",
+            "fouls": "17/12[H]",
+            "goalKicks": "11/3[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/0[H]",
+            "throwIns": "17/11[H]",
+            "averageBallPossession": "29/71[H]",
+            "teams": "Ironi Tiberias,H. Be'er Sheva,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "17/6[H]",
+            "aerialDuels": "11/12[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "19/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "11/2[A]",
+            "saves": "6/3[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "7/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "20/22[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Ironi Tiberias,H. Haifa,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "14/9[A]",
+            "aerialDuels": "3/5[A]",
+            "aerialDuelsAttempted": "8/8[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "9/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "10/10[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "1/1[A]",
+            "throwIns": "26/20[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Ironi Tiberias,Ashdod,Away",
+            "tackles": "18/15[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "6/4[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "9/13[A]",
+            "dribblesAttempted": "21/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "16/12[H]",
+            "goalKicks": "8/6[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/8[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/5[H]",
+            "throwIns": "20/14[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Ironi Tiberias,Beitar Jerusalem,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "1/3[H]",
+            "dribblesAttempted": "7/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "16/14[A]",
+            "goalKicks": "4/2[A]",
+            "saves": "5/3[A]",
+            "offsides": "5/5[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "3/1[A]",
+            "throwIns": "13/16[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Ironi Tiberias,M. Bney Reine,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "8/12[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "17/18[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "0/4[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/3[H]",
+            "throwIns": "21/24[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Ironi Tiberias,Kiryat Shmona,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "12/13[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "12/8[H]",
+            "dribblesAttempted": "22/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "0/2[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "4/5[A]",
+            "goals": "0/2[A]",
+            "throwIns": "27/12[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Ironi Tiberias,H. Tel Aviv,Away",
+            "tackles": "20/21[A]",
+            "interceptions": "7/16[A]",
+            "aerialDuels": "6/14[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "10/10[A]",
+            "dribblesAttempted": "26/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/10[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "2/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/12[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Ironi Tiberias,M. Haifa,Home",
+            "tackles": "18/19[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "9/13[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "8/10[H]",
+            "dribblesAttempted": "17/21[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "5/8[H]+3/9[A]+3/5[A]+4/5[H]+2/3[A]+7/4[H]+2/9[A]+5/10[H]",
+        "fouls": "17/12[H]+14/15[A]+11/15[A]+16/12[H]+16/14[A]+17/18[H]+12/15[A]+13/15[H]",
+        "goalKicks": "11/3[H]+11/2[A]+10/10[A]+8/6[H]+4/2[A]+6/7[H]+9/9[A]+12/8[H]",
+        "saves": "5/4[H]+6/3[A]+1/4[A]+3/3[H]+5/3[A]+0/4[H]+0/2[A]+2/4[H]",
+        "offsides": "1/0[H]+0/4[A]+1/2[A]+1/2[H]+5/5[A]+0/0[H]+0/2[A]+2/1[H]",
+        "shotsOnTarget": "7/6[H]+3/7[A]+5/2[A]+3/8[H]+6/6[A]+6/3[H]+2/1[A]+5/3[H]",
+        "yellowCards": "1/2[H]+7/0[A]+1/5[A]+2/2[H]+3/0[A]+2/4[H]+4/5[A]+3/2[H]",
+        "goals": "3/0[H]+0/2[A]+1/1[A]+0/5[H]+3/1[A]+2/3[H]+0/2[A]+1/1[H]",
+        "throwIns": "17/11[H]+20/22[A]+26/20[A]+20/14[H]+13/16[A]+21/24[H]+27/12[A]+20/12[H]",
+        "averageBallPossession": "29/71[H]+46/54[A]+45/55[A]+36/64[H]+39/61[A]+56/44[H]+56/44[A]+48/52[H]",
+        "teams": "Ironi Tiberias,H. Be'er Sheva,Home+Ironi Tiberias,H. Haifa,Away+Ironi Tiberias,Ashdod,Away+Ironi Tiberias,Beitar Jerusalem,Home+Ironi Tiberias,M. Bney Reine,Away+Ironi Tiberias,Kiryat Shmona,Home+Ironi Tiberias,H. Tel Aviv,Away+Ironi Tiberias,M. Haifa,Home",
+        "tackles": "15/17[H]+12/15[A]+18/15[A]+15/15[H]+12/15[A]+17/16[H]+20/21[A]+18/19[H]",
+        "interceptions": "17/6[H]+14/9[A]+10/9[A]+8/7[H]+9/4[A]+6/6[H]+7/16[A]+10/7[H]",
+        "aerialDuels": "11/12[H]+3/5[A]+6/4[A]+7/10[H]+8/12[A]+12/13[H]+6/14[A]+9/13[H]",
+        "aerialDuelsAttempted": "23/23[H]+8/8[A]+10/10[A]+17/17[H]+20/20[A]+25/25[H]+20/20[A]+22/22[H]",
+        "dribbles": "10/9[H]+4/7[A]+9/13[A]+1/3[H]+3/7[A]+12/8[H]+10/10[A]+8/10[H]",
+        "dribblesAttempted": "19/16[H]+9/16[A]+21/20[A]+7/10[H]+10/13[A]+22/18[H]+26/21[A]+17/21[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "31/53",
+        "cornersTotalsHome": "21/27",
+        "cornersTotalsAway": "10/26",
+        "cornersAverage": "3.88/6.63",
+        "cornersAverageHome": "5.25/6.75",
+        "cornersAverageAway": "2.50/6.50",
+        "foulsTotals": "116/116",
+        "foulsTotalsHome": "63/57",
+        "foulsTotalsAway": "53/59",
+        "foulsAverage": "14.50/14.50",
+        "foulsAverageHome": "15.75/14.25",
+        "foulsAverageAway": "13.25/14.75",
+        "goalKicksTotals": "71/47",
+        "goalKicksTotalsHome": "37/24",
+        "goalKicksTotalsAway": "34/23",
+        "goalKicksAverage": "8.88/5.88",
+        "goalKicksAverageHome": "9.25/6.00",
+        "goalKicksAverageAway": "8.50/5.75",
+        "savesTotals": "22/27",
+        "savesTotalsHome": "10/15",
+        "savesTotalsAway": "12/12",
+        "savesAverage": "2.75/3.38",
+        "savesAverageHome": "2.50/3.75",
+        "savesAverageAway": "3.00/3.00",
+        "offsidesTotals": "10/16",
+        "offsidesTotalsHome": "4/3",
+        "offsidesTotalsAway": "6/13",
+        "offsidesAverage": "1.25/2.00",
+        "offsidesAverageHome": "1.00/0.75",
+        "offsidesAverageAway": "1.50/3.25",
+        "shotsOnTargetTotals": "37/36",
+        "shotsOnTargetTotalsHome": "21/20",
+        "shotsOnTargetTotalsAway": "16/16",
+        "shotsOnTargetAverage": "4.63/4.50",
+        "shotsOnTargetAverageHome": "5.25/5.00",
+        "shotsOnTargetAverageAway": "4.00/4.00",
+        "yellowCardsTotals": "23/20",
+        "yellowCardsTotalsHome": "8/10",
+        "yellowCardsTotalsAway": "15/10",
+        "yellowCardsAverage": "2.88/2.50",
+        "yellowCardsAverageHome": "2.00/2.50",
+        "yellowCardsAverageAway": "3.75/2.50",
+        "goalsTotals": "10/15",
+        "goalsTotalsHome": "6/9",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.25/1.88",
+        "goalsAverageHome": "1.50/2.25",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "164/131",
+        "throwInsTotalsHome": "78/61",
+        "throwInsTotalsAway": "86/70",
+        "throwInsAverage": "20.50/16.38",
+        "throwInsAverageHome": "19.50/15.25",
+        "throwInsAverageAway": "21.50/17.50",
+        "averageBallPossessionTotals": "355/445",
+        "averageBallPossessionTotalsHome": "169/231",
+        "averageBallPossessionTotalsAway": "186/214",
+        "averageBallPossessionAverage": "44.38/55.63",
+        "averageBallPossessionAverageHome": "42.25/57.75",
+        "averageBallPossessionAverageAway": "46.50/53.50",
+        "tacklesTotals": "127/133",
+        "tacklesTotalsHome": "65/67",
+        "tacklesTotalsAway": "62/66",
+        "tacklesAverage": "15.88/16.63",
+        "tacklesAverageHome": "16.25/16.75",
+        "tacklesAverageAway": "15.50/16.50",
+        "interceptionsTotals": "81/64",
+        "interceptionsTotalsHome": "41/26",
+        "interceptionsTotalsAway": "40/38",
+        "interceptionsAverage": "10.13/8.00",
+        "interceptionsAverageHome": "10.25/6.50",
+        "interceptionsAverageAway": "10.00/9.50",
+        "aerialDuelsTotals": "62/83",
+        "aerialDuelsTotalsHome": "39/48",
+        "aerialDuelsTotalsAway": "23/35",
+        "aerialDuelsAverage": "7.75/10.38",
+        "aerialDuelsAverageHome": "9.75/12.00",
+        "aerialDuelsAverageAway": "5.75/8.75",
+        "aerialDuelsAttemptedTotals": "145/145",
+        "aerialDuelsAttemptedTotalsHome": "87/87",
+        "aerialDuelsAttemptedTotalsAway": "58/58",
+        "aerialDuelsAttemptedAverage": "18.13/18.13",
+        "aerialDuelsAttemptedAverageHome": "21.75/21.75",
+        "aerialDuelsAttemptedAverageAway": "14.50/14.50",
+        "dribblesTotals": "57/67",
+        "dribblesTotalsHome": "31/30",
+        "dribblesTotalsAway": "26/37",
+        "dribblesAverage": "7.13/8.38",
+        "dribblesAverageHome": "7.75/7.50",
+        "dribblesAverageAway": "6.50/9.25",
+        "dribblesAttemptedTotals": "131/135",
+        "dribblesAttemptedTotalsHome": "65/65",
+        "dribblesAttemptedTotalsAway": "66/70",
+        "dribblesAttemptedAverage": "16.38/16.88",
+        "dribblesAttemptedAverageHome": "16.25/16.25",
+        "dribblesAttemptedAverageAway": "16.50/17.50"
+    }
+}

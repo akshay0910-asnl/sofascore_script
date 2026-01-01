@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "4.07",
+        "fouls": "14.67",
+        "goalKicks": "9.20",
+        "saves": "2.67",
+        "offsides": "1.07",
+        "shotsOnTarget": "4.00/4.67",
+        "yellowCards": "3.13/2.40",
+        "goals": "1.47/1.93",
+        "throwIns": "19.73",
+        "ballPossession": 44.533333333333,
+        "tackles": "20.00/16.67",
+        "interceptions": "8.07/8.80",
+        "aerialDuels": "9.60",
+        "aerialDuelsAttempted": "24.20",
+        "dribbles": "8.13/10.93",
+        "dribblesAttempted": "16.93/22.07"
+    },
+    "teamSlug": "ashdod-sc",
+    "teamId": "5391",
+    "teamName": "Ashdod SC",
+    "tournament": "Israeli Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/bnei-sakhnin-ashdod-sc/QhcsRhc#id:14091803,tab:statistics",
+            "teams": [
+                "Sakhnin",
+                "Ashdod"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "5392",
+                "5391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hapoel-jerusalem-ashdod-sc/QhcsgDJ#id:14091794,tab:statistics",
+            "teams": [
+                "Ashdod",
+                "Hapoel Jerusalem"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "5391",
+                "86406"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ironi-tiberias-ashdod-sc/QhcscJz#id:14091787,tab:statistics",
+            "teams": [
+                "Ashdod",
+                "Ironi Tiberias"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "5391",
+                "61702"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/maccabi-netanya-ashdod-sc/QhcsVhc#id:14091775,tab:statistics",
+            "teams": [
+                "M. Netanya",
+                "Ashdod"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "5395",
+                "5391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ashdod-sc-maccabi-tel-aviv/YdcsQhc#id:14091770,tab:statistics",
+            "teams": [
+                "Ashdod",
+                "M. Tel-Aviv"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "5391",
+                "5198"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ashdod-sc-hapoel-beer-sheva/cecsQhc#id:14091756,tab:statistics",
+            "teams": [
+                "H. Be'er Sheva",
+                "Ashdod"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "5202",
+                "5391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ashdod-sc-hapoel-haifa/becsQhc#id:14091754,tab:statistics",
+            "teams": [
+                "Ashdod",
+                "H. Haifa"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "5391",
+                "5201"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ashdod-sc-beitar-jerusalem/eecsQhc#id:14091736,tab:statistics",
+            "teams": [
+                "Beitar Jerusalem",
+                "Ashdod"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "5204",
+                "5391"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "15/19[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "28/19[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Ashdod,Sakhnin,Away",
+            "tackles": "18/20[A]",
+            "interceptions": "9/14[A]",
+            "aerialDuels": "12/13[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "19/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "13/16[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "3/5[H]",
+            "goals": "0/2[H]",
+            "throwIns": "30/19[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Ashdod,Hapoel Jerusalem,Home",
+            "tackles": "11/29[H]",
+            "interceptions": "4/14[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "6/12[H]",
+            "dribblesAttempted": "21/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "10/10[H]",
+            "saves": "4/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/26[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Ashdod,Ironi Tiberias,Home",
+            "tackles": "15/18[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "4/6[H]",
+            "aerialDuelsAttempted": "10/10[H]",
+            "dribbles": "13/9[H]",
+            "dribblesAttempted": "20/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/6[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "2/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "8/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "29/22[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Ashdod,M. Netanya,Away",
+            "tackles": "18/32[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "7/14[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "12/17[A]",
+            "dribblesAttempted": "27/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/11[H]",
+            "fouls": "25/18[H]",
+            "goalKicks": "14/2[H]",
+            "saves": "1/6[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "6/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "19/25[H]",
+            "averageBallPossession": "29/71[H]",
+            "teams": "Ashdod,M. Tel-Aviv,Home",
+            "tackles": "31/10[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "12/22[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "10/16[H]",
+            "dribblesAttempted": "15/36[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "21/21[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Ashdod,H. Be'er Sheva,Away",
+            "tackles": "28/22[A]",
+            "interceptions": "18/9[A]",
+            "aerialDuels": "13/19[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "6/15[A]",
+            "dribblesAttempted": "16/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "12/12[H]",
+            "goalKicks": "14/8[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "4/1[H]",
+            "throwIns": "17/21[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Ashdod,H. Haifa,Home",
+            "tackles": "19/21[H]",
+            "interceptions": "6/3[H]",
+            "aerialDuels": "5/14[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "17/12[H]",
+            "dribblesAttempted": "30/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "17/15[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "20/27[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Ashdod,Beitar Jerusalem,Away",
+            "tackles": "31/22[A]",
+            "interceptions": "13/8[A]",
+            "aerialDuels": "19/14[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "20/24[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+5/2[H]+5/3[H]+11/6[A]+3/11[H]+2/5[A]+2/6[H]+2/8[A]",
+        "fouls": "15/19[A]+13/16[H]+15/11[H]+8/13[A]+25/18[H]+14/10[A]+12/12[H]+17/15[A]",
+        "goalKicks": "6/8[A]+10/9[H]+10/10[H]+7/6[A]+14/2[H]+13/5[A]+14/8[H]+9/6[A]",
+        "saves": "3/4[A]+2/3[H]+4/1[H]+2/6[A]+1/6[H]+2/1[A]+4/1[H]+2/1[A]",
+        "offsides": "1/0[A]+0/1[H]+2/1[H]+0/1[A]+3/2[H]+0/3[A]+0/1[H]+3/1[A]",
+        "shotsOnTarget": "4/6[A]+3/4[H]+2/5[H]+8/4[A]+8/3[H]+3/4[A]+5/5[H]+1/2[A]",
+        "yellowCards": "2/2[A]+3/5[H]+5/1[H]+2/2[A]+6/2[H]+2/2[A]+2/3[H]+3/2[A]",
+        "goals": "0/3[A]+0/2[H]+1/1[H]+2/2[A]+2/2[H]+2/2[A]+4/1[H]+0/0[A]",
+        "throwIns": "28/19[A]+30/19[H]+20/26[H]+29/22[A]+19/25[H]+21/21[A]+17/21[H]+20/27[A]",
+        "averageBallPossession": "53/47[A]+60/40[H]+55/45[H]+56/44[A]+29/71[H]+31/69[A]+52/48[H]+31/69[A]",
+        "teams": "Ashdod,Sakhnin,Away+Ashdod,Hapoel Jerusalem,Home+Ashdod,Ironi Tiberias,Home+Ashdod,M. Netanya,Away+Ashdod,M. Tel-Aviv,Home+Ashdod,H. Be'er Sheva,Away+Ashdod,H. Haifa,Home+Ashdod,Beitar Jerusalem,Away",
+        "tackles": "18/20[A]+11/29[H]+15/18[H]+18/32[A]+31/10[H]+28/22[A]+19/21[H]+31/22[A]",
+        "interceptions": "9/14[A]+4/14[H]+9/10[H]+7/15[A]+8/5[H]+18/9[A]+6/3[H]+13/8[A]",
+        "aerialDuels": "12/13[A]+15/12[H]+4/6[H]+7/14[A]+12/22[H]+13/19[A]+5/14[H]+19/14[A]",
+        "aerialDuelsAttempted": "25/25[A]+27/27[H]+10/10[H]+21/21[A]+34/34[H]+32/32[A]+19/19[H]+33/33[A]",
+        "dribbles": "7/5[A]+6/12[H]+13/9[H]+12/17[A]+10/16[H]+6/15[A]+17/12[H]+7/6[A]",
+        "dribblesAttempted": "19/19[A]+21/16[H]+20/21[H]+27/25[A]+15/36[H]+16/27[A]+30/21[H]+20/24[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "33/47",
+        "cornersTotalsHome": "15/22",
+        "cornersTotalsAway": "18/25",
+        "cornersAverage": "4.13/5.88",
+        "cornersAverageHome": "3.75/5.50",
+        "cornersAverageAway": "4.50/6.25",
+        "foulsTotals": "119/114",
+        "foulsTotalsHome": "65/57",
+        "foulsTotalsAway": "54/57",
+        "foulsAverage": "14.88/14.25",
+        "foulsAverageHome": "16.25/14.25",
+        "foulsAverageAway": "13.50/14.25",
+        "goalKicksTotals": "83/54",
+        "goalKicksTotalsHome": "48/29",
+        "goalKicksTotalsAway": "35/25",
+        "goalKicksAverage": "10.38/6.75",
+        "goalKicksAverageHome": "12.00/7.25",
+        "goalKicksAverageAway": "8.75/6.25",
+        "savesTotals": "20/23",
+        "savesTotalsHome": "11/11",
+        "savesTotalsAway": "9/12",
+        "savesAverage": "2.50/2.88",
+        "savesAverageHome": "2.75/2.75",
+        "savesAverageAway": "2.25/3.00",
+        "offsidesTotals": "9/10",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "4/5",
+        "offsidesAverage": "1.13/1.25",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "1.00/1.25",
+        "shotsOnTargetTotals": "34/33",
+        "shotsOnTargetTotalsHome": "18/17",
+        "shotsOnTargetTotalsAway": "16/16",
+        "shotsOnTargetAverage": "4.25/4.13",
+        "shotsOnTargetAverageHome": "4.50/4.25",
+        "shotsOnTargetAverageAway": "4.00/4.00",
+        "yellowCardsTotals": "25/19",
+        "yellowCardsTotalsHome": "16/11",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "3.13/2.38",
+        "yellowCardsAverageHome": "4.00/2.75",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "11/13",
+        "goalsTotalsHome": "7/6",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "1.38/1.63",
+        "goalsAverageHome": "1.75/1.50",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "184/180",
+        "throwInsTotalsHome": "86/91",
+        "throwInsTotalsAway": "98/89",
+        "throwInsAverage": "23.00/22.50",
+        "throwInsAverageHome": "21.50/22.75",
+        "throwInsAverageAway": "24.50/22.25",
+        "averageBallPossessionTotals": "367/433",
+        "averageBallPossessionTotalsHome": "196/204",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "45.88/54.13",
+        "averageBallPossessionAverageHome": "49.00/51.00",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "171/174",
+        "tacklesTotalsHome": "76/78",
+        "tacklesTotalsAway": "95/96",
+        "tacklesAverage": "21.38/21.75",
+        "tacklesAverageHome": "19.00/19.50",
+        "tacklesAverageAway": "23.75/24.00",
+        "interceptionsTotals": "74/78",
+        "interceptionsTotalsHome": "27/32",
+        "interceptionsTotalsAway": "47/46",
+        "interceptionsAverage": "9.25/9.75",
+        "interceptionsAverageHome": "6.75/8.00",
+        "interceptionsAverageAway": "11.75/11.50",
+        "aerialDuelsTotals": "87/114",
+        "aerialDuelsTotalsHome": "36/54",
+        "aerialDuelsTotalsAway": "51/60",
+        "aerialDuelsAverage": "10.88/14.25",
+        "aerialDuelsAverageHome": "9.00/13.50",
+        "aerialDuelsAverageAway": "12.75/15.00",
+        "aerialDuelsAttemptedTotals": "201/201",
+        "aerialDuelsAttemptedTotalsHome": "90/90",
+        "aerialDuelsAttemptedTotalsAway": "111/111",
+        "aerialDuelsAttemptedAverage": "25.13/25.13",
+        "aerialDuelsAttemptedAverageHome": "22.50/22.50",
+        "aerialDuelsAttemptedAverageAway": "27.75/27.75",
+        "dribblesTotals": "78/92",
+        "dribblesTotalsHome": "46/49",
+        "dribblesTotalsAway": "32/43",
+        "dribblesAverage": "9.75/11.50",
+        "dribblesAverageHome": "11.50/12.25",
+        "dribblesAverageAway": "8.00/10.75",
+        "dribblesAttemptedTotals": "168/189",
+        "dribblesAttemptedTotalsHome": "86/94",
+        "dribblesAttemptedTotalsAway": "82/95",
+        "dribblesAttemptedAverage": "21.00/23.63",
+        "dribblesAttemptedAverageHome": "21.50/23.50",
+        "dribblesAttemptedAverageAway": "20.50/23.75"
+    }
+}

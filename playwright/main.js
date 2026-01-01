@@ -11,31 +11,14 @@ async function processBatches(teamIds) {
     }
 }
 
-processBatches(['3009']);
+processBatches(['5395', '5199', '5391', '5197', '5202', '86406','530631', '34315', '269199', '21895', '34313', '56027']);
 
 //---- Saturday Leagues to process ----
-
-// Serie A - ['2690', '2693', '2689', '2704', '2696', '2719', '2695', '2699']
-// Liga Portugal - ['49531', '3035']
-// Belgian Pro League - ['2900', '2898', '2889', '2933', '368506', '2918', '5044', '389232']
-// Scottish Premiership - ['2354', '2353', '2357', '2363', '2356', '2352', '2351', '2346', '2359', '2347', '2355', '2349']
-// Saudi Pro League - ['56027', '204126', '23400', '336456', '34315', '34313']
-
-//Serie B,Turkiye 1 Lig,
-
-// Easy bets - Ghana,Qatar, Algeria, Bahrain,Indonesia, Cambodia, Egypt
-
-
-// --- Sunday Leagues to process ----
-
-// Premier League - ['41', '34', '7', '33']
-// Serie A - ['2737', '2687', '2692', '2701', '2761', '2714', '2685', '2793']
-// Liga Portugal - ['4500', '190328', '36365', '3009', '25777', '3010', '2999', '3006']
-// Belgian Pro League - ['2903', '2893']
-
-//Serie B,Turkiye 1 Lig,
-
-// Easy bets - Ghana,Qatar, Algeria, Bahrain,Indonesia, Cambodia, Egypt, UAE, Australia A League
+// ['6', '39', '38', '60', '14', '48', '37', '30', '42', '40', '35', '3']
+// ['2357', '2347', '2354', '2355', '2356', '2349', '2351', '2359', '2346', '2352']
+// ['5395', '5199', '5391', '5197', '5202', '86406']
+// ['530631', '34315', '269199', '21895', '34313', '56027']
+//A-League Men, England National League,Northern Ireland Premiership,Wales preier,Bahrain Second Division
 
 
 

@@ -347,6 +347,18 @@ async function clickStatisticsTab(page) {
 async function navigateToMatchPage(page, match, index, teamId) {
 	try {
 		await setUpMatchStatisticsInterception(page, match, index, teamId);
+		console.log('Processing match index:', index);
+		await page.goto(match.href, { waitUntil: 'load', timeout: CONFIG.timeouts.pageLoad });
+		console.log('Navigated to index:', index);
+		const url = page.url();
+		if (!url.includes(',tab:statistics')) {
+			cache[teamId]['timeouts'] = cache[teamId]['timeouts'] || {};
+			cache[teamId]['timeouts'][match.href] = setTimeout(async () => {
+				await page.click(CONFIG.selectors.statisticsTab);
+				console.log('✓ Statistics tab clicked');
+			}, 3000); // 5 seconds timeout
+		}
+
 		// await page.waitForSelector(CONFIG.selectors.statisticsTab, {
 		// 	state: 'visible',
 		// 	timeout: CONFIG.timeouts.statisticsTab
@@ -593,9 +605,7 @@ const extractMatchId = url =>
 
 async function processMatchDetails(page, match, index, teamId) {
 	// Implement match details processing here
-	console.log('Processing match index:', index);
-	await page.goto(match.href, { waitUntil: 'load', timeout: CONFIG.timeouts.pageLoad });
-	console.log('Navigated to index:', index);
+
 	await navigateToMatchPage(page, match, index, teamId);
 	//await setUpMatchStatisticsInterception(page, match, index);
 
@@ -633,6 +643,11 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 					await page.context().browser().close();
 					await parseCombinedStatistics(teamId);
 					await writeStatisticsToFile(teamId);
+					if (cache[teamId]['timeouts']) {
+						for (const timeoutKey of Object.keys(cache[teamId]['timeouts'])) {
+							clearTimeout(cache[teamId]['timeouts'][timeoutKey]);
+						}
+					}
 					delete cache[teamId];
 					result = {
 						globalStatistics: {},
