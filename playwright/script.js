@@ -625,16 +625,29 @@ async function processMatchDetails(page, match, index, teamId) {
 async function openMatchLinks(page, context, teamId) {
 	//console.log(`✓ Processing ${result.matchLinks.length} match links`);
 	console.log(`✓ Processing ${cache[teamId].matchLinks.length} match links`);
-	for (let i = 0; i < cache[teamId].matchLinks.length; i++) {
-		const match = cache[teamId].matchLinks[i];
-		const absoluteIndex = i; // global index
-
-		try {
-			const matchPage = await context.newPage();
-			await processMatchDetails(matchPage, match, absoluteIndex, teamId);
-		} catch (err) {
-			console.error(`✗ Error in match index ${absoluteIndex}:`, err.message);
+	
+	for (let i = 0; i < cache[teamId].matchLinks.length; i += 2) {
+		const batch = [];
+		
+		// Create a batch of up to 2 match processing promises
+		for (let j = i; j < Math.min(i + 2, cache[teamId].matchLinks.length); j++) {
+			const match = cache[teamId].matchLinks[j];
+			const absoluteIndex = j; // global index
+			
+			const batchPromise = (async () => {
+				try {
+					const matchPage = await context.newPage();
+					await processMatchDetails(matchPage, match, absoluteIndex, teamId);
+				} catch (err) {
+					console.error(`✗ Error in match index ${absoluteIndex}:`, err.message);
+				}
+			})();
+			
+			batch.push(batchPromise);
 		}
+		
+		// Wait for the entire batch to complete before processing the next batch
+		await Promise.all(batch);
 	}
 }
 

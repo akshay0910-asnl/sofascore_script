@@ -11,7 +11,7 @@ async function processBatches(teamIds) {
     }
 }
 
-processBatches(['31']);
+processBatches(['41']);
 
 //---- Saturday Leagues to process ----
 // ['6', '39', '38', '60', '14', '48', '37', '30', '42', '40', '35', '3']
