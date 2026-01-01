@@ -1,27 +1,75 @@
 {
     "globalStatistics": {
-        "corners": "5.25",
-        "fouls": "10.05",
-        "goalKicks": "8.80",
-        "saves": "2.80",
-        "offsides": "1.85",
-        "shotsOnTarget": "3.65/4.25",
-        "yellowCards": "2.20/1.95",
-        "goals": "0.85/1.35",
-        "throwIns": "22.90",
-        "ballPossession": 49.05,
-        "tackles": "13.40/13.70",
-        "interceptions": "7.50/8.55",
-        "aerialDuels": "22.10",
-        "aerialDuelsAttempted": "44.80",
-        "dribbles": "4.55/5.85",
-        "dribblesAttempted": "10.65/11.70"
+        "corners": "5.35",
+        "fouls": "9.78",
+        "goalKicks": "8.65",
+        "saves": "2.91",
+        "offsides": "1.65",
+        "shotsOnTarget": "3.52/4.26",
+        "yellowCards": "2.09/1.96",
+        "goals": "0.91/1.30",
+        "throwIns": "23.00",
+        "ballPossession": 50.04347826087,
+        "tackles": "13.61/13.61",
+        "interceptions": "7.43/8.70",
+        "aerialDuels": "22.70",
+        "aerialDuelsAttempted": "46.61",
+        "dribbles": "4.74/5.96",
+        "dribblesAttempted": "11.09/12.22"
     },
     "teamSlug": "portsmouth",
     "teamId": "2",
     "teamName": "Portsmouth",
     "tournament": "Championship",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/charlton-athletic-portsmouth/csX#id:14059740,tab:statistics",
+            "teams": [
+                "Portsmouth",
+                "Charlton"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2",
+                "47"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portsmouth-queens-park-rangers/bsc#id:14059729,tab:statistics",
+            "teams": [
+                "Portsmouth",
+                "QPR"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2",
+                "1"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/derby-county-portsmouth/csC#id:14059713,tab:statistics",
+            "teams": [
+                "Derby",
+                "Portsmouth"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "27",
+                "2"
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/blackburn-rovers-portsmouth/csW#id:14059704,tab:statistics",
             "teams": [
@@ -87,22 +135,6 @@
             "isHome": false
         },
         {
-            "href": "https://www.sofascore.com/football/match/millwall-portsmouth/csA#id:14059646,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Millwall"
-            ],
-            "goals": [
-                "3",
-                "1"
-            ],
-            "teamIds": [
-                "2",
-                "25"
-            ],
-            "isHome": true
-        },
-        {
             "href": "https://www.sofascore.com/football/match/hull-city-portsmouth/csWb#id:14059624,tab:statistics",
             "teams": [
                 "Hull",
@@ -117,171 +149,71 @@
                 "2"
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/wrexham-portsmouth/csob#id:14059620,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Wrexham"
-            ],
-            "goals": [
-                "0",
-                "0"
-            ],
-            "teamIds": [
-                "2",
-                "64"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/birmingham-city-portsmouth/csj#id:14059598,tab:statistics",
-            "teams": [
-                "Birmingham",
-                "Portsmouth"
-            ],
-            "goals": [
-                "4",
-                "0"
-            ],
-            "teamIds": [
-                "9",
-                "2"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/stoke-city-portsmouth/csE#id:14059599,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Stoke"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "2",
-                "29"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/coventry-city-portsmouth/csl#id:14059584,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Coventry"
-            ],
-            "goals": [
-                "1",
-                "2"
-            ],
-            "teamIds": [
-                "2",
-                "11"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/leicester-city-portsmouth/csG#id:14059568,tab:statistics",
-            "teams": [
-                "Leicester",
-                "Portsmouth"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "31",
-                "2"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/middlesbrough-portsmouth/csL#id:14059559,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Middlesbrough"
-            ],
-            "goals": [
-                "1",
-                "0"
-            ],
-            "teamIds": [
-                "2",
-                "36"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/watford-portsmouth/csz#id:14059551,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Watford"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "2",
-                "24"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/ipswich-town-portsmouth/csH#id:14059531,tab:statistics",
-            "teams": [
-                "Ipswich",
-                "Portsmouth"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "32",
-                "2"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sheffield-wednesday-portsmouth/csm#id:14059526,tab:statistics",
-            "teams": [
-                "Portsmouth",
-                "Sheffield Wed"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "2",
-                "12"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-portsmouth/csV#id:14059513,tab:statistics",
-            "teams": [
-                "Southampton",
-                "Portsmouth"
-            ],
-            "goals": [
-                "0",
-                "0"
-            ],
-            "teamIds": [
-                "45",
-                "2"
-            ],
-            "isHome": false
         }
     ],
-    "homeMatchCount": 9,
-    "awayMatchCount": 7,
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/11[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "22/31[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Portsmouth,Charlton,Home",
+            "tackles": "9/8[H]",
+            "interceptions": "3/4[H]",
+            "aerialDuels": "34/39[H]",
+            "aerialDuelsAttempted": "73/73[H]",
+            "dribbles": "2/3[H]",
+            "dribblesAttempted": "5/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "8/6[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "23/18[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Portsmouth,QPR,Home",
+            "tackles": "18/17[H]",
+            "interceptions": "12/11[H]",
+            "aerialDuels": "30/27[H]",
+            "aerialDuelsAttempted": "57/57[H]",
+            "dribbles": "10/7[H]",
+            "dribblesAttempted": "19/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "4/7[A]",
+            "goalKicks": "8/7[A]",
+            "saves": "6/0[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "26/22[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Portsmouth,Derby,Away",
+            "tackles": "18/14[A]",
+            "interceptions": "6/14[A]",
+            "aerialDuels": "16/30[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "6/10[A]",
+            "dribblesAttempted": "18/20[A]",
+            "isHome": false
+        },
         {
             "corners": "7/6[H]",
             "fouls": "9/14[H]",
@@ -363,26 +295,6 @@
             "isHome": false
         },
         {
-            "corners": "3/4[H]",
-            "fouls": "10/12[H]",
-            "goalKicks": "5/11[H]",
-            "saves": "1/5[H]",
-            "offsides": "3/3[H]",
-            "shotsOnTarget": "8/2[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "3/1[H]",
-            "throwIns": "29/39[H]",
-            "averageBallPossession": "51/49[H]",
-            "teams": "Portsmouth,Millwall,Home",
-            "tackles": "15/13[H]",
-            "interceptions": "9/12[H]",
-            "aerialDuels": "34/20[H]",
-            "aerialDuelsAttempted": "54/54[H]",
-            "dribbles": "2/6[H]",
-            "dribblesAttempted": "7/15[H]",
-            "isHome": true
-        },
-        {
             "corners": "5/5[A]",
             "fouls": "14/6[A]",
             "goalKicks": "11/8[A]",
@@ -401,323 +313,123 @@
             "dribbles": "5/4[A]",
             "dribblesAttempted": "8/11[A]",
             "isHome": false
-        },
-        {
-            "corners": "10/3[H]",
-            "fouls": "9/8[H]",
-            "goalKicks": "7/11[H]",
-            "saves": "3/7[H]",
-            "offsides": "0/3[H]",
-            "shotsOnTarget": "7/3[H]",
-            "yellowCards": "3/3[H]",
-            "goals": "0/0[H]",
-            "throwIns": "22/31[H]",
-            "averageBallPossession": "47/53[H]",
-            "teams": "Portsmouth,Wrexham,Home",
-            "tackles": "13/11[H]",
-            "interceptions": "11/6[H]",
-            "aerialDuels": "19/36[H]",
-            "aerialDuelsAttempted": "55/55[H]",
-            "dribbles": "6/2[H]",
-            "dribblesAttempted": "12/5[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/9[A]",
-            "fouls": "10/12[A]",
-            "goalKicks": "8/7[A]",
-            "saves": "3/0[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "0/7[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "0/4[A]",
-            "throwIns": "21/29[A]",
-            "averageBallPossession": "57/43[A]",
-            "teams": "Portsmouth,Birmingham,Away",
-            "tackles": "8/13[A]",
-            "interceptions": "9/8[A]",
-            "aerialDuels": "20/27[A]",
-            "aerialDuelsAttempted": "47/47[A]",
-            "dribbles": "5/7[A]",
-            "dribblesAttempted": "10/11[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/2[H]",
-            "fouls": "8/15[H]",
-            "goalKicks": "14/13[H]",
-            "saves": "2/3[H]",
-            "offsides": "4/3[H]",
-            "shotsOnTarget": "3/2[H]",
-            "yellowCards": "2/3[H]",
-            "goals": "0/1[H]",
-            "throwIns": "21/21[H]",
-            "averageBallPossession": "48/52[H]",
-            "teams": "Portsmouth,Stoke,Home",
-            "tackles": "9/5[H]",
-            "interceptions": "9/7[H]",
-            "aerialDuels": "14/20[H]",
-            "aerialDuelsAttempted": "34/34[H]",
-            "dribbles": "4/5[H]",
-            "dribblesAttempted": "5/7[H]",
-            "isHome": true
-        },
-        {
-            "corners": "6/5[H]",
-            "fouls": "5/12[H]",
-            "goalKicks": "13/10[H]",
-            "saves": "3/4[H]",
-            "offsides": "2/4[H]",
-            "shotsOnTarget": "5/7[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "1/2[H]",
-            "throwIns": "24/21[H]",
-            "averageBallPossession": "57/43[H]",
-            "teams": "Portsmouth,Coventry,Home",
-            "tackles": "8/12[H]",
-            "interceptions": "0/10[H]",
-            "aerialDuels": "17/26[H]",
-            "aerialDuelsAttempted": "43/43[H]",
-            "dribbles": "4/7[H]",
-            "dribblesAttempted": "10/12[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/14[A]",
-            "fouls": "9/15[A]",
-            "goalKicks": "13/5[A]",
-            "saves": "5/2[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "3/6[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "1/1[A]",
-            "throwIns": "19/25[A]",
-            "averageBallPossession": "44/56[A]",
-            "teams": "Portsmouth,Leicester,Away",
-            "tackles": "13/12[A]",
-            "interceptions": "7/12[A]",
-            "aerialDuels": "25/21[A]",
-            "aerialDuelsAttempted": "46/46[A]",
-            "dribbles": "4/5[A]",
-            "dribblesAttempted": "9/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/8[H]",
-            "fouls": "13/6[H]",
-            "goalKicks": "13/5[H]",
-            "saves": "1/0[H]",
-            "offsides": "0/2[H]",
-            "shotsOnTarget": "1/1[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "1/0[H]",
-            "throwIns": "10/21[H]",
-            "averageBallPossession": "38/62[H]",
-            "teams": "Portsmouth,Middlesbrough,Home",
-            "tackles": "14/16[H]",
-            "interceptions": "11/7[H]",
-            "aerialDuels": "12/12[H]",
-            "aerialDuelsAttempted": "24/24[H]",
-            "dribbles": "2/5[H]",
-            "dribblesAttempted": "11/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/3[H]",
-            "fouls": "9/15[H]",
-            "goalKicks": "6/12[H]",
-            "saves": "4/3[H]",
-            "offsides": "3/0[H]",
-            "shotsOnTarget": "5/6[H]",
-            "yellowCards": "2/5[H]",
-            "goals": "2/2[H]",
-            "throwIns": "29/14[H]",
-            "averageBallPossession": "63/37[H]",
-            "teams": "Portsmouth,Watford,Home",
-            "tackles": "12/15[H]",
-            "interceptions": "7/12[H]",
-            "aerialDuels": "24/23[H]",
-            "aerialDuelsAttempted": "47/47[H]",
-            "dribbles": "7/4[H]",
-            "dribblesAttempted": "14/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/5[A]",
-            "fouls": "11/15[A]",
-            "goalKicks": "11/2[A]",
-            "saves": "3/2[A]",
-            "offsides": "1/4[A]",
-            "shotsOnTarget": "3/5[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "1/2[A]",
-            "throwIns": "23/22[A]",
-            "averageBallPossession": "50/50[A]",
-            "teams": "Portsmouth,Ipswich,Away",
-            "tackles": "14/14[A]",
-            "interceptions": "9/10[A]",
-            "aerialDuels": "17/27[A]",
-            "aerialDuelsAttempted": "44/44[A]",
-            "dribbles": "3/5[A]",
-            "dribblesAttempted": "9/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "11/5[H]",
-            "fouls": "5/10[H]",
-            "goalKicks": "8/13[H]",
-            "saves": "6/4[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "5/8[H]",
-            "yellowCards": "1/4[H]",
-            "goals": "0/2[H]",
-            "throwIns": "36/18[H]",
-            "averageBallPossession": "70/30[H]",
-            "teams": "Portsmouth,Sheffield Wed,Home",
-            "tackles": "5/22[H]",
-            "interceptions": "4/13[H]",
-            "aerialDuels": "25/21[H]",
-            "aerialDuelsAttempted": "46/46[H]",
-            "dribbles": "6/7[H]",
-            "dribblesAttempted": "13/10[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/7[A]",
-            "fouls": "14/16[A]",
-            "goalKicks": "5/6[A]",
-            "saves": "1/1[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "1/1[A]",
-            "yellowCards": "2/4[A]",
-            "goals": "0/0[A]",
-            "throwIns": "23/26[A]",
-            "averageBallPossession": "40/60[A]",
-            "teams": "Portsmouth,Southampton,Away",
-            "tackles": "14/6[A]",
-            "interceptions": "9/9[A]",
-            "aerialDuels": "17/15[A]",
-            "aerialDuelsAttempted": "32/32[A]",
-            "dribbles": "4/6[A]",
-            "dribblesAttempted": "8/13[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
     "combinedMatchStatistics": {
-        "corners": "7/6[H]+6/5[A]+4/4[H]+2/7[A]+3/4[H]+5/5[A]+10/3[H]+5/9[A]+6/2[H]+6/5[H]+4/14[A]+2/8[H]+3/3[H]+4/5[A]+11/5[H]+5/7[A]",
-        "fouls": "9/14[H]+9/6[A]+11/12[H]+10/7[A]+10/12[H]+14/6[A]+9/8[H]+10/12[A]+8/15[H]+5/12[H]+9/15[A]+13/6[H]+9/15[H]+11/15[A]+5/10[H]+14/16[A]",
-        "goalKicks": "8/10[H]+12/7[A]+5/9[H]+6/8[A]+5/11[H]+11/8[A]+7/11[H]+8/7[A]+14/13[H]+13/10[H]+13/5[A]+13/5[H]+6/12[H]+11/2[A]+8/13[H]+5/6[A]",
-        "saves": "1/4[H]+5/3[A]+4/2[H]+3/2[A]+1/5[H]+1/3[A]+3/7[H]+3/0[A]+2/3[H]+3/4[H]+5/2[A]+1/0[H]+4/3[H]+3/2[A]+6/4[H]+1/1[A]",
-        "offsides": "2/2[H]+0/1[A]+2/6[H]+1/5[A]+3/3[H]+0/0[A]+0/3[H]+1/1[A]+4/3[H]+2/4[H]+2/0[A]+0/2[H]+3/0[H]+1/4[A]+3/1[H]+1/1[A]",
-        "shotsOnTarget": "7/2[H]+3/6[A]+2/5[H]+2/6[A]+8/2[H]+5/4[A]+7/3[H]+0/7[A]+3/2[H]+5/7[H]+3/6[A]+1/1[H]+5/6[H]+3/5[A]+5/8[H]+1/1[A]",
-        "yellowCards": "2/3[H]+3/2[A]+3/0[H]+1/0[A]+2/1[H]+3/1[A]+3/3[H]+2/1[A]+2/3[H]+1/1[H]+2/1[A]+2/1[H]+2/5[H]+2/1[A]+1/4[H]+2/4[A]",
-        "goals": "2/1[H]+0/1[A]+0/1[H]+0/3[A]+3/1[H]+2/3[A]+0/0[H]+0/4[A]+0/1[H]+1/2[H]+1/1[A]+1/0[H]+2/2[H]+1/2[A]+0/2[H]+0/0[A]",
-        "throwIns": "26/32[H]+20/30[A]+28/22[H]+15/29[A]+29/39[H]+29/24[A]+22/31[H]+21/29[A]+21/21[H]+24/21[H]+19/25[A]+10/21[H]+29/14[H]+23/22[A]+36/18[H]+23/26[A]",
-        "averageBallPossession": "54/46[H]+50/50[A]+50/50[H]+35/65[A]+51/49[H]+43/57[A]+47/53[H]+57/43[A]+48/52[H]+57/43[H]+44/56[A]+38/62[H]+63/37[H]+50/50[A]+70/30[H]+40/60[A]",
-        "teams": "Portsmouth,Blackburn,Home+Portsmouth,Swansea,Away+Portsmouth,Bristol City,Home+Portsmouth,Sheffield Utd,Away+Portsmouth,Millwall,Home+Portsmouth,Hull,Away+Portsmouth,Wrexham,Home+Portsmouth,Birmingham,Away+Portsmouth,Stoke,Home+Portsmouth,Coventry,Home+Portsmouth,Leicester,Away+Portsmouth,Middlesbrough,Home+Portsmouth,Watford,Home+Portsmouth,Ipswich,Away+Portsmouth,Sheffield Wed,Home+Portsmouth,Southampton,Away",
-        "tackles": "18/17[H]+10/12[A]+16/24[H]+15/10[A]+15/13[H]+15/10[A]+13/11[H]+8/13[A]+9/5[H]+8/12[H]+13/12[A]+14/16[H]+12/15[H]+14/14[A]+5/22[H]+14/6[A]",
-        "interceptions": "9/6[H]+11/7[A]+6/11[H]+10/6[A]+9/12[H]+6/8[A]+11/6[H]+9/8[A]+9/7[H]+0/10[H]+7/12[A]+11/7[H]+7/12[H]+9/10[A]+4/13[H]+9/9[A]",
-        "aerialDuels": "34/21[H]+18/20[A]+22/22[H]+15/25[A]+34/20[H]+28/29[A]+19/36[H]+20/27[A]+14/20[H]+17/26[H]+25/21[A]+12/12[H]+24/23[H]+17/27[A]+25/21[H]+17/15[A]",
-        "aerialDuelsAttempted": "55/55[H]+38/38[A]+44/44[H]+40/40[A]+54/54[H]+57/57[A]+55/55[H]+47/47[A]+34/34[H]+43/43[H]+46/46[A]+24/24[H]+47/47[H]+44/44[A]+46/46[H]+32/32[A]",
-        "dribbles": "2/4[H]+7/8[A]+7/6[H]+3/3[A]+2/6[H]+5/4[A]+6/2[H]+5/7[A]+4/5[H]+4/7[H]+4/5[A]+2/5[H]+7/4[H]+3/5[A]+6/7[H]+4/6[A]",
-        "dribblesAttempted": "7/18[H]+12/11[A]+20/14[H]+9/8[A]+7/15[H]+8/11[A]+12/5[H]+10/11[A]+5/7[H]+10/12[H]+9/13[A]+11/11[H]+14/9[H]+9/13[A]+13/10[H]+8/13[A]",
-        "isHome": "true+false+true+false+true+false+true+false+true+true+false+true+true+false+true+false",
-        "cornersTotals": "83/92",
-        "cornersTotalsHome": "52/40",
-        "cornersTotalsAway": "31/52",
-        "cornersAverage": "5.19/5.75",
-        "cornersAverageHome": "5.78/4.44",
-        "cornersAverageAway": "4.43/7.43",
-        "foulsTotals": "156/181",
-        "foulsTotalsHome": "79/104",
-        "foulsTotalsAway": "77/77",
-        "foulsAverage": "9.75/11.31",
-        "foulsAverageHome": "8.78/11.56",
-        "foulsAverageAway": "11.00/11.00",
-        "goalKicksTotals": "145/137",
-        "goalKicksTotalsHome": "79/94",
-        "goalKicksTotalsAway": "66/43",
-        "goalKicksAverage": "9.06/8.56",
-        "goalKicksAverageHome": "8.78/10.44",
-        "goalKicksAverageAway": "9.43/6.14",
-        "savesTotals": "46/45",
-        "savesTotalsHome": "25/32",
-        "savesTotalsAway": "21/13",
-        "savesAverage": "2.88/2.81",
-        "savesAverageHome": "2.78/3.56",
-        "savesAverageAway": "3.00/1.86",
-        "offsidesTotals": "25/36",
-        "offsidesTotalsHome": "19/24",
-        "offsidesTotalsAway": "6/12",
-        "offsidesAverage": "1.56/2.25",
-        "offsidesAverageHome": "2.11/2.67",
-        "offsidesAverageAway": "0.86/1.71",
-        "shotsOnTargetTotals": "60/71",
-        "shotsOnTargetTotalsHome": "43/36",
-        "shotsOnTargetTotalsAway": "17/35",
-        "shotsOnTargetAverage": "3.75/4.44",
-        "shotsOnTargetAverageHome": "4.78/4.00",
-        "shotsOnTargetAverageAway": "2.43/5.00",
-        "yellowCardsTotals": "33/31",
-        "yellowCardsTotalsHome": "18/21",
-        "yellowCardsTotalsAway": "15/10",
-        "yellowCardsAverage": "2.06/1.94",
-        "yellowCardsAverageHome": "2.00/2.33",
-        "yellowCardsAverageAway": "2.14/1.43",
-        "goalsTotals": "13/24",
-        "goalsTotalsHome": "9/10",
-        "goalsTotalsAway": "4/14",
-        "goalsAverage": "0.81/1.50",
-        "goalsAverageHome": "1.00/1.11",
-        "goalsAverageAway": "0.57/2.00",
-        "throwInsTotals": "375/404",
-        "throwInsTotalsHome": "225/219",
-        "throwInsTotalsAway": "150/185",
-        "throwInsAverage": "23.44/25.25",
-        "throwInsAverageHome": "25.00/24.33",
-        "throwInsAverageAway": "21.43/26.43",
-        "averageBallPossessionTotals": "797/803",
-        "averageBallPossessionTotalsHome": "478/422",
-        "averageBallPossessionTotalsAway": "319/381",
-        "averageBallPossessionAverage": "49.81/50.19",
-        "averageBallPossessionAverageHome": "53.11/46.89",
-        "averageBallPossessionAverageAway": "45.57/54.43",
-        "tacklesTotals": "199/212",
-        "tacklesTotalsHome": "110/135",
-        "tacklesTotalsAway": "89/77",
-        "tacklesAverage": "12.44/13.25",
-        "tacklesAverageHome": "12.22/15.00",
-        "tacklesAverageAway": "12.71/11.00",
-        "interceptionsTotals": "127/144",
-        "interceptionsTotalsHome": "66/84",
-        "interceptionsTotalsAway": "61/60",
-        "interceptionsAverage": "7.94/9.00",
-        "interceptionsAverageHome": "7.33/9.33",
-        "interceptionsAverageAway": "8.71/8.57",
-        "aerialDuelsTotals": "341/365",
-        "aerialDuelsTotalsHome": "201/201",
-        "aerialDuelsTotalsAway": "140/164",
-        "aerialDuelsAverage": "21.31/22.81",
-        "aerialDuelsAverageHome": "22.33/22.33",
-        "aerialDuelsAverageAway": "20.00/23.43",
-        "aerialDuelsAttemptedTotals": "706/706",
-        "aerialDuelsAttemptedTotalsHome": "402/402",
-        "aerialDuelsAttemptedTotalsAway": "304/304",
-        "aerialDuelsAttemptedAverage": "44.13/44.13",
-        "aerialDuelsAttemptedAverageHome": "44.67/44.67",
-        "aerialDuelsAttemptedAverageAway": "43.43/43.43",
-        "dribblesTotals": "71/84",
-        "dribblesTotalsHome": "40/46",
-        "dribblesTotalsAway": "31/38",
-        "dribblesAverage": "4.44/5.25",
-        "dribblesAverageHome": "4.44/5.11",
-        "dribblesAverageAway": "4.43/5.43",
-        "dribblesAttemptedTotals": "164/181",
-        "dribblesAttemptedTotalsHome": "99/101",
-        "dribblesAttemptedTotalsAway": "65/80",
-        "dribblesAttemptedAverage": "10.25/11.31",
-        "dribblesAttemptedAverageHome": "11.00/11.22",
-        "dribblesAttemptedAverageAway": "9.29/11.43"
+        "corners": "5/11[H]+9/3[H]+4/6[A]+7/6[H]+6/5[A]+4/4[H]+2/7[A]+5/5[A]",
+        "fouls": "11/16[H]+9/14[H]+4/7[A]+9/14[H]+9/6[A]+11/12[H]+10/7[A]+14/6[A]",
+        "goalKicks": "7/8[H]+8/6[H]+8/7[A]+8/10[H]+12/7[A]+5/9[H]+6/8[A]+11/8[A]",
+        "saves": "3/3[H]+2/1[H]+6/0[A]+1/4[H]+5/3[A]+4/2[H]+3/2[A]+1/3[A]",
+        "offsides": "0/2[H]+0/1[H]+1/2[A]+2/2[H]+0/1[A]+2/6[H]+1/5[A]+0/0[A]",
+        "shotsOnTarget": "5/4[H]+2/3[H]+1/6[A]+7/2[H]+3/6[A]+2/5[H]+2/6[A]+5/4[A]",
+        "yellowCards": "2/3[H]+1/2[H]+1/1[A]+2/3[H]+3/2[A]+3/0[H]+1/0[A]+3/1[A]",
+        "goals": "2/1[H]+1/1[H]+1/1[A]+2/1[H]+0/1[A]+0/1[H]+0/3[A]+2/3[A]",
+        "throwIns": "22/31[H]+23/18[H]+26/22[A]+26/32[H]+20/30[A]+28/22[H]+15/29[A]+29/24[A]",
+        "averageBallPossession": "55/45[H]+67/33[H]+48/52[A]+54/46[H]+50/50[A]+50/50[H]+35/65[A]+43/57[A]",
+        "teams": "Portsmouth,Charlton,Home+Portsmouth,QPR,Home+Portsmouth,Derby,Away+Portsmouth,Blackburn,Home+Portsmouth,Swansea,Away+Portsmouth,Bristol City,Home+Portsmouth,Sheffield Utd,Away+Portsmouth,Hull,Away",
+        "tackles": "9/8[H]+18/17[H]+18/14[A]+18/17[H]+10/12[A]+16/24[H]+15/10[A]+15/10[A]",
+        "interceptions": "3/4[H]+12/11[H]+6/14[A]+9/6[H]+11/7[A]+6/11[H]+10/6[A]+6/8[A]",
+        "aerialDuels": "34/39[H]+30/27[H]+16/30[A]+34/21[H]+18/20[A]+22/22[H]+15/25[A]+28/29[A]",
+        "aerialDuelsAttempted": "73/73[H]+57/57[H]+46/46[A]+55/55[H]+38/38[A]+44/44[H]+40/40[A]+57/57[A]",
+        "dribbles": "2/3[H]+10/7[H]+6/10[A]+2/4[H]+7/8[A]+7/6[H]+3/3[A]+5/4[A]",
+        "dribblesAttempted": "5/9[H]+19/18[H]+18/20[A]+7/18[H]+12/11[A]+20/14[H]+9/8[A]+8/11[A]",
+        "isHome": "true+true+false+true+false+true+false+false",
+        "cornersTotals": "42/47",
+        "cornersTotalsHome": "25/24",
+        "cornersTotalsAway": "17/23",
+        "cornersAverage": "5.25/5.88",
+        "cornersAverageHome": "6.25/6.00",
+        "cornersAverageAway": "4.25/5.75",
+        "foulsTotals": "77/82",
+        "foulsTotalsHome": "40/56",
+        "foulsTotalsAway": "37/26",
+        "foulsAverage": "9.63/10.25",
+        "foulsAverageHome": "10.00/14.00",
+        "foulsAverageAway": "9.25/6.50",
+        "goalKicksTotals": "65/63",
+        "goalKicksTotalsHome": "28/33",
+        "goalKicksTotalsAway": "37/30",
+        "goalKicksAverage": "8.13/7.88",
+        "goalKicksAverageHome": "7.00/8.25",
+        "goalKicksAverageAway": "9.25/7.50",
+        "savesTotals": "25/18",
+        "savesTotalsHome": "10/10",
+        "savesTotalsAway": "15/8",
+        "savesAverage": "3.13/2.25",
+        "savesAverageHome": "2.50/2.50",
+        "savesAverageAway": "3.75/2.00",
+        "offsidesTotals": "6/19",
+        "offsidesTotalsHome": "4/11",
+        "offsidesTotalsAway": "2/8",
+        "offsidesAverage": "0.75/2.38",
+        "offsidesAverageHome": "1.00/2.75",
+        "offsidesAverageAway": "0.50/2.00",
+        "shotsOnTargetTotals": "27/36",
+        "shotsOnTargetTotalsHome": "16/14",
+        "shotsOnTargetTotalsAway": "11/22",
+        "shotsOnTargetAverage": "3.38/4.50",
+        "shotsOnTargetAverageHome": "4.00/3.50",
+        "shotsOnTargetAverageAway": "2.75/5.50",
+        "yellowCardsTotals": "16/12",
+        "yellowCardsTotalsHome": "8/8",
+        "yellowCardsTotalsAway": "8/4",
+        "yellowCardsAverage": "2.00/1.50",
+        "yellowCardsAverageHome": "2.00/2.00",
+        "yellowCardsAverageAway": "2.00/1.00",
+        "goalsTotals": "8/12",
+        "goalsTotalsHome": "5/4",
+        "goalsTotalsAway": "3/8",
+        "goalsAverage": "1.00/1.50",
+        "goalsAverageHome": "1.25/1.00",
+        "goalsAverageAway": "0.75/2.00",
+        "throwInsTotals": "189/208",
+        "throwInsTotalsHome": "99/103",
+        "throwInsTotalsAway": "90/105",
+        "throwInsAverage": "23.63/26.00",
+        "throwInsAverageHome": "24.75/25.75",
+        "throwInsAverageAway": "22.50/26.25",
+        "averageBallPossessionTotals": "402/398",
+        "averageBallPossessionTotalsHome": "226/174",
+        "averageBallPossessionTotalsAway": "176/224",
+        "averageBallPossessionAverage": "50.25/49.75",
+        "averageBallPossessionAverageHome": "56.50/43.50",
+        "averageBallPossessionAverageAway": "44.00/56.00",
+        "tacklesTotals": "119/112",
+        "tacklesTotalsHome": "61/66",
+        "tacklesTotalsAway": "58/46",
+        "tacklesAverage": "14.88/14.00",
+        "tacklesAverageHome": "15.25/16.50",
+        "tacklesAverageAway": "14.50/11.50",
+        "interceptionsTotals": "63/67",
+        "interceptionsTotalsHome": "30/32",
+        "interceptionsTotalsAway": "33/35",
+        "interceptionsAverage": "7.88/8.38",
+        "interceptionsAverageHome": "7.50/8.00",
+        "interceptionsAverageAway": "8.25/8.75",
+        "aerialDuelsTotals": "197/213",
+        "aerialDuelsTotalsHome": "120/109",
+        "aerialDuelsTotalsAway": "77/104",
+        "aerialDuelsAverage": "24.63/26.63",
+        "aerialDuelsAverageHome": "30.00/27.25",
+        "aerialDuelsAverageAway": "19.25/26.00",
+        "aerialDuelsAttemptedTotals": "410/410",
+        "aerialDuelsAttemptedTotalsHome": "229/229",
+        "aerialDuelsAttemptedTotalsAway": "181/181",
+        "aerialDuelsAttemptedAverage": "51.25/51.25",
+        "aerialDuelsAttemptedAverageHome": "57.25/57.25",
+        "aerialDuelsAttemptedAverageAway": "45.25/45.25",
+        "dribblesTotals": "42/45",
+        "dribblesTotalsHome": "21/20",
+        "dribblesTotalsAway": "21/25",
+        "dribblesAverage": "5.25/5.63",
+        "dribblesAverageHome": "5.25/5.00",
+        "dribblesAverageAway": "5.25/6.25",
+        "dribblesAttemptedTotals": "98/109",
+        "dribblesAttemptedTotalsHome": "51/59",
+        "dribblesAttemptedTotalsAway": "47/50",
+        "dribblesAttemptedAverage": "12.25/13.63",
+        "dribblesAttemptedAverageHome": "12.75/14.75",
+        "dribblesAttemptedAverageAway": "11.75/12.50"
     }
 }

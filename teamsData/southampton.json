@@ -1,27 +1,75 @@
 {
     "globalStatistics": {
-        "corners": "5.43",
-        "fouls": "10.86",
-        "goalKicks": "8.48",
-        "saves": "2.10",
-        "offsides": "1.67",
-        "shotsOnTarget": "5.29/3.52",
-        "yellowCards": "1.95/2.57",
-        "goals": "1.67/1.43",
-        "throwIns": "20.76",
-        "ballPossession": 56.809523809524,
-        "tackles": "14.43/15.57",
-        "interceptions": "7.19/7.00",
-        "aerialDuels": "13.00",
-        "aerialDuelsAttempted": "29.67",
-        "dribbles": "7.24/5.48",
-        "dribblesAttempted": "15.29/11.95"
+        "corners": "5.54",
+        "fouls": "10.92",
+        "goalKicks": "8.71",
+        "saves": "2.25",
+        "offsides": "1.71",
+        "shotsOnTarget": "5.33/3.67",
+        "yellowCards": "1.88/2.42",
+        "goals": "1.58/1.42",
+        "throwIns": "20.42",
+        "ballPossession": 57.708333333333,
+        "tackles": "14.50/15.42",
+        "interceptions": "6.92/7.33",
+        "aerialDuels": "13.33",
+        "aerialDuelsAttempted": "29.79",
+        "dribbles": "7.08/5.33",
+        "dribblesAttempted": "14.67/12.08"
     },
     "teamSlug": "southampton",
     "teamId": "45",
     "teamName": "Southampton",
     "tournament": "Championship",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/southampton-birmingham-city/jsV#id:14059733,tab:statistics",
+            "teams": [
+                "Birmingham",
+                "Southampton"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "9",
+                "45"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-southampton/VsVb#id:14059727,tab:statistics",
+            "teams": [
+                "Oxford Utd",
+                "Southampton"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "95",
+                "45"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/southampton-coventry-city/lsV#id:14059715,tab:statistics",
+            "teams": [
+                "Southampton",
+                "Coventry"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "45",
+                "11"
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/norwich-city-southampton/Aptd#id:14059702,tab:statistics",
             "teams": [
@@ -101,171 +149,71 @@
                 "31"
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/charlton-athletic-southampton/VsX#id:14059638,tab:statistics",
-            "teams": [
-                "Charlton",
-                "Southampton"
-            ],
-            "goals": [
-                "1",
-                "5"
-            ],
-            "teamIds": [
-                "47",
-                "45"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-sheffield-wednesday/msV#id:14059630,tab:statistics",
-            "teams": [
-                "Southampton",
-                "Sheffield Wed"
-            ],
-            "goals": [
-                "3",
-                "1"
-            ],
-            "teamIds": [
-                "45",
-                "12"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-queens-park-rangers/bsV#id:14059625,tab:statistics",
-            "teams": [
-                "QPR",
-                "Southampton"
-            ],
-            "goals": [
-                "1",
-                "2"
-            ],
-            "teamIds": [
-                "1",
-                "45"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-preston-north-end/wsV#id:14059610,tab:statistics",
-            "teams": [
-                "Southampton",
-                "Preston"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "45",
-                "21"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/blackburn-rovers-southampton/VsW#id:14059588,tab:statistics",
-            "teams": [
-                "Blackburn",
-                "Southampton"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "46",
-                "45"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/bristol-city-southampton/Vsib#id:14059579,tab:statistics",
-            "teams": [
-                "Bristol City",
-                "Southampton"
-            ],
-            "goals": [
-                "3",
-                "1"
-            ],
-            "teamIds": [
-                "58",
-                "45"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/swansea-city-southampton/Vzb#id:14059574,tab:statistics",
-            "teams": [
-                "Southampton",
-                "Swansea"
-            ],
-            "goals": [
-                "0",
-                "0"
-            ],
-            "teamIds": [
-                "45",
-                "74"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-derby-county/CsV#id:14059555,tab:statistics",
-            "teams": [
-                "Derby",
-                "Southampton"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "27",
-                "45"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-sheffield-united/psV#id:14059546,tab:statistics",
-            "teams": [
-                "Sheffield Utd",
-                "Southampton"
-            ],
-            "goals": [
-                "1",
-                "2"
-            ],
-            "teamIds": [
-                "15",
-                "45"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/southampton-middlesbrough/LsV#id:14059534,tab:statistics",
-            "teams": [
-                "Southampton",
-                "Middlesbrough"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "45",
-                "36"
-            ],
-            "isHome": true
         }
     ],
-    "homeMatchCount": 7,
-    "awayMatchCount": 8,
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/2[A]",
+            "fouls": "15/10[A]",
+            "goalKicks": "14/7[A]",
+            "saves": "3/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "22/14[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Southampton,Birmingham,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "2/9[A]",
+            "aerialDuels": "10/17[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "2/1[A]",
+            "dribblesAttempted": "6/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "9/14[A]",
+            "goalKicks": "12/10[A]",
+            "saves": "4/4[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "14/11[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "Southampton,Oxford Utd,Away",
+            "tackles": "15/19[A]",
+            "interceptions": "7/14[A]",
+            "aerialDuels": "16/9[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "12/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "3/8[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "7/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/19[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Southampton,Coventry,Home",
+            "tackles": "17/10[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "21/19[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "13/20[H]",
+            "isHome": true
+        },
         {
             "corners": "5/6[A]",
             "fouls": "10/15[A]",
@@ -365,323 +313,123 @@
             "dribbles": "6/1[H]",
             "dribblesAttempted": "14/11[H]",
             "isHome": true
-        },
-        {
-            "corners": "4/3[A]",
-            "fouls": "6/15[A]",
-            "goalKicks": "9/9[A]",
-            "saves": "1/3[A]",
-            "offsides": "1/2[A]",
-            "shotsOnTarget": "8/2[A]",
-            "yellowCards": "0/4[A]",
-            "goals": "5/1[A]",
-            "throwIns": "18/9[A]",
-            "averageBallPossession": "59/41[A]",
-            "teams": "Southampton,Charlton,Away",
-            "tackles": "19/11[A]",
-            "interceptions": "7/6[A]",
-            "aerialDuels": "6/12[A]",
-            "aerialDuelsAttempted": "18/18[A]",
-            "dribbles": "11/8[A]",
-            "dribblesAttempted": "17/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/5[H]",
-            "fouls": "8/16[H]",
-            "goalKicks": "11/2[H]",
-            "saves": "3/3[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "7/3[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "3/1[H]",
-            "throwIns": "18/21[H]",
-            "averageBallPossession": "43/57[H]",
-            "teams": "Southampton,Sheffield Wed,Home",
-            "tackles": "20/17[H]",
-            "interceptions": "9/2[H]",
-            "aerialDuels": "10/12[H]",
-            "aerialDuelsAttempted": "22/22[H]",
-            "dribbles": "6/6[H]",
-            "dribblesAttempted": "17/15[H]",
-            "isHome": true
-        },
-        {
-            "corners": "1/12[A]",
-            "fouls": "14/12[A]",
-            "goalKicks": "12/6[A]",
-            "saves": "4/0[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "2/5[A]",
-            "yellowCards": "3/1[A]",
-            "goals": "2/1[A]",
-            "throwIns": "16/20[A]",
-            "averageBallPossession": "39/61[A]",
-            "teams": "Southampton,QPR,Away",
-            "tackles": "11/11[A]",
-            "interceptions": "6/2[A]",
-            "aerialDuels": "17/15[A]",
-            "aerialDuelsAttempted": "32/32[A]",
-            "dribbles": "5/8[A]",
-            "dribblesAttempted": "12/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "8/2[H]",
-            "fouls": "11/18[H]",
-            "goalKicks": "3/13[H]",
-            "saves": "1/2[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "2/3[H]",
-            "yellowCards": "1/3[H]",
-            "goals": "0/2[H]",
-            "throwIns": "30/9[H]",
-            "averageBallPossession": "64/36[H]",
-            "teams": "Southampton,Preston,Home",
-            "tackles": "20/21[H]",
-            "interceptions": "5/8[H]",
-            "aerialDuels": "11/17[H]",
-            "aerialDuelsAttempted": "28/28[H]",
-            "dribbles": "5/5[H]",
-            "dribblesAttempted": "15/14[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/6[A]",
-            "fouls": "7/13[A]",
-            "goalKicks": "15/6[A]",
-            "saves": "5/4[A]",
-            "offsides": "3/1[A]",
-            "shotsOnTarget": "5/6[A]",
-            "yellowCards": "1/2[A]",
-            "goals": "1/2[A]",
-            "throwIns": "33/17[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "Southampton,Blackburn,Away",
-            "tackles": "17/19[A]",
-            "interceptions": "6/8[A]",
-            "aerialDuels": "21/35[A]",
-            "aerialDuelsAttempted": "56/56[A]",
-            "dribbles": "10/8[A]",
-            "dribblesAttempted": "22/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/2[A]",
-            "fouls": "11/10[A]",
-            "goalKicks": "7/8[A]",
-            "saves": "1/6[A]",
-            "offsides": "3/0[A]",
-            "shotsOnTarget": "7/4[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "1/3[A]",
-            "throwIns": "26/25[A]",
-            "averageBallPossession": "67/33[A]",
-            "teams": "Southampton,Bristol City,Away",
-            "tackles": "16/17[A]",
-            "interceptions": "10/8[A]",
-            "aerialDuels": "14/20[A]",
-            "aerialDuelsAttempted": "34/34[A]",
-            "dribbles": "11/4[A]",
-            "dribblesAttempted": "21/10[A]",
-            "isHome": false
-        },
-        {
-            "corners": "5/3[H]",
-            "fouls": "11/14[H]",
-            "goalKicks": "6/13[H]",
-            "saves": "1/8[H]",
-            "offsides": "2/3[H]",
-            "shotsOnTarget": "8/1[H]",
-            "yellowCards": "0/4[H]",
-            "goals": "0/0[H]",
-            "throwIns": "22/13[H]",
-            "averageBallPossession": "58/42[H]",
-            "teams": "Southampton,Swansea,Home",
-            "tackles": "17/15[H]",
-            "interceptions": "7/9[H]",
-            "aerialDuels": "23/11[H]",
-            "aerialDuelsAttempted": "34/34[H]",
-            "dribbles": "6/4[H]",
-            "dribblesAttempted": "11/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/3[A]",
-            "fouls": "9/11[A]",
-            "goalKicks": "4/8[A]",
-            "saves": "4/5[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "6/5[A]",
-            "yellowCards": "2/4[A]",
-            "goals": "1/1[A]",
-            "throwIns": "25/19[A]",
-            "averageBallPossession": "63/37[A]",
-            "teams": "Southampton,Derby,Away",
-            "tackles": "9/17[A]",
-            "interceptions": "6/7[A]",
-            "aerialDuels": "12/16[A]",
-            "aerialDuelsAttempted": "28/28[A]",
-            "dribbles": "4/4[A]",
-            "dribblesAttempted": "13/9[A]",
-            "isHome": false
-        },
-        {
-            "corners": "5/4[A]",
-            "fouls": "19/14[A]",
-            "goalKicks": "8/3[A]",
-            "saves": "2/3[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "5/3[A]",
-            "yellowCards": "4/3[A]",
-            "goals": "2/1[A]",
-            "throwIns": "11/26[A]",
-            "averageBallPossession": "52/48[A]",
-            "teams": "Southampton,Sheffield Utd,Away",
-            "tackles": "14/14[A]",
-            "interceptions": "9/5[A]",
-            "aerialDuels": "15/15[A]",
-            "aerialDuelsAttempted": "30/30[A]",
-            "dribbles": "7/6[A]",
-            "dribblesAttempted": "14/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/3[H]",
-            "fouls": "11/17[H]",
-            "goalKicks": "6/5[H]",
-            "saves": "0/1[H]",
-            "offsides": "1/2[H]",
-            "shotsOnTarget": "2/1[H]",
-            "yellowCards": "1/6[H]",
-            "goals": "1/1[H]",
-            "throwIns": "13/19[H]",
-            "averageBallPossession": "55/45[H]",
-            "teams": "Southampton,Middlesbrough,Home",
-            "tackles": "25/19[H]",
-            "interceptions": "10/9[H]",
-            "aerialDuels": "11/9[H]",
-            "aerialDuelsAttempted": "20/20[H]",
-            "dribbles": "9/4[H]",
-            "dribblesAttempted": "17/13[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
     "combinedMatchStatistics": {
-        "corners": "5/6[A]+2/9[H]+7/8[H]+6/9[A]+11/3[H]+4/3[A]+4/5[H]+1/12[A]+8/2[H]+5/6[A]+3/2[A]+5/3[H]+5/3[A]+5/4[A]+6/3[H]",
-        "fouls": "10/15[A]+12/13[H]+9/11[H]+6/11[A]+8/13[H]+6/15[A]+8/16[H]+14/12[A]+11/18[H]+7/13[A]+11/10[A]+11/14[H]+9/11[A]+19/14[A]+11/17[H]",
-        "goalKicks": "8/8[A]+8/3[H]+14/10[H]+13/1[A]+2/10[H]+9/9[A]+11/2[H]+12/6[A]+3/13[H]+15/6[A]+7/8[A]+6/13[H]+4/8[A]+8/3[A]+6/5[H]",
-        "saves": "3/3[A]+4/1[H]+3/5[H]+3/7[A]+1/5[H]+1/3[A]+3/3[H]+4/0[A]+1/2[H]+5/4[A]+1/6[A]+1/8[H]+4/5[A]+2/3[A]+0/1[H]",
-        "offsides": "2/2[A]+1/3[H]+0/2[H]+3/2[A]+1/0[H]+1/2[A]+0/0[H]+1/0[A]+2/1[H]+3/1[A]+3/0[A]+2/3[H]+2/1[A]+2/3[A]+1/2[H]",
-        "shotsOnTarget": "4/5[A]+4/7[H]+8/4[H]+8/7[A]+8/2[H]+8/2[A]+7/3[H]+2/5[A]+2/3[H]+5/6[A]+7/4[A]+8/1[H]+6/5[A]+5/3[A]+2/1[H]",
-        "yellowCards": "2/2[A]+2/2[H]+1/1[H]+2/1[A]+1/2[H]+0/4[A]+2/2[H]+3/1[A]+1/3[H]+1/2[A]+2/1[A]+0/4[H]+2/4[A]+4/3[A]+1/6[H]",
-        "goals": "1/2[A]+3/2[H]+3/1[H]+2/3[A]+3/0[H]+5/1[A]+3/1[H]+2/1[A]+0/2[H]+1/2[A]+1/3[A]+0/0[H]+1/1[A]+2/1[A]+1/1[H]",
-        "throwIns": "24/15[A]+20/18[H]+17/16[H]+20/17[A]+13/7[H]+18/9[A]+18/21[H]+16/20[A]+30/9[H]+33/17[A]+26/25[A]+22/13[H]+25/19[A]+11/26[A]+13/19[H]",
-        "averageBallPossession": "63/37[A]+55/45[H]+40/60[H]+59/41[A]+61/39[H]+59/41[A]+43/57[H]+39/61[A]+64/36[H]+49/51[A]+67/33[A]+58/42[H]+63/37[A]+52/48[A]+55/45[H]",
-        "teams": "Southampton,Norwich,Away+Southampton,West Brom,Home+Southampton,Birmingham,Home+Southampton,Millwall,Away+Southampton,Leicester,Home+Southampton,Charlton,Away+Southampton,Sheffield Wed,Home+Southampton,QPR,Away+Southampton,Preston,Home+Southampton,Blackburn,Away+Southampton,Bristol City,Away+Southampton,Swansea,Home+Southampton,Derby,Away+Southampton,Sheffield Utd,Away+Southampton,Middlesbrough,Home",
-        "tackles": "23/22[A]+14/17[H]+8/18[H]+9/13[A]+11/15[H]+19/11[A]+20/17[H]+11/11[A]+20/21[H]+17/19[A]+16/17[A]+17/15[H]+9/17[A]+14/14[A]+25/19[H]",
-        "interceptions": "10/10[A]+6/9[H]+7/4[H]+7/18[A]+8/4[H]+7/6[A]+9/2[H]+6/2[A]+5/8[H]+6/8[A]+10/8[A]+7/9[H]+6/7[A]+9/5[A]+10/9[H]",
-        "aerialDuels": "12/12[A]+12/22[H]+11/17[H]+9/20[A]+9/14[H]+6/12[A]+10/12[H]+17/15[A]+11/17[H]+21/35[A]+14/20[A]+23/11[H]+12/16[A]+15/15[A]+11/9[H]",
-        "aerialDuelsAttempted": "24/24[A]+34/34[H]+28/28[H]+29/29[A]+23/23[H]+18/18[A]+22/22[H]+32/32[A]+28/28[H]+56/56[A]+34/34[A]+34/34[H]+28/28[A]+30/30[A]+20/20[H]",
-        "dribbles": "9/5[A]+7/3[H]+6/5[H]+6/8[A]+6/1[H]+11/8[A]+6/6[H]+5/8[A]+5/5[H]+10/8[A]+11/4[A]+6/4[H]+4/4[A]+7/6[A]+9/4[H]",
-        "dribblesAttempted": "20/17[A]+19/8[H]+17/7[H]+11/13[A]+14/11[H]+17/17[A]+17/15[H]+12/12[A]+15/14[H]+22/17[A]+21/10[A]+11/11[H]+13/9[A]+14/12[A]+17/13[H]",
-        "isHome": "false+true+true+false+true+false+true+false+true+false+false+true+false+false+true",
-        "cornersTotals": "77/78",
-        "cornersTotalsHome": "43/33",
-        "cornersTotalsAway": "34/45",
-        "cornersAverage": "5.13/5.20",
-        "cornersAverageHome": "6.14/4.71",
-        "cornersAverageAway": "4.25/5.63",
-        "foulsTotals": "152/203",
-        "foulsTotalsHome": "70/102",
-        "foulsTotalsAway": "82/101",
-        "foulsAverage": "10.13/13.53",
-        "foulsAverageHome": "10.00/14.57",
-        "foulsAverageAway": "10.25/12.63",
-        "goalKicksTotals": "126/105",
-        "goalKicksTotalsHome": "50/56",
-        "goalKicksTotalsAway": "76/49",
-        "goalKicksAverage": "8.40/7.00",
-        "goalKicksAverageHome": "7.14/8.00",
-        "goalKicksAverageAway": "9.50/6.13",
-        "savesTotals": "36/56",
-        "savesTotalsHome": "13/25",
-        "savesTotalsAway": "23/31",
-        "savesAverage": "2.40/3.73",
-        "savesAverageHome": "1.86/3.57",
-        "savesAverageAway": "2.88/3.88",
-        "offsidesTotals": "24/22",
-        "offsidesTotalsHome": "7/11",
-        "offsidesTotalsAway": "17/11",
-        "offsidesAverage": "1.60/1.47",
-        "offsidesAverageHome": "1.00/1.57",
-        "offsidesAverageAway": "2.13/1.38",
-        "shotsOnTargetTotals": "84/58",
-        "shotsOnTargetTotalsHome": "39/21",
-        "shotsOnTargetTotalsAway": "45/37",
-        "shotsOnTargetAverage": "5.60/3.87",
-        "shotsOnTargetAverageHome": "5.57/3.00",
-        "shotsOnTargetAverageAway": "5.63/4.63",
-        "yellowCardsTotals": "24/38",
-        "yellowCardsTotalsHome": "8/20",
-        "yellowCardsTotalsAway": "16/18",
-        "yellowCardsAverage": "1.60/2.53",
-        "yellowCardsAverageHome": "1.14/2.86",
-        "yellowCardsAverageAway": "2.00/2.25",
-        "goalsTotals": "28/21",
-        "goalsTotalsHome": "13/7",
-        "goalsTotalsAway": "15/14",
-        "goalsAverage": "1.87/1.40",
-        "goalsAverageHome": "1.86/1.00",
-        "goalsAverageAway": "1.88/1.75",
-        "throwInsTotals": "306/251",
-        "throwInsTotalsHome": "133/103",
-        "throwInsTotalsAway": "173/148",
-        "throwInsAverage": "20.40/16.73",
-        "throwInsAverageHome": "19.00/14.71",
-        "throwInsAverageAway": "21.63/18.50",
-        "averageBallPossessionTotals": "827/673",
-        "averageBallPossessionTotalsHome": "376/324",
-        "averageBallPossessionTotalsAway": "451/349",
-        "averageBallPossessionAverage": "55.13/44.87",
-        "averageBallPossessionAverageHome": "53.71/46.29",
-        "averageBallPossessionAverageAway": "56.38/43.63",
-        "tacklesTotals": "233/246",
-        "tacklesTotalsHome": "115/122",
-        "tacklesTotalsAway": "118/124",
-        "tacklesAverage": "15.53/16.40",
-        "tacklesAverageHome": "16.43/17.43",
-        "tacklesAverageAway": "14.75/15.50",
-        "interceptionsTotals": "113/109",
-        "interceptionsTotalsHome": "52/45",
-        "interceptionsTotalsAway": "61/64",
-        "interceptionsAverage": "7.53/7.27",
-        "interceptionsAverageHome": "7.43/6.43",
-        "interceptionsAverageAway": "7.63/8.00",
-        "aerialDuelsTotals": "193/247",
-        "aerialDuelsTotalsHome": "87/102",
-        "aerialDuelsTotalsAway": "106/145",
-        "aerialDuelsAverage": "12.87/16.47",
-        "aerialDuelsAverageHome": "12.43/14.57",
-        "aerialDuelsAverageAway": "13.25/18.13",
-        "aerialDuelsAttemptedTotals": "440/440",
-        "aerialDuelsAttemptedTotalsHome": "189/189",
-        "aerialDuelsAttemptedTotalsAway": "251/251",
-        "aerialDuelsAttemptedAverage": "29.33/29.33",
-        "aerialDuelsAttemptedAverageHome": "27.00/27.00",
-        "aerialDuelsAttemptedAverageAway": "31.38/31.38",
-        "dribblesTotals": "108/79",
-        "dribblesTotalsHome": "45/28",
-        "dribblesTotalsAway": "63/51",
-        "dribblesAverage": "7.20/5.27",
-        "dribblesAverageHome": "6.43/4.00",
-        "dribblesAverageAway": "7.88/6.38",
-        "dribblesAttemptedTotals": "240/186",
-        "dribblesAttemptedTotalsHome": "110/79",
-        "dribblesAttemptedTotalsAway": "130/107",
-        "dribblesAttemptedAverage": "16.00/12.40",
-        "dribblesAttemptedAverageHome": "15.71/11.29",
-        "dribblesAttemptedAverageAway": "16.25/13.38"
+        "corners": "5/2[A]+7/5[A]+7/2[H]+5/6[A]+2/9[H]+7/8[H]+6/9[A]+11/3[H]",
+        "fouls": "15/10[A]+9/14[A]+10/11[H]+10/15[A]+12/13[H]+9/11[H]+6/11[A]+8/13[H]",
+        "goalKicks": "14/7[A]+12/10[A]+5/9[H]+8/8[A]+8/3[H]+14/10[H]+13/1[A]+2/10[H]",
+        "saves": "3/4[A]+4/4[A]+3/8[H]+3/3[A]+4/1[H]+3/5[H]+3/7[A]+1/5[H]",
+        "offsides": "2/1[A]+2/0[A]+2/3[H]+2/2[A]+1/3[H]+0/2[H]+3/2[A]+1/0[H]",
+        "shotsOnTarget": "5/4[A]+5/6[A]+7/4[H]+4/5[A]+4/7[H]+8/4[H]+8/7[A]+8/2[H]",
+        "yellowCards": "2/1[A]+1/2[A]+1/1[H]+2/2[A]+2/2[H]+1/1[H]+2/1[A]+1/2[H]",
+        "goals": "1/1[A]+1/2[A]+1/1[H]+1/2[A]+3/2[H]+3/1[H]+2/3[A]+3/0[H]",
+        "throwIns": "22/14[A]+14/11[A]+18/19[H]+24/15[A]+20/18[H]+17/16[H]+20/17[A]+13/7[H]",
+        "averageBallPossession": "62/38[A]+70/30[A]+60/40[H]+63/37[A]+55/45[H]+40/60[H]+59/41[A]+61/39[H]",
+        "teams": "Southampton,Birmingham,Away+Southampton,Oxford Utd,Away+Southampton,Coventry,Home+Southampton,Norwich,Away+Southampton,West Brom,Home+Southampton,Birmingham,Home+Southampton,Millwall,Away+Southampton,Leicester,Home",
+        "tackles": "13/14[A]+15/19[A]+17/10[H]+23/22[A]+14/17[H]+8/18[H]+9/13[A]+11/15[H]",
+        "interceptions": "2/9[A]+7/14[A]+6/6[H]+10/10[A]+6/9[H]+7/4[H]+7/18[A]+8/4[H]",
+        "aerialDuels": "10/17[A]+16/9[A]+21/19[H]+12/12[A]+12/22[H]+11/17[H]+9/20[A]+9/14[H]",
+        "aerialDuelsAttempted": "27/27[A]+25/25[A]+40/40[H]+24/24[A]+34/34[H]+28/28[H]+29/29[A]+23/23[H]",
+        "dribbles": "2/1[A]+9/5[A]+7/7[H]+9/5[A]+7/3[H]+6/5[H]+6/8[A]+6/1[H]",
+        "dribblesAttempted": "6/8[A]+12/11[A]+13/20[H]+20/17[A]+19/8[H]+17/7[H]+11/13[A]+14/11[H]",
+        "isHome": "false+false+true+false+true+true+false+true",
+        "cornersTotals": "50/44",
+        "cornersTotalsHome": "27/22",
+        "cornersTotalsAway": "23/22",
+        "cornersAverage": "6.25/5.50",
+        "cornersAverageHome": "6.75/5.50",
+        "cornersAverageAway": "5.75/5.50",
+        "foulsTotals": "79/98",
+        "foulsTotalsHome": "39/48",
+        "foulsTotalsAway": "40/50",
+        "foulsAverage": "9.88/12.25",
+        "foulsAverageHome": "9.75/12.00",
+        "foulsAverageAway": "10.00/12.50",
+        "goalKicksTotals": "76/58",
+        "goalKicksTotalsHome": "29/32",
+        "goalKicksTotalsAway": "47/26",
+        "goalKicksAverage": "9.50/7.25",
+        "goalKicksAverageHome": "7.25/8.00",
+        "goalKicksAverageAway": "11.75/6.50",
+        "savesTotals": "24/37",
+        "savesTotalsHome": "11/19",
+        "savesTotalsAway": "13/18",
+        "savesAverage": "3.00/4.63",
+        "savesAverageHome": "2.75/4.75",
+        "savesAverageAway": "3.25/4.50",
+        "offsidesTotals": "13/13",
+        "offsidesTotalsHome": "4/8",
+        "offsidesTotalsAway": "9/5",
+        "offsidesAverage": "1.63/1.63",
+        "offsidesAverageHome": "1.00/2.00",
+        "offsidesAverageAway": "2.25/1.25",
+        "shotsOnTargetTotals": "49/39",
+        "shotsOnTargetTotalsHome": "27/17",
+        "shotsOnTargetTotalsAway": "22/22",
+        "shotsOnTargetAverage": "6.13/4.88",
+        "shotsOnTargetAverageHome": "6.75/4.25",
+        "shotsOnTargetAverageAway": "5.50/5.50",
+        "yellowCardsTotals": "12/12",
+        "yellowCardsTotalsHome": "5/6",
+        "yellowCardsTotalsAway": "7/6",
+        "yellowCardsAverage": "1.50/1.50",
+        "yellowCardsAverageHome": "1.25/1.50",
+        "yellowCardsAverageAway": "1.75/1.50",
+        "goalsTotals": "15/12",
+        "goalsTotalsHome": "10/4",
+        "goalsTotalsAway": "5/8",
+        "goalsAverage": "1.88/1.50",
+        "goalsAverageHome": "2.50/1.00",
+        "goalsAverageAway": "1.25/2.00",
+        "throwInsTotals": "148/117",
+        "throwInsTotalsHome": "68/60",
+        "throwInsTotalsAway": "80/57",
+        "throwInsAverage": "18.50/14.63",
+        "throwInsAverageHome": "17.00/15.00",
+        "throwInsAverageAway": "20.00/14.25",
+        "averageBallPossessionTotals": "470/330",
+        "averageBallPossessionTotalsHome": "216/184",
+        "averageBallPossessionTotalsAway": "254/146",
+        "averageBallPossessionAverage": "58.75/41.25",
+        "averageBallPossessionAverageHome": "54.00/46.00",
+        "averageBallPossessionAverageAway": "63.50/36.50",
+        "tacklesTotals": "110/128",
+        "tacklesTotalsHome": "50/60",
+        "tacklesTotalsAway": "60/68",
+        "tacklesAverage": "13.75/16.00",
+        "tacklesAverageHome": "12.50/15.00",
+        "tacklesAverageAway": "15.00/17.00",
+        "interceptionsTotals": "53/74",
+        "interceptionsTotalsHome": "27/23",
+        "interceptionsTotalsAway": "26/51",
+        "interceptionsAverage": "6.63/9.25",
+        "interceptionsAverageHome": "6.75/5.75",
+        "interceptionsAverageAway": "6.50/12.75",
+        "aerialDuelsTotals": "100/130",
+        "aerialDuelsTotalsHome": "53/72",
+        "aerialDuelsTotalsAway": "47/58",
+        "aerialDuelsAverage": "12.50/16.25",
+        "aerialDuelsAverageHome": "13.25/18.00",
+        "aerialDuelsAverageAway": "11.75/14.50",
+        "aerialDuelsAttemptedTotals": "230/230",
+        "aerialDuelsAttemptedTotalsHome": "125/125",
+        "aerialDuelsAttemptedTotalsAway": "105/105",
+        "aerialDuelsAttemptedAverage": "28.75/28.75",
+        "aerialDuelsAttemptedAverageHome": "31.25/31.25",
+        "aerialDuelsAttemptedAverageAway": "26.25/26.25",
+        "dribblesTotals": "52/35",
+        "dribblesTotalsHome": "26/16",
+        "dribblesTotalsAway": "26/19",
+        "dribblesAverage": "6.50/4.38",
+        "dribblesAverageHome": "6.50/4.00",
+        "dribblesAverageAway": "6.50/4.75",
+        "dribblesAttemptedTotals": "112/95",
+        "dribblesAttemptedTotalsHome": "63/46",
+        "dribblesAttemptedTotalsAway": "49/49",
+        "dribblesAttemptedAverage": "14.00/11.88",
+        "dribblesAttemptedAverageHome": "15.75/11.50",
+        "dribblesAttemptedAverageAway": "12.25/12.25"
     }
 }

@@ -247,6 +247,11 @@ const handleStatisticsResponse = async (response, teamId) => {
 	const url = response.url();
 	if (url.includes('/api/v1/team/') && url.includes('/statistics/')) {
 		try {
+			// Check if response is OK before attempting to parse JSON
+			if (!response.ok()) {
+				console.warn(`⚠ Statistics response returned status ${response.status()}`);
+				return;
+			}
 			const data = await response.json();
 			//result.globalStatistics = transformStatistics(data);
 			cache[teamId].globalStatistics = transformStatistics(data);
@@ -263,6 +268,11 @@ const handleMatchStatisticsResponse = async (response, match, index, page, teamI
 
 	if (url === "https://www.sofascore.com/api/v1/event/" + matchId + "/statistics") {
 		try {
+			// Check if response is OK before attempting to parse JSON
+			if (!response.ok()) {
+				console.warn(`⚠ Match statistics response returned status ${response.status()} for match ${matchId}`);
+				return;
+			}
 			console.log('On index:', index, 'Match ID:', matchId);
 			const data = await response.json();
 			// result.matchStatistics[index] = {
@@ -351,6 +361,7 @@ async function navigateToMatchPage(page, match, index, teamId) {
 		await page.goto(match.href, { waitUntil: 'load', timeout: CONFIG.timeouts.pageLoad });
 		console.log('Navigated to index:', index);
 		const url = page.url();
+		console.log('Current match page URL:', url);
 		if (!url.includes(',tab:statistics')) {
 			cache[teamId]['timeouts'] = cache[teamId]['timeouts'] || {};
 			cache[teamId]['timeouts'][match.href] = setTimeout(async () => {
@@ -637,6 +648,8 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 			const interval = setInterval(async () => {
 				const allCollected = isAllDataCollected(teamId);
 				if (allCollected) {
+					cache[teamId].endTime = new Date();
+					cache[teamId].totalTimeSeconds = parseFloat(((cache[teamId].endTime - cache[teamId].startTime) / 1000).toFixed(2));
 					console.log('\n✓ All data collected. Closing browser.');
 					page.off('response', handleStatisticsResponse);
 					clearInterval(interval);
@@ -681,7 +694,7 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 async function executeWorkflow(page, context, teamId) {
 	try {
 
-		cache = { ...cache, [teamId]: { ...result, matchStatistics: result.matchStatistics.map(x => x), matchLinks: result.matchLinks.map(x => x), globalStatistics: { ...result.globalStatistics } } || {} };
+		cache = { ...cache, [teamId]: { ...result, matchStatistics: result.matchStatistics.map(x => x), matchLinks: result.matchLinks.map(x => x), globalStatistics: { ...result.globalStatistics }, startTime : new Date() } || {} };
 
 		// Setup and navigate
 		await setupStatisticsInterception(page, teamId);

@@ -1,0 +1,435 @@
+{
+    "globalStatistics": {
+        "corners": "4.79",
+        "fouls": "10.38",
+        "goalKicks": "7.29",
+        "saves": "3.08",
+        "offsides": "2.13",
+        "shotsOnTarget": "3.67/4.42",
+        "yellowCards": "2.25/2.17",
+        "goals": "1.04/1.29",
+        "throwIns": "22.38",
+        "ballPossession": 54.75,
+        "tackles": "15.38/13.79",
+        "interceptions": "8.83/8.63",
+        "aerialDuels": "18.08",
+        "aerialDuelsAttempted": "40.21",
+        "dribbles": "5.71/5.50",
+        "dribblesAttempted": "12.71/12.63"
+    },
+    "teamSlug": "swansea-city",
+    "teamId": "74",
+    "teamName": "Swansea City",
+    "tournament": "Championship",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-swansea-city/zbVb#id:14059738,tab:statistics",
+            "teams": [
+                "Oxford Utd",
+                "Swansea"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "95",
+                "74"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-coventry-city/lszb#id:14059721,tab:statistics",
+            "teams": [
+                "Coventry",
+                "Swansea"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "11",
+                "74"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-wrexham/obszb#id:14059718,tab:statistics",
+            "teams": [
+                "Swansea",
+                "Wrexham"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "74",
+                "64"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-stoke-city/Ezb#id:14059705,tab:statistics",
+            "teams": [
+                "Stoke",
+                "Swansea"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "29",
+                "74"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-portsmouth/cszb#id:14059691,tab:statistics",
+            "teams": [
+                "Swansea",
+                "Portsmouth"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "74",
+                "2"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oxford-united-swansea-city/zbVb#id:14059684,tab:statistics",
+            "teams": [
+                "Swansea",
+                "Oxford Utd"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "74",
+                "95"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-west-bromwich-albion/izb#id:14059671,tab:statistics",
+            "teams": [
+                "West Brom",
+                "Swansea"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "8",
+                "74"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swansea-city-derby-county/Cszb#id:14059657,tab:statistics",
+            "teams": [
+                "Swansea",
+                "Derby"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "74",
+                "27"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/1[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "5/11[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "23/31[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Swansea,Oxford Utd,Away",
+            "tackles": "20/14[A]",
+            "interceptions": "18/13[A]",
+            "aerialDuels": "34/28[A]",
+            "aerialDuelsAttempted": "62/62[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "15/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "3/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "18/23[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Swansea,Coventry,Away",
+            "tackles": "11/10[A]",
+            "interceptions": "12/10[A]",
+            "aerialDuels": "17/21[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "12/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "4/13[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/30[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Swansea,Wrexham,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "20/39[H]",
+            "aerialDuelsAttempted": "59/59[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "13/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/6[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "14/19[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Swansea,Stoke,Away",
+            "tackles": "7/16[A]",
+            "interceptions": "7/5[A]",
+            "aerialDuels": "22/14[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "11/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "6/9[H]",
+            "goalKicks": "7/12[H]",
+            "saves": "3/5[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "30/20[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Swansea,Portsmouth,Home",
+            "tackles": "12/10[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "20/18[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "8/7[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/2[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "12/11[H]",
+            "saves": "4/2[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "31/29[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Swansea,Oxford Utd,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "21/18[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "12/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "7/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/10[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/3[A]",
+            "throwIns": "13/26[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Swansea,West Brom,Away",
+            "tackles": "16/13[A]",
+            "interceptions": "8/4[A]",
+            "aerialDuels": "21/38[A]",
+            "aerialDuelsAttempted": "59/59[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "10/20[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "24/22[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "Swansea,Derby,Home",
+            "tackles": "20/12[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "18/24[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "combinedMatchStatistics": {
+        "corners": "5/1[A]+4/7[A]+5/7[H]+7/6[A]+5/6[H]+10/2[H]+1/7[A]+4/2[H]",
+        "fouls": "11/13[A]+13/13[A]+8/10[H]+14/16[A]+6/9[H]+8/13[H]+13/11[A]+10/20[H]",
+        "goalKicks": "5/11[A]+3/7[A]+4/13[H]+6/8[A]+7/12[H]+12/11[H]+12/7[A]+7/8[H]",
+        "saves": "2/4[A]+5/2[A]+1/3[H]+3/4[A]+3/5[H]+4/2[H]+7/0[A]+3/3[H]",
+        "offsides": "2/1[A]+3/3[A]+0/4[H]+3/4[A]+1/0[H]+4/3[H]+2/1[A]+0/0[H]",
+        "shotsOnTarget": "5/2[A]+2/7[A]+5/1[H]+6/5[A]+6/3[H]+4/4[H]+2/10[A]+4/5[H]",
+        "yellowCards": "4/2[A]+2/0[A]+2/2[H]+4/3[A]+2/3[H]+2/4[H]+2/1[A]+0/2[H]",
+        "goals": "1/0[A]+0/1[A]+2/1[H]+1/2[A]+1/0[H]+2/0[H]+2/3[A]+1/2[H]",
+        "throwIns": "23/31[A]+18/23[A]+15/30[H]+14/19[A]+30/20[H]+31/29[H]+13/26[A]+24/22[H]",
+        "averageBallPossession": "53/47[A]+54/46[A]+57/43[H]+59/41[A]+50/50[H]+51/49[H]+35/65[A]+73/27[H]",
+        "teams": "Swansea,Oxford Utd,Away+Swansea,Coventry,Away+Swansea,Wrexham,Home+Swansea,Stoke,Away+Swansea,Portsmouth,Home+Swansea,Oxford Utd,Home+Swansea,West Brom,Away+Swansea,Derby,Home",
+        "tackles": "20/14[A]+11/10[A]+17/16[H]+7/16[A]+12/10[H]+13/16[H]+16/13[A]+20/12[H]",
+        "interceptions": "18/13[A]+12/10[A]+12/9[H]+7/5[A]+7/11[H]+12/8[H]+8/4[A]+9/12[H]",
+        "aerialDuels": "34/28[A]+17/21[A]+20/39[H]+22/14[A]+20/18[H]+21/18[H]+21/38[A]+18/24[H]",
+        "aerialDuelsAttempted": "62/62[A]+38/38[A]+59/59[H]+36/36[A]+38/38[H]+39/39[H]+59/59[A]+42/42[H]",
+        "dribbles": "7/4[A]+3/6[A]+5/6[H]+4/6[A]+8/7[H]+4/5[H]+4/5[A]+5/6[H]",
+        "dribblesAttempted": "15/13[A]+12/9[A]+13/12[H]+11/10[A]+11/12[H]+12/12[H]+12/16[A]+13/15[H]",
+        "isHome": "false+false+true+false+true+true+false+true",
+        "cornersTotals": "41/38",
+        "cornersTotalsHome": "24/17",
+        "cornersTotalsAway": "17/21",
+        "cornersAverage": "5.13/4.75",
+        "cornersAverageHome": "6.00/4.25",
+        "cornersAverageAway": "4.25/5.25",
+        "foulsTotals": "83/105",
+        "foulsTotalsHome": "32/52",
+        "foulsTotalsAway": "51/53",
+        "foulsAverage": "10.38/13.13",
+        "foulsAverageHome": "8.00/13.00",
+        "foulsAverageAway": "12.75/13.25",
+        "goalKicksTotals": "56/77",
+        "goalKicksTotalsHome": "30/44",
+        "goalKicksTotalsAway": "26/33",
+        "goalKicksAverage": "7.00/9.63",
+        "goalKicksAverageHome": "7.50/11.00",
+        "goalKicksAverageAway": "6.50/8.25",
+        "savesTotals": "28/23",
+        "savesTotalsHome": "11/13",
+        "savesTotalsAway": "17/10",
+        "savesAverage": "3.50/2.88",
+        "savesAverageHome": "2.75/3.25",
+        "savesAverageAway": "4.25/2.50",
+        "offsidesTotals": "15/16",
+        "offsidesTotalsHome": "5/7",
+        "offsidesTotalsAway": "10/9",
+        "offsidesAverage": "1.88/2.00",
+        "offsidesAverageHome": "1.25/1.75",
+        "offsidesAverageAway": "2.50/2.25",
+        "shotsOnTargetTotals": "34/37",
+        "shotsOnTargetTotalsHome": "19/13",
+        "shotsOnTargetTotalsAway": "15/24",
+        "shotsOnTargetAverage": "4.25/4.63",
+        "shotsOnTargetAverageHome": "4.75/3.25",
+        "shotsOnTargetAverageAway": "3.75/6.00",
+        "yellowCardsTotals": "18/17",
+        "yellowCardsTotalsHome": "6/11",
+        "yellowCardsTotalsAway": "12/6",
+        "yellowCardsAverage": "2.25/2.13",
+        "yellowCardsAverageHome": "1.50/2.75",
+        "yellowCardsAverageAway": "3.00/1.50",
+        "goalsTotals": "10/9",
+        "goalsTotalsHome": "6/3",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.25/1.13",
+        "goalsAverageHome": "1.50/0.75",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "168/200",
+        "throwInsTotalsHome": "100/101",
+        "throwInsTotalsAway": "68/99",
+        "throwInsAverage": "21.00/25.00",
+        "throwInsAverageHome": "25.00/25.25",
+        "throwInsAverageAway": "17.00/24.75",
+        "averageBallPossessionTotals": "432/368",
+        "averageBallPossessionTotalsHome": "231/169",
+        "averageBallPossessionTotalsAway": "201/199",
+        "averageBallPossessionAverage": "54.00/46.00",
+        "averageBallPossessionAverageHome": "57.75/42.25",
+        "averageBallPossessionAverageAway": "50.25/49.75",
+        "tacklesTotals": "116/107",
+        "tacklesTotalsHome": "62/54",
+        "tacklesTotalsAway": "54/53",
+        "tacklesAverage": "14.50/13.38",
+        "tacklesAverageHome": "15.50/13.50",
+        "tacklesAverageAway": "13.50/13.25",
+        "interceptionsTotals": "85/72",
+        "interceptionsTotalsHome": "40/40",
+        "interceptionsTotalsAway": "45/32",
+        "interceptionsAverage": "10.63/9.00",
+        "interceptionsAverageHome": "10.00/10.00",
+        "interceptionsAverageAway": "11.25/8.00",
+        "aerialDuelsTotals": "173/200",
+        "aerialDuelsTotalsHome": "79/99",
+        "aerialDuelsTotalsAway": "94/101",
+        "aerialDuelsAverage": "21.63/25.00",
+        "aerialDuelsAverageHome": "19.75/24.75",
+        "aerialDuelsAverageAway": "23.50/25.25",
+        "aerialDuelsAttemptedTotals": "373/373",
+        "aerialDuelsAttemptedTotalsHome": "178/178",
+        "aerialDuelsAttemptedTotalsAway": "195/195",
+        "aerialDuelsAttemptedAverage": "46.63/46.63",
+        "aerialDuelsAttemptedAverageHome": "44.50/44.50",
+        "aerialDuelsAttemptedAverageAway": "48.75/48.75",
+        "dribblesTotals": "40/45",
+        "dribblesTotalsHome": "22/24",
+        "dribblesTotalsAway": "18/21",
+        "dribblesAverage": "5.00/5.63",
+        "dribblesAverageHome": "5.50/6.00",
+        "dribblesAverageAway": "4.50/5.25",
+        "dribblesAttemptedTotals": "99/99",
+        "dribblesAttemptedTotalsHome": "49/51",
+        "dribblesAttemptedTotalsAway": "50/48",
+        "dribblesAttemptedAverage": "12.38/12.38",
+        "dribblesAttemptedAverageHome": "12.25/12.75",
+        "dribblesAttemptedAverageAway": "12.50/12.00"
+    }
+}
