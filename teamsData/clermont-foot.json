@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.88",
+        "fouls": "10.29",
+        "goalKicks": "9.71",
+        "saves": "2.94",
+        "offsides": "1.00",
+        "shotsOnTarget": "2.65/4.24",
+        "yellowCards": "1.41/2.24",
+        "goals": "0.94/1.24",
+        "throwIns": "20.00",
+        "ballPossession": 52.176470588235,
+        "tackles": "13.00/15.71",
+        "interceptions": "9.24/9.00",
+        "aerialDuels": "9.47",
+        "aerialDuelsAttempted": "20.41",
+        "dribbles": "6.41/5.88",
+        "dribblesAttempted": "14.88/12.47"
+    },
+    "teamSlug": "clermont-foot",
+    "teamId": "1680",
+    "teamName": "Clermont Foot",
+    "tournament": "Ligue 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/clermont-foot-nancy/AIsFI#id:14064804,tab:statistics",
+            "teams": [
+                "Nancy",
+                "Clermont"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1675",
+                "1680"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-clermont-foot/FIslJ#id:14383010,tab:statistics",
+            "teams": [
+                "Clermont",
+                "Boulogne-sur-Mer"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1680",
+                "1711"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/red-star-fc-clermont-foot/FIszhw#id:14064684,tab:statistics",
+            "teams": [
+                "Red Star",
+                "Clermont"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "52874",
+                "1680"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/clermont-foot-amiens-sc/BIsFI#id:14064671,tab:statistics",
+            "teams": [
+                "Clermont",
+                "Amiens"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1680",
+                "1676"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/clermont-foot-bastia/fIsFI#id:14064665,tab:statistics",
+            "teams": [
+                "Bastia",
+                "Clermont"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1655",
+                "1680"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/clermont-foot-montpellier/RHsFI#id:14064653,tab:statistics",
+            "teams": [
+                "Clermont",
+                "Montpellier"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1680",
+                "1642"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/clermont-foot-guingamp/eIsFI#id:14064649,tab:statistics",
+            "teams": [
+                "Guingamp",
+                "Clermont"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "1654",
+                "1680"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/annecy-fc-clermont-foot/FIsUrJb#id:14064644,tab:statistics",
+            "teams": [
+                "Clermont",
+                "Annecy"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "1680",
+                "210894"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/7[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "10/14[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "12/19[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Clermont,Nancy,Away",
+            "tackles": "11/15[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "11/7[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "14/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/8[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/16[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Clermont,Boulogne-sur-Mer,Home",
+            "tackles": "17/15[H]",
+            "interceptions": "13/16[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "13/5[H]",
+            "dribblesAttempted": "24/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "11/18[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "18/16[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Clermont,Red Star,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "14/9[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "10/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/4[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "4/12[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/6[H]",
+            "goals": "2/1[H]",
+            "throwIns": "22/12[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Clermont,Amiens,Home",
+            "tackles": "10/22[H]",
+            "interceptions": "8/4[H]",
+            "aerialDuels": "8/14[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "19/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "11/17[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "30/17[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Clermont,Bastia,Away",
+            "tackles": "17/13[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "10/17[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "7/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/10[H]",
+            "fouls": "11/15[H]",
+            "goalKicks": "9/2[H]",
+            "saves": "3/6[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "16/17[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Clermont,Montpellier,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "11/11[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "16/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "11/10[A]",
+            "goalKicks": "13/2[A]",
+            "saves": "3/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/23[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Clermont,Guingamp,Away",
+            "tackles": "13/11[A]",
+            "interceptions": "14/10[A]",
+            "aerialDuels": "10/16[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "10/18[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "38/20[H]",
+            "averageBallPossession": "74/26[H]",
+            "teams": "Clermont,Annecy,Home",
+            "tackles": "11/16[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "8/13[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T07:45:15.417Z",
+    "endTime": "2026-01-03T07:45:37.694Z",
+    "totalTimeSeconds": 22.28,
+    "combinedMatchStatistics": {
+        "corners": "4/7[A]+3/8[H]+3/2[A]+11/4[H]+6/2[A]+4/10[H]+1/6[A]+6/3[H]",
+        "fouls": "16/10[A]+10/12[H]+11/18[A]+12/16[H]+11/17[A]+11/15[H]+11/10[A]+10/18[H]",
+        "goalKicks": "10/14[A]+5/7[H]+13/4[A]+4/12[H]+6/7[A]+9/2[H]+13/2[A]+7/4[H]",
+        "saves": "5/3[A]+4/1[H]+1/1[A]+3/3[H]+3/1[A]+3/6[H]+3/0[A]+3/2[H]",
+        "offsides": "1/2[A]+0/4[H]+1/1[A]+1/0[H]+0/4[A]+0/1[H]+0/1[A]+3/0[H]",
+        "shotsOnTarget": "3/6[A]+2/5[H]+3/3[A]+5/4[H]+1/4[A]+6/4[H]+1/3[A]+2/4[H]",
+        "yellowCards": "2/1[A]+2/1[H]+2/3[A]+2/6[H]+3/4[A]+0/4[H]+3/2[A]+2/1[H]",
+        "goals": "0/1[A]+1/1[H]+2/2[A]+2/1[H]+0/1[A]+1/1[H]+1/0[A]+0/1[H]",
+        "throwIns": "12/19[A]+17/16[H]+18/16[A]+22/12[H]+30/17[A]+16/17[H]+16/23[A]+38/20[H]",
+        "averageBallPossession": "61/39[A]+65/35[H]+44/56[A]+65/35[H]+46/54[A]+40/60[H]+37/63[A]+74/26[H]",
+        "teams": "Clermont,Nancy,Away+Clermont,Boulogne-sur-Mer,Home+Clermont,Red Star,Away+Clermont,Amiens,Home+Clermont,Bastia,Away+Clermont,Montpellier,Home+Clermont,Guingamp,Away+Clermont,Annecy,Home",
+        "tackles": "11/15[A]+17/15[H]+12/14[A]+10/22[H]+17/13[A]+15/16[H]+13/11[A]+11/16[H]",
+        "interceptions": "4/5[A]+13/16[H]+11/10[A]+8/4[H]+11/10[A]+6/6[H]+14/10[A]+5/6[H]",
+        "aerialDuels": "11/7[A]+15/12[H]+14/9[A]+8/14[H]+10/17[A]+11/11[H]+10/16[A]+8/13[H]",
+        "aerialDuelsAttempted": "18/18[A]+27/27[H]+23/23[A]+22/22[H]+27/27[A]+22/22[H]+26/26[A]+21/21[H]",
+        "dribbles": "6/3[A]+13/5[H]+3/3[A]+9/4[H]+3/3[A]+9/4[H]+5/6[A]+5/6[H]",
+        "dribblesAttempted": "14/7[A]+24/18[H]+10/7[A]+19/11[H]+7/14[A]+16/11[H]+10/10[A]+17/13[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "38/42",
+        "cornersTotalsHome": "24/25",
+        "cornersTotalsAway": "14/17",
+        "cornersAverage": "4.75/5.25",
+        "cornersAverageHome": "6.00/6.25",
+        "cornersAverageAway": "3.50/4.25",
+        "foulsTotals": "92/116",
+        "foulsTotalsHome": "43/61",
+        "foulsTotalsAway": "49/55",
+        "foulsAverage": "11.50/14.50",
+        "foulsAverageHome": "10.75/15.25",
+        "foulsAverageAway": "12.25/13.75",
+        "goalKicksTotals": "67/52",
+        "goalKicksTotalsHome": "25/25",
+        "goalKicksTotalsAway": "42/27",
+        "goalKicksAverage": "8.38/6.50",
+        "goalKicksAverageHome": "6.25/6.25",
+        "goalKicksAverageAway": "10.50/6.75",
+        "savesTotals": "25/17",
+        "savesTotalsHome": "13/12",
+        "savesTotalsAway": "12/5",
+        "savesAverage": "3.13/2.13",
+        "savesAverageHome": "3.25/3.00",
+        "savesAverageAway": "3.00/1.25",
+        "offsidesTotals": "6/13",
+        "offsidesTotalsHome": "4/5",
+        "offsidesTotalsAway": "2/8",
+        "offsidesAverage": "0.75/1.63",
+        "offsidesAverageHome": "1.00/1.25",
+        "offsidesAverageAway": "0.50/2.00",
+        "shotsOnTargetTotals": "23/33",
+        "shotsOnTargetTotalsHome": "15/17",
+        "shotsOnTargetTotalsAway": "8/16",
+        "shotsOnTargetAverage": "2.88/4.13",
+        "shotsOnTargetAverageHome": "3.75/4.25",
+        "shotsOnTargetAverageAway": "2.00/4.00",
+        "yellowCardsTotals": "16/22",
+        "yellowCardsTotalsHome": "6/12",
+        "yellowCardsTotalsAway": "10/10",
+        "yellowCardsAverage": "2.00/2.75",
+        "yellowCardsAverageHome": "1.50/3.00",
+        "yellowCardsAverageAway": "2.50/2.50",
+        "goalsTotals": "7/8",
+        "goalsTotalsHome": "4/4",
+        "goalsTotalsAway": "3/4",
+        "goalsAverage": "0.88/1.00",
+        "goalsAverageHome": "1.00/1.00",
+        "goalsAverageAway": "0.75/1.00",
+        "throwInsTotals": "169/140",
+        "throwInsTotalsHome": "93/65",
+        "throwInsTotalsAway": "76/75",
+        "throwInsAverage": "21.13/17.50",
+        "throwInsAverageHome": "23.25/16.25",
+        "throwInsAverageAway": "19.00/18.75",
+        "averageBallPossessionTotals": "432/368",
+        "averageBallPossessionTotalsHome": "244/156",
+        "averageBallPossessionTotalsAway": "188/212",
+        "averageBallPossessionAverage": "54.00/46.00",
+        "averageBallPossessionAverageHome": "61.00/39.00",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "106/122",
+        "tacklesTotalsHome": "53/69",
+        "tacklesTotalsAway": "53/53",
+        "tacklesAverage": "13.25/15.25",
+        "tacklesAverageHome": "13.25/17.25",
+        "tacklesAverageAway": "13.25/13.25",
+        "interceptionsTotals": "72/67",
+        "interceptionsTotalsHome": "32/32",
+        "interceptionsTotalsAway": "40/35",
+        "interceptionsAverage": "9.00/8.38",
+        "interceptionsAverageHome": "8.00/8.00",
+        "interceptionsAverageAway": "10.00/8.75",
+        "aerialDuelsTotals": "87/99",
+        "aerialDuelsTotalsHome": "42/50",
+        "aerialDuelsTotalsAway": "45/49",
+        "aerialDuelsAverage": "10.88/12.38",
+        "aerialDuelsAverageHome": "10.50/12.50",
+        "aerialDuelsAverageAway": "11.25/12.25",
+        "aerialDuelsAttemptedTotals": "186/186",
+        "aerialDuelsAttemptedTotalsHome": "92/92",
+        "aerialDuelsAttemptedTotalsAway": "94/94",
+        "aerialDuelsAttemptedAverage": "23.25/23.25",
+        "aerialDuelsAttemptedAverageHome": "23.00/23.00",
+        "aerialDuelsAttemptedAverageAway": "23.50/23.50",
+        "dribblesTotals": "53/34",
+        "dribblesTotalsHome": "36/19",
+        "dribblesTotalsAway": "17/15",
+        "dribblesAverage": "6.63/4.25",
+        "dribblesAverageHome": "9.00/4.75",
+        "dribblesAverageAway": "4.25/3.75",
+        "dribblesAttemptedTotals": "117/91",
+        "dribblesAttemptedTotalsHome": "76/53",
+        "dribblesAttemptedTotalsAway": "41/38",
+        "dribblesAttemptedAverage": "14.63/11.38",
+        "dribblesAttemptedAverageHome": "19.00/13.25",
+        "dribblesAttemptedAverageAway": "10.25/9.50"
+    }
+}

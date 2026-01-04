@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.71",
+        "fouls": "10.14",
+        "goalKicks": "10.43",
+        "saves": "1.43",
+        "offsides": "1.43",
+        "shotsOnTarget": "5.29/1.86",
+        "yellowCards": "1.00/0.71",
+        "goals": "1.86/0.57",
+        "throwIns": "36.29",
+        "ballPossession": 49.142857142857,
+        "tackles": "16.71/20.14",
+        "interceptions": "8.29/14.00",
+        "aerialDuels": "10.57",
+        "aerialDuelsAttempted": "17.71",
+        "dribbles": "8.86/4.14",
+        "dribblesAttempted": "20.00/11.14"
+    },
+    "teamSlug": "wellington-phoenix",
+    "teamId": "394912",
+    "teamName": "Wellington Phoenix",
+    "tournament": "A-League Women",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-western-sydney-wanderers/iHubsmYhd#id:14671864,tab:statistics",
+            "teams": [
+                "Western Sydney",
+                "Wellington"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "174108",
+                "394912"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-sydney-fc/gHubsmYhd#id:14671855,tab:statistics",
+            "teams": [
+                "Wellington",
+                "Sydney FC"
+            ],
+            "goals": [
+                "7",
+                "0"
+            ],
+            "teamIds": [
+                "394912",
+                "174106"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-perth-glory/eHubsmYhd#id:14671849,tab:statistics",
+            "teams": [
+                "Perth Glory",
+                "Wellington"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "174104",
+                "394912"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-melbourne-city/FdIbsmYhd#id:14671847,tab:statistics",
+            "teams": [
+                "Melbourne City",
+                "Wellington"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "207680",
+                "394912"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-melbourne-victory/aHubsmYhd#id:14671832,tab:statistics",
+            "teams": [
+                "Wellington",
+                "Melbourne Victory"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "394912",
+                "174100"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-newcastle-jets/cHubsmYhd#id:14671833,tab:statistics",
+            "teams": [
+                "Wellington",
+                "Newcastle Jets"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "394912",
+                "174102"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-canberra-united/YGubsmYhd#id:14671820,tab:statistics",
+            "teams": [
+                "Wellington",
+                "Canberra United"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "394912",
+                "174098"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wellington-phoenix-canberra-united/YGubsmYhd#id:12840935,tab:statistics",
+            "teams": [
+                "Canberra United",
+                "Wellington"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "174098",
+                "394912"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/2[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "13/9[A]",
+            "saves": "0/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "5/0[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "37/38[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Wellington,Western Sydney,Away",
+            "tackles": "23/29[A]",
+            "interceptions": "8/12[A]",
+            "aerialDuels": "12/10[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "10/5[A]",
+            "dribblesAttempted": "28/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "8/8[H]",
+            "goalKicks": "8/17[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "11/1[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "7/0[H]",
+            "throwIns": "33/28[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Wellington,Sydney FC,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "10/16[H]",
+            "aerialDuels": "9/5[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "18/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "6/10[A]",
+            "goalKicks": "4/16[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "39/25[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Wellington,Perth Glory,Away",
+            "tackles": "10/22[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "16/7[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "8/3[A]",
+            "dribblesAttempted": "20/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/0[A]",
+            "fouls": "16/7[A]",
+            "goalKicks": "3/7[A]",
+            "saves": "0/3[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "37/27[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Wellington,Melbourne City,Away",
+            "tackles": "19/20[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "7/9[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "14/7[A]",
+            "dribblesAttempted": "21/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "22/8[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "29/36[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Wellington,Melbourne Victory,Home",
+            "tackles": "15/19[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "10/5[H]",
+            "goalKicks": "10/13[H]",
+            "saves": "3/5[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "38/31[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Wellington,Newcastle Jets,Home",
+            "tackles": "19/20[H]",
+            "interceptions": "8/15[H]",
+            "aerialDuels": "10/6[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "11/6[H]",
+            "dribblesAttempted": "24/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "13/7[H]",
+            "saves": "3/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "41/43[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Wellington,Canberra United,Home",
+            "tackles": "16/17[H]",
+            "interceptions": "11/21[H]",
+            "aerialDuels": "5/1[H]",
+            "aerialDuelsAttempted": "6/6[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "11/4[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "7/11[A]",
+            "goalKicks": "9/14[A]",
+            "saves": "5/6[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "36/27[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Wellington,Canberra United,Away",
+            "tackles": "17/21[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "14/7[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "19/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T18:29:12.028Z",
+    "endTime": "2026-01-02T18:29:43.840Z",
+    "totalTimeSeconds": 31.81,
+    "combinedMatchStatistics": {
+        "corners": "4/2[A]+7/6[H]+9/5[A]+2/0[A]+1/6[H]+8/5[H]+2/5[H]+5/4[A]",
+        "fouls": "11/13[A]+8/8[H]+6/10[A]+16/7[A]+9/8[H]+10/5[H]+11/9[H]+7/11[A]",
+        "goalKicks": "13/9[A]+8/17[H]+4/16[A]+3/7[A]+22/8[H]+10/13[H]+13/7[H]+9/14[A]",
+        "saves": "0/2[A]+1/3[H]+1/2[A]+0/3[A]+2/2[H]+3/5[H]+3/5[H]+5/6[A]",
+        "offsides": "3/0[A]+0/3[H]+2/4[A]+0/3[A]+1/1[H]+3/0[H]+1/1[H]+2/0[A]",
+        "shotsOnTarget": "5/0[A]+11/1[H]+2/2[A]+3/1[A]+4/2[H]+6/3[H]+6/4[H]+6/6[A]",
+        "yellowCards": "2/0[A]+0/0[H]+1/2[A]+2/1[A]+1/1[H]+1/0[H]+0/1[H]+1/3[A]",
+        "goals": "3/0[A]+7/0[H]+0/1[A]+0/1[A]+1/0[H]+1/1[H]+1/1[H]+0/1[A]",
+        "throwIns": "37/38[A]+33/28[H]+39/25[A]+37/27[A]+29/36[H]+38/31[H]+41/43[H]+36/27[A]",
+        "averageBallPossession": "48/52[A]+53/47[H]+59/41[A]+39/61[A]+38/62[H]+51/49[H]+56/44[H]+62/38[A]",
+        "teams": "Wellington,Western Sydney,Away+Wellington,Sydney FC,Home+Wellington,Perth Glory,Away+Wellington,Melbourne City,Away+Wellington,Melbourne Victory,Home+Wellington,Newcastle Jets,Home+Wellington,Canberra United,Home+Wellington,Canberra United,Away",
+        "tackles": "23/29[A]+15/14[H]+10/22[A]+19/20[A]+15/19[H]+19/20[H]+16/17[H]+17/21[A]",
+        "interceptions": "8/12[A]+10/16[H]+7/15[A]+8/10[A]+6/9[H]+8/15[H]+11/21[H]+13/7[A]",
+        "aerialDuels": "12/10[A]+9/5[H]+16/7[A]+7/9[A]+15/12[H]+10/6[H]+5/1[H]+14/7[A]",
+        "aerialDuelsAttempted": "22/22[A]+14/14[H]+23/23[A]+16/16[A]+27/27[H]+16/16[H]+6/6[H]+21/21[A]",
+        "dribbles": "10/5[A]+9/3[H]+8/3[A]+14/7[A]+6/3[H]+11/6[H]+4/2[H]+5/5[A]",
+        "dribblesAttempted": "28/15[A]+18/9[H]+20/8[A]+21/18[A]+18/10[H]+24/14[H]+11/4[H]+19/13[A]",
+        "isHome": "false+true+false+false+true+true+true+false",
+        "cornersTotals": "38/33",
+        "cornersTotalsHome": "18/22",
+        "cornersTotalsAway": "20/11",
+        "cornersAverage": "4.75/4.13",
+        "cornersAverageHome": "4.50/5.50",
+        "cornersAverageAway": "5.00/2.75",
+        "foulsTotals": "78/71",
+        "foulsTotalsHome": "38/30",
+        "foulsTotalsAway": "40/41",
+        "foulsAverage": "9.75/8.88",
+        "foulsAverageHome": "9.50/7.50",
+        "foulsAverageAway": "10.00/10.25",
+        "goalKicksTotals": "82/91",
+        "goalKicksTotalsHome": "53/45",
+        "goalKicksTotalsAway": "29/46",
+        "goalKicksAverage": "10.25/11.38",
+        "goalKicksAverageHome": "13.25/11.25",
+        "goalKicksAverageAway": "7.25/11.50",
+        "savesTotals": "15/28",
+        "savesTotalsHome": "9/15",
+        "savesTotalsAway": "6/13",
+        "savesAverage": "1.88/3.50",
+        "savesAverageHome": "2.25/3.75",
+        "savesAverageAway": "1.50/3.25",
+        "offsidesTotals": "12/12",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "7/7",
+        "offsidesAverage": "1.50/1.50",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "1.75/1.75",
+        "shotsOnTargetTotals": "43/19",
+        "shotsOnTargetTotalsHome": "27/10",
+        "shotsOnTargetTotalsAway": "16/9",
+        "shotsOnTargetAverage": "5.38/2.38",
+        "shotsOnTargetAverageHome": "6.75/2.50",
+        "shotsOnTargetAverageAway": "4.00/2.25",
+        "yellowCardsTotals": "8/8",
+        "yellowCardsTotalsHome": "2/2",
+        "yellowCardsTotalsAway": "6/6",
+        "yellowCardsAverage": "1.00/1.00",
+        "yellowCardsAverageHome": "0.50/0.50",
+        "yellowCardsAverageAway": "1.50/1.50",
+        "goalsTotals": "13/5",
+        "goalsTotalsHome": "10/2",
+        "goalsTotalsAway": "3/3",
+        "goalsAverage": "1.63/0.63",
+        "goalsAverageHome": "2.50/0.50",
+        "goalsAverageAway": "0.75/0.75",
+        "throwInsTotals": "290/255",
+        "throwInsTotalsHome": "141/138",
+        "throwInsTotalsAway": "149/117",
+        "throwInsAverage": "36.25/31.88",
+        "throwInsAverageHome": "35.25/34.50",
+        "throwInsAverageAway": "37.25/29.25",
+        "averageBallPossessionTotals": "406/394",
+        "averageBallPossessionTotalsHome": "198/202",
+        "averageBallPossessionTotalsAway": "208/192",
+        "averageBallPossessionAverage": "50.75/49.25",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "52.00/48.00",
+        "tacklesTotals": "134/162",
+        "tacklesTotalsHome": "65/70",
+        "tacklesTotalsAway": "69/92",
+        "tacklesAverage": "16.75/20.25",
+        "tacklesAverageHome": "16.25/17.50",
+        "tacklesAverageAway": "17.25/23.00",
+        "interceptionsTotals": "71/105",
+        "interceptionsTotalsHome": "35/61",
+        "interceptionsTotalsAway": "36/44",
+        "interceptionsAverage": "8.88/13.13",
+        "interceptionsAverageHome": "8.75/15.25",
+        "interceptionsAverageAway": "9.00/11.00",
+        "aerialDuelsTotals": "88/57",
+        "aerialDuelsTotalsHome": "39/24",
+        "aerialDuelsTotalsAway": "49/33",
+        "aerialDuelsAverage": "11.00/7.13",
+        "aerialDuelsAverageHome": "9.75/6.00",
+        "aerialDuelsAverageAway": "12.25/8.25",
+        "aerialDuelsAttemptedTotals": "145/145",
+        "aerialDuelsAttemptedTotalsHome": "63/63",
+        "aerialDuelsAttemptedTotalsAway": "82/82",
+        "aerialDuelsAttemptedAverage": "18.13/18.13",
+        "aerialDuelsAttemptedAverageHome": "15.75/15.75",
+        "aerialDuelsAttemptedAverageAway": "20.50/20.50",
+        "dribblesTotals": "67/34",
+        "dribblesTotalsHome": "30/14",
+        "dribblesTotalsAway": "37/20",
+        "dribblesAverage": "8.38/4.25",
+        "dribblesAverageHome": "7.50/3.50",
+        "dribblesAverageAway": "9.25/5.00",
+        "dribblesAttemptedTotals": "159/91",
+        "dribblesAttemptedTotalsHome": "71/37",
+        "dribblesAttemptedTotalsAway": "88/54",
+        "dribblesAttemptedAverage": "19.88/11.38",
+        "dribblesAttemptedAverageHome": "17.75/9.25",
+        "dribblesAttemptedAverageAway": "22.00/13.50"
+    }
+}

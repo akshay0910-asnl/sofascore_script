@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.89",
+        "fouls": "11.32",
+        "goalKicks": "7.84",
+        "saves": "3.05",
+        "offsides": "1.79",
+        "shotsOnTarget": "4.68/4.74",
+        "yellowCards": "2.16/1.79",
+        "goals": "1.32/1.63",
+        "throwIns": "24.32",
+        "ballPossession": 43.157894736842,
+        "tackles": "15.42/13.21",
+        "interceptions": "8.37/7.74",
+        "aerialDuels": "12.16",
+        "aerialDuelsAttempted": "27.26",
+        "dribbles": "6.00/6.74",
+        "dribblesAttempted": "12.32/15.16"
+    },
+    "teamSlug": "albacete-balompie",
+    "teamId": "2848",
+    "teamName": "Albacete Balompié",
+    "tournament": "LaLiga 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/granada-albacete-balompie/YgbsEAn#id:14083321,tab:statistics",
+            "teams": [
+                "Granada",
+                "Albacete"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "33779",
+                "2848"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/albacete-balompie-malaga/FgbsYgb#id:14083483,tab:statistics",
+            "teams": [
+                "Albacete",
+                "Málaga"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2848",
+                "2830"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/burgos-club-de-futbol-albacete-balompie/Ygbsehb#id:14083467,tab:statistics",
+            "teams": [
+                "Burgos",
+                "Albacete"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2854",
+                "2848"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/albacete-balompie-deportivo-la-coruna/HgbsYgb#id:14083419,tab:statistics",
+            "teams": [
+                "Albacete",
+                "Deportivo"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2848",
+                "2832"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/las-palmas-albacete-balompie/YgbsCGc#id:14083404,tab:statistics",
+            "teams": [
+                "Las Palmas",
+                "Albacete"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "6577",
+                "2848"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-andorra-albacete-balompie/YgbswXEc#id:14083350,tab:statistics",
+            "teams": [
+                "Albacete",
+                "FC Andorra"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2848",
+                "324871"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/albacete-balompie-eibar/OgbsYgb#id:14083338,tab:statistics",
+            "teams": [
+                "Eibar",
+                "Albacete"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2839",
+                "2848"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/huesca-albacete-balompie/YgbspKj#id:14083307,tab:statistics",
+            "teams": [
+                "Albacete",
+                "Huesca"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2848",
+                "24265"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/6[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "10/10[A]",
+            "saves": "4/3[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/1[A]",
+            "throwIns": "18/21[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Albacete,Granada,Away",
+            "tackles": "16/11[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "19/16[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "11/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "9/4[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "2/5[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "29/24[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Albacete,Málaga,Home",
+            "tackles": "16/13[H]",
+            "interceptions": "12/12[H]",
+            "aerialDuels": "12/14[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "14/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "29/30[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Albacete,Burgos,Away",
+            "tackles": "25/10[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "12/27[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "10/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/5[H]",
+            "fouls": "10/5[H]",
+            "goalKicks": "4/10[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "24/15[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Albacete,Deportivo,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "10/12[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "4/10[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "16/16[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "1/3[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "26/18[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Albacete,Las Palmas,Away",
+            "tackles": "11/18[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "8/8[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "16/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "9/12[H]",
+            "saves": "6/5[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/21[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Albacete,FC Andorra,Home",
+            "tackles": "14/11[H]",
+            "interceptions": "6/5[H]",
+            "aerialDuels": "14/8[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "10/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "18/13[A]",
+            "saves": "5/7[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "9/8[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/3[A]",
+            "throwIns": "36/21[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Albacete,Eibar,Away",
+            "tackles": "8/9[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "26/24[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "9/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/7[H]",
+            "fouls": "13/6[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/22[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Albacete,Huesca,Home",
+            "tackles": "9/12[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "7/16[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "5/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T07:42:09.186Z",
+    "endTime": "2026-01-03T07:42:28.866Z",
+    "totalTimeSeconds": 19.68,
+    "combinedMatchStatistics": {
+        "corners": "5/6[A]+6/5[H]+5/5[A]+9/5[H]+3/5[A]+4/2[H]+3/4[A]+7/7[H]",
+        "fouls": "12/12[A]+9/4[H]+12/14[A]+10/5[H]+16/16[A]+9/8[H]+11/15[A]+13/6[H]",
+        "goalKicks": "10/10[A]+4/6[H]+9/7[A]+4/10[H]+6/6[A]+9/12[H]+18/13[A]+9/5[H]",
+        "saves": "4/3[A]+2/5[H]+3/1[A]+1/4[H]+1/3[A]+6/5[H]+5/7[A]+3/4[H]",
+        "offsides": "0/2[A]+2/3[H]+0/1[A]+1/3[H]+3/3[A]+3/1[H]+0/2[A]+1/1[H]",
+        "shotsOnTarget": "4/5[A]+5/5[H]+2/3[A]+3/3[H]+3/3[A]+6/6[H]+9/8[A]+6/4[H]",
+        "yellowCards": "3/4[A]+3/1[H]+1/3[A]+1/1[H]+5/1[A]+1/1[H]+3/1[A]+3/0[H]",
+        "goals": "1/1[A]+1/3[H]+1/0[A]+0/2[H]+1/2[A]+1/0[H]+2/3[A]+2/1[H]",
+        "throwIns": "18/21[A]+29/24[H]+29/30[A]+24/15[H]+26/18[A]+22/21[H]+36/21[A]+15/22[H]",
+        "averageBallPossession": "43/57[A]+43/57[H]+46/54[A]+42/58[H]+40/60[A]+33/67[H]+42/58[A]+40/60[H]",
+        "teams": "Albacete,Granada,Away+Albacete,Málaga,Home+Albacete,Burgos,Away+Albacete,Deportivo,Home+Albacete,Las Palmas,Away+Albacete,FC Andorra,Home+Albacete,Eibar,Away+Albacete,Huesca,Home",
+        "tackles": "16/11[A]+16/13[H]+25/10[A]+12/14[H]+11/18[A]+14/11[H]+8/9[A]+9/12[H]",
+        "interceptions": "5/10[A]+12/12[H]+9/9[A]+4/8[H]+10/7[A]+6/5[H]+8/10[A]+8/11[H]",
+        "aerialDuels": "19/16[A]+12/14[H]+12/27[A]+10/12[H]+8/8[A]+14/8[H]+26/24[A]+7/16[H]",
+        "aerialDuelsAttempted": "35/35[A]+26/26[H]+39/39[A]+22/22[H]+16/16[A]+22/22[H]+50/50[A]+23/23[H]",
+        "dribbles": "4/7[A]+9/6[H]+3/8[A]+4/10[H]+6/6[A]+6/9[H]+5/10[A]+3/6[H]",
+        "dribblesAttempted": "11/16[A]+14/19[H]+10/21[A]+11/12[H]+16/12[A]+10/16[H]+9/16[A]+5/12[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "42/39",
+        "cornersTotalsHome": "26/19",
+        "cornersTotalsAway": "16/20",
+        "cornersAverage": "5.25/4.88",
+        "cornersAverageHome": "6.50/4.75",
+        "cornersAverageAway": "4.00/5.00",
+        "foulsTotals": "92/80",
+        "foulsTotalsHome": "41/23",
+        "foulsTotalsAway": "51/57",
+        "foulsAverage": "11.50/10.00",
+        "foulsAverageHome": "10.25/5.75",
+        "foulsAverageAway": "12.75/14.25",
+        "goalKicksTotals": "69/69",
+        "goalKicksTotalsHome": "26/33",
+        "goalKicksTotalsAway": "43/36",
+        "goalKicksAverage": "8.63/8.63",
+        "goalKicksAverageHome": "6.50/8.25",
+        "goalKicksAverageAway": "10.75/9.00",
+        "savesTotals": "25/32",
+        "savesTotalsHome": "12/18",
+        "savesTotalsAway": "13/14",
+        "savesAverage": "3.13/4.00",
+        "savesAverageHome": "3.00/4.50",
+        "savesAverageAway": "3.25/3.50",
+        "offsidesTotals": "10/16",
+        "offsidesTotalsHome": "7/8",
+        "offsidesTotalsAway": "3/8",
+        "offsidesAverage": "1.25/2.00",
+        "offsidesAverageHome": "1.75/2.00",
+        "offsidesAverageAway": "0.75/2.00",
+        "shotsOnTargetTotals": "38/37",
+        "shotsOnTargetTotalsHome": "20/18",
+        "shotsOnTargetTotalsAway": "18/19",
+        "shotsOnTargetAverage": "4.75/4.63",
+        "shotsOnTargetAverageHome": "5.00/4.50",
+        "shotsOnTargetAverageAway": "4.50/4.75",
+        "yellowCardsTotals": "20/12",
+        "yellowCardsTotalsHome": "8/3",
+        "yellowCardsTotalsAway": "12/9",
+        "yellowCardsAverage": "2.50/1.50",
+        "yellowCardsAverageHome": "2.00/0.75",
+        "yellowCardsAverageAway": "3.00/2.25",
+        "goalsTotals": "9/12",
+        "goalsTotalsHome": "4/6",
+        "goalsTotalsAway": "5/6",
+        "goalsAverage": "1.13/1.50",
+        "goalsAverageHome": "1.00/1.50",
+        "goalsAverageAway": "1.25/1.50",
+        "throwInsTotals": "199/172",
+        "throwInsTotalsHome": "90/82",
+        "throwInsTotalsAway": "109/90",
+        "throwInsAverage": "24.88/21.50",
+        "throwInsAverageHome": "22.50/20.50",
+        "throwInsAverageAway": "27.25/22.50",
+        "averageBallPossessionTotals": "329/471",
+        "averageBallPossessionTotalsHome": "158/242",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "41.13/58.88",
+        "averageBallPossessionAverageHome": "39.50/60.50",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "111/98",
+        "tacklesTotalsHome": "51/50",
+        "tacklesTotalsAway": "60/48",
+        "tacklesAverage": "13.88/12.25",
+        "tacklesAverageHome": "12.75/12.50",
+        "tacklesAverageAway": "15.00/12.00",
+        "interceptionsTotals": "62/72",
+        "interceptionsTotalsHome": "30/36",
+        "interceptionsTotalsAway": "32/36",
+        "interceptionsAverage": "7.75/9.00",
+        "interceptionsAverageHome": "7.50/9.00",
+        "interceptionsAverageAway": "8.00/9.00",
+        "aerialDuelsTotals": "108/125",
+        "aerialDuelsTotalsHome": "43/50",
+        "aerialDuelsTotalsAway": "65/75",
+        "aerialDuelsAverage": "13.50/15.63",
+        "aerialDuelsAverageHome": "10.75/12.50",
+        "aerialDuelsAverageAway": "16.25/18.75",
+        "aerialDuelsAttemptedTotals": "233/233",
+        "aerialDuelsAttemptedTotalsHome": "93/93",
+        "aerialDuelsAttemptedTotalsAway": "140/140",
+        "aerialDuelsAttemptedAverage": "29.13/29.13",
+        "aerialDuelsAttemptedAverageHome": "23.25/23.25",
+        "aerialDuelsAttemptedAverageAway": "35.00/35.00",
+        "dribblesTotals": "40/62",
+        "dribblesTotalsHome": "22/31",
+        "dribblesTotalsAway": "18/31",
+        "dribblesAverage": "5.00/7.75",
+        "dribblesAverageHome": "5.50/7.75",
+        "dribblesAverageAway": "4.50/7.75",
+        "dribblesAttemptedTotals": "86/124",
+        "dribblesAttemptedTotalsHome": "40/59",
+        "dribblesAttemptedTotalsAway": "46/65",
+        "dribblesAttemptedAverage": "10.75/15.50",
+        "dribblesAttemptedAverageHome": "10.00/14.75",
+        "dribblesAttemptedAverageAway": "11.50/16.25"
+    }
+}

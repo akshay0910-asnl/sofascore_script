@@ -1,0 +1,448 @@
+{
+    "globalStatistics": {
+        "corners": "4.41",
+        "fouls": "12.24",
+        "goalKicks": "6.00",
+        "saves": "2.41",
+        "offsides": "2.18",
+        "shotsOnTarget": "5.41/3.47",
+        "yellowCards": "2.24/1.29",
+        "goals": "1.76/0.94",
+        "throwIns": "19.53",
+        "ballPossession": 50.941176470588,
+        "tackles": "14.29/19.06",
+        "interceptions": "9.12/8.00",
+        "aerialDuels": "14.47",
+        "aerialDuelsAttempted": "31.53",
+        "dribbles": "8.41/4.71",
+        "dribblesAttempted": "18.29/11.47"
+    },
+    "teamSlug": "troyes",
+    "teamId": "1652",
+    "teamName": "Troyes",
+    "tournament": "Ligue 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-troyes/cIslJ#id:14911072,tab:statistics",
+            "teams": [
+                "Boulogne-sur-Mer",
+                "Troyes"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "1711",
+                "1652"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rodez-af-troyes/cIsANc#id:14064795,tab:statistics",
+            "teams": [
+                "Troyes",
+                "Rodez"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1652",
+                "6925"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stade-lavallois-troyes/cIsyI#id:14064688,tab:statistics",
+            "teams": [
+                "Laval",
+                "Troyes"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "1673",
+                "1652"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/saint-etienne-troyes/cIsDI#id:14064668,tab:statistics",
+            "teams": [
+                "Troyes",
+                "Saint-Étienne"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "1652",
+                "1678"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pau-fc-troyes/cIsKI#id:14607178,tab:statistics",
+            "teams": [
+                "Pau",
+                "Troyes"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1685",
+                "1652"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/amiens-sc-troyes/cIsBI#id:14064657,tab:statistics",
+            "teams": [
+                "Troyes",
+                "Amiens"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "1652",
+                "1676"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stade-de-reims-troyes/cIsHI#id:14064679,tab:statistics",
+            "teams": [
+                "Reims",
+                "Troyes"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "1682",
+                "1652"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bastia-troyes/cIsfI#id:14064884,tab:statistics",
+            "teams": [
+                "Troyes",
+                "Bastia"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1652",
+                "1655"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/7[A]",
+            "fouls": "17/14[A]",
+            "goalKicks": "11/9[A]",
+            "saves": "2/0[A]",
+            "offsides": "7/3[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "25/17[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Troyes,Boulogne-sur-Mer,Away",
+            "tackles": "14/27[A]",
+            "interceptions": "11/5[A]",
+            "aerialDuels": "22/25[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "20/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "15/18[H]",
+            "goalKicks": "6/14[H]",
+            "saves": "1/5[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "23/11[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "Troyes,Rodez,Home",
+            "tackles": "14/20[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "13/19[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "11/8[H]",
+            "dribblesAttempted": "23/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "3/4[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "20/11[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Troyes,Laval,Away",
+            "tackles": "13/18[A]",
+            "interceptions": "5/9[A]",
+            "aerialDuels": "23/21[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "8/11[A]",
+            "dribblesAttempted": "20/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/0[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "4/8[H]",
+            "saves": "2/6[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/3[H]",
+            "throwIns": "27/23[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Troyes,Saint-Étienne,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "12/7[H]",
+            "aerialDuels": "12/9[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "12/2[H]",
+            "dribblesAttempted": "22/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "5/15[A]",
+            "goalKicks": "4/4[A]",
+            "saves": "5/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "15/22[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Troyes,Pau,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "15/8[A]",
+            "aerialDuels": "14/16[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "16/15[H]",
+            "goalKicks": "2/13[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "32/22[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Troyes,Amiens,Home",
+            "tackles": "14/29[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "15/13[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "19/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "2/5[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "23/27[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Troyes,Reims,Away",
+            "tackles": "19/23[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "14/17[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "12/3[A]",
+            "dribblesAttempted": "19/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "12/4[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/19[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Troyes,Bastia,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "11/25[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "2/10[H]",
+            "dribblesAttempted": "11/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T18:18:38.970Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/stade-de-reims-troyes/cIsHI#id:14064679,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 403553,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-02T18:19:16.882Z",
+    "totalTimeSeconds": 37.91,
+    "combinedMatchStatistics": {
+        "corners": "4/7[A]+7/5[H]+7/3[A]+6/0[H]+1/9[A]+4/1[H]+1/7[A]+2/5[H]",
+        "fouls": "17/14[A]+15/18[H]+13/13[A]+8/14[H]+5/15[A]+16/15[H]+8/12[A]+11/12[H]",
+        "goalKicks": "11/9[A]+6/14[H]+8/8[A]+4/8[H]+4/4[A]+2/13[H]+6/9[A]+12/4[H]",
+        "saves": "2/0[A]+1/5[H]+3/4[A]+2/6[H]+5/3[A]+1/1[H]+2/5[A]+2/3[H]",
+        "offsides": "7/3[A]+0/3[H]+2/0[A]+4/1[H]+2/2[A]+1/0[H]+0/0[A]+0/3[H]",
+        "shotsOnTarget": "2/2[A]+6/2[H]+5/3[A]+8/5[H]+4/6[A]+4/2[H]+5/3[A]+4/2[H]",
+        "yellowCards": "4/1[A]+2/1[H]+3/4[A]+3/1[H]+1/2[A]+3/2[H]+2/1[A]+4/3[H]",
+        "goals": "2/1[A]+1/1[H]+1/0[A]+2/3[H]+1/1[A]+3/1[H]+0/0[A]+1/0[H]",
+        "throwIns": "25/17[A]+23/11[H]+20/11[A]+27/23[H]+15/22[A]+32/22[H]+23/27[A]+19/19[H]",
+        "averageBallPossession": "61/39[A]+69/31[H]+54/46[A]+58/42[H]+38/62[A]+55/45[H]+40/60[A]+34/66[H]",
+        "teams": "Troyes,Boulogne-sur-Mer,Away+Troyes,Rodez,Home+Troyes,Laval,Away+Troyes,Saint-Étienne,Home+Troyes,Pau,Away+Troyes,Amiens,Home+Troyes,Reims,Away+Troyes,Bastia,Home",
+        "tackles": "14/27[A]+14/20[H]+13/18[A]+22/18[H]+15/12[A]+14/29[H]+19/23[A]+13/12[H]",
+        "interceptions": "11/5[A]+5/6[H]+5/9[A]+12/7[H]+15/8[A]+5/6[H]+8/11[A]+7/6[H]",
+        "aerialDuels": "22/25[A]+13/19[H]+23/21[A]+12/9[H]+14/16[A]+15/13[H]+14/17[A]+11/25[H]",
+        "aerialDuelsAttempted": "47/47[A]+32/32[H]+44/44[A]+21/21[H]+30/30[A]+28/28[H]+31/31[A]+36/36[H]",
+        "dribbles": "6/4[A]+11/8[H]+8/11[A]+12/2[H]+6/8[A]+5/4[H]+12/3[A]+2/10[H]",
+        "dribblesAttempted": "20/11[A]+23/14[H]+20/16[A]+22/16[H]+9/14[A]+19/9[H]+19/11[A]+11/18[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "32/37",
+        "cornersTotalsHome": "19/11",
+        "cornersTotalsAway": "13/26",
+        "cornersAverage": "4.00/4.63",
+        "cornersAverageHome": "4.75/2.75",
+        "cornersAverageAway": "3.25/6.50",
+        "foulsTotals": "93/113",
+        "foulsTotalsHome": "50/59",
+        "foulsTotalsAway": "43/54",
+        "foulsAverage": "11.63/14.13",
+        "foulsAverageHome": "12.50/14.75",
+        "foulsAverageAway": "10.75/13.50",
+        "goalKicksTotals": "53/69",
+        "goalKicksTotalsHome": "24/39",
+        "goalKicksTotalsAway": "29/30",
+        "goalKicksAverage": "6.63/8.63",
+        "goalKicksAverageHome": "6.00/9.75",
+        "goalKicksAverageAway": "7.25/7.50",
+        "savesTotals": "18/27",
+        "savesTotalsHome": "6/15",
+        "savesTotalsAway": "12/12",
+        "savesAverage": "2.25/3.38",
+        "savesAverageHome": "1.50/3.75",
+        "savesAverageAway": "3.00/3.00",
+        "offsidesTotals": "16/12",
+        "offsidesTotalsHome": "5/7",
+        "offsidesTotalsAway": "11/5",
+        "offsidesAverage": "2.00/1.50",
+        "offsidesAverageHome": "1.25/1.75",
+        "offsidesAverageAway": "2.75/1.25",
+        "shotsOnTargetTotals": "38/25",
+        "shotsOnTargetTotalsHome": "22/11",
+        "shotsOnTargetTotalsAway": "16/14",
+        "shotsOnTargetAverage": "4.75/3.13",
+        "shotsOnTargetAverageHome": "5.50/2.75",
+        "shotsOnTargetAverageAway": "4.00/3.50",
+        "yellowCardsTotals": "22/15",
+        "yellowCardsTotalsHome": "12/7",
+        "yellowCardsTotalsAway": "10/8",
+        "yellowCardsAverage": "2.75/1.88",
+        "yellowCardsAverageHome": "3.00/1.75",
+        "yellowCardsAverageAway": "2.50/2.00",
+        "goalsTotals": "11/7",
+        "goalsTotalsHome": "7/5",
+        "goalsTotalsAway": "4/2",
+        "goalsAverage": "1.38/0.88",
+        "goalsAverageHome": "1.75/1.25",
+        "goalsAverageAway": "1.00/0.50",
+        "throwInsTotals": "184/152",
+        "throwInsTotalsHome": "101/75",
+        "throwInsTotalsAway": "83/77",
+        "throwInsAverage": "23.00/19.00",
+        "throwInsAverageHome": "25.25/18.75",
+        "throwInsAverageAway": "20.75/19.25",
+        "averageBallPossessionTotals": "409/391",
+        "averageBallPossessionTotalsHome": "216/184",
+        "averageBallPossessionTotalsAway": "193/207",
+        "averageBallPossessionAverage": "51.13/48.88",
+        "averageBallPossessionAverageHome": "54.00/46.00",
+        "averageBallPossessionAverageAway": "48.25/51.75",
+        "tacklesTotals": "124/159",
+        "tacklesTotalsHome": "63/79",
+        "tacklesTotalsAway": "61/80",
+        "tacklesAverage": "15.50/19.88",
+        "tacklesAverageHome": "15.75/19.75",
+        "tacklesAverageAway": "15.25/20.00",
+        "interceptionsTotals": "68/58",
+        "interceptionsTotalsHome": "29/25",
+        "interceptionsTotalsAway": "39/33",
+        "interceptionsAverage": "8.50/7.25",
+        "interceptionsAverageHome": "7.25/6.25",
+        "interceptionsAverageAway": "9.75/8.25",
+        "aerialDuelsTotals": "124/145",
+        "aerialDuelsTotalsHome": "51/66",
+        "aerialDuelsTotalsAway": "73/79",
+        "aerialDuelsAverage": "15.50/18.13",
+        "aerialDuelsAverageHome": "12.75/16.50",
+        "aerialDuelsAverageAway": "18.25/19.75",
+        "aerialDuelsAttemptedTotals": "269/269",
+        "aerialDuelsAttemptedTotalsHome": "117/117",
+        "aerialDuelsAttemptedTotalsAway": "152/152",
+        "aerialDuelsAttemptedAverage": "33.63/33.63",
+        "aerialDuelsAttemptedAverageHome": "29.25/29.25",
+        "aerialDuelsAttemptedAverageAway": "38.00/38.00",
+        "dribblesTotals": "62/50",
+        "dribblesTotalsHome": "30/24",
+        "dribblesTotalsAway": "32/26",
+        "dribblesAverage": "7.75/6.25",
+        "dribblesAverageHome": "7.50/6.00",
+        "dribblesAverageAway": "8.00/6.50",
+        "dribblesAttemptedTotals": "143/109",
+        "dribblesAttemptedTotalsHome": "75/57",
+        "dribblesAttemptedTotalsAway": "68/52",
+        "dribblesAttemptedAverage": "17.88/13.63",
+        "dribblesAttemptedAverageHome": "18.75/14.25",
+        "dribblesAttemptedAverageAway": "17.00/13.00"
+    }
+}

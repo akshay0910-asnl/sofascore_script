@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.82",
+        "fouls": "15.29",
+        "goalKicks": "7.29",
+        "saves": "3.12",
+        "offsides": "1.65",
+        "shotsOnTarget": "3.06/4.41",
+        "yellowCards": "1.82/2.24",
+        "goals": "0.88/1.29",
+        "throwIns": "22.18",
+        "ballPossession": 43.470588235294,
+        "tackles": "16.35/12.41",
+        "interceptions": "9.35/8.06",
+        "aerialDuels": "18.18",
+        "aerialDuelsAttempted": "35.88",
+        "dribbles": "4.94/6.71",
+        "dribblesAttempted": "9.88/15.24"
+    },
+    "teamSlug": "nancy",
+    "teamId": "1675",
+    "teamName": "Nancy",
+    "tournament": "Ligue 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/clermont-foot-nancy/AIsFI#id:14064804,tab:statistics",
+            "teams": [
+                "Nancy",
+                "Clermont"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1675",
+                "1680"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nancy-grenoble-foot-38/wIsAI#id:14064796,tab:statistics",
+            "teams": [
+                "Grenoble",
+                "Nancy"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1671",
+                "1675"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/saint-etienne-nancy/AIsDI#id:14064786,tab:statistics",
+            "teams": [
+                "Saint-Étienne",
+                "Nancy"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1678",
+                "1675"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nancy-stade-lavallois/yIsAI#id:14064675,tab:statistics",
+            "teams": [
+                "Nancy",
+                "Laval"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "1675",
+                "1673"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nancy-le-mans/xIsAI#id:14064656,tab:statistics",
+            "teams": [
+                "Le Mans",
+                "Nancy"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1672",
+                "1675"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nancy-bastia/fIsAI#id:14064655,tab:statistics",
+            "teams": [
+                "Nancy",
+                "Bastia"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "1675",
+                "1655"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nancy-montpellier/RHsAI#id:14064678,tab:statistics",
+            "teams": [
+                "Montpellier",
+                "Nancy"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "1642",
+                "1675"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/amiens-sc-nancy/AIsBI#id:14064645,tab:statistics",
+            "teams": [
+                "Nancy",
+                "Amiens"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "1675",
+                "1676"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/4[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "14/10[H]",
+            "saves": "3/5[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/12[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Nancy,Clermont,Home",
+            "tackles": "15/11[H]",
+            "interceptions": "5/4[H]",
+            "aerialDuels": "7/11[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "7/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "7/19[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "4/0[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "0/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "17/16[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Nancy,Grenoble,Away",
+            "tackles": "15/20[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "10/20[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "4/9[A]",
+            "dribblesAttempted": "14/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "20/11[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "0/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "19/18[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Nancy,Saint-Étienne,Away",
+            "tackles": "22/15[A]",
+            "interceptions": "10/17[A]",
+            "aerialDuels": "6/4[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "16/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/3[H]",
+            "fouls": "20/15[H]",
+            "goalKicks": "4/8[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "19/21[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Nancy,Laval,Home",
+            "tackles": "14/14[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "21/18[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "13/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "0/1[A]",
+            "throwIns": "26/20[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Nancy,Le Mans,Away",
+            "tackles": "15/10[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "19/23[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "11/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "19/19[H]",
+            "goalKicks": "4/3[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "27/22[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Nancy,Bastia,Home",
+            "tackles": "20/10[H]",
+            "interceptions": "14/11[H]",
+            "aerialDuels": "19/16[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "7/3[H]",
+            "dribblesAttempted": "11/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "9/2[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "3/9[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "19/19[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Nancy,Montpellier,Away",
+            "tackles": "16/19[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "28/16[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "15/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "4/21[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "30/14[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Nancy,Amiens,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "19/10[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "8/9[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T07:43:55.424Z",
+    "endTime": "2026-01-03T07:44:20.782Z",
+    "totalTimeSeconds": 25.36,
+    "combinedMatchStatistics": {
+        "corners": "7/4[H]+1/7[A]+2/4[A]+10/3[H]+3/7[A]+2/4[H]+1/9[A]+7/4[H]",
+        "fouls": "10/16[H]+7/19[A]+20/11[A]+20/15[H]+11/12[A]+19/19[H]+15/14[A]+14/16[H]",
+        "goalKicks": "14/10[H]+7/8[A]+7/6[A]+4/8[H]+8/9[A]+4/3[H]+9/2[A]+4/21[H]",
+        "saves": "3/5[H]+4/0[A]+0/2[A]+1/3[H]+1/1[A]+2/3[H]+5/2[A]+2/3[H]",
+        "offsides": "2/1[H]+1/5[A]+1/1[A]+1/3[H]+2/2[A]+2/0[H]+0/6[A]+0/1[H]",
+        "shotsOnTarget": "6/3[H]+0/5[A]+3/2[A]+3/3[H]+1/2[A]+5/2[H]+3/9[A]+3/3[H]",
+        "yellowCards": "1/2[H]+1/3[A]+3/2[A]+1/3[H]+2/5[A]+1/2[H]+2/1[A]+1/3[H]",
+        "goals": "1/0[H]+0/1[A]+1/2[A]+0/2[H]+0/1[A]+2/0[H]+1/4[A]+0/1[H]",
+        "throwIns": "19/12[H]+17/16[A]+19/18[A]+19/21[H]+26/20[A]+27/22[H]+19/19[A]+30/14[H]",
+        "averageBallPossession": "39/61[H]+44/56[A]+31/69[A]+61/39[H]+51/49[A]+44/56[H]+31/69[A]+57/43[H]",
+        "teams": "Nancy,Clermont,Home+Nancy,Grenoble,Away+Nancy,Saint-Étienne,Away+Nancy,Laval,Home+Nancy,Le Mans,Away+Nancy,Bastia,Home+Nancy,Montpellier,Away+Nancy,Amiens,Home",
+        "tackles": "15/11[H]+15/20[A]+22/15[A]+14/14[H]+15/10[A]+20/10[H]+16/19[A]+11/15[H]",
+        "interceptions": "5/4[H]+10/7[A]+10/17[A]+7/7[H]+8/11[A]+14/11[H]+11/6[A]+8/8[H]",
+        "aerialDuels": "7/11[H]+10/20[A]+6/4[A]+21/18[H]+19/23[A]+19/16[H]+28/16[A]+19/10[H]",
+        "aerialDuelsAttempted": "18/18[H]+30/30[A]+10/10[A]+39/39[H]+42/42[A]+35/35[H]+44/44[A]+29/29[H]",
+        "dribbles": "3/6[H]+4/9[A]+7/9[A]+7/6[H]+4/3[A]+7/3[H]+9/5[A]+3/4[H]",
+        "dribblesAttempted": "7/14[H]+14/19[A]+16/22[A]+13/12[H]+11/10[A]+11/15[H]+15/12[A]+8/9[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "33/42",
+        "cornersTotalsHome": "26/15",
+        "cornersTotalsAway": "7/27",
+        "cornersAverage": "4.13/5.25",
+        "cornersAverageHome": "6.50/3.75",
+        "cornersAverageAway": "1.75/6.75",
+        "foulsTotals": "116/122",
+        "foulsTotalsHome": "63/66",
+        "foulsTotalsAway": "53/56",
+        "foulsAverage": "14.50/15.25",
+        "foulsAverageHome": "15.75/16.50",
+        "foulsAverageAway": "13.25/14.00",
+        "goalKicksTotals": "57/67",
+        "goalKicksTotalsHome": "26/42",
+        "goalKicksTotalsAway": "31/25",
+        "goalKicksAverage": "7.13/8.38",
+        "goalKicksAverageHome": "6.50/10.50",
+        "goalKicksAverageAway": "7.75/6.25",
+        "savesTotals": "18/19",
+        "savesTotalsHome": "8/14",
+        "savesTotalsAway": "10/5",
+        "savesAverage": "2.25/2.38",
+        "savesAverageHome": "2.00/3.50",
+        "savesAverageAway": "2.50/1.25",
+        "offsidesTotals": "9/19",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "4/14",
+        "offsidesAverage": "1.13/2.38",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "1.00/3.50",
+        "shotsOnTargetTotals": "24/29",
+        "shotsOnTargetTotalsHome": "17/11",
+        "shotsOnTargetTotalsAway": "7/18",
+        "shotsOnTargetAverage": "3.00/3.63",
+        "shotsOnTargetAverageHome": "4.25/2.75",
+        "shotsOnTargetAverageAway": "1.75/4.50",
+        "yellowCardsTotals": "12/21",
+        "yellowCardsTotalsHome": "4/10",
+        "yellowCardsTotalsAway": "8/11",
+        "yellowCardsAverage": "1.50/2.63",
+        "yellowCardsAverageHome": "1.00/2.50",
+        "yellowCardsAverageAway": "2.00/2.75",
+        "goalsTotals": "5/11",
+        "goalsTotalsHome": "3/3",
+        "goalsTotalsAway": "2/8",
+        "goalsAverage": "0.63/1.38",
+        "goalsAverageHome": "0.75/0.75",
+        "goalsAverageAway": "0.50/2.00",
+        "throwInsTotals": "176/142",
+        "throwInsTotalsHome": "95/69",
+        "throwInsTotalsAway": "81/73",
+        "throwInsAverage": "22.00/17.75",
+        "throwInsAverageHome": "23.75/17.25",
+        "throwInsAverageAway": "20.25/18.25",
+        "averageBallPossessionTotals": "358/442",
+        "averageBallPossessionTotalsHome": "201/199",
+        "averageBallPossessionTotalsAway": "157/243",
+        "averageBallPossessionAverage": "44.75/55.25",
+        "averageBallPossessionAverageHome": "50.25/49.75",
+        "averageBallPossessionAverageAway": "39.25/60.75",
+        "tacklesTotals": "128/114",
+        "tacklesTotalsHome": "60/50",
+        "tacklesTotalsAway": "68/64",
+        "tacklesAverage": "16.00/14.25",
+        "tacklesAverageHome": "15.00/12.50",
+        "tacklesAverageAway": "17.00/16.00",
+        "interceptionsTotals": "73/71",
+        "interceptionsTotalsHome": "34/30",
+        "interceptionsTotalsAway": "39/41",
+        "interceptionsAverage": "9.13/8.88",
+        "interceptionsAverageHome": "8.50/7.50",
+        "interceptionsAverageAway": "9.75/10.25",
+        "aerialDuelsTotals": "129/118",
+        "aerialDuelsTotalsHome": "66/55",
+        "aerialDuelsTotalsAway": "63/63",
+        "aerialDuelsAverage": "16.13/14.75",
+        "aerialDuelsAverageHome": "16.50/13.75",
+        "aerialDuelsAverageAway": "15.75/15.75",
+        "aerialDuelsAttemptedTotals": "247/247",
+        "aerialDuelsAttemptedTotalsHome": "121/121",
+        "aerialDuelsAttemptedTotalsAway": "126/126",
+        "aerialDuelsAttemptedAverage": "30.88/30.88",
+        "aerialDuelsAttemptedAverageHome": "30.25/30.25",
+        "aerialDuelsAttemptedAverageAway": "31.50/31.50",
+        "dribblesTotals": "44/45",
+        "dribblesTotalsHome": "20/19",
+        "dribblesTotalsAway": "24/26",
+        "dribblesAverage": "5.50/5.63",
+        "dribblesAverageHome": "5.00/4.75",
+        "dribblesAverageAway": "6.00/6.50",
+        "dribblesAttemptedTotals": "95/113",
+        "dribblesAttemptedTotalsHome": "39/50",
+        "dribblesAttemptedTotalsAway": "56/63",
+        "dribblesAttemptedAverage": "11.88/14.13",
+        "dribblesAttemptedAverageHome": "9.75/12.50",
+        "dribblesAttemptedAverageAway": "14.00/15.75"
+    }
+}

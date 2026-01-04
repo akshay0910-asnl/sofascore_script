@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "13.13",
+        "goalKicks": "6.50",
+        "saves": "2.88",
+        "offsides": "2.06",
+        "shotsOnTarget": "5.19/3.75",
+        "yellowCards": "1.88/2.31",
+        "goals": "1.75/0.81",
+        "throwIns": "16.94",
+        "ballPossession": 48.125,
+        "tackles": "19.25/17.19",
+        "interceptions": "10.69/8.50",
+        "aerialDuels": "12.38",
+        "aerialDuelsAttempted": "25.13",
+        "dribbles": "7.44/8.56",
+        "dribblesAttempted": "15.63/19.06"
+    },
+    "teamSlug": "rc-lens",
+    "teamId": "1648",
+    "teamName": "RC Lens",
+    "tournament": "Ligue 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nice-rc-lens/YHslI#id:14064446,tab:statistics",
+            "teams": [
+                "Lens",
+                "Nice"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "1648",
+                "1661"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-lens-nantes/XHsYH#id:14064431,tab:statistics",
+            "teams": [
+                "Nantes",
+                "Lens"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "1647",
+                "1648"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/angers-rc-lens/YHsJI#id:14064430,tab:statistics",
+            "teams": [
+                "Angers",
+                "Lens"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "1684",
+                "1648"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-rc-lens/YHsjI#id:14064414,tab:statistics",
+            "teams": [
+                "Lens",
+                "Strasbourg"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1648",
+                "1659"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/as-monaco-rc-lens/YHsdI#id:14064424,tab:statistics",
+            "teams": [
+                "AS Monaco",
+                "Lens"
+            ],
+            "goals": [
+                "1",
+                "4"
+            ],
+            "teamIds": [
+                "1653",
+                "1648"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lorient-rc-lens/YHsgI#id:14167939,tab:statistics",
+            "teams": [
+                "Lens",
+                "Lorient"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "1648",
+                "1656"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/metz-rc-lens/YHsbI#id:14064507,tab:statistics",
+            "teams": [
+                "Metz",
+                "Lens"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "1651",
+                "1648"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-lens-olympique-de-marseille/QHsYH#id:14167925,tab:statistics",
+            "teams": [
+                "Lens",
+                "Marseille"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1648",
+                "1641"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/5[H]",
+            "fouls": "17/13[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "23/24[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Lens,Nice,Home",
+            "tackles": "15/18[H]",
+            "interceptions": "15/14[H]",
+            "aerialDuels": "10/12[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "8/14[H]",
+            "dribblesAttempted": "16/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/1[A]",
+            "fouls": "13/8[A]",
+            "goalKicks": "4/11[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "25/18[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "Lens,Nantes,Away",
+            "tackles": "26/20[A]",
+            "interceptions": "5/7[A]",
+            "aerialDuels": "18/22[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "17/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "4/12[A]",
+            "saves": "4/4[A]",
+            "offsides": "2/5[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "20/20[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Lens,Angers,Away",
+            "tackles": "25/26[A]",
+            "interceptions": "19/15[A]",
+            "aerialDuels": "13/14[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "19/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/1[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "1/4[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "21/22[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Lens,Strasbourg,Home",
+            "tackles": "20/18[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "6/10[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "6/15[H]",
+            "dribblesAttempted": "16/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "19/15[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "5/7[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "12/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "4/1[A]",
+            "throwIns": "15/18[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Lens,AS Monaco,Away",
+            "tackles": "17/20[A]",
+            "interceptions": "14/8[A]",
+            "aerialDuels": "10/10[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "10/12[A]",
+            "dribblesAttempted": "19/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "5/4[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/0[H]",
+            "throwIns": "17/13[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Lens,Lorient,Home",
+            "tackles": "13/14[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "7/3[H]",
+            "aerialDuelsAttempted": "10/10[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "16/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "15/15[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "17/18[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Lens,Metz,Away",
+            "tackles": "14/18[A]",
+            "interceptions": "3/10[A]",
+            "aerialDuels": "10/9[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "2/9[A]",
+            "dribblesAttempted": "10/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/8[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "2/4[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "13/13[H]",
+            "averageBallPossession": "31/69[H]",
+            "teams": "Lens,Marseille,Home",
+            "tackles": "19/16[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "16/8[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "16/21[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T17:35:33.330Z",
+    "endTime": "2026-01-02T17:36:10.811Z",
+    "totalTimeSeconds": 37.48,
+    "combinedMatchStatistics": {
+        "corners": "2/5[H]+12/1[A]+8/2[A]+3/1[H]+4/5[A]+7/6[H]+5/2[A]+4/8[H]",
+        "fouls": "17/13[H]+13/8[A]+11/7[A]+13/13[H]+19/15[A]+8/10[H]+15/15[A]+12/9[H]",
+        "goalKicks": "6/5[H]+4/11[A]+4/12[A]+5/9[H]+6/4[A]+5/4[H]+8/8[A]+5/6[H]",
+        "saves": "4/4[H]+3/4[A]+4/4[A]+1/4[H]+5/7[A]+3/2[H]+4/2[A]+2/4[H]",
+        "offsides": "0/2[H]+3/0[A]+2/5[A]+3/2[H]+2/2[A]+2/0[H]+3/0[A]+3/1[H]",
+        "shotsOnTarget": "5/4[H]+6/4[A]+6/5[A]+5/1[H]+12/6[A]+6/3[H]+2/7[A]+5/3[H]",
+        "yellowCards": "0/2[H]+0/2[A]+1/1[A]+2/3[H]+2/1[A]+2/2[H]+2/3[A]+3/3[H]",
+        "goals": "2/0[H]+2/1[A]+2/1[A]+1/0[H]+4/1[A]+3/0[H]+0/2[A]+2/1[H]",
+        "throwIns": "23/24[H]+25/18[A]+20/20[A]+21/22[H]+15/18[A]+17/13[H]+17/18[A]+13/13[H]",
+        "averageBallPossession": "46/54[H]+66/34[A]+55/45[A]+55/45[H]+50/50[A]+58/42[H]+54/46[A]+31/69[H]",
+        "teams": "Lens,Nice,Home+Lens,Nantes,Away+Lens,Angers,Away+Lens,Strasbourg,Home+Lens,AS Monaco,Away+Lens,Lorient,Home+Lens,Metz,Away+Lens,Marseille,Home",
+        "tackles": "15/18[H]+26/20[A]+25/26[A]+20/18[H]+17/20[A]+13/14[H]+14/18[A]+19/16[H]",
+        "interceptions": "15/14[H]+5/7[A]+19/15[A]+10/7[H]+14/8[A]+9/10[H]+3/10[A]+6/7[H]",
+        "aerialDuels": "10/12[H]+18/22[A]+13/14[A]+6/10[H]+10/10[A]+7/3[H]+10/9[A]+16/8[H]",
+        "aerialDuelsAttempted": "22/22[H]+40/40[A]+27/27[A]+16/16[H]+20/20[A]+10/10[H]+19/19[A]+24/24[H]",
+        "dribbles": "8/14[H]+8/6[A]+9/8[A]+6/15[H]+10/12[A]+8/5[H]+2/9[A]+7/9[H]",
+        "dribblesAttempted": "16/21[H]+17/20[A]+19/21[A]+16/24[H]+19/24[A]+16/16[H]+10/14[A]+16/21[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "45/30",
+        "cornersTotalsHome": "16/20",
+        "cornersTotalsAway": "29/10",
+        "cornersAverage": "5.63/3.75",
+        "cornersAverageHome": "4.00/5.00",
+        "cornersAverageAway": "7.25/2.50",
+        "foulsTotals": "108/90",
+        "foulsTotalsHome": "50/45",
+        "foulsTotalsAway": "58/45",
+        "foulsAverage": "13.50/11.25",
+        "foulsAverageHome": "12.50/11.25",
+        "foulsAverageAway": "14.50/11.25",
+        "goalKicksTotals": "43/59",
+        "goalKicksTotalsHome": "21/24",
+        "goalKicksTotalsAway": "22/35",
+        "goalKicksAverage": "5.38/7.38",
+        "goalKicksAverageHome": "5.25/6.00",
+        "goalKicksAverageAway": "5.50/8.75",
+        "savesTotals": "26/31",
+        "savesTotalsHome": "10/14",
+        "savesTotalsAway": "16/17",
+        "savesAverage": "3.25/3.88",
+        "savesAverageHome": "2.50/3.50",
+        "savesAverageAway": "4.00/4.25",
+        "offsidesTotals": "18/12",
+        "offsidesTotalsHome": "8/5",
+        "offsidesTotalsAway": "10/7",
+        "offsidesAverage": "2.25/1.50",
+        "offsidesAverageHome": "2.00/1.25",
+        "offsidesAverageAway": "2.50/1.75",
+        "shotsOnTargetTotals": "47/33",
+        "shotsOnTargetTotalsHome": "21/11",
+        "shotsOnTargetTotalsAway": "26/22",
+        "shotsOnTargetAverage": "5.88/4.13",
+        "shotsOnTargetAverageHome": "5.25/2.75",
+        "shotsOnTargetAverageAway": "6.50/5.50",
+        "yellowCardsTotals": "12/17",
+        "yellowCardsTotalsHome": "7/10",
+        "yellowCardsTotalsAway": "5/7",
+        "yellowCardsAverage": "1.50/2.13",
+        "yellowCardsAverageHome": "1.75/2.50",
+        "yellowCardsAverageAway": "1.25/1.75",
+        "goalsTotals": "16/6",
+        "goalsTotalsHome": "8/1",
+        "goalsTotalsAway": "8/5",
+        "goalsAverage": "2.00/0.75",
+        "goalsAverageHome": "2.00/0.25",
+        "goalsAverageAway": "2.00/1.25",
+        "throwInsTotals": "151/146",
+        "throwInsTotalsHome": "74/72",
+        "throwInsTotalsAway": "77/74",
+        "throwInsAverage": "18.88/18.25",
+        "throwInsAverageHome": "18.50/18.00",
+        "throwInsAverageAway": "19.25/18.50",
+        "averageBallPossessionTotals": "415/385",
+        "averageBallPossessionTotalsHome": "190/210",
+        "averageBallPossessionTotalsAway": "225/175",
+        "averageBallPossessionAverage": "51.88/48.13",
+        "averageBallPossessionAverageHome": "47.50/52.50",
+        "averageBallPossessionAverageAway": "56.25/43.75",
+        "tacklesTotals": "149/150",
+        "tacklesTotalsHome": "67/66",
+        "tacklesTotalsAway": "82/84",
+        "tacklesAverage": "18.63/18.75",
+        "tacklesAverageHome": "16.75/16.50",
+        "tacklesAverageAway": "20.50/21.00",
+        "interceptionsTotals": "81/78",
+        "interceptionsTotalsHome": "40/38",
+        "interceptionsTotalsAway": "41/40",
+        "interceptionsAverage": "10.13/9.75",
+        "interceptionsAverageHome": "10.00/9.50",
+        "interceptionsAverageAway": "10.25/10.00",
+        "aerialDuelsTotals": "90/88",
+        "aerialDuelsTotalsHome": "39/33",
+        "aerialDuelsTotalsAway": "51/55",
+        "aerialDuelsAverage": "11.25/11.00",
+        "aerialDuelsAverageHome": "9.75/8.25",
+        "aerialDuelsAverageAway": "12.75/13.75",
+        "aerialDuelsAttemptedTotals": "178/178",
+        "aerialDuelsAttemptedTotalsHome": "72/72",
+        "aerialDuelsAttemptedTotalsAway": "106/106",
+        "aerialDuelsAttemptedAverage": "22.25/22.25",
+        "aerialDuelsAttemptedAverageHome": "18.00/18.00",
+        "aerialDuelsAttemptedAverageAway": "26.50/26.50",
+        "dribblesTotals": "58/78",
+        "dribblesTotalsHome": "29/43",
+        "dribblesTotalsAway": "29/35",
+        "dribblesAverage": "7.25/9.75",
+        "dribblesAverageHome": "7.25/10.75",
+        "dribblesAverageAway": "7.25/8.75",
+        "dribblesAttemptedTotals": "129/161",
+        "dribblesAttemptedTotalsHome": "64/82",
+        "dribblesAttemptedTotalsAway": "65/79",
+        "dribblesAttemptedAverage": "16.13/20.13",
+        "dribblesAttemptedAverageHome": "16.00/20.50",
+        "dribblesAttemptedAverageAway": "16.25/19.75"
+    }
+}

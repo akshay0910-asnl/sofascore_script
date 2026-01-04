@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.95",
+        "fouls": "13.95",
+        "goalKicks": "9.05",
+        "saves": "2.42",
+        "offsides": "2.05",
+        "shotsOnTarget": "2.89/3.42",
+        "yellowCards": "2.84/2.79",
+        "goals": "1.26/0.95",
+        "throwIns": "23.79",
+        "ballPossession": 47.157894736842,
+        "tackles": "16.47/15.37",
+        "interceptions": "10.47/7.21",
+        "aerialDuels": "18.89",
+        "aerialDuelsAttempted": "34.58",
+        "dribbles": "6.79/8.05",
+        "dribblesAttempted": "15.42/16.79"
+    },
+    "teamSlug": "burgos-club-de-futbol",
+    "teamId": "2854",
+    "teamName": "Burgos Club de Fútbol",
+    "tournament": "LaLiga 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/burgos-club-de-futbol-real-zaragoza/pgbsehb#id:14083514,tab:statistics",
+            "teams": [
+                "Burgos",
+                "Real Zaragoza"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2854",
+                "2815"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/almeria-burgos-club-de-futbol/ehbsihb#id:14083497,tab:statistics",
+            "teams": [
+                "Almería",
+                "Burgos"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2858",
+                "2854"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/burgos-club-de-futbol-albacete-balompie/Ygbsehb#id:14083467,tab:statistics",
+            "teams": [
+                "Burgos",
+                "Albacete"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2854",
+                "2848"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ad-ceuta-burgos-club-de-futbol/ehbsuhb#id:14083431,tab:statistics",
+            "teams": [
+                "Ceuta",
+                "Burgos"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2869",
+                "2854"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/burgos-club-de-futbol-racing-de-santander/Kgbsehb#id:14083382,tab:statistics",
+            "teams": [
+                "Burgos",
+                "R. Racing Club"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2854",
+                "2835"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mirandes-burgos-club-de-futbol/ehbsRbo#id:14083367,tab:statistics",
+            "teams": [
+                "Mirandés",
+                "Burgos"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "35092",
+                "2854"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cd-castellon-burgos-club-de-futbol/ehbsrbc#id:14083326,tab:statistics",
+            "teams": [
+                "Burgos",
+                "Castellón"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2854",
+                "5067"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/burgos-club-de-futbol-leganes/Vgbsehb#id:14083317,tab:statistics",
+            "teams": [
+                "Leganés",
+                "Burgos"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2845",
+                "2854"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/7[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "14/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "15/22[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Burgos,Real Zaragoza,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "15/6[H]",
+            "aerialDuels": "20/12[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "10/6[H]",
+            "dribblesAttempted": "19/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/3[A]",
+            "fouls": "19/21[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "3/0[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "20/27[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Burgos,Almería,Away",
+            "tackles": "24/12[A]",
+            "interceptions": "12/4[A]",
+            "aerialDuels": "14/21[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/2[A]",
+            "dribblesAttempted": "12/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "30/29[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Burgos,Albacete,Home",
+            "tackles": "10/25[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "27/12[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "21/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/10[A]",
+            "fouls": "12/21[A]",
+            "goalKicks": "9/4[A]",
+            "saves": "4/1[A]",
+            "offsides": "5/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/5[A]",
+            "goals": "0/1[A]",
+            "throwIns": "18/21[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Burgos,Ceuta,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "3/6[A]",
+            "aerialDuels": "16/9[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "9/15[A]",
+            "dribblesAttempted": "15/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "17/16[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "2/1[H]",
+            "offsides": "6/1[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "5/5[H]",
+            "goals": "0/2[H]",
+            "throwIns": "27/21[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Burgos,R. Racing Club,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "16/6[H]",
+            "aerialDuels": "18/10[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "16/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "12/21[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Burgos,Mirandés,Away",
+            "tackles": "8/7[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "28/19[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "8/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "15/7[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "32/20[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Burgos,Castellón,Home",
+            "tackles": "20/12[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "18/16[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "4/10[H]",
+            "dribblesAttempted": "10/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/9[A]",
+            "fouls": "17/17[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "2/0[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "18/22[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Burgos,Leganés,Away",
+            "tackles": "17/14[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "24/15[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "11/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T07:40:12.008Z",
+    "endTime": "2026-01-03T07:40:35.207Z",
+    "totalTimeSeconds": 23.2,
+    "combinedMatchStatistics": {
+        "corners": "5/7[H]+1/3[A]+5/5[H]+7/10[A]+6/3[H]+4/7[A]+5/6[H]+4/9[A]",
+        "fouls": "13/15[H]+19/21[A]+14/12[H]+12/21[A]+17/16[H]+12/21[A]+14/11[H]+17/17[A]",
+        "goalKicks": "14/8[H]+7/5[A]+7/9[H]+9/4[A]+12/7[H]+11/7[A]+15/7[H]+13/6[A]",
+        "saves": "3/3[H]+3/0[A]+1/3[H]+4/1[A]+2/1[H]+2/2[A]+1/3[H]+2/0[A]",
+        "offsides": "1/0[H]+3/1[A]+1/0[H]+5/1[A]+6/1[H]+0/1[A]+2/3[H]+3/0[A]",
+        "shotsOnTarget": "4/4[H]+2/4[A]+3/2[H]+1/5[A]+1/4[H]+4/2[A]+3/2[H]+2/3[A]",
+        "yellowCards": "1/3[H]+3/3[A]+3/1[H]+3/5[A]+5/5[H]+1/4[A]+2/2[H]+3/3[A]",
+        "goals": "1/1[H]+2/1[A]+0/1[H]+0/1[A]+0/2[H]+2/0[A]+0/0[H]+2/1[A]",
+        "throwIns": "15/22[H]+20/27[A]+30/29[H]+18/21[A]+27/21[H]+17/14[A]+32/20[H]+18/22[A]",
+        "averageBallPossession": "41/59[H]+35/65[A]+54/46[H]+47/53[A]+52/48[H]+51/49[A]+39/61[H]+38/62[A]",
+        "teams": "Burgos,Real Zaragoza,Home+Burgos,Almería,Away+Burgos,Albacete,Home+Burgos,Ceuta,Away+Burgos,R. Racing Club,Home+Burgos,Mirandés,Away+Burgos,Castellón,Home+Burgos,Leganés,Away",
+        "tackles": "15/16[H]+24/12[A]+10/25[H]+14/12[A]+14/13[H]+8/7[A]+20/12[H]+17/14[A]",
+        "interceptions": "15/6[H]+12/4[A]+9/9[H]+3/6[A]+16/6[H]+9/6[A]+10/6[H]+10/6[A]",
+        "aerialDuels": "20/12[H]+14/21[A]+27/12[H]+16/9[A]+18/10[H]+28/19[A]+18/16[H]+24/15[A]",
+        "aerialDuelsAttempted": "32/32[H]+35/35[A]+39/39[H]+25/25[A]+28/28[H]+47/47[A]+34/34[H]+39/39[A]",
+        "dribbles": "10/6[H]+5/2[A]+8/3[H]+9/15[A]+6/7[H]+3/4[A]+4/10[H]+3/6[A]",
+        "dribblesAttempted": "19/14[H]+12/19[A]+21/10[H]+15/20[A]+16/14[H]+8/8[A]+10/18[H]+11/13[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "37/50",
+        "cornersTotalsHome": "21/21",
+        "cornersTotalsAway": "16/29",
+        "cornersAverage": "4.63/6.25",
+        "cornersAverageHome": "5.25/5.25",
+        "cornersAverageAway": "4.00/7.25",
+        "foulsTotals": "118/134",
+        "foulsTotalsHome": "58/54",
+        "foulsTotalsAway": "60/80",
+        "foulsAverage": "14.75/16.75",
+        "foulsAverageHome": "14.50/13.50",
+        "foulsAverageAway": "15.00/20.00",
+        "goalKicksTotals": "88/53",
+        "goalKicksTotalsHome": "48/31",
+        "goalKicksTotalsAway": "40/22",
+        "goalKicksAverage": "11.00/6.63",
+        "goalKicksAverageHome": "12.00/7.75",
+        "goalKicksAverageAway": "10.00/5.50",
+        "savesTotals": "18/13",
+        "savesTotalsHome": "7/10",
+        "savesTotalsAway": "11/3",
+        "savesAverage": "2.25/1.63",
+        "savesAverageHome": "1.75/2.50",
+        "savesAverageAway": "2.75/0.75",
+        "offsidesTotals": "21/7",
+        "offsidesTotalsHome": "10/4",
+        "offsidesTotalsAway": "11/3",
+        "offsidesAverage": "2.63/0.88",
+        "offsidesAverageHome": "2.50/1.00",
+        "offsidesAverageAway": "2.75/0.75",
+        "shotsOnTargetTotals": "20/26",
+        "shotsOnTargetTotalsHome": "11/12",
+        "shotsOnTargetTotalsAway": "9/14",
+        "shotsOnTargetAverage": "2.50/3.25",
+        "shotsOnTargetAverageHome": "2.75/3.00",
+        "shotsOnTargetAverageAway": "2.25/3.50",
+        "yellowCardsTotals": "21/26",
+        "yellowCardsTotalsHome": "11/11",
+        "yellowCardsTotalsAway": "10/15",
+        "yellowCardsAverage": "2.63/3.25",
+        "yellowCardsAverageHome": "2.75/2.75",
+        "yellowCardsAverageAway": "2.50/3.75",
+        "goalsTotals": "7/7",
+        "goalsTotalsHome": "1/4",
+        "goalsTotalsAway": "6/3",
+        "goalsAverage": "0.88/0.88",
+        "goalsAverageHome": "0.25/1.00",
+        "goalsAverageAway": "1.50/0.75",
+        "throwInsTotals": "177/176",
+        "throwInsTotalsHome": "104/92",
+        "throwInsTotalsAway": "73/84",
+        "throwInsAverage": "22.13/22.00",
+        "throwInsAverageHome": "26.00/23.00",
+        "throwInsAverageAway": "18.25/21.00",
+        "averageBallPossessionTotals": "357/443",
+        "averageBallPossessionTotalsHome": "186/214",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "44.63/55.38",
+        "averageBallPossessionAverageHome": "46.50/53.50",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "122/111",
+        "tacklesTotalsHome": "59/66",
+        "tacklesTotalsAway": "63/45",
+        "tacklesAverage": "15.25/13.88",
+        "tacklesAverageHome": "14.75/16.50",
+        "tacklesAverageAway": "15.75/11.25",
+        "interceptionsTotals": "84/49",
+        "interceptionsTotalsHome": "50/27",
+        "interceptionsTotalsAway": "34/22",
+        "interceptionsAverage": "10.50/6.13",
+        "interceptionsAverageHome": "12.50/6.75",
+        "interceptionsAverageAway": "8.50/5.50",
+        "aerialDuelsTotals": "165/114",
+        "aerialDuelsTotalsHome": "83/50",
+        "aerialDuelsTotalsAway": "82/64",
+        "aerialDuelsAverage": "20.63/14.25",
+        "aerialDuelsAverageHome": "20.75/12.50",
+        "aerialDuelsAverageAway": "20.50/16.00",
+        "aerialDuelsAttemptedTotals": "279/279",
+        "aerialDuelsAttemptedTotalsHome": "133/133",
+        "aerialDuelsAttemptedTotalsAway": "146/146",
+        "aerialDuelsAttemptedAverage": "34.88/34.88",
+        "aerialDuelsAttemptedAverageHome": "33.25/33.25",
+        "aerialDuelsAttemptedAverageAway": "36.50/36.50",
+        "dribblesTotals": "48/53",
+        "dribblesTotalsHome": "28/26",
+        "dribblesTotalsAway": "20/27",
+        "dribblesAverage": "6.00/6.63",
+        "dribblesAverageHome": "7.00/6.50",
+        "dribblesAverageAway": "5.00/6.75",
+        "dribblesAttemptedTotals": "112/116",
+        "dribblesAttemptedTotalsHome": "66/56",
+        "dribblesAttemptedTotalsAway": "46/60",
+        "dribblesAttemptedAverage": "14.00/14.50",
+        "dribblesAttemptedAverageHome": "16.50/14.00",
+        "dribblesAttemptedAverageAway": "11.50/15.00"
+    }
+}

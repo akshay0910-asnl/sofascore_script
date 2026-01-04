@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.18",
+        "fouls": "14.94",
+        "goalKicks": "6.71",
+        "saves": "2.00",
+        "offsides": "2.76",
+        "shotsOnTarget": "4.00/3.71",
+        "yellowCards": "2.12/2.12",
+        "goals": "1.06/1.53",
+        "throwIns": "22.00",
+        "ballPossession": 43.529411764706,
+        "tackles": "19.00/15.53",
+        "interceptions": "10.12/9.41",
+        "aerialDuels": "16.35",
+        "aerialDuelsAttempted": "32.53",
+        "dribbles": "5.35/7.59",
+        "dribblesAttempted": "13.35/17.06"
+    },
+    "teamSlug": "us-boulogne-cote-dopale",
+    "teamId": "1711",
+    "teamName": "US Boulogne Côte-d&apos;Opale",
+    "tournament": "Ligue 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-troyes/cIslJ#id:14911072,tab:statistics",
+            "teams": [
+                "Boulogne-sur-Mer",
+                "Troyes"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "1711",
+                "1652"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-clermont-foot/FIslJ#id:14383010,tab:statistics",
+            "teams": [
+                "Clermont",
+                "Boulogne-sur-Mer"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1680",
+                "1711"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-grenoble-foot-38/wIslJ#id:14383011,tab:statistics",
+            "teams": [
+                "Boulogne-sur-Mer",
+                "Grenoble"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "1711",
+                "1671"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/usl-dunkerque-us-boulogne-cote-dopale/lJstNc#id:14383008,tab:statistics",
+            "teams": [
+                "Dunkerque",
+                "Boulogne-sur-Mer"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "6918",
+                "1711"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/annecy-fc-us-boulogne-cote-dopale/lJsUrJb#id:14383016,tab:statistics",
+            "teams": [
+                "Annecy",
+                "Boulogne-sur-Mer"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "210894",
+                "1711"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-stade-de-reims/HIslJ#id:14382996,tab:statistics",
+            "teams": [
+                "Boulogne-sur-Mer",
+                "Reims"
+            ],
+            "goals": [
+                "2",
+                "6"
+            ],
+            "teamIds": [
+                "1711",
+                "1682"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-le-mans/xIslJ#id:14382998,tab:statistics",
+            "teams": [
+                "Le Mans",
+                "Boulogne-sur-Mer"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1672",
+                "1711"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/us-boulogne-cote-dopale-guingamp/eIslJ#id:14382995,tab:statistics",
+            "teams": [
+                "Boulogne-sur-Mer",
+                "Guingamp"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "1711",
+                "1654"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/4[H]",
+            "fouls": "14/17[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "0/2[H]",
+            "offsides": "3/7[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Boulogne-sur-Mer,Troyes,Home",
+            "tackles": "27/14[H]",
+            "interceptions": "5/11[H]",
+            "aerialDuels": "25/22[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "11/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "12/10[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "1/4[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Boulogne-sur-Mer,Clermont,Away",
+            "tackles": "15/17[A]",
+            "interceptions": "16/13[A]",
+            "aerialDuels": "12/15[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "5/13[A]",
+            "dribblesAttempted": "18/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "13/14[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "4/5[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "8/7[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "21/31[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Boulogne-sur-Mer,Grenoble,Home",
+            "tackles": "18/9[H]",
+            "interceptions": "11/10[H]",
+            "aerialDuels": "14/21[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "9/8[H]",
+            "dribblesAttempted": "13/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "23/15[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "3/2[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/13[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Boulogne-sur-Mer,Dunkerque,Away",
+            "tackles": "9/7[A]",
+            "interceptions": "6/5[A]",
+            "aerialDuels": "16/15[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "7/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "15/17[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "1/4[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "44/46[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Boulogne-sur-Mer,Annecy,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "11/7[A]",
+            "aerialDuels": "31/30[A]",
+            "aerialDuelsAttempted": "61/61[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "11/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/3[H]",
+            "fouls": "16/8[H]",
+            "goalKicks": "5/3[H]",
+            "saves": "1/0[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/6[H]",
+            "throwIns": "18/17[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Boulogne-sur-Mer,Reims,Home",
+            "tackles": "13/15[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "11/9[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "18/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/10[A]",
+            "fouls": "19/11[A]",
+            "goalKicks": "6/3[A]",
+            "saves": "4/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "20/25[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Boulogne-sur-Mer,Le Mans,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "16/11[A]",
+            "aerialDuels": "12/19[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "17/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "1/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "15/23[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Boulogne-sur-Mer,Guingamp,Home",
+            "tackles": "19/16[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "12/7[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "5/12[H]",
+            "dribblesAttempted": "14/22[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T07:46:35.232Z",
+    "endTime": "2026-01-03T07:46:55.754Z",
+    "totalTimeSeconds": 20.52,
+    "combinedMatchStatistics": {
+        "corners": "7/4[H]+8/3[A]+6/6[H]+7/3[A]+1/6[A]+1/3[H]+3/10[A]+2/2[H]",
+        "fouls": "14/17[H]+12/10[A]+13/14[H]+23/15[A]+15/17[A]+16/8[H]+19/11[A]+14/12[H]",
+        "goalKicks": "9/11[H]+7/5[A]+7/7[H]+8/5[A]+6/5[A]+5/3[H]+6/3[A]+6/5[H]",
+        "saves": "0/2[H]+1/4[A]+4/5[H]+3/2[A]+1/4[A]+1/0[H]+4/1[A]+1/1[H]",
+        "offsides": "3/7[H]+4/0[A]+2/3[H]+4/2[A]+5/2[A]+1/3[H]+2/4[A]+0/0[H]",
+        "shotsOnTarget": "2/2[H]+5/2[A]+8/7[H]+3/4[A]+5/2[A]+2/7[H]+1/6[A]+3/3[H]",
+        "yellowCards": "1/4[H]+1/2[A]+4/3[H]+1/5[A]+3/2[A]+2/1[H]+2/2[A]+4/1[H]",
+        "goals": "1/2[H]+1/1[A]+3/1[H]+1/1[A]+1/1[A]+2/6[H]+0/1[A]+2/2[H]",
+        "throwIns": "17/25[H]+16/17[A]+21/31[H]+17/13[A]+44/46[A]+18/17[H]+20/25[A]+15/23[H]",
+        "averageBallPossession": "39/61[H]+35/65[A]+51/49[H]+35/65[A]+54/46[A]+42/58[H]+33/67[A]+43/57[H]",
+        "teams": "Boulogne-sur-Mer,Troyes,Home+Boulogne-sur-Mer,Clermont,Away+Boulogne-sur-Mer,Grenoble,Home+Boulogne-sur-Mer,Dunkerque,Away+Boulogne-sur-Mer,Annecy,Away+Boulogne-sur-Mer,Reims,Home+Boulogne-sur-Mer,Le Mans,Away+Boulogne-sur-Mer,Guingamp,Home",
+        "tackles": "27/14[H]+15/17[A]+18/9[H]+9/7[A]+15/16[A]+13/15[H]+15/16[A]+19/16[H]",
+        "interceptions": "5/11[H]+16/13[A]+11/10[H]+6/5[A]+11/7[A]+9/9[H]+16/11[A]+5/7[H]",
+        "aerialDuels": "25/22[H]+12/15[A]+14/21[H]+16/15[A]+31/30[A]+11/9[H]+12/19[A]+12/7[H]",
+        "aerialDuelsAttempted": "47/47[H]+27/27[A]+35/35[H]+31/31[A]+61/61[A]+20/20[H]+31/31[A]+19/19[H]",
+        "dribbles": "4/6[H]+5/13[A]+9/8[H]+4/4[A]+2/7[A]+5/7[H]+6/5[A]+5/12[H]",
+        "dribblesAttempted": "11/20[H]+18/24[A]+13/12[H]+7/10[A]+11/17[A]+18/13[H]+17/17[A]+14/22[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "35/37",
+        "cornersTotalsHome": "16/15",
+        "cornersTotalsAway": "19/22",
+        "cornersAverage": "4.38/4.63",
+        "cornersAverageHome": "4.00/3.75",
+        "cornersAverageAway": "4.75/5.50",
+        "foulsTotals": "126/104",
+        "foulsTotalsHome": "57/51",
+        "foulsTotalsAway": "69/53",
+        "foulsAverage": "15.75/13.00",
+        "foulsAverageHome": "14.25/12.75",
+        "foulsAverageAway": "17.25/13.25",
+        "goalKicksTotals": "54/44",
+        "goalKicksTotalsHome": "27/26",
+        "goalKicksTotalsAway": "27/18",
+        "goalKicksAverage": "6.75/5.50",
+        "goalKicksAverageHome": "6.75/6.50",
+        "goalKicksAverageAway": "6.75/4.50",
+        "savesTotals": "15/19",
+        "savesTotalsHome": "6/8",
+        "savesTotalsAway": "9/11",
+        "savesAverage": "1.88/2.38",
+        "savesAverageHome": "1.50/2.00",
+        "savesAverageAway": "2.25/2.75",
+        "offsidesTotals": "21/21",
+        "offsidesTotalsHome": "6/13",
+        "offsidesTotalsAway": "15/8",
+        "offsidesAverage": "2.63/2.63",
+        "offsidesAverageHome": "1.50/3.25",
+        "offsidesAverageAway": "3.75/2.00",
+        "shotsOnTargetTotals": "29/33",
+        "shotsOnTargetTotalsHome": "15/19",
+        "shotsOnTargetTotalsAway": "14/14",
+        "shotsOnTargetAverage": "3.63/4.13",
+        "shotsOnTargetAverageHome": "3.75/4.75",
+        "shotsOnTargetAverageAway": "3.50/3.50",
+        "yellowCardsTotals": "18/20",
+        "yellowCardsTotalsHome": "11/9",
+        "yellowCardsTotalsAway": "7/11",
+        "yellowCardsAverage": "2.25/2.50",
+        "yellowCardsAverageHome": "2.75/2.25",
+        "yellowCardsAverageAway": "1.75/2.75",
+        "goalsTotals": "11/15",
+        "goalsTotalsHome": "8/11",
+        "goalsTotalsAway": "3/4",
+        "goalsAverage": "1.38/1.88",
+        "goalsAverageHome": "2.00/2.75",
+        "goalsAverageAway": "0.75/1.00",
+        "throwInsTotals": "168/197",
+        "throwInsTotalsHome": "71/96",
+        "throwInsTotalsAway": "97/101",
+        "throwInsAverage": "21.00/24.63",
+        "throwInsAverageHome": "17.75/24.00",
+        "throwInsAverageAway": "24.25/25.25",
+        "averageBallPossessionTotals": "332/468",
+        "averageBallPossessionTotalsHome": "175/225",
+        "averageBallPossessionTotalsAway": "157/243",
+        "averageBallPossessionAverage": "41.50/58.50",
+        "averageBallPossessionAverageHome": "43.75/56.25",
+        "averageBallPossessionAverageAway": "39.25/60.75",
+        "tacklesTotals": "131/110",
+        "tacklesTotalsHome": "77/54",
+        "tacklesTotalsAway": "54/56",
+        "tacklesAverage": "16.38/13.75",
+        "tacklesAverageHome": "19.25/13.50",
+        "tacklesAverageAway": "13.50/14.00",
+        "interceptionsTotals": "79/73",
+        "interceptionsTotalsHome": "30/37",
+        "interceptionsTotalsAway": "49/36",
+        "interceptionsAverage": "9.88/9.13",
+        "interceptionsAverageHome": "7.50/9.25",
+        "interceptionsAverageAway": "12.25/9.00",
+        "aerialDuelsTotals": "133/138",
+        "aerialDuelsTotalsHome": "62/59",
+        "aerialDuelsTotalsAway": "71/79",
+        "aerialDuelsAverage": "16.63/17.25",
+        "aerialDuelsAverageHome": "15.50/14.75",
+        "aerialDuelsAverageAway": "17.75/19.75",
+        "aerialDuelsAttemptedTotals": "271/271",
+        "aerialDuelsAttemptedTotalsHome": "121/121",
+        "aerialDuelsAttemptedTotalsAway": "150/150",
+        "aerialDuelsAttemptedAverage": "33.88/33.88",
+        "aerialDuelsAttemptedAverageHome": "30.25/30.25",
+        "aerialDuelsAttemptedAverageAway": "37.50/37.50",
+        "dribblesTotals": "40/62",
+        "dribblesTotalsHome": "23/33",
+        "dribblesTotalsAway": "17/29",
+        "dribblesAverage": "5.00/7.75",
+        "dribblesAverageHome": "5.75/8.25",
+        "dribblesAverageAway": "4.25/7.25",
+        "dribblesAttemptedTotals": "109/135",
+        "dribblesAttemptedTotalsHome": "56/67",
+        "dribblesAttemptedTotalsAway": "53/68",
+        "dribblesAttemptedAverage": "13.63/16.88",
+        "dribblesAttemptedAverageHome": "14.00/16.75",
+        "dribblesAttemptedAverageAway": "13.25/17.00"
+    }
+}

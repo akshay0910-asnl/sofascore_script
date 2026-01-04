@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.63",
+        "fouls": "14.38",
+        "goalKicks": "6.44",
+        "saves": "1.81",
+        "offsides": "1.06",
+        "shotsOnTarget": "3.88/3.06",
+        "yellowCards": "2.38/1.88",
+        "goals": "1.50/1.19",
+        "throwIns": "16.25",
+        "ballPossession": 40.875,
+        "tackles": "15.63/18.06",
+        "interceptions": "8.50/8.75",
+        "aerialDuels": "16.06",
+        "aerialDuelsAttempted": "30.44",
+        "dribbles": "8.31/6.13",
+        "dribblesAttempted": "17.63/14.50"
+    },
+    "teamSlug": "toulouse",
+    "teamId": "1681",
+    "teamName": "Toulouse",
+    "tournament": "Ligue 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/paris-fc-toulouse/GIsvwc#id:14064443,tab:statistics",
+            "teams": [
+                "Paris",
+                "Toulouse"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "6070",
+                "1681"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-rc-strasbourg/jIsGI#id:14064434,tab:statistics",
+            "teams": [
+                "Toulouse",
+                "Strasbourg"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1681",
+                "1659"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-olympique-de-marseille/QHsGI#id:14064433,tab:statistics",
+            "teams": [
+                "Marseille",
+                "Toulouse"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "1641",
+                "1681"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/angers-toulouse/GIsJI#id:14064409,tab:statistics",
+            "teams": [
+                "Toulouse",
+                "Angers"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "1681",
+                "1684"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-lorient/gIsGI#id:14064423,tab:statistics",
+            "teams": [
+                "Lorient",
+                "Toulouse"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1656",
+                "1681"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-le-havre/mIsGI#id:14167933,tab:statistics",
+            "teams": [
+                "Toulouse",
+                "Le Havre"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "1681",
+                "1662"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-stade-rennais/iIsGI#id:14064520,tab:statistics",
+            "teams": [
+                "Toulouse",
+                "Rennes"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "1681",
+                "1658"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-as-monaco/dIsGI#id:14167915,tab:statistics",
+            "teams": [
+                "AS Monaco",
+                "Toulouse"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1653",
+                "1681"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/7[A]",
+            "fouls": "14/12[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "3/0[A]",
+            "throwIns": "12/13[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Toulouse,Paris,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "2/7[A]",
+            "aerialDuels": "8/18[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "12/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/2[H]",
+            "fouls": "21/13[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/0[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "15/13[H]",
+            "averageBallPossession": "28/72[H]",
+            "teams": "Toulouse,Strasbourg,Home",
+            "tackles": "13/7[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "11/11[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "10/7[A]",
+            "goalKicks": "12/3[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "12/9[A]",
+            "averageBallPossession": "23/77[A]",
+            "teams": "Toulouse,Marseille,Away",
+            "tackles": "19/16[A]",
+            "interceptions": "8/14[A]",
+            "aerialDuels": "15/15[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "6/9[A]",
+            "dribblesAttempted": "15/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/1[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "3/14[H]",
+            "saves": "1/6[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "20/15[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Toulouse,Angers,Home",
+            "tackles": "15/21[H]",
+            "interceptions": "11/15[H]",
+            "aerialDuels": "28/19[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "17/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "18/6[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "1/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/10[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Toulouse,Lorient,Away",
+            "tackles": "21/19[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "17/13[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "6/10[A]",
+            "dribblesAttempted": "15/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/2[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "3/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "22/17[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Toulouse,Le Havre,Home",
+            "tackles": "9/27[H]",
+            "interceptions": "8/14[H]",
+            "aerialDuels": "20/20[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "10/6[H]",
+            "dribblesAttempted": "27/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "3/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "27/16[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Toulouse,Rennes,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "12/17[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "15/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "18/15[A]",
+            "goalKicks": "4/12[A]",
+            "saves": "4/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/19[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Toulouse,AS Monaco,Away",
+            "tackles": "14/23[A]",
+            "interceptions": "9/12[A]",
+            "aerialDuels": "22/21[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "12/5[A]",
+            "dribblesAttempted": "26/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T17:34:59.277Z",
+    "endTime": "2026-01-02T17:35:31.466Z",
+    "totalTimeSeconds": 32.19,
+    "combinedMatchStatistics": {
+        "corners": "4/7[A]+1/2[H]+1/9[A]+11/1[H]+4/6[A]+10/2[H]+5/8[H]+5/2[A]",
+        "fouls": "14/12[A]+21/13[H]+10/7[A]+15/15[H]+18/6[A]+12/14[H]+9/12[H]+18/15[A]",
+        "goalKicks": "4/5[A]+8/5[H]+12/3[A]+3/14[H]+7/4[A]+6/9[H]+4/11[H]+4/12[A]",
+        "saves": "2/1[A]+0/2[H]+2/2[A]+1/6[H]+1/1[A]+3/2[H]+3/2[H]+4/2[A]",
+        "offsides": "2/2[A]+1/3[H]+1/1[A]+1/1[H]+3/1[A]+0/2[H]+0/2[H]+0/0[A]",
+        "shotsOnTarget": "4/2[A]+3/0[H]+4/5[A]+6/2[H]+2/2[A]+2/3[H]+4/5[H]+2/5[A]",
+        "yellowCards": "1/3[A]+3/3[H]+1/2[A]+1/3[H]+4/0[A]+1/2[H]+2/3[H]+4/3[A]",
+        "goals": "3/0[A]+1/0[H]+2/2[A]+0/1[H]+1/1[A]+0/0[H]+2/2[H]+0/1[A]",
+        "throwIns": "12/13[A]+15/13[H]+12/9[A]+20/15[H]+24/10[A]+22/17[H]+27/16[H]+24/19[A]",
+        "averageBallPossession": "35/65[A]+28/72[H]+23/77[A]+54/46[H]+50/50[A]+46/54[H]+55/45[H]+46/54[A]",
+        "teams": "Toulouse,Paris,Away+Toulouse,Strasbourg,Home+Toulouse,Marseille,Away+Toulouse,Angers,Home+Toulouse,Lorient,Away+Toulouse,Le Havre,Home+Toulouse,Rennes,Home+Toulouse,AS Monaco,Away",
+        "tackles": "12/14[A]+13/7[H]+19/16[A]+15/21[H]+21/19[A]+9/27[H]+14/15[H]+14/23[A]",
+        "interceptions": "2/7[A]+8/5[H]+8/14[A]+11/15[H]+12/11[A]+8/14[H]+11/8[H]+9/12[A]",
+        "aerialDuels": "8/18[A]+11/11[H]+15/15[A]+28/19[H]+17/13[A]+20/20[H]+12/17[H]+22/21[A]",
+        "aerialDuelsAttempted": "26/26[A]+22/22[H]+30/30[A]+47/47[H]+30/30[A]+40/40[H]+29/29[H]+43/43[A]",
+        "dribbles": "8/4[A]+4/5[H]+6/9[A]+8/3[H]+6/10[A]+10/6[H]+7/6[H]+12/5[A]",
+        "dribblesAttempted": "12/10[A]+8/11[H]+15/19[A]+17/12[H]+15/20[A]+27/11[H]+15/13[H]+26/11[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "41/37",
+        "cornersTotalsHome": "27/13",
+        "cornersTotalsAway": "14/24",
+        "cornersAverage": "5.13/4.63",
+        "cornersAverageHome": "6.75/3.25",
+        "cornersAverageAway": "3.50/6.00",
+        "foulsTotals": "117/94",
+        "foulsTotalsHome": "57/54",
+        "foulsTotalsAway": "60/40",
+        "foulsAverage": "14.63/11.75",
+        "foulsAverageHome": "14.25/13.50",
+        "foulsAverageAway": "15.00/10.00",
+        "goalKicksTotals": "48/63",
+        "goalKicksTotalsHome": "21/39",
+        "goalKicksTotalsAway": "27/24",
+        "goalKicksAverage": "6.00/7.88",
+        "goalKicksAverageHome": "5.25/9.75",
+        "goalKicksAverageAway": "6.75/6.00",
+        "savesTotals": "16/18",
+        "savesTotalsHome": "7/12",
+        "savesTotalsAway": "9/6",
+        "savesAverage": "2.00/2.25",
+        "savesAverageHome": "1.75/3.00",
+        "savesAverageAway": "2.25/1.50",
+        "offsidesTotals": "8/12",
+        "offsidesTotalsHome": "2/8",
+        "offsidesTotalsAway": "6/4",
+        "offsidesAverage": "1.00/1.50",
+        "offsidesAverageHome": "0.50/2.00",
+        "offsidesAverageAway": "1.50/1.00",
+        "shotsOnTargetTotals": "27/24",
+        "shotsOnTargetTotalsHome": "15/10",
+        "shotsOnTargetTotalsAway": "12/14",
+        "shotsOnTargetAverage": "3.38/3.00",
+        "shotsOnTargetAverageHome": "3.75/2.50",
+        "shotsOnTargetAverageAway": "3.00/3.50",
+        "yellowCardsTotals": "17/19",
+        "yellowCardsTotalsHome": "7/11",
+        "yellowCardsTotalsAway": "10/8",
+        "yellowCardsAverage": "2.13/2.38",
+        "yellowCardsAverageHome": "1.75/2.75",
+        "yellowCardsAverageAway": "2.50/2.00",
+        "goalsTotals": "9/7",
+        "goalsTotalsHome": "3/3",
+        "goalsTotalsAway": "6/4",
+        "goalsAverage": "1.13/0.88",
+        "goalsAverageHome": "0.75/0.75",
+        "goalsAverageAway": "1.50/1.00",
+        "throwInsTotals": "156/112",
+        "throwInsTotalsHome": "84/61",
+        "throwInsTotalsAway": "72/51",
+        "throwInsAverage": "19.50/14.00",
+        "throwInsAverageHome": "21.00/15.25",
+        "throwInsAverageAway": "18.00/12.75",
+        "averageBallPossessionTotals": "337/463",
+        "averageBallPossessionTotalsHome": "183/217",
+        "averageBallPossessionTotalsAway": "154/246",
+        "averageBallPossessionAverage": "42.13/57.88",
+        "averageBallPossessionAverageHome": "45.75/54.25",
+        "averageBallPossessionAverageAway": "38.50/61.50",
+        "tacklesTotals": "117/142",
+        "tacklesTotalsHome": "51/70",
+        "tacklesTotalsAway": "66/72",
+        "tacklesAverage": "14.63/17.75",
+        "tacklesAverageHome": "12.75/17.50",
+        "tacklesAverageAway": "16.50/18.00",
+        "interceptionsTotals": "69/86",
+        "interceptionsTotalsHome": "38/42",
+        "interceptionsTotalsAway": "31/44",
+        "interceptionsAverage": "8.63/10.75",
+        "interceptionsAverageHome": "9.50/10.50",
+        "interceptionsAverageAway": "7.75/11.00",
+        "aerialDuelsTotals": "133/134",
+        "aerialDuelsTotalsHome": "71/67",
+        "aerialDuelsTotalsAway": "62/67",
+        "aerialDuelsAverage": "16.63/16.75",
+        "aerialDuelsAverageHome": "17.75/16.75",
+        "aerialDuelsAverageAway": "15.50/16.75",
+        "aerialDuelsAttemptedTotals": "267/267",
+        "aerialDuelsAttemptedTotalsHome": "138/138",
+        "aerialDuelsAttemptedTotalsAway": "129/129",
+        "aerialDuelsAttemptedAverage": "33.38/33.38",
+        "aerialDuelsAttemptedAverageHome": "34.50/34.50",
+        "aerialDuelsAttemptedAverageAway": "32.25/32.25",
+        "dribblesTotals": "61/48",
+        "dribblesTotalsHome": "29/20",
+        "dribblesTotalsAway": "32/28",
+        "dribblesAverage": "7.63/6.00",
+        "dribblesAverageHome": "7.25/5.00",
+        "dribblesAverageAway": "8.00/7.00",
+        "dribblesAttemptedTotals": "135/107",
+        "dribblesAttemptedTotalsHome": "67/47",
+        "dribblesAttemptedTotalsAway": "68/60",
+        "dribblesAttemptedAverage": "16.88/13.38",
+        "dribblesAttemptedAverageHome": "16.75/11.75",
+        "dribblesAttemptedAverageAway": "17.00/15.00"
+    }
+}

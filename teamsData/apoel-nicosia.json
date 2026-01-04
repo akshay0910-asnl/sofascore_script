@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.64",
+        "fouls": "14.64",
+        "goalKicks": "4.71",
+        "saves": "2.14",
+        "offsides": "0.86",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "2.07/NaN",
+        "goals": "1.93/0.79",
+        "throwIns": "NaN",
+        "ballPossession": 56,
+        "tackles": "NaN/NaN",
+        "interceptions": "38.50/NaN",
+        "aerialDuels": "14.50",
+        "aerialDuelsAttempted": "31.43",
+        "dribbles": "14.64/NaN",
+        "dribblesAttempted": "20.14/NaN"
+    },
+    "teamSlug": "apoel-nicosia",
+    "teamId": "3398",
+    "teamName": "APOEL Nicosia",
+    "tournament": "Cyprus League by Stoiximan",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/krasava-ypsona-fc-apoel-nicosia/YrbsjNGc#id:14222797,tab:statistics",
+            "teams": [
+                "APOEL",
+                "Krasava ENY"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "3398",
+                "329409"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/apoel-nicosia-aris-limassol/XrbsYrb#id:14222786,tab:statistics",
+            "teams": [
+                "APOEL",
+                "Aris"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3398",
+                "3397"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/anorthosis-famagusta-apoel-nicosia/Yrbsdtb#id:14222783,tab:statistics",
+            "teams": [
+                "Anorthosis",
+                "APOEL"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "3403",
+                "3398"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ael-limassol-apoel-nicosia/Yrbshtb#id:14222773,tab:statistics",
+            "teams": [
+                "APOEL",
+                "AEL"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "3398",
+                "3407"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/apoel-nicosia-omonia-nicosia/VrbsYrb#id:14222765,tab:statistics",
+            "teams": [
+                "Omonia",
+                "APOEL"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "3395",
+                "3398"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/apoel-nicosia-ethnikos-achnas/WrbsYrb#id:14222760,tab:statistics",
+            "teams": [
+                "APOEL",
+                "Ethnikos"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "3398",
+                "3396"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aek-larnaca-apoel-nicosia/Yrbsetb#id:14222757,tab:statistics",
+            "teams": [
+                "AEK Larnaca",
+                "APOEL"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "3404",
+                "3398"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/omonia-aradippou-apoel-nicosia/YrbsRkk#id:14222744,tab:statistics",
+            "teams": [
+                "Om. Aradippou",
+                "APOEL"
+            ],
+            "goals": [
+                "0",
+                "4"
+            ],
+            "teamIds": [
+                "25542",
+                "3398"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/5[H]",
+            "fouls": "9/15[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "3/6[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "23/13[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "APOEL,Krasava ENY,Home",
+            "tackles": "2/7[H]",
+            "interceptions": "16/19[H]",
+            "aerialDuels": "16/16[H]",
+            "aerialDuelsAttempted": "34/36[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "26/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/10[H]",
+            "fouls": "12/17[H]",
+            "goalKicks": "10/3[H]",
+            "saves": "11/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/9[H]",
+            "yellowCards": "3/5[H]",
+            "goals": "2/0[H]",
+            "throwIns": "18/16[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "APOEL,Aris,Home",
+            "tackles": "5/1[H]",
+            "interceptions": "22/7[H]",
+            "aerialDuels": "11/18[H]",
+            "aerialDuelsAttempted": "43/36[H]",
+            "dribbles": "2/25[H]",
+            "dribblesAttempted": "6/31[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "22/11[A]",
+            "goalKicks": "4/14[A]",
+            "saves": "0/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "APOEL,Anorthosis,Away",
+            "tackles": "0/2[A]",
+            "interceptions": "10/15[A]",
+            "aerialDuels": "18/12[A]",
+            "aerialDuelsAttempted": "36/35[A]",
+            "dribbles": "12/8[A]",
+            "dribblesAttempted": "19/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "17/16[H]",
+            "goalKicks": "2/8[H]",
+            "saves": "1/4[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "26/24[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "APOEL,AEL,Home",
+            "tackles": "1/4[H]",
+            "interceptions": "11/11[H]",
+            "aerialDuels": "15/9[H]",
+            "aerialDuelsAttempted": "25/24[H]",
+            "dribbles": "18/6[H]",
+            "dribblesAttempted": "26/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "19/19[A]",
+            "goalKicks": "4/11[A]",
+            "saves": "5/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "15/25[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "APOEL,Omonia,Away",
+            "tackles": "1/4[A]",
+            "interceptions": "17/8[A]",
+            "aerialDuels": "14/18[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "16/9[A]",
+            "dribblesAttempted": "21/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/0[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "5/21[H]",
+            "saves": "0/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "4/1[H]",
+            "throwIns": "15/15[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "APOEL,Ethnikos,Home",
+            "tackles": "1/3[H]",
+            "interceptions": "20/14[H]",
+            "aerialDuels": "12/9[H]",
+            "aerialDuelsAttempted": "22/27[H]",
+            "dribbles": "22/7[H]",
+            "dribblesAttempted": "24/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/25[A]",
+            "averageBallPossession": "28/72[A]",
+            "teams": "APOEL,AEK Larnaca,Away",
+            "tackles": "4/3[A]",
+            "interceptions": "21/12[A]",
+            "aerialDuels": "18/9[A]",
+            "aerialDuelsAttempted": "33/27[A]",
+            "dribbles": "12/15[A]",
+            "dribblesAttempted": "13/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "22/16[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "2/5[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "8/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "4/0[A]",
+            "throwIns": "10/16[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "APOEL,Om. Aradippou,Away",
+            "tackles": "1/3[A]",
+            "interceptions": "16/21[A]",
+            "aerialDuels": "10/9[A]",
+            "aerialDuelsAttempted": "18/20[A]",
+            "dribbles": "20/9[A]",
+            "dribblesAttempted": "24/16[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T18:56:45.937Z",
+    "endTime": "2026-01-02T18:57:19.607Z",
+    "totalTimeSeconds": 33.67,
+    "combinedMatchStatistics": {
+        "corners": "5/5[H]+2/10[H]+4/2[A]+8/3[H]+3/4[A]+4/0[H]+6/5[A]+2/3[A]",
+        "fouls": "9/15[H]+12/17[H]+22/11[A]+17/16[H]+19/19[A]+9/14[H]+15/13[A]+22/16[A]",
+        "goalKicks": "7/11[H]+10/3[H]+4/14[A]+2/8[H]+4/11[A]+5/21[H]+7/4[A]+6/6[A]",
+        "saves": "3/6[H]+11/2[H]+0/2[A]+1/4[H]+5/0[A]+0/3[H]+3/4[A]+2/5[A]",
+        "offsides": "0/0[H]+0/1[H]+0/1[A]+0/2[H]+0/1[A]+1/0[H]+1/2[A]+1/2[A]",
+        "shotsOnTarget": "6/3[H]+4/9[H]+3/1[A]+5/3[H]+2/7[A]+6/1[H]+5/3[A]+8/2[A]",
+        "yellowCards": "2/3[H]+3/5[H]+2/1[A]+3/4[H]+2/3[A]+2/2[H]+1/4[A]+1/2[A]",
+        "goals": "0/0[H]+2/0[H]+1/1[A]+1/2[H]+2/2[A]+4/1[H]+1/1[A]+4/0[A]",
+        "throwIns": "23/13[H]+18/16[H]+17/15[A]+26/24[H]+15/25[A]+15/15[H]+14/25[A]+10/16[A]",
+        "averageBallPossession": "61/39[H]+36/64[H]+64/36[A]+69/31[H]+45/55[A]+66/34[H]+28/72[A]+51/49[A]",
+        "teams": "APOEL,Krasava ENY,Home+APOEL,Aris,Home+APOEL,Anorthosis,Away+APOEL,AEL,Home+APOEL,Omonia,Away+APOEL,Ethnikos,Home+APOEL,AEK Larnaca,Away+APOEL,Om. Aradippou,Away",
+        "tackles": "2/7[H]+5/1[H]+0/2[A]+1/4[H]+1/4[A]+1/3[H]+4/3[A]+1/3[A]",
+        "interceptions": "16/19[H]+22/7[H]+10/15[A]+11/11[H]+17/8[A]+20/14[H]+21/12[A]+16/21[A]",
+        "aerialDuels": "16/16[H]+11/18[H]+18/12[A]+15/9[H]+14/18[A]+12/9[H]+18/9[A]+10/9[A]",
+        "aerialDuelsAttempted": "34/36[H]+43/36[H]+36/35[A]+25/24[H]+32/32[A]+22/27[H]+33/27[A]+18/20[A]",
+        "dribbles": "11/10[H]+2/25[H]+12/8[A]+18/6[H]+16/9[A]+22/7[H]+12/15[A]+20/9[A]",
+        "dribblesAttempted": "26/15[H]+6/31[H]+19/14[A]+26/9[H]+21/15[A]+24/12[H]+13/16[A]+24/16[A]",
+        "isHome": "true+true+false+true+false+true+false+false",
+        "cornersTotals": "34/32",
+        "cornersTotalsHome": "19/18",
+        "cornersTotalsAway": "15/14",
+        "cornersAverage": "4.25/4.00",
+        "cornersAverageHome": "4.75/4.50",
+        "cornersAverageAway": "3.75/3.50",
+        "foulsTotals": "125/121",
+        "foulsTotalsHome": "47/62",
+        "foulsTotalsAway": "78/59",
+        "foulsAverage": "15.63/15.13",
+        "foulsAverageHome": "11.75/15.50",
+        "foulsAverageAway": "19.50/14.75",
+        "goalKicksTotals": "45/78",
+        "goalKicksTotalsHome": "24/43",
+        "goalKicksTotalsAway": "21/35",
+        "goalKicksAverage": "5.63/9.75",
+        "goalKicksAverageHome": "6.00/10.75",
+        "goalKicksAverageAway": "5.25/8.75",
+        "savesTotals": "25/26",
+        "savesTotalsHome": "15/15",
+        "savesTotalsAway": "10/11",
+        "savesAverage": "3.13/3.25",
+        "savesAverageHome": "3.75/3.75",
+        "savesAverageAway": "2.50/2.75",
+        "offsidesTotals": "3/9",
+        "offsidesTotalsHome": "1/3",
+        "offsidesTotalsAway": "2/6",
+        "offsidesAverage": "0.38/1.13",
+        "offsidesAverageHome": "0.25/0.75",
+        "offsidesAverageAway": "0.50/1.50",
+        "shotsOnTargetTotals": "39/29",
+        "shotsOnTargetTotalsHome": "21/16",
+        "shotsOnTargetTotalsAway": "18/13",
+        "shotsOnTargetAverage": "4.88/3.63",
+        "shotsOnTargetAverageHome": "5.25/4.00",
+        "shotsOnTargetAverageAway": "4.50/3.25",
+        "yellowCardsTotals": "16/24",
+        "yellowCardsTotalsHome": "10/14",
+        "yellowCardsTotalsAway": "6/10",
+        "yellowCardsAverage": "2.00/3.00",
+        "yellowCardsAverageHome": "2.50/3.50",
+        "yellowCardsAverageAway": "1.50/2.50",
+        "goalsTotals": "15/7",
+        "goalsTotalsHome": "7/3",
+        "goalsTotalsAway": "8/4",
+        "goalsAverage": "1.88/0.88",
+        "goalsAverageHome": "1.75/0.75",
+        "goalsAverageAway": "2.00/1.00",
+        "throwInsTotals": "138/149",
+        "throwInsTotalsHome": "82/68",
+        "throwInsTotalsAway": "56/81",
+        "throwInsAverage": "17.25/18.63",
+        "throwInsAverageHome": "20.50/17.00",
+        "throwInsAverageAway": "14.00/20.25",
+        "averageBallPossessionTotals": "420/380",
+        "averageBallPossessionTotalsHome": "232/168",
+        "averageBallPossessionTotalsAway": "188/212",
+        "averageBallPossessionAverage": "52.50/47.50",
+        "averageBallPossessionAverageHome": "58.00/42.00",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "15/27",
+        "tacklesTotalsHome": "9/15",
+        "tacklesTotalsAway": "6/12",
+        "tacklesAverage": "1.88/3.38",
+        "tacklesAverageHome": "2.25/3.75",
+        "tacklesAverageAway": "1.50/3.00",
+        "interceptionsTotals": "133/107",
+        "interceptionsTotalsHome": "69/51",
+        "interceptionsTotalsAway": "64/56",
+        "interceptionsAverage": "16.63/13.38",
+        "interceptionsAverageHome": "17.25/12.75",
+        "interceptionsAverageAway": "16.00/14.00",
+        "aerialDuelsTotals": "114/100",
+        "aerialDuelsTotalsHome": "54/52",
+        "aerialDuelsTotalsAway": "60/48",
+        "aerialDuelsAverage": "14.25/12.50",
+        "aerialDuelsAverageHome": "13.50/13.00",
+        "aerialDuelsAverageAway": "15.00/12.00",
+        "aerialDuelsAttemptedTotals": "243/237",
+        "aerialDuelsAttemptedTotalsHome": "124/123",
+        "aerialDuelsAttemptedTotalsAway": "119/114",
+        "aerialDuelsAttemptedAverage": "30.38/29.63",
+        "aerialDuelsAttemptedAverageHome": "31.00/30.75",
+        "aerialDuelsAttemptedAverageAway": "29.75/28.50",
+        "dribblesTotals": "113/89",
+        "dribblesTotalsHome": "53/48",
+        "dribblesTotalsAway": "60/41",
+        "dribblesAverage": "14.13/11.13",
+        "dribblesAverageHome": "13.25/12.00",
+        "dribblesAverageAway": "15.00/10.25",
+        "dribblesAttemptedTotals": "159/128",
+        "dribblesAttemptedTotalsHome": "82/67",
+        "dribblesAttemptedTotalsAway": "77/61",
+        "dribblesAttemptedAverage": "19.88/16.00",
+        "dribblesAttemptedAverageHome": "20.50/16.75",
+        "dribblesAttemptedAverageAway": "19.25/15.25"
+    }
+}

@@ -11,15 +11,38 @@ async function processBatches(teamIds) {
     }
 }
 
-processBatches(['41']);
+processBatches(['168086', '530631', '56027', '168088', '204126', '21895', '174076', '488881', '207680', '174106', '252115', '34218', '3401', '3397', '3404', '3403', '3402', '171626']);
+///['168086', '530631', '56027', '168088', '204126', '21895', '174076', '488881', '207680', '174106', '252115', '34218', '3401', '3397', '3404', '3403', '3402', '171626']
 
-//---- Saturday Leagues to process ----
-// ['6', '39', '38', '60', '14', '48', '37', '30', '42', '40', '35', '3']
-// ['2357', '2347', '2354', '2355', '2356', '2349', '2351', '2359', '2346', '2352']
-// ['5395', '5199', '5391', '5197', '5202', '86406']
-// ['530631', '34315', '269199', '21895', '34313', '56027']
-//A-League Men, England National League,Northern Ireland Premiership,Wales preier,Bahrain Second Division
+//['174108', '174098', '174078', '394912', '174104', '174102', '56023', '34313', '168094', '269199', '34315', '56021', '86406', '5198', '5392', '5202', '5199', '274894', '61702', '5395', '5197', '5201']
+// ['58687', '55705', '331952', '81309', '8090', '264111', '133444', '42207', '45475', '60428', '40659', '45477', '3396', '3407', '3398', '3405', '36398', '3395']
 
+//Saturday
+
+// Easy Leagues & times
+// Scotland - Championship,League One,League Two - 8.30pm
+// Brazil - Copinha- Goias U20 - 11.45pm, Corinthians U20 - 11.15pm, Votupora U20 - 12.15am, Gremio U20 - 2.30am, Mirassol U20 - 12.45am,Bahia U20 - 7.30pm
+// Wales Cymru Premier - 8pm
+// Rwanda Premier League - 6.30pm, 10pm
+// England National League- 8.30pm
+// Northern Ireland Premiership - 8.30pm
+// Malysia Super League - 5.45pm,6.30pm
+// Indonesia Liga 1 - 2.00pm
+// Cyprus First Division - 8.30pm,10.30pm
+// Bahrain Premier League - 6.55pm,9.30pm
+// Saudi Pro League - 6.40pm,8.25pm, 11pm
+// Israel Premier League - 6.30pm,9.00pm, 10pm
+// Liga 2 - 1pm
+
+
+//Sunday
+//Trindiad & Tobago Pro League - 2.30am,4.30am,5.30am
+//Israel Premier League - 11.45pm
+//Saudi Pro League - 11pm
+//Cyprus First Division - 8.30pm,7.30pm
+// Australia A-League - 11.30 am
+//Indonesia Liga 1 - 12.00pm, 2pm
+// Malaysia Super League - 2.45pm
 
 
 

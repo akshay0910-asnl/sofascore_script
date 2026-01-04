@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.75",
+        "fouls": "11.63",
+        "goalKicks": "7.13",
+        "saves": "2.56",
+        "offsides": "1.63",
+        "shotsOnTarget": "4.19/3.75",
+        "yellowCards": "2.06/1.88",
+        "goals": "1.56/1.25",
+        "throwIns": "15.75",
+        "ballPossession": 52.8125,
+        "tackles": "16.31/18.50",
+        "interceptions": "7.25/8.31",
+        "aerialDuels": "10.50",
+        "aerialDuelsAttempted": "20.06",
+        "dribbles": "8.25/7.19",
+        "dribblesAttempted": "18.25/15.69"
+    },
+    "teamSlug": "rc-strasbourg",
+    "teamId": "1659",
+    "teamName": "RC Strasbourg",
+    "tournament": "Ligue 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-lorient/gIsjI#id:14064444,tab:statistics",
+            "teams": [
+                "Strasbourg",
+                "Lorient"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "1659",
+                "1656"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/toulouse-rc-strasbourg/jIsGI#id:14064434,tab:statistics",
+            "teams": [
+                "Toulouse",
+                "Strasbourg"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1681",
+                "1659"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stade-brestois-rc-strasbourg/jIspJ#id:14064420,tab:statistics",
+            "teams": [
+                "Strasbourg",
+                "Brest"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "1659",
+                "1715"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-rc-lens/YHsjI#id:14064414,tab:statistics",
+            "teams": [
+                "Lens",
+                "Strasbourg"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "1648",
+                "1659"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-lille/THsjI#id:14064410,tab:statistics",
+            "teams": [
+                "Strasbourg",
+                "Lille"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "1659",
+                "1643"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-stade-rennais/iIsjI#id:14167937,tab:statistics",
+            "teams": [
+                "Rennes",
+                "Strasbourg"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "1658",
+                "1659"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-auxerre/WHsjI#id:14064506,tab:statistics",
+            "teams": [
+                "Strasbourg",
+                "Auxerre"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "1659",
+                "1646"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-strasbourg-olympique-lyonnais/ZHsjI#id:14167911,tab:statistics",
+            "teams": [
+                "Lyon",
+                "Strasbourg"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1649",
+                "1659"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "11/3[H]",
+            "fouls": "6/3[H]",
+            "goalKicks": "9/16[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "15/8[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Strasbourg,Lorient,Home",
+            "tackles": "13/19[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "14/17[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/1[A]",
+            "fouls": "13/21[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "2/0[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "0/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "13/15[A]",
+            "averageBallPossession": "72/28[A]",
+            "teams": "Strasbourg,Toulouse,Away",
+            "tackles": "7/13[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/0[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "2/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "21/20[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Strasbourg,Brest,Home",
+            "tackles": "10/13[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "13/10[H]",
+            "dribblesAttempted": "19/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/3[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "4/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "22/21[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Strasbourg,Lens,Away",
+            "tackles": "18/20[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "10/6[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "15/6[A]",
+            "dribblesAttempted": "24/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/4[H]",
+            "fouls": "9/20[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/22[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Strasbourg,Lille,Home",
+            "tackles": "18/11[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "16/10[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "13/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "9/15[A]",
+            "goalKicks": "7/15[A]",
+            "saves": "2/1[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "15/20[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Strasbourg,Rennes,Away",
+            "tackles": "21/22[A]",
+            "interceptions": "5/6[A]",
+            "aerialDuels": "7/10[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "25/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "1/6[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "19/15[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Strasbourg,Auxerre,Home",
+            "tackles": "19/15[H]",
+            "interceptions": "7/15[H]",
+            "aerialDuels": "12/6[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "11/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "19/15[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/19[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Strasbourg,Lyon,Away",
+            "tackles": "8/15[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "9/4[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "12/10[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T17:38:03.682Z",
+    "endTime": "2026-01-02T17:38:36.062Z",
+    "totalTimeSeconds": 32.38,
+    "combinedMatchStatistics": {
+        "corners": "11/3[H]+2/1[A]+5/0[H]+1/3[A]+1/4[H]+5/6[A]+4/3[H]+2/4[A]",
+        "fouls": "6/3[H]+13/21[A]+12/14[H]+13/13[A]+9/20[H]+9/15[A]+11/16[H]+19/15[A]",
+        "goalKicks": "9/16[H]+5/8[A]+7/5[H]+9/5[A]+11/7[H]+7/15[A]+6/8[H]+7/6[A]",
+        "saves": "2/1[H]+2/0[A]+2/5[H]+4/1[A]+4/0[H]+2/1[A]+1/6[H]+2/1[A]",
+        "offsides": "1/2[H]+3/1[A]+1/1[H]+2/3[A]+1/1[H]+3/2[A]+1/1[H]+1/2[A]",
+        "shotsOnTarget": "2/2[H]+0/3[A]+6/4[H]+1/5[A]+2/4[H]+2/6[A]+9/1[H]+2/3[A]",
+        "yellowCards": "1/0[H]+3/3[A]+0/3[H]+3/2[A]+4/3[H]+1/1[A]+1/1[H]+4/0[A]",
+        "goals": "0/0[H]+0/1[A]+1/2[H]+0/1[A]+2/0[H]+1/4[A]+3/0[H]+1/2[A]",
+        "throwIns": "15/8[H]+13/15[A]+21/20[H]+22/21[A]+12/22[H]+15/20[A]+19/15[H]+18/19[A]",
+        "averageBallPossession": "63/37[H]+72/28[A]+57/43[H]+45/55[A]+42/58[H]+59/41[A]+64/36[H]+52/48[A]",
+        "teams": "Strasbourg,Lorient,Home+Strasbourg,Toulouse,Away+Strasbourg,Brest,Home+Strasbourg,Lens,Away+Strasbourg,Lille,Home+Strasbourg,Rennes,Away+Strasbourg,Auxerre,Home+Strasbourg,Lyon,Away",
+        "tackles": "13/19[H]+7/13[A]+10/13[H]+18/20[A]+18/11[H]+21/22[A]+19/15[H]+8/15[A]",
+        "interceptions": "11/8[H]+5/8[A]+9/12[H]+7/10[A]+11/6[H]+5/6[A]+7/15[H]+10/7[A]",
+        "aerialDuels": "14/17[H]+11/11[A]+15/12[H]+10/6[A]+16/10[H]+7/10[A]+12/6[H]+9/4[A]",
+        "aerialDuelsAttempted": "31/31[H]+22/22[A]+27/27[H]+16/16[A]+26/26[H]+17/17[A]+18/18[H]+13/13[A]",
+        "dribbles": "7/7[H]+5/4[A]+13/10[H]+15/6[A]+6/6[H]+9/7[A]+3/4[H]+6/4[A]",
+        "dribblesAttempted": "17/13[H]+11/8[A]+19/17[H]+24/16[A]+13/16[H]+25/20[A]+11/9[H]+12/10[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "31/24",
+        "cornersTotalsHome": "21/10",
+        "cornersTotalsAway": "10/14",
+        "cornersAverage": "3.88/3.00",
+        "cornersAverageHome": "5.25/2.50",
+        "cornersAverageAway": "2.50/3.50",
+        "foulsTotals": "92/117",
+        "foulsTotalsHome": "38/53",
+        "foulsTotalsAway": "54/64",
+        "foulsAverage": "11.50/14.63",
+        "foulsAverageHome": "9.50/13.25",
+        "foulsAverageAway": "13.50/16.00",
+        "goalKicksTotals": "61/70",
+        "goalKicksTotalsHome": "33/36",
+        "goalKicksTotalsAway": "28/34",
+        "goalKicksAverage": "7.63/8.75",
+        "goalKicksAverageHome": "8.25/9.00",
+        "goalKicksAverageAway": "7.00/8.50",
+        "savesTotals": "19/15",
+        "savesTotalsHome": "9/12",
+        "savesTotalsAway": "10/3",
+        "savesAverage": "2.38/1.88",
+        "savesAverageHome": "2.25/3.00",
+        "savesAverageAway": "2.50/0.75",
+        "offsidesTotals": "13/13",
+        "offsidesTotalsHome": "4/5",
+        "offsidesTotalsAway": "9/8",
+        "offsidesAverage": "1.63/1.63",
+        "offsidesAverageHome": "1.00/1.25",
+        "offsidesAverageAway": "2.25/2.00",
+        "shotsOnTargetTotals": "24/28",
+        "shotsOnTargetTotalsHome": "19/11",
+        "shotsOnTargetTotalsAway": "5/17",
+        "shotsOnTargetAverage": "3.00/3.50",
+        "shotsOnTargetAverageHome": "4.75/2.75",
+        "shotsOnTargetAverageAway": "1.25/4.25",
+        "yellowCardsTotals": "17/13",
+        "yellowCardsTotalsHome": "6/7",
+        "yellowCardsTotalsAway": "11/6",
+        "yellowCardsAverage": "2.13/1.63",
+        "yellowCardsAverageHome": "1.50/1.75",
+        "yellowCardsAverageAway": "2.75/1.50",
+        "goalsTotals": "8/10",
+        "goalsTotalsHome": "6/2",
+        "goalsTotalsAway": "2/8",
+        "goalsAverage": "1.00/1.25",
+        "goalsAverageHome": "1.50/0.50",
+        "goalsAverageAway": "0.50/2.00",
+        "throwInsTotals": "135/140",
+        "throwInsTotalsHome": "67/65",
+        "throwInsTotalsAway": "68/75",
+        "throwInsAverage": "16.88/17.50",
+        "throwInsAverageHome": "16.75/16.25",
+        "throwInsAverageAway": "17.00/18.75",
+        "averageBallPossessionTotals": "454/346",
+        "averageBallPossessionTotalsHome": "226/174",
+        "averageBallPossessionTotalsAway": "228/172",
+        "averageBallPossessionAverage": "56.75/43.25",
+        "averageBallPossessionAverageHome": "56.50/43.50",
+        "averageBallPossessionAverageAway": "57.00/43.00",
+        "tacklesTotals": "114/128",
+        "tacklesTotalsHome": "60/58",
+        "tacklesTotalsAway": "54/70",
+        "tacklesAverage": "14.25/16.00",
+        "tacklesAverageHome": "15.00/14.50",
+        "tacklesAverageAway": "13.50/17.50",
+        "interceptionsTotals": "65/72",
+        "interceptionsTotalsHome": "38/41",
+        "interceptionsTotalsAway": "27/31",
+        "interceptionsAverage": "8.13/9.00",
+        "interceptionsAverageHome": "9.50/10.25",
+        "interceptionsAverageAway": "6.75/7.75",
+        "aerialDuelsTotals": "94/76",
+        "aerialDuelsTotalsHome": "57/45",
+        "aerialDuelsTotalsAway": "37/31",
+        "aerialDuelsAverage": "11.75/9.50",
+        "aerialDuelsAverageHome": "14.25/11.25",
+        "aerialDuelsAverageAway": "9.25/7.75",
+        "aerialDuelsAttemptedTotals": "170/170",
+        "aerialDuelsAttemptedTotalsHome": "102/102",
+        "aerialDuelsAttemptedTotalsAway": "68/68",
+        "aerialDuelsAttemptedAverage": "21.25/21.25",
+        "aerialDuelsAttemptedAverageHome": "25.50/25.50",
+        "aerialDuelsAttemptedAverageAway": "17.00/17.00",
+        "dribblesTotals": "64/48",
+        "dribblesTotalsHome": "29/27",
+        "dribblesTotalsAway": "35/21",
+        "dribblesAverage": "8.00/6.00",
+        "dribblesAverageHome": "7.25/6.75",
+        "dribblesAverageAway": "8.75/5.25",
+        "dribblesAttemptedTotals": "132/109",
+        "dribblesAttemptedTotalsHome": "60/55",
+        "dribblesAttemptedTotalsAway": "72/54",
+        "dribblesAttemptedAverage": "16.50/13.63",
+        "dribblesAttemptedAverageHome": "15.00/13.75",
+        "dribblesAttemptedAverageAway": "18.00/13.50"
+    }
+}

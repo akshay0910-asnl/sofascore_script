@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "6.05",
+        "fouls": "13.16",
+        "goalKicks": "7.89",
+        "saves": "2.95",
+        "offsides": "2.00",
+        "shotsOnTarget": "5.74/4.32",
+        "yellowCards": "2.84/2.68",
+        "goals": "2.21/1.42",
+        "throwIns": "17.74",
+        "ballPossession": 53.263157894737,
+        "tackles": "14.68/17.00",
+        "interceptions": "7.32/12.32",
+        "aerialDuels": "13.26",
+        "aerialDuelsAttempted": "24.47",
+        "dribbles": "6.95/7.63",
+        "dribblesAttempted": "14.32/15.79"
+    },
+    "teamSlug": "racing-de-santander",
+    "teamId": "2835",
+    "teamName": "Real Racing Club",
+    "tournament": "LaLiga 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/huesca-racing-de-santander/KgbspKj#id:14083287,tab:statistics",
+            "teams": [
+                "Huesca",
+                "R. Racing Club"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24265",
+                "2835"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leganes-racing-de-santander/KgbsVgb#id:14083508,tab:statistics",
+            "teams": [
+                "R. Racing Club",
+                "Leganés"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2835",
+                "2845"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cadiz-racing-de-santander/KgbsNOb#id:14083450,tab:statistics",
+            "teams": [
+                "Cádiz",
+                "R. Racing Club"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "4488",
+                "2835"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eibar-racing-de-santander/KgbsOgb#id:14083435,tab:statistics",
+            "teams": [
+                "R. Racing Club",
+                "Eibar"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2835",
+                "2839"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/burgos-club-de-futbol-racing-de-santander/Kgbsehb#id:14083382,tab:statistics",
+            "teams": [
+                "Burgos",
+                "R. Racing Club"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2854",
+                "2835"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/granada-racing-de-santander/KgbsEAn#id:14083374,tab:statistics",
+            "teams": [
+                "R. Racing Club",
+                "Granada"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2835",
+                "33779"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/las-palmas-racing-de-santander/KgbsCGc#id:14083332,tab:statistics",
+            "teams": [
+                "Las Palmas",
+                "R. Racing Club"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "6577",
+                "2835"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-sociedad-racing-de-santander/KgbskMj#id:14083312,tab:statistics",
+            "teams": [
+                "R. Racing Club",
+                "Real Sociedad B U21"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2835",
+                "24360"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/8[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "1/1[A]",
+            "throwIns": "13/23[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "R. Racing Club,Huesca,Away",
+            "tackles": "10/10[A]",
+            "interceptions": "10/10[A]",
+            "aerialDuels": "22/14[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "11/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/7[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "3/6[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "7/4[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "10/24[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "R. Racing Club,Leganés,Home",
+            "tackles": "26/18[H]",
+            "interceptions": "6/13[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "6/11[H]",
+            "dribblesAttempted": "11/26[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "12/22[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "3/5[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "4/6[A]",
+            "goals": "3/2[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "R. Racing Club,Cádiz,Away",
+            "tackles": "6/13[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "17/17[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "2/3[A]",
+            "dribblesAttempted": "8/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "13/19[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "6/4[H]",
+            "offsides": "2/5[H]",
+            "shotsOnTarget": "8/6[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "4/0[H]",
+            "throwIns": "23/18[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "R. Racing Club,Eibar,Home",
+            "tackles": "10/15[H]",
+            "interceptions": "11/23[H]",
+            "aerialDuels": "16/9[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "16/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "16/17[A]",
+            "goalKicks": "7/12[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/6[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "5/5[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/27[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "R. Racing Club,Burgos,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "6/16[A]",
+            "aerialDuels": "10/18[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "14/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "9/17[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "3/3[H]",
+            "offsides": "3/5[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "5/5[H]",
+            "goals": "2/2[H]",
+            "throwIns": "18/22[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "R. Racing Club,Granada,Home",
+            "tackles": "18/11[H]",
+            "interceptions": "7/12[H]",
+            "aerialDuels": "14/16[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "1/4[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "14/18[A]",
+            "goalKicks": "11/13[A]",
+            "saves": "4/1[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "1/3[A]",
+            "throwIns": "22/13[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "R. Racing Club,Las Palmas,Away",
+            "tackles": "12/9[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "12/10[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "12/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "14/19[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "13/12[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "R. Racing Club,Real Sociedad B U21,Home",
+            "tackles": "13/19[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "18/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T18:17:59.494Z",
+    "endTime": "2026-01-02T18:18:36.485Z",
+    "totalTimeSeconds": 36.99,
+    "combinedMatchStatistics": {
+        "corners": "3/8[A]+7/7[H]+7/5[A]+3/5[H]+3/6[A]+7/4[H]+5/5[A]+5/8[H]",
+        "fouls": "11/13[A]+14/11[H]+12/22[A]+13/19[H]+16/17[A]+9/17[H]+14/18[A]+14/19[H]",
+        "goalKicks": "10/6[A]+10/7[H]+8/6[A]+7/7[H]+7/12[A]+10/7[H]+11/13[A]+6/8[H]",
+        "saves": "2/2[A]+3/6[H]+3/5[A]+6/4[H]+1/2[A]+3/3[H]+4/1[A]+4/1[H]",
+        "offsides": "1/4[A]+3/2[H]+1/3[A]+2/5[H]+1/6[A]+3/5[H]+3/2[A]+1/4[H]",
+        "shotsOnTarget": "3/3[A]+7/4[H]+8/5[A]+8/6[H]+4/1[A]+5/5[H]+2/7[A]+1/4[H]",
+        "yellowCards": "2/5[A]+4/3[H]+4/6[A]+0/3[H]+5/5[A]+5/5[H]+1/5[A]+5/1[H]",
+        "goals": "1/1[A]+1/1[H]+3/2[A]+4/0[H]+2/0[A]+2/2[H]+1/3[A]+1/0[H]",
+        "throwIns": "13/23[A]+10/24[H]+17/14[A]+23/18[H]+21/27[A]+18/22[H]+22/13[A]+13/12[H]",
+        "averageBallPossession": "51/49[A]+45/55[H]+70/30[A]+53/47[H]+48/52[A]+51/49[H]+50/50[A]+61/39[H]",
+        "teams": "R. Racing Club,Huesca,Away+R. Racing Club,Leganés,Home+R. Racing Club,Cádiz,Away+R. Racing Club,Eibar,Home+R. Racing Club,Burgos,Away+R. Racing Club,Granada,Home+R. Racing Club,Las Palmas,Away+R. Racing Club,Real Sociedad B U21,Home",
+        "tackles": "10/10[A]+26/18[H]+6/13[A]+10/15[H]+13/14[A]+18/11[H]+12/9[A]+13/19[H]",
+        "interceptions": "10/10[A]+6/13[H]+7/10[A]+11/23[H]+6/16[A]+7/12[H]+7/15[A]+5/8[H]",
+        "aerialDuels": "22/14[A]+12/11[H]+17/17[A]+16/9[H]+10/18[A]+14/16[H]+12/10[A]+11/8[H]",
+        "aerialDuelsAttempted": "36/36[A]+23/23[H]+34/34[A]+25/25[H]+28/28[A]+30/30[H]+22/22[A]+19/19[H]",
+        "dribbles": "5/4[A]+6/11[H]+2/3[A]+9/6[H]+7/6[A]+1/4[H]+7/4[A]+11/5[H]",
+        "dribblesAttempted": "11/12[A]+11/26[H]+8/8[A]+16/13[H]+14/16[A]+8/11[H]+12/7[A]+18/14[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "40/48",
+        "cornersTotalsHome": "22/24",
+        "cornersTotalsAway": "18/24",
+        "cornersAverage": "5.00/6.00",
+        "cornersAverageHome": "5.50/6.00",
+        "cornersAverageAway": "4.50/6.00",
+        "foulsTotals": "103/136",
+        "foulsTotalsHome": "50/66",
+        "foulsTotalsAway": "53/70",
+        "foulsAverage": "12.88/17.00",
+        "foulsAverageHome": "12.50/16.50",
+        "foulsAverageAway": "13.25/17.50",
+        "goalKicksTotals": "69/66",
+        "goalKicksTotalsHome": "33/29",
+        "goalKicksTotalsAway": "36/37",
+        "goalKicksAverage": "8.63/8.25",
+        "goalKicksAverageHome": "8.25/7.25",
+        "goalKicksAverageAway": "9.00/9.25",
+        "savesTotals": "26/24",
+        "savesTotalsHome": "16/14",
+        "savesTotalsAway": "10/10",
+        "savesAverage": "3.25/3.00",
+        "savesAverageHome": "4.00/3.50",
+        "savesAverageAway": "2.50/2.50",
+        "offsidesTotals": "15/31",
+        "offsidesTotalsHome": "9/16",
+        "offsidesTotalsAway": "6/15",
+        "offsidesAverage": "1.88/3.88",
+        "offsidesAverageHome": "2.25/4.00",
+        "offsidesAverageAway": "1.50/3.75",
+        "shotsOnTargetTotals": "38/35",
+        "shotsOnTargetTotalsHome": "21/19",
+        "shotsOnTargetTotalsAway": "17/16",
+        "shotsOnTargetAverage": "4.75/4.38",
+        "shotsOnTargetAverageHome": "5.25/4.75",
+        "shotsOnTargetAverageAway": "4.25/4.00",
+        "yellowCardsTotals": "26/33",
+        "yellowCardsTotalsHome": "14/12",
+        "yellowCardsTotalsAway": "12/21",
+        "yellowCardsAverage": "3.25/4.13",
+        "yellowCardsAverageHome": "3.50/3.00",
+        "yellowCardsAverageAway": "3.00/5.25",
+        "goalsTotals": "15/9",
+        "goalsTotalsHome": "8/3",
+        "goalsTotalsAway": "7/6",
+        "goalsAverage": "1.88/1.13",
+        "goalsAverageHome": "2.00/0.75",
+        "goalsAverageAway": "1.75/1.50",
+        "throwInsTotals": "137/153",
+        "throwInsTotalsHome": "64/76",
+        "throwInsTotalsAway": "73/77",
+        "throwInsAverage": "17.13/19.13",
+        "throwInsAverageHome": "16.00/19.00",
+        "throwInsAverageAway": "18.25/19.25",
+        "averageBallPossessionTotals": "429/371",
+        "averageBallPossessionTotalsHome": "210/190",
+        "averageBallPossessionTotalsAway": "219/181",
+        "averageBallPossessionAverage": "53.63/46.38",
+        "averageBallPossessionAverageHome": "52.50/47.50",
+        "averageBallPossessionAverageAway": "54.75/45.25",
+        "tacklesTotals": "108/109",
+        "tacklesTotalsHome": "67/63",
+        "tacklesTotalsAway": "41/46",
+        "tacklesAverage": "13.50/13.63",
+        "tacklesAverageHome": "16.75/15.75",
+        "tacklesAverageAway": "10.25/11.50",
+        "interceptionsTotals": "59/107",
+        "interceptionsTotalsHome": "29/56",
+        "interceptionsTotalsAway": "30/51",
+        "interceptionsAverage": "7.38/13.38",
+        "interceptionsAverageHome": "7.25/14.00",
+        "interceptionsAverageAway": "7.50/12.75",
+        "aerialDuelsTotals": "114/103",
+        "aerialDuelsTotalsHome": "53/44",
+        "aerialDuelsTotalsAway": "61/59",
+        "aerialDuelsAverage": "14.25/12.88",
+        "aerialDuelsAverageHome": "13.25/11.00",
+        "aerialDuelsAverageAway": "15.25/14.75",
+        "aerialDuelsAttemptedTotals": "217/217",
+        "aerialDuelsAttemptedTotalsHome": "97/97",
+        "aerialDuelsAttemptedTotalsAway": "120/120",
+        "aerialDuelsAttemptedAverage": "27.13/27.13",
+        "aerialDuelsAttemptedAverageHome": "24.25/24.25",
+        "aerialDuelsAttemptedAverageAway": "30.00/30.00",
+        "dribblesTotals": "48/43",
+        "dribblesTotalsHome": "27/26",
+        "dribblesTotalsAway": "21/17",
+        "dribblesAverage": "6.00/5.38",
+        "dribblesAverageHome": "6.75/6.50",
+        "dribblesAverageAway": "5.25/4.25",
+        "dribblesAttemptedTotals": "98/107",
+        "dribblesAttemptedTotalsHome": "53/64",
+        "dribblesAttemptedTotalsAway": "45/43",
+        "dribblesAttemptedAverage": "12.25/13.38",
+        "dribblesAttemptedAverageHome": "13.25/16.00",
+        "dribblesAttemptedAverageAway": "11.25/10.75"
+    }
+}

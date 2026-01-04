@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.13",
+        "fouls": "12.93",
+        "goalKicks": "4.93",
+        "saves": "2.07",
+        "offsides": "2.00",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "1.93/NaN",
+        "goals": "2.27/0.67",
+        "throwIns": "NaN",
+        "ballPossession": 54.1,
+        "tackles": "NaN/NaN",
+        "interceptions": "29.67/NaN",
+        "aerialDuels": "9.33",
+        "aerialDuelsAttempted": "20.80",
+        "dribbles": "14.80/NaN",
+        "dribblesAttempted": "19.53/NaN"
+    },
+    "teamSlug": "omonia-nicosia",
+    "teamId": "3395",
+    "teamName": "Omonia Nicosia",
+    "tournament": "Cyprus League by Stoiximan",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ethnikos-achnas-omonia-nicosia/VrbsWrb#id:14222798,tab:statistics",
+            "teams": [
+                "Omonia",
+                "Ethnikos"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "3395",
+                "3396"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aek-larnaca-omonia-nicosia/Vrbsetb#id:14222793,tab:statistics",
+            "teams": [
+                "AEK Larnaca",
+                "Omonia"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "3404",
+                "3395"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/olympiakos-nicosia-omonia-nicosia/Vrbsbtb#id:14222792,tab:statistics",
+            "teams": [
+                "Olympiakos",
+                "Omonia"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "3401",
+                "3395"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/omonia-aradippou-omonia-nicosia/VrbsRkk#id:14222777,tab:statistics",
+            "teams": [
+                "Omonia",
+                "Om. Aradippou"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "3395",
+                "25542"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/apollon-limassol-omonia-nicosia/Vrbsctb#id:14222774,tab:statistics",
+            "teams": [
+                "Apollon",
+                "Omonia"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3402",
+                "3395"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/apoel-nicosia-omonia-nicosia/VrbsYrb#id:14222765,tab:statistics",
+            "teams": [
+                "Omonia",
+                "APOEL"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "3395",
+                "3398"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/enosis-neon-paralimniou-omonia-nicosia/Vrbsftb#id:14222762,tab:statistics",
+            "teams": [
+                "E.N. Paralimniou",
+                "Omonia"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "3405",
+                "3395"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pafos-fc-omonia-nicosia/VrbsBHtb#id:14222751,tab:statistics",
+            "teams": [
+                "Omonia",
+                "Pafos"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3395",
+                "171626"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/2[H]",
+            "fouls": "7/12[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/5[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "4/0[H]",
+            "throwIns": "17/13[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Omonia,Ethnikos,Home",
+            "tackles": "3/0[H]",
+            "interceptions": "12/15[H]",
+            "aerialDuels": "6/7[H]",
+            "aerialDuelsAttempted": "14/12[H]",
+            "dribbles": "16/12[H]",
+            "dribblesAttempted": "20/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "2/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/17[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Omonia,AEK Larnaca,Away",
+            "tackles": "3/3[A]",
+            "interceptions": "11/20[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "15/18[A]",
+            "dribbles": "7/31[A]",
+            "dribblesAttempted": "8/34[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/0[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "3/4[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "7/3[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "18/19[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Omonia,Olympiakos,Away",
+            "tackles": "2/4[A]",
+            "interceptions": "17/15[A]",
+            "aerialDuels": "8/8[A]",
+            "aerialDuelsAttempted": "19/17[A]",
+            "dribbles": "25/8[A]",
+            "dribblesAttempted": "33/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "3/4[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "19/11[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Omonia,Om. Aradippou,Home",
+            "tackles": "2/3[H]",
+            "interceptions": "14/15[H]",
+            "aerialDuels": "2/13[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "24/11[H]",
+            "dribblesAttempted": "28/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "5/13[A]",
+            "saves": "0/5[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "18/26[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Omonia,Apollon,Away",
+            "tackles": "1/4[A]",
+            "interceptions": "16/13[A]",
+            "aerialDuels": "13/18[A]",
+            "aerialDuelsAttempted": "27/32[A]",
+            "dribbles": "17/6[A]",
+            "dribblesAttempted": "19/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "19/19[H]",
+            "goalKicks": "11/4[H]",
+            "saves": "0/5[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "25/15[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Omonia,APOEL,Home",
+            "tackles": "4/1[H]",
+            "interceptions": "8/17[H]",
+            "aerialDuels": "18/14[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "9/16[H]",
+            "dribblesAttempted": "15/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "18/16[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "4/4[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Omonia,E.N. Paralimniou,Away",
+            "tackles": "1/3[A]",
+            "interceptions": "13/13[A]",
+            "aerialDuels": "13/10[A]",
+            "aerialDuelsAttempted": "30/24[A]",
+            "dribbles": "16/11[A]",
+            "dribblesAttempted": "25/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/0[H]",
+            "fouls": "12/17[H]",
+            "goalKicks": "7/12[H]",
+            "saves": "0/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/16[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Omonia,Pafos,Home",
+            "tackles": "1/1[H]",
+            "interceptions": "13/8[H]",
+            "aerialDuels": "11/9[H]",
+            "aerialDuelsAttempted": "23/20[H]",
+            "dribbles": "12/2[H]",
+            "dribblesAttempted": "16/3[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-02T18:58:34.205Z",
+    "endTime": "2026-01-02T18:59:05.675Z",
+    "totalTimeSeconds": 31.47,
+    "combinedMatchStatistics": {
+        "corners": "7/2[H]+6/1[A]+3/0[A]+5/3[H]+5/3[A]+4/3[H]+7/3[A]+10/0[H]",
+        "fouls": "7/12[H]+14/16[A]+13/14[A]+11/13[H]+12/13[A]+19/19[H]+18/16[A]+12/17[H]",
+        "goalKicks": "5/10[H]+10/7[A]+5/9[A]+6/6[H]+5/13[A]+11/4[H]+5/7[A]+7/12[H]",
+        "saves": "2/5[H]+2/5[A]+3/4[A]+3/4[H]+0/5[A]+0/5[H]+4/4[A]+0/5[H]",
+        "offsides": "3/1[H]+1/0[A]+5/2[A]+4/1[H]+2/2[A]+1/0[H]+4/0[A]+1/1[H]",
+        "shotsOnTarget": "9/2[H]+6/2[A]+7/3[A]+6/4[H]+5/2[A]+7/2[H]+6/4[A]+7/1[H]",
+        "yellowCards": "2/1[H]+3/3[A]+2/0[A]+2/2[H]+2/3[A]+3/2[H]+3/2[A]+2/2[H]",
+        "goals": "4/0[H]+1/1[A]+3/0[A]+3/1[H]+0/2[A]+2/2[H]+2/0[A]+2/1[H]",
+        "throwIns": "17/13[H]+14/17[A]+18/19[A]+19/11[H]+18/26[A]+25/15[H]+17/14[A]+16/16[H]",
+        "averageBallPossession": "54/46[H]+42/58[A]+45/55[A]+62/38[H]+55/45[A]+55/45[H]+54/46[A]+56/44[H]",
+        "teams": "Omonia,Ethnikos,Home+Omonia,AEK Larnaca,Away+Omonia,Olympiakos,Away+Omonia,Om. Aradippou,Home+Omonia,Apollon,Away+Omonia,APOEL,Home+Omonia,E.N. Paralimniou,Away+Omonia,Pafos,Home",
+        "tackles": "3/0[H]+3/3[A]+2/4[A]+2/3[H]+1/4[A]+4/1[H]+1/3[A]+1/1[H]",
+        "interceptions": "12/15[H]+11/20[A]+17/15[A]+14/15[H]+16/13[A]+8/17[H]+13/13[A]+13/8[H]",
+        "aerialDuels": "6/7[H]+8/10[A]+8/8[A]+2/13[H]+13/18[A]+18/14[H]+13/10[A]+11/9[H]",
+        "aerialDuelsAttempted": "14/12[H]+15/18[A]+19/17[A]+16/16[H]+27/32[A]+32/32[H]+30/24[A]+23/20[H]",
+        "dribbles": "16/12[H]+7/31[A]+25/8[A]+24/11[H]+17/6[A]+9/16[H]+16/11[A]+12/2[H]",
+        "dribblesAttempted": "20/17[H]+8/34[A]+33/10[A]+28/18[H]+19/10[A]+15/21[H]+25/13[A]+16/3[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "47/15",
+        "cornersTotalsHome": "26/8",
+        "cornersTotalsAway": "21/7",
+        "cornersAverage": "5.88/1.88",
+        "cornersAverageHome": "6.50/2.00",
+        "cornersAverageAway": "5.25/1.75",
+        "foulsTotals": "106/120",
+        "foulsTotalsHome": "49/61",
+        "foulsTotalsAway": "57/59",
+        "foulsAverage": "13.25/15.00",
+        "foulsAverageHome": "12.25/15.25",
+        "foulsAverageAway": "14.25/14.75",
+        "goalKicksTotals": "54/68",
+        "goalKicksTotalsHome": "29/32",
+        "goalKicksTotalsAway": "25/36",
+        "goalKicksAverage": "6.75/8.50",
+        "goalKicksAverageHome": "7.25/8.00",
+        "goalKicksAverageAway": "6.25/9.00",
+        "savesTotals": "14/37",
+        "savesTotalsHome": "5/19",
+        "savesTotalsAway": "9/18",
+        "savesAverage": "1.75/4.63",
+        "savesAverageHome": "1.25/4.75",
+        "savesAverageAway": "2.25/4.50",
+        "offsidesTotals": "21/7",
+        "offsidesTotalsHome": "9/3",
+        "offsidesTotalsAway": "12/4",
+        "offsidesAverage": "2.63/0.88",
+        "offsidesAverageHome": "2.25/0.75",
+        "offsidesAverageAway": "3.00/1.00",
+        "shotsOnTargetTotals": "53/20",
+        "shotsOnTargetTotalsHome": "29/9",
+        "shotsOnTargetTotalsAway": "24/11",
+        "shotsOnTargetAverage": "6.63/2.50",
+        "shotsOnTargetAverageHome": "7.25/2.25",
+        "shotsOnTargetAverageAway": "6.00/2.75",
+        "yellowCardsTotals": "19/15",
+        "yellowCardsTotalsHome": "9/7",
+        "yellowCardsTotalsAway": "10/8",
+        "yellowCardsAverage": "2.38/1.88",
+        "yellowCardsAverageHome": "2.25/1.75",
+        "yellowCardsAverageAway": "2.50/2.00",
+        "goalsTotals": "17/7",
+        "goalsTotalsHome": "11/4",
+        "goalsTotalsAway": "6/3",
+        "goalsAverage": "2.13/0.88",
+        "goalsAverageHome": "2.75/1.00",
+        "goalsAverageAway": "1.50/0.75",
+        "throwInsTotals": "144/131",
+        "throwInsTotalsHome": "77/55",
+        "throwInsTotalsAway": "67/76",
+        "throwInsAverage": "18.00/16.38",
+        "throwInsAverageHome": "19.25/13.75",
+        "throwInsAverageAway": "16.75/19.00",
+        "averageBallPossessionTotals": "423/377",
+        "averageBallPossessionTotalsHome": "227/173",
+        "averageBallPossessionTotalsAway": "196/204",
+        "averageBallPossessionAverage": "52.88/47.13",
+        "averageBallPossessionAverageHome": "56.75/43.25",
+        "averageBallPossessionAverageAway": "49.00/51.00",
+        "tacklesTotals": "17/19",
+        "tacklesTotalsHome": "10/5",
+        "tacklesTotalsAway": "7/14",
+        "tacklesAverage": "2.13/2.38",
+        "tacklesAverageHome": "2.50/1.25",
+        "tacklesAverageAway": "1.75/3.50",
+        "interceptionsTotals": "104/116",
+        "interceptionsTotalsHome": "47/55",
+        "interceptionsTotalsAway": "57/61",
+        "interceptionsAverage": "13.00/14.50",
+        "interceptionsAverageHome": "11.75/13.75",
+        "interceptionsAverageAway": "14.25/15.25",
+        "aerialDuelsTotals": "79/89",
+        "aerialDuelsTotalsHome": "37/43",
+        "aerialDuelsTotalsAway": "42/46",
+        "aerialDuelsAverage": "9.88/11.13",
+        "aerialDuelsAverageHome": "9.25/10.75",
+        "aerialDuelsAverageAway": "10.50/11.50",
+        "aerialDuelsAttemptedTotals": "176/171",
+        "aerialDuelsAttemptedTotalsHome": "85/80",
+        "aerialDuelsAttemptedTotalsAway": "91/91",
+        "aerialDuelsAttemptedAverage": "22.00/21.38",
+        "aerialDuelsAttemptedAverageHome": "21.25/20.00",
+        "aerialDuelsAttemptedAverageAway": "22.75/22.75",
+        "dribblesTotals": "126/97",
+        "dribblesTotalsHome": "61/41",
+        "dribblesTotalsAway": "65/56",
+        "dribblesAverage": "15.75/12.13",
+        "dribblesAverageHome": "15.25/10.25",
+        "dribblesAverageAway": "16.25/14.00",
+        "dribblesAttemptedTotals": "164/126",
+        "dribblesAttemptedTotalsHome": "79/59",
+        "dribblesAttemptedTotalsAway": "85/67",
+        "dribblesAttemptedAverage": "20.50/15.75",
+        "dribblesAttemptedAverageHome": "19.75/14.75",
+        "dribblesAttemptedAverageAway": "21.25/16.75"
+    }
+}

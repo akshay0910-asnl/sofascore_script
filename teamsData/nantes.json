@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.13",
+        "fouls": "11.63",
+        "goalKicks": "9.44",
+        "saves": "3.75",
+        "offsides": "0.94",
+        "shotsOnTarget": "2.63/5.50",
+        "yellowCards": "1.69/2.31",
+        "goals": "0.88/1.75",
+        "throwIns": "19.44",
+        "ballPossession": 42.375,
+        "tackles": "14.94/17.19",
+        "interceptions": "6.38/7.50",
+        "aerialDuels": "12.31",
+        "aerialDuelsAttempted": "25.81",
+        "dribbles": "7.44/6.00",
+        "dribblesAttempted": "16.69/13.50"
+    },
+    "teamSlug": "nantes",
+    "teamId": "1647",
+    "teamName": "Nantes",
+    "tournament": "Ligue 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/angers-nantes/XHsJI#id:14064439,tab:statistics",
+            "teams": [
+                "Angers",
+                "Nantes"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "1684",
+                "1647"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rc-lens-nantes/XHsYH#id:14064431,tab:statistics",
+            "teams": [
+                "Nantes",
+                "Lens"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "1647",
+                "1648"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/olympique-lyonnais-nantes/XHsZH#id:14064428,tab:statistics",
+            "teams": [
+                "Lyon",
+                "Nantes"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "1649",
+                "1647"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lorient-nantes/XHsgI#id:14064429,tab:statistics",
+            "teams": [
+                "Nantes",
+                "Lorient"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1647",
+                "1656"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/le-havre-nantes/XHsmI#id:14064402,tab:statistics",
+            "teams": [
+                "Le Havre",
+                "Nantes"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1662",
+                "1647"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/metz-nantes/XHsbI#id:14167943,tab:statistics",
+            "teams": [
+                "Nantes",
+                "Metz"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "1647",
+                "1651"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/as-monaco-nantes/XHsdI#id:14064508,tab:statistics",
+            "teams": [
+                "Nantes",
+                "AS Monaco"
+            ],
+            "goals": [
+                "3",
+                "5"
+            ],
+            "teamIds": [
+                "1647",
+                "1653"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/paris-fc-nantes/XHsvwc#id:14167923,tab:statistics",
+            "teams": [
+                "Paris",
+                "Nantes"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "6070",
+                "1647"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/17[A]",
+            "goalKicks": "9/1[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/9[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "22/24[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Nantes,Angers,Away",
+            "tackles": "13/20[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "10/12[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "2/5[A]",
+            "dribblesAttempted": "13/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/12[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "11/4[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "18/25[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Nantes,Lens,Home",
+            "tackles": "20/26[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "22/18[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "6/8[H]",
+            "dribblesAttempted": "20/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/7[A]",
+            "fouls": "9/14[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "23/7[A]",
+            "averageBallPossession": "28/72[A]",
+            "teams": "Nantes,Lyon,Away",
+            "tackles": "9/12[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "10/11[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "4/1[A]",
+            "dribblesAttempted": "11/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/1[H]",
+            "fouls": "17/17[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "1/0[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/16[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Nantes,Lorient,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "10/19[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "9/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "14/1[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "16/18[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Nantes,Le Havre,Away",
+            "tackles": "16/16[A]",
+            "interceptions": "2/11[A]",
+            "aerialDuels": "13/18[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "14/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "8/8[H]",
+            "goalKicks": "8/12[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "23/12[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Nantes,Metz,Home",
+            "tackles": "11/25[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "10/18[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "11/6[H]",
+            "dribblesAttempted": "30/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/3[H]",
+            "fouls": "13/17[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "4/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/9[H]",
+            "yellowCards": "3/7[H]",
+            "goals": "3/5[H]",
+            "throwIns": "33/11[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Nantes,AS Monaco,Home",
+            "tackles": "16/23[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "12/8[H]",
+            "dribblesAttempted": "27/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/9[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "13/17[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Nantes,Paris,Away",
+            "tackles": "12/18[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "17/12[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "9/3[A]",
+            "dribblesAttempted": "18/7[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T05:11:39.659Z",
+    "endTime": "2026-01-03T05:12:03.280Z",
+    "totalTimeSeconds": 23.62,
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+1/12[H]+0/7[A]+1/1[H]+3/8[A]+8/5[H]+1/3[H]+2/8[A]",
+        "fouls": "13/17[A]+8/13[H]+9/14[A]+17/17[H]+13/15[A]+8/8[H]+13/17[H]+13/10[A]",
+        "goalKicks": "9/1[A]+11/4[H]+10/5[A]+6/12[H]+14/1[A]+8/12[H]+10/6[H]+8/4[A]",
+        "saves": "5/3[A]+4/3[H]+4/2[A]+1/0[H]+3/1[A]+5/4[H]+4/2[H]+2/1[A]",
+        "offsides": "1/1[A]+0/3[H]+1/2[A]+0/2[H]+3/4[A]+1/3[H]+0/2[H]+1/9[A]",
+        "shotsOnTarget": "4/9[A]+4/6[H]+2/8[A]+1/1[H]+2/4[A]+4/7[H]+5/9[H]+3/3[A]",
+        "yellowCards": "2/1[A]+2/0[H]+2/1[A]+1/1[H]+3/3[A]+1/3[H]+3/7[H]+2/3[A]",
+        "goals": "1/4[A]+1/2[H]+0/3[A]+1/1[H]+1/1[A]+0/2[H]+3/5[H]+2/1[A]",
+        "throwIns": "22/24[A]+18/25[H]+23/7[A]+21/16[H]+16/18[A]+23/12[H]+33/11[H]+13/17[A]",
+        "averageBallPossession": "46/54[A]+34/66[H]+28/72[A]+56/44[H]+35/65[A]+52/48[H]+48/52[H]+32/68[A]",
+        "teams": "Nantes,Angers,Away+Nantes,Lens,Home+Nantes,Lyon,Away+Nantes,Lorient,Home+Nantes,Le Havre,Away+Nantes,Metz,Home+Nantes,AS Monaco,Home+Nantes,Paris,Away",
+        "tackles": "13/20[A]+20/26[H]+9/12[A]+12/14[H]+16/16[A]+11/25[H]+16/23[H]+12/18[A]",
+        "interceptions": "8/11[A]+7/5[H]+4/8[A]+4/5[H]+2/11[A]+5/8[H]+11/12[H]+4/6[A]",
+        "aerialDuels": "10/12[A]+22/18[H]+10/11[A]+10/19[H]+13/18[A]+10/18[H]+7/10[H]+17/12[A]",
+        "aerialDuelsAttempted": "22/22[A]+40/40[H]+21/21[A]+29/29[H]+31/31[A]+28/28[H]+17/17[H]+29/29[A]",
+        "dribbles": "2/5[A]+6/8[H]+4/1[A]+6/10[H]+5/6[A]+11/6[H]+12/8[H]+9/3[A]",
+        "dribblesAttempted": "13/13[A]+20/17[H]+11/4[A]+9/16[H]+14/16[A]+30/11[H]+27/12[H]+18/7[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "19/50",
+        "cornersTotalsHome": "11/21",
+        "cornersTotalsAway": "8/29",
+        "cornersAverage": "2.38/6.25",
+        "cornersAverageHome": "2.75/5.25",
+        "cornersAverageAway": "2.00/7.25",
+        "foulsTotals": "94/111",
+        "foulsTotalsHome": "46/55",
+        "foulsTotalsAway": "48/56",
+        "foulsAverage": "11.75/13.88",
+        "foulsAverageHome": "11.50/13.75",
+        "foulsAverageAway": "12.00/14.00",
+        "goalKicksTotals": "76/45",
+        "goalKicksTotalsHome": "35/34",
+        "goalKicksTotalsAway": "41/11",
+        "goalKicksAverage": "9.50/5.63",
+        "goalKicksAverageHome": "8.75/8.50",
+        "goalKicksAverageAway": "10.25/2.75",
+        "savesTotals": "28/16",
+        "savesTotalsHome": "14/9",
+        "savesTotalsAway": "14/7",
+        "savesAverage": "3.50/2.00",
+        "savesAverageHome": "3.50/2.25",
+        "savesAverageAway": "3.50/1.75",
+        "offsidesTotals": "7/26",
+        "offsidesTotalsHome": "1/10",
+        "offsidesTotalsAway": "6/16",
+        "offsidesAverage": "0.88/3.25",
+        "offsidesAverageHome": "0.25/2.50",
+        "offsidesAverageAway": "1.50/4.00",
+        "shotsOnTargetTotals": "25/47",
+        "shotsOnTargetTotalsHome": "14/23",
+        "shotsOnTargetTotalsAway": "11/24",
+        "shotsOnTargetAverage": "3.13/5.88",
+        "shotsOnTargetAverageHome": "3.50/5.75",
+        "shotsOnTargetAverageAway": "2.75/6.00",
+        "yellowCardsTotals": "16/19",
+        "yellowCardsTotalsHome": "7/11",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "2.00/2.38",
+        "yellowCardsAverageHome": "1.75/2.75",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "9/19",
+        "goalsTotalsHome": "5/10",
+        "goalsTotalsAway": "4/9",
+        "goalsAverage": "1.13/2.38",
+        "goalsAverageHome": "1.25/2.50",
+        "goalsAverageAway": "1.00/2.25",
+        "throwInsTotals": "169/130",
+        "throwInsTotalsHome": "95/64",
+        "throwInsTotalsAway": "74/66",
+        "throwInsAverage": "21.13/16.25",
+        "throwInsAverageHome": "23.75/16.00",
+        "throwInsAverageAway": "18.50/16.50",
+        "averageBallPossessionTotals": "331/469",
+        "averageBallPossessionTotalsHome": "190/210",
+        "averageBallPossessionTotalsAway": "141/259",
+        "averageBallPossessionAverage": "41.38/58.63",
+        "averageBallPossessionAverageHome": "47.50/52.50",
+        "averageBallPossessionAverageAway": "35.25/64.75",
+        "tacklesTotals": "109/154",
+        "tacklesTotalsHome": "59/88",
+        "tacklesTotalsAway": "50/66",
+        "tacklesAverage": "13.63/19.25",
+        "tacklesAverageHome": "14.75/22.00",
+        "tacklesAverageAway": "12.50/16.50",
+        "interceptionsTotals": "45/66",
+        "interceptionsTotalsHome": "27/30",
+        "interceptionsTotalsAway": "18/36",
+        "interceptionsAverage": "5.63/8.25",
+        "interceptionsAverageHome": "6.75/7.50",
+        "interceptionsAverageAway": "4.50/9.00",
+        "aerialDuelsTotals": "99/118",
+        "aerialDuelsTotalsHome": "49/65",
+        "aerialDuelsTotalsAway": "50/53",
+        "aerialDuelsAverage": "12.38/14.75",
+        "aerialDuelsAverageHome": "12.25/16.25",
+        "aerialDuelsAverageAway": "12.50/13.25",
+        "aerialDuelsAttemptedTotals": "217/217",
+        "aerialDuelsAttemptedTotalsHome": "114/114",
+        "aerialDuelsAttemptedTotalsAway": "103/103",
+        "aerialDuelsAttemptedAverage": "27.13/27.13",
+        "aerialDuelsAttemptedAverageHome": "28.50/28.50",
+        "aerialDuelsAttemptedAverageAway": "25.75/25.75",
+        "dribblesTotals": "55/47",
+        "dribblesTotalsHome": "35/32",
+        "dribblesTotalsAway": "20/15",
+        "dribblesAverage": "6.88/5.88",
+        "dribblesAverageHome": "8.75/8.00",
+        "dribblesAverageAway": "5.00/3.75",
+        "dribblesAttemptedTotals": "142/96",
+        "dribblesAttemptedTotalsHome": "86/56",
+        "dribblesAttemptedTotalsAway": "56/40",
+        "dribblesAttemptedAverage": "17.75/12.00",
+        "dribblesAttemptedAverageHome": "21.50/14.00",
+        "dribblesAttemptedAverageAway": "14.00/10.00"
+    }
+}

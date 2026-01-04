@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.43",
+        "fouls": "8.57",
+        "goalKicks": "8.14",
+        "saves": "2.29",
+        "offsides": "1.71",
+        "shotsOnTarget": "4.29/4.14",
+        "yellowCards": "0.57/1.29",
+        "goals": "1.14/1.57",
+        "throwIns": "39.00",
+        "ballPossession": 58,
+        "tackles": "22.71/28.14",
+        "interceptions": "10.57/15.43",
+        "aerialDuels": "8.57",
+        "aerialDuelsAttempted": "17.86",
+        "dribbles": "9.29/5.00",
+        "dribblesAttempted": "24.86/15.71"
+    },
+    "teamSlug": "adelaide-united",
+    "teamId": "174076",
+    "teamName": "Adelaide United",
+    "tournament": "A-League Women",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/western-sydney-wanderers-adelaide-united/BGubsiHub#id:14671856,tab:statistics",
+            "teams": [
+                "Adelaide United",
+                "Western Sydney"
+            ],
+            "goals": [
+                "5",
+                "2"
+            ],
+            "teamIds": [
+                "174076",
+                "174108"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/perth-glory-adelaide-united/BGubseHub#id:14671862,tab:statistics",
+            "teams": [
+                "Perth Glory",
+                "Adelaide United"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "174104",
+                "174076"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/melbourne-victory-adelaide-united/BGubsaHub#id:14671854,tab:statistics",
+            "teams": [
+                "Melbourne Victory",
+                "Adelaide United"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "174100",
+                "174076"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/brisbane-roar-adelaide-united/BGubsDGub#id:14671846,tab:statistics",
+            "teams": [
+                "Adelaide United",
+                "Brisbane Roar"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "174076",
+                "174078"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/canberra-united-adelaide-united/BGubsYGub#id:14671828,tab:statistics",
+            "teams": [
+                "Adelaide United",
+                "Canberra United"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "174076",
+                "174098"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sydney-fc-adelaide-united/BGubsgHub#id:14671822,tab:statistics",
+            "teams": [
+                "Adelaide United",
+                "Sydney FC"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "174076",
+                "174106"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-coast-mariners-adelaide-united/BGubsGCVd#id:14671823,tab:statistics",
+            "teams": [
+                "Central Coast",
+                "Adelaide United"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "488881",
+                "174076"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/melbourne-victory-adelaide-united/BGubsaHub#id:13826739,tab:statistics",
+            "teams": [
+                "Melbourne Victory",
+                "Adelaide United"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "174100",
+                "174076"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/1[H]",
+            "fouls": "9/4[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "3/4[H]",
+            "offsides": "3/8[H]",
+            "shotsOnTarget": "9/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "5/2[H]",
+            "throwIns": "31/30[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Adelaide United,Western Sydney,Home",
+            "tackles": "25/28[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "11/15[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "17/10[H]",
+            "dribblesAttempted": "29/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "7/13[A]",
+            "goalKicks": "7/13[A]",
+            "saves": "2/4[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "48/44[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Adelaide United,Perth Glory,Away",
+            "tackles": "27/32[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "13/15[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "11/6[A]",
+            "dribblesAttempted": "31/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "7/8[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "30/47[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Adelaide United,Melbourne Victory,Away",
+            "tackles": "19/27[A]",
+            "interceptions": "12/12[A]",
+            "aerialDuels": "10/6[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "1/1[A]",
+            "dribblesAttempted": "18/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "6/5[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "40/36[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Adelaide United,Brisbane Roar,Home",
+            "tackles": "31/31[H]",
+            "interceptions": "11/20[H]",
+            "aerialDuels": "2/8[H]",
+            "aerialDuelsAttempted": "10/10[H]",
+            "dribbles": "11/3[H]",
+            "dribblesAttempted": "23/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/6[H]",
+            "fouls": "5/13[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "5/7[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "9/7[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "41/49[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Adelaide United,Canberra United,Home",
+            "tackles": "18/24[H]",
+            "interceptions": "16/14[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "6/1[H]",
+            "dribblesAttempted": "13/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "14/13[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/0[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "41/32[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Adelaide United,Sydney FC,Home",
+            "tackles": "17/21[H]",
+            "interceptions": "11/22[H]",
+            "aerialDuels": "4/3[H]",
+            "aerialDuelsAttempted": "7/7[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "21/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[A]",
+            "fouls": "14/12[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "0/0[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "42/25[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Adelaide United,Central Coast,Away",
+            "tackles": "22/34[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "13/8[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "10/8[A]",
+            "dribblesAttempted": "39/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/8[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "8/13[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "43/17[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Adelaide United,Melbourne Victory,Away",
+            "tackles": "15/23[A]",
+            "interceptions": "7/27[A]",
+            "aerialDuels": "5/8[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "14/7[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-03T08:30:49.391Z",
+    "endTime": "2026-01-03T08:31:25.109Z",
+    "totalTimeSeconds": 35.72,
+    "combinedMatchStatistics": {
+        "corners": "4/1[H]+2/5[A]+3/4[A]+3/4[H]+10/6[H]+7/3[H]+9/3[A]+8/8[A]",
+        "fouls": "9/4[H]+7/13[A]+7/8[A]+6/5[H]+5/13[H]+12/9[H]+14/12[A]+12/12[A]",
+        "goalKicks": "7/9[H]+7/13[A]+9/7[A]+7/6[H]+5/11[H]+14/13[H]+8/8[A]+8/13[A]",
+        "saves": "3/4[H]+2/4[A]+3/2[A]+3/1[H]+5/7[H]+0/2[H]+0/0[A]+3/4[A]",
+        "offsides": "3/8[H]+4/1[A]+1/1[A]+1/2[H]+0/1[H]+1/3[H]+2/0[A]+1/2[A]",
+        "shotsOnTarget": "9/5[H]+4/3[A]+2/4[A]+2/7[H]+9/7[H]+3/0[H]+1/3[A]+5/6[A]",
+        "yellowCards": "3/1[H]+0/2[A]+0/0[A]+0/1[H]+0/2[H]+0/2[H]+1/1[A]+2/2[A]",
+        "goals": "5/2[H]+0/1[A]+0/1[A]+1/3[H]+2/1[H]+0/0[H]+0/3[A]+1/3[A]",
+        "throwIns": "31/30[H]+48/44[A]+30/47[A]+40/36[H]+41/49[H]+41/32[H]+42/25[A]+43/17[A]",
+        "averageBallPossession": "59/41[H]+64/36[A]+52/48[A]+53/47[H]+58/42[H]+59/41[H]+61/39[A]+62/38[A]",
+        "teams": "Adelaide United,Western Sydney,Home+Adelaide United,Perth Glory,Away+Adelaide United,Melbourne Victory,Away+Adelaide United,Brisbane Roar,Home+Adelaide United,Canberra United,Home+Adelaide United,Sydney FC,Home+Adelaide United,Central Coast,Away+Adelaide United,Melbourne Victory,Away",
+        "tackles": "25/28[H]+27/32[A]+19/27[A]+31/31[H]+18/24[H]+17/21[H]+22/34[A]+15/23[A]",
+        "interceptions": "11/13[H]+6/12[A]+12/12[A]+11/20[H]+16/14[H]+11/22[H]+7/15[A]+7/27[A]",
+        "aerialDuels": "11/15[H]+13/15[A]+10/6[A]+2/8[H]+7/10[H]+4/3[H]+13/8[A]+5/8[A]",
+        "aerialDuelsAttempted": "26/26[H]+28/28[A]+16/16[A]+10/10[H]+17/17[H]+7/7[H]+21/21[A]+13/13[A]",
+        "dribbles": "17/10[H]+11/6[A]+1/1[A]+11/3[H]+6/1[H]+9/6[H]+10/8[A]+3/5[A]",
+        "dribblesAttempted": "29/20[H]+31/13[A]+18/13[A]+23/20[H]+13/11[H]+21/15[H]+39/18[A]+14/7[A]",
+        "isHome": "true+false+false+true+true+true+false+false",
+        "cornersTotals": "46/34",
+        "cornersTotalsHome": "24/14",
+        "cornersTotalsAway": "22/20",
+        "cornersAverage": "5.75/4.25",
+        "cornersAverageHome": "6.00/3.50",
+        "cornersAverageAway": "5.50/5.00",
+        "foulsTotals": "72/76",
+        "foulsTotalsHome": "32/31",
+        "foulsTotalsAway": "40/45",
+        "foulsAverage": "9.00/9.50",
+        "foulsAverageHome": "8.00/7.75",
+        "foulsAverageAway": "10.00/11.25",
+        "goalKicksTotals": "65/80",
+        "goalKicksTotalsHome": "33/39",
+        "goalKicksTotalsAway": "32/41",
+        "goalKicksAverage": "8.13/10.00",
+        "goalKicksAverageHome": "8.25/9.75",
+        "goalKicksAverageAway": "8.00/10.25",
+        "savesTotals": "19/24",
+        "savesTotalsHome": "11/14",
+        "savesTotalsAway": "8/10",
+        "savesAverage": "2.38/3.00",
+        "savesAverageHome": "2.75/3.50",
+        "savesAverageAway": "2.00/2.50",
+        "offsidesTotals": "13/18",
+        "offsidesTotalsHome": "5/14",
+        "offsidesTotalsAway": "8/4",
+        "offsidesAverage": "1.63/2.25",
+        "offsidesAverageHome": "1.25/3.50",
+        "offsidesAverageAway": "2.00/1.00",
+        "shotsOnTargetTotals": "35/35",
+        "shotsOnTargetTotalsHome": "23/19",
+        "shotsOnTargetTotalsAway": "12/16",
+        "shotsOnTargetAverage": "4.38/4.38",
+        "shotsOnTargetAverageHome": "5.75/4.75",
+        "shotsOnTargetAverageAway": "3.00/4.00",
+        "yellowCardsTotals": "6/11",
+        "yellowCardsTotalsHome": "3/6",
+        "yellowCardsTotalsAway": "3/5",
+        "yellowCardsAverage": "0.75/1.38",
+        "yellowCardsAverageHome": "0.75/1.50",
+        "yellowCardsAverageAway": "0.75/1.25",
+        "goalsTotals": "9/14",
+        "goalsTotalsHome": "8/6",
+        "goalsTotalsAway": "1/8",
+        "goalsAverage": "1.13/1.75",
+        "goalsAverageHome": "2.00/1.50",
+        "goalsAverageAway": "0.25/2.00",
+        "throwInsTotals": "316/280",
+        "throwInsTotalsHome": "153/147",
+        "throwInsTotalsAway": "163/133",
+        "throwInsAverage": "39.50/35.00",
+        "throwInsAverageHome": "38.25/36.75",
+        "throwInsAverageAway": "40.75/33.25",
+        "averageBallPossessionTotals": "468/332",
+        "averageBallPossessionTotalsHome": "229/171",
+        "averageBallPossessionTotalsAway": "239/161",
+        "averageBallPossessionAverage": "58.50/41.50",
+        "averageBallPossessionAverageHome": "57.25/42.75",
+        "averageBallPossessionAverageAway": "59.75/40.25",
+        "tacklesTotals": "174/220",
+        "tacklesTotalsHome": "91/104",
+        "tacklesTotalsAway": "83/116",
+        "tacklesAverage": "21.75/27.50",
+        "tacklesAverageHome": "22.75/26.00",
+        "tacklesAverageAway": "20.75/29.00",
+        "interceptionsTotals": "81/135",
+        "interceptionsTotalsHome": "49/69",
+        "interceptionsTotalsAway": "32/66",
+        "interceptionsAverage": "10.13/16.88",
+        "interceptionsAverageHome": "12.25/17.25",
+        "interceptionsAverageAway": "8.00/16.50",
+        "aerialDuelsTotals": "65/73",
+        "aerialDuelsTotalsHome": "24/36",
+        "aerialDuelsTotalsAway": "41/37",
+        "aerialDuelsAverage": "8.13/9.13",
+        "aerialDuelsAverageHome": "6.00/9.00",
+        "aerialDuelsAverageAway": "10.25/9.25",
+        "aerialDuelsAttemptedTotals": "138/138",
+        "aerialDuelsAttemptedTotalsHome": "60/60",
+        "aerialDuelsAttemptedTotalsAway": "78/78",
+        "aerialDuelsAttemptedAverage": "17.25/17.25",
+        "aerialDuelsAttemptedAverageHome": "15.00/15.00",
+        "aerialDuelsAttemptedAverageAway": "19.50/19.50",
+        "dribblesTotals": "68/40",
+        "dribblesTotalsHome": "43/20",
+        "dribblesTotalsAway": "25/20",
+        "dribblesAverage": "8.50/5.00",
+        "dribblesAverageHome": "10.75/5.00",
+        "dribblesAverageAway": "6.25/5.00",
+        "dribblesAttemptedTotals": "188/117",
+        "dribblesAttemptedTotalsHome": "86/66",
+        "dribblesAttemptedTotalsAway": "102/51",
+        "dribblesAttemptedAverage": "23.50/14.63",
+        "dribblesAttemptedAverageHome": "21.50/16.50",
+        "dribblesAttemptedAverageAway": "25.50/12.75"
+    }
+}
