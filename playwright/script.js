@@ -12,6 +12,7 @@ try {
 const fs = require('fs');
 const path = require('path');
 const { writeFile } = require('fs/promises');
+const { probabilityOverAndUnderThresholdWrapper } = require('../analytics/analytics');
 
 // ============================================================================
 // CONFIGURATION
@@ -762,9 +763,13 @@ function isAllDataCollected(teamId) {
 
 async function writeStatisticsToFile(teamId) {
 	const filePath = path.join(__dirname, '..', 'teamsData', `${cache[teamId].teamSlug}.json`);
+	//const analyticsFilePath = path.join(__dirname, '..', 'teamsData', `${cache[teamId].teamSlug}_analytics.json`);
+	
 	try {
 		await writeFile(filePath, JSON.stringify(cache[teamId], null, 4));
+		await probabilityOverAndUnderThresholdWrapper(cache[teamId], cache[teamId].teamSlug);
 		console.log(`✓ Data written to ${filePath}`);
+
 	} catch (err) {
 		console.error(`✗ Error writing data to file:`, err.message);
 	}

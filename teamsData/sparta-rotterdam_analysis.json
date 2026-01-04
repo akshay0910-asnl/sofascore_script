@@ -1,0 +1,544 @@
+[
+  {
+    "scope": "total",
+    "metrics": {
+      "goalKicks": {
+        "scope": "total",
+        ">=11": {
+          "total": {
+            "hits": 15,
+            "totalMatches": 15,
+            "probability": 1
+          },
+          "home": {
+            "hits": 9,
+            "totalMatches": 9,
+            "probability": 1
+          },
+          "away": {
+            "hits": 6,
+            "totalMatches": 6,
+            "probability": 1
+          }
+        },
+        ">=12": {
+          "total": {
+            "hits": 15,
+            "totalMatches": 15,
+            "probability": 1
+          },
+          "home": {
+            "hits": 9,
+            "totalMatches": 9,
+            "probability": 1
+          },
+          "away": {
+            "hits": 6,
+            "totalMatches": 6,
+            "probability": 1
+          }
+        }
+      },
+      "saves": {
+        "scope": "total",
+        ">=6": {
+          "total": {
+            "hits": 12,
+            "totalMatches": 15,
+            "probability": 0.8
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        }
+      },
+      "corners": {
+        "scope": "total",
+        ">=8": {
+          "total": {
+            "hits": 14,
+            "totalMatches": 15,
+            "probability": 0.9333
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 6,
+            "totalMatches": 6,
+            "probability": 1
+          }
+        },
+        "<11": {
+          "total": {
+            "hits": 6,
+            "totalMatches": 15,
+            "probability": 0.4
+          },
+          "home": {
+            "hits": 3,
+            "totalMatches": 9,
+            "probability": 0.3333
+          },
+          "away": {
+            "hits": 3,
+            "totalMatches": 6,
+            "probability": 0.5
+          }
+        }
+      },
+      "fouls": {
+        "scope": "total",
+        ">=18": {
+          "total": {
+            "hits": 11,
+            "totalMatches": 15,
+            "probability": 0.7333
+          },
+          "home": {
+            "hits": 6,
+            "totalMatches": 9,
+            "probability": 0.6667
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        },
+        "<24": {
+          "total": {
+            "hits": 13,
+            "totalMatches": 15,
+            "probability": 0.8667
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        }
+      },
+      "throwIns": {
+        "scope": "total",
+        ">=30": {
+          "total": {
+            "hits": 11,
+            "totalMatches": 15,
+            "probability": 0.7333
+          },
+          "home": {
+            "hits": 7,
+            "totalMatches": 9,
+            "probability": 0.7778
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        },
+        ">=34": {
+          "total": {
+            "hits": 10,
+            "totalMatches": 15,
+            "probability": 0.6667
+          },
+          "home": {
+            "hits": 7,
+            "totalMatches": 9,
+            "probability": 0.7778
+          },
+          "away": {
+            "hits": 3,
+            "totalMatches": 6,
+            "probability": 0.5
+          }
+        }
+      },
+      "yellowCards": {
+        "scope": "total",
+        ">=3": {
+          "total": {
+            "hits": 10,
+            "totalMatches": 15,
+            "probability": 0.6667
+          },
+          "home": {
+            "hits": 5,
+            "totalMatches": 9,
+            "probability": 0.5556
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        },
+        ">=4": {
+          "total": {
+            "hits": 8,
+            "totalMatches": 15,
+            "probability": 0.5333
+          },
+          "home": {
+            "hits": 3,
+            "totalMatches": 9,
+            "probability": 0.3333
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        },
+        "<5": {
+          "total": {
+            "hits": 9,
+            "totalMatches": 15,
+            "probability": 0.6
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 1,
+            "totalMatches": 6,
+            "probability": 0.1667
+          }
+        }
+      },
+      "shotsOnTarget": {
+        "scope": "total",
+        ">=5": {
+          "total": {
+            "hits": 13,
+            "totalMatches": 15,
+            "probability": 0.8667
+          },
+          "home": {
+            "hits": 9,
+            "totalMatches": 9,
+            "probability": 1
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        },
+        ">=7": {
+          "total": {
+            "hits": 13,
+            "totalMatches": 15,
+            "probability": 0.8667
+          },
+          "home": {
+            "hits": 9,
+            "totalMatches": 9,
+            "probability": 1
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        }
+      }
+    }
+  },
+  {
+    "scope": "team",
+    "metrics": {
+      "goalKicks": {
+        "scope": "team",
+        ">=6": {
+          "total": {
+            "hits": 13,
+            "totalMatches": 15,
+            "probability": 0.8667
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        }
+      },
+      "saves": {
+        "scope": "team",
+        ">=3": {
+          "total": {
+            "hits": 11,
+            "totalMatches": 15,
+            "probability": 0.7333
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 3,
+            "totalMatches": 6,
+            "probability": 0.5
+          }
+        }
+      },
+      "yellowCards": {
+        "scope": "team",
+        ">=2": {
+          "total": {
+            "hits": 6,
+            "totalMatches": 15,
+            "probability": 0.4
+          },
+          "home": {
+            "hits": 1,
+            "totalMatches": 9,
+            "probability": 0.1111
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        }
+      },
+      "fouls": {
+        "scope": "team",
+        ">=8": {
+          "total": {
+            "hits": 12,
+            "totalMatches": 15,
+            "probability": 0.8
+          },
+          "home": {
+            "hits": 6,
+            "totalMatches": 9,
+            "probability": 0.6667
+          },
+          "away": {
+            "hits": 6,
+            "totalMatches": 6,
+            "probability": 1
+          }
+        },
+        ">=9": {
+          "total": {
+            "hits": 9,
+            "totalMatches": 15,
+            "probability": 0.6
+          },
+          "home": {
+            "hits": 5,
+            "totalMatches": 9,
+            "probability": 0.5556
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        },
+        ">=10": {
+          "total": {
+            "hits": 6,
+            "totalMatches": 15,
+            "probability": 0.4
+          },
+          "home": {
+            "hits": 2,
+            "totalMatches": 9,
+            "probability": 0.2222
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        }
+      },
+      "throwIns": {
+        "scope": "team",
+        ">=16": {
+          "total": {
+            "hits": 7,
+            "totalMatches": 15,
+            "probability": 0.4667
+          },
+          "home": {
+            "hits": 5,
+            "totalMatches": 9,
+            "probability": 0.5556
+          },
+          "away": {
+            "hits": 2,
+            "totalMatches": 6,
+            "probability": 0.3333
+          }
+        }
+      }
+    }
+  },
+  {
+    "scope": "opponent",
+    "metrics": {
+      "goalKicks": {
+        "scope": "opponent",
+        ">=6": {
+          "total": {
+            "hits": 12,
+            "totalMatches": 15,
+            "probability": 0.8
+          },
+          "home": {
+            "hits": 6,
+            "totalMatches": 9,
+            "probability": 0.6667
+          },
+          "away": {
+            "hits": 6,
+            "totalMatches": 6,
+            "probability": 1
+          }
+        }
+      },
+      "saves": {
+        "scope": "opponent",
+        ">=3": {
+          "total": {
+            "hits": 9,
+            "totalMatches": 15,
+            "probability": 0.6
+          },
+          "home": {
+            "hits": 6,
+            "totalMatches": 9,
+            "probability": 0.6667
+          },
+          "away": {
+            "hits": 3,
+            "totalMatches": 6,
+            "probability": 0.5
+          }
+        }
+      },
+      "yellowCards": {
+        "scope": "opponent",
+        ">=2": {
+          "total": {
+            "hits": 10,
+            "totalMatches": 15,
+            "probability": 0.6667
+          },
+          "home": {
+            "hits": 5,
+            "totalMatches": 9,
+            "probability": 0.5556
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        }
+      },
+      "fouls": {
+        "scope": "opponent",
+        ">=8": {
+          "total": {
+            "hits": 13,
+            "totalMatches": 15,
+            "probability": 0.8667
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        },
+        ">=9": {
+          "total": {
+            "hits": 13,
+            "totalMatches": 15,
+            "probability": 0.8667
+          },
+          "home": {
+            "hits": 8,
+            "totalMatches": 9,
+            "probability": 0.8889
+          },
+          "away": {
+            "hits": 5,
+            "totalMatches": 6,
+            "probability": 0.8333
+          }
+        },
+        ">=10": {
+          "total": {
+            "hits": 9,
+            "totalMatches": 15,
+            "probability": 0.6
+          },
+          "home": {
+            "hits": 6,
+            "totalMatches": 9,
+            "probability": 0.6667
+          },
+          "away": {
+            "hits": 3,
+            "totalMatches": 6,
+            "probability": 0.5
+          }
+        }
+      },
+      "throwIns": {
+        "scope": "opponent",
+        ">=16": {
+          "total": {
+            "hits": 11,
+            "totalMatches": 15,
+            "probability": 0.7333
+          },
+          "home": {
+            "hits": 7,
+            "totalMatches": 9,
+            "probability": 0.7778
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 6,
+            "probability": 0.6667
+          }
+        }
+      }
+    }
+  }
+]

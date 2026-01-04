@@ -10,6 +10,12 @@
             "request": "launch",
             "type": "node-terminal"
         },
+        {
+            "command": "npm run generate:analytics",
+            "name": "GenerateAnalytics",
+            "request": "launch",
+            "type": "node-terminal"
+        }
         // {
         //     "type": "node-terminal",
         //     "name": "Run Script: playwright:test",
