@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.55",
+        "fouls": "10.00",
+        "goalKicks": "9.73",
+        "saves": "3.00",
+        "offsides": "2.09",
+        "shotsOnTarget": "4.00/4.18",
+        "yellowCards": "2.64/2.00",
+        "goals": "1.18/1.18",
+        "throwIns": "23.36",
+        "ballPossession": 44.909090909091,
+        "tackles": "17.00/16.18",
+        "interceptions": "9.55/6.00",
+        "aerialDuels": "16.18",
+        "aerialDuelsAttempted": "32.91",
+        "dribbles": "7.73/7.55",
+        "dribblesAttempted": "15.36/17.82"
+    },
+    "teamSlug": "macarthur-fc",
+    "teamId": "371682",
+    "teamName": "Macarthur FC",
+    "tournament": "A-League Men",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-western-sydney-wanderers/BiEsHIYc#id:14671690,tab:statistics",
+            "teams": [
+                "Western Sydney",
+                "Macarthur"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "72926",
+                "371682"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-newcastle-jets/JibsHIYc#id:14671686,tab:statistics",
+            "teams": [
+                "Newcastle Jets",
+                "Macarthur"
+            ],
+            "goals": [
+                "4",
+                "5"
+            ],
+            "teamIds": [
+                "2934",
+                "371682"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-melbourne-city/kUqsHIYc#id:15018837,tab:statistics",
+            "teams": [
+                "Melbourne City",
+                "Macarthur"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "42210",
+                "371682"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-brisbane-roar/tucsHIYc#id:14671685,tab:statistics",
+            "teams": [
+                "Macarthur",
+                "Brisbane Roar"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "371682",
+                "5968"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-melbourne-victory/vucsHIYc#id:14671668,tab:statistics",
+            "teams": [
+                "Macarthur",
+                "Melbourne Victory"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "371682",
+                "5970"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-perth-glory/VibsHIYc#id:14671667,tab:statistics",
+            "teams": [
+                "Macarthur",
+                "Perth Glory"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "371682",
+                "2945"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-wellington-phoenix/tbdsHIYc#id:14671654,tab:statistics",
+            "teams": [
+                "Wellington",
+                "Macarthur"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "7568",
+                "371682"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macarthur-fc-western-sydney-wanderers/BiEsHIYc#id:14671650,tab:statistics",
+            "teams": [
+                "Macarthur",
+                "Western Sydney"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "371682",
+                "72926"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/6[A]",
+            "fouls": "15/12[A]",
+            "goalKicks": "12/4[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "25/12[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Macarthur,Western Sydney,Away",
+            "tackles": "13/21[A]",
+            "interceptions": "11/4[A]",
+            "aerialDuels": "23/20[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "16/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "9/14[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "3/1[A]",
+            "offsides": "7/1[A]",
+            "shotsOnTarget": "6/8[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "5/4[A]",
+            "throwIns": "24/22[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Macarthur,Newcastle Jets,Away",
+            "tackles": "29/14[A]",
+            "interceptions": "11/3[A]",
+            "aerialDuels": "13/14[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "11/10[A]",
+            "dribblesAttempted": "17/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/9[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "3/3[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "18/25[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Macarthur,Melbourne City,Away",
+            "tackles": "16/13[A]",
+            "interceptions": "6/3[A]",
+            "aerialDuels": "19/14[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "12/5[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/21[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Macarthur,Brisbane Roar,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "3/8[H]",
+            "aerialDuels": "7/9[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "14/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/9[H]",
+            "fouls": "5/15[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "22/34[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Macarthur,Melbourne Victory,Home",
+            "tackles": "22/29[H]",
+            "interceptions": "14/7[H]",
+            "aerialDuels": "22/36[H]",
+            "aerialDuelsAttempted": "58/58[H]",
+            "dribbles": "14/9[H]",
+            "dribblesAttempted": "29/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "28/29[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Macarthur,Perth Glory,Home",
+            "tackles": "24/24[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "18/21[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "11/9[H]",
+            "dribblesAttempted": "24/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/5[A]",
+            "fouls": "12/11[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "1/4[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "34/22[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Macarthur,Wellington,Away",
+            "tackles": "17/10[A]",
+            "interceptions": "11/4[A]",
+            "aerialDuels": "13/12[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "5/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/8[H]",
+            "fouls": "5/9[H]",
+            "goalKicks": "10/8[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/29[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Macarthur,Western Sydney,Home",
+            "tackles": "19/15[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "18/19[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "12/20[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-04T17:39:17.327Z",
+    "endTime": "2026-01-04T17:39:38.146Z",
+    "totalTimeSeconds": 20.82,
+    "combinedMatchStatistics": {
+        "corners": "6/6[A]+5/4[A]+5/9[A]+2/6[H]+12/9[H]+7/4[H]+8/5[A]+2/8[H]",
+        "fouls": "15/12[A]+9/14[A]+10/14[A]+14/16[H]+5/15[H]+8/14[H]+12/11[A]+5/9[H]",
+        "goalKicks": "12/4[A]+7/8[A]+9/5[A]+12/5[H]+10/6[H]+9/8[H]+10/6[A]+10/8[H]",
+        "saves": "3/3[A]+3/1[A]+3/3[A]+3/3[H]+1/3[H]+3/3[H]+1/4[A]+3/2[H]",
+        "offsides": "1/0[A]+7/1[A]+3/3[A]+1/2[H]+0/1[H]+3/0[H]+4/1[A]+1/0[H]",
+        "shotsOnTarget": "4/3[A]+6/8[A]+4/4[A]+5/3[H]+3/1[H]+3/5[H]+5/1[A]+3/4[H]",
+        "yellowCards": "2/1[A]+4/1[A]+3/1[A]+5/3[H]+2/1[H]+2/2[H]+0/2[A]+2/3[H]",
+        "goals": "1/0[A]+5/4[A]+1/1[A]+2/1[H]+0/0[H]+0/2[H]+1/0[A]+1/1[H]",
+        "throwIns": "25/12[A]+24/22[A]+18/25[A]+16/21[H]+22/34[H]+28/29[H]+34/22[A]+26/29[H]",
+        "averageBallPossession": "45/55[A]+37/63[A]+34/66[A]+42/58[H]+47/53[H]+58/42[H]+45/55[A]+43/57[H]",
+        "teams": "Macarthur,Western Sydney,Away+Macarthur,Newcastle Jets,Away+Macarthur,Melbourne City,Away+Macarthur,Brisbane Roar,Home+Macarthur,Melbourne Victory,Home+Macarthur,Perth Glory,Home+Macarthur,Wellington,Away+Macarthur,Western Sydney,Home",
+        "tackles": "13/21[A]+29/14[A]+16/13[A]+15/14[H]+22/29[H]+24/24[H]+17/10[A]+19/15[H]",
+        "interceptions": "11/4[A]+11/3[A]+6/3[A]+3/8[H]+14/7[H]+10/10[H]+11/4[A]+11/8[H]",
+        "aerialDuels": "23/20[A]+13/14[A]+19/14[A]+7/9[H]+22/36[H]+18/21[H]+13/12[A]+18/19[H]",
+        "aerialDuelsAttempted": "43/43[A]+27/27[A]+33/33[A]+16/16[H]+58/58[H]+39/39[H]+25/25[A]+37/37[H]",
+        "dribbles": "7/6[A]+11/10[A]+9/7[A]+8/9[H]+14/9[H]+11/9[H]+2/6[A]+4/6[H]",
+        "dribblesAttempted": "16/15[A]+17/27[A]+14/20[A]+14/17[H]+29/23[H]+24/23[H]+5/13[A]+12/20[H]",
+        "isHome": "false+false+false+true+true+true+false+true",
+        "cornersTotals": "47/51",
+        "cornersTotalsHome": "23/27",
+        "cornersTotalsAway": "24/24",
+        "cornersAverage": "5.88/6.38",
+        "cornersAverageHome": "5.75/6.75",
+        "cornersAverageAway": "6.00/6.00",
+        "foulsTotals": "78/105",
+        "foulsTotalsHome": "32/54",
+        "foulsTotalsAway": "46/51",
+        "foulsAverage": "9.75/13.13",
+        "foulsAverageHome": "8.00/13.50",
+        "foulsAverageAway": "11.50/12.75",
+        "goalKicksTotals": "79/50",
+        "goalKicksTotalsHome": "41/27",
+        "goalKicksTotalsAway": "38/23",
+        "goalKicksAverage": "9.88/6.25",
+        "goalKicksAverageHome": "10.25/6.75",
+        "goalKicksAverageAway": "9.50/5.75",
+        "savesTotals": "20/22",
+        "savesTotalsHome": "10/11",
+        "savesTotalsAway": "10/11",
+        "savesAverage": "2.50/2.75",
+        "savesAverageHome": "2.50/2.75",
+        "savesAverageAway": "2.50/2.75",
+        "offsidesTotals": "20/8",
+        "offsidesTotalsHome": "5/3",
+        "offsidesTotalsAway": "15/5",
+        "offsidesAverage": "2.50/1.00",
+        "offsidesAverageHome": "1.25/0.75",
+        "offsidesAverageAway": "3.75/1.25",
+        "shotsOnTargetTotals": "33/29",
+        "shotsOnTargetTotalsHome": "14/13",
+        "shotsOnTargetTotalsAway": "19/16",
+        "shotsOnTargetAverage": "4.13/3.63",
+        "shotsOnTargetAverageHome": "3.50/3.25",
+        "shotsOnTargetAverageAway": "4.75/4.00",
+        "yellowCardsTotals": "20/14",
+        "yellowCardsTotalsHome": "11/9",
+        "yellowCardsTotalsAway": "9/5",
+        "yellowCardsAverage": "2.50/1.75",
+        "yellowCardsAverageHome": "2.75/2.25",
+        "yellowCardsAverageAway": "2.25/1.25",
+        "goalsTotals": "11/9",
+        "goalsTotalsHome": "3/4",
+        "goalsTotalsAway": "8/5",
+        "goalsAverage": "1.38/1.13",
+        "goalsAverageHome": "0.75/1.00",
+        "goalsAverageAway": "2.00/1.25",
+        "throwInsTotals": "193/194",
+        "throwInsTotalsHome": "92/113",
+        "throwInsTotalsAway": "101/81",
+        "throwInsAverage": "24.13/24.25",
+        "throwInsAverageHome": "23.00/28.25",
+        "throwInsAverageAway": "25.25/20.25",
+        "averageBallPossessionTotals": "351/449",
+        "averageBallPossessionTotalsHome": "190/210",
+        "averageBallPossessionTotalsAway": "161/239",
+        "averageBallPossessionAverage": "43.88/56.13",
+        "averageBallPossessionAverageHome": "47.50/52.50",
+        "averageBallPossessionAverageAway": "40.25/59.75",
+        "tacklesTotals": "155/140",
+        "tacklesTotalsHome": "80/82",
+        "tacklesTotalsAway": "75/58",
+        "tacklesAverage": "19.38/17.50",
+        "tacklesAverageHome": "20.00/20.50",
+        "tacklesAverageAway": "18.75/14.50",
+        "interceptionsTotals": "77/47",
+        "interceptionsTotalsHome": "38/33",
+        "interceptionsTotalsAway": "39/14",
+        "interceptionsAverage": "9.63/5.88",
+        "interceptionsAverageHome": "9.50/8.25",
+        "interceptionsAverageAway": "9.75/3.50",
+        "aerialDuelsTotals": "133/145",
+        "aerialDuelsTotalsHome": "65/85",
+        "aerialDuelsTotalsAway": "68/60",
+        "aerialDuelsAverage": "16.63/18.13",
+        "aerialDuelsAverageHome": "16.25/21.25",
+        "aerialDuelsAverageAway": "17.00/15.00",
+        "aerialDuelsAttemptedTotals": "278/278",
+        "aerialDuelsAttemptedTotalsHome": "150/150",
+        "aerialDuelsAttemptedTotalsAway": "128/128",
+        "aerialDuelsAttemptedAverage": "34.75/34.75",
+        "aerialDuelsAttemptedAverageHome": "37.50/37.50",
+        "aerialDuelsAttemptedAverageAway": "32.00/32.00",
+        "dribblesTotals": "66/62",
+        "dribblesTotalsHome": "37/33",
+        "dribblesTotalsAway": "29/29",
+        "dribblesAverage": "8.25/7.75",
+        "dribblesAverageHome": "9.25/8.25",
+        "dribblesAverageAway": "7.25/7.25",
+        "dribblesAttemptedTotals": "131/158",
+        "dribblesAttemptedTotalsHome": "79/83",
+        "dribblesAttemptedTotalsAway": "52/75",
+        "dribblesAttemptedAverage": "16.38/19.75",
+        "dribblesAttemptedAverageHome": "19.75/20.75",
+        "dribblesAttemptedAverageAway": "13.00/18.75"
+    }
+}

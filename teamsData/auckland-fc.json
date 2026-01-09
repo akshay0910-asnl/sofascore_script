@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.00",
+        "fouls": "11.60",
+        "goalKicks": "7.80",
+        "saves": "2.60",
+        "offsides": "1.50",
+        "shotsOnTarget": "6.00/3.30",
+        "yellowCards": "1.60/1.50",
+        "goals": "1.50/1.00",
+        "throwIns": "23.80",
+        "ballPossession": 51.3,
+        "tackles": "16.70/17.60",
+        "interceptions": "9.60/8.30",
+        "aerialDuels": "21.80",
+        "aerialDuelsAttempted": "37.80",
+        "dribbles": "7.00/7.70",
+        "dribblesAttempted": "14.90/15.50"
+    },
+    "teamSlug": "auckland-fc",
+    "teamId": "800224",
+    "teamName": "Auckland FC",
+    "tournament": "A-League Men",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-newcastle-jets/Jibszevg#id:14671692,tab:statistics",
+            "teams": [
+                "Auckland FC",
+                "Newcastle Jets"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "800224",
+                "2934"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-western-sydney-wanderers/BiEszevg#id:14671679,tab:statistics",
+            "teams": [
+                "Western Sydney",
+                "Auckland FC"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "72926",
+                "800224"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-central-coast-mariners/qucszevg#id:14671677,tab:statistics",
+            "teams": [
+                "Central Coast",
+                "Auckland FC"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "5966",
+                "800224"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-wellington-phoenix/tbdszevg#id:14671670,tab:statistics",
+            "teams": [
+                "Auckland FC",
+                "Wellington"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "800224",
+                "7568"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-newcastle-jets/Jibszevg#id:14671666,tab:statistics",
+            "teams": [
+                "Auckland FC",
+                "Newcastle Jets"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "800224",
+                "2934"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-brisbane-roar/tucszevg#id:14671651,tab:statistics",
+            "teams": [
+                "Auckland FC",
+                "Brisbane Roar"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "800224",
+                "5968"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-wellington-phoenix/tbdszevg#id:14671635,tab:statistics",
+            "teams": [
+                "Wellington",
+                "Auckland FCx2"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "7568",
+                "800224"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/auckland-fc-melbourne-victory/vucszevg#id:14671655,tab:statistics",
+            "teams": [
+                "Melbourne Victory",
+                "Auckland FC"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "5970",
+                "800224"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "10/1[H]",
+            "fouls": "16/10[H]",
+            "goalKicks": "5/16[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "1/6[H]",
+            "goals": "1/3[H]",
+            "throwIns": "28/14[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Auckland FC,Newcastle Jets,Home",
+            "tackles": "19/17[H]",
+            "interceptions": "2/9[H]",
+            "aerialDuels": "26/23[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "17/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "10/8[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "7/3[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "17/24[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Auckland FC,Western Sydney,Away",
+            "tackles": "23/18[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "17/10[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "17/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "7/8[A]",
+            "goalKicks": "2/14[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "20/22[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Auckland FC,Central Coast,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "17/18[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "18/14[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "1/10[H]",
+            "offsides": "4/5[H]",
+            "shotsOnTarget": "13/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "21/16[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Auckland FC,Wellington,Home",
+            "tackles": "16/18[H]",
+            "interceptions": "4/9[H]",
+            "aerialDuels": "27/16[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "15/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "11/14[H]",
+            "saves": "4/4[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "20/19[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Auckland FC,Newcastle Jets,Home",
+            "tackles": "13/20[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "25/13[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "9/10[H]",
+            "dribblesAttempted": "18/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "20/15[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/20[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Auckland FC,Brisbane Roar,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "16/13[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "4/12[H]",
+            "dribblesAttempted": "10/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/13[A]",
+            "fouls": "12/11[A]",
+            "goalKicks": "15/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "26/20[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Auckland FCx2,Wellington,Away",
+            "tackles": "17/10[A]",
+            "interceptions": "13/9[A]",
+            "aerialDuels": "28/20[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "12/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/0[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "35/30[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Auckland FC,Melbourne Victory,Away",
+            "tackles": "22/18[A]",
+            "interceptions": "13/15[A]",
+            "aerialDuels": "30/15[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "2/3[A]",
+            "dribblesAttempted": "13/10[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-04T17:39:39.693Z",
+    "endTime": "2026-01-04T17:40:01.731Z",
+    "totalTimeSeconds": 22.04,
+    "combinedMatchStatistics": {
+        "corners": "10/1[H]+5/6[A]+3/5[A]+6/3[H]+8/1[H]+5/6[H]+0/13[A]+2/0[A]",
+        "fouls": "16/10[H]+10/8[A]+7/8[A]+18/14[H]+9/12[H]+20/15[H]+12/11[A]+12/15[A]",
+        "goalKicks": "5/16[H]+8/5[A]+2/14[A]+7/11[H]+11/14[H]+9/11[H]+15/6[A]+8/6[A]",
+        "saves": "1/4[H]+7/3[A]+2/4[A]+1/10[H]+4/4[H]+3/1[H]+2/2[A]+2/4[A]",
+        "offsides": "2/0[H]+0/4[A]+1/3[A]+4/5[H]+3/2[H]+1/2[H]+1/0[A]+2/1[A]",
+        "shotsOnTarget": "8/4[H]+5/6[A]+6/2[A]+13/2[H]+4/6[H]+2/4[H]+5/3[A]+4/2[A]",
+        "yellowCards": "1/6[H]+3/1[A]+0/1[A]+2/3[H]+2/1[H]+1/1[H]+1/1[A]+3/0[A]",
+        "goals": "1/3[H]+2/0[A]+2/1[A]+3/1[H]+1/2[H]+1/1[H]+2/1[A]+0/0[A]",
+        "throwIns": "28/14[H]+17/24[A]+20/22[A]+21/16[H]+20/19[H]+26/20[H]+26/20[A]+35/30[A]",
+        "averageBallPossession": "71/29[H]+55/45[A]+53/47[A]+49/51[H]+54/46[H]+43/57[H]+40/60[A]+52/48[A]",
+        "teams": "Auckland FC,Newcastle Jets,Home+Auckland FC,Western Sydney,Away+Auckland FC,Central Coast,Away+Auckland FC,Wellington,Home+Auckland FC,Newcastle Jets,Home+Auckland FC,Brisbane Roar,Home+Auckland FCx2,Wellington,Away+Auckland FC,Melbourne Victory,Away",
+        "tackles": "19/17[H]+23/18[A]+14/14[A]+16/18[H]+13/20[H]+17/12[H]+17/10[A]+22/18[A]",
+        "interceptions": "2/9[H]+12/5[A]+7/7[A]+4/9[H]+10/9[H]+7/8[H]+13/9[A]+13/15[A]",
+        "aerialDuels": "26/23[H]+17/10[A]+17/18[A]+27/16[H]+25/13[H]+16/13[H]+28/20[A]+30/15[A]",
+        "aerialDuelsAttempted": "49/49[H]+27/27[A]+35/35[A]+43/43[H]+38/38[H]+29/29[H]+48/48[A]+45/45[A]",
+        "dribbles": "10/9[H]+7/5[A]+6/7[A]+7/7[H]+9/10[H]+4/12[H]+6/3[A]+2/3[A]",
+        "dribblesAttempted": "17/19[H]+17/12[A]+10/13[A]+15/16[H]+18/13[H]+10/19[H]+12/12[A]+13/10[A]",
+        "isHome": "true+false+false+true+true+true+false+false",
+        "cornersTotals": "39/35",
+        "cornersTotalsHome": "29/11",
+        "cornersTotalsAway": "10/24",
+        "cornersAverage": "4.88/4.38",
+        "cornersAverageHome": "7.25/2.75",
+        "cornersAverageAway": "2.50/6.00",
+        "foulsTotals": "104/93",
+        "foulsTotalsHome": "63/51",
+        "foulsTotalsAway": "41/42",
+        "foulsAverage": "13.00/11.63",
+        "foulsAverageHome": "15.75/12.75",
+        "foulsAverageAway": "10.25/10.50",
+        "goalKicksTotals": "65/83",
+        "goalKicksTotalsHome": "32/52",
+        "goalKicksTotalsAway": "33/31",
+        "goalKicksAverage": "8.13/10.38",
+        "goalKicksAverageHome": "8.00/13.00",
+        "goalKicksAverageAway": "8.25/7.75",
+        "savesTotals": "22/32",
+        "savesTotalsHome": "9/19",
+        "savesTotalsAway": "13/13",
+        "savesAverage": "2.75/4.00",
+        "savesAverageHome": "2.25/4.75",
+        "savesAverageAway": "3.25/3.25",
+        "offsidesTotals": "14/17",
+        "offsidesTotalsHome": "10/9",
+        "offsidesTotalsAway": "4/8",
+        "offsidesAverage": "1.75/2.13",
+        "offsidesAverageHome": "2.50/2.25",
+        "offsidesAverageAway": "1.00/2.00",
+        "shotsOnTargetTotals": "47/29",
+        "shotsOnTargetTotalsHome": "27/16",
+        "shotsOnTargetTotalsAway": "20/13",
+        "shotsOnTargetAverage": "5.88/3.63",
+        "shotsOnTargetAverageHome": "6.75/4.00",
+        "shotsOnTargetAverageAway": "5.00/3.25",
+        "yellowCardsTotals": "13/14",
+        "yellowCardsTotalsHome": "6/11",
+        "yellowCardsTotalsAway": "7/3",
+        "yellowCardsAverage": "1.63/1.75",
+        "yellowCardsAverageHome": "1.50/2.75",
+        "yellowCardsAverageAway": "1.75/0.75",
+        "goalsTotals": "12/9",
+        "goalsTotalsHome": "6/7",
+        "goalsTotalsAway": "6/2",
+        "goalsAverage": "1.50/1.13",
+        "goalsAverageHome": "1.50/1.75",
+        "goalsAverageAway": "1.50/0.50",
+        "throwInsTotals": "193/165",
+        "throwInsTotalsHome": "95/69",
+        "throwInsTotalsAway": "98/96",
+        "throwInsAverage": "24.13/20.63",
+        "throwInsAverageHome": "23.75/17.25",
+        "throwInsAverageAway": "24.50/24.00",
+        "averageBallPossessionTotals": "417/383",
+        "averageBallPossessionTotalsHome": "217/183",
+        "averageBallPossessionTotalsAway": "200/200",
+        "averageBallPossessionAverage": "52.13/47.88",
+        "averageBallPossessionAverageHome": "54.25/45.75",
+        "averageBallPossessionAverageAway": "50.00/50.00",
+        "tacklesTotals": "141/127",
+        "tacklesTotalsHome": "65/67",
+        "tacklesTotalsAway": "76/60",
+        "tacklesAverage": "17.63/15.88",
+        "tacklesAverageHome": "16.25/16.75",
+        "tacklesAverageAway": "19.00/15.00",
+        "interceptionsTotals": "68/71",
+        "interceptionsTotalsHome": "23/35",
+        "interceptionsTotalsAway": "45/36",
+        "interceptionsAverage": "8.50/8.88",
+        "interceptionsAverageHome": "5.75/8.75",
+        "interceptionsAverageAway": "11.25/9.00",
+        "aerialDuelsTotals": "186/128",
+        "aerialDuelsTotalsHome": "94/65",
+        "aerialDuelsTotalsAway": "92/63",
+        "aerialDuelsAverage": "23.25/16.00",
+        "aerialDuelsAverageHome": "23.50/16.25",
+        "aerialDuelsAverageAway": "23.00/15.75",
+        "aerialDuelsAttemptedTotals": "314/314",
+        "aerialDuelsAttemptedTotalsHome": "159/159",
+        "aerialDuelsAttemptedTotalsAway": "155/155",
+        "aerialDuelsAttemptedAverage": "39.25/39.25",
+        "aerialDuelsAttemptedAverageHome": "39.75/39.75",
+        "aerialDuelsAttemptedAverageAway": "38.75/38.75",
+        "dribblesTotals": "51/56",
+        "dribblesTotalsHome": "30/38",
+        "dribblesTotalsAway": "21/18",
+        "dribblesAverage": "6.38/7.00",
+        "dribblesAverageHome": "7.50/9.50",
+        "dribblesAverageAway": "5.25/4.50",
+        "dribblesAttemptedTotals": "112/114",
+        "dribblesAttemptedTotalsHome": "60/67",
+        "dribblesAttemptedTotalsAway": "52/47",
+        "dribblesAttemptedAverage": "14.00/14.25",
+        "dribblesAttemptedAverageHome": "15.00/16.75",
+        "dribblesAttemptedAverageAway": "13.00/11.75"
+    }
+}
