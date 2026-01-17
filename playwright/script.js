@@ -27,7 +27,7 @@ const CONFIG = {
 		tournamentHeader: 'div.d_flex.ai_center',
 		ftIndicator: 'div[title="FT"]',
 		liveScoreDiv: 'div[title*="live score"]',
-		scoreBox: '.score-box',
+		scoreBox: '.ta_end.score',
 		jsonLdScript: 'script[type="application/ld+json"]',
 		teamImg: `img`
 
@@ -532,7 +532,7 @@ async function extractMatchScore(linkElement, index, teamId) {
 		console.log(`⚽ Match ${index}: ${teams.join(' vs ')} - Score: ${scores.join('-')}`);
 
 		//ßresult = { ...result, matchLinks: [...result.matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, isHome }] }
-		cache = { ...cache, [teamId]: { ...cache[teamId], matchLinks: [...cache[teamId].matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores, teamIds, isHome }] } }
+		cache = { ...cache, [teamId]: { ...cache[teamId], matchLinks: [...cache[teamId].matchLinks, { href: `https://www.sofascore.com${href},tab:statistics`, teams, goals: scores.filter((el, index) => index %2 === 0), teamIds, isHome }] } }
 
 	} catch (err) {
 		console.error(`✗ Error extracting match score:`, err.message);

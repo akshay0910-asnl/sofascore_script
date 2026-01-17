@@ -28,7 +28,10 @@
                 "Real Sociedad",
                 "Atl. Madrid"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "1"
+            ],
             "teamIds": [
                 "2824",
                 "2836"
@@ -41,7 +44,10 @@
                 "Levante",
                 "Real Sociedad"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "1"
+            ],
             "teamIds": [
                 "2849",
                 "2824"
@@ -54,7 +60,10 @@
                 "Real Sociedad",
                 "Girona"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "2"
+            ],
             "teamIds": [
                 "2824",
                 "24264"
@@ -67,7 +76,10 @@
                 "Alavés",
                 "Real Sociedad"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "0"
+            ],
             "teamIds": [
                 "2885",
                 "2824"
@@ -80,7 +92,10 @@
                 "Real Sociedad",
                 "Villarreal"
             ],
-            "goals": [],
+            "goals": [
+                "2",
+                "3"
+            ],
             "teamIds": [
                 "2824",
                 "2819"
@@ -93,7 +108,10 @@
                 "Osasuna",
                 "Real Sociedad"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "3"
+            ],
             "teamIds": [
                 "2820",
                 "2824"
@@ -106,7 +124,10 @@
                 "Elche",
                 "Real Sociedad"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "1"
+            ],
             "teamIds": [
                 "2846",
                 "2824"
@@ -119,7 +140,10 @@
                 "Real Sociedad",
                 "Athletic Club"
             ],
-            "goals": [],
+            "goals": [
+                "3",
+                "2"
+            ],
             "teamIds": [
                 "2824",
                 "2825"
@@ -138,7 +162,7 @@
             "offsides": "3/2[H]",
             "shotsOnTarget": "8/2[H]",
             "yellowCards": "3/2[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "1/1[H]",
             "throwIns": "17/18[H]",
             "averageBallPossession": "45/55[H]",
             "teams": "Real Sociedad,Atl. Madrid,Home",
@@ -158,7 +182,7 @@
             "offsides": "3/3[A]",
             "shotsOnTarget": "6/3[A]",
             "yellowCards": "2/6[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "1/1[A]",
             "throwIns": "18/14[A]",
             "averageBallPossession": "56/44[A]",
             "teams": "Real Sociedad,Levante,Away",
@@ -178,7 +202,7 @@
             "offsides": "2/4[H]",
             "shotsOnTarget": "4/3[H]",
             "yellowCards": "1/2[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "1/2[H]",
             "throwIns": "14/15[H]",
             "averageBallPossession": "47/53[H]",
             "teams": "Real Sociedad,Girona,Home",
@@ -198,7 +222,7 @@
             "offsides": "0/1[A]",
             "shotsOnTarget": "1/3[A]",
             "yellowCards": "2/2[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "0/1[A]",
             "throwIns": "15/17[A]",
             "averageBallPossession": "62/38[A]",
             "teams": "Real Sociedad,Alavés,Away",
@@ -218,7 +242,7 @@
             "offsides": "1/0[H]",
             "shotsOnTarget": "7/5[H]",
             "yellowCards": "4/8[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "2/3[H]",
             "throwIns": "28/17[H]",
             "averageBallPossession": "60/40[H]",
             "teams": "Real Sociedad,Villarreal,Home",
@@ -238,7 +262,7 @@
             "offsides": "3/1[A]",
             "shotsOnTarget": "9/4[A]",
             "yellowCards": "2/3[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "3/1[A]",
             "throwIns": "14/31[A]",
             "averageBallPossession": "54/46[A]",
             "teams": "Real Sociedad,Osasuna,Away",
@@ -258,7 +282,7 @@
             "offsides": "2/1[A]",
             "shotsOnTarget": "5/3[A]",
             "yellowCards": "3/1[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "1/1[A]",
             "throwIns": "16/16[A]",
             "averageBallPossession": "37/63[A]",
             "teams": "Real Sociedad,Elche,Away",
@@ -278,7 +302,7 @@
             "offsides": "3/1[H]",
             "shotsOnTarget": "5/4[H]",
             "yellowCards": "2/3[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "3/2[H]",
             "throwIns": "32/26[H]",
             "averageBallPossession": "51/49[H]",
             "teams": "Real Sociedad,Athletic Club,Home",
@@ -292,9 +316,9 @@
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-09T19:07:39.923Z",
-    "endTime": "2026-01-09T19:08:20.074Z",
-    "totalTimeSeconds": 40.15,
+    "startTime": "2026-01-09T19:39:11.605Z",
+    "endTime": "2026-01-09T19:39:53.783Z",
+    "totalTimeSeconds": 42.18,
     "combinedMatchStatistics": {
         "corners": "6/6[H]+10/7[A]+4/3[H]+8/5[A]+8/2[H]+3/3[A]+3/1[A]+6/2[H]",
         "fouls": "11/13[H]+13/16[A]+20/5[H]+16/20[A]+15/18[H]+7/13[A]+15/14[A]+20/8[H]",
@@ -303,7 +327,7 @@
         "offsides": "3/2[H]+3/3[A]+2/4[H]+0/1[A]+1/0[H]+3/1[A]+2/1[A]+3/1[H]",
         "shotsOnTarget": "8/2[H]+6/3[A]+4/3[H]+1/3[A]+7/5[H]+9/4[A]+5/3[A]+5/4[H]",
         "yellowCards": "3/2[H]+2/6[A]+1/2[H]+2/2[A]+4/8[H]+2/3[A]+3/1[A]+2/3[H]",
-        "goals": "undefined/undefined[H]+undefined/undefined[A]+undefined/undefined[H]+undefined/undefined[A]+undefined/undefined[H]+undefined/undefined[A]+undefined/undefined[A]+undefined/undefined[H]",
+        "goals": "1/1[H]+1/1[A]+1/2[H]+0/1[A]+2/3[H]+3/1[A]+1/1[A]+3/2[H]",
         "throwIns": "17/18[H]+18/14[A]+14/15[H]+15/17[A]+28/17[H]+14/31[A]+16/16[A]+32/26[H]",
         "averageBallPossession": "45/55[H]+56/44[A]+47/53[H]+62/38[A]+60/40[H]+54/46[A]+37/63[A]+51/49[H]",
         "teams": "Real Sociedad,Atl. Madrid,Home+Real Sociedad,Levante,Away+Real Sociedad,Girona,Home+Real Sociedad,Alavés,Away+Real Sociedad,Villarreal,Home+Real Sociedad,Osasuna,Away+Real Sociedad,Elche,Away+Real Sociedad,Athletic Club,Home",
@@ -356,12 +380,12 @@
         "yellowCardsAverage": "2.38/3.38",
         "yellowCardsAverageHome": "2.50/3.75",
         "yellowCardsAverageAway": "2.25/3.00",
-        "goalsTotals": "NaN/NaN",
-        "goalsTotalsHome": "NaN/NaN",
-        "goalsTotalsAway": "NaN/NaN",
-        "goalsAverage": "NaN/NaN",
-        "goalsAverageHome": "NaN/NaN",
-        "goalsAverageAway": "NaN/NaN",
+        "goalsTotals": "12/12",
+        "goalsTotalsHome": "7/8",
+        "goalsTotalsAway": "5/4",
+        "goalsAverage": "1.50/1.50",
+        "goalsAverageHome": "1.75/2.00",
+        "goalsAverageAway": "1.25/1.00",
         "throwInsTotals": "154/154",
         "throwInsTotalsHome": "91/76",
         "throwInsTotalsAway": "63/78",

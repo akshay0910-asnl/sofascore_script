@@ -28,7 +28,10 @@
                 "Dortmund",
                 "M'gladbach"
             ],
-            "goals": [],
+            "goals": [
+                "2",
+                "0"
+            ],
             "teamIds": [
                 "2673",
                 "2527"
@@ -41,7 +44,10 @@
                 "Freiburg",
                 "Dortmund"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "1"
+            ],
             "teamIds": [
                 "2538",
                 "2673"
@@ -54,7 +60,10 @@
                 "Dortmund",
                 "Hoffenheim"
             ],
-            "goals": [],
+            "goals": [
+                "2",
+                "0"
+            ],
             "teamIds": [
                 "2673",
                 "2569"
@@ -67,7 +76,10 @@
                 "Leverkusen",
                 "Dortmund"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "2"
+            ],
             "teamIds": [
                 "2681",
                 "2673"
@@ -80,7 +92,10 @@
                 "Dortmund",
                 "Stuttgart"
             ],
-            "goals": [],
+            "goals": [
+                "3",
+                "3"
+            ],
             "teamIds": [
                 "2673",
                 "2677"
@@ -93,7 +108,10 @@
                 "HSV",
                 "Dortmund"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "1"
+            ],
             "teamIds": [
                 "2676",
                 "2673"
@@ -106,7 +124,10 @@
                 "Augsburg",
                 "Dortmund"
             ],
-            "goals": [],
+            "goals": [
+                "0",
+                "1"
+            ],
             "teamIds": [
                 "2600",
                 "2673"
@@ -119,7 +140,10 @@
                 "Dortmund",
                 "Köln"
             ],
-            "goals": [],
+            "goals": [
+                "1",
+                "0"
+            ],
             "teamIds": [
                 "2673",
                 "2671"
@@ -138,7 +162,7 @@
             "offsides": "2/1[H]",
             "shotsOnTarget": "4/1[H]",
             "yellowCards": "2/1[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "2/0[H]",
             "throwIns": "12/15[H]",
             "averageBallPossession": "57/43[H]",
             "teams": "Dortmund,M'gladbach,Home",
@@ -158,7 +182,7 @@
             "offsides": "0/5[A]",
             "shotsOnTarget": "4/6[A]",
             "yellowCards": "2/3[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "1/1[A]",
             "throwIns": "25/15[A]",
             "averageBallPossession": "43/57[A]",
             "teams": "Dortmund,Freiburg,Away",
@@ -178,7 +202,7 @@
             "offsides": "0/1[H]",
             "shotsOnTarget": "4/3[H]",
             "yellowCards": "0/2[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "2/0[H]",
             "throwIns": "20/26[H]",
             "averageBallPossession": "43/57[H]",
             "teams": "Dortmund,Hoffenheim,Home",
@@ -198,7 +222,7 @@
             "offsides": "1/3[A]",
             "shotsOnTarget": "4/4[A]",
             "yellowCards": "4/3[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "2/1[A]",
             "throwIns": "15/18[A]",
             "averageBallPossession": "37/63[A]",
             "teams": "Dortmund,Leverkusen,Away",
@@ -218,7 +242,7 @@
             "offsides": "3/1[H]",
             "shotsOnTarget": "6/6[H]",
             "yellowCards": "1/1[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "3/3[H]",
             "throwIns": "9/21[H]",
             "averageBallPossession": "46/54[H]",
             "teams": "Dortmund,Stuttgart,Home",
@@ -238,7 +262,7 @@
             "offsides": "0/3[A]",
             "shotsOnTarget": "1/3[A]",
             "yellowCards": "1/1[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "1/1[A]",
             "throwIns": "18/22[A]",
             "averageBallPossession": "55/45[A]",
             "teams": "Dortmund,HSV,Away",
@@ -258,7 +282,7 @@
             "offsides": "0/1[A]",
             "shotsOnTarget": "1/1[A]",
             "yellowCards": "1/4[A]",
-            "goals": "undefined/undefined[A]",
+            "goals": "1/0[A]",
             "throwIns": "18/28[A]",
             "averageBallPossession": "53/47[A]",
             "teams": "Dortmund,Augsburg,Away",
@@ -278,7 +302,7 @@
             "offsides": "0/2[H]",
             "shotsOnTarget": "9/0[H]",
             "yellowCards": "2/2[H]",
-            "goals": "undefined/undefined[H]",
+            "goals": "1/0[H]",
             "throwIns": "23/20[H]",
             "averageBallPossession": "70/30[H]",
             "teams": "Dortmund,Köln,Home",
@@ -292,9 +316,9 @@
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-09T19:06:02.560Z",
-    "endTime": "2026-01-09T19:06:49.399Z",
-    "totalTimeSeconds": 46.84,
+    "startTime": "2026-01-09T19:37:31.757Z",
+    "endTime": "2026-01-09T19:38:21.009Z",
+    "totalTimeSeconds": 49.25,
     "combinedMatchStatistics": {
         "corners": "6/4[H]+0/6[A]+7/5[H]+3/10[A]+2/4[H]+6/2[A]+3/4[A]+17/2[H]",
         "fouls": "15/13[H]+10/11[A]+7/9[H]+9/7[A]+12/10[H]+8/14[A]+16/14[A]+10/8[H]",
@@ -303,7 +327,7 @@
         "offsides": "2/1[H]+0/5[A]+0/1[H]+1/3[A]+3/1[H]+0/3[A]+0/1[A]+0/2[H]",
         "shotsOnTarget": "4/1[H]+4/6[A]+4/3[H]+4/4[A]+6/6[H]+1/3[A]+1/1[A]+9/0[H]",
         "yellowCards": "2/1[H]+2/3[A]+0/2[H]+4/3[A]+1/1[H]+1/1[A]+1/4[A]+2/2[H]",
-        "goals": "undefined/undefined[H]+undefined/undefined[A]+undefined/undefined[H]+undefined/undefined[A]+undefined/undefined[H]+undefined/undefined[A]+undefined/undefined[A]+undefined/undefined[H]",
+        "goals": "2/0[H]+1/1[A]+2/0[H]+2/1[A]+3/3[H]+1/1[A]+1/0[A]+1/0[H]",
         "throwIns": "12/15[H]+25/15[A]+20/26[H]+15/18[A]+9/21[H]+18/22[A]+18/28[A]+23/20[H]",
         "averageBallPossession": "57/43[H]+43/57[A]+43/57[H]+37/63[A]+46/54[H]+55/45[A]+53/47[A]+70/30[H]",
         "teams": "Dortmund,M'gladbach,Home+Dortmund,Freiburg,Away+Dortmund,Hoffenheim,Home+Dortmund,Leverkusen,Away+Dortmund,Stuttgart,Home+Dortmund,HSV,Away+Dortmund,Augsburg,Away+Dortmund,Köln,Home",
@@ -356,12 +380,12 @@
         "yellowCardsAverage": "1.63/2.13",
         "yellowCardsAverageHome": "1.25/1.50",
         "yellowCardsAverageAway": "2.00/2.75",
-        "goalsTotals": "NaN/NaN",
-        "goalsTotalsHome": "NaN/NaN",
-        "goalsTotalsAway": "NaN/NaN",
-        "goalsAverage": "NaN/NaN",
-        "goalsAverageHome": "NaN/NaN",
-        "goalsAverageAway": "NaN/NaN",
+        "goalsTotals": "13/6",
+        "goalsTotalsHome": "8/3",
+        "goalsTotalsAway": "5/3",
+        "goalsAverage": "1.63/0.75",
+        "goalsAverageHome": "2.00/0.75",
+        "goalsAverageAway": "1.25/0.75",
         "throwInsTotals": "140/165",
         "throwInsTotalsHome": "64/82",
         "throwInsTotalsAway": "76/83",
