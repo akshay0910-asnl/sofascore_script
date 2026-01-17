@@ -316,9 +316,19 @@
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-03T07:39:09.411Z",
-    "endTime": "2026-01-03T07:39:32.761Z",
-    "totalTimeSeconds": 23.35,
+    "startTime": "2026-01-17T13:38:10.699Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/sheffield-united-portsmouth/csp#id:14059652,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 1012287,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-17T13:39:07.348Z",
+    "totalTimeSeconds": 56.65,
     "combinedMatchStatistics": {
         "corners": "1/1[A]+5/11[H]+9/3[H]+4/6[A]+7/6[H]+6/5[A]+4/4[H]+2/7[A]",
         "fouls": "14/6[A]+11/16[H]+9/14[H]+4/7[A]+9/14[H]+9/6[A]+11/12[H]+10/7[A]",
