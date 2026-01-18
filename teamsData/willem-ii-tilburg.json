@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.57",
+        "fouls": "11.14",
+        "goalKicks": "8.33",
+        "saves": "4.71",
+        "offsides": "1.52",
+        "shotsOnTarget": "4.81/6.14",
+        "yellowCards": "1.62/1.43",
+        "goals": "1.29/1.43",
+        "throwIns": "19.00",
+        "ballPossession": 48.857142857143,
+        "tackles": "14.52/13.00",
+        "interceptions": "8.95/8.33",
+        "aerialDuels": "16.57",
+        "aerialDuelsAttempted": "31.10",
+        "dribbles": "5.81/6.48",
+        "dribblesAttempted": "12.48/14.00"
+    },
+    "teamSlug": "willem-ii-tilburg",
+    "teamId": "2961",
+    "teamName": "Willem II Tilburg",
+    "tournament": "Eerste Divisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/helmond-sport-willem-ii-tilburg/ljbszjb#id:14056358,tab:statistics",
+            "teams": [
+                "Helmond Sport",
+                "Willem II"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2974",
+                "2961"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-cambuur-willem-ii-tilburg/ljbsvjb#id:14056690,tab:statistics",
+            "teams": [
+                "Willem II",
+                "Cambuur"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2961",
+                "2970"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-dordrecht-willem-ii-tilburg/ljbsyjb#id:14056662,tab:statistics",
+            "teams": [
+                "Willem II",
+                "Dordrecht"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2961",
+                "2973"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-den-bosch-willem-ii-tilburg/ljbsnjb#id:14056627,tab:statistics",
+            "teams": [
+                "Den Bosch",
+                "Willem II"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2963",
+                "2961"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vvv-venlo-willem-ii-tilburg/ljbsFjb#id:14056597,tab:statistics",
+            "teams": [
+                "VVV-Venlo",
+                "Willem II"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2980",
+                "2961"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-emmen-willem-ii-tilburg/ljbspjb#id:14056571,tab:statistics",
+            "teams": [
+                "Willem II",
+                "Emmen"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2961",
+                "2965"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/top-oss-willem-ii-tilburg/ljbsDjb#id:14056559,tab:statistics",
+            "teams": [
+                "Willem II",
+                "TOP Oss"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2961",
+                "2978"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-psv-eindhoven-willem-ii-tilburg/ljbstyt#id:14056535,tab:statistics",
+            "teams": [
+                "Jong PSV U21",
+                "Willem II"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "46168",
+                "2961"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/8[A]",
+            "fouls": "11/19[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "5/4[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "6/8[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "13/16[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Willem II,Helmond Sport,Away",
+            "tackles": "15/11[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "21/23[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "15/8[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "5/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "11/13[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Willem II,Cambuur,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "14/8[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "9/2[H]",
+            "dribblesAttempted": "15/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "12/15[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "7/1[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "3/8[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "26/21[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Willem II,Dordrecht,Home",
+            "tackles": "13/18[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "14/17[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "3/6[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "19/17[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Willem II,Den Bosch,Away",
+            "tackles": "9/14[A]",
+            "interceptions": "14/14[A]",
+            "aerialDuels": "26/14[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "13/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[A]",
+            "fouls": "6/10[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "5/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Willem II,VVV-Venlo,Away",
+            "tackles": "18/12[A]",
+            "interceptions": "13/9[A]",
+            "aerialDuels": "20/23[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "13/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "10/13[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "2/5[H]",
+            "offsides": "5/2[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "15/21[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Willem II,Emmen,Home",
+            "tackles": "19/9[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "19/10[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "7/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "14/0[H]",
+            "fouls": "17/10[H]",
+            "goalKicks": "7/18[H]",
+            "saves": "2/7[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "16/8[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Willem II,TOP Oss,Home",
+            "tackles": "17/14[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "18/16[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "8/1[H]",
+            "dribblesAttempted": "16/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/8[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "10/5[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "6/12[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "20/18[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Willem II,Jong PSV U21,Away",
+            "tackles": "21/12[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "13/17[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:32:40.508Z",
+    "endTime": "2026-01-18T10:33:08.844Z",
+    "totalTimeSeconds": 28.34,
+    "combinedMatchStatistics": {
+        "corners": "8/8[A]+6/4[H]+6/3[H]+9/3[A]+5/7[A]+2/7[H]+14/0[H]+7/8[A]",
+        "fouls": "11/19[A]+15/8[H]+12/15[H]+9/11[A]+6/10[A]+10/13[H]+17/10[H]+10/10[A]",
+        "goalKicks": "5/6[A]+5/12[H]+7/10[H]+7/10[A]+9/6[A]+9/11[H]+7/18[H]+7/8[A]",
+        "saves": "5/4[A]+5/1[H]+7/1[H]+3/6[A]+5/1[A]+2/5[H]+2/7[H]+10/5[A]",
+        "offsides": "0/4[A]+1/0[H]+0/4[H]+1/2[A]+0/2[A]+5/2[H]+1/3[H]+0/3[A]",
+        "shotsOnTarget": "6/8[A]+1/5[H]+3/8[H]+6/5[A]+3/5[A]+7/2[H]+8/3[H]+6/12[A]",
+        "yellowCards": "2/3[A]+1/1[H]+0/2[H]+2/2[A]+0/2[A]+1/2[H]+4/2[H]+1/1[A]",
+        "goals": "2/2[A]+0/1[H]+2/0[H]+1/2[A]+2/0[A]+1/1[H]+1/1[H]+1/2[A]",
+        "throwIns": "13/16[A]+11/13[H]+26/21[H]+19/17[A]+21/20[A]+15/21[H]+16/8[H]+20/18[A]",
+        "averageBallPossession": "55/45[A]+34/66[H]+52/48[H]+59/41[A]+40/60[A]+48/52[H]+65/35[H]+50/50[A]",
+        "teams": "Willem II,Helmond Sport,Away+Willem II,Cambuur,Home+Willem II,Dordrecht,Home+Willem II,Den Bosch,Away+Willem II,VVV-Venlo,Away+Willem II,Emmen,Home+Willem II,TOP Oss,Home+Willem II,Jong PSV U21,Away",
+        "tackles": "15/11[A]+13/12[H]+13/18[H]+9/14[A]+18/12[A]+19/9[H]+17/14[H]+21/12[A]",
+        "interceptions": "8/7[A]+8/9[H]+9/8[H]+14/14[A]+13/9[A]+4/8[H]+7/9[H]+8/10[A]",
+        "aerialDuels": "21/23[A]+14/8[H]+14/17[H]+26/14[A]+20/23[A]+19/10[H]+18/16[H]+14/13[A]",
+        "aerialDuelsAttempted": "44/44[A]+22/22[H]+31/31[H]+40/40[A]+43/43[A]+29/29[H]+34/34[H]+27/27[A]",
+        "dribbles": "5/4[A]+9/2[H]+3/6[H]+8/2[A]+5/5[A]+4/7[H]+8/1[H]+6/6[A]",
+        "dribblesAttempted": "9/12[A]+15/9[H]+11/12[H]+13/7[A]+13/15[A]+7/16[H]+16/8[H]+13/17[A]",
+        "isHome": "false+true+true+false+false+true+true+false",
+        "cornersTotals": "57/40",
+        "cornersTotalsHome": "28/14",
+        "cornersTotalsAway": "29/26",
+        "cornersAverage": "7.13/5.00",
+        "cornersAverageHome": "7.00/3.50",
+        "cornersAverageAway": "7.25/6.50",
+        "foulsTotals": "90/96",
+        "foulsTotalsHome": "54/46",
+        "foulsTotalsAway": "36/50",
+        "foulsAverage": "11.25/12.00",
+        "foulsAverageHome": "13.50/11.50",
+        "foulsAverageAway": "9.00/12.50",
+        "goalKicksTotals": "56/81",
+        "goalKicksTotalsHome": "28/51",
+        "goalKicksTotalsAway": "28/30",
+        "goalKicksAverage": "7.00/10.13",
+        "goalKicksAverageHome": "7.00/12.75",
+        "goalKicksAverageAway": "7.00/7.50",
+        "savesTotals": "39/30",
+        "savesTotalsHome": "16/14",
+        "savesTotalsAway": "23/16",
+        "savesAverage": "4.88/3.75",
+        "savesAverageHome": "4.00/3.50",
+        "savesAverageAway": "5.75/4.00",
+        "offsidesTotals": "8/20",
+        "offsidesTotalsHome": "7/9",
+        "offsidesTotalsAway": "1/11",
+        "offsidesAverage": "1.00/2.50",
+        "offsidesAverageHome": "1.75/2.25",
+        "offsidesAverageAway": "0.25/2.75",
+        "shotsOnTargetTotals": "40/48",
+        "shotsOnTargetTotalsHome": "19/18",
+        "shotsOnTargetTotalsAway": "21/30",
+        "shotsOnTargetAverage": "5.00/6.00",
+        "shotsOnTargetAverageHome": "4.75/4.50",
+        "shotsOnTargetAverageAway": "5.25/7.50",
+        "yellowCardsTotals": "11/15",
+        "yellowCardsTotalsHome": "6/7",
+        "yellowCardsTotalsAway": "5/8",
+        "yellowCardsAverage": "1.38/1.88",
+        "yellowCardsAverageHome": "1.50/1.75",
+        "yellowCardsAverageAway": "1.25/2.00",
+        "goalsTotals": "10/9",
+        "goalsTotalsHome": "4/3",
+        "goalsTotalsAway": "6/6",
+        "goalsAverage": "1.25/1.13",
+        "goalsAverageHome": "1.00/0.75",
+        "goalsAverageAway": "1.50/1.50",
+        "throwInsTotals": "141/134",
+        "throwInsTotalsHome": "68/63",
+        "throwInsTotalsAway": "73/71",
+        "throwInsAverage": "17.63/16.75",
+        "throwInsAverageHome": "17.00/15.75",
+        "throwInsAverageAway": "18.25/17.75",
+        "averageBallPossessionTotals": "403/397",
+        "averageBallPossessionTotalsHome": "199/201",
+        "averageBallPossessionTotalsAway": "204/196",
+        "averageBallPossessionAverage": "50.38/49.63",
+        "averageBallPossessionAverageHome": "49.75/50.25",
+        "averageBallPossessionAverageAway": "51.00/49.00",
+        "tacklesTotals": "125/102",
+        "tacklesTotalsHome": "62/53",
+        "tacklesTotalsAway": "63/49",
+        "tacklesAverage": "15.63/12.75",
+        "tacklesAverageHome": "15.50/13.25",
+        "tacklesAverageAway": "15.75/12.25",
+        "interceptionsTotals": "71/74",
+        "interceptionsTotalsHome": "28/34",
+        "interceptionsTotalsAway": "43/40",
+        "interceptionsAverage": "8.88/9.25",
+        "interceptionsAverageHome": "7.00/8.50",
+        "interceptionsAverageAway": "10.75/10.00",
+        "aerialDuelsTotals": "146/124",
+        "aerialDuelsTotalsHome": "65/51",
+        "aerialDuelsTotalsAway": "81/73",
+        "aerialDuelsAverage": "18.25/15.50",
+        "aerialDuelsAverageHome": "16.25/12.75",
+        "aerialDuelsAverageAway": "20.25/18.25",
+        "aerialDuelsAttemptedTotals": "270/270",
+        "aerialDuelsAttemptedTotalsHome": "116/116",
+        "aerialDuelsAttemptedTotalsAway": "154/154",
+        "aerialDuelsAttemptedAverage": "33.75/33.75",
+        "aerialDuelsAttemptedAverageHome": "29.00/29.00",
+        "aerialDuelsAttemptedAverageAway": "38.50/38.50",
+        "dribblesTotals": "48/33",
+        "dribblesTotalsHome": "24/16",
+        "dribblesTotalsAway": "24/17",
+        "dribblesAverage": "6.00/4.13",
+        "dribblesAverageHome": "6.00/4.00",
+        "dribblesAverageAway": "6.00/4.25",
+        "dribblesAttemptedTotals": "97/96",
+        "dribblesAttemptedTotalsHome": "49/45",
+        "dribblesAttemptedTotalsAway": "48/51",
+        "dribblesAttemptedAverage": "12.13/12.00",
+        "dribblesAttemptedAverageHome": "12.25/11.25",
+        "dribblesAttemptedAverageAway": "12.00/12.75"
+    }
+}

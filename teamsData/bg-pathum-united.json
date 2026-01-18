@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.75",
+        "fouls": "12.25",
+        "goalKicks": "7.75",
+        "saves": "3.25",
+        "offsides": "1.63",
+        "shotsOnTarget": "4.69/4.13",
+        "yellowCards": "1.88/2.19",
+        "goals": "1.38/0.94",
+        "throwIns": "18.69",
+        "ballPossession": 53.6875,
+        "tackles": "12.31/12.31",
+        "interceptions": "7.50/7.13",
+        "aerialDuels": "11.06",
+        "aerialDuelsAttempted": "20.25",
+        "dribbles": "3.88/4.25",
+        "dribblesAttempted": "10.38/9.94"
+    },
+    "teamSlug": "bg-pathum-united",
+    "teamId": "35607",
+    "teamName": "BG Pathum United",
+    "tournament": "Thai League 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/lamphun-warrior-bg-pathum-united/hmosDpzc#id:15213915,tab:statistics",
+            "teams": [
+                "Lamphun Warrior",
+                "Pathum Utd"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "310778",
+                "35607"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kanchanaburi-power-fc-bg-pathum-united/hmosNqhd#id:15153169,tab:statistics",
+            "teams": [
+                "Pathum Utd",
+                "Kanchanaburi Power"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "35607",
+                "393338"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/muang-thong-united-bg-pathum-united/hmosWYp#id:14521426,tab:statistics",
+            "teams": [
+                "Pathum Utd",
+                "Muang Thong Utd"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "35607",
+                "39946"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-bg-pathum-united/hmoszCAb#id:14514367,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima",
+                "Pathum Utd"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "188874",
+                "35607"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ratchaburi-bg-pathum-united/hmosToJ#id:14514348,tab:statistics",
+            "teams": [
+                "Ratchaburi",
+                "Pathum Utd"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "85743",
+                "35607"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rayong-fc-bg-pathum-united/hmosFUbc#id:14514337,tab:statistics",
+            "teams": [
+                "Pathum Utd",
+                "Rayong FC"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "35607",
+                "254730"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chonburi-fc-bg-pathum-united/hmosLro#id:14514338,tab:statistics",
+            "teams": [
+                "Chonburi",
+                "Pathum Utd"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "35886",
+                "35607"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-bg-pathum-united/hmoscNcc#id:14514316,tab:statistics",
+            "teams": [
+                "Pathum Utd",
+                "Ayutthaya United"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "35607",
+                "256902"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/5[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "12/9[A]",
+            "saves": "1/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/23[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Pathum Utd,Lamphun Warrior,Away",
+            "tackles": "10/13[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "18/17[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "12/12[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "5/9[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "11/5[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "2/1[H]",
+            "throwIns": "26/28[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Pathum Utd,Kanchanaburi Power,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "12/3[H]",
+            "aerialDuels": "9/5[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "2/1[H]",
+            "dribblesAttempted": "8/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "5/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "3/0[H]",
+            "throwIns": "14/26[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Pathum Utd,Muang Thong Utd,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "10/11[H]",
+            "aerialDuels": "12/12[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "14/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "Pathum Utd,Nakhon Ratchasima,Away",
+            "tackles": "11/17[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "9/9[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "11/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "16/8[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "16/16[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Pathum Utd,Ratchaburi,Away",
+            "tackles": "16/10[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "9/9[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "3/10[A]",
+            "dribblesAttempted": "8/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "6/2[H]",
+            "saves": "2/8[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "15/19[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Pathum Utd,Rayong FC,Home",
+            "tackles": "10/13[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "16/14[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "8/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "4/0[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "22/12[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Pathum Utd,Chonburi,Away",
+            "tackles": "7/11[A]",
+            "interceptions": "4/0[A]",
+            "aerialDuels": "6/7[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "5/15[H]",
+            "saves": "4/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "20/18[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Pathum Utd,Ayutthaya United,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "2/3[H]",
+            "aerialDuelsAttempted": "5/5[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "13/9[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:47:37.668Z",
+    "endTime": "2026-01-18T10:48:10.198Z",
+    "totalTimeSeconds": 32.53,
+    "combinedMatchStatistics": {
+        "corners": "2/5[A]+2/3[H]+5/6[H]+6/2[A]+7/3[A]+7/3[H]+8/3[A]+7/3[H]",
+        "fouls": "13/12[A]+12/12[H]+9/12[H]+11/9[A]+16/8[A]+11/12[H]+15/9[A]+15/11[H]",
+        "goalKicks": "12/9[A]+9/6[H]+12/7[H]+6/8[A]+7/10[A]+6/2[H]+7/10[A]+5/15[H]",
+        "saves": "1/0[A]+5/9[H]+5/1[H]+1/3[A]+3/2[A]+2/8[H]+4/0[A]+4/3[H]",
+        "offsides": "2/1[A]+3/1[H]+0/0[H]+1/0[A]+1/0[A]+0/0[H]+0/0[A]+3/1[H]",
+        "shotsOnTarget": "1/2[A]+11/5[H]+4/5[H]+4/1[A]+2/3[A]+9/3[H]+2/5[A]+4/4[H]",
+        "yellowCards": "2/2[A]+2/5[H]+2/0[H]+2/1[A]+3/2[A]+2/3[H]+3/1[A]+1/2[H]",
+        "goals": "1/1[A]+2/1[H]+3/0[H]+1/0[A]+0/0[A]+1/1[H]+2/1[A]+1/0[H]",
+        "throwIns": "24/23[A]+26/28[H]+14/26[H]+13/18[A]+16/16[A]+15/19[H]+22/12[A]+20/18[H]",
+        "averageBallPossession": "46/54[A]+45/55[H]+48/52[H]+70/30[A]+49/51[A]+60/40[H]+55/45[A]+57/43[H]",
+        "teams": "Pathum Utd,Lamphun Warrior,Away+Pathum Utd,Kanchanaburi Power,Home+Pathum Utd,Muang Thong Utd,Home+Pathum Utd,Nakhon Ratchasima,Away+Pathum Utd,Ratchaburi,Away+Pathum Utd,Rayong FC,Home+Pathum Utd,Chonburi,Away+Pathum Utd,Ayutthaya United,Home",
+        "tackles": "10/13[A]+22/18[H]+19/13[H]+11/17[A]+16/10[A]+10/13[H]+7/11[A]+12/16[H]",
+        "interceptions": "11/8[A]+12/3[H]+10/11[H]+8/5[A]+5/10[A]+9/9[H]+4/0[A]+5/7[H]",
+        "aerialDuels": "18/17[A]+9/5[H]+12/12[H]+9/9[A]+9/9[A]+16/14[H]+6/7[A]+2/3[H]",
+        "aerialDuelsAttempted": "35/35[A]+14/14[H]+24/24[H]+18/18[A]+18/18[A]+30/30[H]+13/13[A]+5/5[H]",
+        "dribbles": "8/8[A]+2/1[H]+7/5[H]+5/5[A]+3/10[A]+5/5[H]+3/6[A]+3/4[H]",
+        "dribblesAttempted": "14/15[A]+8/9[H]+14/11[H]+11/12[A]+8/14[A]+8/7[H]+11/8[A]+13/9[H]",
+        "isHome": "false+true+true+false+false+true+false+true",
+        "cornersTotals": "44/28",
+        "cornersTotalsHome": "21/15",
+        "cornersTotalsAway": "23/13",
+        "cornersAverage": "5.50/3.50",
+        "cornersAverageHome": "5.25/3.75",
+        "cornersAverageAway": "5.75/3.25",
+        "foulsTotals": "102/85",
+        "foulsTotalsHome": "47/47",
+        "foulsTotalsAway": "55/38",
+        "foulsAverage": "12.75/10.63",
+        "foulsAverageHome": "11.75/11.75",
+        "foulsAverageAway": "13.75/9.50",
+        "goalKicksTotals": "64/67",
+        "goalKicksTotalsHome": "32/30",
+        "goalKicksTotalsAway": "32/37",
+        "goalKicksAverage": "8.00/8.38",
+        "goalKicksAverageHome": "8.00/7.50",
+        "goalKicksAverageAway": "8.00/9.25",
+        "savesTotals": "25/26",
+        "savesTotalsHome": "16/21",
+        "savesTotalsAway": "9/5",
+        "savesAverage": "3.13/3.25",
+        "savesAverageHome": "4.00/5.25",
+        "savesAverageAway": "2.25/1.25",
+        "offsidesTotals": "10/3",
+        "offsidesTotalsHome": "6/2",
+        "offsidesTotalsAway": "4/1",
+        "offsidesAverage": "1.25/0.38",
+        "offsidesAverageHome": "1.50/0.50",
+        "offsidesAverageAway": "1.00/0.25",
+        "shotsOnTargetTotals": "37/28",
+        "shotsOnTargetTotalsHome": "28/17",
+        "shotsOnTargetTotalsAway": "9/11",
+        "shotsOnTargetAverage": "4.63/3.50",
+        "shotsOnTargetAverageHome": "7.00/4.25",
+        "shotsOnTargetAverageAway": "2.25/2.75",
+        "yellowCardsTotals": "17/16",
+        "yellowCardsTotalsHome": "7/10",
+        "yellowCardsTotalsAway": "10/6",
+        "yellowCardsAverage": "2.13/2.00",
+        "yellowCardsAverageHome": "1.75/2.50",
+        "yellowCardsAverageAway": "2.50/1.50",
+        "goalsTotals": "11/4",
+        "goalsTotalsHome": "7/2",
+        "goalsTotalsAway": "4/2",
+        "goalsAverage": "1.38/0.50",
+        "goalsAverageHome": "1.75/0.50",
+        "goalsAverageAway": "1.00/0.50",
+        "throwInsTotals": "150/160",
+        "throwInsTotalsHome": "75/91",
+        "throwInsTotalsAway": "75/69",
+        "throwInsAverage": "18.75/20.00",
+        "throwInsAverageHome": "18.75/22.75",
+        "throwInsAverageAway": "18.75/17.25",
+        "averageBallPossessionTotals": "430/370",
+        "averageBallPossessionTotalsHome": "210/190",
+        "averageBallPossessionTotalsAway": "220/180",
+        "averageBallPossessionAverage": "53.75/46.25",
+        "averageBallPossessionAverageHome": "52.50/47.50",
+        "averageBallPossessionAverageAway": "55.00/45.00",
+        "tacklesTotals": "107/111",
+        "tacklesTotalsHome": "63/60",
+        "tacklesTotalsAway": "44/51",
+        "tacklesAverage": "13.38/13.88",
+        "tacklesAverageHome": "15.75/15.00",
+        "tacklesAverageAway": "11.00/12.75",
+        "interceptionsTotals": "64/53",
+        "interceptionsTotalsHome": "36/30",
+        "interceptionsTotalsAway": "28/23",
+        "interceptionsAverage": "8.00/6.63",
+        "interceptionsAverageHome": "9.00/7.50",
+        "interceptionsAverageAway": "7.00/5.75",
+        "aerialDuelsTotals": "81/76",
+        "aerialDuelsTotalsHome": "39/34",
+        "aerialDuelsTotalsAway": "42/42",
+        "aerialDuelsAverage": "10.13/9.50",
+        "aerialDuelsAverageHome": "9.75/8.50",
+        "aerialDuelsAverageAway": "10.50/10.50",
+        "aerialDuelsAttemptedTotals": "157/157",
+        "aerialDuelsAttemptedTotalsHome": "73/73",
+        "aerialDuelsAttemptedTotalsAway": "84/84",
+        "aerialDuelsAttemptedAverage": "19.63/19.63",
+        "aerialDuelsAttemptedAverageHome": "18.25/18.25",
+        "aerialDuelsAttemptedAverageAway": "21.00/21.00",
+        "dribblesTotals": "36/44",
+        "dribblesTotalsHome": "17/15",
+        "dribblesTotalsAway": "19/29",
+        "dribblesAverage": "4.50/5.50",
+        "dribblesAverageHome": "4.25/3.75",
+        "dribblesAverageAway": "4.75/7.25",
+        "dribblesAttemptedTotals": "87/85",
+        "dribblesAttemptedTotalsHome": "43/36",
+        "dribblesAttemptedTotalsAway": "44/49",
+        "dribblesAttemptedAverage": "10.88/10.63",
+        "dribblesAttemptedAverageHome": "10.75/9.00",
+        "dribblesAttemptedAverageAway": "11.00/12.25"
+    }
+}

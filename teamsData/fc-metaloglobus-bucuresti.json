@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.48",
+        "fouls": "12.43",
+        "goalKicks": "9.90",
+        "saves": "3.05",
+        "offsides": "0.62",
+        "shotsOnTarget": "3.81/5.24",
+        "yellowCards": "2.48/1.43",
+        "goals": "0.90/2.19",
+        "throwIns": "22.71",
+        "ballPossession": 48.47619047619,
+        "tackles": "16.71/15.33",
+        "interceptions": "7.81/9.33",
+        "aerialDuels": "12.10",
+        "aerialDuelsAttempted": "28.10",
+        "dribbles": "7.14/7.86",
+        "dribblesAttempted": "13.90/16.43"
+    },
+    "teamSlug": "fc-metaloglobus-bucuresti",
+    "teamId": "79081",
+    "teamName": "FC Metaloglobus București",
+    "tournament": "Romanian SuperLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-metaloglobus-bucuresti-afc-unirea-04-slobozia/jKrsGGG#id:14065011,tab:statistics",
+            "teams": [
+                "Metaloglobus",
+                "Unirea Slobozia"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "79081",
+                "44259"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-metaloglobus-bucuresti-fc-dinamo-bucuresti/RpbsGGG#id:14060324,tab:statistics",
+            "teams": [
+                "Dinamo București",
+                "Metaloglobus"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "3292",
+                "79081"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-metaloglobus-bucuresti-fc-farul-constanta/UpbsGGG#id:14065021,tab:statistics",
+            "teams": [
+                "Metaloglobus",
+                "Farul Constanța"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "79081",
+                "3294"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-metaloglobus-bucuresti-fc-petrolul-ploiesti/grksGGG#id:14060316,tab:statistics",
+            "teams": [
+                "Petrolul Ploiești",
+                "Metaloglobus"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "25856",
+                "79081"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-hermannstadt-fc-metaloglobus-bucuresti/GGGsghec#id:14060309,tab:statistics",
+            "teams": [
+                "Metaloglobus",
+                "Hermannstadt"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "79081",
+                "260356"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-metaloglobus-bucuresti-fc-universitatea-cluj/JedsGGG#id:14060301,tab:statistics",
+            "teams": [
+                "U. Cluj",
+                "Metaloglobus"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "7734",
+                "79081"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/uta-arad-fc-metaloglobus-bucuresti/GGGshTGb#id:14054778,tab:statistics",
+            "teams": [
+                "UTA Arad",
+                "Metaloglobus"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "204657",
+                "79081"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universitatea-craiova-fc-metaloglobus-bucuresti/GGGsyzW#id:14054781,tab:statistics",
+            "teams": [
+                "Metaloglobus",
+                "U. Craiova"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "79081",
+                "116223"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/3[H]",
+            "fouls": "16/13[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "6/4[H]",
+            "goals": "2/3[H]",
+            "throwIns": "16/20[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Metaloglobus,Unirea Slobozia,Home",
+            "tackles": "13/26[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "13/12[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "13/7[H]",
+            "dribblesAttempted": "22/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/4[A]",
+            "fouls": "4/7[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "27/23[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Metaloglobus,Dinamo București,Away",
+            "tackles": "20/26[A]",
+            "interceptions": "16/13[A]",
+            "aerialDuels": "14/18[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "15/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/10[H]",
+            "fouls": "15/10[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "25/27[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Metaloglobus,Farul Constanța,Home",
+            "tackles": "24/16[H]",
+            "interceptions": "12/13[H]",
+            "aerialDuels": "12/19[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "10/5[H]",
+            "dribblesAttempted": "18/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "5/17[A]",
+            "goalKicks": "6/14[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "25/23[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Metaloglobus,Petrolul Ploiești,Away",
+            "tackles": "13/19[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "10/14[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "17/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "17/10[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "3/4[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/23[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Metaloglobus,Hermannstadt,Home",
+            "tackles": "14/19[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "4/11[H]",
+            "dribblesAttempted": "15/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "10/4[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "25/22[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Metaloglobus,U. Cluj,Away",
+            "tackles": "22/14[A]",
+            "interceptions": "12/9[A]",
+            "aerialDuels": "4/12[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "8/14[A]",
+            "dribblesAttempted": "13/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "15/10[A]",
+            "goalKicks": "15/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "30/31[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Metaloglobus,UTA Arad,Away",
+            "tackles": "15/9[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "20/22[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "8/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/8[H]",
+            "fouls": "11/6[H]",
+            "goalKicks": "16/3[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "10/34[H]",
+            "averageBallPossession": "31/69[H]",
+            "teams": "Metaloglobus,U. Craiova,Home",
+            "tackles": "24/9[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "13/21[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "6/16[H]",
+            "dribblesAttempted": "12/33[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-17T16:23:00.913Z",
+    "endTime": "2026-01-17T16:23:49.108Z",
+    "totalTimeSeconds": 48.2,
+    "combinedMatchStatistics": {
+        "corners": "7/3[H]+8/4[A]+6/10[H]+5/5[A]+5/8[H]+2/7[A]+3/4[A]+3/8[H]",
+        "fouls": "16/13[H]+4/7[A]+15/10[H]+5/17[A]+17/10[H]+10/4[A]+15/10[A]+11/6[H]",
+        "goalKicks": "6/10[H]+12/7[A]+10/6[H]+6/14[A]+6/7[H]+4/5[A]+15/6[A]+16/3[H]",
+        "saves": "3/3[H]+3/3[A]+1/4[H]+2/2[A]+3/4[H]+4/3[A]+2/2[A]+4/1[H]",
+        "offsides": "0/0[H]+1/2[A]+2/1[H]+0/1[A]+0/3[H]+1/0[A]+0/3[A]+0/4[H]",
+        "shotsOnTarget": "6/6[H]+3/7[A]+7/2[H]+3/7[A]+4/4[H]+4/7[A]+2/3[A]+1/4[H]",
+        "yellowCards": "6/4[H]+1/0[A]+3/2[H]+3/1[A]+2/1[H]+1/2[A]+2/1[A]+2/0[H]",
+        "goals": "2/3[H]+0/4[A]+2/1[H]+1/4[A]+1/1[H]+1/3[A]+0/2[A]+0/0[H]",
+        "throwIns": "16/20[H]+27/23[A]+25/27[H]+25/23[A]+20/23[H]+25/22[A]+30/31[A]+10/34[H]",
+        "averageBallPossession": "65/35[H]+40/60[A]+40/60[H]+50/50[A]+50/50[H]+51/49[A]+41/59[A]+31/69[H]",
+        "teams": "Metaloglobus,Unirea Slobozia,Home+Metaloglobus,Dinamo București,Away+Metaloglobus,Farul Constanța,Home+Metaloglobus,Petrolul Ploiești,Away+Metaloglobus,Hermannstadt,Home+Metaloglobus,U. Cluj,Away+Metaloglobus,UTA Arad,Away+Metaloglobus,U. Craiova,Home",
+        "tackles": "13/26[H]+20/26[A]+24/16[H]+13/19[A]+14/19[H]+22/14[A]+15/9[A]+24/9[H]",
+        "interceptions": "8/10[H]+16/13[A]+12/13[H]+6/10[A]+7/9[H]+12/9[A]+6/7[A]+6/4[H]",
+        "aerialDuels": "13/12[H]+14/18[A]+12/19[H]+10/14[A]+15/15[H]+4/12[A]+20/22[A]+13/21[H]",
+        "aerialDuelsAttempted": "25/25[H]+32/32[A]+31/31[H]+24/24[A]+30/30[H]+16/16[A]+42/42[A]+34/34[H]",
+        "dribbles": "13/7[H]+5/7[A]+10/5[H]+9/8[A]+4/11[H]+8/14[A]+4/8[A]+6/16[H]",
+        "dribblesAttempted": "22/13[H]+15/17[A]+18/13[H]+17/16[A]+15/16[H]+13/28[A]+8/14[A]+12/33[H]",
+        "isHome": "true+false+true+false+true+false+false+true",
+        "cornersTotals": "39/49",
+        "cornersTotalsHome": "21/29",
+        "cornersTotalsAway": "18/20",
+        "cornersAverage": "4.88/6.13",
+        "cornersAverageHome": "5.25/7.25",
+        "cornersAverageAway": "4.50/5.00",
+        "foulsTotals": "93/77",
+        "foulsTotalsHome": "59/39",
+        "foulsTotalsAway": "34/38",
+        "foulsAverage": "11.63/9.63",
+        "foulsAverageHome": "14.75/9.75",
+        "foulsAverageAway": "8.50/9.50",
+        "goalKicksTotals": "75/58",
+        "goalKicksTotalsHome": "38/26",
+        "goalKicksTotalsAway": "37/32",
+        "goalKicksAverage": "9.38/7.25",
+        "goalKicksAverageHome": "9.50/6.50",
+        "goalKicksAverageAway": "9.25/8.00",
+        "savesTotals": "22/22",
+        "savesTotalsHome": "11/12",
+        "savesTotalsAway": "11/10",
+        "savesAverage": "2.75/2.75",
+        "savesAverageHome": "2.75/3.00",
+        "savesAverageAway": "2.75/2.50",
+        "offsidesTotals": "4/14",
+        "offsidesTotalsHome": "2/8",
+        "offsidesTotalsAway": "2/6",
+        "offsidesAverage": "0.50/1.75",
+        "offsidesAverageHome": "0.50/2.00",
+        "offsidesAverageAway": "0.50/1.50",
+        "shotsOnTargetTotals": "30/40",
+        "shotsOnTargetTotalsHome": "18/16",
+        "shotsOnTargetTotalsAway": "12/24",
+        "shotsOnTargetAverage": "3.75/5.00",
+        "shotsOnTargetAverageHome": "4.50/4.00",
+        "shotsOnTargetAverageAway": "3.00/6.00",
+        "yellowCardsTotals": "20/11",
+        "yellowCardsTotalsHome": "13/7",
+        "yellowCardsTotalsAway": "7/4",
+        "yellowCardsAverage": "2.50/1.38",
+        "yellowCardsAverageHome": "3.25/1.75",
+        "yellowCardsAverageAway": "1.75/1.00",
+        "goalsTotals": "7/18",
+        "goalsTotalsHome": "5/5",
+        "goalsTotalsAway": "2/13",
+        "goalsAverage": "0.88/2.25",
+        "goalsAverageHome": "1.25/1.25",
+        "goalsAverageAway": "0.50/3.25",
+        "throwInsTotals": "178/203",
+        "throwInsTotalsHome": "71/104",
+        "throwInsTotalsAway": "107/99",
+        "throwInsAverage": "22.25/25.38",
+        "throwInsAverageHome": "17.75/26.00",
+        "throwInsAverageAway": "26.75/24.75",
+        "averageBallPossessionTotals": "368/432",
+        "averageBallPossessionTotalsHome": "186/214",
+        "averageBallPossessionTotalsAway": "182/218",
+        "averageBallPossessionAverage": "46.00/54.00",
+        "averageBallPossessionAverageHome": "46.50/53.50",
+        "averageBallPossessionAverageAway": "45.50/54.50",
+        "tacklesTotals": "145/138",
+        "tacklesTotalsHome": "75/70",
+        "tacklesTotalsAway": "70/68",
+        "tacklesAverage": "18.13/17.25",
+        "tacklesAverageHome": "18.75/17.50",
+        "tacklesAverageAway": "17.50/17.00",
+        "interceptionsTotals": "73/75",
+        "interceptionsTotalsHome": "33/36",
+        "interceptionsTotalsAway": "40/39",
+        "interceptionsAverage": "9.13/9.38",
+        "interceptionsAverageHome": "8.25/9.00",
+        "interceptionsAverageAway": "10.00/9.75",
+        "aerialDuelsTotals": "101/133",
+        "aerialDuelsTotalsHome": "53/67",
+        "aerialDuelsTotalsAway": "48/66",
+        "aerialDuelsAverage": "12.63/16.63",
+        "aerialDuelsAverageHome": "13.25/16.75",
+        "aerialDuelsAverageAway": "12.00/16.50",
+        "aerialDuelsAttemptedTotals": "234/234",
+        "aerialDuelsAttemptedTotalsHome": "120/120",
+        "aerialDuelsAttemptedTotalsAway": "114/114",
+        "aerialDuelsAttemptedAverage": "29.25/29.25",
+        "aerialDuelsAttemptedAverageHome": "30.00/30.00",
+        "aerialDuelsAttemptedAverageAway": "28.50/28.50",
+        "dribblesTotals": "59/76",
+        "dribblesTotalsHome": "33/39",
+        "dribblesTotalsAway": "26/37",
+        "dribblesAverage": "7.38/9.50",
+        "dribblesAverageHome": "8.25/9.75",
+        "dribblesAverageAway": "6.50/9.25",
+        "dribblesAttemptedTotals": "120/150",
+        "dribblesAttemptedTotalsHome": "67/75",
+        "dribblesAttemptedTotalsAway": "53/75",
+        "dribblesAttemptedAverage": "15.00/18.75",
+        "dribblesAttemptedAverageHome": "16.75/18.75",
+        "dribblesAttemptedAverageAway": "13.25/18.75"
+    }
+}

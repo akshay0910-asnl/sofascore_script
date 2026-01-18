@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "6.16",
+        "fouls": "14.84",
+        "goalKicks": "4.84",
+        "saves": "2.37",
+        "offsides": "1.95",
+        "shotsOnTarget": "5.11/3.32",
+        "yellowCards": "2.05/2.26",
+        "goals": "1.37/0.89",
+        "throwIns": "18.89",
+        "ballPossession": 52.789473684211,
+        "tackles": "15.74/14.11",
+        "interceptions": "7.84/6.68",
+        "aerialDuels": "20.58",
+        "aerialDuelsAttempted": "38.26",
+        "dribbles": "6.16/6.42",
+        "dribblesAttempted": "12.68/14.58"
+    },
+    "teamSlug": "modena",
+    "teamId": "2706",
+    "teamName": "Modena",
+    "tournament": "Serie B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/padova-modena/gebsQeb#id:14317711,tab:statistics",
+            "teams": [
+                "Padova",
+                "Modena"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2741",
+                "2706"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/monza-modena/gebsEeb#id:14317695,tab:statistics",
+            "teams": [
+                "Modena",
+                "Monza"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2706",
+                "2729"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/modena-venezia/Ndbsgeb#id:14317850,tab:statistics",
+            "teams": [
+                "Modena",
+                "Venezia"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2706",
+                "2688"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/spezia-modena/gebsKeb#id:14317841,tab:statistics",
+            "teams": [
+                "Spezia",
+                "Modena"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2735",
+                "2706"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/catanzaro-modena/gebsWfb#id:14317830,tab:statistics",
+            "teams": [
+                "Modena",
+                "Catanzaro"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2706",
+                "2796"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cesena-modena/gebsReb#id:14317881,tab:statistics",
+            "teams": [
+                "Cesena",
+                "Modena"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2742",
+                "2706"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sudtirol-modena/gebskfb#id:14317874,tab:statistics",
+            "teams": [
+                "Modena",
+                "Südtirol"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2706",
+                "2760"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/frosinone-modena/gebsbgb#id:14317861,tab:statistics",
+            "teams": [
+                "Frosinone",
+                "Modena"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2801",
+                "2706"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "12/3[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "1/13[A]",
+            "saves": "4/6[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "23/18[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Modena,Padova,Away",
+            "tackles": "11/20[A]",
+            "interceptions": "3/12[A]",
+            "aerialDuels": "20/12[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "18/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "4/6[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "16/8[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Modena,Monza,Home",
+            "tackles": "16/11[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "16/23[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "9/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "7/12[H]",
+            "goalKicks": "7/2[H]",
+            "saves": "5/1[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "2/8[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "25/14[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Modena,Venezia,Home",
+            "tackles": "20/14[H]",
+            "interceptions": "3/4[H]",
+            "aerialDuels": "17/15[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "9/15[H]",
+            "dribblesAttempted": "16/29[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[A]",
+            "fouls": "24/12[A]",
+            "goalKicks": "4/7[A]",
+            "saves": "3/8[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "10/3[A]",
+            "yellowCards": "5/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "13/19[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Modena,Spezia,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "13/4[A]",
+            "aerialDuels": "16/17[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/3[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "15/7[H]",
+            "goalKicks": "3/10[H]",
+            "saves": "1/5[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "19/13[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Modena,Catanzaro,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "5/11[H]",
+            "aerialDuels": "15/13[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "14/4[H]",
+            "dribblesAttempted": "19/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "8/15[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "1/6[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "18/8[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Modena,Cesena,Away",
+            "tackles": "17/19[A]",
+            "interceptions": "3/11[A]",
+            "aerialDuels": "16/12[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "10/5[A]",
+            "dribblesAttempted": "22/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "13/24[H]",
+            "goalKicks": "4/10[H]",
+            "saves": "3/5[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "25/22[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Modena,Südtirol,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "29/18[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "10/2[H]",
+            "dribblesAttempted": "18/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/5[A]",
+            "fouls": "14/13[A]",
+            "goalKicks": "4/9[A]",
+            "saves": "2/4[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "19/17[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Modena,Frosinone,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "37/22[A]",
+            "aerialDuelsAttempted": "59/59[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "7/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:27:51.063Z",
+    "endTime": "2026-01-18T10:28:12.681Z",
+    "totalTimeSeconds": 21.62,
+    "combinedMatchStatistics": {
+        "corners": "12/3[A]+5/4[H]+5/5[H]+9/3[A]+8/2[H]+8/7[A]+5/3[H]+8/5[A]",
+        "fouls": "13/11[A]+15/15[H]+7/12[H]+24/12[A]+15/7[H]+8/15[A]+13/24[H]+14/13[A]",
+        "goalKicks": "1/13[A]+4/6[H]+7/2[H]+4/7[A]+3/10[H]+7/11[A]+4/10[H]+4/9[A]",
+        "saves": "4/6[A]+4/6[H]+5/1[H]+3/8[A]+1/5[H]+1/6[A]+3/5[H]+2/4[A]",
+        "offsides": "3/3[A]+1/1[H]+3/1[H]+4/0[A]+1/0[H]+1/1[A]+0/3[H]+3/2[A]",
+        "shotsOnTarget": "6/6[A]+7/6[H]+2/8[H]+10/3[A]+6/3[H]+6/2[A]+5/3[H]+6/4[A]",
+        "yellowCards": "1/3[A]+4/4[H]+1/3[H]+5/4[A]+0/2[H]+1/1[A]+0/0[H]+1/3[A]",
+        "goals": "0/2[A]+1/2[H]+1/2[H]+2/0[A]+1/2[H]+0/1[A]+0/0[H]+2/2[A]",
+        "throwIns": "23/18[A]+16/8[H]+25/14[H]+13/19[A]+19/13[H]+18/8[A]+25/22[H]+19/17[A]",
+        "averageBallPossession": "64/36[A]+52/48[H]+38/62[H]+41/59[A]+44/56[H]+58/42[A]+68/32[H]+59/41[A]",
+        "teams": "Modena,Padova,Away+Modena,Monza,Home+Modena,Venezia,Home+Modena,Spezia,Away+Modena,Catanzaro,Home+Modena,Cesena,Away+Modena,Südtirol,Home+Modena,Frosinone,Away",
+        "tackles": "11/20[A]+16/11[H]+20/14[H]+15/13[A]+11/15[H]+17/19[A]+14/15[H]+14/12[A]",
+        "interceptions": "3/12[A]+7/5[H]+3/4[H]+13/4[A]+5/11[H]+3/11[A]+9/12[H]+12/5[A]",
+        "aerialDuels": "20/12[A]+16/23[H]+17/15[H]+16/17[A]+15/13[H]+16/12[A]+29/18[H]+37/22[A]",
+        "aerialDuelsAttempted": "32/32[A]+39/39[H]+32/32[H]+33/33[A]+28/28[H]+28/28[A]+47/47[H]+59/59[A]",
+        "dribbles": "8/4[A]+6/3[H]+9/15[H]+7/3[A]+14/4[H]+10/5[A]+10/2[H]+4/7[A]",
+        "dribblesAttempted": "18/8[A]+9/9[H]+16/29[H]+11/8[A]+19/10[H]+22/14[A]+18/7[H]+7/13[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "60/32",
+        "cornersTotalsHome": "23/14",
+        "cornersTotalsAway": "37/18",
+        "cornersAverage": "7.50/4.00",
+        "cornersAverageHome": "5.75/3.50",
+        "cornersAverageAway": "9.25/4.50",
+        "foulsTotals": "109/109",
+        "foulsTotalsHome": "50/58",
+        "foulsTotalsAway": "59/51",
+        "foulsAverage": "13.63/13.63",
+        "foulsAverageHome": "12.50/14.50",
+        "foulsAverageAway": "14.75/12.75",
+        "goalKicksTotals": "34/68",
+        "goalKicksTotalsHome": "18/28",
+        "goalKicksTotalsAway": "16/40",
+        "goalKicksAverage": "4.25/8.50",
+        "goalKicksAverageHome": "4.50/7.00",
+        "goalKicksAverageAway": "4.00/10.00",
+        "savesTotals": "23/41",
+        "savesTotalsHome": "13/17",
+        "savesTotalsAway": "10/24",
+        "savesAverage": "2.88/5.13",
+        "savesAverageHome": "3.25/4.25",
+        "savesAverageAway": "2.50/6.00",
+        "offsidesTotals": "16/11",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "11/6",
+        "offsidesAverage": "2.00/1.38",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "2.75/1.50",
+        "shotsOnTargetTotals": "48/35",
+        "shotsOnTargetTotalsHome": "20/20",
+        "shotsOnTargetTotalsAway": "28/15",
+        "shotsOnTargetAverage": "6.00/4.38",
+        "shotsOnTargetAverageHome": "5.00/5.00",
+        "shotsOnTargetAverageAway": "7.00/3.75",
+        "yellowCardsTotals": "13/20",
+        "yellowCardsTotalsHome": "5/9",
+        "yellowCardsTotalsAway": "8/11",
+        "yellowCardsAverage": "1.63/2.50",
+        "yellowCardsAverageHome": "1.25/2.25",
+        "yellowCardsAverageAway": "2.00/2.75",
+        "goalsTotals": "7/11",
+        "goalsTotalsHome": "3/6",
+        "goalsTotalsAway": "4/5",
+        "goalsAverage": "0.88/1.38",
+        "goalsAverageHome": "0.75/1.50",
+        "goalsAverageAway": "1.00/1.25",
+        "throwInsTotals": "158/119",
+        "throwInsTotalsHome": "85/57",
+        "throwInsTotalsAway": "73/62",
+        "throwInsAverage": "19.75/14.88",
+        "throwInsAverageHome": "21.25/14.25",
+        "throwInsAverageAway": "18.25/15.50",
+        "averageBallPossessionTotals": "424/376",
+        "averageBallPossessionTotalsHome": "202/198",
+        "averageBallPossessionTotalsAway": "222/178",
+        "averageBallPossessionAverage": "53.00/47.00",
+        "averageBallPossessionAverageHome": "50.50/49.50",
+        "averageBallPossessionAverageAway": "55.50/44.50",
+        "tacklesTotals": "118/119",
+        "tacklesTotalsHome": "61/55",
+        "tacklesTotalsAway": "57/64",
+        "tacklesAverage": "14.75/14.88",
+        "tacklesAverageHome": "15.25/13.75",
+        "tacklesAverageAway": "14.25/16.00",
+        "interceptionsTotals": "55/64",
+        "interceptionsTotalsHome": "24/32",
+        "interceptionsTotalsAway": "31/32",
+        "interceptionsAverage": "6.88/8.00",
+        "interceptionsAverageHome": "6.00/8.00",
+        "interceptionsAverageAway": "7.75/8.00",
+        "aerialDuelsTotals": "166/132",
+        "aerialDuelsTotalsHome": "77/69",
+        "aerialDuelsTotalsAway": "89/63",
+        "aerialDuelsAverage": "20.75/16.50",
+        "aerialDuelsAverageHome": "19.25/17.25",
+        "aerialDuelsAverageAway": "22.25/15.75",
+        "aerialDuelsAttemptedTotals": "298/298",
+        "aerialDuelsAttemptedTotalsHome": "146/146",
+        "aerialDuelsAttemptedTotalsAway": "152/152",
+        "aerialDuelsAttemptedAverage": "37.25/37.25",
+        "aerialDuelsAttemptedAverageHome": "36.50/36.50",
+        "aerialDuelsAttemptedAverageAway": "38.00/38.00",
+        "dribblesTotals": "68/43",
+        "dribblesTotalsHome": "39/24",
+        "dribblesTotalsAway": "29/19",
+        "dribblesAverage": "8.50/5.38",
+        "dribblesAverageHome": "9.75/6.00",
+        "dribblesAverageAway": "7.25/4.75",
+        "dribblesAttemptedTotals": "120/98",
+        "dribblesAttemptedTotalsHome": "62/55",
+        "dribblesAttemptedTotalsAway": "58/43",
+        "dribblesAttemptedAverage": "15.00/12.25",
+        "dribblesAttemptedAverageHome": "15.50/13.75",
+        "dribblesAttemptedAverageAway": "14.50/10.75"
+    }
+}

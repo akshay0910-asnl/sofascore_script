@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "13.50",
+        "goalKicks": "7.50",
+        "saves": "6.00",
+        "offsides": "2.00",
+        "shotsOnTarget": "4.00/7.50",
+        "yellowCards": "1.50/1.00",
+        "goals": "1.50/1.50",
+        "throwIns": "21.00",
+        "ballPossession": 50,
+        "tackles": "17.00/17.00",
+        "interceptions": "8.50/8.50",
+        "aerialDuels": "9.50",
+        "aerialDuelsAttempted": "20.50",
+        "dribbles": "6.00/5.00",
+        "dribblesAttempted": "15.00/13.00"
+    },
+    "teamSlug": "club-leon",
+    "teamId": "36534",
+    "teamName": "Club León",
+    "tournament": "Liga MX, Clausura",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-cf-pachuca/LNsJFo#id:15238901,tab:statistics",
+            "teams": [
+                "Pachuca",
+                "León"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1936",
+                "36534"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-cruz-azul/XNsJFo#id:15238895,tab:statistics",
+            "teams": [
+                "León",
+                "Cruz Azul"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "36534",
+                "1947"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-cruz-azul/XNsJFo#id:13796311,tab:statistics",
+            "teams": [
+                "Cruz Azul",
+                "León"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1947",
+                "36534"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-cruz-azul/XNsJFo#id:13796306,tab:statistics",
+            "teams": [
+                "León",
+                "Cruz Azul"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "36534",
+                "1947"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-cf-monterrey/HNsJFo#id:13256006,tab:statistics",
+            "teams": [
+                "León",
+                "Monterrey"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "36534",
+                "1932"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-cruz-azul/XNsJFo#id:13256015,tab:statistics",
+            "teams": [
+                "Cruz Azul",
+                "León"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1947",
+                "36534"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-club-puebla/QNsJFo#id:13262980,tab:statistics",
+            "teams": [
+                "León",
+                "Puebla"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "36534",
+                "1941"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/club-leon-queretaro-fc/bOsJFo#id:13295750,tab:statistics",
+            "teams": [
+                "Querétaro",
+                "León"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1951",
+                "36534"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/4[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "6/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "León,Pachuca,Away",
+            "tackles": "14/16[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "5/10[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "13/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "17/16[H]",
+            "goalKicks": "8/2[H]",
+            "saves": "6/4[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "6/7[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "21/17[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "León,Cruz Azul,Home",
+            "tackles": "20/18[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "14/12[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "17/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "8/12[A]",
+            "saves": "7/4[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "5/8[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "16/20[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "León,Cruz Azul,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "8/5[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "14/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/0[H]",
+            "fouls": "7/14[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/3[H]",
+            "throwIns": "23/19[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "León,Cruz Azul,Home",
+            "tackles": "15/20[H]",
+            "interceptions": "7/4[H]",
+            "aerialDuels": "6/7[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "14/7[H]",
+            "dribblesAttempted": "32/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "11/7[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "32/12[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "León,Monterrey,Home",
+            "tackles": "19/20[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "9/15[H]",
+            "dribblesAttempted": "16/30[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "8/7[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "6/2[A]",
+            "offsides": "4/4[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "13/25[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "León,Cruz Azul,Away",
+            "tackles": "8/13[A]",
+            "interceptions": "8/4[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "4/2[A]",
+            "dribblesAttempted": "10/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "14/23[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "3/6[H]",
+            "goals": "1/0[H]",
+            "throwIns": "24/22[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "León,Puebla,Home",
+            "tackles": "19/17[H]",
+            "interceptions": "6/13[H]",
+            "aerialDuels": "12/6[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "6/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "14/12[A]",
+            "goalKicks": "3/12[A]",
+            "saves": "7/6[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "7/8[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "León,Querétaro,Away",
+            "tackles": "11/10[A]",
+            "interceptions": "2/4[A]",
+            "aerialDuels": "9/9[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "8/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:19:07.343Z",
+    "endTime": "2026-01-18T10:19:45.388Z",
+    "totalTimeSeconds": 38.05,
+    "combinedMatchStatistics": {
+        "corners": "6/4[A]+3/6[H]+6/5[A]+3/0[H]+4/4[H]+4/4[A]+4/4[H]+5/3[A]",
+        "fouls": "10/11[A]+17/16[H]+9/13[A]+7/14[H]+11/7[H]+8/7[A]+14/23[H]+14/12[A]",
+        "goalKicks": "7/6[A]+8/2[H]+8/12[A]+5/8[H]+7/9[H]+13/5[A]+6/10[H]+3/12[A]",
+        "saves": "6/1[A]+6/4[H]+7/4[A]+3/2[H]+2/2[H]+6/2[A]+3/2[H]+7/6[A]",
+        "offsides": "1/1[A]+3/2[H]+4/3[A]+3/1[H]+2/0[H]+4/4[A]+3/2[H]+2/2[A]",
+        "shotsOnTarget": "2/8[A]+6/7[H]+5/8[A]+4/6[H]+2/4[H]+3/8[A]+3/3[H]+7/8[A]",
+        "yellowCards": "0/1[A]+3/1[H]+1/1[A]+2/3[H]+3/3[H]+4/1[A]+3/6[H]+3/2[A]",
+        "goals": "1/2[A]+2/1[H]+1/2[A]+2/3[H]+0/2[H]+1/2[A]+1/0[H]+1/1[A]",
+        "throwIns": "21/20[A]+21/17[H]+16/20[A]+23/19[H]+32/12[H]+13/25[A]+24/22[H]+17/14[A]",
+        "averageBallPossession": "54/46[A]+46/54[H]+48/52[A]+46/54[H]+43/57[H]+38/62[A]+67/33[H]+69/31[A]",
+        "teams": "León,Pachuca,Away+León,Cruz Azul,Home+León,Cruz Azul,Away+León,Cruz Azul,Home+León,Monterrey,Home+León,Cruz Azul,Away+León,Puebla,Home+León,Querétaro,Away",
+        "tackles": "14/16[A]+20/18[H]+13/13[A]+15/20[H]+19/20[H]+8/13[A]+19/17[H]+11/10[A]",
+        "interceptions": "7/8[A]+10/9[H]+8/5[A]+7/4[H]+8/10[H]+8/4[A]+6/13[H]+2/4[A]",
+        "aerialDuels": "5/10[A]+14/12[H]+8/5[A]+6/7[H]+7/10[H]+8/10[A]+12/6[H]+9/9[A]",
+        "aerialDuelsAttempted": "15/15[A]+26/26[H]+13/13[A]+13/13[H]+17/17[H]+18/18[A]+18/18[H]+18/18[A]",
+        "dribbles": "7/6[A]+5/4[H]+8/6[A]+14/7[H]+9/15[H]+4/2[A]+4/9[H]+5/10[A]",
+        "dribblesAttempted": "13/14[A]+17/12[H]+14/17[A]+32/14[H]+16/30[H]+10/4[A]+6/19[H]+8/19[A]",
+        "isHome": "false+true+false+true+true+false+true+false",
+        "cornersTotals": "35/30",
+        "cornersTotalsHome": "14/14",
+        "cornersTotalsAway": "21/16",
+        "cornersAverage": "4.38/3.75",
+        "cornersAverageHome": "3.50/3.50",
+        "cornersAverageAway": "5.25/4.00",
+        "foulsTotals": "90/103",
+        "foulsTotalsHome": "49/60",
+        "foulsTotalsAway": "41/43",
+        "foulsAverage": "11.25/12.88",
+        "foulsAverageHome": "12.25/15.00",
+        "foulsAverageAway": "10.25/10.75",
+        "goalKicksTotals": "57/64",
+        "goalKicksTotalsHome": "26/29",
+        "goalKicksTotalsAway": "31/35",
+        "goalKicksAverage": "7.13/8.00",
+        "goalKicksAverageHome": "6.50/7.25",
+        "goalKicksAverageAway": "7.75/8.75",
+        "savesTotals": "40/23",
+        "savesTotalsHome": "14/10",
+        "savesTotalsAway": "26/13",
+        "savesAverage": "5.00/2.88",
+        "savesAverageHome": "3.50/2.50",
+        "savesAverageAway": "6.50/3.25",
+        "offsidesTotals": "22/15",
+        "offsidesTotalsHome": "11/5",
+        "offsidesTotalsAway": "11/10",
+        "offsidesAverage": "2.75/1.88",
+        "offsidesAverageHome": "2.75/1.25",
+        "offsidesAverageAway": "2.75/2.50",
+        "shotsOnTargetTotals": "32/52",
+        "shotsOnTargetTotalsHome": "15/20",
+        "shotsOnTargetTotalsAway": "17/32",
+        "shotsOnTargetAverage": "4.00/6.50",
+        "shotsOnTargetAverageHome": "3.75/5.00",
+        "shotsOnTargetAverageAway": "4.25/8.00",
+        "yellowCardsTotals": "19/18",
+        "yellowCardsTotalsHome": "11/13",
+        "yellowCardsTotalsAway": "8/5",
+        "yellowCardsAverage": "2.38/2.25",
+        "yellowCardsAverageHome": "2.75/3.25",
+        "yellowCardsAverageAway": "2.00/1.25",
+        "goalsTotals": "9/13",
+        "goalsTotalsHome": "5/6",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "1.13/1.63",
+        "goalsAverageHome": "1.25/1.50",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "167/149",
+        "throwInsTotalsHome": "100/70",
+        "throwInsTotalsAway": "67/79",
+        "throwInsAverage": "20.88/18.63",
+        "throwInsAverageHome": "25.00/17.50",
+        "throwInsAverageAway": "16.75/19.75",
+        "averageBallPossessionTotals": "411/389",
+        "averageBallPossessionTotalsHome": "202/198",
+        "averageBallPossessionTotalsAway": "209/191",
+        "averageBallPossessionAverage": "51.38/48.63",
+        "averageBallPossessionAverageHome": "50.50/49.50",
+        "averageBallPossessionAverageAway": "52.25/47.75",
+        "tacklesTotals": "119/127",
+        "tacklesTotalsHome": "73/75",
+        "tacklesTotalsAway": "46/52",
+        "tacklesAverage": "14.88/15.88",
+        "tacklesAverageHome": "18.25/18.75",
+        "tacklesAverageAway": "11.50/13.00",
+        "interceptionsTotals": "56/57",
+        "interceptionsTotalsHome": "31/36",
+        "interceptionsTotalsAway": "25/21",
+        "interceptionsAverage": "7.00/7.13",
+        "interceptionsAverageHome": "7.75/9.00",
+        "interceptionsAverageAway": "6.25/5.25",
+        "aerialDuelsTotals": "69/69",
+        "aerialDuelsTotalsHome": "39/35",
+        "aerialDuelsTotalsAway": "30/34",
+        "aerialDuelsAverage": "8.63/8.63",
+        "aerialDuelsAverageHome": "9.75/8.75",
+        "aerialDuelsAverageAway": "7.50/8.50",
+        "aerialDuelsAttemptedTotals": "138/138",
+        "aerialDuelsAttemptedTotalsHome": "74/74",
+        "aerialDuelsAttemptedTotalsAway": "64/64",
+        "aerialDuelsAttemptedAverage": "17.25/17.25",
+        "aerialDuelsAttemptedAverageHome": "18.50/18.50",
+        "aerialDuelsAttemptedAverageAway": "16.00/16.00",
+        "dribblesTotals": "56/59",
+        "dribblesTotalsHome": "32/35",
+        "dribblesTotalsAway": "24/24",
+        "dribblesAverage": "7.00/7.38",
+        "dribblesAverageHome": "8.00/8.75",
+        "dribblesAverageAway": "6.00/6.00",
+        "dribblesAttemptedTotals": "116/129",
+        "dribblesAttemptedTotalsHome": "71/75",
+        "dribblesAttemptedTotalsAway": "45/54",
+        "dribblesAttemptedAverage": "14.50/16.13",
+        "dribblesAttemptedAverageHome": "17.75/18.75",
+        "dribblesAttemptedAverageAway": "11.25/13.50"
+    }
+}

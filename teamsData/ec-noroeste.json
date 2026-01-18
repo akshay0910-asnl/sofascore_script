@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.50",
+        "fouls": "12.00",
+        "goalKicks": "10.50",
+        "saves": "2.50",
+        "offsides": "0.50",
+        "shotsOnTarget": "4.50/4.00",
+        "yellowCards": "3.00/1.00",
+        "goals": "0.50/1.00",
+        "throwIns": "24.50",
+        "ballPossession": 44.5,
+        "tackles": "14.50/15.50",
+        "interceptions": "7.50/7.50",
+        "aerialDuels": "30.00",
+        "aerialDuelsAttempted": "55.50",
+        "dribbles": "5.50/3.50",
+        "dribblesAttempted": "12.00/11.00"
+    },
+    "teamSlug": "ec-noroeste",
+    "teamId": "6962",
+    "teamName": "EC Noroeste",
+    "tournament": "Paulista Série A1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ec-noroeste-botafogo-sp/EOsmOc#id:15176520,tab:statistics",
+            "teams": [
+                "Botafogo-SP",
+                "Noroeste"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1979",
+                "6962"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ec-noroeste-red-bull-bragantino/ZOsmOc#id:15176508,tab:statistics",
+            "teams": [
+                "Noroeste",
+                "RB Bragantino"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "6962",
+                "1999"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portuguesa-ec-noroeste/mOcsWMi#id:13193972,tab:statistics",
+            "teams": [
+                "Noroeste",
+                "Portuguesa"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "6962",
+                "21896"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ec-noroeste-santos/tOsmOc#id:13193963,tab:statistics",
+            "teams": [
+                "Santos",
+                "Noroeste"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "1968",
+                "6962"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ec-noroeste-red-bull-bragantino/ZOsmOc#id:13193960,tab:statistics",
+            "teams": [
+                "RB Bragantino",
+                "Noroeste"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1999",
+                "6962"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sao-bernardo-ec-noroeste/mOcseau#id:13193951,tab:statistics",
+            "teams": [
+                "Noroeste",
+                "São Bernardo"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "6962",
+                "47504"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mirassol-ec-noroeste/mOcsHOi#id:13193939,tab:statistics",
+            "teams": [
+                "Mirassol",
+                "Noroeste"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "21982",
+                "6962"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ec-noroeste-ponte-preta/uOsmOc#id:13193935,tab:statistics",
+            "teams": [
+                "Noroeste",
+                "Ponte Preta"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "6962",
+                "1969"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/7[A]",
+            "fouls": "12/18[A]",
+            "goalKicks": "11/12[A]",
+            "saves": "3/5[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "21/27[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Noroeste,Botafogo-SP,Away",
+            "tackles": "12/12[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "37/34[A]",
+            "aerialDuelsAttempted": "71/71[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "13/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "10/4[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "28/28[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Noroeste,RB Bragantino,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "9/5[H]",
+            "aerialDuels": "23/17[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "11/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "2/1[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/29[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Noroeste,Portuguesa,Home",
+            "tackles": "20/8[H]",
+            "interceptions": "15/6[H]",
+            "aerialDuels": "20/15[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "11/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "12/1[A]",
+            "saves": "2/0[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "0/5[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "15/16[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Noroeste,Santos,Away",
+            "tackles": "14/10[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "16/21[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "7/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[A]",
+            "fouls": "5/7[A]",
+            "goalKicks": "14/6[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "17/32[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Noroeste,RB Bragantino,Away",
+            "tackles": "20/24[A]",
+            "interceptions": "14/6[A]",
+            "aerialDuels": "14/12[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "9/10[A]",
+            "dribblesAttempted": "21/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "10/11[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "23/31[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Noroeste,São Bernardo,Home",
+            "tackles": "14/21[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "11/12[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "11/1[H]",
+            "dribblesAttempted": "23/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "18/3[A]",
+            "saves": "3/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "18/16[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Noroeste,Mirassol,Away",
+            "tackles": "15/8[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "17/15[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "2/9[A]",
+            "dribblesAttempted": "3/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/1[H]",
+            "fouls": "11/17[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "1/5[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "29/18[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Noroeste,Ponte Preta,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "7/18[H]",
+            "aerialDuels": "21/6[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "13/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:26:57.919Z",
+    "endTime": "2026-01-18T10:27:24.998Z",
+    "totalTimeSeconds": 27.08,
+    "combinedMatchStatistics": {
+        "corners": "8/7[A]+3/6[H]+5/4[H]+1/9[A]+7/6[A]+4/7[H]+3/9[A]+5/1[H]",
+        "fouls": "12/18[A]+12/11[H]+15/11[H]+8/12[A]+5/7[A]+10/11[H]+9/8[A]+11/17[H]",
+        "goalKicks": "11/12[A]+10/4[H]+7/6[H]+12/1[A]+14/6[A]+10/11[H]+18/3[A]+3/6[H]",
+        "saves": "3/5[A]+2/2[H]+2/1[H]+2/0[A]+3/2[A]+2/5[H]+3/0[A]+1/5[H]",
+        "offsides": "0/1[A]+1/4[H]+4/2[H]+0/3[A]+0/1[A]+0/1[H]+0/1[A]+2/2[H]",
+        "shotsOnTarget": "7/5[A]+2/3[H]+2/3[H]+0/5[A]+3/5[A]+7/5[H]+1/5[A]+6/3[H]",
+        "yellowCards": "3/1[A]+3/1[H]+0/0[H]+5/2[A]+0/0[A]+5/2[H]+1/1[A]+2/3[H]",
+        "goals": "1/1[A]+0/1[H]+1/1[H]+0/3[A]+1/2[A]+2/3[H]+1/1[A]+1/2[H]",
+        "throwIns": "21/27[A]+28/28[H]+20/29[H]+15/16[A]+17/32[A]+23/31[H]+18/16[A]+29/18[H]",
+        "averageBallPossession": "55/45[A]+34/66[H]+36/64[H]+39/61[A]+42/58[A]+58/42[H]+38/62[A]+60/40[H]",
+        "teams": "Noroeste,Botafogo-SP,Away+Noroeste,RB Bragantino,Home+Noroeste,Portuguesa,Home+Noroeste,Santos,Away+Noroeste,RB Bragantino,Away+Noroeste,São Bernardo,Home+Noroeste,Mirassol,Away+Noroeste,Ponte Preta,Home",
+        "tackles": "12/12[A]+17/19[H]+20/8[H]+14/10[A]+20/24[A]+14/21[H]+15/8[A]+12/17[H]",
+        "interceptions": "6/10[A]+9/5[H]+15/6[H]+11/11[A]+14/6[A]+9/9[H]+5/10[A]+7/18[H]",
+        "aerialDuels": "37/34[A]+23/17[H]+20/15[H]+16/21[A]+14/12[A]+11/12[H]+17/15[A]+21/6[H]",
+        "aerialDuelsAttempted": "71/71[A]+40/40[H]+35/35[H]+37/37[A]+26/26[A]+23/23[H]+32/32[A]+27/27[H]",
+        "dribbles": "8/2[A]+3/5[H]+8/11[H]+3/7[A]+9/10[A]+11/1[H]+2/9[A]+4/6[H]",
+        "dribblesAttempted": "13/8[A]+11/14[H]+11/18[H]+7/16[A]+21/19[A]+23/7[H]+3/16[A]+13/11[H]",
+        "isHome": "false+true+true+false+false+true+false+true",
+        "cornersTotals": "36/49",
+        "cornersTotalsHome": "17/18",
+        "cornersTotalsAway": "19/31",
+        "cornersAverage": "4.50/6.13",
+        "cornersAverageHome": "4.25/4.50",
+        "cornersAverageAway": "4.75/7.75",
+        "foulsTotals": "82/95",
+        "foulsTotalsHome": "48/50",
+        "foulsTotalsAway": "34/45",
+        "foulsAverage": "10.25/11.88",
+        "foulsAverageHome": "12.00/12.50",
+        "foulsAverageAway": "8.50/11.25",
+        "goalKicksTotals": "85/49",
+        "goalKicksTotalsHome": "30/27",
+        "goalKicksTotalsAway": "55/22",
+        "goalKicksAverage": "10.63/6.13",
+        "goalKicksAverageHome": "7.50/6.75",
+        "goalKicksAverageAway": "13.75/5.50",
+        "savesTotals": "18/20",
+        "savesTotalsHome": "7/13",
+        "savesTotalsAway": "11/7",
+        "savesAverage": "2.25/2.50",
+        "savesAverageHome": "1.75/3.25",
+        "savesAverageAway": "2.75/1.75",
+        "offsidesTotals": "7/15",
+        "offsidesTotalsHome": "7/9",
+        "offsidesTotalsAway": "0/6",
+        "offsidesAverage": "0.88/1.88",
+        "offsidesAverageHome": "1.75/2.25",
+        "offsidesAverageAway": "0.00/1.50",
+        "shotsOnTargetTotals": "28/34",
+        "shotsOnTargetTotalsHome": "17/14",
+        "shotsOnTargetTotalsAway": "11/20",
+        "shotsOnTargetAverage": "3.50/4.25",
+        "shotsOnTargetAverageHome": "4.25/3.50",
+        "shotsOnTargetAverageAway": "2.75/5.00",
+        "yellowCardsTotals": "19/10",
+        "yellowCardsTotalsHome": "10/6",
+        "yellowCardsTotalsAway": "9/4",
+        "yellowCardsAverage": "2.38/1.25",
+        "yellowCardsAverageHome": "2.50/1.50",
+        "yellowCardsAverageAway": "2.25/1.00",
+        "goalsTotals": "7/14",
+        "goalsTotalsHome": "4/7",
+        "goalsTotalsAway": "3/7",
+        "goalsAverage": "0.88/1.75",
+        "goalsAverageHome": "1.00/1.75",
+        "goalsAverageAway": "0.75/1.75",
+        "throwInsTotals": "171/197",
+        "throwInsTotalsHome": "100/106",
+        "throwInsTotalsAway": "71/91",
+        "throwInsAverage": "21.38/24.63",
+        "throwInsAverageHome": "25.00/26.50",
+        "throwInsAverageAway": "17.75/22.75",
+        "averageBallPossessionTotals": "362/438",
+        "averageBallPossessionTotalsHome": "188/212",
+        "averageBallPossessionTotalsAway": "174/226",
+        "averageBallPossessionAverage": "45.25/54.75",
+        "averageBallPossessionAverageHome": "47.00/53.00",
+        "averageBallPossessionAverageAway": "43.50/56.50",
+        "tacklesTotals": "124/119",
+        "tacklesTotalsHome": "63/65",
+        "tacklesTotalsAway": "61/54",
+        "tacklesAverage": "15.50/14.88",
+        "tacklesAverageHome": "15.75/16.25",
+        "tacklesAverageAway": "15.25/13.50",
+        "interceptionsTotals": "76/75",
+        "interceptionsTotalsHome": "40/38",
+        "interceptionsTotalsAway": "36/37",
+        "interceptionsAverage": "9.50/9.38",
+        "interceptionsAverageHome": "10.00/9.50",
+        "interceptionsAverageAway": "9.00/9.25",
+        "aerialDuelsTotals": "159/132",
+        "aerialDuelsTotalsHome": "75/50",
+        "aerialDuelsTotalsAway": "84/82",
+        "aerialDuelsAverage": "19.88/16.50",
+        "aerialDuelsAverageHome": "18.75/12.50",
+        "aerialDuelsAverageAway": "21.00/20.50",
+        "aerialDuelsAttemptedTotals": "291/291",
+        "aerialDuelsAttemptedTotalsHome": "125/125",
+        "aerialDuelsAttemptedTotalsAway": "166/166",
+        "aerialDuelsAttemptedAverage": "36.38/36.38",
+        "aerialDuelsAttemptedAverageHome": "31.25/31.25",
+        "aerialDuelsAttemptedAverageAway": "41.50/41.50",
+        "dribblesTotals": "48/51",
+        "dribblesTotalsHome": "26/23",
+        "dribblesTotalsAway": "22/28",
+        "dribblesAverage": "6.00/6.38",
+        "dribblesAverageHome": "6.50/5.75",
+        "dribblesAverageAway": "5.50/7.00",
+        "dribblesAttemptedTotals": "102/109",
+        "dribblesAttemptedTotalsHome": "58/50",
+        "dribblesAttemptedTotalsAway": "44/59",
+        "dribblesAttemptedAverage": "12.75/13.63",
+        "dribblesAttemptedAverageHome": "14.50/12.50",
+        "dribblesAttemptedAverageAway": "11.00/14.75"
+    }
+}

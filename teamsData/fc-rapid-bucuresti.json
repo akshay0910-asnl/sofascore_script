@@ -1,0 +1,448 @@
+{
+    "globalStatistics": {
+        "corners": "4.71",
+        "fouls": "12.14",
+        "goalKicks": "8.29",
+        "saves": "3.33",
+        "offsides": "1.19",
+        "shotsOnTarget": "4.14/4.33",
+        "yellowCards": "1.86/1.81",
+        "goals": "1.62/0.95",
+        "throwIns": "21.90",
+        "ballPossession": 53,
+        "tackles": "16.67/17.86",
+        "interceptions": "7.67/8.71",
+        "aerialDuels": "12.33",
+        "aerialDuelsAttempted": "25.95",
+        "dribbles": "6.90/8.19",
+        "dribblesAttempted": "15.52/16.43"
+    },
+    "teamSlug": "fc-rapid-bucuresti",
+    "teamId": "295403",
+    "teamName": "FC Rapid București",
+    "tournament": "Romanian SuperLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fcsb/bqbsditc#id:14065018,tab:statistics",
+            "teams": [
+                "FCSB",
+                "Rapid București"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3301",
+                "295403"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-sc-otelul-galati/Qpbsditc#id:14065022,tab:statistics",
+            "teams": [
+                "Rapid București",
+                "Oțelul Galați"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "295403",
+                "3291"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fc-botosani/YVjsditc#id:14065009,tab:statistics",
+            "teams": [
+                "FC Botoșani",
+                "Rapid București"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "24798",
+                "295403"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fk-csikszereda-miercurea-ciuc/xEncsditc#id:14060322,tab:statistics",
+            "teams": [
+                "Rapid București",
+                "FK Csíkszereda"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "295403",
+                "283972"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-cfr-1907-cluj/Mfcsditc#id:14060311,tab:statistics",
+            "teams": [
+                "CFR Cluj",
+                "Rapid București"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "5287",
+                "295403"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fc-arges-pitesti/wzWsditc#id:14060308,tab:statistics",
+            "teams": [
+                "Rapid București",
+                "Argeș Pitești"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "295403",
+                "116221"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-universitatea-craiova/yzWsditc#id:14054788,tab:statistics",
+            "teams": [
+                "U. Craiova",
+                "Rapid București"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "116223",
+                "295403"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-afc-unirea-04-slobozia/jKrsditc#id:14054782,tab:statistics",
+            "teams": [
+                "Rapid București",
+                "Unirea Slobozia"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "295403",
+                "44259"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/6[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "10/10[A]",
+            "saves": "2/2[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "20/16[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Rapid București,FCSB,Away",
+            "tackles": "15/26[A]",
+            "interceptions": "2/15[A]",
+            "aerialDuels": "16/8[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "4/2[A]",
+            "dribblesAttempted": "18/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "22/10[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "5/4[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "0/2[H]",
+            "throwIns": "27/16[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Rapid București,Oțelul Galați,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "11/17[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "16/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "16/22[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "6/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "15/21[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Rapid București,FC Botoșani,Away",
+            "tackles": "10/10[A]",
+            "interceptions": "13/11[A]",
+            "aerialDuels": "10/9[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "8/12[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/0[H]",
+            "fouls": "18/15[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "4/1[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Rapid București,FK Csíkszereda,Home",
+            "tackles": "21/17[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "11/10[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "3/12[A]",
+            "saves": "7/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "22/13[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Rapid București,CFR Cluj,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "11/10[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "12/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "13/4[H]",
+            "saves": "1/0[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/1[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "18/24[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Rapid București,Argeș Pitești,Home",
+            "tackles": "20/25[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "15/19[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "19/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/9[A]",
+            "fouls": "12/19[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "6/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/9[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/2[A]",
+            "throwIns": "22/23[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Rapid București,U. Craiova,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "11/15[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "4/14[A]",
+            "dribblesAttempted": "9/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/0[H]",
+            "fouls": "18/7[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "1/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "4/1[H]",
+            "throwIns": "18/14[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Rapid București,Unirea Slobozia,Home",
+            "tackles": "16/19[H]",
+            "interceptions": "4/4[H]",
+            "aerialDuels": "6/12[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "13/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-17T16:22:15.234Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/fc-rapid-bucuresti-universitatea-craiova/yzWsditc#id:14054788,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 301011,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-17T16:22:58.651Z",
+    "totalTimeSeconds": 43.42,
+    "combinedMatchStatistics": {
+        "corners": "2/6[A]+3/2[H]+1/7[A]+7/0[H]+3/6[A]+6/7[H]+4/9[A]+8/0[H]",
+        "fouls": "13/14[A]+22/10[H]+16/22[A]+18/15[H]+10/10[A]+12/8[H]+12/19[A]+18/7[H]",
+        "goalKicks": "10/10[A]+6/7[H]+5/6[A]+10/9[H]+3/12[A]+13/4[H]+11/4[A]+6/12[H]",
+        "saves": "2/2[A]+5/4[H]+6/1[A]+3/4[H]+7/1[A]+1/0[H]+6/1[A]+1/1[H]",
+        "offsides": "3/1[A]+0/0[H]+0/2[A]+1/0[H]+2/0[A]+1/2[H]+1/0[A]+0/0[H]",
+        "shotsOnTarget": "3/4[A]+4/7[H]+1/6[A]+8/4[H]+1/9[A]+2/1[H]+3/9[A]+5/2[H]",
+        "yellowCards": "4/3[A]+1/0[H]+2/3[A]+1/1[H]+1/2[A]+2/1[H]+2/4[A]+0/0[H]",
+        "goals": "1/2[A]+0/2[H]+0/0[A]+4/1[H]+0/3[A]+2/0[H]+2/2[A]+4/1[H]",
+        "throwIns": "20/16[A]+27/16[H]+15/21[A]+17/25[H]+22/13[A]+18/24[H]+22/23[A]+18/14[H]",
+        "averageBallPossession": "50/50[A]+52/48[H]+47/53[A]+57/43[H]+62/38[A]+59/41[H]+37/63[A]+60/40[H]",
+        "teams": "Rapid București,FCSB,Away+Rapid București,Oțelul Galați,Home+Rapid București,FC Botoșani,Away+Rapid București,FK Csíkszereda,Home+Rapid București,CFR Cluj,Away+Rapid București,Argeș Pitești,Home+Rapid București,U. Craiova,Away+Rapid București,Unirea Slobozia,Home",
+        "tackles": "15/26[A]+15/15[H]+10/10[A]+21/17[H]+15/14[A]+20/25[H]+15/14[A]+16/19[H]",
+        "interceptions": "2/15[A]+9/10[H]+13/11[A]+8/7[H]+9/10[A]+9/4[H]+7/11[A]+4/4[H]",
+        "aerialDuels": "16/8[A]+11/17[H]+10/9[A]+11/10[H]+11/10[A]+15/19[H]+11/15[A]+6/12[H]",
+        "aerialDuelsAttempted": "24/24[A]+28/28[H]+19/19[A]+21/21[H]+21/21[A]+34/34[H]+26/26[A]+18/18[H]",
+        "dribbles": "4/2[A]+9/4[H]+8/12[A]+7/4[H]+5/10[A]+5/8[H]+4/14[A]+3/6[H]",
+        "dribblesAttempted": "18/5[A]+16/13[H]+12/16[A]+17/13[H]+12/20[A]+19/21[H]+9/24[A]+13/14[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "34/37",
+        "cornersTotalsHome": "24/9",
+        "cornersTotalsAway": "10/28",
+        "cornersAverage": "4.25/4.63",
+        "cornersAverageHome": "6.00/2.25",
+        "cornersAverageAway": "2.50/7.00",
+        "foulsTotals": "121/105",
+        "foulsTotalsHome": "70/40",
+        "foulsTotalsAway": "51/65",
+        "foulsAverage": "15.13/13.13",
+        "foulsAverageHome": "17.50/10.00",
+        "foulsAverageAway": "12.75/16.25",
+        "goalKicksTotals": "64/64",
+        "goalKicksTotalsHome": "35/32",
+        "goalKicksTotalsAway": "29/32",
+        "goalKicksAverage": "8.00/8.00",
+        "goalKicksAverageHome": "8.75/8.00",
+        "goalKicksAverageAway": "7.25/8.00",
+        "savesTotals": "31/14",
+        "savesTotalsHome": "10/9",
+        "savesTotalsAway": "21/5",
+        "savesAverage": "3.88/1.75",
+        "savesAverageHome": "2.50/2.25",
+        "savesAverageAway": "5.25/1.25",
+        "offsidesTotals": "8/5",
+        "offsidesTotalsHome": "2/2",
+        "offsidesTotalsAway": "6/3",
+        "offsidesAverage": "1.00/0.63",
+        "offsidesAverageHome": "0.50/0.50",
+        "offsidesAverageAway": "1.50/0.75",
+        "shotsOnTargetTotals": "27/42",
+        "shotsOnTargetTotalsHome": "19/14",
+        "shotsOnTargetTotalsAway": "8/28",
+        "shotsOnTargetAverage": "3.38/5.25",
+        "shotsOnTargetAverageHome": "4.75/3.50",
+        "shotsOnTargetAverageAway": "2.00/7.00",
+        "yellowCardsTotals": "13/14",
+        "yellowCardsTotalsHome": "4/2",
+        "yellowCardsTotalsAway": "9/12",
+        "yellowCardsAverage": "1.63/1.75",
+        "yellowCardsAverageHome": "1.00/0.50",
+        "yellowCardsAverageAway": "2.25/3.00",
+        "goalsTotals": "13/11",
+        "goalsTotalsHome": "10/4",
+        "goalsTotalsAway": "3/7",
+        "goalsAverage": "1.63/1.38",
+        "goalsAverageHome": "2.50/1.00",
+        "goalsAverageAway": "0.75/1.75",
+        "throwInsTotals": "159/152",
+        "throwInsTotalsHome": "80/79",
+        "throwInsTotalsAway": "79/73",
+        "throwInsAverage": "19.88/19.00",
+        "throwInsAverageHome": "20.00/19.75",
+        "throwInsAverageAway": "19.75/18.25",
+        "averageBallPossessionTotals": "424/376",
+        "averageBallPossessionTotalsHome": "228/172",
+        "averageBallPossessionTotalsAway": "196/204",
+        "averageBallPossessionAverage": "53.00/47.00",
+        "averageBallPossessionAverageHome": "57.00/43.00",
+        "averageBallPossessionAverageAway": "49.00/51.00",
+        "tacklesTotals": "127/140",
+        "tacklesTotalsHome": "72/76",
+        "tacklesTotalsAway": "55/64",
+        "tacklesAverage": "15.88/17.50",
+        "tacklesAverageHome": "18.00/19.00",
+        "tacklesAverageAway": "13.75/16.00",
+        "interceptionsTotals": "61/72",
+        "interceptionsTotalsHome": "30/25",
+        "interceptionsTotalsAway": "31/47",
+        "interceptionsAverage": "7.63/9.00",
+        "interceptionsAverageHome": "7.50/6.25",
+        "interceptionsAverageAway": "7.75/11.75",
+        "aerialDuelsTotals": "91/100",
+        "aerialDuelsTotalsHome": "43/58",
+        "aerialDuelsTotalsAway": "48/42",
+        "aerialDuelsAverage": "11.38/12.50",
+        "aerialDuelsAverageHome": "10.75/14.50",
+        "aerialDuelsAverageAway": "12.00/10.50",
+        "aerialDuelsAttemptedTotals": "191/191",
+        "aerialDuelsAttemptedTotalsHome": "101/101",
+        "aerialDuelsAttemptedTotalsAway": "90/90",
+        "aerialDuelsAttemptedAverage": "23.88/23.88",
+        "aerialDuelsAttemptedAverageHome": "25.25/25.25",
+        "aerialDuelsAttemptedAverageAway": "22.50/22.50",
+        "dribblesTotals": "45/60",
+        "dribblesTotalsHome": "24/22",
+        "dribblesTotalsAway": "21/38",
+        "dribblesAverage": "5.63/7.50",
+        "dribblesAverageHome": "6.00/5.50",
+        "dribblesAverageAway": "5.25/9.50",
+        "dribblesAttemptedTotals": "116/126",
+        "dribblesAttemptedTotalsHome": "65/61",
+        "dribblesAttemptedTotalsAway": "51/65",
+        "dribblesAttemptedAverage": "14.50/15.75",
+        "dribblesAttemptedAverageHome": "16.25/15.25",
+        "dribblesAttemptedAverageAway": "12.75/16.25"
+    }
+}

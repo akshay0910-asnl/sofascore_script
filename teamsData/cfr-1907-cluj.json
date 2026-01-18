@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.43",
+        "fouls": "10.86",
+        "goalKicks": "8.48",
+        "saves": "2.43",
+        "offsides": "2.05",
+        "shotsOnTarget": "5.95/3.90",
+        "yellowCards": "1.67/2.10",
+        "goals": "1.38/1.57",
+        "throwIns": "23.86",
+        "ballPossession": 49.714285714286,
+        "tackles": "14.86/15.71",
+        "interceptions": "8.33/9.86",
+        "aerialDuels": "15.10",
+        "aerialDuelsAttempted": "29.43",
+        "dribbles": "6.90/6.95",
+        "dribblesAttempted": "14.76/14.24"
+    },
+    "teamSlug": "cfr-1907-cluj",
+    "teamId": "5287",
+    "teamName": "CFR 1907 Cluj",
+    "tournament": "Romanian SuperLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-botosani-cfr-1907-cluj/MfcsYVj#id:14065020,tab:statistics",
+            "teams": [
+                "FC Botoșani",
+                "CFR Cluj"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "24798",
+                "5287"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-csikszereda-miercurea-ciuc-cfr-1907-cluj/MfcsxEnc#id:14065017,tab:statistics",
+            "teams": [
+                "CFR Cluj",
+                "FK Csíkszereda"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "5287",
+                "283972"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universitatea-craiova-cfr-1907-cluj/MfcsyzW#id:14060323,tab:statistics",
+            "teams": [
+                "U. Craiova",
+                "CFR Cluj"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "116223",
+                "5287"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-cfr-1907-cluj/MfcswzW#id:14060321,tab:statistics",
+            "teams": [
+                "Argeș Pitești",
+                "CFR Cluj"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "116221",
+                "5287"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-cfr-1907-cluj/Mfcsditc#id:14060311,tab:statistics",
+            "teams": [
+                "CFR Cluj",
+                "Rapid București"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "5287",
+                "295403"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-unirea-04-slobozia-cfr-1907-cluj/MfcsjKr#id:14060303,tab:statistics",
+            "teams": [
+                "Unirea Slobozia",
+                "CFR Cluj"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "44259",
+                "5287"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cfr-1907-cluj-fc-farul-constanta/UpbsMfc#id:14054779,tab:statistics",
+            "teams": [
+                "CFR Cluj",
+                "Farul Constanța"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "5287",
+                "3294"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-hermannstadt-cfr-1907-cluj/Mfcsghec#id:14054761,tab:statistics",
+            "teams": [
+                "CFR Cluj",
+                "Hermannstadt"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "5287",
+                "260356"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/6[A]",
+            "fouls": "14/9[A]",
+            "goalKicks": "18/4[A]",
+            "saves": "2/1[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "26/39[A]",
+            "averageBallPossession": "25/75[A]",
+            "teams": "CFR Cluj,FC Botoșani,Away",
+            "tackles": "11/19[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "7/7[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "4/10[A]",
+            "dribblesAttempted": "14/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "22/22[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "CFR Cluj,FK Csíkszereda,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "7/12[H]",
+            "aerialDuels": "6/9[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "2/13[H]",
+            "dribblesAttempted": "3/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "8/6[A]",
+            "goalKicks": "12/3[A]",
+            "saves": "10/1[A]",
+            "offsides": "5/6[A]",
+            "shotsOnTarget": "2/11[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "28/20[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "CFR Cluj,U. Craiova,Away",
+            "tackles": "16/15[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "11/17[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "16/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "3/5[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/3[A]",
+            "throwIns": "29/25[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "CFR Cluj,Argeș Pitești,Away",
+            "tackles": "8/11[A]",
+            "interceptions": "6/15[A]",
+            "aerialDuels": "25/16[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "11/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "12/3[H]",
+            "saves": "1/7[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "13/22[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "CFR Cluj,Rapid București,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "10/11[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "10/5[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/9[A]",
+            "fouls": "11/16[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "2/6[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "27/18[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "CFR Cluj,Unirea Slobozia,Away",
+            "tackles": "19/24[A]",
+            "interceptions": "11/13[A]",
+            "aerialDuels": "11/20[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "8/1[A]",
+            "dribblesAttempted": "20/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "3/15[H]",
+            "saves": "2/11[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "12/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "32/8[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "CFR Cluj,Farul Constanța,Home",
+            "tackles": "15/21[H]",
+            "interceptions": "5/14[H]",
+            "aerialDuels": "14/5[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "11/9[H]",
+            "dribblesAttempted": "22/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "4/13[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "0/5[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "26/21[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "CFR Cluj,Hermannstadt,Home",
+            "tackles": "31/26[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "10/12[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "17/17[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:40:12.442Z",
+    "endTime": "2026-01-18T10:40:42.508Z",
+    "totalTimeSeconds": 30.07,
+    "combinedMatchStatistics": {
+        "corners": "2/6[A]+5/2[H]+3/8[A]+4/2[A]+6/3[H]+4/9[A]+5/4[H]+8/2[H]",
+        "fouls": "14/9[A]+8/13[H]+8/6[A]+13/13[A]+10/10[H]+11/16[A]+9/11[H]+4/13[H]",
+        "goalKicks": "18/4[A]+7/5[H]+12/3[A]+9/11[A]+12/3[H]+12/7[A]+3/15[H]+7/5[H]",
+        "saves": "2/1[A]+4/3[H]+10/1[A]+3/5[A]+1/7[H]+2/6[A]+2/11[H]+0/5[H]",
+        "offsides": "4/2[A]+0/4[H]+5/6[A]+2/1[A]+0/2[H]+3/2[A]+2/0[H]+0/0[H]",
+        "shotsOnTarget": "2/2[A]+7/5[H]+2/11[A]+5/5[A]+9/1[H]+7/2[A]+12/4[H]+7/1[H]",
+        "yellowCards": "2/2[A]+3/2[H]+2/1[A]+1/3[A]+2/1[H]+2/2[A]+1/2[H]+0/3[H]",
+        "goals": "1/0[A]+3/1[H]+1/1[A]+0/3[A]+3/0[H]+1/0[A]+0/2[H]+2/1[H]",
+        "throwIns": "26/39[A]+22/22[H]+28/20[A]+29/25[A]+13/22[H]+27/18[A]+32/8[H]+26/21[H]",
+        "averageBallPossession": "25/75[A]+56/44[H]+38/62[A]+61/39[A]+38/62[H]+50/50[A]+59/41[H]+54/46[H]",
+        "teams": "CFR Cluj,FC Botoșani,Away+CFR Cluj,FK Csíkszereda,Home+CFR Cluj,U. Craiova,Away+CFR Cluj,Argeș Pitești,Away+CFR Cluj,Rapid București,Home+CFR Cluj,Unirea Slobozia,Away+CFR Cluj,Farul Constanța,Home+CFR Cluj,Hermannstadt,Home",
+        "tackles": "11/19[A]+14/12[H]+16/15[A]+8/11[A]+14/15[H]+19/24[A]+15/21[H]+31/26[H]",
+        "interceptions": "6/4[A]+7/12[H]+6/10[A]+6/15[A]+10/9[H]+11/13[A]+5/14[H]+11/13[H]",
+        "aerialDuels": "7/7[A]+6/9[H]+11/17[A]+25/16[A]+10/11[H]+11/20[A]+14/5[H]+10/12[H]",
+        "aerialDuelsAttempted": "14/14[A]+15/15[H]+28/28[A]+41/41[A]+21/21[H]+31/31[A]+19/19[H]+22/22[H]",
+        "dribbles": "4/10[A]+2/13[H]+8/5[A]+6/3[A]+10/5[H]+8/1[A]+11/9[H]+5/6[H]",
+        "dribblesAttempted": "14/16[A]+3/19[H]+16/16[A]+11/9[A]+20/12[H]+20/12[A]+22/20[H]+17/17[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "37/36",
+        "cornersTotalsHome": "24/11",
+        "cornersTotalsAway": "13/25",
+        "cornersAverage": "4.63/4.50",
+        "cornersAverageHome": "6.00/2.75",
+        "cornersAverageAway": "3.25/6.25",
+        "foulsTotals": "77/91",
+        "foulsTotalsHome": "31/47",
+        "foulsTotalsAway": "46/44",
+        "foulsAverage": "9.63/11.38",
+        "foulsAverageHome": "7.75/11.75",
+        "foulsAverageAway": "11.50/11.00",
+        "goalKicksTotals": "80/53",
+        "goalKicksTotalsHome": "29/28",
+        "goalKicksTotalsAway": "51/25",
+        "goalKicksAverage": "10.00/6.63",
+        "goalKicksAverageHome": "7.25/7.00",
+        "goalKicksAverageAway": "12.75/6.25",
+        "savesTotals": "24/39",
+        "savesTotalsHome": "7/26",
+        "savesTotalsAway": "17/13",
+        "savesAverage": "3.00/4.88",
+        "savesAverageHome": "1.75/6.50",
+        "savesAverageAway": "4.25/3.25",
+        "offsidesTotals": "16/17",
+        "offsidesTotalsHome": "2/6",
+        "offsidesTotalsAway": "14/11",
+        "offsidesAverage": "2.00/2.13",
+        "offsidesAverageHome": "0.50/1.50",
+        "offsidesAverageAway": "3.50/2.75",
+        "shotsOnTargetTotals": "51/31",
+        "shotsOnTargetTotalsHome": "35/11",
+        "shotsOnTargetTotalsAway": "16/20",
+        "shotsOnTargetAverage": "6.38/3.88",
+        "shotsOnTargetAverageHome": "8.75/2.75",
+        "shotsOnTargetAverageAway": "4.00/5.00",
+        "yellowCardsTotals": "13/16",
+        "yellowCardsTotalsHome": "6/8",
+        "yellowCardsTotalsAway": "7/8",
+        "yellowCardsAverage": "1.63/2.00",
+        "yellowCardsAverageHome": "1.50/2.00",
+        "yellowCardsAverageAway": "1.75/2.00",
+        "goalsTotals": "11/8",
+        "goalsTotalsHome": "8/4",
+        "goalsTotalsAway": "3/4",
+        "goalsAverage": "1.38/1.00",
+        "goalsAverageHome": "2.00/1.00",
+        "goalsAverageAway": "0.75/1.00",
+        "throwInsTotals": "203/175",
+        "throwInsTotalsHome": "93/73",
+        "throwInsTotalsAway": "110/102",
+        "throwInsAverage": "25.38/21.88",
+        "throwInsAverageHome": "23.25/18.25",
+        "throwInsAverageAway": "27.50/25.50",
+        "averageBallPossessionTotals": "381/419",
+        "averageBallPossessionTotalsHome": "207/193",
+        "averageBallPossessionTotalsAway": "174/226",
+        "averageBallPossessionAverage": "47.63/52.38",
+        "averageBallPossessionAverageHome": "51.75/48.25",
+        "averageBallPossessionAverageAway": "43.50/56.50",
+        "tacklesTotals": "128/143",
+        "tacklesTotalsHome": "74/74",
+        "tacklesTotalsAway": "54/69",
+        "tacklesAverage": "16.00/17.88",
+        "tacklesAverageHome": "18.50/18.50",
+        "tacklesAverageAway": "13.50/17.25",
+        "interceptionsTotals": "62/90",
+        "interceptionsTotalsHome": "33/48",
+        "interceptionsTotalsAway": "29/42",
+        "interceptionsAverage": "7.75/11.25",
+        "interceptionsAverageHome": "8.25/12.00",
+        "interceptionsAverageAway": "7.25/10.50",
+        "aerialDuelsTotals": "94/97",
+        "aerialDuelsTotalsHome": "40/37",
+        "aerialDuelsTotalsAway": "54/60",
+        "aerialDuelsAverage": "11.75/12.13",
+        "aerialDuelsAverageHome": "10.00/9.25",
+        "aerialDuelsAverageAway": "13.50/15.00",
+        "aerialDuelsAttemptedTotals": "191/191",
+        "aerialDuelsAttemptedTotalsHome": "77/77",
+        "aerialDuelsAttemptedTotalsAway": "114/114",
+        "aerialDuelsAttemptedAverage": "23.88/23.88",
+        "aerialDuelsAttemptedAverageHome": "19.25/19.25",
+        "aerialDuelsAttemptedAverageAway": "28.50/28.50",
+        "dribblesTotals": "54/52",
+        "dribblesTotalsHome": "28/33",
+        "dribblesTotalsAway": "26/19",
+        "dribblesAverage": "6.75/6.50",
+        "dribblesAverageHome": "7.00/8.25",
+        "dribblesAverageAway": "6.50/4.75",
+        "dribblesAttemptedTotals": "123/121",
+        "dribblesAttemptedTotalsHome": "62/68",
+        "dribblesAttemptedTotalsAway": "61/53",
+        "dribblesAttemptedAverage": "15.38/15.13",
+        "dribblesAttemptedAverageHome": "15.50/17.00",
+        "dribblesAttemptedAverageAway": "15.25/13.25"
+    }
+}

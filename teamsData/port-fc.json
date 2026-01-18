@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.31",
+        "fouls": "14.81",
+        "goalKicks": "8.44",
+        "saves": "2.31",
+        "offsides": "2.38",
+        "shotsOnTarget": "5.56/2.94",
+        "yellowCards": "2.00/2.19",
+        "goals": "1.88/0.56",
+        "throwIns": "17.56",
+        "ballPossession": 52.6875,
+        "tackles": "16.00/13.56",
+        "interceptions": "6.75/6.50",
+        "aerialDuels": "10.88",
+        "aerialDuelsAttempted": "21.25",
+        "dribbles": "4.81/4.50",
+        "dribblesAttempted": "12.38/12.63"
+    },
+    "teamSlug": "port-fc",
+    "teamId": "40661",
+    "teamName": "Port FC",
+    "tournament": "Thai League 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sukhothai-port-fc/lnqsYTJb#id:15213913,tab:statistics",
+            "teams": [
+                "Port FC",
+                "Sukhothai"
+            ],
+            "goals": [
+                "5",
+                "0"
+            ],
+            "teamIds": [
+                "40661",
+                "212198"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/port-fc-buriram-united/tJnslnq#id:14521425,tab:statistics",
+            "teams": [
+                "Buriram",
+                "Port FCx2"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "34218",
+                "40661"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/uthai-thani-fc-port-fc/lnqskBKc#id:14514368,tab:statistics",
+            "teams": [
+                "Port FC",
+                "Uthai Thani"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "40661",
+                "338810"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pt-prachuap-fc-port-fc/lnqspRac#id:14514353,tab:statistics",
+            "teams": [
+                "PT Prachuap FC",
+                "Port FC"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "252115",
+                "40661"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chiangrai-united-port-fc/lnqsqGB#id:14514345,tab:statistics",
+            "teams": [
+                "Port FC",
+                "Chiangrai Utd"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "40661",
+                "66566"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/true-bangkok-united-port-fc/lnqsQoJ#id:14514341,tab:statistics",
+            "teams": [
+                "Port FC",
+                "Bangkok Utd"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "40661",
+                "85741"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lamphun-warrior-port-fc/lnqsDpzc#id:14514334,tab:statistics",
+            "teams": [
+                "Lamphun Warrior",
+                "Port FC"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "310778",
+                "40661"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-port-fc/lnqszCAb#id:14514312,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima",
+                "Port FC"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "188874",
+                "40661"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/3[H]",
+            "fouls": "19/10[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "2/5[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "10/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "5/0[H]",
+            "throwIns": "16/7[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Port FC,Sukhothai,Home",
+            "tackles": "18/12[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "12/8[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "10/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/11[A]",
+            "fouls": "17/9[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "6/0[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "5/6[A]",
+            "goals": "0/1[A]",
+            "throwIns": "16/19[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Port FCx2,Buriram,Away",
+            "tackles": "17/15[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "13/8[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "2/5[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "11/18[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Port FC,Uthai Thani,Home",
+            "tackles": "19/11[H]",
+            "interceptions": "8/6[H]",
+            "aerialDuels": "2/9[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "4/8[H]",
+            "dribblesAttempted": "11/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/1[A]",
+            "fouls": "19/12[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/20[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Port FC,PT Prachuap FC,Away",
+            "tackles": "13/20[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "13/17[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "19/21[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "2/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/17[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Port FC,Chiangrai Utd,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "10/13[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "11/4[H]",
+            "dribblesAttempted": "16/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "16/11[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "16/11[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Port FC,Bangkok Utd,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "4/9[H]",
+            "aerialDuels": "7/6[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "10/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "23/14[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Port FC,Lamphun Warrior,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "2/5[A]",
+            "aerialDuels": "10/15[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "13/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[A]",
+            "fouls": "20/11[A]",
+            "goalKicks": "14/10[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "23/26[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Port FC,Nakhon Ratchasima,Away",
+            "tackles": "23/20[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "13/8[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "6/1[A]",
+            "dribblesAttempted": "20/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:47:05.786Z",
+    "endTime": "2026-01-18T10:47:36.090Z",
+    "totalTimeSeconds": 30.3,
+    "combinedMatchStatistics": {
+        "corners": "6/3[H]+1/11[A]+7/2[H]+3/1[A]+7/1[H]+3/4[H]+3/4[A]+7/6[A]",
+        "fouls": "19/10[H]+17/9[A]+13/8[H]+19/12[A]+19/21[H]+16/11[H]+13/13[A]+20/11[A]",
+        "goalKicks": "9/10[H]+12/7[A]+6/11[H]+8/8[A]+6/10[H]+6/8[H]+8/9[A]+14/10[A]",
+        "saves": "2/5[H]+5/2[A]+2/5[H]+4/4[A]+2/4[H]+4/2[H]+3/3[A]+3/4[A]",
+        "offsides": "4/3[H]+6/0[A]+3/1[H]+1/1[A]+2/1[H]+0/1[H]+2/4[A]+1/1[A]",
+        "shotsOnTarget": "10/2[H]+2/6[A]+8/3[H]+5/4[A]+5/3[H]+2/5[H]+5/3[A]+6/3[A]",
+        "yellowCards": "1/1[H]+5/6[A]+2/2[H]+3/4[A]+2/4[H]+4/1[H]+2/3[A]+2/3[A]",
+        "goals": "5/0[H]+0/1[A]+3/1[H]+1/0[A]+1/1[H]+0/0[H]+2/0[A]+2/0[A]",
+        "throwIns": "16/7[H]+16/19[A]+11/18[H]+16/20[A]+21/17[H]+16/11[H]+23/14[A]+23/26[A]",
+        "averageBallPossession": "55/45[H]+39/61[A]+49/51[H]+48/52[A]+59/41[H]+45/55[H]+51/49[A]+63/37[A]",
+        "teams": "Port FC,Sukhothai,Home+Port FCx2,Buriram,Away+Port FC,Uthai Thani,Home+Port FC,PT Prachuap FC,Away+Port FC,Chiangrai Utd,Home+Port FC,Bangkok Utd,Home+Port FC,Lamphun Warrior,Away+Port FC,Nakhon Ratchasima,Away",
+        "tackles": "18/12[H]+17/15[A]+19/11[H]+13/20[A]+12/11[H]+12/11[H]+15/14[A]+23/20[A]",
+        "interceptions": "8/5[H]+10/8[A]+8/6[H]+7/7[A]+5/6[H]+4/9[H]+2/5[A]+4/6[A]",
+        "aerialDuels": "12/8[H]+8/10[A]+2/9[H]+13/17[A]+10/13[H]+7/6[H]+10/15[A]+13/8[A]",
+        "aerialDuelsAttempted": "20/20[H]+18/18[A]+11/11[H]+30/30[A]+23/23[H]+13/13[H]+25/25[A]+21/21[A]",
+        "dribbles": "3/7[H]+6/4[A]+4/8[H]+5/7[A]+11/4[H]+3/7[H]+3/7[A]+6/1[A]",
+        "dribblesAttempted": "10/13[H]+10/10[A]+11/14[H]+14/15[A]+16/12[H]+10/15[H]+13/19[A]+20/12[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "37/32",
+        "cornersTotalsHome": "23/10",
+        "cornersTotalsAway": "14/22",
+        "cornersAverage": "4.63/4.00",
+        "cornersAverageHome": "5.75/2.50",
+        "cornersAverageAway": "3.50/5.50",
+        "foulsTotals": "136/95",
+        "foulsTotalsHome": "67/50",
+        "foulsTotalsAway": "69/45",
+        "foulsAverage": "17.00/11.88",
+        "foulsAverageHome": "16.75/12.50",
+        "foulsAverageAway": "17.25/11.25",
+        "goalKicksTotals": "69/73",
+        "goalKicksTotalsHome": "27/39",
+        "goalKicksTotalsAway": "42/34",
+        "goalKicksAverage": "8.63/9.13",
+        "goalKicksAverageHome": "6.75/9.75",
+        "goalKicksAverageAway": "10.50/8.50",
+        "savesTotals": "25/29",
+        "savesTotalsHome": "10/16",
+        "savesTotalsAway": "15/13",
+        "savesAverage": "3.13/3.63",
+        "savesAverageHome": "2.50/4.00",
+        "savesAverageAway": "3.75/3.25",
+        "offsidesTotals": "19/12",
+        "offsidesTotalsHome": "9/6",
+        "offsidesTotalsAway": "10/6",
+        "offsidesAverage": "2.38/1.50",
+        "offsidesAverageHome": "2.25/1.50",
+        "offsidesAverageAway": "2.50/1.50",
+        "shotsOnTargetTotals": "43/29",
+        "shotsOnTargetTotalsHome": "25/13",
+        "shotsOnTargetTotalsAway": "18/16",
+        "shotsOnTargetAverage": "5.38/3.63",
+        "shotsOnTargetAverageHome": "6.25/3.25",
+        "shotsOnTargetAverageAway": "4.50/4.00",
+        "yellowCardsTotals": "21/24",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "12/16",
+        "yellowCardsAverage": "2.63/3.00",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "3.00/4.00",
+        "goalsTotals": "14/3",
+        "goalsTotalsHome": "9/2",
+        "goalsTotalsAway": "5/1",
+        "goalsAverage": "1.75/0.38",
+        "goalsAverageHome": "2.25/0.50",
+        "goalsAverageAway": "1.25/0.25",
+        "throwInsTotals": "142/132",
+        "throwInsTotalsHome": "64/53",
+        "throwInsTotalsAway": "78/79",
+        "throwInsAverage": "17.75/16.50",
+        "throwInsAverageHome": "16.00/13.25",
+        "throwInsAverageAway": "19.50/19.75",
+        "averageBallPossessionTotals": "409/391",
+        "averageBallPossessionTotalsHome": "208/192",
+        "averageBallPossessionTotalsAway": "201/199",
+        "averageBallPossessionAverage": "51.13/48.88",
+        "averageBallPossessionAverageHome": "52.00/48.00",
+        "averageBallPossessionAverageAway": "50.25/49.75",
+        "tacklesTotals": "129/114",
+        "tacklesTotalsHome": "61/45",
+        "tacklesTotalsAway": "68/69",
+        "tacklesAverage": "16.13/14.25",
+        "tacklesAverageHome": "15.25/11.25",
+        "tacklesAverageAway": "17.00/17.25",
+        "interceptionsTotals": "48/52",
+        "interceptionsTotalsHome": "25/26",
+        "interceptionsTotalsAway": "23/26",
+        "interceptionsAverage": "6.00/6.50",
+        "interceptionsAverageHome": "6.25/6.50",
+        "interceptionsAverageAway": "5.75/6.50",
+        "aerialDuelsTotals": "75/86",
+        "aerialDuelsTotalsHome": "31/36",
+        "aerialDuelsTotalsAway": "44/50",
+        "aerialDuelsAverage": "9.38/10.75",
+        "aerialDuelsAverageHome": "7.75/9.00",
+        "aerialDuelsAverageAway": "11.00/12.50",
+        "aerialDuelsAttemptedTotals": "161/161",
+        "aerialDuelsAttemptedTotalsHome": "67/67",
+        "aerialDuelsAttemptedTotalsAway": "94/94",
+        "aerialDuelsAttemptedAverage": "20.13/20.13",
+        "aerialDuelsAttemptedAverageHome": "16.75/16.75",
+        "aerialDuelsAttemptedAverageAway": "23.50/23.50",
+        "dribblesTotals": "41/45",
+        "dribblesTotalsHome": "21/26",
+        "dribblesTotalsAway": "20/19",
+        "dribblesAverage": "5.13/5.63",
+        "dribblesAverageHome": "5.25/6.50",
+        "dribblesAverageAway": "5.00/4.75",
+        "dribblesAttemptedTotals": "104/110",
+        "dribblesAttemptedTotalsHome": "47/54",
+        "dribblesAttemptedTotalsAway": "57/56",
+        "dribblesAttemptedAverage": "13.00/13.75",
+        "dribblesAttemptedAverageHome": "11.75/13.50",
+        "dribblesAttemptedAverageAway": "14.25/14.00"
+    }
+}

@@ -1,0 +1,448 @@
+{
+    "globalStatistics": {
+        "corners": "5.00",
+        "fouls": "15.37",
+        "goalKicks": "8.16",
+        "saves": "3.84",
+        "offsides": "2.00",
+        "shotsOnTarget": "5.63/5.00",
+        "yellowCards": "2.58/2.95",
+        "goals": "2.00/1.16",
+        "throwIns": "21.16",
+        "ballPossession": 44.473684210526,
+        "tackles": "16.21/18.63",
+        "interceptions": "9.26/8.26",
+        "aerialDuels": "17.95",
+        "aerialDuelsAttempted": "39.95",
+        "dribbles": "6.32/8.95",
+        "dribblesAttempted": "15.11/17.26"
+    },
+    "teamSlug": "fc-st-gallen-1879",
+    "teamId": "2442",
+    "teamName": "FC St. Gallen 1879",
+    "tournament": "Swiss Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/grasshopper-club-zurich-fc-st-gallen-1879/RYsZY#id:14038828,tab:statistics",
+            "teams": [
+                "Grasshoppers",
+                "St. Gallen"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2449",
+                "2442"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-sion-fc-st-gallen-1879/RYscZ#id:14038821,tab:statistics",
+            "teams": [
+                "St. Gallen",
+                "Sion"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "2442",
+                "2452"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-thun-fc-st-gallen-1879/RYseZ#id:14038810,tab:statistics",
+            "teams": [
+                "Thun",
+                "St. Gallen"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2454",
+                "2442"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-zurich-fc-st-gallen-1879/RYsaZ#id:14038807,tab:statistics",
+            "teams": [
+                "St. Gallen",
+                "Zürich"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2442",
+                "2450"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-fc-st-gallen-1879/RYsbab#id:14038804,tab:statistics",
+            "teams": [
+                "Basel",
+                "St. Gallen"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2501",
+                "2442"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-lugano-fc-st-gallen-1879/RYsTY#id:15012156,tab:statistics",
+            "teams": [
+                "Lugano",
+                "St. Gallen"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2443",
+                "2442"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-lausanne-sport-fc-st-gallen-1879/RYsWY#id:14038794,tab:statistics",
+            "teams": [
+                "St. Gallen",
+                "Lausanne"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2442",
+                "2446"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/young-boys-fc-st-gallen-1879/RYsVY#id:14038792,tab:statistics",
+            "teams": [
+                "St. Gallen",
+                "Young Boys"
+            ],
+            "goals": [
+                "1",
+                "4"
+            ],
+            "teamIds": [
+                "2442",
+                "2445"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/4[A]",
+            "fouls": "15/20[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "2/6[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "32/22[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "St. Gallen,Grasshoppers,Away",
+            "tackles": "15/17[A]",
+            "interceptions": "13/4[A]",
+            "aerialDuels": "33/23[A]",
+            "aerialDuelsAttempted": "56/56[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/4[H]",
+            "fouls": "17/14[H]",
+            "goalKicks": "11/9[H]",
+            "saves": "2/6[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "15/19[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "St. Gallen,Sion,Home",
+            "tackles": "13/14[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "19/22[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "10/10[H]",
+            "dribblesAttempted": "17/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "14/18[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "1/1[A]",
+            "offsides": "0/5[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "19/36[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "St. Gallen,Thun,Away",
+            "tackles": "14/18[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "29/27[A]",
+            "aerialDuelsAttempted": "56/56[A]",
+            "dribbles": "4/2[A]",
+            "dribblesAttempted": "8/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/10[H]",
+            "fouls": "20/23[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "5/0[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "1/7[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "1/2[H]",
+            "throwIns": "25/23[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "St. Gallen,Zürich,Home",
+            "tackles": "19/15[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "21/36[H]",
+            "aerialDuelsAttempted": "57/57[H]",
+            "dribbles": "14/6[H]",
+            "dribblesAttempted": "23/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "25/10[A]",
+            "goalKicks": "9/12[A]",
+            "saves": "7/2[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "26/23[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "St. Gallen,Basel,Away",
+            "tackles": "24/15[A]",
+            "interceptions": "13/16[A]",
+            "aerialDuels": "16/25[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "12/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "17/14[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "5/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "3/1[A]",
+            "throwIns": "16/13[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "St. Gallen,Lugano,Away",
+            "tackles": "9/12[A]",
+            "interceptions": "2/8[A]",
+            "aerialDuels": "12/24[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "5/15[A]",
+            "dribblesAttempted": "14/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/10[H]",
+            "fouls": "10/14[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "7/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "23/21[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "St. Gallen,Lausanne,Home",
+            "tackles": "18/16[H]",
+            "interceptions": "12/7[H]",
+            "aerialDuels": "16/25[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "3/10[H]",
+            "dribblesAttempted": "12/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "2/10[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/4[H]",
+            "throwIns": "26/20[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "St. Gallen,Young Boys,Home",
+            "tackles": "19/25[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "10/15[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "3/14[H]",
+            "dribblesAttempted": "9/24[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-17T16:26:08.257Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/young-boys-fc-st-gallen-1879/RYsVY#id:14038792,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 535904,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-17T16:26:53.534Z",
+    "totalTimeSeconds": 45.28,
+    "combinedMatchStatistics": {
+        "corners": "4/4[A]+9/4[H]+2/4[A]+2/10[H]+3/6[A]+3/4[A]+7/10[H]+9/3[H]",
+        "fouls": "15/20[A]+17/14[H]+14/18[A]+20/23[H]+25/10[A]+17/14[A]+10/14[H]+10/9[H]",
+        "goalKicks": "8/9[A]+11/9[H]+6/8[A]+4/6[H]+9/12[A]+6/10[A]+7/7[H]+2/10[H]",
+        "saves": "2/6[A]+2/6[H]+1/1[A]+5/0[H]+7/2[A]+5/1[A]+7/4[H]+2/5[H]",
+        "offsides": "4/0[A]+2/0[H]+0/5[A]+3/2[H]+0/2[A]+2/0[A]+2/1[H]+0/4[H]",
+        "shotsOnTarget": "8/3[A]+9/3[H]+3/1[A]+1/7[H]+2/7[A]+4/6[A]+5/7[H]+6/6[H]",
+        "yellowCards": "1/2[A]+1/1[H]+5/3[A]+1/5[H]+4/0[A]+4/3[A]+4/4[H]+1/1[H]",
+        "goals": "2/1[A]+3/1[H]+2/0[A]+1/2[H]+0/0[A]+3/1[A]+1/0[H]+1/4[H]",
+        "throwIns": "32/22[A]+15/19[H]+19/36[A]+25/23[H]+26/23[A]+16/13[A]+23/21[H]+26/20[H]",
+        "averageBallPossession": "38/62[A]+49/51[H]+42/58[A]+48/52[H]+36/64[A]+38/62[A]+35/65[H]+60/40[H]",
+        "teams": "St. Gallen,Grasshoppers,Away+St. Gallen,Sion,Home+St. Gallen,Thun,Away+St. Gallen,Zürich,Home+St. Gallen,Basel,Away+St. Gallen,Lugano,Away+St. Gallen,Lausanne,Home+St. Gallen,Young Boys,Home",
+        "tackles": "15/17[A]+13/14[H]+14/18[A]+19/15[H]+24/15[A]+9/12[A]+18/16[H]+19/25[H]",
+        "interceptions": "13/4[A]+9/9[H]+7/8[A]+8/12[H]+13/16[A]+2/8[A]+12/7[H]+10/8[H]",
+        "aerialDuels": "33/23[A]+19/22[H]+29/27[A]+21/36[H]+16/25[A]+12/24[A]+16/25[H]+10/15[H]",
+        "aerialDuelsAttempted": "56/56[A]+41/41[H]+56/56[A]+57/57[H]+41/41[A]+36/36[A]+41/41[H]+25/25[H]",
+        "dribbles": "5/6[A]+10/10[H]+4/2[A]+14/6[H]+5/6[A]+5/15[A]+3/10[H]+3/14[H]",
+        "dribblesAttempted": "14/15[A]+17/16[H]+8/5[A]+23/14[H]+12/20[A]+14/19[A]+12/23[H]+9/24[H]",
+        "isHome": "false+true+false+true+false+false+true+true",
+        "cornersTotals": "39/45",
+        "cornersTotalsHome": "27/27",
+        "cornersTotalsAway": "12/18",
+        "cornersAverage": "4.88/5.63",
+        "cornersAverageHome": "6.75/6.75",
+        "cornersAverageAway": "3.00/4.50",
+        "foulsTotals": "128/122",
+        "foulsTotalsHome": "57/60",
+        "foulsTotalsAway": "71/62",
+        "foulsAverage": "16.00/15.25",
+        "foulsAverageHome": "14.25/15.00",
+        "foulsAverageAway": "17.75/15.50",
+        "goalKicksTotals": "53/71",
+        "goalKicksTotalsHome": "24/32",
+        "goalKicksTotalsAway": "29/39",
+        "goalKicksAverage": "6.63/8.88",
+        "goalKicksAverageHome": "6.00/8.00",
+        "goalKicksAverageAway": "7.25/9.75",
+        "savesTotals": "31/25",
+        "savesTotalsHome": "16/15",
+        "savesTotalsAway": "15/10",
+        "savesAverage": "3.88/3.13",
+        "savesAverageHome": "4.00/3.75",
+        "savesAverageAway": "3.75/2.50",
+        "offsidesTotals": "13/14",
+        "offsidesTotalsHome": "7/7",
+        "offsidesTotalsAway": "6/7",
+        "offsidesAverage": "1.63/1.75",
+        "offsidesAverageHome": "1.75/1.75",
+        "offsidesAverageAway": "1.50/1.75",
+        "shotsOnTargetTotals": "38/40",
+        "shotsOnTargetTotalsHome": "21/23",
+        "shotsOnTargetTotalsAway": "17/17",
+        "shotsOnTargetAverage": "4.75/5.00",
+        "shotsOnTargetAverageHome": "5.25/5.75",
+        "shotsOnTargetAverageAway": "4.25/4.25",
+        "yellowCardsTotals": "21/19",
+        "yellowCardsTotalsHome": "7/11",
+        "yellowCardsTotalsAway": "14/8",
+        "yellowCardsAverage": "2.63/2.38",
+        "yellowCardsAverageHome": "1.75/2.75",
+        "yellowCardsAverageAway": "3.50/2.00",
+        "goalsTotals": "13/9",
+        "goalsTotalsHome": "6/7",
+        "goalsTotalsAway": "7/2",
+        "goalsAverage": "1.63/1.13",
+        "goalsAverageHome": "1.50/1.75",
+        "goalsAverageAway": "1.75/0.50",
+        "throwInsTotals": "182/177",
+        "throwInsTotalsHome": "89/83",
+        "throwInsTotalsAway": "93/94",
+        "throwInsAverage": "22.75/22.13",
+        "throwInsAverageHome": "22.25/20.75",
+        "throwInsAverageAway": "23.25/23.50",
+        "averageBallPossessionTotals": "346/454",
+        "averageBallPossessionTotalsHome": "192/208",
+        "averageBallPossessionTotalsAway": "154/246",
+        "averageBallPossessionAverage": "43.25/56.75",
+        "averageBallPossessionAverageHome": "48.00/52.00",
+        "averageBallPossessionAverageAway": "38.50/61.50",
+        "tacklesTotals": "131/132",
+        "tacklesTotalsHome": "69/70",
+        "tacklesTotalsAway": "62/62",
+        "tacklesAverage": "16.38/16.50",
+        "tacklesAverageHome": "17.25/17.50",
+        "tacklesAverageAway": "15.50/15.50",
+        "interceptionsTotals": "74/72",
+        "interceptionsTotalsHome": "39/36",
+        "interceptionsTotalsAway": "35/36",
+        "interceptionsAverage": "9.25/9.00",
+        "interceptionsAverageHome": "9.75/9.00",
+        "interceptionsAverageAway": "8.75/9.00",
+        "aerialDuelsTotals": "156/197",
+        "aerialDuelsTotalsHome": "66/98",
+        "aerialDuelsTotalsAway": "90/99",
+        "aerialDuelsAverage": "19.50/24.63",
+        "aerialDuelsAverageHome": "16.50/24.50",
+        "aerialDuelsAverageAway": "22.50/24.75",
+        "aerialDuelsAttemptedTotals": "353/353",
+        "aerialDuelsAttemptedTotalsHome": "164/164",
+        "aerialDuelsAttemptedTotalsAway": "189/189",
+        "aerialDuelsAttemptedAverage": "44.13/44.13",
+        "aerialDuelsAttemptedAverageHome": "41.00/41.00",
+        "aerialDuelsAttemptedAverageAway": "47.25/47.25",
+        "dribblesTotals": "49/69",
+        "dribblesTotalsHome": "30/40",
+        "dribblesTotalsAway": "19/29",
+        "dribblesAverage": "6.13/8.63",
+        "dribblesAverageHome": "7.50/10.00",
+        "dribblesAverageAway": "4.75/7.25",
+        "dribblesAttemptedTotals": "109/136",
+        "dribblesAttemptedTotalsHome": "61/77",
+        "dribblesAttemptedTotalsAway": "48/59",
+        "dribblesAttemptedAverage": "13.63/17.00",
+        "dribblesAttemptedAverageHome": "15.25/19.25",
+        "dribblesAttemptedAverageAway": "12.00/14.75"
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.74",
+        "fouls": "15.74",
+        "goalKicks": "7.00",
+        "saves": "3.00",
+        "offsides": "1.32",
+        "shotsOnTarget": "3.89/4.37",
+        "yellowCards": "2.11/2.89",
+        "goals": "0.95/1.42",
+        "throwIns": "17.89",
+        "ballPossession": 46.736842105263,
+        "tackles": "12.21/12.16",
+        "interceptions": "7.05/8.11",
+        "aerialDuels": "17.74",
+        "aerialDuelsAttempted": "36.37",
+        "dribbles": "4.37/7.47",
+        "dribblesAttempted": "9.37/13.05"
+    },
+    "teamSlug": "spezia",
+    "teamId": "2735",
+    "teamName": "Spezia",
+    "tournament": "Serie B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sudtirol-spezia/Kebskfb#id:14317702,tab:statistics",
+            "teams": [
+                "Südtirol",
+                "Spezia"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2760",
+                "2735"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pescara-spezia/KebsKid#id:14317704,tab:statistics",
+            "teams": [
+                "Spezia",
+                "Pescara"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2735",
+                "7935"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/frosinone-spezia/Kebsbgb#id:14317847,tab:statistics",
+            "teams": [
+                "Frosinone",
+                "Spezia"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2801",
+                "2735"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/spezia-modena/gebsKeb#id:14317841,tab:statistics",
+            "teams": [
+                "Spezia",
+                "Modena"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2735",
+                "2706"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/virtus-entella-spezia/KebsFyr#id:14317827,tab:statistics",
+            "teams": [
+                "Entella",
+                "Spezia"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "43680",
+                "2735"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/spezia-sampdoria/lebsKeb#id:14317820,tab:statistics",
+            "teams": [
+                "Spezia",
+                "Sampdoria"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2735",
+                "2711"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-spezia/Kebsvfb#id:14317875,tab:statistics",
+            "teams": [
+                "Mantova",
+                "Spezia"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "2770",
+                "2735"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/spezia-bari/mebsKeb#id:14317865,tab:statistics",
+            "teams": [
+                "Spezia",
+                "Bari"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2735",
+                "2712"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/3[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "37/21[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Spezia,Südtirol,Away",
+            "tackles": "19/25[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "22/28[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "20/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/6[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/6[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "33/29[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Spezia,Pescara,Home",
+            "tackles": "14/19[H]",
+            "interceptions": "13/9[H]",
+            "aerialDuels": "15/25[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "1/6[H]",
+            "dribblesAttempted": "8/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/5[A]",
+            "fouls": "11/16[A]",
+            "goalKicks": "13/11[A]",
+            "saves": "6/5[A]",
+            "offsides": "2/5[A]",
+            "shotsOnTarget": "6/8[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/21[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Spezia,Frosinone,Away",
+            "tackles": "10/10[A]",
+            "interceptions": "7/5[A]",
+            "aerialDuels": "15/34[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "1/14[A]",
+            "dribblesAttempted": "8/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "12/24[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "8/3[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "3/10[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "0/2[H]",
+            "throwIns": "19/13[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Spezia,Modena,Home",
+            "tackles": "13/15[H]",
+            "interceptions": "4/13[H]",
+            "aerialDuels": "17/16[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "18/19[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "28/25[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Spezia,Entella,Away",
+            "tackles": "13/11[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "19/14[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "9/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "18/14[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "12/21[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Spezia,Sampdoria,Home",
+            "tackles": "15/6[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "20/18[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "5/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "16/13[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "7/4[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "5/11[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "1/4[A]",
+            "throwIns": "17/13[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Spezia,Mantova,Away",
+            "tackles": "8/12[A]",
+            "interceptions": "3/7[A]",
+            "aerialDuels": "10/10[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "4/11[A]",
+            "dribblesAttempted": "12/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/12[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "0/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "10/28[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Spezia,Bari,Home",
+            "tackles": "12/13[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "20/17[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "13/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:28:45.655Z",
+    "endTime": "2026-01-18T10:29:12.641Z",
+    "totalTimeSeconds": 26.99,
+    "combinedMatchStatistics": {
+        "corners": "4/3[A]+9/6[H]+10/5[A]+3/9[H]+6/5[A]+3/9[H]+2/8[A]+4/12[H]",
+        "fouls": "11/14[A]+15/13[H]+11/16[A]+12/24[H]+18/19[A]+18/14[H]+16/13[A]+15/11[H]",
+        "goalKicks": "7/8[A]+5/8[H]+13/11[A]+7/4[H]+7/5[A]+8/5[H]+9/5[A]+9/5[H]",
+        "saves": "2/2[A]+4/4[H]+6/5[A]+8/3[H]+3/2[A]+2/3[H]+7/4[A]+0/4[H]",
+        "offsides": "0/2[A]+0/6[H]+2/5[A]+0/4[H]+2/3[A]+0/3[H]+1/4[A]+1/3[H]",
+        "shotsOnTarget": "3/4[A]+6/5[H]+6/8[A]+3/10[H]+3/3[A]+4/2[H]+5/11[A]+5/1[H]",
+        "yellowCards": "2/1[A]+1/3[H]+2/2[A]+4/5[H]+4/4[A]+2/3[H]+5/2[A]+4/2[H]",
+        "goals": "1/2[A]+2/1[H]+1/2[A]+0/2[H]+1/0[A]+1/0[H]+1/4[A]+1/1[H]",
+        "throwIns": "37/21[A]+33/29[H]+18/21[A]+19/13[H]+28/25[A]+12/21[H]+17/13[A]+10/28[H]",
+        "averageBallPossession": "62/38[A]+48/52[H]+52/48[A]+59/41[H]+52/48[A]+43/57[H]+33/67[A]+37/63[H]",
+        "teams": "Spezia,Südtirol,Away+Spezia,Pescara,Home+Spezia,Frosinone,Away+Spezia,Modena,Home+Spezia,Entella,Away+Spezia,Sampdoria,Home+Spezia,Mantova,Away+Spezia,Bari,Home",
+        "tackles": "19/25[A]+14/19[H]+10/10[A]+13/15[H]+13/11[A]+15/6[H]+8/12[A]+12/13[H]",
+        "interceptions": "6/7[A]+13/9[H]+7/5[A]+4/13[H]+7/10[A]+4/5[H]+3/7[A]+10/10[H]",
+        "aerialDuels": "22/28[A]+15/25[H]+15/34[A]+17/16[H]+19/14[A]+20/18[H]+10/10[A]+20/17[H]",
+        "aerialDuelsAttempted": "50/50[A]+40/40[H]+49/49[A]+33/33[H]+33/33[A]+38/38[H]+20/20[A]+37/37[H]",
+        "dribbles": "7/6[A]+1/6[H]+1/14[A]+3/7[H]+5/6[A]+3/7[H]+4/11[A]+8/3[H]",
+        "dribblesAttempted": "20/14[A]+8/14[H]+8/21[A]+8/11[H]+9/11[A]+5/14[H]+12/17[A]+13/12[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "41/57",
+        "cornersTotalsHome": "19/36",
+        "cornersTotalsAway": "22/21",
+        "cornersAverage": "5.13/7.13",
+        "cornersAverageHome": "4.75/9.00",
+        "cornersAverageAway": "5.50/5.25",
+        "foulsTotals": "116/124",
+        "foulsTotalsHome": "60/62",
+        "foulsTotalsAway": "56/62",
+        "foulsAverage": "14.50/15.50",
+        "foulsAverageHome": "15.00/15.50",
+        "foulsAverageAway": "14.00/15.50",
+        "goalKicksTotals": "65/51",
+        "goalKicksTotalsHome": "29/22",
+        "goalKicksTotalsAway": "36/29",
+        "goalKicksAverage": "8.13/6.38",
+        "goalKicksAverageHome": "7.25/5.50",
+        "goalKicksAverageAway": "9.00/7.25",
+        "savesTotals": "32/27",
+        "savesTotalsHome": "14/14",
+        "savesTotalsAway": "18/13",
+        "savesAverage": "4.00/3.38",
+        "savesAverageHome": "3.50/3.50",
+        "savesAverageAway": "4.50/3.25",
+        "offsidesTotals": "6/30",
+        "offsidesTotalsHome": "1/16",
+        "offsidesTotalsAway": "5/14",
+        "offsidesAverage": "0.75/3.75",
+        "offsidesAverageHome": "0.25/4.00",
+        "offsidesAverageAway": "1.25/3.50",
+        "shotsOnTargetTotals": "35/44",
+        "shotsOnTargetTotalsHome": "18/18",
+        "shotsOnTargetTotalsAway": "17/26",
+        "shotsOnTargetAverage": "4.38/5.50",
+        "shotsOnTargetAverageHome": "4.50/4.50",
+        "shotsOnTargetAverageAway": "4.25/6.50",
+        "yellowCardsTotals": "24/22",
+        "yellowCardsTotalsHome": "11/13",
+        "yellowCardsTotalsAway": "13/9",
+        "yellowCardsAverage": "3.00/2.75",
+        "yellowCardsAverageHome": "2.75/3.25",
+        "yellowCardsAverageAway": "3.25/2.25",
+        "goalsTotals": "8/12",
+        "goalsTotalsHome": "4/4",
+        "goalsTotalsAway": "4/8",
+        "goalsAverage": "1.00/1.50",
+        "goalsAverageHome": "1.00/1.00",
+        "goalsAverageAway": "1.00/2.00",
+        "throwInsTotals": "174/171",
+        "throwInsTotalsHome": "74/91",
+        "throwInsTotalsAway": "100/80",
+        "throwInsAverage": "21.75/21.38",
+        "throwInsAverageHome": "18.50/22.75",
+        "throwInsAverageAway": "25.00/20.00",
+        "averageBallPossessionTotals": "386/414",
+        "averageBallPossessionTotalsHome": "187/213",
+        "averageBallPossessionTotalsAway": "199/201",
+        "averageBallPossessionAverage": "48.25/51.75",
+        "averageBallPossessionAverageHome": "46.75/53.25",
+        "averageBallPossessionAverageAway": "49.75/50.25",
+        "tacklesTotals": "104/111",
+        "tacklesTotalsHome": "54/53",
+        "tacklesTotalsAway": "50/58",
+        "tacklesAverage": "13.00/13.88",
+        "tacklesAverageHome": "13.50/13.25",
+        "tacklesAverageAway": "12.50/14.50",
+        "interceptionsTotals": "54/66",
+        "interceptionsTotalsHome": "31/37",
+        "interceptionsTotalsAway": "23/29",
+        "interceptionsAverage": "6.75/8.25",
+        "interceptionsAverageHome": "7.75/9.25",
+        "interceptionsAverageAway": "5.75/7.25",
+        "aerialDuelsTotals": "138/162",
+        "aerialDuelsTotalsHome": "72/76",
+        "aerialDuelsTotalsAway": "66/86",
+        "aerialDuelsAverage": "17.25/20.25",
+        "aerialDuelsAverageHome": "18.00/19.00",
+        "aerialDuelsAverageAway": "16.50/21.50",
+        "aerialDuelsAttemptedTotals": "300/300",
+        "aerialDuelsAttemptedTotalsHome": "148/148",
+        "aerialDuelsAttemptedTotalsAway": "152/152",
+        "aerialDuelsAttemptedAverage": "37.50/37.50",
+        "aerialDuelsAttemptedAverageHome": "37.00/37.00",
+        "aerialDuelsAttemptedAverageAway": "38.00/38.00",
+        "dribblesTotals": "32/60",
+        "dribblesTotalsHome": "15/23",
+        "dribblesTotalsAway": "17/37",
+        "dribblesAverage": "4.00/7.50",
+        "dribblesAverageHome": "3.75/5.75",
+        "dribblesAverageAway": "4.25/9.25",
+        "dribblesAttemptedTotals": "83/114",
+        "dribblesAttemptedTotalsHome": "34/51",
+        "dribblesAttemptedTotalsAway": "49/63",
+        "dribblesAttemptedAverage": "10.38/14.25",
+        "dribblesAttemptedAverageHome": "8.50/12.75",
+        "dribblesAttemptedAverageAway": "12.25/15.75"
+    }
+}

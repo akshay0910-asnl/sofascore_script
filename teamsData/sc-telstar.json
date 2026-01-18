@@ -1,27 +1,59 @@
 {
     "globalStatistics": {
-        "corners": "5.06",
-        "fouls": "10.56",
+        "corners": "5.11",
+        "fouls": "10.61",
         "goalKicks": "8.00",
-        "saves": "4.38",
-        "offsides": "1.94",
-        "shotsOnTarget": "4.69/6.25",
-        "yellowCards": "1.50/1.75",
-        "goals": "1.19/1.69",
-        "throwIns": "18.50",
-        "ballPossession": 44,
-        "tackles": "16.31/15.88",
-        "interceptions": "8.38/7.63",
-        "aerialDuels": "11.88",
-        "aerialDuelsAttempted": "27.13",
-        "dribbles": "5.88/7.50",
-        "dribblesAttempted": "13.06/15.56"
+        "saves": "4.39",
+        "offsides": "2.06",
+        "shotsOnTarget": "4.56/6.22",
+        "yellowCards": "1.56/1.72",
+        "goals": "1.22/1.67",
+        "throwIns": "18.28",
+        "ballPossession": 43.111111111111,
+        "tackles": "16.44/15.61",
+        "interceptions": "8.78/7.50",
+        "aerialDuels": "12.22",
+        "aerialDuelsAttempted": "27.28",
+        "dribbles": "5.83/7.67",
+        "dribblesAttempted": "13.06/15.72"
     },
     "teamSlug": "sc-telstar",
     "teamId": "2972",
     "teamName": "SC Telstar",
     "tournament": "VriendenLoterij Eredivisie",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sc-telstar-afc-ajax/djbsxjb#id:14053750,tab:statistics",
+            "teams": [
+                "Telstar",
+                "Ajax"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "2972",
+                "2953"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-telstar-nac-breda/Xibsxjb#id:14053729,tab:statistics",
+            "teams": [
+                "NAC Breda",
+                "Telstar"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2947",
+                "2972"
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/sc-telstar-nec-nijmegen/mjbsxjb#id:14053698,tab:statistics",
             "teams": [
@@ -103,22 +135,6 @@
             "isHome": false
         },
         {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-excelsior/rjbsxjb#id:14053814,tab:statistics",
-            "teams": [
-                "Telstar",
-                "Excelsior"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "2972",
-                "2967"
-            ],
-            "isHome": true
-        },
-        {
             "href": "https://www.sofascore.com/football/match/sc-telstar-sparta-rotterdam/kjbsxjb#id:14053791,tab:statistics",
             "teams": [
                 "Sparta",
@@ -133,155 +149,51 @@
                 "2972"
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-sc-heerenveen/ojbsxjb#id:14046018,tab:statistics",
-            "teams": [
-                "Telstar",
-                "Heerenveen"
-            ],
-            "goals": [
-                "2",
-                "3"
-            ],
-            "teamIds": [
-                "2972",
-                "2964"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-az-alkmaar/ajbsxjb#id:14053757,tab:statistics",
-            "teams": [
-                "AZ",
-                "Telstar"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "2950",
-                "2972"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-sc-telstar/xjbsEjb#id:14053735,tab:statistics",
-            "teams": [
-                "Telstar",
-                "GA Eagles"
-            ],
-            "goals": [
-                "4",
-                "2"
-            ],
-            "teamIds": [
-                "2972",
-                "2979"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-fc-groningen/bjbsxjb#id:14053693,tab:statistics",
-            "teams": [
-                "Groningen",
-                "Telstar"
-            ],
-            "goals": [
-                "2",
-                "0"
-            ],
-            "teamIds": [
-                "2951",
-                "2972"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-fortuna-sittard/hjbsxjb#id:14053682,tab:statistics",
-            "teams": [
-                "Telstar",
-                "Fortuna"
-            ],
-            "goals": [
-                "1",
-                "3"
-            ],
-            "teamIds": [
-                "2972",
-                "2957"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-psv-eindhoven/cjbsxjb#id:14053643,tab:statistics",
-            "teams": [
-                "PSV",
-                "Telstar"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "2952",
-                "2972"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-fc-volendam/tjbsxjb#id:14053618,tab:statistics",
-            "teams": [
-                "Telstar",
-                "Volendam"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "2972",
-                "2968"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-pec-zwolle/wjbsxjb#id:14053592,tab:statistics",
-            "teams": [
-                "Telstar",
-                "Zwolle"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "2972",
-                "2971"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-afc-ajax/djbsxjb#id:14053587,tab:statistics",
-            "teams": [
-                "Ajax",
-                "Telstar"
-            ],
-            "goals": [
-                "2",
-                "0"
-            ],
-            "teamIds": [
-                "2953",
-                "2972"
-            ],
-            "isHome": false
         }
     ],
-    "homeMatchCount": 9,
-    "awayMatchCount": 7,
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "8/3[H]",
+            "fouls": "6/6[H]",
+            "goalKicks": "3/3[H]",
+            "saves": "7/2[H]",
+            "offsides": "5/0[H]",
+            "shotsOnTarget": "3/10[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/3[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Telstar,Ajax,Home",
+            "tackles": "21/13[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "14/12[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "7/11[H]",
+            "dribblesAttempted": "16/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "13/9[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/13[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Telstar,NAC Breda,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "16/15[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
         {
             "corners": "5/7[H]",
             "fouls": "8/11[H]",
@@ -382,7 +294,6 @@
             "dribblesAttempted": "9/7[A]",
             "isHome": false
         },
-        null,
         {
             "corners": "7/6[A]",
             "fouls": "14/9[A]",
@@ -402,303 +313,126 @@
             "dribbles": "7/7[A]",
             "dribblesAttempted": "13/14[A]",
             "isHome": false
-        },
-        {
-            "corners": "6/11[H]",
-            "fouls": "9/12[H]",
-            "goalKicks": "12/11[H]",
-            "saves": "3/4[H]",
-            "offsides": "1/0[H]",
-            "shotsOnTarget": "6/7[H]",
-            "yellowCards": "1/2[H]",
-            "goals": "2/3[H]",
-            "throwIns": "20/13[H]",
-            "averageBallPossession": "46/54[H]",
-            "teams": "Telstar,Heerenveen,Home",
-            "tackles": "19/11[H]",
-            "interceptions": "11/4[H]",
-            "aerialDuels": "13/16[H]",
-            "aerialDuelsAttempted": "29/29[H]",
-            "dribbles": "4/9[H]",
-            "dribblesAttempted": "7/21[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/6[A]",
-            "fouls": "13/7[A]",
-            "goalKicks": "14/10[A]",
-            "saves": "7/4[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "5/10[A]",
-            "yellowCards": "2/3[A]",
-            "goals": "1/2[A]",
-            "throwIns": "13/16[A]",
-            "averageBallPossession": "40/60[A]",
-            "teams": "Telstar,AZ,Away",
-            "tackles": "23/13[A]",
-            "interceptions": "10/10[A]",
-            "aerialDuels": "13/15[A]",
-            "aerialDuelsAttempted": "28/28[A]",
-            "dribbles": "6/14[A]",
-            "dribblesAttempted": "9/22[A]",
-            "isHome": false
-        },
-        {
-            "corners": "8/3[H]",
-            "fouls": "13/9[H]",
-            "goalKicks": "7/5[H]",
-            "saves": "2/5[H]",
-            "offsides": "0/4[H]",
-            "shotsOnTarget": "9/5[H]",
-            "yellowCards": "2/0[H]",
-            "goals": "4/2[H]",
-            "throwIns": "13/16[H]",
-            "averageBallPossession": "39/61[H]",
-            "teams": "Telstar,GA Eagles,Home",
-            "tackles": "14/8[H]",
-            "interceptions": "10/10[H]",
-            "aerialDuels": "7/14[H]",
-            "aerialDuelsAttempted": "21/21[H]",
-            "dribbles": "5/7[H]",
-            "dribblesAttempted": "8/12[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/7[A]",
-            "fouls": "10/9[A]",
-            "goalKicks": "8/7[A]",
-            "saves": "4/3[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "3/6[A]",
-            "yellowCards": "3/1[A]",
-            "goals": "0/2[A]",
-            "throwIns": "25/16[A]",
-            "averageBallPossession": "45/55[A]",
-            "teams": "Telstar,Groningen,Away",
-            "tackles": "17/15[A]",
-            "interceptions": "7/7[A]",
-            "aerialDuels": "9/13[A]",
-            "aerialDuelsAttempted": "22/22[A]",
-            "dribbles": "5/9[A]",
-            "dribblesAttempted": "13/20[A]",
-            "isHome": false
-        },
-        {
-            "corners": "10/1[H]",
-            "fouls": "14/17[H]",
-            "goalKicks": "3/9[H]",
-            "saves": "3/4[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "7/6[H]",
-            "yellowCards": "1/0[H]",
-            "goals": "1/3[H]",
-            "throwIns": "22/11[H]",
-            "averageBallPossession": "56/44[H]",
-            "teams": "Telstar,Fortuna,Home",
-            "tackles": "14/17[H]",
-            "interceptions": "4/9[H]",
-            "aerialDuels": "22/12[H]",
-            "aerialDuelsAttempted": "34/34[H]",
-            "dribbles": "9/1[H]",
-            "dribblesAttempted": "19/12[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/10[A]",
-            "fouls": "11/10[A]",
-            "goalKicks": "11/6[A]",
-            "saves": "5/2[A]",
-            "offsides": "3/1[A]",
-            "shotsOnTarget": "4/5[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "2/0[A]",
-            "throwIns": "13/23[A]",
-            "averageBallPossession": "29/71[A]",
-            "teams": "Telstar,PSV,Away",
-            "tackles": "23/13[A]",
-            "interceptions": "6/2[A]",
-            "aerialDuels": "9/11[A]",
-            "aerialDuelsAttempted": "20/20[A]",
-            "dribbles": "5/12[A]",
-            "dribblesAttempted": "12/27[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/6[H]",
-            "fouls": "10/11[H]",
-            "goalKicks": "4/9[H]",
-            "saves": "4/8[H]",
-            "offsides": "3/0[H]",
-            "shotsOnTarget": "9/6[H]",
-            "yellowCards": "3/0[H]",
-            "goals": "2/2[H]",
-            "throwIns": "17/24[H]",
-            "averageBallPossession": "49/51[H]",
-            "teams": "Telstar,Volendam,Home",
-            "tackles": "13/18[H]",
-            "interceptions": "7/7[H]",
-            "aerialDuels": "19/15[H]",
-            "aerialDuelsAttempted": "34/34[H]",
-            "dribbles": "6/9[H]",
-            "dribblesAttempted": "18/17[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/0[H]",
-            "fouls": "13/10[H]",
-            "goalKicks": "5/9[H]",
-            "saves": "1/5[H]",
-            "offsides": "0/3[H]",
-            "shotsOnTarget": "5/3[H]",
-            "yellowCards": "3/3[H]",
-            "goals": "0/2[H]",
-            "throwIns": "30/14[H]",
-            "averageBallPossession": "52/48[H]",
-            "teams": "Telstar,Zwolle,Home",
-            "tackles": "12/20[H]",
-            "interceptions": "7/13[H]",
-            "aerialDuels": "6/12[H]",
-            "aerialDuelsAttempted": "18/18[H]",
-            "dribbles": "11/5[H]",
-            "dribblesAttempted": "18/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "10/8[A]",
-            "fouls": "12/9[A]",
-            "goalKicks": "7/5[A]",
-            "saves": "5/5[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "5/7[A]",
-            "yellowCards": "0/0[A]",
-            "goals": "0/2[A]",
-            "throwIns": "9/16[A]",
-            "averageBallPossession": "38/62[A]",
-            "teams": "Telstar,Ajax,Away",
-            "tackles": "14/21[A]",
-            "interceptions": "8/9[A]",
-            "aerialDuels": "8/12[A]",
-            "aerialDuelsAttempted": "20/20[A]",
-            "dribbles": "2/2[A]",
-            "dribblesAttempted": "13/8[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
+    "startTime": "2026-01-17T19:31:20.209Z",
+    "endTime": "2026-01-17T19:31:48.023Z",
+    "totalTimeSeconds": 27.81,
     "combinedMatchStatistics": {
-        "corners": "5/7[H]+6/6[A]+3/5[H]+1/8[H]+2/10[A]+7/6[A]+6/11[H]+4/6[A]+8/3[H]+2/7[A]+10/1[H]+3/10[A]+4/6[H]+7/0[H]+10/8[A]",
-        "fouls": "8/11[H]+12/15[A]+8/8[H]+10/10[H]+4/13[A]+14/9[A]+9/12[H]+13/7[A]+13/9[H]+10/9[A]+14/17[H]+11/10[A]+10/11[H]+13/10[H]+12/9[A]",
-        "goalKicks": "8/4[H]+4/7[A]+4/9[H]+10/10[H]+10/5[A]+10/10[A]+12/11[H]+14/10[A]+7/5[H]+8/7[A]+3/9[H]+11/6[A]+4/9[H]+5/9[H]+7/5[A]",
-        "saves": "5/2[H]+5/1[A]+6/1[H]+2/1[H]+7/0[A]+5/3[A]+3/4[H]+7/4[A]+2/5[H]+4/3[A]+3/4[H]+5/2[A]+4/8[H]+1/5[H]+5/5[A]",
-        "offsides": "4/1[H]+0/1[A]+1/0[H]+3/0[H]+4/0[A]+1/0[A]+1/0[H]+2/0[A]+0/4[H]+2/3[A]+2/1[H]+3/1[A]+3/0[H]+0/3[H]+2/1[A]",
-        "shotsOnTarget": "4/8[H]+2/6[A]+2/7[H]+3/3[H]+0/7[A]+3/6[A]+6/7[H]+5/10[A]+9/5[H]+3/6[A]+7/6[H]+4/5[A]+9/6[H]+5/3[H]+5/7[A]",
-        "yellowCards": "0/2[H]+2/3[A]+0/3[H]+2/2[H]+2/4[A]+2/3[A]+1/2[H]+2/3[A]+2/0[H]+3/1[A]+1/0[H]+1/1[A]+3/0[H]+3/3[H]+0/0[A]",
-        "goals": "2/2[H]+1/1[A]+1/2[H]+1/1[H]+0/0[A]+0/1[A]+2/3[H]+1/2[A]+4/2[H]+0/2[A]+1/3[H]+2/0[A]+2/2[H]+0/2[H]+0/2[A]",
-        "throwIns": "18/20[H]+19/28[A]+17/26[H]+21/19[H]+20/20[A]+24/14[A]+20/13[H]+13/16[A]+13/16[H]+25/16[A]+22/11[H]+13/23[A]+17/24[H]+30/14[H]+9/16[A]",
-        "averageBallPossession": "32/68[H]+54/46[A]+49/51[H]+42/58[H]+34/66[A]+53/47[A]+46/54[H]+40/60[A]+39/61[H]+45/55[A]+56/44[H]+29/71[A]+49/51[H]+52/48[H]+38/62[A]",
-        "teams": "Telstar,NEC,Home+Telstar,Heracles,Away+Telstar,Feyenoord,Home+Telstar,Utrecht,Home+Telstar,Twente,Away+Telstar,Sparta,Away+Telstar,Heerenveen,Home+Telstar,AZ,Away+Telstar,GA Eagles,Home+Telstar,Groningen,Away+Telstar,Fortuna,Home+Telstar,PSV,Away+Telstar,Volendam,Home+Telstar,Zwolle,Home+Telstar,Ajax,Away",
-        "tackles": "29/15[H]+14/24[A]+21/26[H]+16/15[H]+10/14[A]+13/15[A]+19/11[H]+23/13[A]+14/8[H]+17/15[A]+14/17[H]+23/13[A]+13/18[H]+12/20[H]+14/21[A]",
-        "interceptions": "11/9[H]+6/3[A]+9/15[H]+11/10[H]+10/6[A]+10/3[A]+11/4[H]+10/10[A]+10/10[H]+7/7[A]+4/9[H]+6/2[A]+7/7[H]+7/13[H]+8/9[A]",
-        "aerialDuels": "12/15[H]+13/16[A]+14/11[H]+11/24[H]+11/16[A]+9/29[A]+13/16[H]+13/15[A]+7/14[H]+9/13[A]+22/12[H]+9/11[A]+19/15[H]+6/12[H]+8/12[A]",
-        "aerialDuelsAttempted": "27/27[H]+29/29[A]+25/25[H]+35/35[H]+27/27[A]+38/38[A]+29/29[H]+28/28[A]+21/21[H]+22/22[A]+34/34[H]+20/20[A]+34/34[H]+18/18[H]+20/20[A]",
-        "dribbles": "4/10[H]+5/5[A]+10/9[H]+6/3[H]+2/6[A]+7/7[A]+4/9[H]+6/14[A]+5/7[H]+5/9[A]+9/1[H]+5/12[A]+6/9[H]+11/5[H]+2/2[A]",
-        "dribblesAttempted": "10/27[H]+12/10[A]+27/19[H]+10/12[H]+9/7[A]+13/14[A]+7/21[H]+9/22[A]+8/12[H]+13/20[A]+19/12[H]+12/27[A]+18/17[H]+18/9[H]+13/8[A]",
-        "isHome": "true+false+true+true+false+false+true+false+true+false+true+false+true+true+false",
-        "cornersTotals": "78/94",
-        "cornersTotalsHome": "44/41",
-        "cornersTotalsAway": "34/53",
-        "cornersAverage": "5.20/6.27",
-        "cornersAverageHome": "5.50/5.13",
-        "cornersAverageAway": "4.86/7.57",
-        "foulsTotals": "161/160",
-        "foulsTotalsHome": "85/88",
-        "foulsTotalsAway": "76/72",
-        "foulsAverage": "10.73/10.67",
-        "foulsAverageHome": "10.63/11.00",
-        "foulsAverageAway": "10.86/10.29",
-        "goalKicksTotals": "117/116",
-        "goalKicksTotalsHome": "53/66",
-        "goalKicksTotalsAway": "64/50",
-        "goalKicksAverage": "7.80/7.73",
-        "goalKicksAverageHome": "6.63/8.25",
-        "goalKicksAverageAway": "9.14/7.14",
-        "savesTotals": "64/48",
-        "savesTotalsHome": "26/30",
-        "savesTotalsAway": "38/18",
-        "savesAverage": "4.27/3.20",
-        "savesAverageHome": "3.25/3.75",
-        "savesAverageAway": "5.43/2.57",
-        "offsidesTotals": "28/15",
-        "offsidesTotalsHome": "14/9",
-        "offsidesTotalsAway": "14/6",
-        "offsidesAverage": "1.87/1.00",
-        "offsidesAverageHome": "1.75/1.13",
-        "offsidesAverageAway": "2.00/0.86",
-        "shotsOnTargetTotals": "67/92",
-        "shotsOnTargetTotalsHome": "45/45",
-        "shotsOnTargetTotalsAway": "22/47",
-        "shotsOnTargetAverage": "4.47/6.13",
-        "shotsOnTargetAverageHome": "5.63/5.63",
-        "shotsOnTargetAverageAway": "3.14/6.71",
-        "yellowCardsTotals": "24/27",
-        "yellowCardsTotalsHome": "12/12",
-        "yellowCardsTotalsAway": "12/15",
-        "yellowCardsAverage": "1.60/1.80",
-        "yellowCardsAverageHome": "1.50/1.50",
-        "yellowCardsAverageAway": "1.71/2.14",
-        "goalsTotals": "17/25",
-        "goalsTotalsHome": "13/17",
-        "goalsTotalsAway": "4/8",
-        "goalsAverage": "1.13/1.67",
-        "goalsAverageHome": "1.63/2.13",
-        "goalsAverageAway": "0.57/1.14",
-        "throwInsTotals": "281/276",
-        "throwInsTotalsHome": "158/143",
-        "throwInsTotalsAway": "123/133",
-        "throwInsAverage": "18.73/18.40",
-        "throwInsAverageHome": "19.75/17.88",
-        "throwInsAverageAway": "17.57/19.00",
-        "averageBallPossessionTotals": "658/842",
-        "averageBallPossessionTotalsHome": "365/435",
-        "averageBallPossessionTotalsAway": "293/407",
-        "averageBallPossessionAverage": "43.87/56.13",
-        "averageBallPossessionAverageHome": "45.63/54.38",
-        "averageBallPossessionAverageAway": "41.86/58.14",
-        "tacklesTotals": "252/245",
-        "tacklesTotalsHome": "138/130",
-        "tacklesTotalsAway": "114/115",
-        "tacklesAverage": "16.80/16.33",
-        "tacklesAverageHome": "17.25/16.25",
-        "tacklesAverageAway": "16.29/16.43",
-        "interceptionsTotals": "127/117",
-        "interceptionsTotalsHome": "70/77",
-        "interceptionsTotalsAway": "57/40",
-        "interceptionsAverage": "8.47/7.80",
-        "interceptionsAverageHome": "8.75/9.63",
-        "interceptionsAverageAway": "8.14/5.71",
-        "aerialDuelsTotals": "176/231",
-        "aerialDuelsTotalsHome": "104/119",
-        "aerialDuelsTotalsAway": "72/112",
-        "aerialDuelsAverage": "11.73/15.40",
-        "aerialDuelsAverageHome": "13.00/14.88",
-        "aerialDuelsAverageAway": "10.29/16.00",
-        "aerialDuelsAttemptedTotals": "407/407",
-        "aerialDuelsAttemptedTotalsHome": "223/223",
-        "aerialDuelsAttemptedTotalsAway": "184/184",
-        "aerialDuelsAttemptedAverage": "27.13/27.13",
-        "aerialDuelsAttemptedAverageHome": "27.88/27.88",
-        "aerialDuelsAttemptedAverageAway": "26.29/26.29",
-        "dribblesTotals": "87/108",
-        "dribblesTotalsHome": "55/53",
-        "dribblesTotalsAway": "32/55",
-        "dribblesAverage": "5.80/7.20",
-        "dribblesAverageHome": "6.88/6.63",
-        "dribblesAverageAway": "4.57/7.86",
-        "dribblesAttemptedTotals": "198/237",
-        "dribblesAttemptedTotalsHome": "117/129",
-        "dribblesAttemptedTotalsAway": "81/108",
-        "dribblesAttemptedAverage": "13.20/15.80",
-        "dribblesAttemptedAverageHome": "14.63/16.13",
-        "dribblesAttemptedAverageAway": "11.57/15.43"
+        "corners": "8/3[H]+3/8[A]+5/7[H]+6/6[A]+3/5[H]+1/8[H]+2/10[A]+7/6[A]",
+        "fouls": "6/6[H]+16/11[A]+8/11[H]+12/15[A]+8/8[H]+10/10[H]+4/13[A]+14/9[A]",
+        "goalKicks": "3/3[H]+13/9[A]+8/4[H]+4/7[A]+4/9[H]+10/10[H]+10/5[A]+10/10[A]",
+        "saves": "7/2[H]+2/3[A]+5/2[H]+5/1[A]+6/1[H]+2/1[H]+7/0[A]+5/3[A]",
+        "offsides": "5/0[H]+1/0[A]+4/1[H]+0/1[A]+1/0[H]+3/0[H]+4/0[A]+1/0[A]",
+        "shotsOnTarget": "3/10[H]+4/2[A]+4/8[H]+2/6[A]+2/7[H]+3/3[H]+0/7[A]+3/6[A]",
+        "yellowCards": "1/1[H]+3/2[A]+0/2[H]+2/3[A]+0/3[H]+2/2[H]+2/4[A]+2/3[A]",
+        "goals": "2/3[H]+1/0[A]+2/2[H]+1/1[A]+1/2[H]+1/1[H]+0/0[A]+0/1[A]",
+        "throwIns": "17/17[H]+16/13[A]+18/20[H]+19/28[A]+17/26[H]+21/19[H]+20/20[A]+24/14[A]",
+        "averageBallPossession": "35/65[H]+37/63[A]+32/68[H]+54/46[A]+49/51[H]+42/58[H]+34/66[A]+53/47[A]",
+        "teams": "Telstar,Ajax,Home+Telstar,NAC Breda,Away+Telstar,NEC,Home+Telstar,Heracles,Away+Telstar,Feyenoord,Home+Telstar,Utrecht,Home+Telstar,Twente,Away+Telstar,Sparta,Away",
+        "tackles": "21/13[H]+14/14[A]+29/15[H]+14/24[A]+21/26[H]+16/15[H]+10/14[A]+13/15[A]",
+        "interceptions": "13/7[H]+11/6[A]+11/9[H]+6/3[A]+9/15[H]+11/10[H]+10/6[A]+10/3[A]",
+        "aerialDuels": "14/12[H]+16/15[A]+12/15[H]+13/16[A]+14/11[H]+11/24[H]+11/16[A]+9/29[A]",
+        "aerialDuelsAttempted": "26/26[H]+31/31[A]+27/27[H]+29/29[A]+25/25[H]+35/35[H]+27/27[A]+38/38[A]",
+        "dribbles": "7/11[H]+4/7[A]+4/10[H]+5/5[A]+10/9[H]+6/3[H]+2/6[A]+7/7[A]",
+        "dribblesAttempted": "16/21[H]+10/13[A]+10/27[H]+12/10[A]+27/19[H]+10/12[H]+9/7[A]+13/14[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "35/53",
+        "cornersTotalsHome": "17/23",
+        "cornersTotalsAway": "18/30",
+        "cornersAverage": "4.38/6.63",
+        "cornersAverageHome": "4.25/5.75",
+        "cornersAverageAway": "4.50/7.50",
+        "foulsTotals": "78/83",
+        "foulsTotalsHome": "32/35",
+        "foulsTotalsAway": "46/48",
+        "foulsAverage": "9.75/10.38",
+        "foulsAverageHome": "8.00/8.75",
+        "foulsAverageAway": "11.50/12.00",
+        "goalKicksTotals": "62/57",
+        "goalKicksTotalsHome": "25/26",
+        "goalKicksTotalsAway": "37/31",
+        "goalKicksAverage": "7.75/7.13",
+        "goalKicksAverageHome": "6.25/6.50",
+        "goalKicksAverageAway": "9.25/7.75",
+        "savesTotals": "39/13",
+        "savesTotalsHome": "20/6",
+        "savesTotalsAway": "19/7",
+        "savesAverage": "4.88/1.63",
+        "savesAverageHome": "5.00/1.50",
+        "savesAverageAway": "4.75/1.75",
+        "offsidesTotals": "19/2",
+        "offsidesTotalsHome": "13/1",
+        "offsidesTotalsAway": "6/1",
+        "offsidesAverage": "2.38/0.25",
+        "offsidesAverageHome": "3.25/0.25",
+        "offsidesAverageAway": "1.50/0.25",
+        "shotsOnTargetTotals": "21/49",
+        "shotsOnTargetTotalsHome": "12/28",
+        "shotsOnTargetTotalsAway": "9/21",
+        "shotsOnTargetAverage": "2.63/6.13",
+        "shotsOnTargetAverageHome": "3.00/7.00",
+        "shotsOnTargetAverageAway": "2.25/5.25",
+        "yellowCardsTotals": "12/20",
+        "yellowCardsTotalsHome": "3/8",
+        "yellowCardsTotalsAway": "9/12",
+        "yellowCardsAverage": "1.50/2.50",
+        "yellowCardsAverageHome": "0.75/2.00",
+        "yellowCardsAverageAway": "2.25/3.00",
+        "goalsTotals": "8/10",
+        "goalsTotalsHome": "6/8",
+        "goalsTotalsAway": "2/2",
+        "goalsAverage": "1.00/1.25",
+        "goalsAverageHome": "1.50/2.00",
+        "goalsAverageAway": "0.50/0.50",
+        "throwInsTotals": "152/157",
+        "throwInsTotalsHome": "73/82",
+        "throwInsTotalsAway": "79/75",
+        "throwInsAverage": "19.00/19.63",
+        "throwInsAverageHome": "18.25/20.50",
+        "throwInsAverageAway": "19.75/18.75",
+        "averageBallPossessionTotals": "336/464",
+        "averageBallPossessionTotalsHome": "158/242",
+        "averageBallPossessionTotalsAway": "178/222",
+        "averageBallPossessionAverage": "42.00/58.00",
+        "averageBallPossessionAverageHome": "39.50/60.50",
+        "averageBallPossessionAverageAway": "44.50/55.50",
+        "tacklesTotals": "138/136",
+        "tacklesTotalsHome": "87/69",
+        "tacklesTotalsAway": "51/67",
+        "tacklesAverage": "17.25/17.00",
+        "tacklesAverageHome": "21.75/17.25",
+        "tacklesAverageAway": "12.75/16.75",
+        "interceptionsTotals": "81/59",
+        "interceptionsTotalsHome": "44/41",
+        "interceptionsTotalsAway": "37/18",
+        "interceptionsAverage": "10.13/7.38",
+        "interceptionsAverageHome": "11.00/10.25",
+        "interceptionsAverageAway": "9.25/4.50",
+        "aerialDuelsTotals": "100/138",
+        "aerialDuelsTotalsHome": "51/62",
+        "aerialDuelsTotalsAway": "49/76",
+        "aerialDuelsAverage": "12.50/17.25",
+        "aerialDuelsAverageHome": "12.75/15.50",
+        "aerialDuelsAverageAway": "12.25/19.00",
+        "aerialDuelsAttemptedTotals": "238/238",
+        "aerialDuelsAttemptedTotalsHome": "113/113",
+        "aerialDuelsAttemptedTotalsAway": "125/125",
+        "aerialDuelsAttemptedAverage": "29.75/29.75",
+        "aerialDuelsAttemptedAverageHome": "28.25/28.25",
+        "aerialDuelsAttemptedAverageAway": "31.25/31.25",
+        "dribblesTotals": "45/58",
+        "dribblesTotalsHome": "27/33",
+        "dribblesTotalsAway": "18/25",
+        "dribblesAverage": "5.63/7.25",
+        "dribblesAverageHome": "6.75/8.25",
+        "dribblesAverageAway": "4.50/6.25",
+        "dribblesAttemptedTotals": "107/123",
+        "dribblesAttemptedTotalsHome": "63/79",
+        "dribblesAttemptedTotalsAway": "44/44",
+        "dribblesAttemptedAverage": "13.38/15.38",
+        "dribblesAttemptedAverageHome": "15.75/19.75",
+        "dribblesAttemptedAverageAway": "11.00/11.00"
     }
 }

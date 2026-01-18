@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.81",
+        "fouls": "11.76",
+        "goalKicks": "8.10",
+        "saves": "4.10",
+        "offsides": "1.81",
+        "shotsOnTarget": "5.29/5.90",
+        "yellowCards": "1.95/1.81",
+        "goals": "1.90/1.86",
+        "throwIns": "17.76",
+        "ballPossession": 48.619047619048,
+        "tackles": "17.57/13.62",
+        "interceptions": "8.48/7.62",
+        "aerialDuels": "13.76",
+        "aerialDuelsAttempted": "28.81",
+        "dribbles": "6.52/7.14",
+        "dribblesAttempted": "13.05/14.29"
+    },
+    "teamSlug": "fc-den-bosch",
+    "teamId": "2963",
+    "teamName": "FC Den Bosch",
+    "tournament": "Eerste Divisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-den-bosch-vitesse/ijbsnjb#id:14056348,tab:statistics",
+            "teams": [
+                "Den Bosch",
+                "Vitesse"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2963",
+                "2958"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vvv-venlo-fc-den-bosch/njbsFjb#id:14056672,tab:statistics",
+            "teams": [
+                "Den Bosch",
+                "VVV-Venlo"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2963",
+                "2980"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-cambuur-fc-den-bosch/njbsvjb#id:14056661,tab:statistics",
+            "teams": [
+                "Cambuur",
+                "Den Bosch"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2970",
+                "2963"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-den-bosch-willem-ii-tilburg/ljbsnjb#id:14056627,tab:statistics",
+            "teams": [
+                "Den Bosch",
+                "Willem II"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2963",
+                "2961"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-fc-utrecht-youth-fc-den-bosch/njbsrlw#id:14056612,tab:statistics",
+            "teams": [
+                "Jong FC Utrecht",
+                "Den Bosch"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "53067",
+                "2963"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/almere-city-fc-fc-den-bosch/njbsPjb#id:14056577,tab:statistics",
+            "teams": [
+                "Den Bosch",
+                "Almere"
+            ],
+            "goals": [
+                "5",
+                "2"
+            ],
+            "teamIds": [
+                "2963",
+                "2990"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-eindhoven-fc-den-bosch/njbsUjb#id:14056544,tab:statistics",
+            "teams": [
+                "Eindhoven",
+                "Den Bosch"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2994",
+                "2963"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ado-den-haag-fc-den-bosch/njbsqjb#id:14056502,tab:statistics",
+            "teams": [
+                "ADO",
+                "Den Bosch"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2966",
+                "2963"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/2[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "4/4[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "4/6[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/26[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Den Bosch,Vitesse,Home",
+            "tackles": "33/17[H]",
+            "interceptions": "5/3[H]",
+            "aerialDuels": "20/13[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "8/2[H]",
+            "dribblesAttempted": "15/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "14/7[H]",
+            "saves": "3/4[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "18/20[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Den Bosch,VVV-Venlo,Home",
+            "tackles": "18/10[H]",
+            "interceptions": "3/4[H]",
+            "aerialDuels": "12/10[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "8/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "3/6[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "17/10[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Den Bosch,Cambuur,Away",
+            "tackles": "16/14[A]",
+            "interceptions": "5/6[A]",
+            "aerialDuels": "12/24[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "2/8[A]",
+            "dribblesAttempted": "11/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "6/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/19[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Den Bosch,Willem II,Home",
+            "tackles": "14/9[H]",
+            "interceptions": "14/14[H]",
+            "aerialDuels": "14/26[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "7/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/2[A]",
+            "fouls": "11/8[A]",
+            "goalKicks": "2/6[A]",
+            "saves": "6/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "4/9[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/3[A]",
+            "throwIns": "20/19[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Den Bosch,Jong FC Utrecht,Away",
+            "tackles": "24/15[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "20/16[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "9/13[A]",
+            "dribblesAttempted": "16/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "2/12[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "9/6[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "5/2[H]",
+            "throwIns": "24/14[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Den Bosch,Almere,Home",
+            "tackles": "11/10[H]",
+            "interceptions": "10/15[H]",
+            "aerialDuels": "13/9[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "8/2[H]",
+            "dribblesAttempted": "12/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/3[A]",
+            "fouls": "10/15[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "4/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "3/1[A]",
+            "throwIns": "4/17[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Den Bosch,Eindhoven,Away",
+            "tackles": "19/5[A]",
+            "interceptions": "7/9[A]",
+            "aerialDuels": "14/11[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "6/14[A]",
+            "dribblesAttempted": "7/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/11[A]",
+            "fouls": "6/12[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "4/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "21/27[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Den Bosch,ADO,Away",
+            "tackles": "16/10[A]",
+            "interceptions": "13/5[A]",
+            "aerialDuels": "13/21[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "10/5[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:29:14.701Z",
+    "endTime": "2026-01-18T10:29:42.351Z",
+    "totalTimeSeconds": 27.65,
+    "combinedMatchStatistics": {
+        "corners": "3/2[H]+6/2[H]+2/6[A]+3/9[H]+9/2[A]+4/3[H]+10/3[A]+4/11[A]",
+        "fouls": "15/12[H]+11/14[H]+13/10[A]+11/9[H]+11/8[A]+2/12[H]+10/15[A]+6/12[A]",
+        "goalKicks": "10/7[H]+14/7[H]+5/10[A]+10/7[H]+2/6[A]+6/10[H]+7/9[A]+8/10[A]",
+        "saves": "4/4[H]+3/4[H]+3/6[A]+6/3[H]+6/2[A]+4/4[H]+4/4[A]+4/2[A]",
+        "offsides": "3/3[H]+4/2[H]+2/3[A]+2/1[H]+3/0[A]+0/0[H]+3/1[A]+2/0[A]",
+        "shotsOnTarget": "6/4[H]+4/4[H]+7/5[A]+5/6[H]+4/9[A]+9/6[H]+6/5[A]+3/6[A]",
+        "yellowCards": "4/6[H]+4/2[H]+2/0[A]+2/2[H]+1/1[A]+1/0[H]+0/1[A]+1/0[A]",
+        "goals": "2/0[H]+0/1[H]+1/2[A]+2/1[H]+2/3[A]+5/2[H]+3/1[A]+1/2[A]",
+        "throwIns": "12/26[H]+18/20[H]+17/10[A]+17/19[H]+20/19[A]+24/14[H]+4/17[A]+21/27[A]",
+        "averageBallPossession": "42/58[H]+57/43[H]+49/51[A]+41/59[H]+59/41[A]+57/43[H]+53/47[A]+31/69[A]",
+        "teams": "Den Bosch,Vitesse,Home+Den Bosch,VVV-Venlo,Home+Den Bosch,Cambuur,Away+Den Bosch,Willem II,Home+Den Bosch,Jong FC Utrecht,Away+Den Bosch,Almere,Home+Den Bosch,Eindhoven,Away+Den Bosch,ADO,Away",
+        "tackles": "33/17[H]+18/10[H]+16/14[A]+14/9[H]+24/15[A]+11/10[H]+19/5[A]+16/10[A]",
+        "interceptions": "5/3[H]+3/4[H]+5/6[A]+14/14[H]+6/9[A]+10/15[H]+7/9[A]+13/5[A]",
+        "aerialDuels": "20/13[H]+12/10[H]+12/24[A]+14/26[H]+20/16[A]+13/9[H]+14/11[A]+13/21[A]",
+        "aerialDuelsAttempted": "33/33[H]+22/22[H]+36/36[A]+40/40[H]+36/36[A]+22/22[H]+25/25[A]+34/34[A]",
+        "dribbles": "8/2[H]+4/9[H]+2/8[A]+2/8[H]+9/13[A]+8/2[H]+6/14[A]+6/4[A]",
+        "dribblesAttempted": "15/11[H]+8/21[H]+11/14[A]+7/13[H]+16/23[A]+12/6[H]+7/27[A]+10/5[A]",
+        "isHome": "true+true+false+true+false+true+false+false",
+        "cornersTotals": "41/38",
+        "cornersTotalsHome": "16/16",
+        "cornersTotalsAway": "25/22",
+        "cornersAverage": "5.13/4.75",
+        "cornersAverageHome": "4.00/4.00",
+        "cornersAverageAway": "6.25/5.50",
+        "foulsTotals": "79/92",
+        "foulsTotalsHome": "39/47",
+        "foulsTotalsAway": "40/45",
+        "foulsAverage": "9.88/11.50",
+        "foulsAverageHome": "9.75/11.75",
+        "foulsAverageAway": "10.00/11.25",
+        "goalKicksTotals": "62/66",
+        "goalKicksTotalsHome": "40/31",
+        "goalKicksTotalsAway": "22/35",
+        "goalKicksAverage": "7.75/8.25",
+        "goalKicksAverageHome": "10.00/7.75",
+        "goalKicksAverageAway": "5.50/8.75",
+        "savesTotals": "34/29",
+        "savesTotalsHome": "17/15",
+        "savesTotalsAway": "17/14",
+        "savesAverage": "4.25/3.63",
+        "savesAverageHome": "4.25/3.75",
+        "savesAverageAway": "4.25/3.50",
+        "offsidesTotals": "19/10",
+        "offsidesTotalsHome": "9/6",
+        "offsidesTotalsAway": "10/4",
+        "offsidesAverage": "2.38/1.25",
+        "offsidesAverageHome": "2.25/1.50",
+        "offsidesAverageAway": "2.50/1.00",
+        "shotsOnTargetTotals": "44/45",
+        "shotsOnTargetTotalsHome": "24/20",
+        "shotsOnTargetTotalsAway": "20/25",
+        "shotsOnTargetAverage": "5.50/5.63",
+        "shotsOnTargetAverageHome": "6.00/5.00",
+        "shotsOnTargetAverageAway": "5.00/6.25",
+        "yellowCardsTotals": "15/12",
+        "yellowCardsTotalsHome": "11/10",
+        "yellowCardsTotalsAway": "4/2",
+        "yellowCardsAverage": "1.88/1.50",
+        "yellowCardsAverageHome": "2.75/2.50",
+        "yellowCardsAverageAway": "1.00/0.50",
+        "goalsTotals": "16/12",
+        "goalsTotalsHome": "9/4",
+        "goalsTotalsAway": "7/8",
+        "goalsAverage": "2.00/1.50",
+        "goalsAverageHome": "2.25/1.00",
+        "goalsAverageAway": "1.75/2.00",
+        "throwInsTotals": "133/152",
+        "throwInsTotalsHome": "71/79",
+        "throwInsTotalsAway": "62/73",
+        "throwInsAverage": "16.63/19.00",
+        "throwInsAverageHome": "17.75/19.75",
+        "throwInsAverageAway": "15.50/18.25",
+        "averageBallPossessionTotals": "389/411",
+        "averageBallPossessionTotalsHome": "197/203",
+        "averageBallPossessionTotalsAway": "192/208",
+        "averageBallPossessionAverage": "48.63/51.38",
+        "averageBallPossessionAverageHome": "49.25/50.75",
+        "averageBallPossessionAverageAway": "48.00/52.00",
+        "tacklesTotals": "151/90",
+        "tacklesTotalsHome": "76/46",
+        "tacklesTotalsAway": "75/44",
+        "tacklesAverage": "18.88/11.25",
+        "tacklesAverageHome": "19.00/11.50",
+        "tacklesAverageAway": "18.75/11.00",
+        "interceptionsTotals": "63/65",
+        "interceptionsTotalsHome": "32/36",
+        "interceptionsTotalsAway": "31/29",
+        "interceptionsAverage": "7.88/8.13",
+        "interceptionsAverageHome": "8.00/9.00",
+        "interceptionsAverageAway": "7.75/7.25",
+        "aerialDuelsTotals": "118/130",
+        "aerialDuelsTotalsHome": "59/58",
+        "aerialDuelsTotalsAway": "59/72",
+        "aerialDuelsAverage": "14.75/16.25",
+        "aerialDuelsAverageHome": "14.75/14.50",
+        "aerialDuelsAverageAway": "14.75/18.00",
+        "aerialDuelsAttemptedTotals": "248/248",
+        "aerialDuelsAttemptedTotalsHome": "117/117",
+        "aerialDuelsAttemptedTotalsAway": "131/131",
+        "aerialDuelsAttemptedAverage": "31.00/31.00",
+        "aerialDuelsAttemptedAverageHome": "29.25/29.25",
+        "aerialDuelsAttemptedAverageAway": "32.75/32.75",
+        "dribblesTotals": "45/60",
+        "dribblesTotalsHome": "22/21",
+        "dribblesTotalsAway": "23/39",
+        "dribblesAverage": "5.63/7.50",
+        "dribblesAverageHome": "5.50/5.25",
+        "dribblesAverageAway": "5.75/9.75",
+        "dribblesAttemptedTotals": "86/120",
+        "dribblesAttemptedTotalsHome": "42/51",
+        "dribblesAttemptedTotalsAway": "44/69",
+        "dribblesAttemptedAverage": "10.75/15.00",
+        "dribblesAttemptedAverageHome": "10.50/12.75",
+        "dribblesAttemptedAverageAway": "11.00/17.25"
+    }
+}

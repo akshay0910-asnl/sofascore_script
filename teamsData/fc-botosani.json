@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.57",
+        "fouls": "15.05",
+        "goalKicks": "8.95",
+        "saves": "3.81",
+        "offsides": "1.43",
+        "shotsOnTarget": "4.38/4.48",
+        "yellowCards": "2.24/2.14",
+        "goals": "1.43/0.71",
+        "throwIns": "25.86",
+        "ballPossession": 51,
+        "tackles": "16.52/15.14",
+        "interceptions": "6.76/9.67",
+        "aerialDuels": "13.52",
+        "aerialDuelsAttempted": "30.24",
+        "dribbles": "6.76/8.38",
+        "dribblesAttempted": "14.33/17.05"
+    },
+    "teamSlug": "fc-botosani",
+    "teamId": "24798",
+    "teamName": "FC Botoșani",
+    "tournament": "Romanian SuperLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-botosani-cfr-1907-cluj/MfcsYVj#id:14065020,tab:statistics",
+            "teams": [
+                "FC Botoșani",
+                "CFR Cluj"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "24798",
+                "5287"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-fc-botosani/YVjswzW#id:14065007,tab:statistics",
+            "teams": [
+                "Argeș Pitești",
+                "FC Botoșani"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "116221",
+                "24798"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fc-botosani/YVjsditc#id:14065009,tab:statistics",
+            "teams": [
+                "FC Botoșani",
+                "Rapid București"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "24798",
+                "295403"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-unirea-04-slobozia-fc-botosani/YVjsjKr#id:14060320,tab:statistics",
+            "teams": [
+                "Unirea Slobozia",
+                "FC Botoșani"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "44259",
+                "24798"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-botosani-fc-dinamo-bucuresti/RpbsYVj#id:14060313,tab:statistics",
+            "teams": [
+                "FC Botoșani",
+                "Dinamo București"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "24798",
+                "3292"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-botosani-fc-farul-constanta/UpbsYVj#id:14060300,tab:statistics",
+            "teams": [
+                "Farul Constanța",
+                "FC Botoșani"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "3294",
+                "24798"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-petrolul-ploiesti-fc-botosani/YVjsgrk#id:14054783,tab:statistics",
+            "teams": [
+                "Petrolul Ploiești",
+                "FC Botoșani"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "25856",
+                "24798"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-hermannstadt-fc-botosani/YVjsghec#id:14054776,tab:statistics",
+            "teams": [
+                "FC Botoșani",
+                "Hermannstadt"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "24798",
+                "260356"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/2[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "4/18[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "39/26[H]",
+            "averageBallPossession": "75/25[H]",
+            "teams": "FC Botoșani,CFR Cluj,Home",
+            "tackles": "19/11[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "7/7[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "16/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "21/37[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "FC Botoșani,Argeș Pitești,Away",
+            "tackles": "23/25[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "12/22[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "18/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "22/16[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "1/6[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "21/15[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "FC Botoșani,Rapid București,Home",
+            "tackles": "10/10[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "12/8[H]",
+            "dribblesAttempted": "16/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "25/17[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "6/6[A]",
+            "goals": "1/0[A]",
+            "throwIns": "32/25[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "FC Botoșani,Unirea Slobozia,Away",
+            "tackles": "19/20[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "18/28[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "9/3[A]",
+            "dribblesAttempted": "20/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "17/16[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "9/3[H]",
+            "offsides": "1/5[H]",
+            "shotsOnTarget": "4/9[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/14[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "FC Botoșani,Dinamo București,Home",
+            "tackles": "16/19[H]",
+            "interceptions": "5/16[H]",
+            "aerialDuels": "12/18[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "1/3[H]",
+            "dribblesAttempted": "8/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "14/11[A]",
+            "saves": "5/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/22[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "FC Botoșani,Farul Constanța,Away",
+            "tackles": "15/18[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "7/7[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "16/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/6[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "2/7[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "18/26[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "FC Botoșani,Petrolul Ploiești,Away",
+            "tackles": "12/18[A]",
+            "interceptions": "15/13[A]",
+            "aerialDuels": "17/14[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "10/10[A]",
+            "dribblesAttempted": "21/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "8/11[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "31/34[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "FC Botoșani,Hermannstadt,Home",
+            "tackles": "19/15[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "13/8[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "17/19[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:39:43.198Z",
+    "endTime": "2026-01-18T10:40:10.745Z",
+    "totalTimeSeconds": 27.55,
+    "combinedMatchStatistics": {
+        "corners": "6/2[H]+6/4[A]+7/1[H]+6/2[A]+2/7[H]+4/4[A]+0/6[A]+5/4[H]",
+        "fouls": "9/14[H]+13/13[A]+22/16[H]+25/17[A]+17/16[H]+8/12[A]+11/12[A]+8/11[H]",
+        "goalKicks": "4/18[H]+8/10[A]+6/5[H]+7/6[A]+4/9[H]+14/11[A]+6/8[A]+9/6[H]",
+        "saves": "1/2[H]+2/1[A]+1/6[H]+3/1[A]+9/3[H]+5/3[A]+2/7[A]+4/4[H]",
+        "offsides": "2/4[H]+2/3[A]+2/0[H]+3/4[A]+1/5[H]+0/1[A]+1/4[A]+0/1[H]",
+        "shotsOnTarget": "2/2[H]+2/2[A]+6/1[H]+2/3[A]+4/9[H]+3/8[A]+7/2[A]+6/3[H]",
+        "yellowCards": "2/2[H]+1/1[A]+3/2[H]+6/6[A]+2/2[H]+0/2[A]+2/2[A]+2/2[H]",
+        "goals": "0/1[H]+0/0[A]+0/0[H]+1/0[A]+1/1[H]+0/2[A]+0/0[A]+2/0[H]",
+        "throwIns": "39/26[H]+21/37[A]+21/15[H]+32/25[A]+19/14[H]+21/22[A]+18/26[A]+31/34[H]",
+        "averageBallPossession": "75/25[H]+63/37[A]+53/47[H]+57/43[A]+45/55[H]+39/61[A]+55/45[A]+59/41[H]",
+        "teams": "FC Botoșani,CFR Cluj,Home+FC Botoșani,Argeș Pitești,Away+FC Botoșani,Rapid București,Home+FC Botoșani,Unirea Slobozia,Away+FC Botoșani,Dinamo București,Home+FC Botoșani,Farul Constanța,Away+FC Botoșani,Petrolul Ploiești,Away+FC Botoșani,Hermannstadt,Home",
+        "tackles": "19/11[H]+23/25[A]+10/10[H]+19/20[A]+16/19[H]+15/18[A]+12/18[A]+19/15[H]",
+        "interceptions": "4/6[H]+4/9[A]+11/13[H]+6/12[A]+5/16[H]+6/9[A]+15/13[A]+11/9[H]",
+        "aerialDuels": "7/7[H]+12/22[A]+9/10[H]+18/28[A]+12/18[H]+7/7[A]+17/14[A]+13/8[H]",
+        "aerialDuelsAttempted": "14/14[H]+34/34[A]+19/19[H]+46/46[A]+30/30[H]+14/14[A]+31/31[A]+21/21[H]",
+        "dribbles": "10/4[H]+4/3[A]+12/8[H]+9/3[A]+1/3[H]+7/7[A]+10/10[A]+7/6[H]",
+        "dribblesAttempted": "16/14[H]+18/12[A]+16/12[H]+20/14[A]+8/13[H]+16/13[A]+21/13[A]+17/19[H]",
+        "isHome": "true+false+true+false+true+false+false+true",
+        "cornersTotals": "36/30",
+        "cornersTotalsHome": "20/14",
+        "cornersTotalsAway": "16/16",
+        "cornersAverage": "4.50/3.75",
+        "cornersAverageHome": "5.00/3.50",
+        "cornersAverageAway": "4.00/4.00",
+        "foulsTotals": "113/111",
+        "foulsTotalsHome": "56/57",
+        "foulsTotalsAway": "57/54",
+        "foulsAverage": "14.13/13.88",
+        "foulsAverageHome": "14.00/14.25",
+        "foulsAverageAway": "14.25/13.50",
+        "goalKicksTotals": "58/73",
+        "goalKicksTotalsHome": "23/38",
+        "goalKicksTotalsAway": "35/35",
+        "goalKicksAverage": "7.25/9.13",
+        "goalKicksAverageHome": "5.75/9.50",
+        "goalKicksAverageAway": "8.75/8.75",
+        "savesTotals": "27/27",
+        "savesTotalsHome": "15/15",
+        "savesTotalsAway": "12/12",
+        "savesAverage": "3.38/3.38",
+        "savesAverageHome": "3.75/3.75",
+        "savesAverageAway": "3.00/3.00",
+        "offsidesTotals": "11/22",
+        "offsidesTotalsHome": "5/10",
+        "offsidesTotalsAway": "6/12",
+        "offsidesAverage": "1.38/2.75",
+        "offsidesAverageHome": "1.25/2.50",
+        "offsidesAverageAway": "1.50/3.00",
+        "shotsOnTargetTotals": "32/30",
+        "shotsOnTargetTotalsHome": "18/15",
+        "shotsOnTargetTotalsAway": "14/15",
+        "shotsOnTargetAverage": "4.00/3.75",
+        "shotsOnTargetAverageHome": "4.50/3.75",
+        "shotsOnTargetAverageAway": "3.50/3.75",
+        "yellowCardsTotals": "18/19",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "9/11",
+        "yellowCardsAverage": "2.25/2.38",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "2.25/2.75",
+        "goalsTotals": "4/4",
+        "goalsTotalsHome": "3/2",
+        "goalsTotalsAway": "1/2",
+        "goalsAverage": "0.50/0.50",
+        "goalsAverageHome": "0.75/0.50",
+        "goalsAverageAway": "0.25/0.50",
+        "throwInsTotals": "202/199",
+        "throwInsTotalsHome": "110/89",
+        "throwInsTotalsAway": "92/110",
+        "throwInsAverage": "25.25/24.88",
+        "throwInsAverageHome": "27.50/22.25",
+        "throwInsAverageAway": "23.00/27.50",
+        "averageBallPossessionTotals": "446/354",
+        "averageBallPossessionTotalsHome": "232/168",
+        "averageBallPossessionTotalsAway": "214/186",
+        "averageBallPossessionAverage": "55.75/44.25",
+        "averageBallPossessionAverageHome": "58.00/42.00",
+        "averageBallPossessionAverageAway": "53.50/46.50",
+        "tacklesTotals": "133/136",
+        "tacklesTotalsHome": "64/55",
+        "tacklesTotalsAway": "69/81",
+        "tacklesAverage": "16.63/17.00",
+        "tacklesAverageHome": "16.00/13.75",
+        "tacklesAverageAway": "17.25/20.25",
+        "interceptionsTotals": "62/87",
+        "interceptionsTotalsHome": "31/44",
+        "interceptionsTotalsAway": "31/43",
+        "interceptionsAverage": "7.75/10.88",
+        "interceptionsAverageHome": "7.75/11.00",
+        "interceptionsAverageAway": "7.75/10.75",
+        "aerialDuelsTotals": "95/114",
+        "aerialDuelsTotalsHome": "41/43",
+        "aerialDuelsTotalsAway": "54/71",
+        "aerialDuelsAverage": "11.88/14.25",
+        "aerialDuelsAverageHome": "10.25/10.75",
+        "aerialDuelsAverageAway": "13.50/17.75",
+        "aerialDuelsAttemptedTotals": "209/209",
+        "aerialDuelsAttemptedTotalsHome": "84/84",
+        "aerialDuelsAttemptedTotalsAway": "125/125",
+        "aerialDuelsAttemptedAverage": "26.13/26.13",
+        "aerialDuelsAttemptedAverageHome": "21.00/21.00",
+        "aerialDuelsAttemptedAverageAway": "31.25/31.25",
+        "dribblesTotals": "60/44",
+        "dribblesTotalsHome": "30/21",
+        "dribblesTotalsAway": "30/23",
+        "dribblesAverage": "7.50/5.50",
+        "dribblesAverageHome": "7.50/5.25",
+        "dribblesAverageAway": "7.50/5.75",
+        "dribblesAttemptedTotals": "132/110",
+        "dribblesAttemptedTotalsHome": "57/58",
+        "dribblesAttemptedTotalsAway": "75/52",
+        "dribblesAttemptedAverage": "16.50/13.75",
+        "dribblesAttemptedAverageHome": "14.25/14.50",
+        "dribblesAttemptedAverageAway": "18.75/13.00"
+    }
+}

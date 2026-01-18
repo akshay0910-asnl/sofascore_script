@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.47",
+        "fouls": "13.82",
+        "goalKicks": "9.59",
+        "saves": "3.35",
+        "offsides": "1.71",
+        "shotsOnTarget": "4.00/4.53",
+        "yellowCards": "2.59/2.24",
+        "goals": "1.24/0.94",
+        "throwIns": "21.00",
+        "ballPossession": 47.647058823529,
+        "tackles": "14.53/15.06",
+        "interceptions": "9.71/7.88",
+        "aerialDuels": "17.59",
+        "aerialDuelsAttempted": "33.41",
+        "dribbles": "7.18/7.41",
+        "dribblesAttempted": "14.82/14.71"
+    },
+    "teamSlug": "hertha-bsc",
+    "teamId": "2528",
+    "teamName": "Hertha BSC",
+    "tournament": "2. Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/arminia-bielefeld-hertha-bsc/DabsPab#id:14065398,tab:statistics",
+            "teams": [
+                "Hertha",
+                "Bielefeld"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2528",
+                "2540"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/spvgg-greuther-furth-hertha-bsc/Dabsbbb#id:14065390,tab:statistics",
+            "teams": [
+                "Fürth",
+                "Hertha"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "2551",
+                "2528"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fc-magdeburg-hertha-bsc/DabsQbb#id:14065379,tab:statistics",
+            "teams": [
+                "Hertha",
+                "Magdeburg"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "2528",
+                "2591"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/holstein-kiel-hertha-bsc/Dabsybb#id:14065365,tab:statistics",
+            "teams": [
+                "Kiel",
+                "Hertha"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2573",
+                "2528"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eintracht-braunschweig-hertha-bsc/Dabshbb#id:14065362,tab:statistics",
+            "teams": [
+                "Hertha",
+                "Braunschweig"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2528",
+                "2557"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-fc-kaiserslautern-hertha-bsc/DabsAdb#id:14065350,tab:statistics",
+            "teams": [
+                "Kaiserslautern",
+                "Hertha"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2675",
+                "2528"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sg-dynamo-dresden-hertha-bsc/DabsVbb#id:14065345,tab:statistics",
+            "teams": [
+                "Hertha",
+                "Dresden"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2528",
+                "2595"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vfl-bochum-1848-hertha-bsc/DabsRab#id:14065317,tab:statistics",
+            "teams": [
+                "Bochum",
+                "Hertha"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2542",
+                "2528"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/4[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "25/29[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Hertha,Bielefeld,Home",
+            "tackles": "8/11[H]",
+            "interceptions": "13/11[H]",
+            "aerialDuels": "21/23[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "13/3[H]",
+            "dribblesAttempted": "17/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/3[A]",
+            "throwIns": "20/11[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Hertha,Fürth,Away",
+            "tackles": "3/10[A]",
+            "interceptions": "7/9[A]",
+            "aerialDuels": "21/11[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "9/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "16/7[H]",
+            "goalKicks": "13/12[H]",
+            "saves": "3/5[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "17/13[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Hertha,Magdeburg,Home",
+            "tackles": "14/17[H]",
+            "interceptions": "5/4[H]",
+            "aerialDuels": "20/12[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "12/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "14/13[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "0/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/0[A]",
+            "yellowCards": "6/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "27/16[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Hertha,Kiel,Away",
+            "tackles": "18/15[A]",
+            "interceptions": "11/9[A]",
+            "aerialDuels": "13/18[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "12/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "16/23[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Hertha,Braunschweig,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "12/11[H]",
+            "aerialDuels": "20/17[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "15/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "13/9[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "8/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/9[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "17/23[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Hertha,Kaiserslautern,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "19/20[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "14/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "16/9[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "19/19[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Hertha,Dresden,Home",
+            "tackles": "16/13[H]",
+            "interceptions": "14/5[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "17/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "9/22[A]",
+            "goalKicks": "8/11[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/3[A]",
+            "throwIns": "25/24[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Hertha,Bochum,Away",
+            "tackles": "15/18[A]",
+            "interceptions": "5/11[A]",
+            "aerialDuels": "12/19[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "12/7[A]",
+            "dribblesAttempted": "21/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-17T19:32:46.956Z",
+    "endTime": "2026-01-17T19:33:14.967Z",
+    "totalTimeSeconds": 28.01,
+    "combinedMatchStatistics": {
+        "corners": "3/4[H]+4/2[A]+7/5[H]+3/8[A]+6/5[H]+4/7[A]+3/5[H]+6/1[A]",
+        "fouls": "12/16[H]+12/13[A]+16/7[H]+14/13[A]+14/12[H]+13/9[A]+16/9[H]+9/22[A]",
+        "goalKicks": "12/7[H]+9/9[A]+13/12[H]+9/9[A]+7/8[H]+8/10[A]+10/6[H]+8/11[A]",
+        "saves": "4/1[H]+3/3[A]+3/5[H]+0/1[A]+3/4[H]+8/2[A]+4/4[H]+1/4[A]",
+        "offsides": "1/1[H]+3/1[A]+1/0[H]+2/2[A]+1/1[H]+2/1[A]+0/1[H]+3/1[A]",
+        "shotsOnTarget": "2/6[H]+8/6[A]+5/5[H]+2/0[A]+5/3[H]+3/9[A]+6/4[H]+6/3[A]",
+        "yellowCards": "3/2[H]+3/2[A]+0/3[H]+6/2[A]+1/3[H]+3/2[A]+0/0[H]+3/4[A]",
+        "goals": "1/1[H]+3/3[A]+0/2[H]+1/0[A]+1/0[H]+1/0[A]+2/0[H]+2/3[A]",
+        "throwIns": "25/29[H]+20/11[A]+17/13[H]+27/16[A]+16/23[H]+17/23[A]+19/19[H]+25/24[A]",
+        "averageBallPossession": "58/42[H]+50/50[A]+49/51[H]+48/52[A]+52/48[H]+38/62[A]+48/52[H]+63/37[A]",
+        "teams": "Hertha,Bielefeld,Home+Hertha,Fürth,Away+Hertha,Magdeburg,Home+Hertha,Kiel,Away+Hertha,Braunschweig,Home+Hertha,Kaiserslautern,Away+Hertha,Dresden,Home+Hertha,Bochum,Away",
+        "tackles": "8/11[H]+3/10[A]+14/17[H]+18/15[A]+13/16[H]+10/14[A]+16/13[H]+15/18[A]",
+        "interceptions": "13/11[H]+7/9[A]+5/4[H]+11/9[A]+12/11[H]+10/13[A]+14/5[H]+5/11[A]",
+        "aerialDuels": "21/23[H]+21/11[A]+20/12[H]+13/18[A]+20/17[H]+19/20[A]+15/15[H]+12/19[A]",
+        "aerialDuelsAttempted": "44/44[H]+32/32[A]+32/32[H]+31/31[A]+37/37[H]+39/39[A]+30/30[H]+31/31[A]",
+        "dribbles": "13/3[H]+5/7[A]+4/5[H]+3/8[A]+7/6[H]+5/11[A]+8/9[H]+12/7[A]",
+        "dribblesAttempted": "17/9[H]+9/9[A]+12/13[H]+12/18[A]+15/13[H]+14/13[A]+17/16[H]+21/11[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "36/37",
+        "cornersTotalsHome": "19/19",
+        "cornersTotalsAway": "17/18",
+        "cornersAverage": "4.50/4.63",
+        "cornersAverageHome": "4.75/4.75",
+        "cornersAverageAway": "4.25/4.50",
+        "foulsTotals": "106/101",
+        "foulsTotalsHome": "58/44",
+        "foulsTotalsAway": "48/57",
+        "foulsAverage": "13.25/12.63",
+        "foulsAverageHome": "14.50/11.00",
+        "foulsAverageAway": "12.00/14.25",
+        "goalKicksTotals": "76/72",
+        "goalKicksTotalsHome": "42/33",
+        "goalKicksTotalsAway": "34/39",
+        "goalKicksAverage": "9.50/9.00",
+        "goalKicksAverageHome": "10.50/8.25",
+        "goalKicksAverageAway": "8.50/9.75",
+        "savesTotals": "26/24",
+        "savesTotalsHome": "14/14",
+        "savesTotalsAway": "12/10",
+        "savesAverage": "3.25/3.00",
+        "savesAverageHome": "3.50/3.50",
+        "savesAverageAway": "3.00/2.50",
+        "offsidesTotals": "13/8",
+        "offsidesTotalsHome": "3/3",
+        "offsidesTotalsAway": "10/5",
+        "offsidesAverage": "1.63/1.00",
+        "offsidesAverageHome": "0.75/0.75",
+        "offsidesAverageAway": "2.50/1.25",
+        "shotsOnTargetTotals": "37/36",
+        "shotsOnTargetTotalsHome": "18/18",
+        "shotsOnTargetTotalsAway": "19/18",
+        "shotsOnTargetAverage": "4.63/4.50",
+        "shotsOnTargetAverageHome": "4.50/4.50",
+        "shotsOnTargetAverageAway": "4.75/4.50",
+        "yellowCardsTotals": "19/18",
+        "yellowCardsTotalsHome": "4/8",
+        "yellowCardsTotalsAway": "15/10",
+        "yellowCardsAverage": "2.38/2.25",
+        "yellowCardsAverageHome": "1.00/2.00",
+        "yellowCardsAverageAway": "3.75/2.50",
+        "goalsTotals": "11/9",
+        "goalsTotalsHome": "4/3",
+        "goalsTotalsAway": "7/6",
+        "goalsAverage": "1.38/1.13",
+        "goalsAverageHome": "1.00/0.75",
+        "goalsAverageAway": "1.75/1.50",
+        "throwInsTotals": "166/158",
+        "throwInsTotalsHome": "77/84",
+        "throwInsTotalsAway": "89/74",
+        "throwInsAverage": "20.75/19.75",
+        "throwInsAverageHome": "19.25/21.00",
+        "throwInsAverageAway": "22.25/18.50",
+        "averageBallPossessionTotals": "406/394",
+        "averageBallPossessionTotalsHome": "207/193",
+        "averageBallPossessionTotalsAway": "199/201",
+        "averageBallPossessionAverage": "50.75/49.25",
+        "averageBallPossessionAverageHome": "51.75/48.25",
+        "averageBallPossessionAverageAway": "49.75/50.25",
+        "tacklesTotals": "97/114",
+        "tacklesTotalsHome": "51/57",
+        "tacklesTotalsAway": "46/57",
+        "tacklesAverage": "12.13/14.25",
+        "tacklesAverageHome": "12.75/14.25",
+        "tacklesAverageAway": "11.50/14.25",
+        "interceptionsTotals": "77/73",
+        "interceptionsTotalsHome": "44/31",
+        "interceptionsTotalsAway": "33/42",
+        "interceptionsAverage": "9.63/9.13",
+        "interceptionsAverageHome": "11.00/7.75",
+        "interceptionsAverageAway": "8.25/10.50",
+        "aerialDuelsTotals": "141/135",
+        "aerialDuelsTotalsHome": "76/67",
+        "aerialDuelsTotalsAway": "65/68",
+        "aerialDuelsAverage": "17.63/16.88",
+        "aerialDuelsAverageHome": "19.00/16.75",
+        "aerialDuelsAverageAway": "16.25/17.00",
+        "aerialDuelsAttemptedTotals": "276/276",
+        "aerialDuelsAttemptedTotalsHome": "143/143",
+        "aerialDuelsAttemptedTotalsAway": "133/133",
+        "aerialDuelsAttemptedAverage": "34.50/34.50",
+        "aerialDuelsAttemptedAverageHome": "35.75/35.75",
+        "aerialDuelsAttemptedAverageAway": "33.25/33.25",
+        "dribblesTotals": "57/56",
+        "dribblesTotalsHome": "32/23",
+        "dribblesTotalsAway": "25/33",
+        "dribblesAverage": "7.13/7.00",
+        "dribblesAverageHome": "8.00/5.75",
+        "dribblesAverageAway": "6.25/8.25",
+        "dribblesAttemptedTotals": "117/102",
+        "dribblesAttemptedTotalsHome": "61/51",
+        "dribblesAttemptedTotalsAway": "56/51",
+        "dribblesAttemptedAverage": "14.63/12.75",
+        "dribblesAttemptedAverageHome": "15.25/12.75",
+        "dribblesAttemptedAverageAway": "14.00/12.75"
+    }
+}

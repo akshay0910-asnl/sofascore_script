@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.10",
+        "fouls": "12.19",
+        "goalKicks": "9.57",
+        "saves": "4.10",
+        "offsides": "2.05",
+        "shotsOnTarget": "4.14/6.14",
+        "yellowCards": "1.52/1.19",
+        "goals": "1.19/1.90",
+        "throwIns": "20.76",
+        "ballPossession": 43.761904761905,
+        "tackles": "18.19/17.00",
+        "interceptions": "9.19/9.76",
+        "aerialDuels": "13.00",
+        "aerialDuelsAttempted": "26.24",
+        "dribbles": "6.76/9.48",
+        "dribblesAttempted": "15.57/19.38"
+    },
+    "teamSlug": "mvv-maastricht",
+    "teamId": "2976",
+    "teamName": "MVV Maastricht",
+    "tournament": "Eerste Divisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/mvv-maastricht-sc-cambuur/vjbsBjb#id:14056367,tab:statistics",
+            "teams": [
+                "Cambuur",
+                "MVV"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2970",
+                "2976"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-ajax-mvv-maastricht/Bjbskyt#id:14056682,tab:statistics",
+            "teams": [
+                "MVV",
+                "Jong Ajax"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2976",
+                "46160"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mvv-maastricht-helmond-sport/zjbsBjb#id:14056655,tab:statistics",
+            "teams": [
+                "Helmond Sport",
+                "MVV"
+            ],
+            "goals": [
+                "2",
+                "4"
+            ],
+            "teamIds": [
+                "2974",
+                "2976"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mvv-maastricht-roda-jc-kerkrade/ejbsBjb#id:14056643,tab:statistics",
+            "teams": [
+                "MVV",
+                "Roda"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2976",
+                "2954"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mvv-maastricht-rkc-waalwijk/gjbsBjb#id:14056618,tab:statistics",
+            "teams": [
+                "Waalwijk",
+                "MVV"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2956",
+                "2976"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-mvv-maastricht/Bjbslyt#id:14056588,tab:statistics",
+            "teams": [
+                "MVV",
+                "Jong AZ"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2976",
+                "46161"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/almere-city-fc-mvv-maastricht/BjbsPjb#id:14056541,tab:statistics",
+            "teams": [
+                "Almere",
+                "MVV"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "2990",
+                "2976"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mvv-maastricht-ado-den-haag/qjbsBjb#id:14056529,tab:statistics",
+            "teams": [
+                "MVV",
+                "ADO"
+            ],
+            "goals": [
+                "3",
+                "4"
+            ],
+            "teamIds": [
+                "2976",
+                "2966"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/10[A]",
+            "fouls": "15/4[A]",
+            "goalKicks": "5/5[A]",
+            "saves": "6/3[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "3/11[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "18/19[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "MVV,Cambuur,Away",
+            "tackles": "17/15[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "7/12[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "5/14[A]",
+            "dribblesAttempted": "11/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "14/10[H]",
+            "goalKicks": "8/11[H]",
+            "saves": "1/2[H]",
+            "offsides": "9/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/25[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "MVV,Jong Ajax,Home",
+            "tackles": "18/12[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "12/10[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "3/12[H]",
+            "dribblesAttempted": "8/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/12[A]",
+            "fouls": "9/18[A]",
+            "goalKicks": "8/3[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "4/2[A]",
+            "throwIns": "17/20[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "MVV,Helmond Sport,Away",
+            "tackles": "21/23[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "13/11[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "19/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/3[H]",
+            "fouls": "17/15[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "3/6[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "17/16[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "MVV,Roda,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "16/18[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "15/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "16/14[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "6/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "16/19[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "MVV,Waalwijk,Away",
+            "tackles": "28/17[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "12/20[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "15/26[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "4/12[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "18/27[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "MVV,Jong AZ,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "8/13[H]",
+            "aerialDuels": "9/12[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "6/14[H]",
+            "dribblesAttempted": "17/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "6/8[A]",
+            "goalKicks": "14/8[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/9[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/4[A]",
+            "throwIns": "33/19[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "MVV,Almere,Away",
+            "tackles": "19/22[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "11/17[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "10/2[A]",
+            "dribblesAttempted": "23/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/7[H]",
+            "fouls": "6/17[H]",
+            "goalKicks": "15/2[H]",
+            "saves": "3/0[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/8[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "3/4[H]",
+            "throwIns": "12/18[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "MVV,ADO,Home",
+            "tackles": "11/19[H]",
+            "interceptions": "6/8[H]",
+            "aerialDuels": "11/16[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "15/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:29:44.099Z",
+    "endTime": "2026-01-18T10:30:11.766Z",
+    "totalTimeSeconds": 27.67,
+    "combinedMatchStatistics": {
+        "corners": "3/10[A]+4/6[H]+2/12[A]+1/3[H]+2/4[A]+3/4[H]+4/6[A]+0/7[H]",
+        "fouls": "15/4[A]+14/10[H]+9/18[A]+17/15[H]+16/14[A]+4/12[H]+6/8[A]+6/17[H]",
+        "goalKicks": "5/5[A]+8/11[H]+8/3[A]+7/11[H]+4/6[A]+9/7[H]+14/8[A]+15/2[H]",
+        "saves": "6/3[A]+1/2[H]+3/4[A]+3/6[H]+6/3[A]+4/2[H]+5/3[A]+3/0[H]",
+        "offsides": "0/4[A]+9/1[H]+1/2[A]+2/3[H]+0/0[A]+1/2[H]+1/3[A]+2/0[H]",
+        "shotsOnTarget": "3/11[A]+4/2[H]+8/5[A]+6/3[H]+3/7[A]+3/7[H]+3/9[A]+3/8[H]",
+        "yellowCards": "0/0[A]+2/1[H]+0/1[A]+1/0[H]+2/2[A]+1/2[H]+0/1[A]+0/3[H]",
+        "goals": "0/4[A]+2/1[H]+4/2[A]+0/0[H]+0/1[A]+1/3[H]+0/4[A]+3/4[H]",
+        "throwIns": "18/19[A]+15/25[H]+17/20[A]+17/16[H]+16/19[A]+18/27[H]+33/19[A]+12/18[H]",
+        "averageBallPossession": "38/62[A]+36/64[H]+44/56[A]+47/53[H]+45/55[A]+43/57[H]+57/43[A]+33/67[H]",
+        "teams": "MVV,Cambuur,Away+MVV,Jong Ajax,Home+MVV,Helmond Sport,Away+MVV,Roda,Home+MVV,Waalwijk,Away+MVV,Jong AZ,Home+MVV,Almere,Away+MVV,ADO,Home",
+        "tackles": "17/15[A]+18/12[H]+21/23[A]+16/16[H]+28/17[A]+19/13[H]+19/22[A]+11/19[H]",
+        "interceptions": "11/10[A]+11/6[H]+12/11[A]+10/6[H]+9/8[A]+8/13[H]+6/12[A]+6/8[H]",
+        "aerialDuels": "7/12[A]+12/10[H]+13/11[A]+16/18[H]+12/20[A]+9/12[H]+11/17[A]+11/16[H]",
+        "aerialDuelsAttempted": "19/19[A]+22/22[H]+24/24[A]+34/34[H]+32/32[A]+21/21[H]+28/28[A]+27/27[H]",
+        "dribbles": "5/14[A]+3/12[H]+4/7[A]+7/8[H]+8/9[A]+6/14[H]+10/2[A]+7/7[H]",
+        "dribblesAttempted": "11/23[A]+8/21[H]+19/21[A]+15/13[H]+15/26[A]+17/22[H]+23/15[A]+15/12[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "19/52",
+        "cornersTotalsHome": "8/20",
+        "cornersTotalsAway": "11/32",
+        "cornersAverage": "2.38/6.50",
+        "cornersAverageHome": "2.00/5.00",
+        "cornersAverageAway": "2.75/8.00",
+        "foulsTotals": "87/98",
+        "foulsTotalsHome": "41/54",
+        "foulsTotalsAway": "46/44",
+        "foulsAverage": "10.88/12.25",
+        "foulsAverageHome": "10.25/13.50",
+        "foulsAverageAway": "11.50/11.00",
+        "goalKicksTotals": "70/53",
+        "goalKicksTotalsHome": "39/31",
+        "goalKicksTotalsAway": "31/22",
+        "goalKicksAverage": "8.75/6.63",
+        "goalKicksAverageHome": "9.75/7.75",
+        "goalKicksAverageAway": "7.75/5.50",
+        "savesTotals": "31/23",
+        "savesTotalsHome": "11/10",
+        "savesTotalsAway": "20/13",
+        "savesAverage": "3.88/2.88",
+        "savesAverageHome": "2.75/2.50",
+        "savesAverageAway": "5.00/3.25",
+        "offsidesTotals": "16/15",
+        "offsidesTotalsHome": "14/6",
+        "offsidesTotalsAway": "2/9",
+        "offsidesAverage": "2.00/1.88",
+        "offsidesAverageHome": "3.50/1.50",
+        "offsidesAverageAway": "0.50/2.25",
+        "shotsOnTargetTotals": "33/52",
+        "shotsOnTargetTotalsHome": "16/20",
+        "shotsOnTargetTotalsAway": "17/32",
+        "shotsOnTargetAverage": "4.13/6.50",
+        "shotsOnTargetAverageHome": "4.00/5.00",
+        "shotsOnTargetAverageAway": "4.25/8.00",
+        "yellowCardsTotals": "6/10",
+        "yellowCardsTotalsHome": "4/6",
+        "yellowCardsTotalsAway": "2/4",
+        "yellowCardsAverage": "0.75/1.25",
+        "yellowCardsAverageHome": "1.00/1.50",
+        "yellowCardsAverageAway": "0.50/1.00",
+        "goalsTotals": "10/19",
+        "goalsTotalsHome": "6/8",
+        "goalsTotalsAway": "4/11",
+        "goalsAverage": "1.25/2.38",
+        "goalsAverageHome": "1.50/2.00",
+        "goalsAverageAway": "1.00/2.75",
+        "throwInsTotals": "146/163",
+        "throwInsTotalsHome": "62/86",
+        "throwInsTotalsAway": "84/77",
+        "throwInsAverage": "18.25/20.38",
+        "throwInsAverageHome": "15.50/21.50",
+        "throwInsAverageAway": "21.00/19.25",
+        "averageBallPossessionTotals": "343/457",
+        "averageBallPossessionTotalsHome": "159/241",
+        "averageBallPossessionTotalsAway": "184/216",
+        "averageBallPossessionAverage": "42.88/57.13",
+        "averageBallPossessionAverageHome": "39.75/60.25",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "149/137",
+        "tacklesTotalsHome": "64/60",
+        "tacklesTotalsAway": "85/77",
+        "tacklesAverage": "18.63/17.13",
+        "tacklesAverageHome": "16.00/15.00",
+        "tacklesAverageAway": "21.25/19.25",
+        "interceptionsTotals": "73/74",
+        "interceptionsTotalsHome": "35/33",
+        "interceptionsTotalsAway": "38/41",
+        "interceptionsAverage": "9.13/9.25",
+        "interceptionsAverageHome": "8.75/8.25",
+        "interceptionsAverageAway": "9.50/10.25",
+        "aerialDuelsTotals": "91/116",
+        "aerialDuelsTotalsHome": "48/56",
+        "aerialDuelsTotalsAway": "43/60",
+        "aerialDuelsAverage": "11.38/14.50",
+        "aerialDuelsAverageHome": "12.00/14.00",
+        "aerialDuelsAverageAway": "10.75/15.00",
+        "aerialDuelsAttemptedTotals": "207/207",
+        "aerialDuelsAttemptedTotalsHome": "104/104",
+        "aerialDuelsAttemptedTotalsAway": "103/103",
+        "aerialDuelsAttemptedAverage": "25.88/25.88",
+        "aerialDuelsAttemptedAverageHome": "26.00/26.00",
+        "aerialDuelsAttemptedAverageAway": "25.75/25.75",
+        "dribblesTotals": "50/73",
+        "dribblesTotalsHome": "23/41",
+        "dribblesTotalsAway": "27/32",
+        "dribblesAverage": "6.25/9.13",
+        "dribblesAverageHome": "5.75/10.25",
+        "dribblesAverageAway": "6.75/8.00",
+        "dribblesAttemptedTotals": "123/153",
+        "dribblesAttemptedTotalsHome": "55/68",
+        "dribblesAttemptedTotalsAway": "68/85",
+        "dribblesAttemptedAverage": "15.38/19.13",
+        "dribblesAttemptedAverageHome": "13.75/17.00",
+        "dribblesAttemptedAverageAway": "17.00/21.25"
+    }
+}

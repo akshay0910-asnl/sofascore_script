@@ -1,0 +1,464 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "16.50",
+        "goalKicks": "16.50",
+        "saves": "4.50",
+        "offsides": "1.00",
+        "shotsOnTarget": "4.00/5.00",
+        "yellowCards": "3.00/1.50",
+        "goals": "1.00/0.50",
+        "throwIns": "11.50",
+        "ballPossession": 45.5,
+        "tackles": "10.50/12.50",
+        "interceptions": "6.50/10.00",
+        "aerialDuels": "15.00",
+        "aerialDuelsAttempted": "33.00",
+        "dribbles": "7.50/6.00",
+        "dribblesAttempted": "12.00/11.50"
+    },
+    "teamSlug": "pumas-unam",
+    "teamId": "1933",
+    "teamName": "Pumas UNAM",
+    "tournament": "Liga MX, Clausura",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/tigres-uanl-pumas-unam/INsPN#id:15238907,tab:statistics",
+            "teams": [
+                "Tigres",
+                "Pumas"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "1940",
+                "1933"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/queretaro-fc-pumas-unam/INsbO#id:15238898,tab:statistics",
+            "teams": [
+                "Pumas",
+                "Querétaro"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "1933",
+                "1951"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pumas-unam-cf-monterrey/HNsIN#id:13823535,tab:statistics",
+            "teams": [
+                "Monterrey",
+                "Pumas"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "1932",
+                "1933"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/tigres-uanl-pumas-unam/INsPN#id:13256072,tab:statistics",
+            "teams": [
+                "Tigres",
+                "Pumas"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "1940",
+                "1933"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/santos-laguna-pumas-unam/INsYN#id:13256034,tab:statistics",
+            "teams": [
+                "Pumas",
+                "Santos"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "1933",
+                "1948"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-juarez-pumas-unam/INszHFb#id:13256041,tab:statistics",
+            "teams": [
+                "Pumas",
+                "Juárez"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "1933",
+                "201624"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cruz-azul-pumas-unam/INsXN#id:13295756,tab:statistics",
+            "teams": [
+                "Cruz Azul",
+                "Pumas"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "1947",
+                "1933"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pumas-unam-cf-monterrey/HNsIN#id:13295739,tab:statistics",
+            "teams": [
+                "Pumas",
+                "Monterrey"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "1933",
+                "1932"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/18[A]",
+            "fouls": "19/10[A]",
+            "goalKicks": "21/2[A]",
+            "saves": "6/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "6/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "9/26[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Pumas,Tigres,Away",
+            "tackles": "11/9[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "8/20[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "10/8[A]",
+            "dribblesAttempted": "12/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "14/9[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "14/31[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Pumas,Querétaro,Home",
+            "tackles": "10/16[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "22/16[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "12/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/3[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "11/5[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/5[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "15/30[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Pumas,Monterrey,Away",
+            "tackles": "26/11[A]",
+            "interceptions": "7/9[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "8/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/5[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "11/5[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "15/18[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Pumas,Tigres,Away",
+            "tackles": "13/15[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "10/5[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "4/9[A]",
+            "dribblesAttempted": "15/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "12/6[H]",
+            "goalKicks": "15/9[H]",
+            "saves": "3/4[H]",
+            "offsides": "7/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "15/18[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Pumas,Santos,Home",
+            "tackles": "14/10[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "8/11[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "7/11[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "10/13[H]",
+            "saves": "0/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "0/0[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "25/24[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Pumas,Juárez,Home",
+            "tackles": "25/11[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "4/14[H]",
+            "dribblesAttempted": "8/29[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "19/17[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "0/1[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "25/22[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Pumas,Cruz Azul,Away",
+            "tackles": "16/16[A]",
+            "interceptions": "12/9[A]",
+            "aerialDuels": "10/9[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "16/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "3/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "22/17[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Pumas,Monterrey,Home",
+            "tackles": "7/8[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "9/16[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "8/8[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:18:29.489Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/fc-juarez-pumas-unam/INszHFb#id:13256041,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 2204083,
+            "_repeat": null,
+            "_destroyed": true
+        },
+        "https://www.sofascore.com/football/match/santos-laguna-pumas-unam/INsYN#id:13256034,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 2207376,
+            "_repeat": null,
+            "_destroyed": true
+        },
+        "https://www.sofascore.com/football/match/cruz-azul-pumas-unam/INsXN#id:13295756,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 2211392,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-18T10:19:05.913Z",
+    "totalTimeSeconds": 36.42,
+    "combinedMatchStatistics": {
+        "corners": "2/18[A]+7/4[H]+0/3[A]+1/5[A]+6/4[H]+3/3[H]+2/2[A]+6/3[H]",
+        "fouls": "19/10[A]+14/9[H]+15/14[A]+12/12[A]+12/6[H]+10/8[H]+19/17[A]+15/12[H]",
+        "goalKicks": "21/2[A]+12/8[H]+11/5[A]+11/5[A]+15/9[H]+10/13[H]+13/5[A]+4/9[H]",
+        "saves": "6/3[A]+3/3[H]+3/2[A]+3/1[A]+3/4[H]+0/0[H]+0/1[A]+3/3[H]",
+        "offsides": "1/2[A]+1/0[H]+2/5[A]+3/3[A]+7/1[H]+1/1[H]+5/2[A]+2/0[H]",
+        "shotsOnTarget": "4/6[A]+4/4[H]+2/5[A]+2/5[A]+6/3[H]+0/0[H]+3/3[A]+3/6[H]",
+        "yellowCards": "6/3[A]+1/0[H]+4/3[A]+1/3[A]+0/2[H]+1/2[H]+3/2[A]+1/2[H]",
+        "goals": "1/0[A]+1/1[H]+0/2[A]+1/2[A]+2/0[H]+0/0[H]+2/3[A]+1/3[H]",
+        "throwIns": "9/26[A]+14/31[H]+15/30[A]+15/18[A]+15/18[H]+25/24[H]+25/22[A]+22/17[H]",
+        "averageBallPossession": "32/68[A]+59/41[H]+37/63[A]+52/48[A]+49/51[H]+55/45[H]+50/50[A]+52/48[H]",
+        "teams": "Pumas,Tigres,Away+Pumas,Querétaro,Home+Pumas,Monterrey,Away+Pumas,Tigres,Away+Pumas,Santos,Home+Pumas,Juárez,Home+Pumas,Cruz Azul,Away+Pumas,Monterrey,Home",
+        "tackles": "11/9[A]+10/16[H]+26/11[A]+13/15[A]+14/10[H]+25/11[H]+16/16[A]+7/8[H]",
+        "interceptions": "4/9[A]+9/11[H]+7/9[A]+4/9[A]+6/7[H]+8/9[H]+12/9[A]+8/9[H]",
+        "aerialDuels": "8/20[A]+22/16[H]+14/13[A]+10/5[A]+8/11[H]+11/8[H]+10/9[A]+9/16[H]",
+        "aerialDuelsAttempted": "28/28[A]+38/38[H]+27/27[A]+15/15[A]+19/19[H]+19/19[H]+19/19[A]+25/25[H]",
+        "dribbles": "10/8[A]+5/4[H]+6/3[A]+4/9[A]+7/11[H]+4/14[H]+8/8[A]+4/4[H]",
+        "dribblesAttempted": "12/15[A]+12/8[H]+8/16[A]+15/15[A]+12/21[H]+8/29[H]+16/13[A]+8/8[H]",
+        "isHome": "false+true+false+false+true+true+false+true",
+        "cornersTotals": "27/42",
+        "cornersTotalsHome": "22/14",
+        "cornersTotalsAway": "5/28",
+        "cornersAverage": "3.38/5.25",
+        "cornersAverageHome": "5.50/3.50",
+        "cornersAverageAway": "1.25/7.00",
+        "foulsTotals": "116/88",
+        "foulsTotalsHome": "51/35",
+        "foulsTotalsAway": "65/53",
+        "foulsAverage": "14.50/11.00",
+        "foulsAverageHome": "12.75/8.75",
+        "foulsAverageAway": "16.25/13.25",
+        "goalKicksTotals": "97/56",
+        "goalKicksTotalsHome": "41/39",
+        "goalKicksTotalsAway": "56/17",
+        "goalKicksAverage": "12.13/7.00",
+        "goalKicksAverageHome": "10.25/9.75",
+        "goalKicksAverageAway": "14.00/4.25",
+        "savesTotals": "21/17",
+        "savesTotalsHome": "9/10",
+        "savesTotalsAway": "12/7",
+        "savesAverage": "2.63/2.13",
+        "savesAverageHome": "2.25/2.50",
+        "savesAverageAway": "3.00/1.75",
+        "offsidesTotals": "22/14",
+        "offsidesTotalsHome": "11/2",
+        "offsidesTotalsAway": "11/12",
+        "offsidesAverage": "2.75/1.75",
+        "offsidesAverageHome": "2.75/0.50",
+        "offsidesAverageAway": "2.75/3.00",
+        "shotsOnTargetTotals": "24/32",
+        "shotsOnTargetTotalsHome": "13/13",
+        "shotsOnTargetTotalsAway": "11/19",
+        "shotsOnTargetAverage": "3.00/4.00",
+        "shotsOnTargetAverageHome": "3.25/3.25",
+        "shotsOnTargetAverageAway": "2.75/4.75",
+        "yellowCardsTotals": "17/17",
+        "yellowCardsTotalsHome": "3/6",
+        "yellowCardsTotalsAway": "14/11",
+        "yellowCardsAverage": "2.13/2.13",
+        "yellowCardsAverageHome": "0.75/1.50",
+        "yellowCardsAverageAway": "3.50/2.75",
+        "goalsTotals": "8/11",
+        "goalsTotalsHome": "4/4",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "1.00/1.38",
+        "goalsAverageHome": "1.00/1.00",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "140/186",
+        "throwInsTotalsHome": "76/90",
+        "throwInsTotalsAway": "64/96",
+        "throwInsAverage": "17.50/23.25",
+        "throwInsAverageHome": "19.00/22.50",
+        "throwInsAverageAway": "16.00/24.00",
+        "averageBallPossessionTotals": "386/414",
+        "averageBallPossessionTotalsHome": "215/185",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "48.25/51.75",
+        "averageBallPossessionAverageHome": "53.75/46.25",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "122/96",
+        "tacklesTotalsHome": "56/45",
+        "tacklesTotalsAway": "66/51",
+        "tacklesAverage": "15.25/12.00",
+        "tacklesAverageHome": "14.00/11.25",
+        "tacklesAverageAway": "16.50/12.75",
+        "interceptionsTotals": "58/72",
+        "interceptionsTotalsHome": "31/36",
+        "interceptionsTotalsAway": "27/36",
+        "interceptionsAverage": "7.25/9.00",
+        "interceptionsAverageHome": "7.75/9.00",
+        "interceptionsAverageAway": "6.75/9.00",
+        "aerialDuelsTotals": "92/98",
+        "aerialDuelsTotalsHome": "50/51",
+        "aerialDuelsTotalsAway": "42/47",
+        "aerialDuelsAverage": "11.50/12.25",
+        "aerialDuelsAverageHome": "12.50/12.75",
+        "aerialDuelsAverageAway": "10.50/11.75",
+        "aerialDuelsAttemptedTotals": "190/190",
+        "aerialDuelsAttemptedTotalsHome": "101/101",
+        "aerialDuelsAttemptedTotalsAway": "89/89",
+        "aerialDuelsAttemptedAverage": "23.75/23.75",
+        "aerialDuelsAttemptedAverageHome": "25.25/25.25",
+        "aerialDuelsAttemptedAverageAway": "22.25/22.25",
+        "dribblesTotals": "48/61",
+        "dribblesTotalsHome": "20/33",
+        "dribblesTotalsAway": "28/28",
+        "dribblesAverage": "6.00/7.63",
+        "dribblesAverageHome": "5.00/8.25",
+        "dribblesAverageAway": "7.00/7.00",
+        "dribblesAttemptedTotals": "91/125",
+        "dribblesAttemptedTotalsHome": "40/66",
+        "dribblesAttemptedTotalsAway": "51/59",
+        "dribblesAttemptedAverage": "11.38/15.63",
+        "dribblesAttemptedAverageHome": "10.00/16.50",
+        "dribblesAttemptedAverageAway": "12.75/14.75"
+    }
+}

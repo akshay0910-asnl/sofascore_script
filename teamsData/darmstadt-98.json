@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.88",
+        "fouls": "12.18",
+        "goalKicks": "8.94",
+        "saves": "3.00",
+        "offsides": "1.41",
+        "shotsOnTarget": "5.35/4.00",
+        "yellowCards": "1.59/1.65",
+        "goals": "1.71/1.00",
+        "throwIns": "18.24",
+        "ballPossession": 49.117647058824,
+        "tackles": "15.53/13.35",
+        "interceptions": "8.12/7.06",
+        "aerialDuels": "17.47",
+        "aerialDuelsAttempted": "33.59",
+        "dribbles": "5.29/7.41",
+        "dribblesAttempted": "11.71/14.88"
+    },
+    "teamSlug": "darmstadt-98",
+    "teamId": "2576",
+    "teamName": "Darmstadt 98",
+    "tournament": "2. Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/darmstadt-98-sc-paderborn-07/lbbsBbb#id:14065396,tab:statistics",
+            "teams": [
+                "Paderborn",
+                "Darmstadt"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2561",
+                "2576"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/preussen-munster-darmstadt-98/BbbsPbb#id:14065387,tab:statistics",
+            "teams": [
+                "Darmstadt",
+                "Münster"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2576",
+                "2590"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/darmstadt-98-karlsruher-sc/dbbsBbb#id:14065383,tab:statistics",
+            "teams": [
+                "Darmstadt",
+                "Karlsruhe"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2576",
+                "2553"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sv-07-elversberg-darmstadt-98/BbbsYbb#id:14065367,tab:statistics",
+            "teams": [
+                "Elversberg",
+                "Darmstadt"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2598",
+                "2576"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/darmstadt-98-spvgg-greuther-furth/bbbsBbb#id:14065364,tab:statistics",
+            "teams": [
+                "Darmstadt",
+                "Fürth"
+            ],
+            "goals": [
+                "4",
+                "2"
+            ],
+            "teamIds": [
+                "2576",
+                "2551"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/darmstadt-98-hannover-96/QabsBbb#id:14065351,tab:statistics",
+            "teams": [
+                "Hannover",
+                "Darmstadt"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "2541",
+                "2576"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/darmstadt-98-arminia-bielefeld/PabsBbb#id:14065346,tab:statistics",
+            "teams": [
+                "Darmstadt",
+                "Bielefeld"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2576",
+                "2540"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/darmstadt-98-fc-schalke-04/FabsBbb#id:14065336,tab:statistics",
+            "teams": [
+                "Schalke",
+                "Darmstadt"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2530",
+                "2576"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/7[A]",
+            "fouls": "9/14[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "5/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "12/20[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Darmstadt,Paderborn,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "11/24[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "15/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "11/15[H]",
+            "averageBallPossession": "32/68[H]",
+            "teams": "Darmstadt,Münster,Home",
+            "tackles": "28/12[H]",
+            "interceptions": "15/8[H]",
+            "aerialDuels": "11/14[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "16/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/9[H]",
+            "fouls": "6/10[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "2/7[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "10/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/2[H]",
+            "throwIns": "15/23[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Darmstadt,Karlsruhe,Home",
+            "tackles": "6/2[H]",
+            "interceptions": "4/6[H]",
+            "aerialDuels": "20/15[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "5/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "12/8[A]",
+            "goalKicks": "11/10[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/25[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Darmstadt,Elversberg,Away",
+            "tackles": "16/14[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "14/14[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "12/15[A]",
+            "dribblesAttempted": "17/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "13/9[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "7/5[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "9/8[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "4/2[H]",
+            "throwIns": "19/22[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Darmstadt,Fürth,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "7/14[H]",
+            "aerialDuels": "22/7[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "15/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "8/3[A]",
+            "saves": "8/5[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "8/10[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/2[A]",
+            "throwIns": "26/18[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Darmstadt,Hannover,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "8/12[A]",
+            "aerialDuels": "11/21[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "0/8[A]",
+            "dribblesAttempted": "5/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/9[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "1/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "20/20[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Darmstadt,Bielefeld,Home",
+            "tackles": "19/10[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "27/16[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "8/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "11/3[A]",
+            "saves": "1/1[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "0/1[A]",
+            "throwIns": "28/16[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Darmstadt,Schalke,Away",
+            "tackles": "13/18[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "29/31[A]",
+            "aerialDuelsAttempted": "60/60[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "14/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:25:59.355Z",
+    "endTime": "2026-01-18T10:26:25.166Z",
+    "totalTimeSeconds": 25.81,
+    "combinedMatchStatistics": {
+        "corners": "3/7[A]+7/4[H]+8/9[H]+5/6[A]+5/2[H]+5/5[A]+9/9[H]+4/6[A]",
+        "fouls": "9/14[A]+10/9[H]+6/10[H]+12/8[A]+13/9[H]+12/16[A]+14/12[H]+13/15[A]",
+        "goalKicks": "6/5[A]+11/7[H]+5/11[H]+11/10[A]+4/6[H]+8/3[A]+8/7[H]+11/3[A]",
+        "saves": "5/0[A]+1/4[H]+2/7[H]+3/2[A]+7/5[H]+8/5[A]+1/6[H]+1/1[A]",
+        "offsides": "0/1[A]+2/0[H]+1/0[H]+0/0[A]+2/1[H]+0/0[A]+0/2[H]+5/2[A]",
+        "shotsOnTarget": "2/7[A]+5/1[H]+10/3[H]+2/4[A]+9/8[H]+8/10[A]+8/3[H]+1/2[A]",
+        "yellowCards": "1/1[A]+2/2[H]+1/2[H]+1/0[A]+2/3[H]+1/2[A]+4/1[H]+1/5[A]",
+        "goals": "2/2[A]+1/0[H]+3/2[H]+0/0[A]+4/2[H]+3/2[A]+2/2[H]+0/1[A]",
+        "throwIns": "12/20[A]+11/15[H]+15/23[H]+24/25[A]+19/22[H]+26/18[A]+20/20[H]+28/16[A]",
+        "averageBallPossession": "35/65[A]+32/68[H]+58/42[H]+53/47[A]+59/41[H]+51/49[A]+54/46[H]+62/38[A]",
+        "teams": "Darmstadt,Paderborn,Away+Darmstadt,Münster,Home+Darmstadt,Karlsruhe,Home+Darmstadt,Elversberg,Away+Darmstadt,Fürth,Home+Darmstadt,Hannover,Away+Darmstadt,Bielefeld,Home+Darmstadt,Schalke,Away",
+        "tackles": "11/12[A]+28/12[H]+6/2[H]+16/14[A]+16/16[H]+14/12[A]+19/10[H]+13/18[A]",
+        "interceptions": "7/6[A]+15/8[H]+4/6[H]+10/8[A]+7/14[H]+8/12[A]+10/6[H]+9/8[A]",
+        "aerialDuels": "11/24[A]+11/14[H]+20/15[H]+14/14[A]+22/7[H]+11/21[A]+27/16[H]+29/31[A]",
+        "aerialDuelsAttempted": "35/35[A]+25/25[H]+35/35[H]+28/28[A]+29/29[H]+32/32[A]+43/43[H]+60/60[A]",
+        "dribbles": "8/4[A]+6/10[H]+4/5[H]+12/15[A]+9/3[H]+0/8[A]+4/7[H]+7/7[A]",
+        "dribblesAttempted": "15/8[A]+16/20[H]+5/8[H]+17/23[A]+15/10[H]+5/14[A]+8/15[H]+14/13[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "46/48",
+        "cornersTotalsHome": "29/24",
+        "cornersTotalsAway": "17/24",
+        "cornersAverage": "5.75/6.00",
+        "cornersAverageHome": "7.25/6.00",
+        "cornersAverageAway": "4.25/6.00",
+        "foulsTotals": "89/93",
+        "foulsTotalsHome": "43/40",
+        "foulsTotalsAway": "46/53",
+        "foulsAverage": "11.13/11.63",
+        "foulsAverageHome": "10.75/10.00",
+        "foulsAverageAway": "11.50/13.25",
+        "goalKicksTotals": "64/52",
+        "goalKicksTotalsHome": "28/31",
+        "goalKicksTotalsAway": "36/21",
+        "goalKicksAverage": "8.00/6.50",
+        "goalKicksAverageHome": "7.00/7.75",
+        "goalKicksAverageAway": "9.00/5.25",
+        "savesTotals": "28/30",
+        "savesTotalsHome": "11/22",
+        "savesTotalsAway": "17/8",
+        "savesAverage": "3.50/3.75",
+        "savesAverageHome": "2.75/5.50",
+        "savesAverageAway": "4.25/2.00",
+        "offsidesTotals": "10/6",
+        "offsidesTotalsHome": "5/3",
+        "offsidesTotalsAway": "5/3",
+        "offsidesAverage": "1.25/0.75",
+        "offsidesAverageHome": "1.25/0.75",
+        "offsidesAverageAway": "1.25/0.75",
+        "shotsOnTargetTotals": "45/38",
+        "shotsOnTargetTotalsHome": "32/15",
+        "shotsOnTargetTotalsAway": "13/23",
+        "shotsOnTargetAverage": "5.63/4.75",
+        "shotsOnTargetAverageHome": "8.00/3.75",
+        "shotsOnTargetAverageAway": "3.25/5.75",
+        "yellowCardsTotals": "13/16",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "4/8",
+        "yellowCardsAverage": "1.63/2.00",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "1.00/2.00",
+        "goalsTotals": "15/11",
+        "goalsTotalsHome": "10/6",
+        "goalsTotalsAway": "5/5",
+        "goalsAverage": "1.88/1.38",
+        "goalsAverageHome": "2.50/1.50",
+        "goalsAverageAway": "1.25/1.25",
+        "throwInsTotals": "155/159",
+        "throwInsTotalsHome": "65/80",
+        "throwInsTotalsAway": "90/79",
+        "throwInsAverage": "19.38/19.88",
+        "throwInsAverageHome": "16.25/20.00",
+        "throwInsAverageAway": "22.50/19.75",
+        "averageBallPossessionTotals": "404/396",
+        "averageBallPossessionTotalsHome": "203/197",
+        "averageBallPossessionTotalsAway": "201/199",
+        "averageBallPossessionAverage": "50.50/49.50",
+        "averageBallPossessionAverageHome": "50.75/49.25",
+        "averageBallPossessionAverageAway": "50.25/49.75",
+        "tacklesTotals": "123/96",
+        "tacklesTotalsHome": "69/40",
+        "tacklesTotalsAway": "54/56",
+        "tacklesAverage": "15.38/12.00",
+        "tacklesAverageHome": "17.25/10.00",
+        "tacklesAverageAway": "13.50/14.00",
+        "interceptionsTotals": "70/68",
+        "interceptionsTotalsHome": "36/34",
+        "interceptionsTotalsAway": "34/34",
+        "interceptionsAverage": "8.75/8.50",
+        "interceptionsAverageHome": "9.00/8.50",
+        "interceptionsAverageAway": "8.50/8.50",
+        "aerialDuelsTotals": "145/142",
+        "aerialDuelsTotalsHome": "80/52",
+        "aerialDuelsTotalsAway": "65/90",
+        "aerialDuelsAverage": "18.13/17.75",
+        "aerialDuelsAverageHome": "20.00/13.00",
+        "aerialDuelsAverageAway": "16.25/22.50",
+        "aerialDuelsAttemptedTotals": "287/287",
+        "aerialDuelsAttemptedTotalsHome": "132/132",
+        "aerialDuelsAttemptedTotalsAway": "155/155",
+        "aerialDuelsAttemptedAverage": "35.88/35.88",
+        "aerialDuelsAttemptedAverageHome": "33.00/33.00",
+        "aerialDuelsAttemptedAverageAway": "38.75/38.75",
+        "dribblesTotals": "50/59",
+        "dribblesTotalsHome": "23/25",
+        "dribblesTotalsAway": "27/34",
+        "dribblesAverage": "6.25/7.38",
+        "dribblesAverageHome": "5.75/6.25",
+        "dribblesAverageAway": "6.75/8.50",
+        "dribblesAttemptedTotals": "95/111",
+        "dribblesAttemptedTotalsHome": "44/53",
+        "dribblesAttemptedTotalsAway": "51/58",
+        "dribblesAttemptedAverage": "11.88/13.88",
+        "dribblesAttemptedAverageHome": "11.00/13.25",
+        "dribblesAttemptedAverageAway": "12.75/14.50"
+    }
+}

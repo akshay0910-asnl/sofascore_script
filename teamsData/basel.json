@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "6.26",
+        "fouls": "11.21",
+        "goalKicks": "6.95",
+        "saves": "3.68",
+        "offsides": "2.26",
+        "shotsOnTarget": "5.89/4.89",
+        "yellowCards": "2.00/2.84",
+        "goals": "1.47/1.05",
+        "throwIns": "19.79",
+        "ballPossession": 57.263157894737,
+        "tackles": "16.05/17.42",
+        "interceptions": "9.53/10.21",
+        "aerialDuels": "16.68",
+        "aerialDuelsAttempted": "30.68",
+        "dribbles": "8.32/7.79",
+        "dribblesAttempted": "16.00/14.84"
+    },
+    "teamSlug": "basel",
+    "teamId": "2501",
+    "teamName": "Basel",
+    "tournament": "Swiss Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/basel-servette-fc/YYsbab#id:14038832,tab:statistics",
+            "teams": [
+                "Basel",
+                "Servette"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2501",
+                "2448"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-fc-luzern/dZsbab#id:14038822,tab:statistics",
+            "teams": [
+                "Luzern",
+                "Basel"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2453",
+                "2501"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-fc-lausanne-sport/WYsbab#id:14038816,tab:statistics",
+            "teams": [
+                "Basel",
+                "Lausannex2"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2501",
+                "2446"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-fc-winterthur/iZsbab#id:14038806,tab:statistics",
+            "teams": [
+                "Winterthur",
+                "Basel"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2458",
+                "2501"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-fc-st-gallen-1879/RYsbab#id:14038804,tab:statistics",
+            "teams": [
+                "Basel",
+                "St. Gallen"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2501",
+                "2442"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-grasshopper-club-zurich/ZYsbab#id:14038799,tab:statistics",
+            "teams": [
+                "Grasshoppersx2",
+                "Basel"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2449",
+                "2501"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-fc-lugano/TYsbab#id:14038796,tab:statistics",
+            "teams": [
+                "Basel",
+                "Lugano"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2501",
+                "2443"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basel-young-boys/VYsbab#id:14038787,tab:statistics",
+            "teams": [
+                "Young Boys",
+                "Basel"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2445",
+                "2501"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/3[H]",
+            "fouls": "9/20[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "4/0[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/24[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Basel,Servette,Home",
+            "tackles": "18/16[H]",
+            "interceptions": "11/10[H]",
+            "aerialDuels": "11/15[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "4/11[H]",
+            "dribblesAttempted": "8/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/11[A]",
+            "fouls": "10/15[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "11/19[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Basel,Luzern,Away",
+            "tackles": "21/24[A]",
+            "interceptions": "14/12[A]",
+            "aerialDuels": "15/15[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "17/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/1[H]",
+            "fouls": "12/10[H]",
+            "goalKicks": "1/16[H]",
+            "saves": "4/6[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "21/22[H]",
+            "averageBallPossession": "70/30[H]",
+            "teams": "Basel,Lausannex2,Home",
+            "tackles": "21/15[H]",
+            "interceptions": "13/13[H]",
+            "aerialDuels": "12/10[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "8/4[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/7[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "7/7[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "9/9[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "19/19[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Basel,Winterthur,Away",
+            "tackles": "25/25[A]",
+            "interceptions": "13/4[A]",
+            "aerialDuels": "14/18[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "8/13[A]",
+            "dribblesAttempted": "16/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "10/25[H]",
+            "goalKicks": "12/9[H]",
+            "saves": "2/7[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "23/26[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Basel,St. Gallen,Home",
+            "tackles": "15/24[H]",
+            "interceptions": "16/13[H]",
+            "aerialDuels": "25/16[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "17/18[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "4/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "1/1[A]",
+            "throwIns": "28/13[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Basel,Grasshoppersx2,Away",
+            "tackles": "7/24[A]",
+            "interceptions": "13/8[A]",
+            "aerialDuels": "24/14[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "13/9[A]",
+            "dribblesAttempted": "29/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/8[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "2/7[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "18/14[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Basel,Lugano,Home",
+            "tackles": "16/12[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "18/14[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "13/9[H]",
+            "dribblesAttempted": "16/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "4/0[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "0/4[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "13/28[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Basel,Young Boys,Away",
+            "tackles": "21/14[A]",
+            "interceptions": "8/17[A]",
+            "aerialDuels": "7/15[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "1/8[A]",
+            "dribblesAttempted": "8/16[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-18T10:42:23.140Z",
+    "endTime": "2026-01-18T10:42:53.981Z",
+    "totalTimeSeconds": 30.84,
+    "combinedMatchStatistics": {
+        "corners": "4/3[H]+6/11[A]+9/1[H]+9/7[A]+6/3[H]+4/4[A]+10/8[H]+7/3[A]",
+        "fouls": "9/20[H]+10/15[A]+12/10[H]+13/13[A]+10/25[H]+17/18[A]+13/13[H]+10/13[A]",
+        "goalKicks": "5/9[H]+7/4[A]+1/16[H]+6/9[A]+12/9[H]+9/11[A]+9/10[H]+7/10[A]",
+        "saves": "4/0[H]+2/4[A]+4/6[H]+7/7[A]+2/7[H]+4/4[A]+2/7[H]+4/0[A]",
+        "offsides": "3/1[H]+2/0[A]+1/1[H]+3/0[A]+2/0[H]+3/0[A]+1/1[H]+4/1[A]",
+        "shotsOnTarget": "1/5[H]+6/3[A]+6/4[H]+9/9[A]+7/2[H]+5/5[A]+8/3[H]+0/4[A]",
+        "yellowCards": "2/4[H]+3/4[A]+2/4[H]+0/2[A]+0/4[H]+2/5[A]+1/3[H]+4/2[A]",
+        "goals": "1/1[H]+2/1[A]+0/0[H]+2/1[A]+0/0[H]+1/1[A]+0/1[H]+0/0[A]",
+        "throwIns": "20/24[H]+11/19[A]+21/22[H]+19/19[A]+23/26[H]+28/13[A]+18/14[H]+13/28[A]",
+        "averageBallPossession": "60/40[H]+55/45[A]+70/30[H]+57/43[A]+64/36[H]+59/41[A]+57/43[H]+57/43[A]",
+        "teams": "Basel,Servette,Home+Basel,Luzern,Away+Basel,Lausannex2,Home+Basel,Winterthur,Away+Basel,St. Gallen,Home+Basel,Grasshoppersx2,Away+Basel,Lugano,Home+Basel,Young Boys,Away",
+        "tackles": "18/16[H]+21/24[A]+21/15[H]+25/25[A]+15/24[H]+7/24[A]+16/12[H]+21/14[A]",
+        "interceptions": "11/10[H]+14/12[A]+13/13[H]+13/4[A]+16/13[H]+13/8[A]+7/11[H]+8/17[A]",
+        "aerialDuels": "11/15[H]+15/15[A]+12/10[H]+14/18[A]+25/16[H]+24/14[A]+18/14[H]+7/15[A]",
+        "aerialDuelsAttempted": "26/26[H]+30/30[A]+22/22[H]+32/32[A]+41/41[H]+38/38[A]+32/32[H]+22/22[A]",
+        "dribbles": "4/11[H]+7/9[A]+8/4[H]+8/13[A]+6/5[H]+13/9[A]+13/9[H]+1/8[A]",
+        "dribblesAttempted": "8/17[H]+17/20[A]+13/15[H]+16/25[A]+20/12[H]+29/12[A]+16/15[H]+8/16[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "55/40",
+        "cornersTotalsHome": "29/15",
+        "cornersTotalsAway": "26/25",
+        "cornersAverage": "6.88/5.00",
+        "cornersAverageHome": "7.25/3.75",
+        "cornersAverageAway": "6.50/6.25",
+        "foulsTotals": "94/127",
+        "foulsTotalsHome": "44/68",
+        "foulsTotalsAway": "50/59",
+        "foulsAverage": "11.75/15.88",
+        "foulsAverageHome": "11.00/17.00",
+        "foulsAverageAway": "12.50/14.75",
+        "goalKicksTotals": "56/78",
+        "goalKicksTotalsHome": "27/44",
+        "goalKicksTotalsAway": "29/34",
+        "goalKicksAverage": "7.00/9.75",
+        "goalKicksAverageHome": "6.75/11.00",
+        "goalKicksAverageAway": "7.25/8.50",
+        "savesTotals": "29/35",
+        "savesTotalsHome": "12/20",
+        "savesTotalsAway": "17/15",
+        "savesAverage": "3.63/4.38",
+        "savesAverageHome": "3.00/5.00",
+        "savesAverageAway": "4.25/3.75",
+        "offsidesTotals": "19/4",
+        "offsidesTotalsHome": "7/3",
+        "offsidesTotalsAway": "12/1",
+        "offsidesAverage": "2.38/0.50",
+        "offsidesAverageHome": "1.75/0.75",
+        "offsidesAverageAway": "3.00/0.25",
+        "shotsOnTargetTotals": "42/35",
+        "shotsOnTargetTotalsHome": "22/14",
+        "shotsOnTargetTotalsAway": "20/21",
+        "shotsOnTargetAverage": "5.25/4.38",
+        "shotsOnTargetAverageHome": "5.50/3.50",
+        "shotsOnTargetAverageAway": "5.00/5.25",
+        "yellowCardsTotals": "14/28",
+        "yellowCardsTotalsHome": "5/15",
+        "yellowCardsTotalsAway": "9/13",
+        "yellowCardsAverage": "1.75/3.50",
+        "yellowCardsAverageHome": "1.25/3.75",
+        "yellowCardsAverageAway": "2.25/3.25",
+        "goalsTotals": "6/5",
+        "goalsTotalsHome": "1/2",
+        "goalsTotalsAway": "5/3",
+        "goalsAverage": "0.75/0.63",
+        "goalsAverageHome": "0.25/0.50",
+        "goalsAverageAway": "1.25/0.75",
+        "throwInsTotals": "153/165",
+        "throwInsTotalsHome": "82/86",
+        "throwInsTotalsAway": "71/79",
+        "throwInsAverage": "19.13/20.63",
+        "throwInsAverageHome": "20.50/21.50",
+        "throwInsAverageAway": "17.75/19.75",
+        "averageBallPossessionTotals": "479/321",
+        "averageBallPossessionTotalsHome": "251/149",
+        "averageBallPossessionTotalsAway": "228/172",
+        "averageBallPossessionAverage": "59.88/40.13",
+        "averageBallPossessionAverageHome": "62.75/37.25",
+        "averageBallPossessionAverageAway": "57.00/43.00",
+        "tacklesTotals": "144/154",
+        "tacklesTotalsHome": "70/67",
+        "tacklesTotalsAway": "74/87",
+        "tacklesAverage": "18.00/19.25",
+        "tacklesAverageHome": "17.50/16.75",
+        "tacklesAverageAway": "18.50/21.75",
+        "interceptionsTotals": "95/88",
+        "interceptionsTotalsHome": "47/47",
+        "interceptionsTotalsAway": "48/41",
+        "interceptionsAverage": "11.88/11.00",
+        "interceptionsAverageHome": "11.75/11.75",
+        "interceptionsAverageAway": "12.00/10.25",
+        "aerialDuelsTotals": "126/117",
+        "aerialDuelsTotalsHome": "66/55",
+        "aerialDuelsTotalsAway": "60/62",
+        "aerialDuelsAverage": "15.75/14.63",
+        "aerialDuelsAverageHome": "16.50/13.75",
+        "aerialDuelsAverageAway": "15.00/15.50",
+        "aerialDuelsAttemptedTotals": "243/243",
+        "aerialDuelsAttemptedTotalsHome": "121/121",
+        "aerialDuelsAttemptedTotalsAway": "122/122",
+        "aerialDuelsAttemptedAverage": "30.38/30.38",
+        "aerialDuelsAttemptedAverageHome": "30.25/30.25",
+        "aerialDuelsAttemptedAverageAway": "30.50/30.50",
+        "dribblesTotals": "60/68",
+        "dribblesTotalsHome": "31/29",
+        "dribblesTotalsAway": "29/39",
+        "dribblesAverage": "7.50/8.50",
+        "dribblesAverageHome": "7.75/7.25",
+        "dribblesAverageAway": "7.25/9.75",
+        "dribblesAttemptedTotals": "127/132",
+        "dribblesAttemptedTotalsHome": "57/59",
+        "dribblesAttemptedTotalsAway": "70/73",
+        "dribblesAttemptedAverage": "15.88/16.50",
+        "dribblesAttemptedAverageHome": "14.25/14.75",
+        "dribblesAttemptedAverageAway": "17.50/18.25"
+    }
+}
