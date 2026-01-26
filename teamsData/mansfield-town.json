@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.17",
+        "fouls": "11.13",
+        "goalKicks": "9.17",
+        "saves": "2.88",
+        "offsides": "0.96",
+        "shotsOnTarget": "3.08/3.96",
+        "yellowCards": "1.63/1.75",
+        "goals": "1.42/1.17",
+        "throwIns": "27.79",
+        "ballPossession": 45.458333333333,
+        "tackles": "17.17/14.58",
+        "interceptions": "8.75/7.38",
+        "aerialDuels": "19.42",
+        "aerialDuelsAttempted": "40.50",
+        "dribbles": "4.54/7.29",
+        "dribblesAttempted": "11.13/14.71"
+    },
+    "teamSlug": "mansfield-town",
+    "teamId": "70",
+    "teamName": "Mansfield Town",
+    "tournament": "League One",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-port-vale/fbsvb#id:14061100,tab:statistics",
+            "teams": [
+                "Mansfield",
+                "Port Vale"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "70",
+                "55"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-bradford-city/xsvb#id:14061719,tab:statistics",
+            "teams": [
+                "Mansfield",
+                "Bradford"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "70",
+                "22"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-bolton-wanderers/fsvb#id:14061672,tab:statistics",
+            "teams": [
+                "Bolton",
+                "Mansfield"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "5",
+                "70"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-barnsley/ysvb#id:14061598,tab:statistics",
+            "teams": [
+                "Barnsley",
+                "Mansfield"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "23",
+                "70"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-stockport-county/ksvb#id:14061553,tab:statistics",
+            "teams": [
+                "Mansfield",
+                "Stockport County"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "70",
+                "10"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-mansfield-town/vbshEj#id:14061465,tab:statistics",
+            "teams": [
+                "Wimbledon",
+                "Mansfield"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "23957",
+                "70"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-bolton-wanderers/fsvb#id:14061417,tab:statistics",
+            "teams": [
+                "Mansfield",
+                "Bolton"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "70",
+                "5"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-cardiff-city/lbsvb#id:14061339,tab:statistics",
+            "teams": [
+                "Cardiff",
+                "Mansfield"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "61",
+                "70"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/2[H]",
+            "fouls": "13/9[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "1/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "3/0[H]",
+            "throwIns": "29/32[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Mansfield,Port Vale,Home",
+            "tackles": "22/19[H]",
+            "interceptions": "13/11[H]",
+            "aerialDuels": "16/16[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "8/12[H]",
+            "dribblesAttempted": "20/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "9/4[H]",
+            "goalKicks": "13/6[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "8/2[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "3/0[H]",
+            "throwIns": "37/41[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Mansfield,Bradford,Home",
+            "tackles": "31/19[H]",
+            "interceptions": "18/1[H]",
+            "aerialDuels": "23/30[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "8/10[H]",
+            "dribblesAttempted": "17/27[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/13[A]",
+            "fouls": "7/4[A]",
+            "goalKicks": "17/3[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "26/27[A]",
+            "averageBallPossession": "21/79[A]",
+            "teams": "Mansfield,Bolton,Away",
+            "tackles": "23/12[A]",
+            "interceptions": "14/8[A]",
+            "aerialDuels": "10/23[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "3/14[A]",
+            "dribblesAttempted": "7/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "3/2[A]",
+            "throwIns": "29/11[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Mansfield,Barnsley,Away",
+            "tackles": "17/11[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "15/26[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "8/10[A]",
+            "dribblesAttempted": "14/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/0[H]",
+            "fouls": "7/16[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "5/3[H]",
+            "offsides": "2/5[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "23/18[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Mansfield,Stockport County,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "11/7[H]",
+            "aerialDuels": "21/30[H]",
+            "aerialDuelsAttempted": "51/51[H]",
+            "dribbles": "4/10[H]",
+            "dribblesAttempted": "14/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "10/12[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "1/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/1[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "35/21[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Mansfield,Wimbledon,Away",
+            "tackles": "23/15[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "23/18[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "0/5[A]",
+            "dribblesAttempted": "2/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "12/2[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "22/22[H]",
+            "averageBallPossession": "25/75[H]",
+            "teams": "Mansfield,Bolton,Home",
+            "tackles": "18/5[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "4/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "12/4[A]",
+            "goalKicks": "11/9[A]",
+            "saves": "6/1[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "19/18[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Mansfield,Cardiff,Away",
+            "tackles": "16/12[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "13/15[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:17:38.898Z",
+    "endTime": "2026-01-24T14:18:17.480Z",
+    "totalTimeSeconds": 38.58,
+    "combinedMatchStatistics": {
+        "corners": "3/2[H]+2/4[H]+2/13[A]+1/6[A]+5/0[H]+2/7[A]+3/5[H]+4/6[A]",
+        "fouls": "13/9[H]+9/4[H]+7/4[A]+14/11[A]+7/16[H]+10/12[A]+10/10[H]+12/4[A]",
+        "goalKicks": "5/10[H]+13/6[H]+17/3[A]+11/7[A]+9/8[H]+7/7[A]+12/2[H]+11/9[A]",
+        "saves": "1/1[H]+2/5[H]+5/2[A]+3/1[A]+5/3[H]+1/1[A]+4/1[H]+6/1[A]",
+        "offsides": "0/1[H]+0/1[H]+0/0[A]+0/2[A]+2/5[H]+0/2[A]+0/0[H]+2/1[A]",
+        "shotsOnTarget": "4/1[H]+8/2[H]+3/4[A]+4/5[A]+3/6[H]+1/1[A]+1/5[H]+1/9[A]",
+        "yellowCards": "2/0[H]+2/0[H]+3/2[A]+4/0[A]+2/2[H]+3/2[A]+0/1[H]+1/1[A]",
+        "goals": "3/0[H]+3/0[H]+1/0[A]+3/2[A]+1/2[H]+0/0[A]+0/1[H]+0/3[A]",
+        "throwIns": "29/32[H]+37/41[H]+26/27[A]+29/11[A]+23/18[H]+35/21[A]+22/22[H]+19/18[A]",
+        "averageBallPossession": "44/56[H]+47/53[H]+21/79[A]+40/60[A]+47/53[H]+39/61[A]+25/75[H]+45/55[A]",
+        "teams": "Mansfield,Port Vale,Home+Mansfield,Bradford,Home+Mansfield,Bolton,Away+Mansfield,Barnsley,Away+Mansfield,Stockport County,Home+Mansfield,Wimbledon,Away+Mansfield,Bolton,Home+Mansfield,Cardiff,Away",
+        "tackles": "22/19[H]+31/19[H]+23/12[A]+17/11[A]+15/17[H]+23/15[A]+18/5[H]+16/12[A]",
+        "interceptions": "13/11[H]+18/1[H]+14/8[A]+4/6[A]+11/7[H]+11/6[A]+7/5[H]+9/4[A]",
+        "aerialDuels": "16/16[H]+23/30[H]+10/23[A]+15/26[A]+21/30[H]+23/18[A]+12/11[H]+13/15[A]",
+        "aerialDuelsAttempted": "32/32[H]+53/53[H]+33/33[A]+41/41[A]+51/51[H]+41/41[A]+23/23[H]+28/28[A]",
+        "dribbles": "8/12[H]+8/10[H]+3/14[A]+8/10[A]+4/10[H]+0/5[A]+3/5[H]+3/8[A]",
+        "dribblesAttempted": "20/22[H]+17/27[H]+7/28[A]+14/17[A]+14/14[H]+2/13[A]+4/13[H]+9/14[A]",
+        "isHome": "true+true+false+false+true+false+true+false",
+        "cornersTotals": "22/43",
+        "cornersTotalsHome": "13/11",
+        "cornersTotalsAway": "9/32",
+        "cornersAverage": "2.75/5.38",
+        "cornersAverageHome": "3.25/2.75",
+        "cornersAverageAway": "2.25/8.00",
+        "foulsTotals": "82/70",
+        "foulsTotalsHome": "39/39",
+        "foulsTotalsAway": "43/31",
+        "foulsAverage": "10.25/8.75",
+        "foulsAverageHome": "9.75/9.75",
+        "foulsAverageAway": "10.75/7.75",
+        "goalKicksTotals": "85/52",
+        "goalKicksTotalsHome": "39/26",
+        "goalKicksTotalsAway": "46/26",
+        "goalKicksAverage": "10.63/6.50",
+        "goalKicksAverageHome": "9.75/6.50",
+        "goalKicksAverageAway": "11.50/6.50",
+        "savesTotals": "27/15",
+        "savesTotalsHome": "12/10",
+        "savesTotalsAway": "15/5",
+        "savesAverage": "3.38/1.88",
+        "savesAverageHome": "3.00/2.50",
+        "savesAverageAway": "3.75/1.25",
+        "offsidesTotals": "4/12",
+        "offsidesTotalsHome": "2/7",
+        "offsidesTotalsAway": "2/5",
+        "offsidesAverage": "0.50/1.50",
+        "offsidesAverageHome": "0.50/1.75",
+        "offsidesAverageAway": "0.50/1.25",
+        "shotsOnTargetTotals": "25/33",
+        "shotsOnTargetTotalsHome": "16/14",
+        "shotsOnTargetTotalsAway": "9/19",
+        "shotsOnTargetAverage": "3.13/4.13",
+        "shotsOnTargetAverageHome": "4.00/3.50",
+        "shotsOnTargetAverageAway": "2.25/4.75",
+        "yellowCardsTotals": "17/8",
+        "yellowCardsTotalsHome": "6/3",
+        "yellowCardsTotalsAway": "11/5",
+        "yellowCardsAverage": "2.13/1.00",
+        "yellowCardsAverageHome": "1.50/0.75",
+        "yellowCardsAverageAway": "2.75/1.25",
+        "goalsTotals": "11/8",
+        "goalsTotalsHome": "7/3",
+        "goalsTotalsAway": "4/5",
+        "goalsAverage": "1.38/1.00",
+        "goalsAverageHome": "1.75/0.75",
+        "goalsAverageAway": "1.00/1.25",
+        "throwInsTotals": "220/190",
+        "throwInsTotalsHome": "111/113",
+        "throwInsTotalsAway": "109/77",
+        "throwInsAverage": "27.50/23.75",
+        "throwInsAverageHome": "27.75/28.25",
+        "throwInsAverageAway": "27.25/19.25",
+        "averageBallPossessionTotals": "308/492",
+        "averageBallPossessionTotalsHome": "163/237",
+        "averageBallPossessionTotalsAway": "145/255",
+        "averageBallPossessionAverage": "38.50/61.50",
+        "averageBallPossessionAverageHome": "40.75/59.25",
+        "averageBallPossessionAverageAway": "36.25/63.75",
+        "tacklesTotals": "165/110",
+        "tacklesTotalsHome": "86/60",
+        "tacklesTotalsAway": "79/50",
+        "tacklesAverage": "20.63/13.75",
+        "tacklesAverageHome": "21.50/15.00",
+        "tacklesAverageAway": "19.75/12.50",
+        "interceptionsTotals": "87/48",
+        "interceptionsTotalsHome": "49/24",
+        "interceptionsTotalsAway": "38/24",
+        "interceptionsAverage": "10.88/6.00",
+        "interceptionsAverageHome": "12.25/6.00",
+        "interceptionsAverageAway": "9.50/6.00",
+        "aerialDuelsTotals": "133/169",
+        "aerialDuelsTotalsHome": "72/87",
+        "aerialDuelsTotalsAway": "61/82",
+        "aerialDuelsAverage": "16.63/21.13",
+        "aerialDuelsAverageHome": "18.00/21.75",
+        "aerialDuelsAverageAway": "15.25/20.50",
+        "aerialDuelsAttemptedTotals": "302/302",
+        "aerialDuelsAttemptedTotalsHome": "159/159",
+        "aerialDuelsAttemptedTotalsAway": "143/143",
+        "aerialDuelsAttemptedAverage": "37.75/37.75",
+        "aerialDuelsAttemptedAverageHome": "39.75/39.75",
+        "aerialDuelsAttemptedAverageAway": "35.75/35.75",
+        "dribblesTotals": "37/74",
+        "dribblesTotalsHome": "23/37",
+        "dribblesTotalsAway": "14/37",
+        "dribblesAverage": "4.63/9.25",
+        "dribblesAverageHome": "5.75/9.25",
+        "dribblesAverageAway": "3.50/9.25",
+        "dribblesAttemptedTotals": "87/148",
+        "dribblesAttemptedTotalsHome": "55/76",
+        "dribblesAttemptedTotalsAway": "32/72",
+        "dribblesAttemptedAverage": "10.88/18.50",
+        "dribblesAttemptedAverageHome": "13.75/19.00",
+        "dribblesAttemptedAverageAway": "8.00/18.00"
+    }
+}

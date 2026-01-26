@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.00",
+        "fouls": "12.56",
+        "goalKicks": "8.28",
+        "saves": "2.00",
+        "offsides": "2.36",
+        "shotsOnTarget": "2.84/3.28",
+        "yellowCards": "1.68/1.84",
+        "goals": "1.08/1.36",
+        "throwIns": "27.20",
+        "ballPossession": 46.2,
+        "tackles": "15.60/13.00",
+        "interceptions": "6.52/8.08",
+        "aerialDuels": "24.48",
+        "aerialDuelsAttempted": "49.84",
+        "dribbles": "4.48/5.72",
+        "dribblesAttempted": "10.04/12.92"
+    },
+    "teamSlug": "afc-wimbledon",
+    "teamId": "23957",
+    "teamName": "AFC Wimbledon",
+    "tournament": "League One",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-doncaster-rovers/JbshEj#id:14061059,tab:statistics",
+            "teams": [
+                "Wimbledon",
+                "Doncaster"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "23957",
+                "84"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-wycombe-wanderers/mbshEj#id:14061750,tab:statistics",
+            "teams": [
+                "Wycombe",
+                "Wimbledon"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "62",
+                "23957"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-leyton-orient/IbshEj#id:14061713,tab:statistics",
+            "teams": [
+                "Leyton Orient",
+                "Wimbledon"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "83",
+                "23957"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-exeter-city/LbshEj#id:14061657,tab:statistics",
+            "teams": [
+                "Wimbledon",
+                "Exeter"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "23957",
+                "86"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-stevenage/IcshEj#id:14061593,tab:statistics",
+            "teams": [
+                "Wimbledon",
+                "Stevenage"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "23957",
+                "133"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-northampton-town/hbshEj#id:14061558,tab:statistics",
+            "teams": [
+                "Northampton",
+                "Wimbledon"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "57",
+                "23957"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-mansfield-town/vbshEj#id:14061465,tab:statistics",
+            "teams": [
+                "Wimbledon",
+                "Mansfield"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "23957",
+                "70"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-exeter-city/LbshEj#id:14061399,tab:statistics",
+            "teams": [
+                "Exeter",
+                "Wimbledon"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "86",
+                "23957"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/4[H]",
+            "fouls": "14/14[H]",
+            "goalKicks": "5/13[H]",
+            "saves": "2/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "27/22[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Wimbledon,Doncaster,Home",
+            "tackles": "8/17[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "28/23[H]",
+            "aerialDuelsAttempted": "51/51[H]",
+            "dribbles": "0/3[H]",
+            "dribblesAttempted": "4/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "12/5[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "5/0[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "0/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "26/25[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Wimbledon,Wycombe,Away",
+            "tackles": "18/16[A]",
+            "interceptions": "4/4[A]",
+            "aerialDuels": "22/18[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "11/13[A]",
+            "dribblesAttempted": "14/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "5/8[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "2/3[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "3/1[A]",
+            "throwIns": "32/37[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Wimbledon,Leyton Orient,Away",
+            "tackles": "18/10[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "25/25[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "6/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "12/4[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "35/20[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Wimbledon,Exeter,Home",
+            "tackles": "17/17[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "19/26[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "4/1[H]",
+            "dribblesAttempted": "16/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "34/32[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Wimbledon,Stevenage,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "23/38[H]",
+            "aerialDuelsAttempted": "61/61[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "11/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/4[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "0/5[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "31/21[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Wimbledon,Northampton,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "34/17[A]",
+            "aerialDuelsAttempted": "51/51[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "16/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "12/10[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "21/35[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Wimbledon,Mansfield,Home",
+            "tackles": "15/23[H]",
+            "interceptions": "6/11[H]",
+            "aerialDuels": "18/23[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "5/0[H]",
+            "dribblesAttempted": "13/2[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "14/7[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "2/3[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "28/30[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Wimbledon,Exeter,Away",
+            "tackles": "22/10[A]",
+            "interceptions": "10/3[A]",
+            "aerialDuels": "16/10[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "11/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:16:06.268Z",
+    "endTime": "2026-01-24T14:16:46.683Z",
+    "totalTimeSeconds": 40.41,
+    "combinedMatchStatistics": {
+        "corners": "7/4[H]+2/4[A]+6/3[A]+7/5[H]+2/8[H]+1/4[A]+7/2[H]+4/6[A]",
+        "fouls": "14/14[H]+12/5[A]+5/8[A]+12/4[H]+13/11[H]+16/10[A]+12/10[H]+14/7[A]",
+        "goalKicks": "5/13[H]+6/8[A]+10/6[A]+7/9[H]+8/5[H]+6/9[A]+7/7[H]+6/7[A]",
+        "saves": "2/2[H]+5/0[A]+2/3[A]+5/1[H]+1/1[H]+0/5[A]+1/1[H]+2/3[A]",
+        "offsides": "3/3[H]+2/3[A]+4/1[A]+2/2[H]+1/3[H]+4/1[A]+2/0[H]+3/2[A]",
+        "shotsOnTarget": "2/3[H]+0/7[A]+5/2[A]+1/6[H]+1/1[H]+6/3[A]+1/1[H]+3/3[A]",
+        "yellowCards": "4/2[H]+2/2[A]+1/3[A]+3/4[H]+1/3[H]+2/2[A]+2/3[H]+0/2[A]",
+        "goals": "0/1[H]+0/2[A]+3/1[A]+0/1[H]+0/0[H]+1/3[A]+0/0[H]+0/1[A]",
+        "throwIns": "27/22[H]+26/25[A]+32/37[A]+35/20[H]+34/32[H]+31/21[A]+21/35[H]+28/30[A]",
+        "averageBallPossession": "56/44[H]+51/49[A]+45/55[A]+46/54[H]+54/46[H]+62/38[A]+61/39[H]+36/64[A]",
+        "teams": "Wimbledon,Doncaster,Home+Wimbledon,Wycombe,Away+Wimbledon,Leyton Orient,Away+Wimbledon,Exeter,Home+Wimbledon,Stevenage,Home+Wimbledon,Northampton,Away+Wimbledon,Mansfield,Home+Wimbledon,Exeter,Away",
+        "tackles": "8/17[H]+18/16[A]+18/10[A]+17/17[H]+17/16[H]+12/14[A]+15/23[H]+22/10[A]",
+        "interceptions": "6/9[H]+4/4[A]+7/10[A]+9/6[H]+7/6[H]+5/5[A]+6/11[H]+10/3[A]",
+        "aerialDuels": "28/23[H]+22/18[A]+25/25[A]+19/26[H]+23/38[H]+34/17[A]+18/23[H]+16/10[A]",
+        "aerialDuelsAttempted": "51/51[H]+40/40[A]+50/50[A]+45/45[H]+61/61[H]+51/51[A]+41/41[H]+26/26[A]",
+        "dribbles": "0/3[H]+11/13[A]+5/9[A]+4/1[H]+4/2[H]+6/6[A]+5/0[H]+5/3[A]",
+        "dribblesAttempted": "4/6[H]+14/23[A]+6/19[A]+16/9[H]+11/6[H]+16/11[A]+13/2[H]+11/13[A]",
+        "isHome": "true+false+false+true+true+false+true+false",
+        "cornersTotals": "36/36",
+        "cornersTotalsHome": "23/19",
+        "cornersTotalsAway": "13/17",
+        "cornersAverage": "4.50/4.50",
+        "cornersAverageHome": "5.75/4.75",
+        "cornersAverageAway": "3.25/4.25",
+        "foulsTotals": "98/69",
+        "foulsTotalsHome": "51/39",
+        "foulsTotalsAway": "47/30",
+        "foulsAverage": "12.25/8.63",
+        "foulsAverageHome": "12.75/9.75",
+        "foulsAverageAway": "11.75/7.50",
+        "goalKicksTotals": "55/64",
+        "goalKicksTotalsHome": "27/34",
+        "goalKicksTotalsAway": "28/30",
+        "goalKicksAverage": "6.88/8.00",
+        "goalKicksAverageHome": "6.75/8.50",
+        "goalKicksAverageAway": "7.00/7.50",
+        "savesTotals": "18/16",
+        "savesTotalsHome": "9/5",
+        "savesTotalsAway": "9/11",
+        "savesAverage": "2.25/2.00",
+        "savesAverageHome": "2.25/1.25",
+        "savesAverageAway": "2.25/2.75",
+        "offsidesTotals": "21/15",
+        "offsidesTotalsHome": "8/8",
+        "offsidesTotalsAway": "13/7",
+        "offsidesAverage": "2.63/1.88",
+        "offsidesAverageHome": "2.00/2.00",
+        "offsidesAverageAway": "3.25/1.75",
+        "shotsOnTargetTotals": "19/26",
+        "shotsOnTargetTotalsHome": "5/11",
+        "shotsOnTargetTotalsAway": "14/15",
+        "shotsOnTargetAverage": "2.38/3.25",
+        "shotsOnTargetAverageHome": "1.25/2.75",
+        "shotsOnTargetAverageAway": "3.50/3.75",
+        "yellowCardsTotals": "15/21",
+        "yellowCardsTotalsHome": "10/12",
+        "yellowCardsTotalsAway": "5/9",
+        "yellowCardsAverage": "1.88/2.63",
+        "yellowCardsAverageHome": "2.50/3.00",
+        "yellowCardsAverageAway": "1.25/2.25",
+        "goalsTotals": "4/9",
+        "goalsTotalsHome": "0/2",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "0.50/1.13",
+        "goalsAverageHome": "0.00/0.50",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "234/222",
+        "throwInsTotalsHome": "117/109",
+        "throwInsTotalsAway": "117/113",
+        "throwInsAverage": "29.25/27.75",
+        "throwInsAverageHome": "29.25/27.25",
+        "throwInsAverageAway": "29.25/28.25",
+        "averageBallPossessionTotals": "411/389",
+        "averageBallPossessionTotalsHome": "217/183",
+        "averageBallPossessionTotalsAway": "194/206",
+        "averageBallPossessionAverage": "51.38/48.63",
+        "averageBallPossessionAverageHome": "54.25/45.75",
+        "averageBallPossessionAverageAway": "48.50/51.50",
+        "tacklesTotals": "127/123",
+        "tacklesTotalsHome": "57/73",
+        "tacklesTotalsAway": "70/50",
+        "tacklesAverage": "15.88/15.38",
+        "tacklesAverageHome": "14.25/18.25",
+        "tacklesAverageAway": "17.50/12.50",
+        "interceptionsTotals": "54/54",
+        "interceptionsTotalsHome": "28/32",
+        "interceptionsTotalsAway": "26/22",
+        "interceptionsAverage": "6.75/6.75",
+        "interceptionsAverageHome": "7.00/8.00",
+        "interceptionsAverageAway": "6.50/5.50",
+        "aerialDuelsTotals": "185/180",
+        "aerialDuelsTotalsHome": "88/110",
+        "aerialDuelsTotalsAway": "97/70",
+        "aerialDuelsAverage": "23.13/22.50",
+        "aerialDuelsAverageHome": "22.00/27.50",
+        "aerialDuelsAverageAway": "24.25/17.50",
+        "aerialDuelsAttemptedTotals": "365/365",
+        "aerialDuelsAttemptedTotalsHome": "198/198",
+        "aerialDuelsAttemptedTotalsAway": "167/167",
+        "aerialDuelsAttemptedAverage": "45.63/45.63",
+        "aerialDuelsAttemptedAverageHome": "49.50/49.50",
+        "aerialDuelsAttemptedAverageAway": "41.75/41.75",
+        "dribblesTotals": "40/37",
+        "dribblesTotalsHome": "13/6",
+        "dribblesTotalsAway": "27/31",
+        "dribblesAverage": "5.00/4.63",
+        "dribblesAverageHome": "3.25/1.50",
+        "dribblesAverageAway": "6.75/7.75",
+        "dribblesAttemptedTotals": "91/89",
+        "dribblesAttemptedTotalsHome": "44/23",
+        "dribblesAttemptedTotalsAway": "47/66",
+        "dribblesAttemptedAverage": "11.38/11.13",
+        "dribblesAttemptedAverageHome": "11.00/5.75",
+        "dribblesAttemptedAverageAway": "11.75/16.50"
+    }
+}

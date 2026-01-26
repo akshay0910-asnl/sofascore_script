@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.20",
+        "fouls": "12.44",
+        "goalKicks": "9.60",
+        "saves": "2.84",
+        "offsides": "2.32",
+        "shotsOnTarget": "3.52/4.80",
+        "yellowCards": "1.84/2.08",
+        "goals": "1.04/1.84",
+        "throwIns": "24.44",
+        "ballPossession": 47.24,
+        "tackles": "15.40/14.40",
+        "interceptions": "6.56/7.40",
+        "aerialDuels": "21.28",
+        "aerialDuelsAttempted": "46.52",
+        "dribbles": "6.36/5.44",
+        "dribblesAttempted": "13.20/12.20"
+    },
+    "teamSlug": "newport-county",
+    "teamId": "79",
+    "teamName": "Newport County",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-gillingham/vsEb#id:14060797,tab:statistics",
+            "teams": [
+                "Gillingham",
+                "Newport"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "20",
+                "79"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bromley-newport-county/EbsFd#id:14061594,tab:statistics",
+            "teams": [
+                "Bromley",
+                "Newport"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "180",
+                "79"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-crewe-alexandra/usEb#id:14061525,tab:statistics",
+            "teams": [
+                "Newport",
+                "Crewe"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "79",
+                "19"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-barnet/CbsEb#id:14061505,tab:statistics",
+            "teams": [
+                "Newport",
+                "Barnet"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "79",
+                "77"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-colchester-united/qbsEb#id:14061410,tab:statistics",
+            "teams": [
+                "Colchester",
+                "Newport"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "66",
+                "79"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fleetwood-town-newport-county/EbsjEj#id:14061362,tab:statistics",
+            "teams": [
+                "Newport",
+                "Fleetwood"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "79",
+                "23959"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-crewe-alexandra/usEb#id:14061226,tab:statistics",
+            "teams": [
+                "Crewe",
+                "Newport"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "19",
+                "79"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-newport-county/EbsXb#id:14060999,tab:statistics",
+            "teams": [
+                "Newport",
+                "Barrow"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "79",
+                "97"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/4[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "3/5[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "7/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/3[A]",
+            "throwIns": "20/19[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Newport,Gillingham,Away",
+            "tackles": "10/10[A]",
+            "interceptions": "6/11[A]",
+            "aerialDuels": "20/30[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "8/3[A]",
+            "dribblesAttempted": "14/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "8/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "30/23[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Newport,Bromley,Away",
+            "tackles": "19/16[A]",
+            "interceptions": "3/4[A]",
+            "aerialDuels": "25/18[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "11/3[A]",
+            "dribblesAttempted": "20/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "10/13[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "4/5[H]",
+            "offsides": "1/5[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "14/32[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Newport,Crewe,Home",
+            "tackles": "18/5[H]",
+            "interceptions": "6/3[H]",
+            "aerialDuels": "20/27[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "10/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "1/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "25/28[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Newport,Barnet,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "25/40[H]",
+            "aerialDuelsAttempted": "65/65[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "16/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "9/12[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "3/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "20/16[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Newport,Colchester,Away",
+            "tackles": "11/8[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "14/31[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "5/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "6/2[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "14/19[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Newport,Fleetwood,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "9/3[H]",
+            "aerialDuels": "16/29[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "15/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/4[A]",
+            "fouls": "16/13[A]",
+            "goalKicks": "14/4[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "16/28[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Newport,Crewe,Away",
+            "tackles": "15/10[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "25/18[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "1/8[A]",
+            "dribblesAttempted": "8/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "5/13[H]",
+            "goalKicks": "10/3[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "28/17[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Newport,Barrow,Home",
+            "tackles": "14/6[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "12/24[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "9/10[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:32:12.912Z",
+    "endTime": "2026-01-24T14:32:59.728Z",
+    "totalTimeSeconds": 46.82,
+    "combinedMatchStatistics": {
+        "corners": "5/4[A]+3/6[A]+6/4[H]+1/7[H]+2/2[A]+3/4[H]+1/4[A]+2/2[H]",
+        "fouls": "11/13[A]+13/10[A]+10/13[H]+11/14[H]+9/12[A]+10/11[H]+16/13[A]+5/13[H]",
+        "goalKicks": "7/9[A]+8/7[A]+7/10[H]+12/7[H]+8/5[A]+10/7[H]+14/4[A]+10/3[H]",
+        "saves": "3/5[A]+5/2[A]+4/5[H]+1/2[H]+3/1[A]+4/2[H]+3/2[A]+2/3[H]",
+        "offsides": "0/3[A]+3/1[A]+1/5[H]+3/2[H]+2/3[A]+6/2[H]+1/3[A]+0/2[H]",
+        "shotsOnTarget": "7/6[A]+3/6[A]+8/3[H]+3/1[H]+2/7[A]+2/6[H]+3/5[A]+5/4[H]",
+        "yellowCards": "2/3[A]+1/2[A]+1/3[H]+1/0[H]+2/1[A]+4/2[H]+4/1[A]+0/1[H]",
+        "goals": "2/3[A]+1/2[A]+2/0[H]+0/0[H]+1/4[A]+0/2[H]+2/2[A]+2/2[H]",
+        "throwIns": "20/19[A]+30/23[A]+14/32[H]+25/28[H]+20/16[A]+14/19[H]+16/28[A]+28/17[H]",
+        "averageBallPossession": "44/56[A]+60/40[A]+41/59[H]+41/59[H]+49/51[A]+49/51[H]+42/58[A]+51/49[H]",
+        "teams": "Newport,Gillingham,Away+Newport,Bromley,Away+Newport,Crewe,Home+Newport,Barnet,Home+Newport,Colchester,Away+Newport,Fleetwood,Home+Newport,Crewe,Away+Newport,Barrow,Home",
+        "tackles": "10/10[A]+19/16[A]+18/5[H]+18/13[H]+11/8[A]+12/14[H]+15/10[A]+14/6[H]",
+        "interceptions": "6/11[A]+3/4[A]+6/3[H]+9/10[H]+12/11[A]+9/3[H]+11/12[A]+4/8[H]",
+        "aerialDuels": "20/30[A]+25/18[A]+20/27[H]+25/40[H]+14/31[A]+16/29[H]+25/18[A]+12/24[H]",
+        "aerialDuelsAttempted": "50/50[A]+43/43[A]+47/47[H]+65/65[H]+45/45[A]+45/45[H]+43/43[A]+36/36[H]",
+        "dribbles": "8/3[A]+11/3[A]+5/7[H]+8/8[H]+2/7[A]+9/5[H]+1/8[A]+5/5[H]",
+        "dribblesAttempted": "14/9[A]+20/9[A]+10/21[H]+16/17[H]+5/12[A]+15/10[H]+8/13[A]+9/10[H]",
+        "isHome": "false+false+true+true+false+true+false+true",
+        "cornersTotals": "23/33",
+        "cornersTotalsHome": "12/17",
+        "cornersTotalsAway": "11/16",
+        "cornersAverage": "2.88/4.13",
+        "cornersAverageHome": "3.00/4.25",
+        "cornersAverageAway": "2.75/4.00",
+        "foulsTotals": "85/99",
+        "foulsTotalsHome": "36/51",
+        "foulsTotalsAway": "49/48",
+        "foulsAverage": "10.63/12.38",
+        "foulsAverageHome": "9.00/12.75",
+        "foulsAverageAway": "12.25/12.00",
+        "goalKicksTotals": "76/52",
+        "goalKicksTotalsHome": "39/27",
+        "goalKicksTotalsAway": "37/25",
+        "goalKicksAverage": "9.50/6.50",
+        "goalKicksAverageHome": "9.75/6.75",
+        "goalKicksAverageAway": "9.25/6.25",
+        "savesTotals": "25/22",
+        "savesTotalsHome": "11/12",
+        "savesTotalsAway": "14/10",
+        "savesAverage": "3.13/2.75",
+        "savesAverageHome": "2.75/3.00",
+        "savesAverageAway": "3.50/2.50",
+        "offsidesTotals": "16/21",
+        "offsidesTotalsHome": "10/11",
+        "offsidesTotalsAway": "6/10",
+        "offsidesAverage": "2.00/2.63",
+        "offsidesAverageHome": "2.50/2.75",
+        "offsidesAverageAway": "1.50/2.50",
+        "shotsOnTargetTotals": "33/38",
+        "shotsOnTargetTotalsHome": "18/14",
+        "shotsOnTargetTotalsAway": "15/24",
+        "shotsOnTargetAverage": "4.13/4.75",
+        "shotsOnTargetAverageHome": "4.50/3.50",
+        "shotsOnTargetAverageAway": "3.75/6.00",
+        "yellowCardsTotals": "15/13",
+        "yellowCardsTotalsHome": "6/6",
+        "yellowCardsTotalsAway": "9/7",
+        "yellowCardsAverage": "1.88/1.63",
+        "yellowCardsAverageHome": "1.50/1.50",
+        "yellowCardsAverageAway": "2.25/1.75",
+        "goalsTotals": "10/15",
+        "goalsTotalsHome": "4/4",
+        "goalsTotalsAway": "6/11",
+        "goalsAverage": "1.25/1.88",
+        "goalsAverageHome": "1.00/1.00",
+        "goalsAverageAway": "1.50/2.75",
+        "throwInsTotals": "167/182",
+        "throwInsTotalsHome": "81/96",
+        "throwInsTotalsAway": "86/86",
+        "throwInsAverage": "20.88/22.75",
+        "throwInsAverageHome": "20.25/24.00",
+        "throwInsAverageAway": "21.50/21.50",
+        "averageBallPossessionTotals": "377/423",
+        "averageBallPossessionTotalsHome": "182/218",
+        "averageBallPossessionTotalsAway": "195/205",
+        "averageBallPossessionAverage": "47.13/52.88",
+        "averageBallPossessionAverageHome": "45.50/54.50",
+        "averageBallPossessionAverageAway": "48.75/51.25",
+        "tacklesTotals": "117/82",
+        "tacklesTotalsHome": "62/38",
+        "tacklesTotalsAway": "55/44",
+        "tacklesAverage": "14.63/10.25",
+        "tacklesAverageHome": "15.50/9.50",
+        "tacklesAverageAway": "13.75/11.00",
+        "interceptionsTotals": "60/62",
+        "interceptionsTotalsHome": "28/24",
+        "interceptionsTotalsAway": "32/38",
+        "interceptionsAverage": "7.50/7.75",
+        "interceptionsAverageHome": "7.00/6.00",
+        "interceptionsAverageAway": "8.00/9.50",
+        "aerialDuelsTotals": "157/217",
+        "aerialDuelsTotalsHome": "73/120",
+        "aerialDuelsTotalsAway": "84/97",
+        "aerialDuelsAverage": "19.63/27.13",
+        "aerialDuelsAverageHome": "18.25/30.00",
+        "aerialDuelsAverageAway": "21.00/24.25",
+        "aerialDuelsAttemptedTotals": "374/374",
+        "aerialDuelsAttemptedTotalsHome": "193/193",
+        "aerialDuelsAttemptedTotalsAway": "181/181",
+        "aerialDuelsAttemptedAverage": "46.75/46.75",
+        "aerialDuelsAttemptedAverageHome": "48.25/48.25",
+        "aerialDuelsAttemptedAverageAway": "45.25/45.25",
+        "dribblesTotals": "49/46",
+        "dribblesTotalsHome": "27/25",
+        "dribblesTotalsAway": "22/21",
+        "dribblesAverage": "6.13/5.75",
+        "dribblesAverageHome": "6.75/6.25",
+        "dribblesAverageAway": "5.50/5.25",
+        "dribblesAttemptedTotals": "97/101",
+        "dribblesAttemptedTotalsHome": "50/58",
+        "dribblesAttemptedTotalsAway": "47/43",
+        "dribblesAttemptedAverage": "12.13/12.63",
+        "dribblesAttemptedAverageHome": "12.50/14.50",
+        "dribblesAttemptedAverageAway": "11.75/10.75"
+    }
+}

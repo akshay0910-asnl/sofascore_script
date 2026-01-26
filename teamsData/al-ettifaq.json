@@ -1,27 +1,123 @@
 {
     "globalStatistics": {
-        "corners": "4.20",
-        "fouls": "10.10",
-        "goalKicks": "9.50",
-        "saves": "3.50",
-        "offsides": "2.00",
-        "shotsOnTarget": "3.50/5.20",
-        "yellowCards": "2.00/2.20",
-        "goals": "1.50/1.80",
-        "throwIns": "15.20",
-        "ballPossession": 52,
-        "tackles": "13.00/14.40",
-        "interceptions": "5.70/8.70",
-        "aerialDuels": "8.30",
-        "aerialDuelsAttempted": "16.30",
-        "dribbles": "6.40/7.50",
-        "dribblesAttempted": "13.20/15.00"
+        "corners": "3.94",
+        "fouls": "10.88",
+        "goalKicks": "9.63",
+        "saves": "3.69",
+        "offsides": "2.19",
+        "shotsOnTarget": "4.13/5.06",
+        "yellowCards": "2.19/1.75",
+        "goals": "1.56/1.56",
+        "throwIns": "14.38",
+        "ballPossession": 49.9375,
+        "tackles": "13.31/13.88",
+        "interceptions": "7.25/8.50",
+        "aerialDuels": "8.63",
+        "aerialDuelsAttempted": "16.94",
+        "dribbles": "6.50/7.94",
+        "dribblesAttempted": "13.50/15.88"
     },
     "teamSlug": "al-ettifaq",
     "teamId": "34318",
     "teamName": "Al-Ettifaq",
     "tournament": "Saudi Pro League",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/neom-sc-al-ettifaq/tLnsGmme#id:14773690,tab:statistics",
+            "teams": [
+                "Al-Ettifaq",
+                "Neom SC"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "34318",
+                "530631"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-ettifaq-al-ittihad/pLnstLn#id:14771944,tab:statistics",
+            "teams": [
+                "Al-Ittihad",
+                "Al-Ettifaq"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "34315",
+                "34318"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-khaleej-al-ettifaq/tLnsDUqb#id:14771935,tab:statistics",
+            "teams": [
+                "Al-Ettifaq",
+                "Al-Khaleej"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "34318",
+                "167228"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-najma-sc-al-ettifaq/tLnsGqid#id:14771925,tab:statistics",
+            "teams": [
+                "Al-Najma",
+                "Al-Ettifaq"
+            ],
+            "goals": [
+                "3",
+                "4"
+            ],
+            "teamIds": [
+                "395831",
+                "34318"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-okhdood-al-ettifaq/tLnsgEJc#id:14773681,tab:statistics",
+            "teams": [
+                "Al-Ettifaq",
+                "Al-Okhdood"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "34318",
+                "336456"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-ettifaq-al-nassr/atjstLn#id:14773671,tab:statistics",
+            "teams": [
+                "Al-Ettifaq",
+                "Al-Nassr"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "34318",
+                "23400"
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/al-riyadh-al-ettifaq/tLnsNlrb#id:14771927,tab:statistics",
             "teams": [
@@ -39,22 +135,6 @@
             "isHome": false
         },
         {
-            "href": "https://www.sofascore.com/football/match/al-fayha-al-ettifaq/tLnsUlrb#id:14771897,tab:statistics",
-            "teams": [
-                "Al-Ettifaq",
-                "Al-Fayha"
-            ],
-            "goals": [
-                "3",
-                "2"
-            ],
-            "teamIds": [
-                "34318",
-                "168094"
-            ],
-            "isHome": true
-        },
-        {
             "href": "https://www.sofascore.com/football/match/al-ettifaq-al-shabab/nLnstLn#id:14771811,tab:statistics",
             "teams": [
                 "Al-Shabab",
@@ -69,91 +149,131 @@
                 "34318"
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/al-hazem-al-ettifaq/tLnsLlrb#id:14771807,tab:statistics",
-            "teams": [
-                "Al-Ettifaq",
-                "Al-Hazem"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "34318",
-                "168086"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/al-fateh-al-ettifaq/tLnsyvx#id:14429574,tab:statistics",
-            "teams": [
-                "Al-Fateh",
-                "Al-Ettifaq"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "56023",
-                "34318"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/al-ettifaq-al-hilal/VMistLn#id:14429564,tab:statistics",
-            "teams": [
-                "Al-Ettifaq",
-                "Al-Hilal"
-            ],
-            "goals": [
-                "0",
-                "5"
-            ],
-            "teamIds": [
-                "34318",
-                "21895"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/damac-fc-al-ettifaq/tLnsBHGb#id:14429557,tab:statistics",
-            "teams": [
-                "Damac",
-                "Al-Ettifaq"
-            ],
-            "goals": [
-                "1",
-                "3"
-            ],
-            "teamIds": [
-                "204126",
-                "34318"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/al-ahli-al-ettifaq/tLnsuOn#id:14429537,tab:statistics",
-            "teams": [
-                "Al-Ettifaq",
-                "Al-Ahli"
-            ],
-            "goals": [
-                "0",
-                "0"
-            ],
-            "teamIds": [
-                "34318",
-                "34469"
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "4/4[H]",
+            "fouls": "16/14[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "15/18[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Al-Ettifaq,Neom SC,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "15/8[H]",
+            "aerialDuels": "7/9[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "15/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/10[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "14/2[A]",
+            "saves": "5/3[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "15/25[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Al-Ettifaq,Al-Ittihad,Away",
+            "tackles": "16/7[A]",
+            "interceptions": "14/8[A]",
+            "aerialDuels": "13/8[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "4/10[A]",
+            "dribblesAttempted": "7/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/7[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "10/5[H]",
+            "saves": "7/3[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "15/15[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Al-Ettifaq,Al-Khaleej,Home",
+            "tackles": "11/16[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "10/12[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "6/11[H]",
+            "dribblesAttempted": "18/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "14/5[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "2/5[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "4/3[A]",
+            "throwIns": "13/11[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Al-Ettifaq,Al-Najma,Away",
+            "tackles": "13/18[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "7/5[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "16/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "2/7[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/6[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Al-Ettifaq,Al-Okhdood,Home",
+            "tackles": "13/9[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "5/10[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/16[H]",
+            "fouls": "7/6[H]",
+            "goalKicks": "20/5[H]",
+            "saves": "6/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "8/19[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Al-Ettifaq,Al-Nassr,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "12/6[H]",
+            "aerialDuels": "13/9[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "6/13[H]",
+            "dribblesAttempted": "14/29[H]",
+            "isHome": true
+        },
         {
             "corners": "2/2[A]",
             "fouls": "6/15[A]",
@@ -175,26 +295,6 @@
             "isHome": false
         },
         {
-            "corners": "0/8[H]",
-            "fouls": "13/7[H]",
-            "goalKicks": "13/2[H]",
-            "saves": "6/2[H]",
-            "offsides": "1/4[H]",
-            "shotsOnTarget": "5/7[H]",
-            "yellowCards": "0/0[H]",
-            "goals": "3/2[H]",
-            "throwIns": "16/22[H]",
-            "averageBallPossession": "39/61[H]",
-            "teams": "Al-Ettifaq,Al-Fayha,Home",
-            "tackles": "16/17[H]",
-            "interceptions": "10/9[H]",
-            "aerialDuels": "11/9[H]",
-            "aerialDuelsAttempted": "20/20[H]",
-            "dribbles": "7/5[H]",
-            "dribblesAttempted": "20/17[H]",
-            "isHome": true
-        },
-        {
             "corners": "9/3[A]",
             "fouls": "7/10[A]",
             "goalKicks": "5/9[A]",
@@ -213,223 +313,126 @@
             "dribbles": "4/5[A]",
             "dribblesAttempted": "11/14[A]",
             "isHome": false
-        },
-        {
-            "corners": "6/3[H]",
-            "fouls": "8/10[H]",
-            "goalKicks": "5/6[H]",
-            "saves": "2/3[H]",
-            "offsides": "3/6[H]",
-            "shotsOnTarget": "5/4[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "2/2[H]",
-            "throwIns": "13/20[H]",
-            "averageBallPossession": "50/50[H]",
-            "teams": "Al-Ettifaq,Al-Hazem,Home",
-            "tackles": "14/14[H]",
-            "interceptions": "1/5[H]",
-            "aerialDuels": "8/4[H]",
-            "aerialDuelsAttempted": "12/12[H]",
-            "dribbles": "10/9[H]",
-            "dribblesAttempted": "15/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/7[A]",
-            "fouls": "9/13[A]",
-            "goalKicks": "17/5[A]",
-            "saves": "6/2[A]",
-            "offsides": "4/1[A]",
-            "shotsOnTarget": "3/7[A]",
-            "yellowCards": "3/3[A]",
-            "goals": "1/2[A]",
-            "throwIns": "16/17[A]",
-            "averageBallPossession": "54/46[A]",
-            "teams": "Al-Ettifaq,Al-Fateh,Away",
-            "tackles": "12/10[A]",
-            "interceptions": "7/12[A]",
-            "aerialDuels": "11/16[A]",
-            "aerialDuelsAttempted": "27/27[A]",
-            "dribbles": "5/8[A]",
-            "dribblesAttempted": "8/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/6[H]",
-            "fouls": "8/12[H]",
-            "goalKicks": "10/3[H]",
-            "saves": "7/1[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "1/12[H]",
-            "yellowCards": "0/1[H]",
-            "goals": "0/5[H]",
-            "throwIns": "12/7[H]",
-            "averageBallPossession": "44/56[H]",
-            "teams": "Al-Ettifaq,Al-Hilal,Home",
-            "tackles": "5/14[H]",
-            "interceptions": "5/14[H]",
-            "aerialDuels": "5/7[H]",
-            "aerialDuelsAttempted": "12/12[H]",
-            "dribbles": "4/7[H]",
-            "dribblesAttempted": "5/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/7[A]",
-            "fouls": "19/10[A]",
-            "goalKicks": "14/3[A]",
-            "saves": "3/0[A]",
-            "offsides": "1/4[A]",
-            "shotsOnTarget": "3/4[A]",
-            "yellowCards": "3/3[A]",
-            "goals": "3/1[A]",
-            "throwIns": "10/25[A]",
-            "averageBallPossession": "46/54[A]",
-            "teams": "Al-Ettifaq,Damac,Away",
-            "tackles": "14/16[A]",
-            "interceptions": "7/10[A]",
-            "aerialDuels": "7/4[A]",
-            "aerialDuelsAttempted": "11/11[A]",
-            "dribbles": "6/7[A]",
-            "dribblesAttempted": "11/11[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/10[H]",
-            "fouls": "9/11[H]",
-            "goalKicks": "11/9[H]",
-            "saves": "4/0[H]",
-            "offsides": "3/3[H]",
-            "shotsOnTarget": "0/5[H]",
-            "yellowCards": "4/3[H]",
-            "goals": "0/0[H]",
-            "throwIns": "10/13[H]",
-            "averageBallPossession": "42/58[H]",
-            "teams": "Al-Ettifaq,Al-Ahli,Home",
-            "tackles": "15/17[H]",
-            "interceptions": "5/8[H]",
-            "aerialDuels": "7/10[H]",
-            "aerialDuelsAttempted": "17/17[H]",
-            "dribbles": "8/12[H]",
-            "dribblesAttempted": "17/24[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
+    "startTime": "2026-01-24T14:38:02.120Z",
+    "endTime": "2026-01-24T14:38:46.031Z",
+    "totalTimeSeconds": 43.91,
     "combinedMatchStatistics": {
-        "corners": "2/2[A]+0/8[H]+9/3[A]+6/3[H]+7/7[A]+3/6[H]+2/7[A]+3/10[H]",
-        "fouls": "6/15[A]+13/7[H]+7/10[A]+8/10[H]+9/13[A]+8/12[H]+19/10[A]+9/11[H]",
-        "goalKicks": "4/5[A]+13/2[H]+5/9[A]+5/6[H]+17/5[A]+10/3[H]+14/3[A]+11/9[H]",
-        "saves": "2/6[A]+6/2[H]+1/2[A]+2/3[H]+6/2[A]+7/1[H]+3/0[A]+4/0[H]",
-        "offsides": "3/3[A]+1/4[H]+0/1[A]+3/6[H]+4/1[A]+2/1[H]+1/4[A]+3/3[H]",
-        "shotsOnTarget": "8/2[A]+5/7[H]+3/2[A]+5/4[H]+3/7[A]+1/12[H]+3/4[A]+0/5[H]",
-        "yellowCards": "1/1[A]+0/0[H]+0/5[A]+2/2[H]+3/3[A]+0/1[H]+3/3[A]+4/3[H]",
-        "goals": "2/0[A]+3/2[H]+1/1[A]+2/2[H]+1/2[A]+0/5[H]+3/1[A]+0/0[H]",
-        "throwIns": "21/11[A]+16/22[H]+24/22[A]+13/20[H]+16/17[A]+12/7[H]+10/25[A]+10/13[H]",
-        "averageBallPossession": "66/34[A]+39/61[H]+72/28[A]+50/50[H]+54/46[A]+44/56[H]+46/54[A]+42/58[H]",
-        "teams": "Al-Ettifaq,Al-Riyadh,Away+Al-Ettifaq,Al-Fayha,Home+Al-Ettifaq,Al-Shabab,Away+Al-Ettifaq,Al-Hazem,Home+Al-Ettifaq,Al-Fateh,Away+Al-Ettifaq,Al-Hilal,Home+Al-Ettifaq,Damac,Away+Al-Ettifaq,Al-Ahli,Home",
-        "tackles": "8/17[A]+16/17[H]+14/12[A]+14/14[H]+12/10[A]+5/14[H]+14/16[A]+15/17[H]",
-        "interceptions": "6/14[A]+10/9[H]+5/1[A]+1/5[H]+7/12[A]+5/14[H]+7/10[A]+5/8[H]",
-        "aerialDuels": "8/6[A]+11/9[H]+15/11[A]+8/4[H]+11/16[A]+5/7[H]+7/4[A]+7/10[H]",
-        "aerialDuelsAttempted": "14/14[A]+20/20[H]+26/26[A]+12/12[H]+27/27[A]+12/12[H]+11/11[A]+17/17[H]",
-        "dribbles": "8/8[A]+7/5[H]+4/5[A]+10/9[H]+5/8[A]+4/7[H]+6/7[A]+8/12[H]",
-        "dribblesAttempted": "19/13[A]+20/17[H]+11/14[A]+15/16[H]+8/17[A]+5/9[H]+11/11[A]+17/24[H]",
-        "isHome": "false+true+false+true+false+true+false+true",
-        "cornersTotals": "32/46",
-        "cornersTotalsHome": "12/27",
-        "cornersTotalsAway": "20/19",
-        "cornersAverage": "4.00/5.75",
-        "cornersAverageHome": "3.00/6.75",
-        "cornersAverageAway": "5.00/4.75",
-        "foulsTotals": "79/88",
-        "foulsTotalsHome": "38/40",
-        "foulsTotalsAway": "41/48",
-        "foulsAverage": "9.88/11.00",
-        "foulsAverageHome": "9.50/10.00",
-        "foulsAverageAway": "10.25/12.00",
-        "goalKicksTotals": "79/42",
-        "goalKicksTotalsHome": "39/20",
-        "goalKicksTotalsAway": "40/22",
-        "goalKicksAverage": "9.88/5.25",
-        "goalKicksAverageHome": "9.75/5.00",
-        "goalKicksAverageAway": "10.00/5.50",
-        "savesTotals": "31/16",
-        "savesTotalsHome": "19/6",
-        "savesTotalsAway": "12/10",
-        "savesAverage": "3.88/2.00",
-        "savesAverageHome": "4.75/1.50",
-        "savesAverageAway": "3.00/2.50",
-        "offsidesTotals": "17/23",
-        "offsidesTotalsHome": "9/14",
-        "offsidesTotalsAway": "8/9",
-        "offsidesAverage": "2.13/2.88",
-        "offsidesAverageHome": "2.25/3.50",
-        "offsidesAverageAway": "2.00/2.25",
-        "shotsOnTargetTotals": "28/43",
-        "shotsOnTargetTotalsHome": "11/28",
-        "shotsOnTargetTotalsAway": "17/15",
-        "shotsOnTargetAverage": "3.50/5.38",
-        "shotsOnTargetAverageHome": "2.75/7.00",
-        "shotsOnTargetAverageAway": "4.25/3.75",
-        "yellowCardsTotals": "13/18",
-        "yellowCardsTotalsHome": "6/6",
-        "yellowCardsTotalsAway": "7/12",
-        "yellowCardsAverage": "1.63/2.25",
-        "yellowCardsAverageHome": "1.50/1.50",
-        "yellowCardsAverageAway": "1.75/3.00",
-        "goalsTotals": "12/13",
-        "goalsTotalsHome": "5/9",
-        "goalsTotalsAway": "7/4",
-        "goalsAverage": "1.50/1.63",
-        "goalsAverageHome": "1.25/2.25",
-        "goalsAverageAway": "1.75/1.00",
-        "throwInsTotals": "122/137",
-        "throwInsTotalsHome": "51/62",
-        "throwInsTotalsAway": "71/75",
-        "throwInsAverage": "15.25/17.13",
-        "throwInsAverageHome": "12.75/15.50",
-        "throwInsAverageAway": "17.75/18.75",
-        "averageBallPossessionTotals": "413/387",
-        "averageBallPossessionTotalsHome": "175/225",
-        "averageBallPossessionTotalsAway": "238/162",
-        "averageBallPossessionAverage": "51.63/48.38",
-        "averageBallPossessionAverageHome": "43.75/56.25",
-        "averageBallPossessionAverageAway": "59.50/40.50",
-        "tacklesTotals": "98/117",
-        "tacklesTotalsHome": "50/62",
-        "tacklesTotalsAway": "48/55",
-        "tacklesAverage": "12.25/14.63",
-        "tacklesAverageHome": "12.50/15.50",
-        "tacklesAverageAway": "12.00/13.75",
-        "interceptionsTotals": "46/73",
-        "interceptionsTotalsHome": "21/36",
-        "interceptionsTotalsAway": "25/37",
-        "interceptionsAverage": "5.75/9.13",
-        "interceptionsAverageHome": "5.25/9.00",
-        "interceptionsAverageAway": "6.25/9.25",
-        "aerialDuelsTotals": "72/67",
-        "aerialDuelsTotalsHome": "31/30",
-        "aerialDuelsTotalsAway": "41/37",
-        "aerialDuelsAverage": "9.00/8.38",
-        "aerialDuelsAverageHome": "7.75/7.50",
-        "aerialDuelsAverageAway": "10.25/9.25",
-        "aerialDuelsAttemptedTotals": "139/139",
-        "aerialDuelsAttemptedTotalsHome": "61/61",
-        "aerialDuelsAttemptedTotalsAway": "78/78",
-        "aerialDuelsAttemptedAverage": "17.38/17.38",
-        "aerialDuelsAttemptedAverageHome": "15.25/15.25",
-        "aerialDuelsAttemptedAverageAway": "19.50/19.50",
-        "dribblesTotals": "52/61",
-        "dribblesTotalsHome": "29/33",
-        "dribblesTotalsAway": "23/28",
-        "dribblesAverage": "6.50/7.63",
-        "dribblesAverageHome": "7.25/8.25",
-        "dribblesAverageAway": "5.75/7.00",
-        "dribblesAttemptedTotals": "106/121",
-        "dribblesAttemptedTotalsHome": "57/66",
-        "dribblesAttemptedTotalsAway": "49/55",
-        "dribblesAttemptedAverage": "13.25/15.13",
-        "dribblesAttemptedAverageHome": "14.25/16.50",
-        "dribblesAttemptedAverageAway": "12.25/13.75"
+        "corners": "4/4[H]+1/10[A]+3/7[H]+4/2[A]+8/3[H]+1/16[H]+2/2[A]+9/3[A]",
+        "fouls": "16/14[H]+13/12[A]+12/9[H]+14/5[A]+11/11[H]+7/6[H]+6/15[A]+7/10[A]",
+        "goalKicks": "5/11[H]+14/2[A]+10/5[H]+5/7[A]+5/7[H]+20/5[H]+4/5[A]+5/9[A]",
+        "saves": "2/2[H]+5/3[A]+7/3[H]+2/5[A]+2/7[H]+6/2[H]+2/6[A]+1/2[A]",
+        "offsides": "1/4[H]+3/3[A]+2/3[H]+2/3[A]+5/1[H]+2/4[H]+3/3[A]+0/1[A]",
+        "shotsOnTarget": "2/2[H]+4/5[A]+4/8[H]+8/5[A]+9/2[H]+4/7[H]+8/2[A]+3/2[A]",
+        "yellowCards": "3/1[H]+5/2[A]+2/1[H]+2/0[A]+2/0[H]+1/2[H]+1/1[A]+0/5[A]",
+        "goals": "0/0[H]+1/0[A]+1/2[H]+4/3[A]+2/0[H]+2/2[H]+2/0[A]+1/1[A]",
+        "throwIns": "15/18[H]+15/25[A]+15/15[H]+13/11[A]+12/6[H]+8/19[H]+21/11[A]+24/22[A]",
+        "averageBallPossession": "50/50[H]+36/64[A]+48/52[H]+48/52[A]+64/36[H]+33/67[H]+66/34[A]+72/28[A]",
+        "teams": "Al-Ettifaq,Neom SC,Home+Al-Ettifaq,Al-Ittihad,Away+Al-Ettifaq,Al-Khaleej,Home+Al-Ettifaq,Al-Najma,Away+Al-Ettifaq,Al-Okhdood,Home+Al-Ettifaq,Al-Nassr,Home+Al-Ettifaq,Al-Riyadh,Away+Al-Ettifaq,Al-Shabab,Away",
+        "tackles": "12/15[H]+16/7[A]+11/16[H]+13/18[A]+13/9[H]+18/13[H]+8/17[A]+14/12[A]",
+        "interceptions": "15/8[H]+14/8[A]+6/9[H]+8/10[A]+4/8[H]+12/6[H]+6/14[A]+5/1[A]",
+        "aerialDuels": "7/9[H]+13/8[A]+10/12[H]+7/5[A]+5/10[H]+13/9[H]+8/6[A]+15/11[A]",
+        "aerialDuelsAttempted": "16/16[H]+21/21[A]+22/22[H]+12/12[A]+15/15[H]+22/22[H]+14/14[A]+26/26[A]",
+        "dribbles": "8/6[H]+4/10[A]+6/11[H]+5/7[A]+11/5[H]+6/13[H]+8/8[A]+4/5[A]",
+        "dribblesAttempted": "15/12[H]+7/15[A]+18/19[H]+16/14[A]+14/15[H]+14/29[H]+19/13[A]+11/14[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "32/47",
+        "cornersTotalsHome": "16/30",
+        "cornersTotalsAway": "16/17",
+        "cornersAverage": "4.00/5.88",
+        "cornersAverageHome": "4.00/7.50",
+        "cornersAverageAway": "4.00/4.25",
+        "foulsTotals": "86/82",
+        "foulsTotalsHome": "46/40",
+        "foulsTotalsAway": "40/42",
+        "foulsAverage": "10.75/10.25",
+        "foulsAverageHome": "11.50/10.00",
+        "foulsAverageAway": "10.00/10.50",
+        "goalKicksTotals": "68/51",
+        "goalKicksTotalsHome": "40/28",
+        "goalKicksTotalsAway": "28/23",
+        "goalKicksAverage": "8.50/6.38",
+        "goalKicksAverageHome": "10.00/7.00",
+        "goalKicksAverageAway": "7.00/5.75",
+        "savesTotals": "27/30",
+        "savesTotalsHome": "17/14",
+        "savesTotalsAway": "10/16",
+        "savesAverage": "3.38/3.75",
+        "savesAverageHome": "4.25/3.50",
+        "savesAverageAway": "2.50/4.00",
+        "offsidesTotals": "18/22",
+        "offsidesTotalsHome": "10/12",
+        "offsidesTotalsAway": "8/10",
+        "offsidesAverage": "2.25/2.75",
+        "offsidesAverageHome": "2.50/3.00",
+        "offsidesAverageAway": "2.00/2.50",
+        "shotsOnTargetTotals": "42/33",
+        "shotsOnTargetTotalsHome": "19/19",
+        "shotsOnTargetTotalsAway": "23/14",
+        "shotsOnTargetAverage": "5.25/4.13",
+        "shotsOnTargetAverageHome": "4.75/4.75",
+        "shotsOnTargetAverageAway": "5.75/3.50",
+        "yellowCardsTotals": "16/12",
+        "yellowCardsTotalsHome": "8/4",
+        "yellowCardsTotalsAway": "8/8",
+        "yellowCardsAverage": "2.00/1.50",
+        "yellowCardsAverageHome": "2.00/1.00",
+        "yellowCardsAverageAway": "2.00/2.00",
+        "goalsTotals": "13/8",
+        "goalsTotalsHome": "5/4",
+        "goalsTotalsAway": "8/4",
+        "goalsAverage": "1.63/1.00",
+        "goalsAverageHome": "1.25/1.00",
+        "goalsAverageAway": "2.00/1.00",
+        "throwInsTotals": "123/127",
+        "throwInsTotalsHome": "50/58",
+        "throwInsTotalsAway": "73/69",
+        "throwInsAverage": "15.38/15.88",
+        "throwInsAverageHome": "12.50/14.50",
+        "throwInsAverageAway": "18.25/17.25",
+        "averageBallPossessionTotals": "417/383",
+        "averageBallPossessionTotalsHome": "195/205",
+        "averageBallPossessionTotalsAway": "222/178",
+        "averageBallPossessionAverage": "52.13/47.88",
+        "averageBallPossessionAverageHome": "48.75/51.25",
+        "averageBallPossessionAverageAway": "55.50/44.50",
+        "tacklesTotals": "105/107",
+        "tacklesTotalsHome": "54/53",
+        "tacklesTotalsAway": "51/54",
+        "tacklesAverage": "13.13/13.38",
+        "tacklesAverageHome": "13.50/13.25",
+        "tacklesAverageAway": "12.75/13.50",
+        "interceptionsTotals": "70/64",
+        "interceptionsTotalsHome": "37/31",
+        "interceptionsTotalsAway": "33/33",
+        "interceptionsAverage": "8.75/8.00",
+        "interceptionsAverageHome": "9.25/7.75",
+        "interceptionsAverageAway": "8.25/8.25",
+        "aerialDuelsTotals": "78/70",
+        "aerialDuelsTotalsHome": "35/40",
+        "aerialDuelsTotalsAway": "43/30",
+        "aerialDuelsAverage": "9.75/8.75",
+        "aerialDuelsAverageHome": "8.75/10.00",
+        "aerialDuelsAverageAway": "10.75/7.50",
+        "aerialDuelsAttemptedTotals": "148/148",
+        "aerialDuelsAttemptedTotalsHome": "75/75",
+        "aerialDuelsAttemptedTotalsAway": "73/73",
+        "aerialDuelsAttemptedAverage": "18.50/18.50",
+        "aerialDuelsAttemptedAverageHome": "18.75/18.75",
+        "aerialDuelsAttemptedAverageAway": "18.25/18.25",
+        "dribblesTotals": "52/65",
+        "dribblesTotalsHome": "31/35",
+        "dribblesTotalsAway": "21/30",
+        "dribblesAverage": "6.50/8.13",
+        "dribblesAverageHome": "7.75/8.75",
+        "dribblesAverageAway": "5.25/7.50",
+        "dribblesAttemptedTotals": "114/131",
+        "dribblesAttemptedTotalsHome": "61/75",
+        "dribblesAttemptedTotalsAway": "53/56",
+        "dribblesAttemptedAverage": "14.25/16.38",
+        "dribblesAttemptedAverageHome": "15.25/18.75",
+        "dribblesAttemptedAverageAway": "13.25/14.00"
     }
 }

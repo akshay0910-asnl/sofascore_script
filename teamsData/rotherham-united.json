@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.52",
+        "fouls": "13.04",
+        "goalKicks": "7.84",
+        "saves": "3.28",
+        "offsides": "1.84",
+        "shotsOnTarget": "2.96/4.92",
+        "yellowCards": "2.16/2.20",
+        "goals": "0.96/1.52",
+        "throwIns": "24.68",
+        "ballPossession": 43.8,
+        "tackles": "15.80/15.80",
+        "interceptions": "8.68/8.28",
+        "aerialDuels": "20.28",
+        "aerialDuelsAttempted": "45.36",
+        "dribbles": "5.56/6.20",
+        "dribblesAttempted": "13.28/13.04"
+    },
+    "teamSlug": "rotherham-united",
+    "teamId": "13",
+    "teamName": "Rotherham United",
+    "tournament": "League One",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/rotherham-united-stockport-county/ksn#id:14061115,tab:statistics",
+            "teams": [
+                "Stockport County",
+                "Rotherham"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "10",
+                "13"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/peterborough-united-rotherham-united/nseb#id:14061732,tab:statistics",
+            "teams": [
+                "Rotherham",
+                "Peterborough Utd"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "13",
+                "54"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/blackpool-rotherham-united/nsrb#id:14061667,tab:statistics",
+            "teams": [
+                "Blackpool",
+                "Rotherham"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "67",
+                "13"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rotherham-united-bolton-wanderers/fsn#id:14061609,tab:statistics",
+            "teams": [
+                "Bolton",
+                "Rotherham"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "5",
+                "13"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/huddersfield-town-rotherham-united/nsjb#id:14061573,tab:statistics",
+            "teams": [
+                "Rotherham",
+                "Huddersfield"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "13",
+                "59"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/plymouth-argyle-rotherham-united/nswb#id:14061522,tab:statistics",
+            "teams": [
+                "Plymouth",
+                "Rotherham"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "71",
+                "13"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/blackpool-rotherham-united/nsrb#id:14061435,tab:statistics",
+            "teams": [
+                "Rotherham",
+                "Blackpool"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "13",
+                "67"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wycombe-wanderers-rotherham-united/nsmb#id:14061375,tab:statistics",
+            "teams": [
+                "Rotherham",
+                "Wycombe"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "13",
+                "62"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/2[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "2/3[A]",
+            "throwIns": "18/39[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Rotherham,Stockport County,Away",
+            "tackles": "18/17[A]",
+            "interceptions": "19/11[A]",
+            "aerialDuels": "21/29[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "4/10[A]",
+            "dribblesAttempted": "10/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "21/10[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "5/3[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "19/25[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Rotherham,Peterborough Utd,Home",
+            "tackles": "25/15[H]",
+            "interceptions": "18/6[H]",
+            "aerialDuels": "17/20[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "14/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "6/3[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/6[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/4[A]",
+            "throwIns": "20/18[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Rotherham,Blackpool,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "13/21[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "15/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/9[A]",
+            "fouls": "13/5[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "8/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/12[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/20[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Rotherham,Bolton,Away",
+            "tackles": "19/22[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "28/16[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "16/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/0[H]",
+            "offsides": "3/7[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "25/25[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Rotherham,Huddersfield,Home",
+            "tackles": "13/21[H]",
+            "interceptions": "6/11[H]",
+            "aerialDuels": "17/30[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "8/2[H]",
+            "dribblesAttempted": "21/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/1[A]",
+            "fouls": "11/8[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "43/27[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Rotherham,Plymouth,Away",
+            "tackles": "9/18[A]",
+            "interceptions": "13/14[A]",
+            "aerialDuels": "23/41[A]",
+            "aerialDuelsAttempted": "64/64[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "19/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/3[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "5/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/3[H]",
+            "throwIns": "29/15[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Rotherham,Blackpool,Home",
+            "tackles": "12/20[H]",
+            "interceptions": "5/9[H]",
+            "aerialDuels": "20/26[H]",
+            "aerialDuelsAttempted": "46/46[H]",
+            "dribbles": "6/0[H]",
+            "dribblesAttempted": "18/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "4/5[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "38/19[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Rotherham,Wycombe,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "9/14[H]",
+            "aerialDuels": "15/23[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:15:15.686Z",
+    "endTime": "2026-01-24T14:16:03.706Z",
+    "totalTimeSeconds": 48.02,
+    "combinedMatchStatistics": {
+        "corners": "4/2[A]+5/5[H]+3/6[A]+0/9[A]+5/4[H]+12/1[A]+10/3[H]+6/5[H]",
+        "fouls": "14/15[A]+21/10[H]+14/11[A]+13/5[A]+15/13[H]+11/8[A]+12/16[H]+10/10[H]",
+        "goalKicks": "8/5[A]+5/6[H]+6/3[A]+7/8[A]+5/8[H]+6/9[A]+6/13[H]+4/9[H]",
+        "saves": "2/2[A]+5/3[H]+2/4[A]+8/4[A]+3/0[H]+1/1[A]+5/4[H]+4/5[H]",
+        "offsides": "2/1[A]+5/1[H]+2/6[A]+1/1[A]+3/7[H]+1/3[A]+2/1[H]+4/0[H]",
+        "shotsOnTarget": "3/5[A]+3/7[H]+4/6[A]+5/12[A]+1/6[H]+2/2[A]+4/8[H]+6/5[H]",
+        "yellowCards": "3/3[A]+5/1[H]+2/1[A]+2/1[A]+2/1[H]+2/3[A]+1/3[H]+3/2[H]",
+        "goals": "2/3[A]+0/2[H]+0/4[A]+1/2[A]+1/3[H]+0/1[A]+0/3[H]+1/1[H]",
+        "throwIns": "18/39[A]+19/25[H]+20/18[A]+18/20[A]+25/25[H]+43/27[A]+29/15[H]+38/19[H]",
+        "averageBallPossession": "36/64[A]+36/64[H]+40/60[A]+34/66[A]+58/42[H]+52/48[A]+58/42[H]+48/52[H]",
+        "teams": "Rotherham,Stockport County,Away+Rotherham,Peterborough Utd,Home+Rotherham,Blackpool,Away+Rotherham,Bolton,Away+Rotherham,Huddersfield,Home+Rotherham,Plymouth,Away+Rotherham,Blackpool,Home+Rotherham,Wycombe,Home",
+        "tackles": "18/17[A]+25/15[H]+15/14[A]+19/22[A]+13/21[H]+9/18[A]+12/20[H]+14/13[H]",
+        "interceptions": "19/11[A]+18/6[H]+7/10[A]+8/7[A]+6/11[H]+13/14[A]+5/9[H]+9/14[H]",
+        "aerialDuels": "21/29[A]+17/20[H]+13/21[A]+28/16[A]+17/30[H]+23/41[A]+20/26[H]+15/23[H]",
+        "aerialDuelsAttempted": "50/50[A]+37/37[H]+34/34[A]+44/44[A]+47/47[H]+64/64[A]+46/46[H]+38/38[H]",
+        "dribbles": "4/10[A]+6/6[H]+9/7[A]+8/7[A]+8/2[H]+8/6[A]+6/0[H]+4/5[H]",
+        "dribblesAttempted": "10/18[A]+14/16[H]+15/15[A]+16/18[A]+21/7[H]+19/11[A]+18/5[H]+10/10[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "45/35",
+        "cornersTotalsHome": "26/17",
+        "cornersTotalsAway": "19/18",
+        "cornersAverage": "5.63/4.38",
+        "cornersAverageHome": "6.50/4.25",
+        "cornersAverageAway": "4.75/4.50",
+        "foulsTotals": "110/88",
+        "foulsTotalsHome": "58/49",
+        "foulsTotalsAway": "52/39",
+        "foulsAverage": "13.75/11.00",
+        "foulsAverageHome": "14.50/12.25",
+        "foulsAverageAway": "13.00/9.75",
+        "goalKicksTotals": "47/61",
+        "goalKicksTotalsHome": "20/36",
+        "goalKicksTotalsAway": "27/25",
+        "goalKicksAverage": "5.88/7.63",
+        "goalKicksAverageHome": "5.00/9.00",
+        "goalKicksAverageAway": "6.75/6.25",
+        "savesTotals": "30/23",
+        "savesTotalsHome": "17/12",
+        "savesTotalsAway": "13/11",
+        "savesAverage": "3.75/2.88",
+        "savesAverageHome": "4.25/3.00",
+        "savesAverageAway": "3.25/2.75",
+        "offsidesTotals": "20/20",
+        "offsidesTotalsHome": "14/9",
+        "offsidesTotalsAway": "6/11",
+        "offsidesAverage": "2.50/2.50",
+        "offsidesAverageHome": "3.50/2.25",
+        "offsidesAverageAway": "1.50/2.75",
+        "shotsOnTargetTotals": "28/51",
+        "shotsOnTargetTotalsHome": "14/26",
+        "shotsOnTargetTotalsAway": "14/25",
+        "shotsOnTargetAverage": "3.50/6.38",
+        "shotsOnTargetAverageHome": "3.50/6.50",
+        "shotsOnTargetAverageAway": "3.50/6.25",
+        "yellowCardsTotals": "20/15",
+        "yellowCardsTotalsHome": "11/7",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "2.50/1.88",
+        "yellowCardsAverageHome": "2.75/1.75",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "5/19",
+        "goalsTotalsHome": "2/9",
+        "goalsTotalsAway": "3/10",
+        "goalsAverage": "0.63/2.38",
+        "goalsAverageHome": "0.50/2.25",
+        "goalsAverageAway": "0.75/2.50",
+        "throwInsTotals": "210/188",
+        "throwInsTotalsHome": "111/84",
+        "throwInsTotalsAway": "99/104",
+        "throwInsAverage": "26.25/23.50",
+        "throwInsAverageHome": "27.75/21.00",
+        "throwInsAverageAway": "24.75/26.00",
+        "averageBallPossessionTotals": "362/438",
+        "averageBallPossessionTotalsHome": "200/200",
+        "averageBallPossessionTotalsAway": "162/238",
+        "averageBallPossessionAverage": "45.25/54.75",
+        "averageBallPossessionAverageHome": "50.00/50.00",
+        "averageBallPossessionAverageAway": "40.50/59.50",
+        "tacklesTotals": "125/140",
+        "tacklesTotalsHome": "64/69",
+        "tacklesTotalsAway": "61/71",
+        "tacklesAverage": "15.63/17.50",
+        "tacklesAverageHome": "16.00/17.25",
+        "tacklesAverageAway": "15.25/17.75",
+        "interceptionsTotals": "85/82",
+        "interceptionsTotalsHome": "38/40",
+        "interceptionsTotalsAway": "47/42",
+        "interceptionsAverage": "10.63/10.25",
+        "interceptionsAverageHome": "9.50/10.00",
+        "interceptionsAverageAway": "11.75/10.50",
+        "aerialDuelsTotals": "154/206",
+        "aerialDuelsTotalsHome": "69/99",
+        "aerialDuelsTotalsAway": "85/107",
+        "aerialDuelsAverage": "19.25/25.75",
+        "aerialDuelsAverageHome": "17.25/24.75",
+        "aerialDuelsAverageAway": "21.25/26.75",
+        "aerialDuelsAttemptedTotals": "360/360",
+        "aerialDuelsAttemptedTotalsHome": "168/168",
+        "aerialDuelsAttemptedTotalsAway": "192/192",
+        "aerialDuelsAttemptedAverage": "45.00/45.00",
+        "aerialDuelsAttemptedAverageHome": "42.00/42.00",
+        "aerialDuelsAttemptedAverageAway": "48.00/48.00",
+        "dribblesTotals": "53/43",
+        "dribblesTotalsHome": "24/13",
+        "dribblesTotalsAway": "29/30",
+        "dribblesAverage": "6.63/5.38",
+        "dribblesAverageHome": "6.00/3.25",
+        "dribblesAverageAway": "7.25/7.50",
+        "dribblesAttemptedTotals": "123/100",
+        "dribblesAttemptedTotalsHome": "63/38",
+        "dribblesAttemptedTotalsAway": "60/62",
+        "dribblesAttemptedAverage": "15.38/12.50",
+        "dribblesAttemptedAverageHome": "15.75/9.50",
+        "dribblesAttemptedAverageAway": "15.00/15.50"
+    }
+}

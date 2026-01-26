@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.64",
+        "fouls": "12.84",
+        "goalKicks": "8.00",
+        "saves": "1.92",
+        "offsides": "2.04",
+        "shotsOnTarget": "3.08/3.08",
+        "yellowCards": "2.20/1.36",
+        "goals": "1.08/0.92",
+        "throwIns": "29.32",
+        "ballPossession": 43.48,
+        "tackles": "15.20/15.44",
+        "interceptions": "6.56/8.04",
+        "aerialDuels": "28.48",
+        "aerialDuelsAttempted": "53.12",
+        "dribbles": "4.72/4.88",
+        "dribblesAttempted": "9.84/12.12"
+    },
+    "teamSlug": "stevenage",
+    "teamId": "133",
+    "teamName": "Stevenage",
+    "tournament": "League One",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/stevenage-bolton-wanderers/fsIc#id:15122933,tab:statistics",
+            "teams": [
+                "Stevenage",
+                "Bolton"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "133",
+                "5"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stevenage-exeter-city/LbsIc#id:14061085,tab:statistics",
+            "teams": [
+                "Exeter",
+                "Stevenage"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "86",
+                "133"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stevenage-luton-town/xbsIc#id:14061023,tab:statistics",
+            "teams": [
+                "Luton",
+                "Stevenage"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "72",
+                "133"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stevenage-plymouth-argyle/wbsIc#id:14061734,tab:statistics",
+            "teams": [
+                "Stevenage",
+                "Plymouth"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "133",
+                "71"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stevenage-cardiff-city/lbsIc#id:14061686,tab:statistics",
+            "teams": [
+                "Cardiff",
+                "Stevenage"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "61",
+                "133"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-wimbledon-stevenage/IcshEj#id:14061593,tab:statistics",
+            "teams": [
+                "Wimbledon",
+                "Stevenage"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "23957",
+                "133"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/burton-albion-stevenage/IcsJc#id:14061578,tab:statistics",
+            "teams": [
+                "Stevenage",
+                "Burton"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "133",
+                "134"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stevenage-cardiff-city/lbsIc#id:14061441,tab:statistics",
+            "teams": [
+                "Stevenage",
+                "Cardiff"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "133",
+                "61"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/4[H]",
+            "fouls": "18/12[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "35/29[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Stevenage,Bolton,Home",
+            "tackles": "19/10[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "18/30[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "1/5[H]",
+            "dribblesAttempted": "3/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/1[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "11/6[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "44/26[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Stevenage,Exeter,Away",
+            "tackles": "12/18[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "13/23[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "16/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "12/8[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "5/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "36/23[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Stevenage,Luton,Away",
+            "tackles": "29/13[A]",
+            "interceptions": "9/19[A]",
+            "aerialDuels": "27/37[A]",
+            "aerialDuelsAttempted": "64/64[A]",
+            "dribbles": "10/8[A]",
+            "dribblesAttempted": "14/26[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "18/11[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "1/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "42/42[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Stevenage,Plymouth,Home",
+            "tackles": "8/18[H]",
+            "interceptions": "9/5[H]",
+            "aerialDuels": "21/36[H]",
+            "aerialDuelsAttempted": "57/57[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "7/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "13/3[A]",
+            "saves": "2/0[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "19/24[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "Stevenage,Cardiff,Away",
+            "tackles": "18/14[A]",
+            "interceptions": "1/7[A]",
+            "aerialDuels": "20/19[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "1/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "1/1[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "32/34[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Stevenage,Wimbledon,Away",
+            "tackles": "16/17[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "38/23[A]",
+            "aerialDuelsAttempted": "61/61[A]",
+            "dribbles": "2/4[A]",
+            "dribblesAttempted": "6/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "6/14[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "40/38[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Stevenage,Burton,Home",
+            "tackles": "9/28[H]",
+            "interceptions": "10/13[H]",
+            "aerialDuels": "34/30[H]",
+            "aerialDuelsAttempted": "64/64[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "18/12[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "0/2[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "20/23[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Stevenage,Cardiff,Home",
+            "tackles": "16/7[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "20/25[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "1/5[H]",
+            "dribblesAttempted": "3/10[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:16:49.302Z",
+    "endTime": "2026-01-24T14:17:35.999Z",
+    "totalTimeSeconds": 46.7,
+    "combinedMatchStatistics": {
+        "corners": "6/4[H]+4/1[A]+7/3[A]+5/5[H]+4/6[A]+8/2[A]+5/2[H]+4/6[H]",
+        "fouls": "18/12[H]+10/13[A]+12/8[A]+18/11[H]+10/11[A]+11/13[A]+6/14[H]+18/12[H]",
+        "goalKicks": "5/11[H]+11/6[A]+6/8[A]+7/10[H]+13/3[A]+5/8[A]+6/9[H]+9/9[H]",
+        "saves": "3/2[H]+1/3[A]+5/2[A]+1/2[H]+2/0[A]+1/1[A]+2/3[H]+1/1[H]",
+        "offsides": "2/0[H]+1/0[A]+2/1[A]+0/1[H]+1/1[A]+3/1[A]+1/1[H]+2/2[H]",
+        "shotsOnTarget": "3/4[H]+3/5[A]+3/7[A]+3/2[H]+1/4[A]+1/1[A]+4/4[H]+0/2[H]",
+        "yellowCards": "0/1[H]+2/2[A]+2/1[A]+2/1[H]+2/1[A]+3/1[A]+1/1[H]+4/1[H]",
+        "goals": "0/0[H]+0/3[A]+1/2[A]+1/1[H]+1/2[A]+0/0[A]+2/2[H]+0/1[H]",
+        "throwIns": "35/29[H]+44/26[A]+36/23[A]+42/42[H]+19/24[A]+32/34[A]+40/38[H]+20/23[H]",
+        "averageBallPossession": "33/67[H]+49/51[A]+43/57[A]+56/44[H]+30/70[A]+46/54[A]+60/40[H]+33/67[H]",
+        "teams": "Stevenage,Bolton,Home+Stevenage,Exeter,Away+Stevenage,Luton,Away+Stevenage,Plymouth,Home+Stevenage,Cardiff,Away+Stevenage,Wimbledon,Away+Stevenage,Burton,Home+Stevenage,Cardiff,Home",
+        "tackles": "19/10[H]+12/18[A]+29/13[A]+8/18[H]+18/14[A]+16/17[A]+9/28[H]+16/7[H]",
+        "interceptions": "6/7[H]+5/8[A]+9/19[A]+9/5[H]+1/7[A]+6/7[A]+10/13[H]+5/8[H]",
+        "aerialDuels": "18/30[H]+13/23[A]+27/37[A]+21/36[H]+20/19[A]+38/23[A]+34/30[H]+20/25[H]",
+        "aerialDuelsAttempted": "48/48[H]+36/36[A]+64/64[A]+57/57[H]+39/39[A]+61/61[A]+64/64[H]+45/45[H]",
+        "dribbles": "1/5[H]+7/4[A]+10/8[A]+3/4[H]+5/7[A]+2/4[A]+5/5[H]+1/5[H]",
+        "dribblesAttempted": "3/16[H]+16/11[A]+14/26[A]+7/8[H]+12/16[A]+6/11[A]+13/10[H]+3/10[H]",
+        "isHome": "true+false+false+true+false+false+true+true",
+        "cornersTotals": "43/29",
+        "cornersTotalsHome": "20/17",
+        "cornersTotalsAway": "23/12",
+        "cornersAverage": "5.38/3.63",
+        "cornersAverageHome": "5.00/4.25",
+        "cornersAverageAway": "5.75/3.00",
+        "foulsTotals": "103/94",
+        "foulsTotalsHome": "60/49",
+        "foulsTotalsAway": "43/45",
+        "foulsAverage": "12.88/11.75",
+        "foulsAverageHome": "15.00/12.25",
+        "foulsAverageAway": "10.75/11.25",
+        "goalKicksTotals": "62/64",
+        "goalKicksTotalsHome": "27/39",
+        "goalKicksTotalsAway": "35/25",
+        "goalKicksAverage": "7.75/8.00",
+        "goalKicksAverageHome": "6.75/9.75",
+        "goalKicksAverageAway": "8.75/6.25",
+        "savesTotals": "16/14",
+        "savesTotalsHome": "7/8",
+        "savesTotalsAway": "9/6",
+        "savesAverage": "2.00/1.75",
+        "savesAverageHome": "1.75/2.00",
+        "savesAverageAway": "2.25/1.50",
+        "offsidesTotals": "12/7",
+        "offsidesTotalsHome": "5/4",
+        "offsidesTotalsAway": "7/3",
+        "offsidesAverage": "1.50/0.88",
+        "offsidesAverageHome": "1.25/1.00",
+        "offsidesAverageAway": "1.75/0.75",
+        "shotsOnTargetTotals": "18/29",
+        "shotsOnTargetTotalsHome": "10/12",
+        "shotsOnTargetTotalsAway": "8/17",
+        "shotsOnTargetAverage": "2.25/3.63",
+        "shotsOnTargetAverageHome": "2.50/3.00",
+        "shotsOnTargetAverageAway": "2.00/4.25",
+        "yellowCardsTotals": "16/9",
+        "yellowCardsTotalsHome": "7/4",
+        "yellowCardsTotalsAway": "9/5",
+        "yellowCardsAverage": "2.00/1.13",
+        "yellowCardsAverageHome": "1.75/1.00",
+        "yellowCardsAverageAway": "2.25/1.25",
+        "goalsTotals": "5/11",
+        "goalsTotalsHome": "3/4",
+        "goalsTotalsAway": "2/7",
+        "goalsAverage": "0.63/1.38",
+        "goalsAverageHome": "0.75/1.00",
+        "goalsAverageAway": "0.50/1.75",
+        "throwInsTotals": "268/239",
+        "throwInsTotalsHome": "137/132",
+        "throwInsTotalsAway": "131/107",
+        "throwInsAverage": "33.50/29.88",
+        "throwInsAverageHome": "34.25/33.00",
+        "throwInsAverageAway": "32.75/26.75",
+        "averageBallPossessionTotals": "350/450",
+        "averageBallPossessionTotalsHome": "182/218",
+        "averageBallPossessionTotalsAway": "168/232",
+        "averageBallPossessionAverage": "43.75/56.25",
+        "averageBallPossessionAverageHome": "45.50/54.50",
+        "averageBallPossessionAverageAway": "42.00/58.00",
+        "tacklesTotals": "127/125",
+        "tacklesTotalsHome": "52/63",
+        "tacklesTotalsAway": "75/62",
+        "tacklesAverage": "15.88/15.63",
+        "tacklesAverageHome": "13.00/15.75",
+        "tacklesAverageAway": "18.75/15.50",
+        "interceptionsTotals": "51/74",
+        "interceptionsTotalsHome": "30/33",
+        "interceptionsTotalsAway": "21/41",
+        "interceptionsAverage": "6.38/9.25",
+        "interceptionsAverageHome": "7.50/8.25",
+        "interceptionsAverageAway": "5.25/10.25",
+        "aerialDuelsTotals": "191/223",
+        "aerialDuelsTotalsHome": "93/121",
+        "aerialDuelsTotalsAway": "98/102",
+        "aerialDuelsAverage": "23.88/27.88",
+        "aerialDuelsAverageHome": "23.25/30.25",
+        "aerialDuelsAverageAway": "24.50/25.50",
+        "aerialDuelsAttemptedTotals": "414/414",
+        "aerialDuelsAttemptedTotalsHome": "214/214",
+        "aerialDuelsAttemptedTotalsAway": "200/200",
+        "aerialDuelsAttemptedAverage": "51.75/51.75",
+        "aerialDuelsAttemptedAverageHome": "53.50/53.50",
+        "aerialDuelsAttemptedAverageAway": "50.00/50.00",
+        "dribblesTotals": "34/42",
+        "dribblesTotalsHome": "10/19",
+        "dribblesTotalsAway": "24/23",
+        "dribblesAverage": "4.25/5.25",
+        "dribblesAverageHome": "2.50/4.75",
+        "dribblesAverageAway": "6.00/5.75",
+        "dribblesAttemptedTotals": "74/108",
+        "dribblesAttemptedTotalsHome": "26/44",
+        "dribblesAttemptedTotalsAway": "48/64",
+        "dribblesAttemptedAverage": "9.25/13.50",
+        "dribblesAttemptedAverageHome": "6.50/11.00",
+        "dribblesAttemptedAverageAway": "12.00/16.00"
+    }
+}

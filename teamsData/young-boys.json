@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.05",
+        "fouls": "11.62",
+        "goalKicks": "7.14",
+        "saves": "2.86",
+        "offsides": "1.52",
+        "shotsOnTarget": "5.14/5.00",
+        "yellowCards": "1.43/2.00",
+        "goals": "1.90/2.14",
+        "throwIns": "20.62",
+        "ballPossession": 54.142857142857,
+        "tackles": "16.14/16.62",
+        "interceptions": "9.43/7.90",
+        "aerialDuels": "16.33",
+        "aerialDuelsAttempted": "28.86",
+        "dribbles": "8.86/5.86",
+        "dribblesAttempted": "16.62/12.57"
+    },
+    "teamSlug": "young-boys",
+    "teamId": "2445",
+    "teamName": "Young Boys",
+    "tournament": "Swiss Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-thun-young-boys/VYseZ#id:14038842,tab:statistics",
+            "teams": [
+                "Thun",
+                "Young Boys"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "2454",
+                "2445"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-lausanne-sport-young-boys/VYsWY#id:14038831,tab:statistics",
+            "teams": [
+                "Young Boys",
+                "Lausanne"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2445",
+                "2446"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/young-boys-fc-lugano/TYsVY#id:14038826,tab:statistics",
+            "teams": [
+                "Lugano",
+                "Young Boys"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2443",
+                "2445"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/grasshopper-club-zurich-young-boys/VYsZY#id:14038818,tab:statistics",
+            "teams": [
+                "Young Boys",
+                "Grasshoppers"
+            ],
+            "goals": [
+                "2",
+                "6"
+            ],
+            "teamIds": [
+                "2445",
+                "2449"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-luzern-young-boys/VYsdZ#id:14038813,tab:statistics",
+            "teams": [
+                "Young Boys",
+                "Luzern"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2445",
+                "2453"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-sion-young-boys/VYscZ#id:14038808,tab:statistics",
+            "teams": [
+                "Sion",
+                "Young Boys"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2452",
+                "2445"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/servette-fc-young-boys/VYsYY#id:14038800,tab:statistics",
+            "teams": [
+                "Servette",
+                "Young Boys"
+            ],
+            "goals": [
+                "4",
+                "4"
+            ],
+            "teamIds": [
+                "2448",
+                "2445"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-winterthur-young-boys/VYsiZ#id:14038793,tab:statistics",
+            "teams": [
+                "Young Boys",
+                "Winterthur"
+            ],
+            "goals": [
+                "5",
+                "0"
+            ],
+            "teamIds": [
+                "2445",
+                "2458"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/4[A]",
+            "fouls": "15/15[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "3/6[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "7/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/4[A]",
+            "throwIns": "13/13[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Young Boys,Thun,Away",
+            "tackles": "14/17[A]",
+            "interceptions": "13/10[A]",
+            "aerialDuels": "24/11[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "10/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/1[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "11/6[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "22/23[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Young Boys,Lausanne,Home",
+            "tackles": "23/13[H]",
+            "interceptions": "13/5[H]",
+            "aerialDuels": "16/18[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "6/12[H]",
+            "dribblesAttempted": "10/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "10/8[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/3[A]",
+            "throwIns": "23/18[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Young Boys,Lugano,Away",
+            "tackles": "14/9[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "6/12[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "4/1[H]",
+            "offsides": "4/5[H]",
+            "shotsOnTarget": "3/10[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/6[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Young Boys,Grasshoppers,Home",
+            "tackles": "12/12[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "25/22[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "15/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "5/12[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/5[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "8/20[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Young Boys,Luzern,Home",
+            "tackles": "13/17[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "16/10[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "12/13[H]",
+            "dribblesAttempted": "18/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "5/5[A]",
+            "saves": "3/9[A]",
+            "offsides": "4/5[A]",
+            "shotsOnTarget": "9/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "24/12[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Young Boys,Sion,Away",
+            "tackles": "14/19[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "17/12[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "12/11[A]",
+            "dribblesAttempted": "23/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "4/4[A]",
+            "throwIns": "13/23[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "Young Boys,Servette,Away",
+            "tackles": "18/21[A]",
+            "interceptions": "16/10[A]",
+            "aerialDuels": "22/17[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "8/3[A]",
+            "dribblesAttempted": "22/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "4/5[H]",
+            "saves": "0/5[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "10/0[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "5/0[H]",
+            "throwIns": "17/11[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Young Boys,Winterthur,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "7/6[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "14/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-25T16:22:56.261Z",
+    "endTime": "2026-01-25T16:23:21.803Z",
+    "totalTimeSeconds": 25.54,
+    "combinedMatchStatistics": {
+        "corners": "6/4[A]+5/1[H]+5/2[A]+7/1[H]+3/4[H]+3/7[A]+3/4[A]+8/1[H]",
+        "fouls": "15/15[A]+15/12[H]+10/8[A]+6/12[H]+5/12[H]+11/14[A]+9/10[A]+10/11[H]",
+        "goalKicks": "7/9[A]+11/6[H]+4/5[A]+7/7[H]+7/10[H]+5/5[A]+7/7[A]+4/5[H]",
+        "saves": "3/6[A]+2/3[H]+1/1[A]+4/1[H]+2/3[H]+3/9[A]+1/1[A]+0/5[H]",
+        "offsides": "1/3[A]+2/2[H]+1/2[A]+4/5[H]+0/5[H]+4/5[A]+1/2[A]+4/3[H]",
+        "shotsOnTarget": "7/7[A]+4/5[H]+1/4[A]+3/10[H]+7/2[H]+9/5[A]+5/5[A]+10/0[H]",
+        "yellowCards": "1/2[A]+1/2[H]+2/3[A]+0/1[H]+0/1[H]+3/1[A]+1/1[A]+0/1[H]",
+        "goals": "1/4[A]+1/3[H]+0/3[A]+2/6[H]+2/0[H]+0/2[A]+4/4[A]+5/0[H]",
+        "throwIns": "13/13[A]+22/23[H]+23/18[A]+17/25[H]+8/20[H]+24/12[A]+13/23[A]+17/11[H]",
+        "averageBallPossession": "61/39[A]+43/57[H]+43/57[A]+59/41[H]+62/38[H]+55/45[A]+66/34[A]+60/40[H]",
+        "teams": "Young Boys,Thun,Away+Young Boys,Lausanne,Home+Young Boys,Lugano,Away+Young Boys,Grasshoppers,Home+Young Boys,Luzern,Home+Young Boys,Sion,Away+Young Boys,Servette,Away+Young Boys,Winterthur,Home",
+        "tackles": "14/17[A]+23/13[H]+14/9[A]+12/12[H]+13/17[H]+14/19[A]+18/21[A]+16/16[H]",
+        "interceptions": "13/10[A]+13/5[H]+8/11[A]+10/7[H]+10/7[H]+6/9[A]+16/10[A]+8/11[H]",
+        "aerialDuels": "24/11[A]+16/18[H]+12/9[A]+25/22[H]+16/10[H]+17/12[A]+22/17[A]+7/6[H]",
+        "aerialDuelsAttempted": "35/35[A]+34/34[H]+21/21[A]+47/47[H]+26/26[H]+29/29[A]+39/39[A]+13/13[H]",
+        "dribbles": "6/2[A]+6/12[H]+5/4[A]+9/6[H]+12/13[H]+12/11[A]+8/3[A]+9/3[H]",
+        "dribblesAttempted": "10/9[A]+10/17[H]+10/10[A]+15/11[H]+18/15[H]+23/20[A]+22/12[A]+14/11[H]",
+        "isHome": "false+true+false+true+true+false+false+true",
+        "cornersTotals": "40/24",
+        "cornersTotalsHome": "23/7",
+        "cornersTotalsAway": "17/17",
+        "cornersAverage": "5.00/3.00",
+        "cornersAverageHome": "5.75/1.75",
+        "cornersAverageAway": "4.25/4.25",
+        "foulsTotals": "81/94",
+        "foulsTotalsHome": "36/47",
+        "foulsTotalsAway": "45/47",
+        "foulsAverage": "10.13/11.75",
+        "foulsAverageHome": "9.00/11.75",
+        "foulsAverageAway": "11.25/11.75",
+        "goalKicksTotals": "52/54",
+        "goalKicksTotalsHome": "29/28",
+        "goalKicksTotalsAway": "23/26",
+        "goalKicksAverage": "6.50/6.75",
+        "goalKicksAverageHome": "7.25/7.00",
+        "goalKicksAverageAway": "5.75/6.50",
+        "savesTotals": "16/29",
+        "savesTotalsHome": "8/12",
+        "savesTotalsAway": "8/17",
+        "savesAverage": "2.00/3.63",
+        "savesAverageHome": "2.00/3.00",
+        "savesAverageAway": "2.00/4.25",
+        "offsidesTotals": "17/27",
+        "offsidesTotalsHome": "10/15",
+        "offsidesTotalsAway": "7/12",
+        "offsidesAverage": "2.13/3.38",
+        "offsidesAverageHome": "2.50/3.75",
+        "offsidesAverageAway": "1.75/3.00",
+        "shotsOnTargetTotals": "46/38",
+        "shotsOnTargetTotalsHome": "24/17",
+        "shotsOnTargetTotalsAway": "22/21",
+        "shotsOnTargetAverage": "5.75/4.75",
+        "shotsOnTargetAverageHome": "6.00/4.25",
+        "shotsOnTargetAverageAway": "5.50/5.25",
+        "yellowCardsTotals": "8/12",
+        "yellowCardsTotalsHome": "1/5",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "1.00/1.50",
+        "yellowCardsAverageHome": "0.25/1.25",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "15/22",
+        "goalsTotalsHome": "10/9",
+        "goalsTotalsAway": "5/13",
+        "goalsAverage": "1.88/2.75",
+        "goalsAverageHome": "2.50/2.25",
+        "goalsAverageAway": "1.25/3.25",
+        "throwInsTotals": "137/145",
+        "throwInsTotalsHome": "64/79",
+        "throwInsTotalsAway": "73/66",
+        "throwInsAverage": "17.13/18.13",
+        "throwInsAverageHome": "16.00/19.75",
+        "throwInsAverageAway": "18.25/16.50",
+        "averageBallPossessionTotals": "449/351",
+        "averageBallPossessionTotalsHome": "224/176",
+        "averageBallPossessionTotalsAway": "225/175",
+        "averageBallPossessionAverage": "56.13/43.88",
+        "averageBallPossessionAverageHome": "56.00/44.00",
+        "averageBallPossessionAverageAway": "56.25/43.75",
+        "tacklesTotals": "124/124",
+        "tacklesTotalsHome": "64/58",
+        "tacklesTotalsAway": "60/66",
+        "tacklesAverage": "15.50/15.50",
+        "tacklesAverageHome": "16.00/14.50",
+        "tacklesAverageAway": "15.00/16.50",
+        "interceptionsTotals": "84/70",
+        "interceptionsTotalsHome": "41/30",
+        "interceptionsTotalsAway": "43/40",
+        "interceptionsAverage": "10.50/8.75",
+        "interceptionsAverageHome": "10.25/7.50",
+        "interceptionsAverageAway": "10.75/10.00",
+        "aerialDuelsTotals": "139/105",
+        "aerialDuelsTotalsHome": "64/56",
+        "aerialDuelsTotalsAway": "75/49",
+        "aerialDuelsAverage": "17.38/13.13",
+        "aerialDuelsAverageHome": "16.00/14.00",
+        "aerialDuelsAverageAway": "18.75/12.25",
+        "aerialDuelsAttemptedTotals": "244/244",
+        "aerialDuelsAttemptedTotalsHome": "120/120",
+        "aerialDuelsAttemptedTotalsAway": "124/124",
+        "aerialDuelsAttemptedAverage": "30.50/30.50",
+        "aerialDuelsAttemptedAverageHome": "30.00/30.00",
+        "aerialDuelsAttemptedAverageAway": "31.00/31.00",
+        "dribblesTotals": "67/54",
+        "dribblesTotalsHome": "36/34",
+        "dribblesTotalsAway": "31/20",
+        "dribblesAverage": "8.38/6.75",
+        "dribblesAverageHome": "9.00/8.50",
+        "dribblesAverageAway": "7.75/5.00",
+        "dribblesAttemptedTotals": "122/105",
+        "dribblesAttemptedTotalsHome": "57/54",
+        "dribblesAttemptedTotalsAway": "65/51",
+        "dribblesAttemptedAverage": "15.25/13.13",
+        "dribblesAttemptedAverageHome": "14.25/13.50",
+        "dribblesAttemptedAverageAway": "16.25/12.75"
+    }
+}

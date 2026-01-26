@@ -6,8 +6,8 @@
         "scope": "total",
         ">=11": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -16,15 +16,15 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         },
         ">=12": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -33,8 +33,8 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         }
@@ -43,9 +43,9 @@
         "scope": "total",
         ">=6": {
           "total": {
-            "hits": 6,
-            "totalMatches": 10,
-            "probability": 0.6
+            "hits": 3,
+            "totalMatches": 8,
+            "probability": 0.375
           },
           "home": {
             "hits": 1,
@@ -53,9 +53,9 @@
             "probability": 0.25
           },
           "away": {
-            "hits": 5,
-            "totalMatches": 6,
-            "probability": 0.8333
+            "hits": 2,
+            "totalMatches": 4,
+            "probability": 0.5
           }
         }
       },
@@ -63,9 +63,9 @@
         "scope": "total",
         ">=8": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
-            "probability": 1
+            "hits": 7,
+            "totalMatches": 8,
+            "probability": 0.875
           },
           "home": {
             "hits": 4,
@@ -73,16 +73,16 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
-            "probability": 1
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
           }
         },
         "<11": {
           "total": {
-            "hits": 1,
-            "totalMatches": 10,
-            "probability": 0.1
+            "hits": 2,
+            "totalMatches": 8,
+            "probability": 0.25
           },
           "home": {
             "hits": 1,
@@ -90,9 +90,9 @@
             "probability": 0.25
           },
           "away": {
-            "hits": 0,
-            "totalMatches": 6,
-            "probability": 0
+            "hits": 1,
+            "totalMatches": 4,
+            "probability": 0.25
           }
         }
       },
@@ -100,8 +100,8 @@
         "scope": "total",
         ">=18": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -110,26 +110,26 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         },
         "<24": {
           "total": {
-            "hits": 3,
-            "totalMatches": 10,
-            "probability": 0.3
+            "hits": 2,
+            "totalMatches": 8,
+            "probability": 0.25
           },
           "home": {
-            "hits": 0,
+            "hits": 1,
             "totalMatches": 4,
-            "probability": 0
+            "probability": 0.25
           },
           "away": {
-            "hits": 3,
-            "totalMatches": 6,
-            "probability": 0.5
+            "hits": 1,
+            "totalMatches": 4,
+            "probability": 0.25
           }
         }
       },
@@ -137,8 +137,8 @@
         "scope": "total",
         ">=30": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -147,15 +147,15 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         },
         ">=34": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -164,8 +164,8 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         }
@@ -174,9 +174,9 @@
         "scope": "total",
         ">=3": {
           "total": {
-            "hits": 8,
-            "totalMatches": 10,
-            "probability": 0.8
+            "hits": 7,
+            "totalMatches": 8,
+            "probability": 0.875
           },
           "home": {
             "hits": 3,
@@ -184,33 +184,16 @@
             "probability": 0.75
           },
           "away": {
-            "hits": 5,
-            "totalMatches": 6,
-            "probability": 0.8333
+            "hits": 4,
+            "totalMatches": 4,
+            "probability": 1
           }
         },
         ">=4": {
           "total": {
-            "hits": 7,
-            "totalMatches": 10,
-            "probability": 0.7
-          },
-          "home": {
-            "hits": 2,
-            "totalMatches": 4,
-            "probability": 0.5
-          },
-          "away": {
-            "hits": 5,
-            "totalMatches": 6,
-            "probability": 0.8333
-          }
-        },
-        "<5": {
-          "total": {
             "hits": 6,
-            "totalMatches": 10,
-            "probability": 0.6
+            "totalMatches": 8,
+            "probability": 0.75
           },
           "home": {
             "hits": 3,
@@ -219,7 +202,24 @@
           },
           "away": {
             "hits": 3,
-            "totalMatches": 6,
+            "totalMatches": 4,
+            "probability": 0.75
+          }
+        },
+        "<5": {
+          "total": {
+            "hits": 5,
+            "totalMatches": 8,
+            "probability": 0.625
+          },
+          "home": {
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
+          },
+          "away": {
+            "hits": 2,
+            "totalMatches": 4,
             "probability": 0.5
           }
         }
@@ -228,26 +228,26 @@
         "scope": "total",
         ">=5": {
           "total": {
-            "hits": 9,
-            "totalMatches": 10,
-            "probability": 0.9
+            "hits": 8,
+            "totalMatches": 8,
+            "probability": 1
           },
           "home": {
-            "hits": 3,
+            "hits": 4,
             "totalMatches": 4,
-            "probability": 0.75
+            "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         },
         ">=7": {
           "total": {
-            "hits": 8,
-            "totalMatches": 10,
-            "probability": 0.8
+            "hits": 5,
+            "totalMatches": 8,
+            "probability": 0.625
           },
           "home": {
             "hits": 3,
@@ -255,9 +255,9 @@
             "probability": 0.75
           },
           "away": {
-            "hits": 5,
-            "totalMatches": 6,
-            "probability": 0.8333
+            "hits": 2,
+            "totalMatches": 4,
+            "probability": 0.5
           }
         }
       }
@@ -270,18 +270,18 @@
         "scope": "team",
         ">=6": {
           "total": {
-            "hits": 6,
-            "totalMatches": 10,
-            "probability": 0.6
+            "hits": 4,
+            "totalMatches": 8,
+            "probability": 0.5
           },
           "home": {
-            "hits": 3,
+            "hits": 2,
             "totalMatches": 4,
-            "probability": 0.75
+            "probability": 0.5
           },
           "away": {
-            "hits": 3,
-            "totalMatches": 6,
+            "hits": 2,
+            "totalMatches": 4,
             "probability": 0.5
           }
         }
@@ -290,8 +290,8 @@
         "scope": "team",
         ">=3": {
           "total": {
-            "hits": 5,
-            "totalMatches": 10,
+            "hits": 4,
+            "totalMatches": 8,
             "probability": 0.5
           },
           "home": {
@@ -300,9 +300,9 @@
             "probability": 0.25
           },
           "away": {
-            "hits": 4,
-            "totalMatches": 6,
-            "probability": 0.6667
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
           }
         }
       },
@@ -310,9 +310,9 @@
         "scope": "team",
         ">=2": {
           "total": {
-            "hits": 6,
-            "totalMatches": 10,
-            "probability": 0.6
+            "hits": 5,
+            "totalMatches": 8,
+            "probability": 0.625
           },
           "home": {
             "hits": 1,
@@ -320,9 +320,9 @@
             "probability": 0.25
           },
           "away": {
-            "hits": 5,
-            "totalMatches": 6,
-            "probability": 0.8333
+            "hits": 4,
+            "totalMatches": 4,
+            "probability": 1
           }
         }
       },
@@ -330,8 +330,8 @@
         "scope": "team",
         ">=8": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -340,16 +340,16 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         },
         ">=9": {
           "total": {
-            "hits": 9,
-            "totalMatches": 10,
-            "probability": 0.9
+            "hits": 7,
+            "totalMatches": 8,
+            "probability": 0.875
           },
           "home": {
             "hits": 3,
@@ -357,16 +357,16 @@
             "probability": 0.75
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         },
         ">=10": {
           "total": {
-            "hits": 8,
-            "totalMatches": 10,
-            "probability": 0.8
+            "hits": 6,
+            "totalMatches": 8,
+            "probability": 0.75
           },
           "home": {
             "hits": 2,
@@ -374,8 +374,8 @@
             "probability": 0.5
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         }
@@ -384,8 +384,8 @@
         "scope": "team",
         ">=16": {
           "total": {
-            "hits": 10,
-            "totalMatches": 10,
+            "hits": 8,
+            "totalMatches": 8,
             "probability": 1
           },
           "home": {
@@ -394,8 +394,8 @@
             "probability": 1
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         }
@@ -409,9 +409,9 @@
         "scope": "opponent",
         ">=6": {
           "total": {
-            "hits": 9,
-            "totalMatches": 10,
-            "probability": 0.9
+            "hits": 7,
+            "totalMatches": 8,
+            "probability": 0.875
           },
           "home": {
             "hits": 3,
@@ -419,8 +419,8 @@
             "probability": 0.75
           },
           "away": {
-            "hits": 6,
-            "totalMatches": 6,
+            "hits": 4,
+            "totalMatches": 4,
             "probability": 1
           }
         }
@@ -430,18 +430,18 @@
         ">=3": {
           "total": {
             "hits": 6,
-            "totalMatches": 10,
-            "probability": 0.6
+            "totalMatches": 8,
+            "probability": 0.75
           },
           "home": {
-            "hits": 2,
+            "hits": 3,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.75
           },
           "away": {
-            "hits": 4,
-            "totalMatches": 6,
-            "probability": 0.6667
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
           }
         }
       },
@@ -449,19 +449,19 @@
         "scope": "opponent",
         ">=2": {
           "total": {
-            "hits": 6,
-            "totalMatches": 10,
-            "probability": 0.6
+            "hits": 5,
+            "totalMatches": 8,
+            "probability": 0.625
           },
           "home": {
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
+          },
+          "away": {
             "hits": 2,
             "totalMatches": 4,
             "probability": 0.5
-          },
-          "away": {
-            "hits": 4,
-            "totalMatches": 6,
-            "probability": 0.6667
           }
         }
       },
@@ -469,63 +469,9 @@
         "scope": "opponent",
         ">=8": {
           "total": {
-            "hits": 9,
-            "totalMatches": 10,
-            "probability": 0.9
-          },
-          "home": {
-            "hits": 3,
-            "totalMatches": 4,
-            "probability": 0.75
-          },
-          "away": {
-            "hits": 6,
-            "totalMatches": 6,
-            "probability": 1
-          }
-        },
-        ">=9": {
-          "total": {
-            "hits": 8,
-            "totalMatches": 10,
-            "probability": 0.8
-          },
-          "home": {
-            "hits": 2,
-            "totalMatches": 4,
-            "probability": 0.5
-          },
-          "away": {
-            "hits": 6,
-            "totalMatches": 6,
-            "probability": 1
-          }
-        },
-        ">=10": {
-          "total": {
             "hits": 7,
-            "totalMatches": 10,
-            "probability": 0.7
-          },
-          "home": {
-            "hits": 2,
-            "totalMatches": 4,
-            "probability": 0.5
-          },
-          "away": {
-            "hits": 5,
-            "totalMatches": 6,
-            "probability": 0.8333
-          }
-        }
-      },
-      "throwIns": {
-        "scope": "opponent",
-        ">=16": {
-          "total": {
-            "hits": 7,
-            "totalMatches": 10,
-            "probability": 0.7
+            "totalMatches": 8,
+            "probability": 0.875
           },
           "home": {
             "hits": 3,
@@ -534,8 +480,62 @@
           },
           "away": {
             "hits": 4,
-            "totalMatches": 6,
-            "probability": 0.6667
+            "totalMatches": 4,
+            "probability": 1
+          }
+        },
+        ">=9": {
+          "total": {
+            "hits": 6,
+            "totalMatches": 8,
+            "probability": 0.75
+          },
+          "home": {
+            "hits": 2,
+            "totalMatches": 4,
+            "probability": 0.5
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 4,
+            "probability": 1
+          }
+        },
+        ">=10": {
+          "total": {
+            "hits": 6,
+            "totalMatches": 8,
+            "probability": 0.75
+          },
+          "home": {
+            "hits": 2,
+            "totalMatches": 4,
+            "probability": 0.5
+          },
+          "away": {
+            "hits": 4,
+            "totalMatches": 4,
+            "probability": 1
+          }
+        }
+      },
+      "throwIns": {
+        "scope": "opponent",
+        ">=16": {
+          "total": {
+            "hits": 6,
+            "totalMatches": 8,
+            "probability": 0.75
+          },
+          "home": {
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
+          },
+          "away": {
+            "hits": 3,
+            "totalMatches": 4,
+            "probability": 0.75
           }
         }
       }

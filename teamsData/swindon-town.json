@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.08",
+        "fouls": "10.96",
+        "goalKicks": "8.28",
+        "saves": "2.36",
+        "offsides": "1.08",
+        "shotsOnTarget": "4.84/3.48",
+        "yellowCards": "2.24/1.68",
+        "goals": "1.64/1.16",
+        "throwIns": "27.84",
+        "ballPossession": 53.08,
+        "tackles": "16.56/17.08",
+        "interceptions": "8.00/8.56",
+        "aerialDuels": "30.64",
+        "aerialDuelsAttempted": "54.76",
+        "dribbles": "6.44/6.56",
+        "dribblesAttempted": "14.56/14.08"
+    },
+    "teamSlug": "swindon-town",
+    "teamId": "53",
+    "teamName": "Swindon Town",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/salford-city-swindon-town/dbsYjp#id:14060817,tab:statistics",
+            "teams": [
+                "Swindon",
+                "Salford"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "53",
+                "37998"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swindon-town-gillingham/vsdb#id:14061639,tab:statistics",
+            "teams": [
+                "Swindon",
+                "Gillingham"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "53",
+                "20"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheltenham-town-swindon-town/dbsub#id:14061540,tab:statistics",
+            "teams": [
+                "Cheltenham",
+                "Swindon"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "69",
+                "53"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swindon-town-milton-keynes-dons/esdb#id:14061499,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Swindon"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "4",
+                "53"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crawley-town-swindon-town/dbsAXb#id:14061452,tab:statistics",
+            "teams": [
+                "Swindon",
+                "Crawley"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "53",
+                "4875"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-rovers-swindon-town/dbsBb#id:14061320,tab:statistics",
+            "teams": [
+                "Bristol Rovers",
+                "Swindon"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "76",
+                "53"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheltenham-town-swindon-town/dbsub#id:14061298,tab:statistics",
+            "teams": [
+                "Swindon",
+                "Cheltenham"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "53",
+                "69"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-swindon-town/dbstb#id:14060902,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Swindon"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "68",
+                "53"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/4[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/3[H]",
+            "throwIns": "22/26[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Swindon,Salford,Home",
+            "tackles": "21/22[H]",
+            "interceptions": "16/13[H]",
+            "aerialDuels": "38/21[H]",
+            "aerialDuelsAttempted": "59/59[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "15/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/8[H]",
+            "fouls": "4/17[H]",
+            "goalKicks": "12/12[H]",
+            "saves": "4/0[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "16/29[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Swindon,Gillingham,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "36/19[H]",
+            "aerialDuelsAttempted": "55/55[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "13/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "10/5[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "0/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "9/0[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "37/23[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Swindon,Cheltenham,Away",
+            "tackles": "19/23[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "31/16[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "12/9[A]",
+            "dribblesAttempted": "24/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/5[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "13/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/19[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Swindon,MK Dons,Away",
+            "tackles": "12/22[A]",
+            "interceptions": "14/10[A]",
+            "aerialDuels": "32/32[A]",
+            "aerialDuelsAttempted": "64/64[A]",
+            "dribbles": "7/3[A]",
+            "dribblesAttempted": "22/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/11[H]",
+            "fouls": "4/5[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "4/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "24/42[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Swindon,Crawley,Home",
+            "tackles": "22/17[H]",
+            "interceptions": "10/12[H]",
+            "aerialDuels": "35/26[H]",
+            "aerialDuelsAttempted": "61/61[H]",
+            "dribbles": "4/8[H]",
+            "dribblesAttempted": "11/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "7/15[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "7/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "3/0[A]",
+            "throwIns": "36/31[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Swindon,Bristol Rovers,Away",
+            "tackles": "9/16[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "24/21[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "10/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "3/0[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "0/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "38/34[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Swindon,Cheltenham,Home",
+            "tackles": "22/24[H]",
+            "interceptions": "17/11[H]",
+            "aerialDuels": "27/20[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "16/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "9/9[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "1/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "22/35[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Swindon,Chesterfield,Away",
+            "tackles": "12/12[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "31/35[A]",
+            "aerialDuelsAttempted": "66/66[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "18/16[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:24:36.431Z",
+    "endTime": "2026-01-24T14:25:22.238Z",
+    "totalTimeSeconds": 45.81,
+    "combinedMatchStatistics": {
+        "corners": "6/4[H]+8/8[H]+4/7[A]+8/5[A]+1/11[H]+7/4[A]+6/6[H]+3/7[A]",
+        "fouls": "12/16[H]+4/17[H]+10/5[A]+8/10[A]+4/5[H]+7/15[A]+11/9[H]+9/9[A]",
+        "goalKicks": "8/10[H]+12/12[H]+10/7[A]+13/7[A]+6/6[H]+9/6[A]+11/11[H]+9/5[A]",
+        "saves": "1/3[H]+4/0[H]+0/6[A]+5/2[A]+4/1[H]+2/3[A]+3/0[H]+1/3[A]",
+        "offsides": "2/2[H]+0/0[H]+0/1[A]+0/3[A]+2/2[H]+1/3[A]+0/2[H]+2/1[A]",
+        "shotsOnTarget": "6/4[H]+2/4[H]+9/0[A]+3/6[A]+2/4[H]+7/1[A]+0/4[H]+5/2[A]",
+        "yellowCards": "2/4[H]+4/3[H]+2/0[A]+2/1[A]+1/3[H]+2/1[A]+2/2[H]+5/1[A]",
+        "goals": "2/3[H]+2/0[H]+2/0[A]+0/1[A]+1/0[H]+3/0[A]+0/1[H]+2/1[A]",
+        "throwIns": "22/26[H]+16/29[H]+37/23[A]+25/19[A]+24/42[H]+36/31[A]+38/34[H]+22/35[A]",
+        "averageBallPossession": "60/40[H]+51/49[H]+43/57[A]+59/41[A]+40/60[H]+53/47[A]+64/36[H]+43/57[A]",
+        "teams": "Swindon,Salford,Home+Swindon,Gillingham,Home+Swindon,Cheltenham,Away+Swindon,MK Dons,Away+Swindon,Crawley,Home+Swindon,Bristol Rovers,Away+Swindon,Cheltenham,Home+Swindon,Chesterfield,Away",
+        "tackles": "21/22[H]+14/13[H]+19/23[A]+12/22[A]+22/17[H]+9/16[A]+22/24[H]+12/12[A]",
+        "interceptions": "16/13[H]+6/6[H]+8/9[A]+14/10[A]+10/12[H]+8/11[A]+17/11[H]+10/13[A]",
+        "aerialDuels": "38/21[H]+36/19[H]+31/16[A]+32/32[A]+35/26[H]+24/21[A]+27/20[H]+31/35[A]",
+        "aerialDuelsAttempted": "59/59[H]+55/55[H]+47/47[A]+64/64[A]+61/61[H]+45/45[A]+47/47[H]+66/66[A]",
+        "dribbles": "4/5[H]+7/7[H]+12/9[A]+7/3[A]+4/8[H]+2/6[A]+5/5[H]+11/8[A]",
+        "dribblesAttempted": "15/14[H]+13/14[H]+24/20[A]+22/8[A]+11/19[H]+10/9[A]+16/16[H]+18/16[A]",
+        "isHome": "true+true+false+false+true+false+true+false",
+        "cornersTotals": "43/52",
+        "cornersTotalsHome": "21/29",
+        "cornersTotalsAway": "22/23",
+        "cornersAverage": "5.38/6.50",
+        "cornersAverageHome": "5.25/7.25",
+        "cornersAverageAway": "5.50/5.75",
+        "foulsTotals": "65/86",
+        "foulsTotalsHome": "31/47",
+        "foulsTotalsAway": "34/39",
+        "foulsAverage": "8.13/10.75",
+        "foulsAverageHome": "7.75/11.75",
+        "foulsAverageAway": "8.50/9.75",
+        "goalKicksTotals": "78/64",
+        "goalKicksTotalsHome": "37/39",
+        "goalKicksTotalsAway": "41/25",
+        "goalKicksAverage": "9.75/8.00",
+        "goalKicksAverageHome": "9.25/9.75",
+        "goalKicksAverageAway": "10.25/6.25",
+        "savesTotals": "20/18",
+        "savesTotalsHome": "12/4",
+        "savesTotalsAway": "8/14",
+        "savesAverage": "2.50/2.25",
+        "savesAverageHome": "3.00/1.00",
+        "savesAverageAway": "2.00/3.50",
+        "offsidesTotals": "7/14",
+        "offsidesTotalsHome": "4/6",
+        "offsidesTotalsAway": "3/8",
+        "offsidesAverage": "0.88/1.75",
+        "offsidesAverageHome": "1.00/1.50",
+        "offsidesAverageAway": "0.75/2.00",
+        "shotsOnTargetTotals": "34/25",
+        "shotsOnTargetTotalsHome": "10/16",
+        "shotsOnTargetTotalsAway": "24/9",
+        "shotsOnTargetAverage": "4.25/3.13",
+        "shotsOnTargetAverageHome": "2.50/4.00",
+        "shotsOnTargetAverageAway": "6.00/2.25",
+        "yellowCardsTotals": "20/15",
+        "yellowCardsTotalsHome": "9/12",
+        "yellowCardsTotalsAway": "11/3",
+        "yellowCardsAverage": "2.50/1.88",
+        "yellowCardsAverageHome": "2.25/3.00",
+        "yellowCardsAverageAway": "2.75/0.75",
+        "goalsTotals": "12/6",
+        "goalsTotalsHome": "5/4",
+        "goalsTotalsAway": "7/2",
+        "goalsAverage": "1.50/0.75",
+        "goalsAverageHome": "1.25/1.00",
+        "goalsAverageAway": "1.75/0.50",
+        "throwInsTotals": "220/239",
+        "throwInsTotalsHome": "100/131",
+        "throwInsTotalsAway": "120/108",
+        "throwInsAverage": "27.50/29.88",
+        "throwInsAverageHome": "25.00/32.75",
+        "throwInsAverageAway": "30.00/27.00",
+        "averageBallPossessionTotals": "413/387",
+        "averageBallPossessionTotalsHome": "215/185",
+        "averageBallPossessionTotalsAway": "198/202",
+        "averageBallPossessionAverage": "51.63/48.38",
+        "averageBallPossessionAverageHome": "53.75/46.25",
+        "averageBallPossessionAverageAway": "49.50/50.50",
+        "tacklesTotals": "131/149",
+        "tacklesTotalsHome": "79/76",
+        "tacklesTotalsAway": "52/73",
+        "tacklesAverage": "16.38/18.63",
+        "tacklesAverageHome": "19.75/19.00",
+        "tacklesAverageAway": "13.00/18.25",
+        "interceptionsTotals": "89/85",
+        "interceptionsTotalsHome": "49/42",
+        "interceptionsTotalsAway": "40/43",
+        "interceptionsAverage": "11.13/10.63",
+        "interceptionsAverageHome": "12.25/10.50",
+        "interceptionsAverageAway": "10.00/10.75",
+        "aerialDuelsTotals": "254/190",
+        "aerialDuelsTotalsHome": "136/86",
+        "aerialDuelsTotalsAway": "118/104",
+        "aerialDuelsAverage": "31.75/23.75",
+        "aerialDuelsAverageHome": "34.00/21.50",
+        "aerialDuelsAverageAway": "29.50/26.00",
+        "aerialDuelsAttemptedTotals": "444/444",
+        "aerialDuelsAttemptedTotalsHome": "222/222",
+        "aerialDuelsAttemptedTotalsAway": "222/222",
+        "aerialDuelsAttemptedAverage": "55.50/55.50",
+        "aerialDuelsAttemptedAverageHome": "55.50/55.50",
+        "aerialDuelsAttemptedAverageAway": "55.50/55.50",
+        "dribblesTotals": "52/51",
+        "dribblesTotalsHome": "20/25",
+        "dribblesTotalsAway": "32/26",
+        "dribblesAverage": "6.50/6.38",
+        "dribblesAverageHome": "5.00/6.25",
+        "dribblesAverageAway": "8.00/6.50",
+        "dribblesAttemptedTotals": "129/116",
+        "dribblesAttemptedTotalsHome": "55/63",
+        "dribblesAttemptedTotalsAway": "74/53",
+        "dribblesAttemptedAverage": "16.13/14.50",
+        "dribblesAttemptedAverageHome": "13.75/15.75",
+        "dribblesAttemptedAverageAway": "18.50/13.25"
+    }
+}

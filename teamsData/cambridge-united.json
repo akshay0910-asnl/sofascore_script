@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.60",
+        "fouls": "11.60",
+        "goalKicks": "7.12",
+        "saves": "2.20",
+        "offsides": "1.76",
+        "shotsOnTarget": "3.32/3.04",
+        "yellowCards": "1.60/1.64",
+        "goals": "1.20/0.80",
+        "throwIns": "30.28",
+        "ballPossession": 49.56,
+        "tackles": "12.64/16.72",
+        "interceptions": "7.60/8.16",
+        "aerialDuels": "31.00",
+        "aerialDuelsAttempted": "61.44",
+        "dribbles": "5.52/4.84",
+        "dribblesAttempted": "12.96/10.24"
+    },
+    "teamSlug": "cambridge-united",
+    "teamId": "63",
+    "teamName": "Cambridge United",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fleetwood-town-cambridge-united/nbsjEj#id:14060791,tab:statistics",
+            "teams": [
+                "Fleetwood",
+                "Cambridge"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "23959",
+                "63"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cambridge-united-walsall/Bsnb#id:14061599,tab:statistics",
+            "teams": [
+                "Cambridge",
+                "Walsall"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "63",
+                "26"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-cambridge-united/nbstb#id:14061545,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Cambridge"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "68",
+                "63"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cambridge-united-gillingham/vsnb#id:14061487,tab:statistics",
+            "teams": [
+                "Gillingham",
+                "Cambridge"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "20",
+                "63"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-cambridge-united/nbsMd#id:14061404,tab:statistics",
+            "teams": [
+                "Cambridge",
+                "Accrington"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "63",
+                "187"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cambridge-united-milton-keynes-dons/esnb#id:14061356,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Cambridge"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "4",
+                "63"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-cambridge-united/nbstb#id:14061198,tab:statistics",
+            "teams": [
+                "Cambridge",
+                "Chesterfield"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "63",
+                "68"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cambridge-united-crewe-alexandra/usnb#id:14060879,tab:statistics",
+            "teams": [
+                "Cambridge",
+                "Crewe"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "63",
+                "19"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/2[A]",
+            "fouls": "5/17[A]",
+            "goalKicks": "8/12[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "29/29[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Cambridge,Fleetwood,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "42/31[A]",
+            "aerialDuelsAttempted": "73/73[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "13/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "14/18[H]",
+            "goalKicks": "5/3[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "32/45[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Cambridge,Walsall,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "14/9[H]",
+            "aerialDuels": "23/33[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "15/4[H]",
+            "dribblesAttempted": "21/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "9/5[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "2/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/1[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "26/28[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Cambridge,Chesterfield,Away",
+            "tackles": "8/16[A]",
+            "interceptions": "10/10[A]",
+            "aerialDuels": "24/18[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "12/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "12/9[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "4/0[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "29/35[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Cambridge,Gillingham,Away",
+            "tackles": "7/19[A]",
+            "interceptions": "9/5[A]",
+            "aerialDuels": "36/53[A]",
+            "aerialDuelsAttempted": "89/89[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "11/7[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "2/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "35/25[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Cambridge,Accrington,Home",
+            "tackles": "14/15[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "45/26[H]",
+            "aerialDuelsAttempted": "71/71[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "12/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "30/17[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Cambridge,MK Dons,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "30/28[A]",
+            "aerialDuelsAttempted": "58/58[A]",
+            "dribbles": "7/2[A]",
+            "dribblesAttempted": "9/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/1[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "3/5[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "7/4[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "27/26[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Cambridge,Chesterfield,Home",
+            "tackles": "11/10[H]",
+            "interceptions": "15/8[H]",
+            "aerialDuels": "25/23[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "10/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/1[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "5/14[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "29/31[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Cambridge,Crewe,Home",
+            "tackles": "7/18[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "35/27[H]",
+            "aerialDuelsAttempted": "62/62[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "14/6[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:25:23.794Z",
+    "endTime": "2026-01-24T14:26:12.607Z",
+    "totalTimeSeconds": 48.81,
+    "combinedMatchStatistics": {
+        "corners": "5/2[A]+1/6[H]+5/5[A]+5/6[A]+7/6[H]+4/7[A]+5/1[H]+10/1[H]",
+        "fouls": "5/17[A]+14/18[H]+9/5[A]+12/9[A]+11/7[H]+13/11[A]+8/13[H]+10/11[H]",
+        "goalKicks": "8/12[A]+5/3[H]+10/6[A]+10/6[A]+7/8[H]+10/6[A]+3/6[H]+5/14[H]",
+        "saves": "3/3[A]+3/1[H]+2/0[A]+4/0[A]+2/2[H]+3/1[A]+3/5[H]+3/4[H]",
+        "offsides": "1/1[A]+1/2[H]+2/1[A]+2/2[A]+0/2[H]+1/4[A]+5/1[H]+1/2[H]",
+        "shotsOnTarget": "5/4[A]+3/3[H]+1/1[A]+1/6[A]+4/2[H]+3/4[A]+7/4[H]+6/4[H]",
+        "yellowCards": "0/3[A]+0/1[H]+4/1[A]+0/1[A]+1/0[H]+1/2[A]+0/0[H]+1/2[H]",
+        "goals": "2/1[A]+2/0[H]+1/0[A]+1/1[A]+2/0[H]+1/1[A]+1/1[H]+2/1[H]",
+        "throwIns": "29/29[A]+32/45[H]+26/28[A]+29/35[A]+35/25[H]+30/17[A]+27/26[H]+29/31[H]",
+        "averageBallPossession": "55/45[A]+55/45[H]+39/61[A]+46/54[A]+45/55[H]+52/48[A]+39/61[H]+59/41[H]",
+        "teams": "Cambridge,Fleetwood,Away+Cambridge,Walsall,Home+Cambridge,Chesterfield,Away+Cambridge,Gillingham,Away+Cambridge,Accrington,Home+Cambridge,MK Dons,Away+Cambridge,Chesterfield,Home+Cambridge,Crewe,Home",
+        "tackles": "10/17[A]+14/13[H]+8/16[A]+7/19[A]+14/15[H]+11/12[A]+11/10[H]+7/18[H]",
+        "interceptions": "7/11[A]+14/9[H]+10/10[A]+9/5[A]+5/10[H]+4/9[A]+15/8[H]+11/12[H]",
+        "aerialDuels": "42/31[A]+23/33[H]+24/18[A]+36/53[A]+45/26[H]+30/28[A]+25/23[H]+35/27[H]",
+        "aerialDuelsAttempted": "73/73[A]+56/56[H]+42/42[A]+89/89[A]+71/71[H]+58/58[A]+48/48[H]+62/62[H]",
+        "dribbles": "6/2[A]+15/4[H]+7/4[A]+5/4[A]+4/3[H]+7/2[A]+7/5[H]+4/2[H]",
+        "dribblesAttempted": "13/6[A]+21/12[H]+12/7[A]+11/8[A]+12/9[H]+9/4[A]+10/11[H]+14/6[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "42/34",
+        "cornersTotalsHome": "23/14",
+        "cornersTotalsAway": "19/20",
+        "cornersAverage": "5.25/4.25",
+        "cornersAverageHome": "5.75/3.50",
+        "cornersAverageAway": "4.75/5.00",
+        "foulsTotals": "82/91",
+        "foulsTotalsHome": "43/49",
+        "foulsTotalsAway": "39/42",
+        "foulsAverage": "10.25/11.38",
+        "foulsAverageHome": "10.75/12.25",
+        "foulsAverageAway": "9.75/10.50",
+        "goalKicksTotals": "58/61",
+        "goalKicksTotalsHome": "20/31",
+        "goalKicksTotalsAway": "38/30",
+        "goalKicksAverage": "7.25/7.63",
+        "goalKicksAverageHome": "5.00/7.75",
+        "goalKicksAverageAway": "9.50/7.50",
+        "savesTotals": "23/16",
+        "savesTotalsHome": "11/12",
+        "savesTotalsAway": "12/4",
+        "savesAverage": "2.88/2.00",
+        "savesAverageHome": "2.75/3.00",
+        "savesAverageAway": "3.00/1.00",
+        "offsidesTotals": "13/15",
+        "offsidesTotalsHome": "7/7",
+        "offsidesTotalsAway": "6/8",
+        "offsidesAverage": "1.63/1.88",
+        "offsidesAverageHome": "1.75/1.75",
+        "offsidesAverageAway": "1.50/2.00",
+        "shotsOnTargetTotals": "30/28",
+        "shotsOnTargetTotalsHome": "20/13",
+        "shotsOnTargetTotalsAway": "10/15",
+        "shotsOnTargetAverage": "3.75/3.50",
+        "shotsOnTargetAverageHome": "5.00/3.25",
+        "shotsOnTargetAverageAway": "2.50/3.75",
+        "yellowCardsTotals": "7/10",
+        "yellowCardsTotalsHome": "2/3",
+        "yellowCardsTotalsAway": "5/7",
+        "yellowCardsAverage": "0.88/1.25",
+        "yellowCardsAverageHome": "0.50/0.75",
+        "yellowCardsAverageAway": "1.25/1.75",
+        "goalsTotals": "12/5",
+        "goalsTotalsHome": "7/2",
+        "goalsTotalsAway": "5/3",
+        "goalsAverage": "1.50/0.63",
+        "goalsAverageHome": "1.75/0.50",
+        "goalsAverageAway": "1.25/0.75",
+        "throwInsTotals": "237/236",
+        "throwInsTotalsHome": "123/127",
+        "throwInsTotalsAway": "114/109",
+        "throwInsAverage": "29.63/29.50",
+        "throwInsAverageHome": "30.75/31.75",
+        "throwInsAverageAway": "28.50/27.25",
+        "averageBallPossessionTotals": "390/410",
+        "averageBallPossessionTotalsHome": "198/202",
+        "averageBallPossessionTotalsAway": "192/208",
+        "averageBallPossessionAverage": "48.75/51.25",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "48.00/52.00",
+        "tacklesTotals": "82/120",
+        "tacklesTotalsHome": "46/56",
+        "tacklesTotalsAway": "36/64",
+        "tacklesAverage": "10.25/15.00",
+        "tacklesAverageHome": "11.50/14.00",
+        "tacklesAverageAway": "9.00/16.00",
+        "interceptionsTotals": "75/74",
+        "interceptionsTotalsHome": "45/39",
+        "interceptionsTotalsAway": "30/35",
+        "interceptionsAverage": "9.38/9.25",
+        "interceptionsAverageHome": "11.25/9.75",
+        "interceptionsAverageAway": "7.50/8.75",
+        "aerialDuelsTotals": "260/239",
+        "aerialDuelsTotalsHome": "128/109",
+        "aerialDuelsTotalsAway": "132/130",
+        "aerialDuelsAverage": "32.50/29.88",
+        "aerialDuelsAverageHome": "32.00/27.25",
+        "aerialDuelsAverageAway": "33.00/32.50",
+        "aerialDuelsAttemptedTotals": "499/499",
+        "aerialDuelsAttemptedTotalsHome": "237/237",
+        "aerialDuelsAttemptedTotalsAway": "262/262",
+        "aerialDuelsAttemptedAverage": "62.38/62.38",
+        "aerialDuelsAttemptedAverageHome": "59.25/59.25",
+        "aerialDuelsAttemptedAverageAway": "65.50/65.50",
+        "dribblesTotals": "55/26",
+        "dribblesTotalsHome": "30/14",
+        "dribblesTotalsAway": "25/12",
+        "dribblesAverage": "6.88/3.25",
+        "dribblesAverageHome": "7.50/3.50",
+        "dribblesAverageAway": "6.25/3.00",
+        "dribblesAttemptedTotals": "102/63",
+        "dribblesAttemptedTotalsHome": "57/38",
+        "dribblesAttemptedTotalsAway": "45/25",
+        "dribblesAttemptedAverage": "12.75/7.88",
+        "dribblesAttemptedAverageHome": "14.25/9.50",
+        "dribblesAttemptedAverageAway": "11.25/6.25"
+    }
+}

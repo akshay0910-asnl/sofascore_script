@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.00",
+        "fouls": "11.08",
+        "goalKicks": "6.50",
+        "saves": "2.58",
+        "offsides": "1.62",
+        "shotsOnTarget": "3.81/3.92",
+        "yellowCards": "2.15/2.54",
+        "goals": "1.62/1.35",
+        "throwIns": "27.19",
+        "ballPossession": 59.076923076923,
+        "tackles": "14.81/15.73",
+        "interceptions": "6.19/8.23",
+        "aerialDuels": "23.19",
+        "aerialDuelsAttempted": "46.08",
+        "dribbles": "5.35/6.31",
+        "dribblesAttempted": "12.54/13.65"
+    },
+    "teamSlug": "chesterfield",
+    "teamId": "68",
+    "teamName": "Chesterfield",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/bromley-chesterfield/tbsFd#id:14060775,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Bromley"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "68",
+                "180"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-milton-keynes-dons/estb#id:14061681,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Chesterfield"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "4",
+                "68"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-oldham-athletic/pbstb#id:14061629,tab:statistics",
+            "teams": [
+                "Oldham",
+                "Chesterfield"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "65",
+                "68"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-cambridge-united/nbstb#id:14061545,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Cambridge"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "68",
+                "63"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-notts-county/gbstb#id:14061476,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Notts County"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "68",
+                "56"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shrewsbury-town-chesterfield/tbsHb#id:14061446,tab:statistics",
+            "teams": [
+                "Shrewsbury",
+                "Chesterfield"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "82",
+                "68"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barnet-chesterfield/tbsCb#id:14061332,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Barnet"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "68",
+                "77"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-cambridge-united/nbstb#id:14061198,tab:statistics",
+            "teams": [
+                "Cambridge",
+                "Chesterfield"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "63",
+                "68"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "10/8[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "5/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "30/27[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Chesterfield,Bromley,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "5/11[H]",
+            "aerialDuels": "22/24[H]",
+            "aerialDuelsAttempted": "46/46[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "7/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "7/14[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/2[A]",
+            "throwIns": "20/24[A]",
+            "averageBallPossession": "67/33[A]",
+            "teams": "Chesterfield,MK Dons,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "25/20[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "2/4[A]",
+            "offsides": "0/5[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "39/19[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Chesterfield,Oldham,Away",
+            "tackles": "7/11[A]",
+            "interceptions": "2/2[A]",
+            "aerialDuels": "26/26[A]",
+            "aerialDuelsAttempted": "52/52[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "10/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "5/9[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "28/26[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Chesterfield,Cambridge,Home",
+            "tackles": "16/8[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "18/24[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "7/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "10/14[H]",
+            "goalKicks": "0/8[H]",
+            "saves": "0/3[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "4/0[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "32/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Chesterfield,Notts County,Home",
+            "tackles": "16/23[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "19/15[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "13/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "1/0[A]",
+            "throwIns": "26/34[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Chesterfield,Shrewsbury,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "19/13[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "12/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/13[H]",
+            "fouls": "9/4[H]",
+            "goalKicks": "5/4[H]",
+            "saves": "2/3[H]",
+            "offsides": "4/7[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "3/1[H]",
+            "throwIns": "37/28[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Chesterfield,Barnet,Home",
+            "tackles": "22/16[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "18/20[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "2/6[H]",
+            "dribblesAttempted": "7/26[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/5[A]",
+            "fouls": "13/8[A]",
+            "goalKicks": "6/3[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "26/27[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Chesterfield,Cambridge,Away",
+            "tackles": "10/11[A]",
+            "interceptions": "8/15[A]",
+            "aerialDuels": "23/25[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "11/10[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:33:02.083Z",
+    "endTime": "2026-01-24T14:33:39.426Z",
+    "totalTimeSeconds": 37.34,
+    "combinedMatchStatistics": {
+        "corners": "10/8[H]+6/4[A]+4/6[A]+5/5[H]+3/5[H]+3/4[A]+5/13[H]+1/5[A]",
+        "fouls": "15/12[H]+7/14[A]+13/13[A]+5/9[H]+10/14[H]+11/9[A]+9/4[H]+13/8[A]",
+        "goalKicks": "8/10[H]+9/5[A]+8/5[A]+6/10[H]+0/8[H]+4/5[A]+5/4[H]+6/3[A]",
+        "saves": "5/2[H]+1/1[A]+2/4[A]+0/2[H]+0/3[H]+2/1[A]+2/3[H]+5/3[A]",
+        "offsides": "1/1[H]+1/0[A]+0/5[A]+1/2[H]+4/3[H]+2/3[A]+4/7[H]+1/5[A]",
+        "shotsOnTarget": "2/5[H]+3/3[A]+5/3[A]+1/1[H]+4/0[H]+3/2[A]+6/3[H]+4/7[A]",
+        "yellowCards": "2/0[H]+2/4[A]+2/3[A]+1/4[H]+3/3[H]+3/0[A]+3/0[H]+0/0[A]",
+        "goals": "0/0[H]+2/2[A]+1/1[A]+0/1[H]+2/0[H]+1/0[A]+3/1[H]+1/1[A]",
+        "throwIns": "30/27[H]+20/24[A]+39/19[A]+28/26[H]+32/23[H]+26/34[A]+37/28[H]+26/27[A]",
+        "averageBallPossession": "65/35[H]+67/33[A]+55/45[A]+61/39[H]+54/46[H]+59/41[A]+48/52[H]+61/39[A]",
+        "teams": "Chesterfield,Bromley,Home+Chesterfield,MK Dons,Away+Chesterfield,Oldham,Away+Chesterfield,Cambridge,Home+Chesterfield,Notts County,Home+Chesterfield,Shrewsbury,Away+Chesterfield,Barnet,Home+Chesterfield,Cambridge,Away",
+        "tackles": "11/15[H]+14/12[A]+7/11[A]+16/8[H]+16/23[H]+15/16[A]+22/16[H]+10/11[A]",
+        "interceptions": "5/11[H]+7/10[A]+2/2[A]+10/10[H]+8/10[H]+6/7[A]+8/5[H]+8/15[A]",
+        "aerialDuels": "22/24[H]+25/20[A]+26/26[A]+18/24[H]+19/15[H]+19/13[A]+18/20[H]+23/25[A]",
+        "aerialDuelsAttempted": "46/46[H]+45/45[A]+52/52[A]+42/42[H]+34/34[H]+32/32[A]+38/38[H]+48/48[A]",
+        "dribbles": "4/4[H]+5/4[A]+3/4[A]+4/7[H]+5/5[H]+6/6[A]+2/6[H]+5/7[A]",
+        "dribblesAttempted": "7/8[H]+8/9[A]+10/6[A]+7/12[H]+13/16[H]+12/11[A]+7/26[H]+11/10[A]",
+        "isHome": "true+false+false+true+true+false+true+false",
+        "cornersTotals": "37/50",
+        "cornersTotalsHome": "23/31",
+        "cornersTotalsAway": "14/19",
+        "cornersAverage": "4.63/6.25",
+        "cornersAverageHome": "5.75/7.75",
+        "cornersAverageAway": "3.50/4.75",
+        "foulsTotals": "83/83",
+        "foulsTotalsHome": "39/39",
+        "foulsTotalsAway": "44/44",
+        "foulsAverage": "10.38/10.38",
+        "foulsAverageHome": "9.75/9.75",
+        "foulsAverageAway": "11.00/11.00",
+        "goalKicksTotals": "46/50",
+        "goalKicksTotalsHome": "19/32",
+        "goalKicksTotalsAway": "27/18",
+        "goalKicksAverage": "5.75/6.25",
+        "goalKicksAverageHome": "4.75/8.00",
+        "goalKicksAverageAway": "6.75/4.50",
+        "savesTotals": "17/19",
+        "savesTotalsHome": "7/10",
+        "savesTotalsAway": "10/9",
+        "savesAverage": "2.13/2.38",
+        "savesAverageHome": "1.75/2.50",
+        "savesAverageAway": "2.50/2.25",
+        "offsidesTotals": "14/26",
+        "offsidesTotalsHome": "10/13",
+        "offsidesTotalsAway": "4/13",
+        "offsidesAverage": "1.75/3.25",
+        "offsidesAverageHome": "2.50/3.25",
+        "offsidesAverageAway": "1.00/3.25",
+        "shotsOnTargetTotals": "28/24",
+        "shotsOnTargetTotalsHome": "13/9",
+        "shotsOnTargetTotalsAway": "15/15",
+        "shotsOnTargetAverage": "3.50/3.00",
+        "shotsOnTargetAverageHome": "3.25/2.25",
+        "shotsOnTargetAverageAway": "3.75/3.75",
+        "yellowCardsTotals": "16/14",
+        "yellowCardsTotalsHome": "9/7",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "2.00/1.75",
+        "yellowCardsAverageHome": "2.25/1.75",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "10/6",
+        "goalsTotalsHome": "5/2",
+        "goalsTotalsAway": "5/4",
+        "goalsAverage": "1.25/0.75",
+        "goalsAverageHome": "1.25/0.50",
+        "goalsAverageAway": "1.25/1.00",
+        "throwInsTotals": "238/208",
+        "throwInsTotalsHome": "127/104",
+        "throwInsTotalsAway": "111/104",
+        "throwInsAverage": "29.75/26.00",
+        "throwInsAverageHome": "31.75/26.00",
+        "throwInsAverageAway": "27.75/26.00",
+        "averageBallPossessionTotals": "470/330",
+        "averageBallPossessionTotalsHome": "228/172",
+        "averageBallPossessionTotalsAway": "242/158",
+        "averageBallPossessionAverage": "58.75/41.25",
+        "averageBallPossessionAverageHome": "57.00/43.00",
+        "averageBallPossessionAverageAway": "60.50/39.50",
+        "tacklesTotals": "111/112",
+        "tacklesTotalsHome": "65/62",
+        "tacklesTotalsAway": "46/50",
+        "tacklesAverage": "13.88/14.00",
+        "tacklesAverageHome": "16.25/15.50",
+        "tacklesAverageAway": "11.50/12.50",
+        "interceptionsTotals": "54/70",
+        "interceptionsTotalsHome": "31/36",
+        "interceptionsTotalsAway": "23/34",
+        "interceptionsAverage": "6.75/8.75",
+        "interceptionsAverageHome": "7.75/9.00",
+        "interceptionsAverageAway": "5.75/8.50",
+        "aerialDuelsTotals": "170/167",
+        "aerialDuelsTotalsHome": "77/83",
+        "aerialDuelsTotalsAway": "93/84",
+        "aerialDuelsAverage": "21.25/20.88",
+        "aerialDuelsAverageHome": "19.25/20.75",
+        "aerialDuelsAverageAway": "23.25/21.00",
+        "aerialDuelsAttemptedTotals": "337/337",
+        "aerialDuelsAttemptedTotalsHome": "160/160",
+        "aerialDuelsAttemptedTotalsAway": "177/177",
+        "aerialDuelsAttemptedAverage": "42.13/42.13",
+        "aerialDuelsAttemptedAverageHome": "40.00/40.00",
+        "aerialDuelsAttemptedAverageAway": "44.25/44.25",
+        "dribblesTotals": "34/43",
+        "dribblesTotalsHome": "15/22",
+        "dribblesTotalsAway": "19/21",
+        "dribblesAverage": "4.25/5.38",
+        "dribblesAverageHome": "3.75/5.50",
+        "dribblesAverageAway": "4.75/5.25",
+        "dribblesAttemptedTotals": "75/98",
+        "dribblesAttemptedTotalsHome": "34/62",
+        "dribblesAttemptedTotalsAway": "41/36",
+        "dribblesAttemptedAverage": "9.38/12.25",
+        "dribblesAttemptedAverageHome": "8.50/15.50",
+        "dribblesAttemptedAverageAway": "10.25/9.00"
+    }
+}

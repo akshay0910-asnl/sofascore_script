@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.41",
+        "fouls": "11.05",
+        "goalKicks": "7.77",
+        "saves": "2.41",
+        "offsides": "1.64",
+        "shotsOnTarget": "3.91/4.09",
+        "yellowCards": "1.95/1.64",
+        "goals": "1.59/1.55",
+        "throwIns": "24.77",
+        "ballPossession": 56.318181818182,
+        "tackles": "15.27/17.36",
+        "interceptions": "7.18/7.27",
+        "aerialDuels": "21.73",
+        "aerialDuelsAttempted": "39.23",
+        "dribbles": "7.41/5.50",
+        "dribblesAttempted": "14.91/12.55"
+    },
+    "teamSlug": "barnsley",
+    "teamId": "23",
+    "teamName": "Barnsley",
+    "tournament": "League One",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/blackpool-barnsley/ysrb#id:14061065,tab:statistics",
+            "teams": [
+                "Barnsley",
+                "Blackpool"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "23",
+                "67"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wigan-athletic-barnsley/ysZ#id:14061736,tab:statistics",
+            "teams": [
+                "Wigan",
+                "Barnsley"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "49",
+                "23"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lincoln-city-barnsley/ysRb#id:14061662,tab:statistics",
+            "teams": [
+                "Barnsley",
+                "Lincoln"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "23",
+                "92"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mansfield-town-barnsley/ysvb#id:14061598,tab:statistics",
+            "teams": [
+                "Barnsley",
+                "Mansfield"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "23",
+                "70"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/exeter-city-barnsley/ysLb#id:14061538,tab:statistics",
+            "teams": [
+                "Exeter",
+                "Barnsley"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "86",
+                "23"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leyton-orient-barnsley/ysIb#id:14061471,tab:statistics",
+            "teams": [
+                "Barnsley",
+                "Leyton Orient"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "23",
+                "83"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lincoln-city-barnsley/ysRb#id:14061411,tab:statistics",
+            "teams": [
+                "Lincoln",
+                "Barnsley"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "92",
+                "23"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barnsley-stockport-county/ksy#id:14061381,tab:statistics",
+            "teams": [
+                "Stockport County",
+                "Barnsley"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "10",
+                "23"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/7[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "24/14[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Barnsley,Blackpool,Home",
+            "tackles": "9/14[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "16/17[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "14/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "12/12[A]",
+            "saves": "3/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "26/24[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Barnsley,Wigan,Away",
+            "tackles": "16/14[A]",
+            "interceptions": "11/9[A]",
+            "aerialDuels": "23/16[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "11/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "7/8[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "37/19[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Barnsley,Lincoln,Home",
+            "tackles": "15/24[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "23/16[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "15/4[H]",
+            "dribblesAttempted": "25/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "2/3[H]",
+            "throwIns": "11/29[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Barnsley,Mansfield,Home",
+            "tackles": "11/17[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "26/15[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "10/8[H]",
+            "dribblesAttempted": "17/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "28/24[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Barnsley,Exeter,Away",
+            "tackles": "12/16[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "23/22[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "13/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "10/13[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "3/2[H]",
+            "throwIns": "27/35[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Barnsley,Leyton Orient,Home",
+            "tackles": "20/19[H]",
+            "interceptions": "8/6[H]",
+            "aerialDuels": "29/17[H]",
+            "aerialDuelsAttempted": "46/46[H]",
+            "dribbles": "12/8[H]",
+            "dribblesAttempted": "22/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "6/6[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "5/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/8[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/3[A]",
+            "throwIns": "26/25[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Barnsley,Lincoln,Away",
+            "tackles": "19/34[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "14/12[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "24/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "8/11[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "1/4[A]",
+            "offsides": "5/0[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "22/35[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Barnsley,Stockport County,Away",
+            "tackles": "11/24[A]",
+            "interceptions": "15/11[A]",
+            "aerialDuels": "25/28[A]",
+            "aerialDuelsAttempted": "53/53[A]",
+            "dribbles": "8/11[A]",
+            "dribblesAttempted": "19/17[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:14:40.371Z",
+    "endTime": "2026-01-24T14:15:14.049Z",
+    "totalTimeSeconds": 33.68,
+    "combinedMatchStatistics": {
+        "corners": "3/7[H]+6/8[A]+5/2[H]+6/1[H]+3/6[A]+8/3[H]+8/7[A]+6/4[A]",
+        "fouls": "13/10[H]+11/7[A]+7/8[H]+11/14[H]+9/8[A]+10/13[H]+6/6[A]+8/11[A]",
+        "goalKicks": "6/9[H]+12/12[A]+9/8[H]+7/11[H]+6/6[A]+7/9[H]+11/8[A]+9/3[A]",
+        "saves": "5/1[H]+3/2[A]+1/2[H]+1/3[H]+4/1[A]+0/2[H]+5/3[A]+1/4[A]",
+        "offsides": "0/1[H]+3/0[A]+1/0[H]+2/0[H]+0/1[A]+1/1[H]+0/0[A]+5/0[A]",
+        "shotsOnTarget": "3/6[H]+3/4[A]+2/3[H]+5/4[H]+1/7[A]+5/2[H]+4/8[A]+5/2[A]",
+        "yellowCards": "2/2[H]+0/1[A]+4/2[H]+0/4[H]+2/1[A]+1/3[H]+1/0[A]+1/0[A]",
+        "goals": "2/1[H]+1/1[A]+0/2[H]+2/3[H]+0/3[A]+3/2[H]+1/3[A]+1/1[A]",
+        "throwIns": "24/14[H]+26/24[A]+37/19[H]+11/29[H]+28/24[A]+27/35[H]+26/25[A]+22/35[A]",
+        "averageBallPossession": "58/42[H]+61/39[A]+62/38[H]+60/40[H]+54/46[A]+57/43[H]+68/32[A]+43/57[A]",
+        "teams": "Barnsley,Blackpool,Home+Barnsley,Wigan,Away+Barnsley,Lincoln,Home+Barnsley,Mansfield,Home+Barnsley,Exeter,Away+Barnsley,Leyton Orient,Home+Barnsley,Lincoln,Away+Barnsley,Stockport County,Away",
+        "tackles": "9/14[H]+16/14[A]+15/24[H]+11/17[H]+12/16[A]+20/19[H]+19/34[A]+11/24[A]",
+        "interceptions": "7/6[H]+11/9[A]+8/9[H]+6/4[H]+9/8[A]+8/6[H]+5/8[A]+15/11[A]",
+        "aerialDuels": "16/17[H]+23/16[A]+23/16[H]+26/15[H]+23/22[A]+29/17[H]+14/12[A]+25/28[A]",
+        "aerialDuelsAttempted": "33/33[H]+39/39[A]+39/39[H]+41/41[H]+45/45[A]+46/46[H]+26/26[A]+53/53[A]",
+        "dribbles": "8/5[H]+5/3[A]+15/4[H]+10/8[H]+6/3[A]+12/8[H]+9/7[A]+8/11[A]",
+        "dribblesAttempted": "14/8[H]+11/15[A]+25/14[H]+17/14[H]+13/6[A]+22/14[H]+24/20[A]+19/17[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "45/38",
+        "cornersTotalsHome": "22/13",
+        "cornersTotalsAway": "23/25",
+        "cornersAverage": "5.63/4.75",
+        "cornersAverageHome": "5.50/3.25",
+        "cornersAverageAway": "5.75/6.25",
+        "foulsTotals": "75/77",
+        "foulsTotalsHome": "41/45",
+        "foulsTotalsAway": "34/32",
+        "foulsAverage": "9.38/9.63",
+        "foulsAverageHome": "10.25/11.25",
+        "foulsAverageAway": "8.50/8.00",
+        "goalKicksTotals": "67/66",
+        "goalKicksTotalsHome": "29/37",
+        "goalKicksTotalsAway": "38/29",
+        "goalKicksAverage": "8.38/8.25",
+        "goalKicksAverageHome": "7.25/9.25",
+        "goalKicksAverageAway": "9.50/7.25",
+        "savesTotals": "20/18",
+        "savesTotalsHome": "7/8",
+        "savesTotalsAway": "13/10",
+        "savesAverage": "2.50/2.25",
+        "savesAverageHome": "1.75/2.00",
+        "savesAverageAway": "3.25/2.50",
+        "offsidesTotals": "12/3",
+        "offsidesTotalsHome": "4/2",
+        "offsidesTotalsAway": "8/1",
+        "offsidesAverage": "1.50/0.38",
+        "offsidesAverageHome": "1.00/0.50",
+        "offsidesAverageAway": "2.00/0.25",
+        "shotsOnTargetTotals": "28/36",
+        "shotsOnTargetTotalsHome": "15/15",
+        "shotsOnTargetTotalsAway": "13/21",
+        "shotsOnTargetAverage": "3.50/4.50",
+        "shotsOnTargetAverageHome": "3.75/3.75",
+        "shotsOnTargetAverageAway": "3.25/5.25",
+        "yellowCardsTotals": "11/13",
+        "yellowCardsTotalsHome": "7/11",
+        "yellowCardsTotalsAway": "4/2",
+        "yellowCardsAverage": "1.38/1.63",
+        "yellowCardsAverageHome": "1.75/2.75",
+        "yellowCardsAverageAway": "1.00/0.50",
+        "goalsTotals": "10/16",
+        "goalsTotalsHome": "7/8",
+        "goalsTotalsAway": "3/8",
+        "goalsAverage": "1.25/2.00",
+        "goalsAverageHome": "1.75/2.00",
+        "goalsAverageAway": "0.75/2.00",
+        "throwInsTotals": "201/205",
+        "throwInsTotalsHome": "99/97",
+        "throwInsTotalsAway": "102/108",
+        "throwInsAverage": "25.13/25.63",
+        "throwInsAverageHome": "24.75/24.25",
+        "throwInsAverageAway": "25.50/27.00",
+        "averageBallPossessionTotals": "463/337",
+        "averageBallPossessionTotalsHome": "237/163",
+        "averageBallPossessionTotalsAway": "226/174",
+        "averageBallPossessionAverage": "57.88/42.13",
+        "averageBallPossessionAverageHome": "59.25/40.75",
+        "averageBallPossessionAverageAway": "56.50/43.50",
+        "tacklesTotals": "113/162",
+        "tacklesTotalsHome": "55/74",
+        "tacklesTotalsAway": "58/88",
+        "tacklesAverage": "14.13/20.25",
+        "tacklesAverageHome": "13.75/18.50",
+        "tacklesAverageAway": "14.50/22.00",
+        "interceptionsTotals": "69/61",
+        "interceptionsTotalsHome": "29/25",
+        "interceptionsTotalsAway": "40/36",
+        "interceptionsAverage": "8.63/7.63",
+        "interceptionsAverageHome": "7.25/6.25",
+        "interceptionsAverageAway": "10.00/9.00",
+        "aerialDuelsTotals": "179/143",
+        "aerialDuelsTotalsHome": "94/65",
+        "aerialDuelsTotalsAway": "85/78",
+        "aerialDuelsAverage": "22.38/17.88",
+        "aerialDuelsAverageHome": "23.50/16.25",
+        "aerialDuelsAverageAway": "21.25/19.50",
+        "aerialDuelsAttemptedTotals": "322/322",
+        "aerialDuelsAttemptedTotalsHome": "159/159",
+        "aerialDuelsAttemptedTotalsAway": "163/163",
+        "aerialDuelsAttemptedAverage": "40.25/40.25",
+        "aerialDuelsAttemptedAverageHome": "39.75/39.75",
+        "aerialDuelsAttemptedAverageAway": "40.75/40.75",
+        "dribblesTotals": "73/49",
+        "dribblesTotalsHome": "45/25",
+        "dribblesTotalsAway": "28/24",
+        "dribblesAverage": "9.13/6.13",
+        "dribblesAverageHome": "11.25/6.25",
+        "dribblesAverageAway": "7.00/6.00",
+        "dribblesAttemptedTotals": "145/108",
+        "dribblesAttemptedTotalsHome": "78/50",
+        "dribblesAttemptedTotalsAway": "67/58",
+        "dribblesAttemptedAverage": "18.13/13.50",
+        "dribblesAttemptedAverageHome": "19.50/12.50",
+        "dribblesAttemptedAverageAway": "16.75/14.50"
+    }
+}

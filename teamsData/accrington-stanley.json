@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.52",
+        "fouls": "11.48",
+        "goalKicks": "8.60",
+        "saves": "2.36",
+        "offsides": "1.96",
+        "shotsOnTarget": "4.16/3.60",
+        "yellowCards": "2.20/2.00",
+        "goals": "1.08/1.12",
+        "throwIns": "26.96",
+        "ballPossession": 49.24,
+        "tackles": "15.44/15.72",
+        "interceptions": "9.60/6.16",
+        "aerialDuels": "37.64",
+        "aerialDuelsAttempted": "74.36",
+        "dribbles": "5.16/6.20",
+        "dribblesAttempted": "12.12/13.28"
+    },
+    "teamSlug": "accrington-stanley",
+    "teamId": "187",
+    "teamName": "Accrington Stanley",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-milton-keynes-dons/esMd#id:14060764,tab:statistics",
+            "teams": [
+                "Accrington",
+                "MK Dons"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "187",
+                "4"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-notts-county/gbsMd#id:14061623,tab:statistics",
+            "teams": [
+                "Notts County",
+                "Accrington"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "56",
+                "187"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-harrogate-town/jdsMd#id:14061530,tab:statistics",
+            "teams": [
+                "Accrington",
+                "Harrogate"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "187",
+                "159"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-barrow/XbsMd#id:14061458,tab:statistics",
+            "teams": [
+                "Accrington",
+                "Barrow"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "187",
+                "97"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-cambridge-united/nbsMd#id:14061404,tab:statistics",
+            "teams": [
+                "Cambridge",
+                "Accrington"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "63",
+                "187"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-bromley/FdsMd#id:14061311,tab:statistics",
+            "teams": [
+                "Accrington",
+                "Bromley"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "187",
+                "180"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-harrogate-town/jdsMd#id:14061249,tab:statistics",
+            "teams": [
+                "Harrogate",
+                "Accrington"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "159",
+                "187"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crawley-town-accrington-stanley/MdsAXb#id:14061166,tab:statistics",
+            "teams": [
+                "Crawley",
+                "Accrington"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "4875",
+                "187"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/3[H]",
+            "fouls": "13/14[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "0/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "38/23[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Accrington,MK Dons,Home",
+            "tackles": "18/14[H]",
+            "interceptions": "3/4[H]",
+            "aerialDuels": "46/43[H]",
+            "aerialDuelsAttempted": "89/89[H]",
+            "dribbles": "3/3[H]",
+            "dribblesAttempted": "10/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/8[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "4/5[A]",
+            "goals": "1/0[A]",
+            "throwIns": "17/36[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Accrington,Notts County,Away",
+            "tackles": "14/13[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "23/19[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "8/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "3/7[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "40/31[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Accrington,Harrogate,Home",
+            "tackles": "16/18[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "41/48[H]",
+            "aerialDuelsAttempted": "89/89[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "4/8[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "4/5[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "27/32[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Accrington,Barrow,Home",
+            "tackles": "14/23[H]",
+            "interceptions": "10/5[H]",
+            "aerialDuels": "50/46[H]",
+            "aerialDuelsAttempted": "96/96[H]",
+            "dribbles": "10/8[H]",
+            "dribblesAttempted": "25/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "7/11[A]",
+            "goalKicks": "8/7[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "25/35[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Accrington,Cambridge,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "10/5[A]",
+            "aerialDuels": "26/45[A]",
+            "aerialDuelsAttempted": "71/71[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "8/11[H]",
+            "goalKicks": "16/14[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "25/26[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Accrington,Bromley,Home",
+            "tackles": "9/10[H]",
+            "interceptions": "5/12[H]",
+            "aerialDuels": "50/40[H]",
+            "aerialDuelsAttempted": "90/90[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "9/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "9/12[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "28/36[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Accrington,Harrogate,Away",
+            "tackles": "10/22[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "42/34[A]",
+            "aerialDuelsAttempted": "76/76[A]",
+            "dribbles": "6/11[A]",
+            "dribblesAttempted": "15/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "11/10[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "3/4[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "21/31[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Accrington,Crawley,Away",
+            "tackles": "19/9[A]",
+            "interceptions": "17/8[A]",
+            "aerialDuels": "15/18[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "12/18[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:35:24.598Z",
+    "endTime": "2026-01-24T14:36:03.693Z",
+    "totalTimeSeconds": 39.09,
+    "combinedMatchStatistics": {
+        "corners": "2/3[H]+5/8[A]+8/3[H]+4/5[H]+6/7[A]+7/4[H]+6/3[A]+4/7[A]",
+        "fouls": "13/14[H]+13/11[A]+10/9[H]+4/8[H]+7/11[A]+8/11[H]+9/12[A]+11/10[A]",
+        "goalKicks": "11/8[H]+7/4[A]+7/8[H]+11/11[H]+8/7[A]+16/14[H]+12/7[A]+10/6[A]",
+        "saves": "0/4[H]+4/4[A]+3/7[H]+4/5[H]+2/2[A]+4/1[H]+1/2[A]+3/4[A]",
+        "offsides": "1/3[H]+1/0[A]+1/0[H]+4/2[H]+2/0[A]+1/2[H]+2/0[A]+4/0[A]",
+        "shotsOnTarget": "4/2[H]+5/4[A]+8/3[H]+7/6[H]+2/4[A]+1/5[H]+4/1[A]+5/4[A]",
+        "yellowCards": "2/2[H]+4/5[A]+1/0[H]+0/2[H]+0/1[A]+1/3[H]+1/2[A]+2/3[A]",
+        "goals": "0/2[H]+1/0[A]+1/0[H]+2/1[H]+0/2[A]+0/1[H]+2/0[A]+1/1[A]",
+        "throwIns": "38/23[H]+17/36[A]+40/31[H]+27/32[H]+25/35[A]+25/26[H]+28/36[A]+21/31[A]",
+        "averageBallPossession": "65/35[H]+46/54[A]+55/45[H]+60/40[H]+55/45[A]+56/44[H]+47/53[A]+33/67[A]",
+        "teams": "Accrington,MK Dons,Home+Accrington,Notts County,Away+Accrington,Harrogate,Home+Accrington,Barrow,Home+Accrington,Cambridge,Away+Accrington,Bromley,Home+Accrington,Harrogate,Away+Accrington,Crawley,Away",
+        "tackles": "18/14[H]+14/13[A]+16/18[H]+14/23[H]+15/14[A]+9/10[H]+10/22[A]+19/9[A]",
+        "interceptions": "3/4[H]+8/9[A]+12/8[H]+10/5[H]+10/5[A]+5/12[H]+8/5[A]+17/8[A]",
+        "aerialDuels": "46/43[H]+23/19[A]+41/48[H]+50/46[H]+26/45[A]+50/40[H]+42/34[A]+15/18[A]",
+        "aerialDuelsAttempted": "89/89[H]+42/42[A]+89/89[H]+96/96[H]+71/71[A]+90/90[H]+76/76[A]+33/33[A]",
+        "dribbles": "3/3[H]+3/5[A]+5/8[H]+10/8[H]+3/4[A]+6/7[H]+6/11[A]+6/7[A]",
+        "dribblesAttempted": "10/12[H]+8/11[A]+14/15[H]+25/14[H]+9/12[A]+9/10[H]+15/16[A]+12/18[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "42/40",
+        "cornersTotalsHome": "21/15",
+        "cornersTotalsAway": "21/25",
+        "cornersAverage": "5.25/5.00",
+        "cornersAverageHome": "5.25/3.75",
+        "cornersAverageAway": "5.25/6.25",
+        "foulsTotals": "75/86",
+        "foulsTotalsHome": "35/42",
+        "foulsTotalsAway": "40/44",
+        "foulsAverage": "9.38/10.75",
+        "foulsAverageHome": "8.75/10.50",
+        "foulsAverageAway": "10.00/11.00",
+        "goalKicksTotals": "82/65",
+        "goalKicksTotalsHome": "45/41",
+        "goalKicksTotalsAway": "37/24",
+        "goalKicksAverage": "10.25/8.13",
+        "goalKicksAverageHome": "11.25/10.25",
+        "goalKicksAverageAway": "9.25/6.00",
+        "savesTotals": "21/29",
+        "savesTotalsHome": "11/17",
+        "savesTotalsAway": "10/12",
+        "savesAverage": "2.63/3.63",
+        "savesAverageHome": "2.75/4.25",
+        "savesAverageAway": "2.50/3.00",
+        "offsidesTotals": "16/7",
+        "offsidesTotalsHome": "7/7",
+        "offsidesTotalsAway": "9/0",
+        "offsidesAverage": "2.00/0.88",
+        "offsidesAverageHome": "1.75/1.75",
+        "offsidesAverageAway": "2.25/0.00",
+        "shotsOnTargetTotals": "36/29",
+        "shotsOnTargetTotalsHome": "20/16",
+        "shotsOnTargetTotalsAway": "16/13",
+        "shotsOnTargetAverage": "4.50/3.63",
+        "shotsOnTargetAverageHome": "5.00/4.00",
+        "shotsOnTargetAverageAway": "4.00/3.25",
+        "yellowCardsTotals": "11/18",
+        "yellowCardsTotalsHome": "4/7",
+        "yellowCardsTotalsAway": "7/11",
+        "yellowCardsAverage": "1.38/2.25",
+        "yellowCardsAverageHome": "1.00/1.75",
+        "yellowCardsAverageAway": "1.75/2.75",
+        "goalsTotals": "7/7",
+        "goalsTotalsHome": "3/4",
+        "goalsTotalsAway": "4/3",
+        "goalsAverage": "0.88/0.88",
+        "goalsAverageHome": "0.75/1.00",
+        "goalsAverageAway": "1.00/0.75",
+        "throwInsTotals": "221/250",
+        "throwInsTotalsHome": "130/112",
+        "throwInsTotalsAway": "91/138",
+        "throwInsAverage": "27.63/31.25",
+        "throwInsAverageHome": "32.50/28.00",
+        "throwInsAverageAway": "22.75/34.50",
+        "averageBallPossessionTotals": "417/383",
+        "averageBallPossessionTotalsHome": "236/164",
+        "averageBallPossessionTotalsAway": "181/219",
+        "averageBallPossessionAverage": "52.13/47.88",
+        "averageBallPossessionAverageHome": "59.00/41.00",
+        "averageBallPossessionAverageAway": "45.25/54.75",
+        "tacklesTotals": "115/123",
+        "tacklesTotalsHome": "57/65",
+        "tacklesTotalsAway": "58/58",
+        "tacklesAverage": "14.38/15.38",
+        "tacklesAverageHome": "14.25/16.25",
+        "tacklesAverageAway": "14.50/14.50",
+        "interceptionsTotals": "73/56",
+        "interceptionsTotalsHome": "30/29",
+        "interceptionsTotalsAway": "43/27",
+        "interceptionsAverage": "9.13/7.00",
+        "interceptionsAverageHome": "7.50/7.25",
+        "interceptionsAverageAway": "10.75/6.75",
+        "aerialDuelsTotals": "293/293",
+        "aerialDuelsTotalsHome": "187/177",
+        "aerialDuelsTotalsAway": "106/116",
+        "aerialDuelsAverage": "36.63/36.63",
+        "aerialDuelsAverageHome": "46.75/44.25",
+        "aerialDuelsAverageAway": "26.50/29.00",
+        "aerialDuelsAttemptedTotals": "586/586",
+        "aerialDuelsAttemptedTotalsHome": "364/364",
+        "aerialDuelsAttemptedTotalsAway": "222/222",
+        "aerialDuelsAttemptedAverage": "73.25/73.25",
+        "aerialDuelsAttemptedAverageHome": "91.00/91.00",
+        "aerialDuelsAttemptedAverageAway": "55.50/55.50",
+        "dribblesTotals": "42/53",
+        "dribblesTotalsHome": "24/26",
+        "dribblesTotalsAway": "18/27",
+        "dribblesAverage": "5.25/6.63",
+        "dribblesAverageHome": "6.00/6.50",
+        "dribblesAverageAway": "4.50/6.75",
+        "dribblesAttemptedTotals": "102/108",
+        "dribblesAttemptedTotalsHome": "58/51",
+        "dribblesAttemptedTotalsAway": "44/57",
+        "dribblesAttemptedAverage": "12.75/13.50",
+        "dribblesAttemptedAverageHome": "14.50/12.75",
+        "dribblesAttemptedAverageAway": "11.00/14.25"
+    }
+}

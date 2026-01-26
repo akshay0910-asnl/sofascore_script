@@ -1,27 +1,91 @@
 {
     "globalStatistics": {
-        "corners": "5.31",
-        "fouls": "11.63",
-        "goalKicks": "7.38",
-        "saves": "3.63",
-        "offsides": "1.44",
-        "shotsOnTarget": "4.06/5.31",
-        "yellowCards": "1.75/2.13",
-        "goals": "1.00/1.56",
-        "throwIns": "20.69",
-        "ballPossession": 49,
-        "tackles": "17.00/17.94",
-        "interceptions": "7.44/7.50",
-        "aerialDuels": "16.88",
-        "aerialDuelsAttempted": "31.56",
-        "dribbles": "5.63/6.13",
-        "dribblesAttempted": "14.38/14.38"
+        "corners": "5.15",
+        "fouls": "11.45",
+        "goalKicks": "7.80",
+        "saves": "3.60",
+        "offsides": "1.45",
+        "shotsOnTarget": "3.80/5.30",
+        "yellowCards": "1.90/2.15",
+        "goals": "1.05/1.60",
+        "throwIns": "20.40",
+        "ballPossession": 48.25,
+        "tackles": "17.00/16.95",
+        "interceptions": "7.70/8.00",
+        "aerialDuels": "18.05",
+        "aerialDuelsAttempted": "33.30",
+        "dribbles": "5.95/6.45",
+        "dribblesAttempted": "14.15/14.65"
     },
     "teamSlug": "nac-breda",
     "teamId": "2947",
     "teamName": "NAC Breda",
     "tournament": "VriendenLoterij Eredivisie",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/psv-eindhoven-nac-breda/Xibscjb#id:14053802,tab:statistics",
+            "teams": [
+                "PSV",
+                "NAC Breda"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2952",
+                "2947"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nec-nijmegen-nac-breda/Xibsmjb#id:14053796,tab:statistics",
+            "teams": [
+                "NAC Breda",
+                "NEC"
+            ],
+            "goals": [
+                "3",
+                "4"
+            ],
+            "teamIds": [
+                "2947",
+                "2962"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-groningen-nac-breda/Xibsbjb#id:14053766,tab:statistics",
+            "teams": [
+                "Groningen",
+                "NAC Breda"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2951",
+                "2947"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-telstar-nac-breda/Xibsxjb#id:14053729,tab:statistics",
+            "teams": [
+                "NAC Breda",
+                "Telstar"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2947",
+                "2972"
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/fc-utrecht-nac-breda/XibsYib#id:14053711,tab:statistics",
             "teams": [
@@ -85,203 +149,91 @@
                 "2952"
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/fc-volendam-nac-breda/Xibstjb#id:14053586,tab:statistics",
-            "teams": [
-                "Volendam",
-                "NAC Bredax2"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "2968",
-                "2947"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/go-ahead-eagles-nac-breda/XibsEjb#id:14053812,tab:statistics",
-            "teams": [
-                "NAC Breda",
-                "GA Eagles"
-            ],
-            "goals": [
-                "1",
-                "0"
-            ],
-            "teamIds": [
-                "2947",
-                "2979"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-heerenveen-nac-breda/Xibsojb#id:14053783,tab:statistics",
-            "teams": [
-                "Heerenveen",
-                "NAC Breda"
-            ],
-            "goals": [
-                "3",
-                "3"
-            ],
-            "teamIds": [
-                "2964",
-                "2947"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/pec-zwolle-nac-breda/Xibswjb#id:14053773,tab:statistics",
-            "teams": [
-                "NAC Breda",
-                "Zwolle"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "2947",
-                "2971"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/fc-groningen-nac-breda/Xibsbjb#id:14053737,tab:statistics",
-            "teams": [
-                "NAC Breda",
-                "Groningen"
-            ],
-            "goals": [
-                "1",
-                "2"
-            ],
-            "teamIds": [
-                "2947",
-                "2951"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/afc-ajax-nac-breda/Xibsdjb#id:14053718,tab:statistics",
-            "teams": [
-                "Ajax",
-                "NAC Breda"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "2953",
-                "2947"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/heracles-almelo-nac-breda/XibsCjb#id:14053699,tab:statistics",
-            "teams": [
-                "NAC Breda",
-                "Heracles"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "2947",
-                "2977"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/fc-twente-nac-breda/Xibsfjb#id:14053668,tab:statistics",
-            "teams": [
-                "Twente",
-                "NAC Breda"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "2955",
-                "2947"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/az-alkmaar-nac-breda/Xibsajb#id:14053657,tab:statistics",
-            "teams": [
-                "NAC Breda",
-                "AZ"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "2947",
-                "2950"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nec-nijmegen-nac-breda/Xibsmjb#id:14053629,tab:statistics",
-            "teams": [
-                "NEC",
-                "NAC Breda"
-            ],
-            "goals": [
-                "3",
-                "0"
-            ],
-            "teamIds": [
-                "2962",
-                "2947"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/fortuna-sittard-nac-breda/Xibshjb#id:14053609,tab:statistics",
-            "teams": [
-                "NAC Breda",
-                "Fortuna"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "2947",
-                "2957"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/feyenoord-nac-breda/Xibsjjb#id:14053580,tab:statistics",
-            "teams": [
-                "Feyenoord",
-                "NAC Breda"
-            ],
-            "goals": [
-                "2",
-                "0"
-            ],
-            "teamIds": [
-                "2959",
-                "2947"
-            ],
-            "isHome": false
         }
     ],
-    "homeMatchCount": 8,
-    "awayMatchCount": 8,
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "4/10[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "11/5[A]",
+            "saves": "2/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/2[A]",
+            "throwIns": "13/24[A]",
+            "averageBallPossession": "27/73[A]",
+            "teams": "NAC Breda,PSV,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "15/11[A]",
+            "aerialDuels": "17/16[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "9/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "5/8[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "3/4[H]",
+            "throwIns": "27/25[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "NAC Breda,NEC,Home",
+            "tackles": "25/13[H]",
+            "interceptions": "4/10[H]",
+            "aerialDuels": "33/19[H]",
+            "aerialDuelsAttempted": "52/52[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "19/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "6/7[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/25[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "NAC Breda,Groningen,Away",
+            "tackles": "16/12[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "26/19[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "12/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "9/13[H]",
+            "saves": "3/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "13/16[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "NAC Breda,Telstar,Home",
+            "tackles": "14/14[H]",
+            "interceptions": "6/11[H]",
+            "aerialDuels": "15/16[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
         {
             "corners": "6/5[H]",
             "fouls": "10/12[H]",
@@ -361,363 +313,126 @@
             "dribbles": "5/6[H]",
             "dribblesAttempted": "15/17[H]",
             "isHome": true
-        },
-        {
-            "corners": "6/8[A]",
-            "fouls": "9/13[A]",
-            "goalKicks": "10/9[A]",
-            "saves": "3/2[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "2/5[A]",
-            "yellowCards": "2/2[A]",
-            "goals": "1/2[A]",
-            "throwIns": "22/13[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "NAC Bredax2,Volendam,Away",
-            "tackles": "21/13[A]",
-            "interceptions": "10/6[A]",
-            "aerialDuels": "11/13[A]",
-            "aerialDuelsAttempted": "24/24[A]",
-            "dribbles": "3/6[A]",
-            "dribblesAttempted": "11/16[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/2[H]",
-            "fouls": "10/8[H]",
-            "goalKicks": "6/10[H]",
-            "saves": "2/1[H]",
-            "offsides": "1/2[H]",
-            "shotsOnTarget": "2/2[H]",
-            "yellowCards": "4/2[H]",
-            "goals": "1/0[H]",
-            "throwIns": "18/19[H]",
-            "averageBallPossession": "44/56[H]",
-            "teams": "NAC Breda,GA Eagles,Home",
-            "tackles": "16/13[H]",
-            "interceptions": "4/6[H]",
-            "aerialDuels": "25/18[H]",
-            "aerialDuelsAttempted": "43/43[H]",
-            "dribbles": "4/1[H]",
-            "dribblesAttempted": "9/7[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/4[A]",
-            "fouls": "10/10[A]",
-            "goalKicks": "10/5[A]",
-            "saves": "2/1[A]",
-            "offsides": "2/2[A]",
-            "shotsOnTarget": "4/4[A]",
-            "yellowCards": "0/1[A]",
-            "goals": "3/3[A]",
-            "throwIns": "20/11[A]",
-            "averageBallPossession": "46/54[A]",
-            "teams": "NAC Breda,Heerenveen,Away",
-            "tackles": "18/12[A]",
-            "interceptions": "3/8[A]",
-            "aerialDuels": "27/18[A]",
-            "aerialDuelsAttempted": "45/45[A]",
-            "dribbles": "6/7[A]",
-            "dribblesAttempted": "11/15[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/2[H]",
-            "fouls": "11/14[H]",
-            "goalKicks": "6/9[H]",
-            "saves": "1/4[H]",
-            "offsides": "1/0[H]",
-            "shotsOnTarget": "6/3[H]",
-            "yellowCards": "1/3[H]",
-            "goals": "2/2[H]",
-            "throwIns": "15/12[H]",
-            "averageBallPossession": "47/53[H]",
-            "teams": "NAC Breda,Zwolle,Home",
-            "tackles": "18/20[H]",
-            "interceptions": "7/5[H]",
-            "aerialDuels": "24/12[H]",
-            "aerialDuelsAttempted": "36/36[H]",
-            "dribbles": "8/3[H]",
-            "dribblesAttempted": "19/10[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/6[H]",
-            "fouls": "16/14[H]",
-            "goalKicks": "4/5[H]",
-            "saves": "7/3[H]",
-            "offsides": "3/3[H]",
-            "shotsOnTarget": "4/9[H]",
-            "yellowCards": "3/1[H]",
-            "goals": "1/2[H]",
-            "throwIns": "20/14[H]",
-            "averageBallPossession": "61/39[H]",
-            "teams": "NAC Breda,Groningen,Home",
-            "tackles": "15/19[H]",
-            "interceptions": "7/8[H]",
-            "aerialDuels": "21/9[H]",
-            "aerialDuelsAttempted": "30/30[H]",
-            "dribbles": "7/5[H]",
-            "dribblesAttempted": "20/14[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/2[A]",
-            "fouls": "14/11[A]",
-            "goalKicks": "3/3[A]",
-            "saves": "4/6[A]",
-            "offsides": "3/2[A]",
-            "shotsOnTarget": "7/7[A]",
-            "yellowCards": "4/2[A]",
-            "goals": "1/2[A]",
-            "throwIns": "23/12[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "NAC Breda,Ajax,Away",
-            "tackles": "18/20[A]",
-            "interceptions": "7/5[A]",
-            "aerialDuels": "17/10[A]",
-            "aerialDuelsAttempted": "27/27[A]",
-            "dribbles": "7/13[A]",
-            "dribblesAttempted": "21/27[A]",
-            "isHome": false
-        },
-        {
-            "corners": "10/4[H]",
-            "fouls": "9/16[H]",
-            "goalKicks": "5/7[H]",
-            "saves": "4/2[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "4/5[H]",
-            "yellowCards": "1/2[H]",
-            "goals": "2/1[H]",
-            "throwIns": "24/18[H]",
-            "averageBallPossession": "63/37[H]",
-            "teams": "NAC Breda,Heracles,Home",
-            "tackles": "9/13[H]",
-            "interceptions": "3/7[H]",
-            "aerialDuels": "18/25[H]",
-            "aerialDuelsAttempted": "43/43[H]",
-            "dribbles": "4/1[H]",
-            "dribblesAttempted": "12/7[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/4[A]",
-            "fouls": "17/15[A]",
-            "goalKicks": "10/5[A]",
-            "saves": "3/2[A]",
-            "offsides": "3/0[A]",
-            "shotsOnTarget": "4/6[A]",
-            "yellowCards": "1/2[A]",
-            "goals": "2/2[A]",
-            "throwIns": "29/25[A]",
-            "averageBallPossession": "40/60[A]",
-            "teams": "NAC Breda,Twente,Away",
-            "tackles": "13/26[A]",
-            "interceptions": "10/6[A]",
-            "aerialDuels": "22/26[A]",
-            "aerialDuelsAttempted": "48/48[A]",
-            "dribbles": "7/8[A]",
-            "dribblesAttempted": "17/11[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/7[H]",
-            "fouls": "8/13[H]",
-            "goalKicks": "11/4[H]",
-            "saves": "7/6[H]",
-            "offsides": "1/3[H]",
-            "shotsOnTarget": "6/8[H]",
-            "yellowCards": "0/5[H]",
-            "goals": "0/1[H]",
-            "throwIns": "16/12[H]",
-            "averageBallPossession": "38/62[H]",
-            "teams": "NAC Breda,AZ,Home",
-            "tackles": "17/14[H]",
-            "interceptions": "5/4[H]",
-            "aerialDuels": "13/12[H]",
-            "aerialDuelsAttempted": "25/25[H]",
-            "dribbles": "9/7[H]",
-            "dribblesAttempted": "14/17[H]",
-            "isHome": true
-        },
-        {
-            "corners": "1/3[A]",
-            "fouls": "18/16[A]",
-            "goalKicks": "9/4[A]",
-            "saves": "7/2[A]",
-            "offsides": "3/0[A]",
-            "shotsOnTarget": "2/10[A]",
-            "yellowCards": "4/2[A]",
-            "goals": "0/3[A]",
-            "throwIns": "19/17[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "NAC Breda,NEC,Away",
-            "tackles": "15/17[A]",
-            "interceptions": "6/7[A]",
-            "aerialDuels": "13/17[A]",
-            "aerialDuelsAttempted": "30/30[A]",
-            "dribbles": "8/7[A]",
-            "dribblesAttempted": "16/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/5[H]",
-            "fouls": "8/15[H]",
-            "goalKicks": "7/6[H]",
-            "saves": "3/4[H]",
-            "offsides": "2/0[H]",
-            "shotsOnTarget": "6/4[H]",
-            "yellowCards": "2/3[H]",
-            "goals": "2/1[H]",
-            "throwIns": "17/21[H]",
-            "averageBallPossession": "39/61[H]",
-            "teams": "NAC Breda,Fortuna,Home",
-            "tackles": "15/17[H]",
-            "interceptions": "10/7[H]",
-            "aerialDuels": "16/11[H]",
-            "aerialDuelsAttempted": "27/27[H]",
-            "dribbles": "3/4[H]",
-            "dribblesAttempted": "9/8[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/3[A]",
-            "fouls": "13/10[A]",
-            "goalKicks": "13/7[A]",
-            "saves": "2/0[A]",
-            "offsides": "0/1[A]",
-            "shotsOnTarget": "0/4[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "0/2[A]",
-            "throwIns": "21/25[A]",
-            "averageBallPossession": "40/60[A]",
-            "teams": "NAC Breda,Feyenoord,Away",
-            "tackles": "31/22[A]",
-            "interceptions": "8/7[A]",
-            "aerialDuels": "8/8[A]",
-            "aerialDuelsAttempted": "16/16[A]",
-            "dribbles": "4/16[A]",
-            "dribblesAttempted": "13/34[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
+    "startTime": "2026-01-25T15:55:25.597Z",
+    "endTime": "2026-01-25T15:55:40.683Z",
+    "totalTimeSeconds": 15.09,
     "combinedMatchStatistics": {
-        "corners": "6/5[H]+14/1[A]+6/1[A]+6/5[H]+6/8[A]+2/2[H]+5/4[A]+3/2[H]+7/6[H]+7/2[A]+10/4[H]+3/4[A]+1/7[H]+1/3[A]+4/5[H]+4/3[A]",
-        "fouls": "10/12[H]+10/11[A]+12/22[A]+11/15[H]+9/13[A]+10/8[H]+10/10[A]+11/14[H]+16/14[H]+14/11[A]+9/16[H]+17/15[A]+8/13[H]+18/16[A]+8/15[H]+13/10[A]",
-        "goalKicks": "6/8[H]+6/12[A]+5/12[A]+7/12[H]+10/9[A]+6/10[H]+10/5[A]+6/9[H]+4/5[H]+3/3[A]+5/7[H]+10/5[A]+11/4[H]+9/4[A]+7/6[H]+13/7[A]",
-        "saves": "5/2[H]+4/8[A]+1/3[A]+3/3[H]+3/2[A]+2/1[H]+2/1[A]+1/4[H]+7/3[H]+4/6[A]+4/2[H]+3/2[A]+7/6[H]+7/2[A]+3/4[H]+2/0[A]",
-        "offsides": "0/0[H]+2/4[A]+1/1[A]+0/0[H]+1/1[A]+1/2[H]+2/2[A]+1/0[H]+3/3[H]+3/2[A]+0/0[H]+3/0[A]+1/3[H]+3/0[A]+2/0[H]+0/1[A]",
-        "shotsOnTarget": "3/6[H]+9/6[A]+3/2[A]+3/4[H]+2/5[A]+2/2[H]+4/4[A]+6/3[H]+4/9[H]+7/7[A]+4/5[H]+4/6[A]+6/8[H]+2/10[A]+6/4[H]+0/4[A]",
-        "yellowCards": "2/2[H]+1/1[A]+1/4[A]+2/1[H]+2/2[A]+4/2[H]+0/1[A]+1/3[H]+3/1[H]+4/2[A]+1/2[H]+1/2[A]+0/5[H]+4/2[A]+2/3[H]+1/1[A]",
-        "goals": "1/1[H]+0/1[A]+0/1[A]+0/1[H]+1/2[A]+1/0[H]+3/3[A]+2/2[H]+1/2[H]+1/2[A]+2/1[H]+2/2[A]+0/1[H]+0/3[A]+2/1[H]+0/2[A]",
-        "throwIns": "13/16[H]+21/18[A]+31/16[A]+22/20[H]+22/13[A]+18/19[H]+20/11[A]+15/12[H]+20/14[H]+23/12[A]+24/18[H]+29/25[A]+16/12[H]+19/17[A]+17/21[H]+21/25[A]",
-        "averageBallPossession": "56/44[H]+59/41[A]+57/43[A]+47/53[H]+49/51[A]+44/56[H]+46/54[A]+47/53[H]+61/39[H]+49/51[A]+63/37[H]+40/60[A]+38/62[H]+49/51[A]+39/61[H]+40/60[A]",
-        "teams": "NAC Breda,Utrecht,Home+NAC Breda,Sparta,Away+NAC Breda,Excelsior,Away+NAC Breda,PSV,Home+NAC Bredax2,Volendam,Away+NAC Breda,GA Eagles,Home+NAC Breda,Heerenveen,Away+NAC Breda,Zwolle,Home+NAC Breda,Groningen,Home+NAC Breda,Ajax,Away+NAC Breda,Heracles,Home+NAC Breda,Twente,Away+NAC Breda,AZ,Home+NAC Breda,NEC,Away+NAC Breda,Fortuna,Home+NAC Breda,Feyenoord,Away",
-        "tackles": "16/20[H]+16/25[A]+14/14[A]+20/22[H]+21/13[A]+16/13[H]+18/12[A]+18/20[H]+15/19[H]+18/20[A]+9/13[H]+13/26[A]+17/14[H]+15/17[A]+15/17[H]+31/22[A]",
-        "interceptions": "16/14[H]+8/9[A]+7/11[A]+8/10[H]+10/6[A]+4/6[H]+3/8[A]+7/5[H]+7/8[H]+7/5[A]+3/7[H]+10/6[A]+5/4[H]+6/7[A]+10/7[H]+8/7[A]",
-        "aerialDuels": "11/14[H]+13/16[A]+14/9[A]+17/17[H]+11/13[A]+25/18[H]+27/18[A]+24/12[H]+21/9[H]+17/10[A]+18/25[H]+22/26[A]+13/12[H]+13/17[A]+16/11[H]+8/8[A]",
-        "aerialDuelsAttempted": "25/25[H]+29/29[A]+23/23[A]+34/34[H]+24/24[A]+43/43[H]+45/45[A]+36/36[H]+30/30[H]+27/27[A]+43/43[H]+48/48[A]+25/25[H]+30/30[A]+27/27[H]+16/16[A]",
-        "dribbles": "6/4[H]+5/9[A]+4/1[A]+5/6[H]+3/6[A]+4/1[H]+6/7[A]+8/3[H]+7/5[H]+7/13[A]+4/1[H]+7/8[A]+9/7[H]+8/7[A]+3/4[H]+4/16[A]",
-        "dribblesAttempted": "17/10[H]+17/18[A]+9/6[A]+15/17[H]+11/16[A]+9/7[H]+11/15[A]+19/10[H]+20/14[H]+21/27[A]+12/7[H]+17/11[A]+14/17[H]+16/13[A]+9/8[H]+13/34[A]",
-        "isHome": "true+false+false+true+false+true+false+true+true+false+true+false+true+false+true+false",
-        "cornersTotals": "85/62",
-        "cornersTotalsHome": "39/36",
-        "cornersTotalsAway": "46/26",
-        "cornersAverage": "5.31/3.88",
-        "cornersAverageHome": "4.88/4.50",
-        "cornersAverageAway": "5.75/3.25",
-        "foulsTotals": "186/215",
-        "foulsTotalsHome": "83/107",
-        "foulsTotalsAway": "103/108",
-        "foulsAverage": "11.63/13.44",
-        "foulsAverageHome": "10.38/13.38",
-        "foulsAverageAway": "12.88/13.50",
-        "goalKicksTotals": "118/118",
-        "goalKicksTotalsHome": "52/61",
-        "goalKicksTotalsAway": "66/57",
-        "goalKicksAverage": "7.38/7.38",
-        "goalKicksAverageHome": "6.50/7.63",
-        "goalKicksAverageAway": "8.25/7.13",
-        "savesTotals": "58/49",
-        "savesTotalsHome": "32/25",
-        "savesTotalsAway": "26/24",
-        "savesAverage": "3.63/3.06",
-        "savesAverageHome": "4.00/3.13",
-        "savesAverageAway": "3.25/3.00",
-        "offsidesTotals": "23/19",
-        "offsidesTotalsHome": "8/8",
-        "offsidesTotalsAway": "15/11",
-        "offsidesAverage": "1.44/1.19",
-        "offsidesAverageHome": "1.00/1.00",
-        "offsidesAverageAway": "1.88/1.38",
-        "shotsOnTargetTotals": "65/85",
-        "shotsOnTargetTotalsHome": "34/41",
-        "shotsOnTargetTotalsAway": "31/44",
-        "shotsOnTargetAverage": "4.06/5.31",
-        "shotsOnTargetAverageHome": "4.25/5.13",
-        "shotsOnTargetAverageAway": "3.88/5.50",
-        "yellowCardsTotals": "29/34",
-        "yellowCardsTotalsHome": "15/19",
-        "yellowCardsTotalsAway": "14/15",
-        "yellowCardsAverage": "1.81/2.13",
-        "yellowCardsAverageHome": "1.88/2.38",
-        "yellowCardsAverageAway": "1.75/1.88",
-        "goalsTotals": "16/25",
-        "goalsTotalsHome": "9/9",
-        "goalsTotalsAway": "7/16",
-        "goalsAverage": "1.00/1.56",
-        "goalsAverageHome": "1.13/1.13",
-        "goalsAverageAway": "0.88/2.00",
-        "throwInsTotals": "331/269",
-        "throwInsTotalsHome": "145/132",
-        "throwInsTotalsAway": "186/137",
-        "throwInsAverage": "20.69/16.81",
-        "throwInsAverageHome": "18.13/16.50",
-        "throwInsAverageAway": "23.25/17.13",
-        "averageBallPossessionTotals": "784/816",
-        "averageBallPossessionTotalsHome": "395/405",
-        "averageBallPossessionTotalsAway": "389/411",
-        "averageBallPossessionAverage": "49.00/51.00",
-        "averageBallPossessionAverageHome": "49.38/50.63",
-        "averageBallPossessionAverageAway": "48.63/51.38",
-        "tacklesTotals": "272/287",
-        "tacklesTotalsHome": "126/138",
-        "tacklesTotalsAway": "146/149",
-        "tacklesAverage": "17.00/17.94",
-        "tacklesAverageHome": "15.75/17.25",
-        "tacklesAverageAway": "18.25/18.63",
-        "interceptionsTotals": "119/120",
-        "interceptionsTotalsHome": "60/61",
-        "interceptionsTotalsAway": "59/59",
-        "interceptionsAverage": "7.44/7.50",
-        "interceptionsAverageHome": "7.50/7.63",
-        "interceptionsAverageAway": "7.38/7.38",
-        "aerialDuelsTotals": "270/235",
-        "aerialDuelsTotalsHome": "145/118",
-        "aerialDuelsTotalsAway": "125/117",
-        "aerialDuelsAverage": "16.88/14.69",
-        "aerialDuelsAverageHome": "18.13/14.75",
-        "aerialDuelsAverageAway": "15.63/14.63",
-        "aerialDuelsAttemptedTotals": "505/505",
-        "aerialDuelsAttemptedTotalsHome": "263/263",
-        "aerialDuelsAttemptedTotalsAway": "242/242",
-        "aerialDuelsAttemptedAverage": "31.56/31.56",
-        "aerialDuelsAttemptedAverageHome": "32.88/32.88",
-        "aerialDuelsAttemptedAverageAway": "30.25/30.25",
-        "dribblesTotals": "90/98",
-        "dribblesTotalsHome": "46/31",
-        "dribblesTotalsAway": "44/67",
-        "dribblesAverage": "5.63/6.13",
-        "dribblesAverageHome": "5.75/3.88",
-        "dribblesAverageAway": "5.50/8.38",
-        "dribblesAttemptedTotals": "230/230",
-        "dribblesAttemptedTotalsHome": "115/90",
-        "dribblesAttemptedTotalsAway": "115/140",
-        "dribblesAttemptedAverage": "14.38/14.38",
-        "dribblesAttemptedAverageHome": "14.38/11.25",
-        "dribblesAttemptedAverageAway": "14.38/17.50"
+        "corners": "4/10[A]+2/3[H]+4/3[A]+8/3[H]+6/5[H]+14/1[A]+6/1[A]+6/5[H]",
+        "fouls": "13/13[A]+13/15[H]+6/7[A]+11/16[H]+10/12[H]+10/11[A]+12/22[A]+11/15[H]",
+        "goalKicks": "11/5[A]+5/7[H]+13/6[A]+9/13[H]+6/8[H]+6/12[A]+5/12[A]+7/12[H]",
+        "saves": "2/0[A]+4/2[H]+5/2[A]+3/2[H]+5/2[H]+4/8[A]+1/3[A]+3/3[H]",
+        "offsides": "2/1[A]+3/3[H]+1/1[A]+0/1[H]+0/0[H]+2/4[A]+1/1[A]+0/0[H]",
+        "shotsOnTarget": "2/4[A]+5/8[H]+2/5[A]+2/4[H]+3/6[H]+9/6[A]+3/2[A]+3/4[H]",
+        "yellowCards": "3/4[A]+3/1[H]+2/1[A]+2/3[H]+2/2[H]+1/1[A]+1/4[A]+2/1[H]",
+        "goals": "2/2[A]+3/4[H]+0/0[A]+0/1[H]+1/1[H]+0/1[A]+0/1[A]+0/1[H]",
+        "throwIns": "13/24[A]+27/25[H]+24/25[A]+13/16[H]+13/16[H]+21/18[A]+31/16[A]+22/20[H]",
+        "averageBallPossession": "27/73[A]+46/54[H]+45/55[A]+63/37[H]+56/44[H]+59/41[A]+57/43[A]+47/53[H]",
+        "teams": "NAC Breda,PSV,Away+NAC Breda,NEC,Home+NAC Breda,Groningen,Away+NAC Breda,Telstar,Home+NAC Breda,Utrecht,Home+NAC Breda,Sparta,Away+NAC Breda,Excelsior,Away+NAC Breda,PSV,Home",
+        "tackles": "13/13[A]+25/13[H]+16/12[A]+14/14[H]+16/20[H]+16/25[A]+14/14[A]+20/22[H]",
+        "interceptions": "15/11[A]+4/10[H]+10/8[A]+6/11[H]+16/14[H]+8/9[A]+7/11[A]+8/10[H]",
+        "aerialDuels": "17/16[A]+33/19[H]+26/19[A]+15/16[H]+11/14[H]+13/16[A]+14/9[A]+17/17[H]",
+        "aerialDuelsAttempted": "33/33[A]+52/52[H]+45/45[A]+31/31[H]+25/25[H]+29/29[A]+23/23[A]+34/34[H]",
+        "dribbles": "3/8[A]+11/10[H]+8/9[A]+7/4[H]+6/4[H]+5/9[A]+4/1[A]+5/6[H]",
+        "dribblesAttempted": "9/16[A]+19/20[H]+12/17[A]+13/10[H]+17/10[H]+17/18[A]+9/6[A]+15/17[H]",
+        "isHome": "false+true+false+true+true+false+false+true",
+        "cornersTotals": "50/31",
+        "cornersTotalsHome": "22/16",
+        "cornersTotalsAway": "28/15",
+        "cornersAverage": "6.25/3.88",
+        "cornersAverageHome": "5.50/4.00",
+        "cornersAverageAway": "7.00/3.75",
+        "foulsTotals": "86/111",
+        "foulsTotalsHome": "45/58",
+        "foulsTotalsAway": "41/53",
+        "foulsAverage": "10.75/13.88",
+        "foulsAverageHome": "11.25/14.50",
+        "foulsAverageAway": "10.25/13.25",
+        "goalKicksTotals": "62/75",
+        "goalKicksTotalsHome": "27/40",
+        "goalKicksTotalsAway": "35/35",
+        "goalKicksAverage": "7.75/9.38",
+        "goalKicksAverageHome": "6.75/10.00",
+        "goalKicksAverageAway": "8.75/8.75",
+        "savesTotals": "27/22",
+        "savesTotalsHome": "15/9",
+        "savesTotalsAway": "12/13",
+        "savesAverage": "3.38/2.75",
+        "savesAverageHome": "3.75/2.25",
+        "savesAverageAway": "3.00/3.25",
+        "offsidesTotals": "9/11",
+        "offsidesTotalsHome": "3/4",
+        "offsidesTotalsAway": "6/7",
+        "offsidesAverage": "1.13/1.38",
+        "offsidesAverageHome": "0.75/1.00",
+        "offsidesAverageAway": "1.50/1.75",
+        "shotsOnTargetTotals": "29/39",
+        "shotsOnTargetTotalsHome": "13/22",
+        "shotsOnTargetTotalsAway": "16/17",
+        "shotsOnTargetAverage": "3.63/4.88",
+        "shotsOnTargetAverageHome": "3.25/5.50",
+        "shotsOnTargetAverageAway": "4.00/4.25",
+        "yellowCardsTotals": "16/17",
+        "yellowCardsTotalsHome": "9/7",
+        "yellowCardsTotalsAway": "7/10",
+        "yellowCardsAverage": "2.00/2.13",
+        "yellowCardsAverageHome": "2.25/1.75",
+        "yellowCardsAverageAway": "1.75/2.50",
+        "goalsTotals": "6/11",
+        "goalsTotalsHome": "4/7",
+        "goalsTotalsAway": "2/4",
+        "goalsAverage": "0.75/1.38",
+        "goalsAverageHome": "1.00/1.75",
+        "goalsAverageAway": "0.50/1.00",
+        "throwInsTotals": "164/160",
+        "throwInsTotalsHome": "75/77",
+        "throwInsTotalsAway": "89/83",
+        "throwInsAverage": "20.50/20.00",
+        "throwInsAverageHome": "18.75/19.25",
+        "throwInsAverageAway": "22.25/20.75",
+        "averageBallPossessionTotals": "400/400",
+        "averageBallPossessionTotalsHome": "212/188",
+        "averageBallPossessionTotalsAway": "188/212",
+        "averageBallPossessionAverage": "50.00/50.00",
+        "averageBallPossessionAverageHome": "53.00/47.00",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "134/133",
+        "tacklesTotalsHome": "75/69",
+        "tacklesTotalsAway": "59/64",
+        "tacklesAverage": "16.75/16.63",
+        "tacklesAverageHome": "18.75/17.25",
+        "tacklesAverageAway": "14.75/16.00",
+        "interceptionsTotals": "74/84",
+        "interceptionsTotalsHome": "34/45",
+        "interceptionsTotalsAway": "40/39",
+        "interceptionsAverage": "9.25/10.50",
+        "interceptionsAverageHome": "8.50/11.25",
+        "interceptionsAverageAway": "10.00/9.75",
+        "aerialDuelsTotals": "146/126",
+        "aerialDuelsTotalsHome": "76/66",
+        "aerialDuelsTotalsAway": "70/60",
+        "aerialDuelsAverage": "18.25/15.75",
+        "aerialDuelsAverageHome": "19.00/16.50",
+        "aerialDuelsAverageAway": "17.50/15.00",
+        "aerialDuelsAttemptedTotals": "272/272",
+        "aerialDuelsAttemptedTotalsHome": "142/142",
+        "aerialDuelsAttemptedTotalsAway": "130/130",
+        "aerialDuelsAttemptedAverage": "34.00/34.00",
+        "aerialDuelsAttemptedAverageHome": "35.50/35.50",
+        "aerialDuelsAttemptedAverageAway": "32.50/32.50",
+        "dribblesTotals": "49/51",
+        "dribblesTotalsHome": "29/24",
+        "dribblesTotalsAway": "20/27",
+        "dribblesAverage": "6.13/6.38",
+        "dribblesAverageHome": "7.25/6.00",
+        "dribblesAverageAway": "5.00/6.75",
+        "dribblesAttemptedTotals": "111/114",
+        "dribblesAttemptedTotalsHome": "64/57",
+        "dribblesAttemptedTotalsAway": "47/57",
+        "dribblesAttemptedAverage": "13.88/14.25",
+        "dribblesAttemptedAverageHome": "16.00/14.25",
+        "dribblesAttemptedAverageAway": "11.75/14.25"
     }
 }

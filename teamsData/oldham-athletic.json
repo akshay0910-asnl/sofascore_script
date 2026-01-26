@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.76",
+        "fouls": "13.84",
+        "goalKicks": "9.20",
+        "saves": "2.68",
+        "offsides": "2.32",
+        "shotsOnTarget": "4.56/3.56",
+        "yellowCards": "2.00/1.96",
+        "goals": "1.04/0.80",
+        "throwIns": "26.76",
+        "ballPossession": 48.04,
+        "tackles": "15.44/13.64",
+        "interceptions": "7.64/6.92",
+        "aerialDuels": "33.12",
+        "aerialDuelsAttempted": "62.24",
+        "dribbles": "4.40/6.36",
+        "dribblesAttempted": "9.64/13.72"
+    },
+    "teamSlug": "oldham-athletic",
+    "teamId": "65",
+    "teamName": "Oldham Athletic",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/cheltenham-town-oldham-athletic/pbsub#id:14060807,tab:statistics",
+            "teams": [
+                "Oldham",
+                "Cheltenham"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "65",
+                "69"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-oldham-athletic/pbstb#id:14061629,tab:statistics",
+            "teams": [
+                "Oldham",
+                "Chesterfield"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "65",
+                "68"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oldham-athletic-walsall/Bspb#id:14061579,tab:statistics",
+            "teams": [
+                "Walsall",
+                "Oldham"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "26",
+                "65"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oldham-athletic-grimsby-town/tspb#id:14061493,tab:statistics",
+            "teams": [
+                "Grimsby",
+                "Oldham"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "18",
+                "65"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oldham-athletic-tranmere-rovers/bbspb#id:14061440,tab:statistics",
+            "teams": [
+                "Oldham",
+                "Tranmere"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "65",
+                "51"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crawley-town-oldham-athletic/pbsAXb#id:14061338,tab:statistics",
+            "teams": [
+                "Crawley",
+                "Oldham"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "4875",
+                "65"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oldham-athletic-walsall/Bspb#id:14061274,tab:statistics",
+            "teams": [
+                "Oldham",
+                "Walsall"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "65",
+                "26"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-oldham-athletic/pbsMd#id:14060794,tab:statistics",
+            "teams": [
+                "Accrington",
+                "Oldham"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "187",
+                "65"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/6[H]",
+            "fouls": "13/14[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "6/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "23/22[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Oldham,Cheltenham,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "9/13[H]",
+            "aerialDuels": "49/29[H]",
+            "aerialDuelsAttempted": "78/78[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "11/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "4/2[H]",
+            "offsides": "5/0[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/39[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Oldham,Chesterfield,Home",
+            "tackles": "11/7[H]",
+            "interceptions": "2/2[H]",
+            "aerialDuels": "26/26[H]",
+            "aerialDuelsAttempted": "52/52[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "6/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "3/4[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "27/29[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Oldham,Walsall,Away",
+            "tackles": "21/12[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "29/30[A]",
+            "aerialDuelsAttempted": "59/59[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "8/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/11[A]",
+            "fouls": "22/9[A]",
+            "goalKicks": "14/5[A]",
+            "saves": "2/6[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "7/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "36/42[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Oldham,Grimsby,Away",
+            "tackles": "15/15[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "30/41[A]",
+            "aerialDuelsAttempted": "71/71[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "9/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "13/8[H]",
+            "goalKicks": "18/12[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "7/4[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "14/29[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Oldham,Tranmere,Home",
+            "tackles": "16/9[H]",
+            "interceptions": "12/3[H]",
+            "aerialDuels": "36/31[H]",
+            "aerialDuelsAttempted": "67/67[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "4/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "13/16[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "3/6[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "32/27[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Oldham,Crawley,Away",
+            "tackles": "9/7[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "40/35[A]",
+            "aerialDuelsAttempted": "75/75[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "7/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "16/16[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "0/4[H]",
+            "offsides": "0/5[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "44/30[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Oldham,Walsall,Home",
+            "tackles": "11/9[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "34/28[H]",
+            "aerialDuelsAttempted": "62/62[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "8/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "30/31[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Oldham,Accrington,Away",
+            "tackles": "6/10[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "35/31[A]",
+            "aerialDuelsAttempted": "66/66[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "9/6[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:20:28.828Z",
+    "endTime": "2026-01-24T14:21:03.372Z",
+    "totalTimeSeconds": 34.54,
+    "combinedMatchStatistics": {
+        "corners": "5/6[H]+6/4[H]+7/4[A]+2/11[A]+5/3[H]+7/4[A]+4/4[H]+6/2[A]",
+        "fouls": "13/14[H]+13/13[H]+15/13[A]+22/9[A]+13/8[H]+13/16[A]+16/16[H]+15/9[A]",
+        "goalKicks": "11/8[H]+5/8[H]+11/11[A]+14/5[A]+18/12[H]+6/7[A]+8/9[H]+9/8[A]",
+        "saves": "6/2[H]+4/2[H]+3/4[A]+2/6[A]+3/4[H]+3/6[A]+0/4[H]+1/5[A]",
+        "offsides": "2/1[H]+5/0[H]+4/0[A]+1/2[A]+1/2[H]+5/2[A]+0/5[H]+1/1[A]",
+        "shotsOnTarget": "4/7[H]+3/5[H]+6/4[A]+7/3[A]+7/4[H]+8/5[A]+4/1[H]+5/1[A]",
+        "yellowCards": "4/1[H]+3/2[H]+2/2[A]+2/1[A]+3/1[H]+3/1[A]+3/2[H]+2/4[A]",
+        "goals": "2/1[H]+1/1[H]+2/1[A]+0/0[A]+3/1[H]+2/2[A]+0/1[H]+0/1[A]",
+        "throwIns": "23/22[H]+19/39[H]+27/29[A]+36/42[A]+14/29[H]+32/27[A]+44/30[H]+30/31[A]",
+        "averageBallPossession": "46/54[H]+45/55[H]+47/53[A]+39/61[A]+36/64[H]+44/56[A]+53/47[H]+50/50[A]",
+        "teams": "Oldham,Cheltenham,Home+Oldham,Chesterfield,Home+Oldham,Walsall,Away+Oldham,Grimsby,Away+Oldham,Tranmere,Home+Oldham,Crawley,Away+Oldham,Walsall,Home+Oldham,Accrington,Away",
+        "tackles": "19/13[H]+11/7[H]+21/12[A]+15/15[A]+16/9[H]+9/7[A]+11/9[H]+6/10[A]",
+        "interceptions": "9/13[H]+2/2[H]+7/8[A]+5/5[A]+12/3[H]+9/4[A]+8/7[H]+5/5[A]",
+        "aerialDuels": "49/29[H]+26/26[H]+29/30[A]+30/41[A]+36/31[H]+40/35[A]+34/28[H]+35/31[A]",
+        "aerialDuelsAttempted": "78/78[H]+52/52[H]+59/59[A]+71/71[A]+67/67[H]+75/75[A]+62/62[H]+66/66[A]",
+        "dribbles": "4/5[H]+4/3[H]+3/9[A]+5/7[A]+2/4[H]+4/4[A]+5/7[H]+5/3[A]",
+        "dribblesAttempted": "11/14[H]+6/10[H]+8/18[A]+9/16[A]+4/11[H]+7/9[A]+8/12[H]+9/6[A]",
+        "isHome": "true+true+false+false+true+false+true+false",
+        "cornersTotals": "42/38",
+        "cornersTotalsHome": "20/17",
+        "cornersTotalsAway": "22/21",
+        "cornersAverage": "5.25/4.75",
+        "cornersAverageHome": "5.00/4.25",
+        "cornersAverageAway": "5.50/5.25",
+        "foulsTotals": "120/98",
+        "foulsTotalsHome": "55/51",
+        "foulsTotalsAway": "65/47",
+        "foulsAverage": "15.00/12.25",
+        "foulsAverageHome": "13.75/12.75",
+        "foulsAverageAway": "16.25/11.75",
+        "goalKicksTotals": "82/68",
+        "goalKicksTotalsHome": "42/37",
+        "goalKicksTotalsAway": "40/31",
+        "goalKicksAverage": "10.25/8.50",
+        "goalKicksAverageHome": "10.50/9.25",
+        "goalKicksAverageAway": "10.00/7.75",
+        "savesTotals": "22/33",
+        "savesTotalsHome": "13/12",
+        "savesTotalsAway": "9/21",
+        "savesAverage": "2.75/4.13",
+        "savesAverageHome": "3.25/3.00",
+        "savesAverageAway": "2.25/5.25",
+        "offsidesTotals": "19/13",
+        "offsidesTotalsHome": "8/8",
+        "offsidesTotalsAway": "11/5",
+        "offsidesAverage": "2.38/1.63",
+        "offsidesAverageHome": "2.00/2.00",
+        "offsidesAverageAway": "2.75/1.25",
+        "shotsOnTargetTotals": "44/30",
+        "shotsOnTargetTotalsHome": "18/17",
+        "shotsOnTargetTotalsAway": "26/13",
+        "shotsOnTargetAverage": "5.50/3.75",
+        "shotsOnTargetAverageHome": "4.50/4.25",
+        "shotsOnTargetAverageAway": "6.50/3.25",
+        "yellowCardsTotals": "22/14",
+        "yellowCardsTotalsHome": "13/6",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "2.75/1.75",
+        "yellowCardsAverageHome": "3.25/1.50",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "10/8",
+        "goalsTotalsHome": "6/4",
+        "goalsTotalsAway": "4/4",
+        "goalsAverage": "1.25/1.00",
+        "goalsAverageHome": "1.50/1.00",
+        "goalsAverageAway": "1.00/1.00",
+        "throwInsTotals": "225/249",
+        "throwInsTotalsHome": "100/120",
+        "throwInsTotalsAway": "125/129",
+        "throwInsAverage": "28.13/31.13",
+        "throwInsAverageHome": "25.00/30.00",
+        "throwInsAverageAway": "31.25/32.25",
+        "averageBallPossessionTotals": "360/440",
+        "averageBallPossessionTotalsHome": "180/220",
+        "averageBallPossessionTotalsAway": "180/220",
+        "averageBallPossessionAverage": "45.00/55.00",
+        "averageBallPossessionAverageHome": "45.00/55.00",
+        "averageBallPossessionAverageAway": "45.00/55.00",
+        "tacklesTotals": "108/82",
+        "tacklesTotalsHome": "57/38",
+        "tacklesTotalsAway": "51/44",
+        "tacklesAverage": "13.50/10.25",
+        "tacklesAverageHome": "14.25/9.50",
+        "tacklesAverageAway": "12.75/11.00",
+        "interceptionsTotals": "57/47",
+        "interceptionsTotalsHome": "31/25",
+        "interceptionsTotalsAway": "26/22",
+        "interceptionsAverage": "7.13/5.88",
+        "interceptionsAverageHome": "7.75/6.25",
+        "interceptionsAverageAway": "6.50/5.50",
+        "aerialDuelsTotals": "279/251",
+        "aerialDuelsTotalsHome": "145/114",
+        "aerialDuelsTotalsAway": "134/137",
+        "aerialDuelsAverage": "34.88/31.38",
+        "aerialDuelsAverageHome": "36.25/28.50",
+        "aerialDuelsAverageAway": "33.50/34.25",
+        "aerialDuelsAttemptedTotals": "530/530",
+        "aerialDuelsAttemptedTotalsHome": "259/259",
+        "aerialDuelsAttemptedTotalsAway": "271/271",
+        "aerialDuelsAttemptedAverage": "66.25/66.25",
+        "aerialDuelsAttemptedAverageHome": "64.75/64.75",
+        "aerialDuelsAttemptedAverageAway": "67.75/67.75",
+        "dribblesTotals": "32/42",
+        "dribblesTotalsHome": "15/19",
+        "dribblesTotalsAway": "17/23",
+        "dribblesAverage": "4.00/5.25",
+        "dribblesAverageHome": "3.75/4.75",
+        "dribblesAverageAway": "4.25/5.75",
+        "dribblesAttemptedTotals": "62/96",
+        "dribblesAttemptedTotalsHome": "29/47",
+        "dribblesAttemptedTotalsAway": "33/49",
+        "dribblesAttemptedAverage": "7.75/12.00",
+        "dribblesAttemptedAverageHome": "7.25/11.75",
+        "dribblesAttemptedAverageAway": "8.25/12.25"
+    }
+}

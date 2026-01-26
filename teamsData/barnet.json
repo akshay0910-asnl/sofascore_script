@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "7.24",
+        "fouls": "11.84",
+        "goalKicks": "8.04",
+        "saves": "2.20",
+        "offsides": "2.64",
+        "shotsOnTarget": "4.88/3.32",
+        "yellowCards": "1.52/1.96",
+        "goals": "1.28/1.08",
+        "throwIns": "29.56",
+        "ballPossession": 55.2,
+        "tackles": "14.76/20.24",
+        "interceptions": "6.56/7.68",
+        "aerialDuels": "30.68",
+        "aerialDuelsAttempted": "57.92",
+        "dribbles": "7.40/6.20",
+        "dribblesAttempted": "16.72/12.96"
+    },
+    "teamSlug": "barnet",
+    "teamId": "77",
+    "teamName": "Barnet",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/barnet-grimsby-town/tsCb#id:14060802,tab:statistics",
+            "teams": [
+                "Grimsby",
+                "Barnet"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "18",
+                "77"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crawley-town-barnet/CbsAXb#id:14061584,tab:statistics",
+            "teams": [
+                "Barnet",
+                "Crawley"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "77",
+                "4875"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barnet-bristol-rovers/BbsCb#id:14061535,tab:statistics",
+            "teams": [
+                "Bristol Rovers",
+                "Barnet"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "76",
+                "77"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-barnet/CbsEb#id:14061505,tab:statistics",
+            "teams": [
+                "Newport",
+                "Barnet"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "79",
+                "77"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/salford-city-barnet/CbsYjp#id:14061386,tab:statistics",
+            "teams": [
+                "Barnet",
+                "Salford"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "77",
+                "37998"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barnet-chesterfield/tbsCb#id:14061332,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Barnet"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "68",
+                "77"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barnet-bristol-rovers/BbsCb#id:14061113,tab:statistics",
+            "teams": [
+                "Barnet",
+                "Bristol Rovers"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "77",
+                "76"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/harrogate-town-barnet/Cbsjd#id:14060823,tab:statistics",
+            "teams": [
+                "Barnet",
+                "Harrogate"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "77",
+                "159"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/5[A]",
+            "fouls": "9/12[A]",
+            "goalKicks": "10/10[A]",
+            "saves": "4/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "27/19[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Barnet,Grimsby,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "7/4[A]",
+            "aerialDuels": "29/21[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "11/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/5[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "8/15[H]",
+            "saves": "6/5[H]",
+            "offsides": "5/3[H]",
+            "shotsOnTarget": "7/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "22/25[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Barnet,Crawley,Home",
+            "tackles": "21/22[H]",
+            "interceptions": "6/13[H]",
+            "aerialDuels": "42/24[H]",
+            "aerialDuelsAttempted": "66/66[H]",
+            "dribbles": "7/16[H]",
+            "dribblesAttempted": "15/30[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "8/9[A]",
+            "goalKicks": "12/8[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "34/37[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Barnet,Bristol Rovers,Away",
+            "tackles": "6/23[A]",
+            "interceptions": "12/4[A]",
+            "aerialDuels": "35/29[A]",
+            "aerialDuelsAttempted": "64/64[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "17/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/1[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "7/12[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "28/25[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Barnet,Newport,Away",
+            "tackles": "13/18[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "40/25[A]",
+            "aerialDuelsAttempted": "65/65[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "17/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "12/17[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "3/6[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "34/24[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Barnet,Salford,Home",
+            "tackles": "16/23[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "36/26[H]",
+            "aerialDuelsAttempted": "62/62[H]",
+            "dribbles": "6/1[H]",
+            "dribblesAttempted": "16/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "13/5[A]",
+            "fouls": "4/9[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "3/2[A]",
+            "offsides": "7/4[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "1/3[A]",
+            "throwIns": "28/37[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Barnet,Chesterfield,Away",
+            "tackles": "16/22[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "20/18[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "26/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/5[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "2/6[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "4/0[H]",
+            "throwIns": "25/30[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Barnet,Bristol Rovers,Home",
+            "tackles": "17/25[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "20/18[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "23/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "17/14[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "42/17[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Barnet,Harrogate,Home",
+            "tackles": "19/17[H]",
+            "interceptions": "6/11[H]",
+            "aerialDuels": "35/37[H]",
+            "aerialDuelsAttempted": "72/72[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "13/16[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:19:41.668Z",
+    "endTime": "2026-01-24T14:20:26.335Z",
+    "totalTimeSeconds": 44.67,
+    "combinedMatchStatistics": {
+        "corners": "7/5[A]+13/5[H]+5/3[A]+7/1[A]+3/4[H]+13/5[A]+9/5[H]+7/3[H]",
+        "fouls": "9/12[A]+15/14[H]+8/9[A]+14/11[A]+12/17[H]+4/9[A]+11/12[H]+17/14[H]",
+        "goalKicks": "10/10[A]+8/15[H]+12/8[A]+7/12[A]+10/9[H]+4/5[A]+7/10[H]+9/11[H]",
+        "saves": "4/2[A]+6/5[H]+3/1[A]+2/1[A]+3/6[H]+3/2[A]+2/6[H]+1/4[H]",
+        "offsides": "2/2[A]+5/3[H]+3/2[A]+2/3[A]+0/0[H]+7/4[A]+1/4[H]+2/3[H]",
+        "shotsOnTarget": "3/5[A]+7/7[H]+3/3[A]+1/3[A]+7/5[H]+3/6[A]+9/3[H]+5/2[H]",
+        "yellowCards": "1/1[A]+1/2[H]+2/3[A]+0/1[A]+0/2[H]+0/3[A]+2/1[H]+0/2[H]",
+        "goals": "0/1[A]+2/1[H]+2/0[A]+0/0[A]+1/3[H]+1/3[A]+4/0[H]+1/1[H]",
+        "throwIns": "27/19[A]+22/25[H]+34/37[A]+28/25[A]+34/24[H]+28/37[A]+25/30[H]+42/17[H]",
+        "averageBallPossession": "39/61[A]+54/46[H]+42/58[A]+59/41[A]+67/33[H]+52/48[A]+48/52[H]+53/47[H]",
+        "teams": "Barnet,Grimsby,Away+Barnet,Crawley,Home+Barnet,Bristol Rovers,Away+Barnet,Newport,Away+Barnet,Salford,Home+Barnet,Chesterfield,Away+Barnet,Bristol Rovers,Home+Barnet,Harrogate,Home",
+        "tackles": "10/14[A]+21/22[H]+6/23[A]+13/18[A]+16/23[H]+16/22[A]+17/25[H]+19/17[H]",
+        "interceptions": "7/4[A]+6/13[H]+12/4[A]+10/9[A]+7/11[H]+5/8[A]+9/6[H]+6/11[H]",
+        "aerialDuels": "29/21[A]+42/24[H]+35/29[A]+40/25[A]+36/26[H]+20/18[A]+20/18[H]+35/37[H]",
+        "aerialDuelsAttempted": "50/50[A]+66/66[H]+64/64[A]+65/65[A]+62/62[H]+38/38[A]+38/38[H]+72/72[H]",
+        "dribbles": "4/6[A]+7/16[H]+4/3[A]+8/8[A]+6/1[H]+6/2[A]+11/10[H]+5/4[H]",
+        "dribblesAttempted": "11/10[A]+15/30[H]+17/6[A]+17/16[A]+16/10[H]+26/7[A]+23/21[H]+13/16[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "64/31",
+        "cornersTotalsHome": "32/17",
+        "cornersTotalsAway": "32/14",
+        "cornersAverage": "8.00/3.88",
+        "cornersAverageHome": "8.00/4.25",
+        "cornersAverageAway": "8.00/3.50",
+        "foulsTotals": "90/98",
+        "foulsTotalsHome": "55/57",
+        "foulsTotalsAway": "35/41",
+        "foulsAverage": "11.25/12.25",
+        "foulsAverageHome": "13.75/14.25",
+        "foulsAverageAway": "8.75/10.25",
+        "goalKicksTotals": "67/80",
+        "goalKicksTotalsHome": "34/45",
+        "goalKicksTotalsAway": "33/35",
+        "goalKicksAverage": "8.38/10.00",
+        "goalKicksAverageHome": "8.50/11.25",
+        "goalKicksAverageAway": "8.25/8.75",
+        "savesTotals": "24/27",
+        "savesTotalsHome": "12/21",
+        "savesTotalsAway": "12/6",
+        "savesAverage": "3.00/3.38",
+        "savesAverageHome": "3.00/5.25",
+        "savesAverageAway": "3.00/1.50",
+        "offsidesTotals": "22/21",
+        "offsidesTotalsHome": "8/10",
+        "offsidesTotalsAway": "14/11",
+        "offsidesAverage": "2.75/2.63",
+        "offsidesAverageHome": "2.00/2.50",
+        "offsidesAverageAway": "3.50/2.75",
+        "shotsOnTargetTotals": "38/34",
+        "shotsOnTargetTotalsHome": "28/17",
+        "shotsOnTargetTotalsAway": "10/17",
+        "shotsOnTargetAverage": "4.75/4.25",
+        "shotsOnTargetAverageHome": "7.00/4.25",
+        "shotsOnTargetAverageAway": "2.50/4.25",
+        "yellowCardsTotals": "6/15",
+        "yellowCardsTotalsHome": "3/7",
+        "yellowCardsTotalsAway": "3/8",
+        "yellowCardsAverage": "0.75/1.88",
+        "yellowCardsAverageHome": "0.75/1.75",
+        "yellowCardsAverageAway": "0.75/2.00",
+        "goalsTotals": "11/9",
+        "goalsTotalsHome": "8/5",
+        "goalsTotalsAway": "3/4",
+        "goalsAverage": "1.38/1.13",
+        "goalsAverageHome": "2.00/1.25",
+        "goalsAverageAway": "0.75/1.00",
+        "throwInsTotals": "240/214",
+        "throwInsTotalsHome": "123/96",
+        "throwInsTotalsAway": "117/118",
+        "throwInsAverage": "30.00/26.75",
+        "throwInsAverageHome": "30.75/24.00",
+        "throwInsAverageAway": "29.25/29.50",
+        "averageBallPossessionTotals": "414/386",
+        "averageBallPossessionTotalsHome": "222/178",
+        "averageBallPossessionTotalsAway": "192/208",
+        "averageBallPossessionAverage": "51.75/48.25",
+        "averageBallPossessionAverageHome": "55.50/44.50",
+        "averageBallPossessionAverageAway": "48.00/52.00",
+        "tacklesTotals": "118/164",
+        "tacklesTotalsHome": "73/87",
+        "tacklesTotalsAway": "45/77",
+        "tacklesAverage": "14.75/20.50",
+        "tacklesAverageHome": "18.25/21.75",
+        "tacklesAverageAway": "11.25/19.25",
+        "interceptionsTotals": "62/66",
+        "interceptionsTotalsHome": "28/41",
+        "interceptionsTotalsAway": "34/25",
+        "interceptionsAverage": "7.75/8.25",
+        "interceptionsAverageHome": "7.00/10.25",
+        "interceptionsAverageAway": "8.50/6.25",
+        "aerialDuelsTotals": "257/198",
+        "aerialDuelsTotalsHome": "133/105",
+        "aerialDuelsTotalsAway": "124/93",
+        "aerialDuelsAverage": "32.13/24.75",
+        "aerialDuelsAverageHome": "33.25/26.25",
+        "aerialDuelsAverageAway": "31.00/23.25",
+        "aerialDuelsAttemptedTotals": "455/455",
+        "aerialDuelsAttemptedTotalsHome": "238/238",
+        "aerialDuelsAttemptedTotalsAway": "217/217",
+        "aerialDuelsAttemptedAverage": "56.88/56.88",
+        "aerialDuelsAttemptedAverageHome": "59.50/59.50",
+        "aerialDuelsAttemptedAverageAway": "54.25/54.25",
+        "dribblesTotals": "51/50",
+        "dribblesTotalsHome": "29/31",
+        "dribblesTotalsAway": "22/19",
+        "dribblesAverage": "6.38/6.25",
+        "dribblesAverageHome": "7.25/7.75",
+        "dribblesAverageAway": "5.50/4.75",
+        "dribblesAttemptedTotals": "138/116",
+        "dribblesAttemptedTotalsHome": "67/77",
+        "dribblesAttemptedTotalsAway": "71/39",
+        "dribblesAttemptedAverage": "17.25/14.50",
+        "dribblesAttemptedAverageHome": "16.75/19.25",
+        "dribblesAttemptedAverageAway": "17.75/9.75"
+    }
+}

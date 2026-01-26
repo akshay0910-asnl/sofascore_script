@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.19",
+        "fouls": "12.96",
+        "goalKicks": "6.69",
+        "saves": "2.27",
+        "offsides": "2.23",
+        "shotsOnTarget": "4.31/3.58",
+        "yellowCards": "2.08/1.88",
+        "goals": "1.85/1.08",
+        "throwIns": "26.81",
+        "ballPossession": 48.923076923077,
+        "tackles": "15.69/13.04",
+        "interceptions": "8.23/7.38",
+        "aerialDuels": "31.50",
+        "aerialDuelsAttempted": "60.81",
+        "dribbles": "4.77/6.35",
+        "dribblesAttempted": "10.42/13.54"
+    },
+    "teamSlug": "milton-keynes-dons",
+    "teamId": "4",
+    "teamName": "Milton Keynes Dons",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-milton-keynes-dons/esMd#id:14060764,tab:statistics",
+            "teams": [
+                "Accrington",
+                "MK Dons"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "187",
+                "4"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-milton-keynes-dons/estb#id:14061681,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Chesterfield"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "4",
+                "68"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/colchester-united-milton-keynes-dons/esqb#id:14061603,tab:statistics",
+            "teams": [
+                "Colchester",
+                "MK Dons"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "66",
+                "4"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/notts-county-milton-keynes-dons/esgb#id:14061564,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Notts County"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "4",
+                "56"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/swindon-town-milton-keynes-dons/esdb#id:14061499,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Swindon"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "4",
+                "53"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/harrogate-town-milton-keynes-dons/esjd#id:14061428,tab:statistics",
+            "teams": [
+                "Harrogate",
+                "MK Dons"
+            ],
+            "goals": [
+                "0",
+                "4"
+            ],
+            "teamIds": [
+                "159",
+                "4"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cambridge-united-milton-keynes-dons/esnb#id:14061356,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Cambridge"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "4",
+                "63"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/notts-county-milton-keynes-dons/esgb#id:14061261,tab:statistics",
+            "teams": [
+                "Notts County",
+                "MK Dons"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "56",
+                "4"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/2[A]",
+            "fouls": "14/13[A]",
+            "goalKicks": "8/11[A]",
+            "saves": "4/0[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "23/38[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "MK Dons,Accrington,Away",
+            "tackles": "14/18[A]",
+            "interceptions": "4/3[A]",
+            "aerialDuels": "43/46[A]",
+            "aerialDuelsAttempted": "89/89[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "12/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "14/7[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "1/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "24/20[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "MK Dons,Chesterfield,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "20/25[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "9/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "14/9[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "31/28[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "MK Dons,Colchester,Away",
+            "tackles": "23/11[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "32/19[A]",
+            "aerialDuelsAttempted": "51/51[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "11/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "34/19[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "MK Dons,Notts County,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "16/19[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "0/3[H]",
+            "dribblesAttempted": "4/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "7/13[H]",
+            "saves": "2/5[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/25[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "MK Dons,Swindon,Home",
+            "tackles": "22/12[H]",
+            "interceptions": "10/14[H]",
+            "aerialDuels": "32/32[H]",
+            "aerialDuelsAttempted": "64/64[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "8/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "11/8[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "2/5[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "9/2[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "4/0[A]",
+            "throwIns": "33/27[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "MK Dons,Harrogate,Away",
+            "tackles": "13/9[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "29/31[A]",
+            "aerialDuelsAttempted": "60/60[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "8/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "1/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/30[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "MK Dons,Cambridge,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "28/30[H]",
+            "aerialDuelsAttempted": "58/58[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "4/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/2[A]",
+            "fouls": "16/12[A]",
+            "goalKicks": "2/10[A]",
+            "saves": "3/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "24/22[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "MK Dons,Notts County,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "24/18[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "2/3[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:30:54.677Z",
+    "endTime": "2026-01-24T14:31:32.185Z",
+    "totalTimeSeconds": 37.51,
+    "combinedMatchStatistics": {
+        "corners": "3/2[A]+4/6[H]+3/6[A]+1/5[H]+5/8[H]+3/2[A]+7/4[H]+1/2[A]",
+        "fouls": "14/13[A]+14/7[H]+14/9[A]+15/14[H]+10/8[H]+11/8[A]+11/13[H]+16/12[A]",
+        "goalKicks": "8/11[A]+5/9[H]+7/10[A]+5/10[H]+7/13[H]+7/11[A]+6/10[H]+2/10[A]",
+        "saves": "4/0[A]+1/1[H]+1/4[A]+2/2[H]+2/5[H]+2/5[A]+1/3[H]+3/4[A]",
+        "offsides": "3/1[A]+0/1[H]+1/2[A]+4/1[H]+3/0[H]+2/4[A]+4/1[H]+2/1[A]",
+        "shotsOnTarget": "2/4[A]+3/3[H]+4/2[A]+3/3[H]+6/3[H]+9/2[A]+4/3[H]+6/7[A]",
+        "yellowCards": "2/2[A]+4/2[H]+2/1[A]+2/3[H]+1/2[H]+0/2[A]+2/1[H]+3/2[A]",
+        "goals": "2/0[A]+2/2[H]+0/1[A]+1/1[H]+1/0[H]+4/0[A]+1/1[H]+2/3[A]",
+        "throwIns": "23/38[A]+24/20[H]+31/28[A]+34/19[H]+19/25[H]+33/27[A]+17/30[H]+24/22[A]",
+        "averageBallPossession": "35/65[A]+33/67[H]+40/60[A]+56/44[H]+41/59[H]+51/49[A]+48/52[H]+58/42[A]",
+        "teams": "MK Dons,Accrington,Away+MK Dons,Chesterfield,Home+MK Dons,Colchester,Away+MK Dons,Notts County,Home+MK Dons,Swindon,Home+MK Dons,Harrogate,Away+MK Dons,Cambridge,Home+MK Dons,Notts County,Away",
+        "tackles": "14/18[A]+12/14[H]+23/11[A]+17/12[H]+22/12[H]+13/9[A]+12/11[H]+15/13[A]",
+        "interceptions": "4/3[A]+10/7[H]+7/6[A]+11/9[H]+10/14[H]+8/10[A]+9/4[H]+4/6[A]",
+        "aerialDuels": "43/46[A]+20/25[H]+32/19[A]+16/19[H]+32/32[H]+29/31[A]+28/30[H]+24/18[A]",
+        "aerialDuelsAttempted": "89/89[A]+45/45[H]+51/51[A]+35/35[H]+64/64[H]+60/60[A]+58/58[H]+42/42[A]",
+        "dribbles": "3/3[A]+4/5[H]+5/10[A]+0/3[H]+3/7[H]+4/7[A]+2/7[H]+2/3[A]",
+        "dribblesAttempted": "12/10[A]+9/8[H]+11/23[A]+4/11[H]+8/22[H]+8/13[A]+4/9[H]+9/12[A]",
+        "isHome": "false+true+false+true+true+false+true+false",
+        "cornersTotals": "27/35",
+        "cornersTotalsHome": "17/23",
+        "cornersTotalsAway": "10/12",
+        "cornersAverage": "3.38/4.38",
+        "cornersAverageHome": "4.25/5.75",
+        "cornersAverageAway": "2.50/3.00",
+        "foulsTotals": "105/84",
+        "foulsTotalsHome": "50/42",
+        "foulsTotalsAway": "55/42",
+        "foulsAverage": "13.13/10.50",
+        "foulsAverageHome": "12.50/10.50",
+        "foulsAverageAway": "13.75/10.50",
+        "goalKicksTotals": "47/84",
+        "goalKicksTotalsHome": "23/42",
+        "goalKicksTotalsAway": "24/42",
+        "goalKicksAverage": "5.88/10.50",
+        "goalKicksAverageHome": "5.75/10.50",
+        "goalKicksAverageAway": "6.00/10.50",
+        "savesTotals": "16/24",
+        "savesTotalsHome": "6/11",
+        "savesTotalsAway": "10/13",
+        "savesAverage": "2.00/3.00",
+        "savesAverageHome": "1.50/2.75",
+        "savesAverageAway": "2.50/3.25",
+        "offsidesTotals": "19/11",
+        "offsidesTotalsHome": "11/3",
+        "offsidesTotalsAway": "8/8",
+        "offsidesAverage": "2.38/1.38",
+        "offsidesAverageHome": "2.75/0.75",
+        "offsidesAverageAway": "2.00/2.00",
+        "shotsOnTargetTotals": "37/27",
+        "shotsOnTargetTotalsHome": "16/12",
+        "shotsOnTargetTotalsAway": "21/15",
+        "shotsOnTargetAverage": "4.63/3.38",
+        "shotsOnTargetAverageHome": "4.00/3.00",
+        "shotsOnTargetAverageAway": "5.25/3.75",
+        "yellowCardsTotals": "16/15",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "2.00/1.88",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "13/8",
+        "goalsTotalsHome": "5/4",
+        "goalsTotalsAway": "8/4",
+        "goalsAverage": "1.63/1.00",
+        "goalsAverageHome": "1.25/1.00",
+        "goalsAverageAway": "2.00/1.00",
+        "throwInsTotals": "205/209",
+        "throwInsTotalsHome": "94/94",
+        "throwInsTotalsAway": "111/115",
+        "throwInsAverage": "25.63/26.13",
+        "throwInsAverageHome": "23.50/23.50",
+        "throwInsAverageAway": "27.75/28.75",
+        "averageBallPossessionTotals": "362/438",
+        "averageBallPossessionTotalsHome": "178/222",
+        "averageBallPossessionTotalsAway": "184/216",
+        "averageBallPossessionAverage": "45.25/54.75",
+        "averageBallPossessionAverageHome": "44.50/55.50",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "128/100",
+        "tacklesTotalsHome": "63/49",
+        "tacklesTotalsAway": "65/51",
+        "tacklesAverage": "16.00/12.50",
+        "tacklesAverageHome": "15.75/12.25",
+        "tacklesAverageAway": "16.25/12.75",
+        "interceptionsTotals": "63/59",
+        "interceptionsTotalsHome": "40/34",
+        "interceptionsTotalsAway": "23/25",
+        "interceptionsAverage": "7.88/7.38",
+        "interceptionsAverageHome": "10.00/8.50",
+        "interceptionsAverageAway": "5.75/6.25",
+        "aerialDuelsTotals": "224/220",
+        "aerialDuelsTotalsHome": "96/106",
+        "aerialDuelsTotalsAway": "128/114",
+        "aerialDuelsAverage": "28.00/27.50",
+        "aerialDuelsAverageHome": "24.00/26.50",
+        "aerialDuelsAverageAway": "32.00/28.50",
+        "aerialDuelsAttemptedTotals": "444/444",
+        "aerialDuelsAttemptedTotalsHome": "202/202",
+        "aerialDuelsAttemptedTotalsAway": "242/242",
+        "aerialDuelsAttemptedAverage": "55.50/55.50",
+        "aerialDuelsAttemptedAverageHome": "50.50/50.50",
+        "aerialDuelsAttemptedAverageAway": "60.50/60.50",
+        "dribblesTotals": "23/45",
+        "dribblesTotalsHome": "9/22",
+        "dribblesTotalsAway": "14/23",
+        "dribblesAverage": "2.88/5.63",
+        "dribblesAverageHome": "2.25/5.50",
+        "dribblesAverageAway": "3.50/5.75",
+        "dribblesAttemptedTotals": "65/108",
+        "dribblesAttemptedTotalsHome": "25/50",
+        "dribblesAttemptedTotalsAway": "40/58",
+        "dribblesAttemptedAverage": "8.13/13.50",
+        "dribblesAttemptedAverageHome": "6.25/12.50",
+        "dribblesAttemptedAverageAway": "10.00/14.50"
+    }
+}

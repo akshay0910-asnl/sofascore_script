@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.20",
+        "fouls": "10.72",
+        "goalKicks": "10.36",
+        "saves": "3.48",
+        "offsides": "1.80",
+        "shotsOnTarget": "3.40/5.28",
+        "yellowCards": "2.04/1.36",
+        "goals": "1.08/1.52",
+        "throwIns": "27.20",
+        "ballPossession": 45,
+        "tackles": "14.36/13.88",
+        "interceptions": "6.80/6.60",
+        "aerialDuels": "27.72",
+        "aerialDuelsAttempted": "56.16",
+        "dribbles": "5.20/5.40",
+        "dribblesAttempted": "11.08/12.52"
+    },
+    "teamSlug": "barrow",
+    "teamId": "97",
+    "teamName": "Barrow AFC",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-crewe-alexandra/usXb#id:14060785,tab:statistics",
+            "teams": [
+                "Crewe",
+                "Barrow"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "19",
+                "97"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/salford-city-barrow/XbsYjp#id:14061589,tab:statistics",
+            "teams": [
+                "Barrow",
+                "Salford"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "97",
+                "37998"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-tranmere-rovers/bbsXb#id:14061574,tab:statistics",
+            "teams": [
+                "Tranmere",
+                "Barrow"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "51",
+                "97"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-barrow/XbsMd#id:14061458,tab:statistics",
+            "teams": [
+                "Accrington",
+                "Barrow"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "187",
+                "97"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-cheltenham-town/ubsXb#id:14061392,tab:statistics",
+            "teams": [
+                "Barrow",
+                "Cheltenham"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "97",
+                "69"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-gillingham/vsXb#id:14061344,tab:statistics",
+            "teams": [
+                "Gillingham",
+                "Barrow"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "20",
+                "97"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-tranmere-rovers/bbsXb#id:14061139,tab:statistics",
+            "teams": [
+                "Barrow",
+                "Tranmere"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "97",
+                "51"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/barrow-cambridge-united/nbsXb#id:14061150,tab:statistics",
+            "teams": [
+                "Barrow",
+                "Cambridge"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "97",
+                "63"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/3[A]",
+            "fouls": "19/16[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "0/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/3[A]",
+            "throwIns": "27/17[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Barrow,Crewe,Away",
+            "tackles": "14/17[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "29/26[A]",
+            "aerialDuelsAttempted": "55/55[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "11/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "33/31[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Barrow,Salford,Home",
+            "tackles": "25/14[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "31/22[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "10/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "14/9[A]",
+            "saves": "6/4[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "7/8[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "25/26[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Barrow,Tranmere,Away",
+            "tackles": "15/20[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "28/33[A]",
+            "aerialDuelsAttempted": "61/61[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "11/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "8/4[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "5/4[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "32/27[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Barrow,Accrington,Away",
+            "tackles": "23/14[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "46/50[A]",
+            "aerialDuelsAttempted": "96/96[A]",
+            "dribbles": "8/10[A]",
+            "dribblesAttempted": "14/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/4[H]",
+            "fouls": "0/3[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "2/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "34/28[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Barrow,Cheltenham,Home",
+            "tackles": "13/10[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "31/30[H]",
+            "aerialDuelsAttempted": "61/61[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "5/8[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "3/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "2/2[A]",
+            "throwIns": "21/31[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Barrow,Gillingham,Away",
+            "tackles": "12/10[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "31/40[A]",
+            "aerialDuelsAttempted": "71/71[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "10/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "2/5[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "5/0[H]",
+            "goals": "0/3[H]",
+            "throwIns": "34/26[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Barrow,Tranmere,Home",
+            "tackles": "8/19[H]",
+            "interceptions": "7/2[H]",
+            "aerialDuels": "13/17[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "25/21[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Barrow,Cambridge,Home",
+            "tackles": "15/8[H]",
+            "interceptions": "7/3[H]",
+            "aerialDuels": "29/40[H]",
+            "aerialDuelsAttempted": "69/69[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:22:31.346Z",
+    "endTime": "2026-01-24T14:23:17.914Z",
+    "totalTimeSeconds": 46.57,
+    "combinedMatchStatistics": {
+        "corners": "8/3[A]+5/2[H]+3/7[A]+5/4[A]+11/4[H]+2/4[A]+5/5[H]+4/3[H]",
+        "fouls": "19/16[A]+10/9[H]+15/9[A]+8/4[A]+0/3[H]+5/8[A]+10/8[H]+13/10[H]",
+        "goalKicks": "6/9[A]+7/10[H]+14/9[A]+11/11[A]+8/9[H]+9/5[A]+9/11[H]+4/11[H]",
+        "saves": "0/5[A]+2/3[H]+6/4[A]+5/4[A]+2/4[H]+3/1[A]+2/5[H]+5/3[H]",
+        "offsides": "1/0[A]+0/0[H]+2/4[A]+2/4[A]+0/1[H]+2/3[A]+3/2[H]+1/0[H]",
+        "shotsOnTarget": "6/3[A]+4/4[H]+7/8[A]+6/7[A]+5/4[H]+3/4[A]+4/6[H]+3/7[H]",
+        "yellowCards": "3/4[A]+2/1[H]+4/2[A]+2/0[A]+0/0[H]+1/0[A]+5/0[H]+1/2[H]",
+        "goals": "1/3[A]+1/2[H]+3/1[A]+1/2[A]+1/2[H]+2/2[A]+0/3[H]+0/2[H]",
+        "throwIns": "27/17[A]+33/31[H]+25/26[A]+32/27[A]+34/28[H]+21/31[A]+34/26[H]+25/21[H]",
+        "averageBallPossession": "62/38[A]+59/41[H]+29/71[A]+40/60[A]+60/40[H]+56/44[A]+54/46[H]+59/41[H]",
+        "teams": "Barrow,Crewe,Away+Barrow,Salford,Home+Barrow,Tranmere,Away+Barrow,Accrington,Away+Barrow,Cheltenham,Home+Barrow,Gillingham,Away+Barrow,Tranmere,Home+Barrow,Cambridge,Home",
+        "tackles": "14/17[A]+25/14[H]+15/20[A]+23/14[A]+13/10[H]+12/10[A]+8/19[H]+15/8[H]",
+        "interceptions": "9/10[A]+6/9[H]+11/10[A]+5/10[A]+6/6[H]+6/6[A]+7/2[H]+7/3[H]",
+        "aerialDuels": "29/26[A]+31/22[H]+28/33[A]+46/50[A]+31/30[H]+31/40[A]+13/17[H]+29/40[H]",
+        "aerialDuelsAttempted": "55/55[A]+53/53[H]+61/61[A]+96/96[A]+61/61[H]+71/71[A]+30/30[H]+69/69[H]",
+        "dribbles": "5/3[A]+6/6[H]+2/7[A]+8/10[A]+8/6[H]+7/4[A]+6/7[H]+7/4[H]",
+        "dribblesAttempted": "11/13[A]+10/21[H]+11/12[A]+14/25[A]+14/13[H]+10/9[A]+14/13[H]+10/10[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "43/32",
+        "cornersTotalsHome": "25/14",
+        "cornersTotalsAway": "18/18",
+        "cornersAverage": "5.38/4.00",
+        "cornersAverageHome": "6.25/3.50",
+        "cornersAverageAway": "4.50/4.50",
+        "foulsTotals": "80/67",
+        "foulsTotalsHome": "33/30",
+        "foulsTotalsAway": "47/37",
+        "foulsAverage": "10.00/8.38",
+        "foulsAverageHome": "8.25/7.50",
+        "foulsAverageAway": "11.75/9.25",
+        "goalKicksTotals": "68/75",
+        "goalKicksTotalsHome": "28/41",
+        "goalKicksTotalsAway": "40/34",
+        "goalKicksAverage": "8.50/9.38",
+        "goalKicksAverageHome": "7.00/10.25",
+        "goalKicksAverageAway": "10.00/8.50",
+        "savesTotals": "25/29",
+        "savesTotalsHome": "11/15",
+        "savesTotalsAway": "14/14",
+        "savesAverage": "3.13/3.63",
+        "savesAverageHome": "2.75/3.75",
+        "savesAverageAway": "3.50/3.50",
+        "offsidesTotals": "11/14",
+        "offsidesTotalsHome": "4/3",
+        "offsidesTotalsAway": "7/11",
+        "offsidesAverage": "1.38/1.75",
+        "offsidesAverageHome": "1.00/0.75",
+        "offsidesAverageAway": "1.75/2.75",
+        "shotsOnTargetTotals": "38/43",
+        "shotsOnTargetTotalsHome": "16/21",
+        "shotsOnTargetTotalsAway": "22/22",
+        "shotsOnTargetAverage": "4.75/5.38",
+        "shotsOnTargetAverageHome": "4.00/5.25",
+        "shotsOnTargetAverageAway": "5.50/5.50",
+        "yellowCardsTotals": "18/9",
+        "yellowCardsTotalsHome": "8/3",
+        "yellowCardsTotalsAway": "10/6",
+        "yellowCardsAverage": "2.25/1.13",
+        "yellowCardsAverageHome": "2.00/0.75",
+        "yellowCardsAverageAway": "2.50/1.50",
+        "goalsTotals": "9/17",
+        "goalsTotalsHome": "2/9",
+        "goalsTotalsAway": "7/8",
+        "goalsAverage": "1.13/2.13",
+        "goalsAverageHome": "0.50/2.25",
+        "goalsAverageAway": "1.75/2.00",
+        "throwInsTotals": "231/207",
+        "throwInsTotalsHome": "126/106",
+        "throwInsTotalsAway": "105/101",
+        "throwInsAverage": "28.88/25.88",
+        "throwInsAverageHome": "31.50/26.50",
+        "throwInsAverageAway": "26.25/25.25",
+        "averageBallPossessionTotals": "419/381",
+        "averageBallPossessionTotalsHome": "232/168",
+        "averageBallPossessionTotalsAway": "187/213",
+        "averageBallPossessionAverage": "52.38/47.63",
+        "averageBallPossessionAverageHome": "58.00/42.00",
+        "averageBallPossessionAverageAway": "46.75/53.25",
+        "tacklesTotals": "125/112",
+        "tacklesTotalsHome": "61/51",
+        "tacklesTotalsAway": "64/61",
+        "tacklesAverage": "15.63/14.00",
+        "tacklesAverageHome": "15.25/12.75",
+        "tacklesAverageAway": "16.00/15.25",
+        "interceptionsTotals": "57/56",
+        "interceptionsTotalsHome": "26/20",
+        "interceptionsTotalsAway": "31/36",
+        "interceptionsAverage": "7.13/7.00",
+        "interceptionsAverageHome": "6.50/5.00",
+        "interceptionsAverageAway": "7.75/9.00",
+        "aerialDuelsTotals": "238/258",
+        "aerialDuelsTotalsHome": "104/109",
+        "aerialDuelsTotalsAway": "134/149",
+        "aerialDuelsAverage": "29.75/32.25",
+        "aerialDuelsAverageHome": "26.00/27.25",
+        "aerialDuelsAverageAway": "33.50/37.25",
+        "aerialDuelsAttemptedTotals": "496/496",
+        "aerialDuelsAttemptedTotalsHome": "213/213",
+        "aerialDuelsAttemptedTotalsAway": "283/283",
+        "aerialDuelsAttemptedAverage": "62.00/62.00",
+        "aerialDuelsAttemptedAverageHome": "53.25/53.25",
+        "aerialDuelsAttemptedAverageAway": "70.75/70.75",
+        "dribblesTotals": "49/47",
+        "dribblesTotalsHome": "27/23",
+        "dribblesTotalsAway": "22/24",
+        "dribblesAverage": "6.13/5.88",
+        "dribblesAverageHome": "6.75/5.75",
+        "dribblesAverageAway": "5.50/6.00",
+        "dribblesAttemptedTotals": "94/116",
+        "dribblesAttemptedTotalsHome": "48/57",
+        "dribblesAttemptedTotalsAway": "46/59",
+        "dribblesAttemptedAverage": "11.75/14.50",
+        "dribblesAttemptedAverageHome": "12.00/14.25",
+        "dribblesAttemptedAverageAway": "11.50/14.75"
+    }
+}

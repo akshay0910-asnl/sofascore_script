@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.04",
+        "fouls": "11.56",
+        "goalKicks": "7.68",
+        "saves": "2.16",
+        "offsides": "1.92",
+        "shotsOnTarget": "4.20/3.56",
+        "yellowCards": "1.56/2.40",
+        "goals": "1.56/1.12",
+        "throwIns": "27.56",
+        "ballPossession": 51.28,
+        "tackles": "14.76/17.44",
+        "interceptions": "6.84/8.16",
+        "aerialDuels": "21.80",
+        "aerialDuelsAttempted": "45.28",
+        "dribbles": "7.76/5.44",
+        "dribblesAttempted": "15.80/12.44"
+    },
+    "teamSlug": "colchester-united",
+    "teamId": "66",
+    "teamName": "Colchester United",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/bristol-rovers-colchester-united/qbsBb#id:14060770,tab:statistics",
+            "teams": [
+                "Bristol Rovers",
+                "Colchester"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "76",
+                "66"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/colchester-united-milton-keynes-dons/esqb#id:14061603,tab:statistics",
+            "teams": [
+                "Colchester",
+                "MK Dons"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "66",
+                "4"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/colchester-united-gillingham/vsqb#id:14061554,tab:statistics",
+            "teams": [
+                "Gillingham",
+                "Colchester"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "20",
+                "66"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crawley-town-colchester-united/qbsAXb#id:14061482,tab:statistics",
+            "teams": [
+                "Crawley",
+                "Colchester"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "4875",
+                "66"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newport-county-colchester-united/qbsEb#id:14061410,tab:statistics",
+            "teams": [
+                "Colchester",
+                "Newport"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "66",
+                "79"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/salford-city-colchester-united/qbsYjp#id:14061368,tab:statistics",
+            "teams": [
+                "Salford",
+                "Colchester"
+            ],
+            "goals": [
+                "4",
+                "3"
+            ],
+            "teamIds": [
+                "37998",
+                "66"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/colchester-united-gillingham/vsqb#id:14061214,tab:statistics",
+            "teams": [
+                "Colchester",
+                "Gillingham"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "66",
+                "20"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheltenham-town-colchester-united/qbsub#id:14060926,tab:statistics",
+            "teams": [
+                "Colchester",
+                "Cheltenham"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "66",
+                "69"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/4[A]",
+            "fouls": "11/22[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "25/26[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Colchester,Bristol Rovers,Away",
+            "tackles": "9/22[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "26/15[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "7/1[A]",
+            "dribblesAttempted": "22/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "4/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "28/31[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Colchester,MK Dons,Home",
+            "tackles": "11/23[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "19/32[H]",
+            "aerialDuelsAttempted": "51/51[H]",
+            "dribbles": "10/5[H]",
+            "dribblesAttempted": "23/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "13/23[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "21/16[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Colchester,Gillingham,Away",
+            "tackles": "6/9[A]",
+            "interceptions": "2/10[A]",
+            "aerialDuels": "26/38[A]",
+            "aerialDuelsAttempted": "64/64[A]",
+            "dribbles": "13/2[A]",
+            "dribblesAttempted": "16/2[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "18/12[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "23/20[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Colchester,Crawley,Away",
+            "tackles": "10/16[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "21/25[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "9/3[A]",
+            "dribblesAttempted": "19/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "1/3[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "4/1[H]",
+            "throwIns": "16/20[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Colchester,Newport,Home",
+            "tackles": "8/11[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "31/14[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "7/2[H]",
+            "dribblesAttempted": "12/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "7/9[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "3/4[A]",
+            "throwIns": "26/24[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Colchester,Salford,Away",
+            "tackles": "26/20[A]",
+            "interceptions": "10/3[A]",
+            "aerialDuels": "32/30[A]",
+            "aerialDuelsAttempted": "62/62[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "15/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "10/8[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "27/30[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Colchester,Gillingham,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "26/29[H]",
+            "aerialDuelsAttempted": "55/55[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/1[H]",
+            "fouls": "5/11[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "37/22[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Colchester,Cheltenham,Home",
+            "tackles": "10/11[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "13/15[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:28:15.664Z",
+    "endTime": "2026-01-24T14:28:52.390Z",
+    "totalTimeSeconds": 36.73,
+    "combinedMatchStatistics": {
+        "corners": "5/4[A]+6/3[H]+5/6[A]+6/4[A]+2/2[H]+3/5[A]+1/6[H]+1/1[H]",
+        "fouls": "11/22[A]+9/14[H]+13/23[A]+18/12[A]+12/9[H]+9/13[A]+15/14[H]+5/11[H]",
+        "goalKicks": "9/6[A]+10/7[H]+6/5[A]+6/6[A]+5/8[H]+9/6[A]+10/8[H]+6/6[H]",
+        "saves": "1/1[A]+4/1[H]+3/4[A]+3/1[A]+1/3[H]+4/4[A]+2/1[H]+1/3[H]",
+        "offsides": "1/1[A]+2/1[H]+3/1[A]+3/3[A]+3/2[H]+1/1[A]+0/1[H]+0/1[H]",
+        "shotsOnTarget": "2/1[A]+2/4[H]+5/4[A]+3/4[A]+7/2[H]+7/9[A]+2/3[H]+5/2[H]",
+        "yellowCards": "2/4[A]+1/2[H]+1/1[A]+2/2[A]+1/2[H]+0/3[A]+1/4[H]+1/2[H]",
+        "goals": "1/0[A]+1/0[H]+1/1[A]+1/1[A]+4/1[H]+3/4[A]+0/0[H]+2/0[H]",
+        "throwIns": "25/26[A]+28/31[H]+21/16[A]+23/20[A]+16/20[H]+26/24[A]+27/30[H]+37/22[H]",
+        "averageBallPossession": "53/47[A]+60/40[H]+56/44[A]+46/54[A]+51/49[H]+45/55[A]+52/48[H]+43/57[H]",
+        "teams": "Colchester,Bristol Rovers,Away+Colchester,MK Dons,Home+Colchester,Gillingham,Away+Colchester,Crawley,Away+Colchester,Newport,Home+Colchester,Salford,Away+Colchester,Gillingham,Home+Colchester,Cheltenham,Home",
+        "tackles": "9/22[A]+11/23[H]+6/9[A]+10/16[A]+8/11[H]+26/20[A]+15/13[H]+10/11[H]",
+        "interceptions": "9/9[A]+6/7[H]+2/10[A]+6/8[A]+11/12[H]+10/3[A]+6/6[H]+8/5[H]",
+        "aerialDuels": "26/15[A]+19/32[H]+26/38[A]+21/25[A]+31/14[H]+32/30[A]+26/29[H]+13/15[H]",
+        "aerialDuelsAttempted": "41/41[A]+51/51[H]+64/64[A]+46/46[A]+45/45[H]+62/62[A]+55/55[H]+28/28[H]",
+        "dribbles": "7/1[A]+10/5[H]+13/2[A]+9/3[A]+7/2[H]+8/6[A]+6/5[H]+10/9[H]",
+        "dribblesAttempted": "22/6[A]+23/11[H]+16/2[A]+19/7[A]+12/5[H]+15/22[A]+14/13[H]+14/13[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "29/31",
+        "cornersTotalsHome": "10/12",
+        "cornersTotalsAway": "19/19",
+        "cornersAverage": "3.63/3.88",
+        "cornersAverageHome": "2.50/3.00",
+        "cornersAverageAway": "4.75/4.75",
+        "foulsTotals": "92/118",
+        "foulsTotalsHome": "41/48",
+        "foulsTotalsAway": "51/70",
+        "foulsAverage": "11.50/14.75",
+        "foulsAverageHome": "10.25/12.00",
+        "foulsAverageAway": "12.75/17.50",
+        "goalKicksTotals": "61/52",
+        "goalKicksTotalsHome": "31/29",
+        "goalKicksTotalsAway": "30/23",
+        "goalKicksAverage": "7.63/6.50",
+        "goalKicksAverageHome": "7.75/7.25",
+        "goalKicksAverageAway": "7.50/5.75",
+        "savesTotals": "19/18",
+        "savesTotalsHome": "8/8",
+        "savesTotalsAway": "11/10",
+        "savesAverage": "2.38/2.25",
+        "savesAverageHome": "2.00/2.00",
+        "savesAverageAway": "2.75/2.50",
+        "offsidesTotals": "13/11",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "8/6",
+        "offsidesAverage": "1.63/1.38",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "2.00/1.50",
+        "shotsOnTargetTotals": "33/29",
+        "shotsOnTargetTotalsHome": "16/11",
+        "shotsOnTargetTotalsAway": "17/18",
+        "shotsOnTargetAverage": "4.13/3.63",
+        "shotsOnTargetAverageHome": "4.00/2.75",
+        "shotsOnTargetAverageAway": "4.25/4.50",
+        "yellowCardsTotals": "9/20",
+        "yellowCardsTotalsHome": "4/10",
+        "yellowCardsTotalsAway": "5/10",
+        "yellowCardsAverage": "1.13/2.50",
+        "yellowCardsAverageHome": "1.00/2.50",
+        "yellowCardsAverageAway": "1.25/2.50",
+        "goalsTotals": "13/7",
+        "goalsTotalsHome": "7/1",
+        "goalsTotalsAway": "6/6",
+        "goalsAverage": "1.63/0.88",
+        "goalsAverageHome": "1.75/0.25",
+        "goalsAverageAway": "1.50/1.50",
+        "throwInsTotals": "203/189",
+        "throwInsTotalsHome": "108/103",
+        "throwInsTotalsAway": "95/86",
+        "throwInsAverage": "25.38/23.63",
+        "throwInsAverageHome": "27.00/25.75",
+        "throwInsAverageAway": "23.75/21.50",
+        "averageBallPossessionTotals": "406/394",
+        "averageBallPossessionTotalsHome": "206/194",
+        "averageBallPossessionTotalsAway": "200/200",
+        "averageBallPossessionAverage": "50.75/49.25",
+        "averageBallPossessionAverageHome": "51.50/48.50",
+        "averageBallPossessionAverageAway": "50.00/50.00",
+        "tacklesTotals": "95/125",
+        "tacklesTotalsHome": "44/58",
+        "tacklesTotalsAway": "51/67",
+        "tacklesAverage": "11.88/15.63",
+        "tacklesAverageHome": "11.00/14.50",
+        "tacklesAverageAway": "12.75/16.75",
+        "interceptionsTotals": "58/60",
+        "interceptionsTotalsHome": "31/30",
+        "interceptionsTotalsAway": "27/30",
+        "interceptionsAverage": "7.25/7.50",
+        "interceptionsAverageHome": "7.75/7.50",
+        "interceptionsAverageAway": "6.75/7.50",
+        "aerialDuelsTotals": "194/198",
+        "aerialDuelsTotalsHome": "89/90",
+        "aerialDuelsTotalsAway": "105/108",
+        "aerialDuelsAverage": "24.25/24.75",
+        "aerialDuelsAverageHome": "22.25/22.50",
+        "aerialDuelsAverageAway": "26.25/27.00",
+        "aerialDuelsAttemptedTotals": "392/392",
+        "aerialDuelsAttemptedTotalsHome": "179/179",
+        "aerialDuelsAttemptedTotalsAway": "213/213",
+        "aerialDuelsAttemptedAverage": "49.00/49.00",
+        "aerialDuelsAttemptedAverageHome": "44.75/44.75",
+        "aerialDuelsAttemptedAverageAway": "53.25/53.25",
+        "dribblesTotals": "70/33",
+        "dribblesTotalsHome": "33/21",
+        "dribblesTotalsAway": "37/12",
+        "dribblesAverage": "8.75/4.13",
+        "dribblesAverageHome": "8.25/5.25",
+        "dribblesAverageAway": "9.25/3.00",
+        "dribblesAttemptedTotals": "135/79",
+        "dribblesAttemptedTotalsHome": "63/42",
+        "dribblesAttemptedTotalsAway": "72/37",
+        "dribblesAttemptedAverage": "16.88/9.88",
+        "dribblesAttemptedAverageHome": "15.75/10.50",
+        "dribblesAttemptedAverageAway": "18.00/9.25"
+    }
+}

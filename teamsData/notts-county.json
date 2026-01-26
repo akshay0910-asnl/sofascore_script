@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.36",
+        "fouls": "11.36",
+        "goalKicks": "8.16",
+        "saves": "2.40",
+        "offsides": "1.28",
+        "shotsOnTarget": "4.12/3.48",
+        "yellowCards": "2.16/2.48",
+        "goals": "1.52/1.08",
+        "throwIns": "22.92",
+        "ballPossession": 54.56,
+        "tackles": "17.44/17.68",
+        "interceptions": "7.12/6.84",
+        "aerialDuels": "20.28",
+        "aerialDuelsAttempted": "43.00",
+        "dribbles": "5.64/3.96",
+        "dribblesAttempted": "14.36/11.92"
+    },
+    "teamSlug": "notts-county",
+    "teamId": "56",
+    "teamName": "Notts County",
+    "tournament": "League Two",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/crawley-town-notts-county/gbsAXb#id:14060780,tab:statistics",
+            "teams": [
+                "Crawley",
+                "Notts County"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "4875",
+                "56"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/accrington-stanley-notts-county/gbsMd#id:14061623,tab:statistics",
+            "teams": [
+                "Notts County",
+                "Accrington"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "56",
+                "187"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/notts-county-milton-keynes-dons/esgb#id:14061564,tab:statistics",
+            "teams": [
+                "MK Dons",
+                "Notts County"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "4",
+                "56"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chesterfield-notts-county/gbstb#id:14061476,tab:statistics",
+            "teams": [
+                "Chesterfield",
+                "Notts County"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "68",
+                "56"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/notts-county-walsall/Bsgb#id:14061434,tab:statistics",
+            "teams": [
+                "Notts County",
+                "Walsall"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "56",
+                "26"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/notts-county-grimsby-town/tsgb#id:14061350,tab:statistics",
+            "teams": [
+                "Grimsby",
+                "Notts County"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "18",
+                "56"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/notts-county-milton-keynes-dons/esgb#id:14061261,tab:statistics",
+            "teams": [
+                "Notts County",
+                "MK Dons"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "56",
+                "4"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/colchester-united-notts-county/gbsqb#id:14060698,tab:statistics",
+            "teams": [
+                "Notts County",
+                "Colchester"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "56",
+                "66"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/5[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "23/25[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Notts County,Crawley,Away",
+            "tackles": "15/18[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "30/19[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "17/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "5/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "36/17[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Notts County,Accrington,Home",
+            "tackles": "13/14[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "19/23[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "11/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "19/34[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Notts County,MK Dons,Away",
+            "tackles": "12/17[A]",
+            "interceptions": "9/11[A]",
+            "aerialDuels": "19/16[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "3/0[A]",
+            "dribblesAttempted": "11/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "8/0[A]",
+            "saves": "3/0[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "0/4[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "23/32[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Notts County,Chesterfield,Away",
+            "tackles": "23/16[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "15/19[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "16/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "6/15[H]",
+            "goalKicks": "1/14[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "19/19[H]",
+            "averageBallPossession": "76/24[H]",
+            "teams": "Notts County,Walsall,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "9/5[H]",
+            "aerialDuels": "14/18[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "13/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "15/7[A]",
+            "saves": "5/0[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "28/28[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Notts County,Grimsby,Away",
+            "tackles": "19/16[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "15/33[A]",
+            "aerialDuelsAttempted": "48/48[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "16/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "10/2[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "3/2[H]",
+            "throwIns": "22/24[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Notts County,MK Dons,Home",
+            "tackles": "13/15[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "18/24[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "3/2[H]",
+            "dribblesAttempted": "12/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "14/14[H]",
+            "goalKicks": "2/9[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/3[H]",
+            "throwIns": "21/23[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "Notts County,Colchester,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "21/19[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-24T14:21:05.169Z",
+    "endTime": "2026-01-24T14:21:50.536Z",
+    "totalTimeSeconds": 45.37,
+    "combinedMatchStatistics": {
+        "corners": "7/5[A]+8/5[H]+5/1[A]+5/3[A]+6/1[H]+3/6[A]+2/1[H]+4/3[H]",
+        "fouls": "16/11[A]+11/13[H]+14/15[A]+14/10[A]+6/15[H]+13/15[A]+12/16[H]+14/14[H]",
+        "goalKicks": "9/5[A]+4/7[H]+10/5[A]+8/0[A]+1/14[H]+15/7[A]+10/2[H]+2/9[H]",
+        "saves": "2/3[A]+4/4[H]+2/2[A]+3/0[A]+1/3[H]+5/0[A]+4/3[H]+1/4[H]",
+        "offsides": "3/1[A]+0/1[H]+1/4[A]+3/4[A]+1/1[H]+0/0[A]+1/2[H]+1/3[H]",
+        "shotsOnTarget": "6/3[A]+4/5[H]+3/3[A]+0/4[A]+3/1[H]+2/5[A]+7/6[H]+4/4[H]",
+        "yellowCards": "2/1[A]+5/4[H]+3/2[A]+3/3[A]+1/2[H]+3/1[A]+2/3[H]+1/3[H]",
+        "goals": "2/1[A]+0/1[H]+1/1[A]+0/2[A]+0/0[H]+2/0[A]+3/2[H]+1/3[H]",
+        "throwIns": "23/25[A]+36/17[H]+19/34[A]+23/32[A]+19/19[H]+28/28[A]+22/24[H]+21/23[H]",
+        "averageBallPossession": "50/50[A]+54/46[H]+44/56[A]+46/54[A]+76/24[H]+41/59[A]+42/58[H]+69/31[H]",
+        "teams": "Notts County,Crawley,Away+Notts County,Accrington,Home+Notts County,MK Dons,Away+Notts County,Chesterfield,Away+Notts County,Walsall,Home+Notts County,Grimsby,Away+Notts County,MK Dons,Home+Notts County,Colchester,Home",
+        "tackles": "15/18[A]+13/14[H]+12/17[A]+23/16[A]+14/12[H]+19/16[A]+13/15[H]+12/15[H]",
+        "interceptions": "5/10[A]+9/8[H]+9/11[A]+10/8[A]+9/5[H]+7/7[A]+6/4[H]+11/6[H]",
+        "aerialDuels": "30/19[A]+19/23[H]+19/16[A]+15/19[A]+14/18[H]+15/33[A]+18/24[H]+21/19[H]",
+        "aerialDuelsAttempted": "49/49[A]+42/42[H]+35/35[A]+34/34[A]+32/32[H]+48/48[A]+42/42[H]+40/40[H]",
+        "dribbles": "6/2[A]+5/3[H]+3/0[A]+5/5[A]+5/3[H]+8/4[A]+3/2[H]+7/7[H]",
+        "dribblesAttempted": "17/5[A]+11/8[H]+11/4[A]+16/13[A]+13/11[H]+16/14[A]+12/9[H]+13/15[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "40/25",
+        "cornersTotalsHome": "20/10",
+        "cornersTotalsAway": "20/15",
+        "cornersAverage": "5.00/3.13",
+        "cornersAverageHome": "5.00/2.50",
+        "cornersAverageAway": "5.00/3.75",
+        "foulsTotals": "100/109",
+        "foulsTotalsHome": "43/58",
+        "foulsTotalsAway": "57/51",
+        "foulsAverage": "12.50/13.63",
+        "foulsAverageHome": "10.75/14.50",
+        "foulsAverageAway": "14.25/12.75",
+        "goalKicksTotals": "59/49",
+        "goalKicksTotalsHome": "17/32",
+        "goalKicksTotalsAway": "42/17",
+        "goalKicksAverage": "7.38/6.13",
+        "goalKicksAverageHome": "4.25/8.00",
+        "goalKicksAverageAway": "10.50/4.25",
+        "savesTotals": "22/19",
+        "savesTotalsHome": "10/14",
+        "savesTotalsAway": "12/5",
+        "savesAverage": "2.75/2.38",
+        "savesAverageHome": "2.50/3.50",
+        "savesAverageAway": "3.00/1.25",
+        "offsidesTotals": "10/16",
+        "offsidesTotalsHome": "3/7",
+        "offsidesTotalsAway": "7/9",
+        "offsidesAverage": "1.25/2.00",
+        "offsidesAverageHome": "0.75/1.75",
+        "offsidesAverageAway": "1.75/2.25",
+        "shotsOnTargetTotals": "29/31",
+        "shotsOnTargetTotalsHome": "18/16",
+        "shotsOnTargetTotalsAway": "11/15",
+        "shotsOnTargetAverage": "3.63/3.88",
+        "shotsOnTargetAverageHome": "4.50/4.00",
+        "shotsOnTargetAverageAway": "2.75/3.75",
+        "yellowCardsTotals": "20/19",
+        "yellowCardsTotalsHome": "9/12",
+        "yellowCardsTotalsAway": "11/7",
+        "yellowCardsAverage": "2.50/2.38",
+        "yellowCardsAverageHome": "2.25/3.00",
+        "yellowCardsAverageAway": "2.75/1.75",
+        "goalsTotals": "9/10",
+        "goalsTotalsHome": "4/6",
+        "goalsTotalsAway": "5/4",
+        "goalsAverage": "1.13/1.25",
+        "goalsAverageHome": "1.00/1.50",
+        "goalsAverageAway": "1.25/1.00",
+        "throwInsTotals": "191/202",
+        "throwInsTotalsHome": "98/83",
+        "throwInsTotalsAway": "93/119",
+        "throwInsAverage": "23.88/25.25",
+        "throwInsAverageHome": "24.50/20.75",
+        "throwInsAverageAway": "23.25/29.75",
+        "averageBallPossessionTotals": "422/378",
+        "averageBallPossessionTotalsHome": "241/159",
+        "averageBallPossessionTotalsAway": "181/219",
+        "averageBallPossessionAverage": "52.75/47.25",
+        "averageBallPossessionAverageHome": "60.25/39.75",
+        "averageBallPossessionAverageAway": "45.25/54.75",
+        "tacklesTotals": "121/123",
+        "tacklesTotalsHome": "52/56",
+        "tacklesTotalsAway": "69/67",
+        "tacklesAverage": "15.13/15.38",
+        "tacklesAverageHome": "13.00/14.00",
+        "tacklesAverageAway": "17.25/16.75",
+        "interceptionsTotals": "66/59",
+        "interceptionsTotalsHome": "35/23",
+        "interceptionsTotalsAway": "31/36",
+        "interceptionsAverage": "8.25/7.38",
+        "interceptionsAverageHome": "8.75/5.75",
+        "interceptionsAverageAway": "7.75/9.00",
+        "aerialDuelsTotals": "151/171",
+        "aerialDuelsTotalsHome": "72/84",
+        "aerialDuelsTotalsAway": "79/87",
+        "aerialDuelsAverage": "18.88/21.38",
+        "aerialDuelsAverageHome": "18.00/21.00",
+        "aerialDuelsAverageAway": "19.75/21.75",
+        "aerialDuelsAttemptedTotals": "322/322",
+        "aerialDuelsAttemptedTotalsHome": "156/156",
+        "aerialDuelsAttemptedTotalsAway": "166/166",
+        "aerialDuelsAttemptedAverage": "40.25/40.25",
+        "aerialDuelsAttemptedAverageHome": "39.00/39.00",
+        "aerialDuelsAttemptedAverageAway": "41.50/41.50",
+        "dribblesTotals": "42/26",
+        "dribblesTotalsHome": "20/15",
+        "dribblesTotalsAway": "22/11",
+        "dribblesAverage": "5.25/3.25",
+        "dribblesAverageHome": "5.00/3.75",
+        "dribblesAverageAway": "5.50/2.75",
+        "dribblesAttemptedTotals": "109/79",
+        "dribblesAttemptedTotalsHome": "49/43",
+        "dribblesAttemptedTotalsAway": "60/36",
+        "dribblesAttemptedAverage": "13.63/9.88",
+        "dribblesAttemptedAverageHome": "12.25/10.75",
+        "dribblesAttemptedAverageAway": "15.00/9.00"
+    }
+}
