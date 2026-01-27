@@ -1,59 +1,180 @@
 const { scrape } = require("./script");
 
 async function processBatches(teamIds) {
-    for (let i = 0; i < teamIds.length; i++) {
-        // let batch = teamIds.slice(i, i + 2);
-        // console.log(`Processing batch: ${batch.join(', ')}`);
-        // await Promise.allSettled(batch.map(teamId => scrape(teamId)));
-        await scrape(teamIds[i]);
-    }
+  for (let i = 0; i < teamIds.length; i++) {
+    // let batch = teamIds.slice(i, i + 2);
+    // console.log(`Processing batch: ${batch.join(', ')}`);
+    // await Promise.allSettled(batch.map(teamId => scrape(teamId)));
+    await scrape(teamIds[i]);
+  }
 }
 
 processBatches([
-    2692, 2689, 2824, 2817, 1649, 1715, 3009, 3002
+  "3",
+  "39",
+  "40",
+  "48",
+  "2690",
+  "2713",
+  "2685",
+  "2693",
+  "2696",
+  "2702",
+  "2859",
+  "2828",
+  "2836",
+  "2885",
+  "2821",
+  "2818",
+  "2677",
+  "2547",
+  "2600",
+  "2538",
+  "1659",
+  "1651",
+  "1647",
+  "6070",
+  "1658",
+  "1662",
+  "3011",
+  "49531",
+  "38396",
+  "2999",
+  "2964",
+  "2951",
+  "2968",
+  "2948",
+  "2977",
+  "2955",
+  "2959",
+  "2960",
+  "6063",
+  "3056",
+  "7802",
+  "3053",
+  "3065",
+  "3051",
+  "6362",
+  "3052",
+  "2903",
+  "2900",
+  "389232",
+  "2889",
+  "2898",
+  "2901",
+  "2895",
+  "2918",
+  "3265",
+  "3252",
+  "3251",
+  "3241",
+  "1933",
+  "36534",
+  "35092",
+  "324871",
+  "2835",
+  "6577",
+  "2848",
+  "4488",
+  "2854",
+  "24265",
+  "2675",
+  "2541",
+  "2573",
+  "2561",
+  "2542",
+  "2576",
+  "47504",
+  "6962",
+  "7935",
+  "2706",
+  "2715",
+  "2735",
+  "2963",
+  "2976",
+  "2990",
+  "2949",
+  "2956",
+  "2973",
+  "2994",
+  "2961",
+  "55603",
+  "207011",
+  "6414",
+  "4952",
+  "55625",
+  "297102",
+  "168086",
+  "56027",
+  "168088",
+  "56021",
+  "530631",
+  "21895",
+  "283972",
+  "24798",
+  "5287",
+  "3291",
+  "2448",
+  "2450",
+  "2501",
+  "2452",
+  "2449",
+  "2454",
+  "34218",
+  "66566",
+  "85743",
+  "188874",
+  "254730",
+  "40661",
+  "35607",
+  "85741",
+  "58689",
+  "331952",
+  "34060",
+  "55705",
 ]);
 
 function getElementsBetween(temp1, temp2) {
-    function splits(url) {
-        const segments = url.split(`/`);
-        for (let i = 0; i < segments.length; i++) {
-            let segment = segments[i];
-            if (!isNaN(segment) && segment) {
-                return segment;
-            }
-        }
-        return "";
+  function splits(url) {
+    const segments = url.split(`/`);
+    for (let i = 0; i < segments.length; i++) {
+      let segment = segments[i];
+      if (!isNaN(segment) && segment) {
+        return segment;
+      }
     }
-    // Ensure temp1 is before temp2 in the DOM
-    if (temp1.compareDocumentPosition(temp2) & Node.DOCUMENT_POSITION_PRECEDING) {
-        [temp1, temp2] = [temp2, temp1];
+    return "";
+  }
+  // Ensure temp1 is before temp2 in the DOM
+  if (temp1.compareDocumentPosition(temp2) & Node.DOCUMENT_POSITION_PRECEDING) {
+    [temp1, temp2] = [temp2, temp1];
+  }
+
+  const elementsInBetween1 = [],
+    elementsInBetween2 = [];
+  let currentNode = temp1.nextElementSibling;
+
+  while (currentNode && currentNode !== temp2) {
+    if (currentNode.querySelectorAll(`a img`) != null) {
+      for (let imgElement of currentNode.querySelectorAll(`a img`)) {
+        const teamId = splits(imgElement.getAttribute(`src`));
+        elementsInBetween1.push(teamId);
+      }
     }
+    currentNode = currentNode.nextElementSibling;
+  }
 
-    const elementsInBetween1 = [],
-        elementsInBetween2 = [];
-    let currentNode = temp1.nextElementSibling;
+  currentNode = temp1.nextElementSibling;
 
-    while (currentNode && currentNode !== temp2) {
-        if (currentNode.querySelectorAll(`a img`) != null) {
-            for (let imgElement of currentNode.querySelectorAll(`a img`)) {
-                const teamId = splits(imgElement.getAttribute(`src`));
-                elementsInBetween1.push(teamId);
-            }
-        }
-        currentNode = currentNode.nextElementSibling;
+  while (currentNode && currentNode !== temp2) {
+    if (currentNode.querySelectorAll(`a img`) != null) {
+      for (let imgElement of currentNode.querySelectorAll(`a img`)) {
+        const teamId = splits(imgElement.getAttribute(`src`));
+        elementsInBetween2.push(teamId);
+      }
     }
+    currentNode = currentNode.nextElementSibling;
+  }
 
-    currentNode = temp1.nextElementSibling;
-
-    while (currentNode && currentNode !== temp2) {
-        if (currentNode.querySelectorAll(`a img`) != null) {
-            for (let imgElement of currentNode.querySelectorAll(`a img`)) {
-                const teamId = splits(imgElement.getAttribute(`src`));
-                elementsInBetween2.push(teamId);
-            }
-        }
-        currentNode = currentNode.nextElementSibling;
-    }
-
-    return Array.from(new Set([...elementsInBetween1, ...elementsInBetween2]));
+  return Array.from(new Set([...elementsInBetween1, ...elementsInBetween2]));
 }
