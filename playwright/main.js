@@ -9,7 +9,7 @@ async function processBatches(teamIds) {
   }
 }
 
-processBatches([
+processBatches([ 
   "3",
   "39",
   "40",
