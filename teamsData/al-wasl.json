@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "6.62",
+        "fouls": "11.77",
+        "goalKicks": "7.15",
+        "saves": "1.69",
+        "offsides": "1.92",
+        "shotsOnTarget": "4.08/2.77",
+        "yellowCards": "1.31/2.69",
+        "goals": "1.38/1.00",
+        "throwIns": "19.08",
+        "ballPossession": 60.846153846154,
+        "tackles": "12.00/15.38",
+        "interceptions": "7.00/7.00",
+        "aerialDuels": "11.31",
+        "aerialDuelsAttempted": "20.54",
+        "dribbles": "7.38/3.85",
+        "dribblesAttempted": "14.31/9.46"
+    },
+    "teamSlug": "al-wasl",
+    "teamId": "47674",
+    "teamName": "Al Wasl",
+    "tournament": "UAE Pro League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/al-wasl-al-jazira/Pldszdu#id:15010577,tab:statistics",
+            "teams": [
+                "Al-Wasl",
+                "Al-Jazira"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "47674",
+                "8090"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shabab-al-ahli-dubai-al-wasl/zduslHfc#id:15010550,tab:statistics",
+            "teams": [
+                "Shabab Al-Ahli",
+                "Al-Wasl"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "264111",
+                "47674"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-ittihad-kalba-al-wasl/zdusfox#id:15010568,tab:statistics",
+            "teams": [
+                "Kalba",
+                "Al-Wasl"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "55705",
+                "47674"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-wahda-fc-al-wasl/zduspHfc#id:15010572,tab:statistics",
+            "teams": [
+                "Al-Wasl",
+                "Al-Wahda"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "47674",
+                "264115"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dibba-al-fujairah-al-wasl/zdusjBH#id:15010567,tab:statistics",
+            "teams": [
+                "Al-Fujairah",
+                "Al-Wasl"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "81309",
+                "47674"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ajman-al-wasl/zdusMyy#id:14908759,tab:statistics",
+            "teams": [
+                "Al-Wasl",
+                "Ajman"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "47674",
+                "58687"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/khor-fakkan-al-wasl/zdusCJTb#id:14537555,tab:statistics",
+            "teams": [
+                "Khor Fakkan",
+                "Al-Wasl"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "234227",
+                "47674"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-wasl-al-nasr-dubai/HBtszdu#id:14537548,tab:statistics",
+            "teams": [
+                "Al-Wasl",
+                "Al-Nasr Dubai"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "47674",
+                "46332"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/1[H]",
+            "fouls": "14/13[H]",
+            "goalKicks": "3/11[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "2/6[H]",
+            "goals": "1/0[H]",
+            "throwIns": "14/12[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Al-Wasl,Al-Jazira,Home",
+            "tackles": "14/16[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "10/10[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "5/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "5/8[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/3[A]",
+            "throwIns": "19/19[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Al-Wasl,Shabab Al-Ahli,Away",
+            "tackles": "18/13[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "14/12[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "11/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "12/16[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Al-Wasl,Kalba,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "13/4[A]",
+            "aerialDuels": "18/7[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "10/4[A]",
+            "dribblesAttempted": "15/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "16/16[H]",
+            "goalKicks": "9/4[H]",
+            "saves": "3/1[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/21[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Al-Wasl,Al-Wahda,Home",
+            "tackles": "15/19[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "9/8[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/4[A]",
+            "fouls": "6/7[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "0/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "13/15[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "Al-Wasl,Al-Fujairah,Away",
+            "tackles": "21/9[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "8/6[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "12/3[A]",
+            "dribblesAttempted": "16/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/0[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "0/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "4/0[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "0/0[H]",
+            "throwIns": "32/17[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Al-Wasl,Ajman,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "10/13[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/5[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/1[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "11/16[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/20[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Al-Wasl,Khor Fakkan,Away",
+            "tackles": "11/16[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "14/9[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "16/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "22/11[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "Al-Wasl,Al-Nasr Dubai,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "5/4[H]",
+            "aerialDuels": "7/9[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-28T13:11:41.131Z",
+    "endTime": "2026-01-28T13:12:11.442Z",
+    "totalTimeSeconds": 30.31,
+    "combinedMatchStatistics": {
+        "corners": "6/1[H]+8/7[A]+6/5[A]+4/6[H]+11/4[A]+6/0[H]+11/1[A]+8/3[H]",
+        "fouls": "14/13[H]+16/11[A]+10/11[A]+16/16[H]+6/7[A]+15/14[H]+8/13[A]+12/13[H]",
+        "goalKicks": "3/11[H]+7/7[A]+8/6[A]+9/4[H]+6/8[A]+6/13[H]+11/16[A]+6/9[H]",
+        "saves": "2/1[H]+5/3[A]+2/2[A]+3/1[H]+0/4[A]+0/4[H]+1/5[A]+1/2[H]",
+        "offsides": "1/4[H]+0/0[A]+1/3[A]+3/0[H]+3/0[A]+2/0[H]+1/1[A]+1/1[H]",
+        "shotsOnTarget": "2/2[H]+5/8[A]+4/4[A]+2/3[H]+5/1[A]+4/0[H]+7/2[A]+4/3[H]",
+        "yellowCards": "2/6[H]+1/3[A]+2/1[A]+2/2[H]+1/2[A]+2/5[H]+0/3[A]+3/4[H]",
+        "goals": "1/0[H]+1/3[A]+2/2[A]+1/0[H]+3/1[A]+0/0[H]+1/1[A]+2/1[H]",
+        "throwIns": "14/12[H]+19/19[A]+12/16[A]+19/21[H]+13/15[A]+32/17[H]+24/20[A]+22/11[H]",
+        "averageBallPossession": "55/45[H]+53/47[A]+63/37[A]+51/49[H]+70/30[A]+71/29[H]+64/36[A]+73/27[H]",
+        "teams": "Al-Wasl,Al-Jazira,Home+Al-Wasl,Shabab Al-Ahli,Away+Al-Wasl,Kalba,Away+Al-Wasl,Al-Wahda,Home+Al-Wasl,Al-Fujairah,Away+Al-Wasl,Ajman,Home+Al-Wasl,Khor Fakkan,Away+Al-Wasl,Al-Nasr Dubai,Home",
+        "tackles": "14/16[H]+18/13[A]+10/17[A]+15/19[H]+21/9[A]+15/16[H]+11/16[A]+12/15[H]",
+        "interceptions": "11/12[H]+7/7[A]+13/4[A]+7/5[H]+4/6[A]+7/7[H]+6/9[A]+5/4[H]",
+        "aerialDuels": "10/10[H]+14/12[A]+18/7[A]+9/8[H]+8/6[A]+10/13[H]+14/9[A]+7/9[H]",
+        "aerialDuelsAttempted": "20/20[H]+26/26[A]+25/25[A]+17/17[H]+14/14[A]+23/23[H]+23/23[A]+16/16[H]",
+        "dribbles": "6/4[H]+5/7[A]+10/4[A]+6/6[H]+12/3[A]+10/5[H]+4/3[A]+3/5[H]",
+        "dribblesAttempted": "13/10[H]+11/19[A]+15/10[A]+13/10[H]+16/15[A]+13/10[H]+16/8[A]+8/11[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "60/27",
+        "cornersTotalsHome": "24/10",
+        "cornersTotalsAway": "36/17",
+        "cornersAverage": "7.50/3.38",
+        "cornersAverageHome": "6.00/2.50",
+        "cornersAverageAway": "9.00/4.25",
+        "foulsTotals": "97/98",
+        "foulsTotalsHome": "57/56",
+        "foulsTotalsAway": "40/42",
+        "foulsAverage": "12.13/12.25",
+        "foulsAverageHome": "14.25/14.00",
+        "foulsAverageAway": "10.00/10.50",
+        "goalKicksTotals": "56/74",
+        "goalKicksTotalsHome": "24/37",
+        "goalKicksTotalsAway": "32/37",
+        "goalKicksAverage": "7.00/9.25",
+        "goalKicksAverageHome": "6.00/9.25",
+        "goalKicksAverageAway": "8.00/9.25",
+        "savesTotals": "14/22",
+        "savesTotalsHome": "6/8",
+        "savesTotalsAway": "8/14",
+        "savesAverage": "1.75/2.75",
+        "savesAverageHome": "1.50/2.00",
+        "savesAverageAway": "2.00/3.50",
+        "offsidesTotals": "12/9",
+        "offsidesTotalsHome": "7/5",
+        "offsidesTotalsAway": "5/4",
+        "offsidesAverage": "1.50/1.13",
+        "offsidesAverageHome": "1.75/1.25",
+        "offsidesAverageAway": "1.25/1.00",
+        "shotsOnTargetTotals": "33/23",
+        "shotsOnTargetTotalsHome": "12/8",
+        "shotsOnTargetTotalsAway": "21/15",
+        "shotsOnTargetAverage": "4.13/2.88",
+        "shotsOnTargetAverageHome": "3.00/2.00",
+        "shotsOnTargetAverageAway": "5.25/3.75",
+        "yellowCardsTotals": "13/26",
+        "yellowCardsTotalsHome": "9/17",
+        "yellowCardsTotalsAway": "4/9",
+        "yellowCardsAverage": "1.63/3.25",
+        "yellowCardsAverageHome": "2.25/4.25",
+        "yellowCardsAverageAway": "1.00/2.25",
+        "goalsTotals": "11/8",
+        "goalsTotalsHome": "4/1",
+        "goalsTotalsAway": "7/7",
+        "goalsAverage": "1.38/1.00",
+        "goalsAverageHome": "1.00/0.25",
+        "goalsAverageAway": "1.75/1.75",
+        "throwInsTotals": "155/131",
+        "throwInsTotalsHome": "87/61",
+        "throwInsTotalsAway": "68/70",
+        "throwInsAverage": "19.38/16.38",
+        "throwInsAverageHome": "21.75/15.25",
+        "throwInsAverageAway": "17.00/17.50",
+        "averageBallPossessionTotals": "500/300",
+        "averageBallPossessionTotalsHome": "250/150",
+        "averageBallPossessionTotalsAway": "250/150",
+        "averageBallPossessionAverage": "62.50/37.50",
+        "averageBallPossessionAverageHome": "62.50/37.50",
+        "averageBallPossessionAverageAway": "62.50/37.50",
+        "tacklesTotals": "116/121",
+        "tacklesTotalsHome": "56/66",
+        "tacklesTotalsAway": "60/55",
+        "tacklesAverage": "14.50/15.13",
+        "tacklesAverageHome": "14.00/16.50",
+        "tacklesAverageAway": "15.00/13.75",
+        "interceptionsTotals": "60/54",
+        "interceptionsTotalsHome": "30/28",
+        "interceptionsTotalsAway": "30/26",
+        "interceptionsAverage": "7.50/6.75",
+        "interceptionsAverageHome": "7.50/7.00",
+        "interceptionsAverageAway": "7.50/6.50",
+        "aerialDuelsTotals": "90/74",
+        "aerialDuelsTotalsHome": "36/40",
+        "aerialDuelsTotalsAway": "54/34",
+        "aerialDuelsAverage": "11.25/9.25",
+        "aerialDuelsAverageHome": "9.00/10.00",
+        "aerialDuelsAverageAway": "13.50/8.50",
+        "aerialDuelsAttemptedTotals": "164/164",
+        "aerialDuelsAttemptedTotalsHome": "76/76",
+        "aerialDuelsAttemptedTotalsAway": "88/88",
+        "aerialDuelsAttemptedAverage": "20.50/20.50",
+        "aerialDuelsAttemptedAverageHome": "19.00/19.00",
+        "aerialDuelsAttemptedAverageAway": "22.00/22.00",
+        "dribblesTotals": "56/37",
+        "dribblesTotalsHome": "25/20",
+        "dribblesTotalsAway": "31/17",
+        "dribblesAverage": "7.00/4.63",
+        "dribblesAverageHome": "6.25/5.00",
+        "dribblesAverageAway": "7.75/4.25",
+        "dribblesAttemptedTotals": "105/93",
+        "dribblesAttemptedTotalsHome": "47/41",
+        "dribblesAttemptedTotalsAway": "58/52",
+        "dribblesAttemptedAverage": "13.13/11.63",
+        "dribblesAttemptedAverageHome": "11.75/10.25",
+        "dribblesAttemptedAverageAway": "14.50/13.00"
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.43",
+        "fouls": "12.29",
+        "goalKicks": "5.21",
+        "saves": "1.43",
+        "offsides": "2.43",
+        "shotsOnTarget": "5.64/2.00",
+        "yellowCards": "2.07/1.57",
+        "goals": "1.00/0.43",
+        "throwIns": "22.07",
+        "ballPossession": 58.571428571429,
+        "tackles": "15.07/16.43",
+        "interceptions": "9.00/10.93",
+        "aerialDuels": "17.00",
+        "aerialDuelsAttempted": "30.79",
+        "dribbles": "8.93/5.50",
+        "dribblesAttempted": "15.57/12.00"
+    },
+    "teamSlug": "kaizer-chiefs",
+    "teamId": "7663",
+    "teamName": "Kaizer Chiefs",
+    "tournament": "South African Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/lamontville-golden-arrows-kaizer-chiefs/nddsodd#id:15154242,tab:statistics",
+            "teams": [
+                "Kaizer Chiefs",
+                "Golden Arrows"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "7663",
+                "7664"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ts-galaxy-kaizer-chiefs/nddsiitc#id:15184377,tab:statistics",
+            "teams": [
+                "TS Galaxy",
+                "Kaizer Chiefs"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "295408",
+                "7663"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chippa-united-kaizer-chiefs/nddsWtD#id:14366024,tab:statistics",
+            "teams": [
+                "Chippa Utd",
+                "Kaizer Chiefs"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "70946",
+                "7663"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-kaizer-chiefs/nddstqkc#id:14366004,tab:statistics",
+            "teams": [
+                "Kaizer Chiefs",
+                "ORBIT College"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "7663",
+                "275818"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-kaizer-chiefs/nddsjIGg#id:14372232,tab:statistics",
+            "teams": [
+                "Durban City",
+                "Kaizer Chiefs"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "829159",
+                "7663"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/siwelele-fc-kaizer-chiefs/nddsimVi#id:14837929,tab:statistics",
+            "teams": [
+                "Kaizer Chiefs",
+                "Siwelele FC"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "7663",
+                "1113108"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaizer-chiefs-amazulu-fc/fddsndd#id:14770044,tab:statistics",
+            "teams": [
+                "Kaizer Chiefs",
+                "AmaZulu"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "7663",
+                "7655"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lamontville-golden-arrows-kaizer-chiefs/nddsodd#id:14338636,tab:statistics",
+            "teams": [
+                "Golden Arrows",
+                "Kaizer Chiefs"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "7664",
+                "7663"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/4[H]",
+            "fouls": "18/10[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "1/7[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "8/0[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/37[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Kaizer Chiefs,Golden Arrows,Home",
+            "tackles": "23/14[H]",
+            "interceptions": "14/6[H]",
+            "aerialDuels": "14/11[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "3/8[H]",
+            "dribblesAttempted": "11/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "13/2[A]",
+            "fouls": "7/18[A]",
+            "goalKicks": "2/14[A]",
+            "saves": "0/8[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "8/0[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "28/13[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Kaizer Chiefs,TS Galaxy,Away",
+            "tackles": "15/24[A]",
+            "interceptions": "6/14[A]",
+            "aerialDuels": "14/16[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "15/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "20/11[A]",
+            "goalKicks": "4/20[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/19[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Kaizer Chiefs,Chippa Utd,Away",
+            "tackles": "23/12[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "15/13[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "14/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "7/13[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "4/1[H]",
+            "throwIns": "20/10[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Kaizer Chiefs,ORBIT College,Home",
+            "tackles": "12/10[H]",
+            "interceptions": "3/10[H]",
+            "aerialDuels": "9/4[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "13/5[H]",
+            "dribblesAttempted": "19/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/0[A]",
+            "fouls": "11/19[A]",
+            "goalKicks": "9/10[A]",
+            "saves": "0/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/0[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "25/21[A]",
+            "averageBallPossession": "67/33[A]",
+            "teams": "Kaizer Chiefs,Durban City,Away",
+            "tackles": "12/24[A]",
+            "interceptions": "8/16[A]",
+            "aerialDuels": "26/24[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "9/2[A]",
+            "dribblesAttempted": "15/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "3/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "4/4[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "26/14[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Kaizer Chiefs,Siwelele FC,Home",
+            "tackles": "11/13[H]",
+            "interceptions": "4/15[H]",
+            "aerialDuels": "27/9[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "11/4[H]",
+            "dribblesAttempted": "18/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "6/7[H]",
+            "goalKicks": "5/22[H]",
+            "saves": "0/7[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "8/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/11[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Kaizer Chiefs,AmaZulu,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "14/9[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "15/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "9/12[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/6[A]",
+            "shotsOnTarget": "7/1[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "1/0[A]",
+            "throwIns": "26/30[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Kaizer Chiefs,Golden Arrows,Away",
+            "tackles": "18/25[A]",
+            "interceptions": "18/5[A]",
+            "aerialDuels": "15/15[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "21/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-28T13:07:25.963Z",
+    "endTime": "2026-01-28T13:07:57.879Z",
+    "totalTimeSeconds": 31.92,
+    "combinedMatchStatistics": {
+        "corners": "7/4[H]+13/2[A]+6/2[A]+4/5[H]+4/0[A]+2/2[H]+7/1[H]+5/3[A]",
+        "fouls": "18/10[H]+7/18[A]+20/11[A]+7/13[H]+11/19[A]+14/11[H]+6/7[H]+12/14[A]",
+        "goalKicks": "7/11[H]+2/14[A]+4/20[A]+5/9[H]+9/10[A]+3/10[H]+5/22[H]+9/12[A]",
+        "saves": "1/7[H]+0/8[A]+1/5[A]+4/3[H]+0/2[A]+2/2[H]+0/7[H]+1/5[A]",
+        "offsides": "0/1[H]+3/1[A]+1/2[A]+2/1[H]+2/2[A]+4/4[H]+2/3[H]+1/6[A]",
+        "shotsOnTarget": "8/0[H]+8/0[A]+5/1[A]+7/6[H]+3/0[A]+2/2[H]+8/1[H]+7/1[A]",
+        "yellowCards": "1/1[H]+2/3[A]+1/1[A]+0/1[H]+3/1[A]+1/2[H]+1/1[H]+3/0[A]",
+        "goals": "1/0[H]+0/0[A]+0/0[A]+4/1[H]+1/0[A]+0/0[H]+1/1[H]+1/0[A]",
+        "throwIns": "19/37[H]+28/13[A]+24/19[A]+20/10[H]+25/21[A]+26/14[H]+26/11[H]+26/30[A]",
+        "averageBallPossession": "51/49[H]+56/44[A]+55/45[A]+59/41[H]+67/33[A]+55/45[H]+67/33[H]+52/48[A]",
+        "teams": "Kaizer Chiefs,Golden Arrows,Home+Kaizer Chiefs,TS Galaxy,Away+Kaizer Chiefs,Chippa Utd,Away+Kaizer Chiefs,ORBIT College,Home+Kaizer Chiefs,Durban City,Away+Kaizer Chiefs,Siwelele FC,Home+Kaizer Chiefs,AmaZulu,Home+Kaizer Chiefs,Golden Arrows,Away",
+        "tackles": "23/14[H]+15/24[A]+23/12[A]+12/10[H]+12/24[A]+11/13[H]+13/12[H]+18/25[A]",
+        "interceptions": "14/6[H]+6/14[A]+13/7[A]+3/10[H]+8/16[A]+4/15[H]+6/9[H]+18/5[A]",
+        "aerialDuels": "14/11[H]+14/16[A]+15/13[A]+9/4[H]+26/24[A]+27/9[H]+14/9[H]+15/15[A]",
+        "aerialDuelsAttempted": "25/25[H]+30/30[A]+28/28[A]+13/13[H]+50/50[A]+36/36[H]+23/23[H]+30/30[A]",
+        "dribbles": "3/8[H]+7/7[A]+9/5[A]+13/5[H]+9/2[A]+11/4[H]+10/9[H]+9/7[A]",
+        "dribblesAttempted": "11/21[H]+15/15[A]+14/17[A]+19/11[H]+15/7[A]+18/8[H]+15/14[H]+21/14[A]",
+        "isHome": "true+false+false+true+false+true+true+false",
+        "cornersTotals": "48/19",
+        "cornersTotalsHome": "20/12",
+        "cornersTotalsAway": "28/7",
+        "cornersAverage": "6.00/2.38",
+        "cornersAverageHome": "5.00/3.00",
+        "cornersAverageAway": "7.00/1.75",
+        "foulsTotals": "95/103",
+        "foulsTotalsHome": "45/41",
+        "foulsTotalsAway": "50/62",
+        "foulsAverage": "11.88/12.88",
+        "foulsAverageHome": "11.25/10.25",
+        "foulsAverageAway": "12.50/15.50",
+        "goalKicksTotals": "44/108",
+        "goalKicksTotalsHome": "20/52",
+        "goalKicksTotalsAway": "24/56",
+        "goalKicksAverage": "5.50/13.50",
+        "goalKicksAverageHome": "5.00/13.00",
+        "goalKicksAverageAway": "6.00/14.00",
+        "savesTotals": "9/39",
+        "savesTotalsHome": "7/19",
+        "savesTotalsAway": "2/20",
+        "savesAverage": "1.13/4.88",
+        "savesAverageHome": "1.75/4.75",
+        "savesAverageAway": "0.50/5.00",
+        "offsidesTotals": "15/20",
+        "offsidesTotalsHome": "8/9",
+        "offsidesTotalsAway": "7/11",
+        "offsidesAverage": "1.88/2.50",
+        "offsidesAverageHome": "2.00/2.25",
+        "offsidesAverageAway": "1.75/2.75",
+        "shotsOnTargetTotals": "48/11",
+        "shotsOnTargetTotalsHome": "25/9",
+        "shotsOnTargetTotalsAway": "23/2",
+        "shotsOnTargetAverage": "6.00/1.38",
+        "shotsOnTargetAverageHome": "6.25/2.25",
+        "shotsOnTargetAverageAway": "5.75/0.50",
+        "yellowCardsTotals": "12/10",
+        "yellowCardsTotalsHome": "3/5",
+        "yellowCardsTotalsAway": "9/5",
+        "yellowCardsAverage": "1.50/1.25",
+        "yellowCardsAverageHome": "0.75/1.25",
+        "yellowCardsAverageAway": "2.25/1.25",
+        "goalsTotals": "8/2",
+        "goalsTotalsHome": "6/2",
+        "goalsTotalsAway": "2/0",
+        "goalsAverage": "1.00/0.25",
+        "goalsAverageHome": "1.50/0.50",
+        "goalsAverageAway": "0.50/0.00",
+        "throwInsTotals": "194/155",
+        "throwInsTotalsHome": "91/72",
+        "throwInsTotalsAway": "103/83",
+        "throwInsAverage": "24.25/19.38",
+        "throwInsAverageHome": "22.75/18.00",
+        "throwInsAverageAway": "25.75/20.75",
+        "averageBallPossessionTotals": "462/338",
+        "averageBallPossessionTotalsHome": "232/168",
+        "averageBallPossessionTotalsAway": "230/170",
+        "averageBallPossessionAverage": "57.75/42.25",
+        "averageBallPossessionAverageHome": "58.00/42.00",
+        "averageBallPossessionAverageAway": "57.50/42.50",
+        "tacklesTotals": "127/134",
+        "tacklesTotalsHome": "59/49",
+        "tacklesTotalsAway": "68/85",
+        "tacklesAverage": "15.88/16.75",
+        "tacklesAverageHome": "14.75/12.25",
+        "tacklesAverageAway": "17.00/21.25",
+        "interceptionsTotals": "72/82",
+        "interceptionsTotalsHome": "27/40",
+        "interceptionsTotalsAway": "45/42",
+        "interceptionsAverage": "9.00/10.25",
+        "interceptionsAverageHome": "6.75/10.00",
+        "interceptionsAverageAway": "11.25/10.50",
+        "aerialDuelsTotals": "134/101",
+        "aerialDuelsTotalsHome": "64/33",
+        "aerialDuelsTotalsAway": "70/68",
+        "aerialDuelsAverage": "16.75/12.63",
+        "aerialDuelsAverageHome": "16.00/8.25",
+        "aerialDuelsAverageAway": "17.50/17.00",
+        "aerialDuelsAttemptedTotals": "235/235",
+        "aerialDuelsAttemptedTotalsHome": "97/97",
+        "aerialDuelsAttemptedTotalsAway": "138/138",
+        "aerialDuelsAttemptedAverage": "29.38/29.38",
+        "aerialDuelsAttemptedAverageHome": "24.25/24.25",
+        "aerialDuelsAttemptedAverageAway": "34.50/34.50",
+        "dribblesTotals": "71/47",
+        "dribblesTotalsHome": "37/26",
+        "dribblesTotalsAway": "34/21",
+        "dribblesAverage": "8.88/5.88",
+        "dribblesAverageHome": "9.25/6.50",
+        "dribblesAverageAway": "8.50/5.25",
+        "dribblesAttemptedTotals": "128/107",
+        "dribblesAttemptedTotalsHome": "63/54",
+        "dribblesAttemptedTotalsAway": "65/53",
+        "dribblesAttemptedAverage": "16.00/13.38",
+        "dribblesAttemptedAverageHome": "15.75/13.50",
+        "dribblesAttemptedAverageAway": "16.25/13.25"
+    }
+}
