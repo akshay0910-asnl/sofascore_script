@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.83",
+        "fouls": "14.09",
+        "goalKicks": "8.04",
+        "saves": "2.22",
+        "offsides": "1.43",
+        "shotsOnTarget": "3.22/3.17",
+        "yellowCards": "2.39/1.83",
+        "goals": "1.30/0.91",
+        "throwIns": "25.91",
+        "ballPossession": 40.521739130435,
+        "tackles": "17.39/15.57",
+        "interceptions": "10.35/7.13",
+        "aerialDuels": "20.65",
+        "aerialDuelsAttempted": "39.61",
+        "dribbles": "5.39/5.17",
+        "dribblesAttempted": "13.39/13.61"
+    },
+    "teamSlug": "fc-arges",
+    "teamId": "116221",
+    "teamName": "FC Argeș Pitești",
+    "tournament": "Romanian SuperLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-fc-metaloglobus-bucuresti/GGGswzW#id:14060328,tab:statistics",
+            "teams": [
+                "Metaloglobus",
+                "Argeș Pitești"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "79081",
+                "116221"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-fcsb/bqbswzW#id:14065026,tab:statistics",
+            "teams": [
+                "Argeș Pitești",
+                "FCSB"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "116221",
+                "3301"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-sc-otelul-galati/QpbswzW#id:14065003,tab:statistics",
+            "teams": [
+                "Oțelul Galați",
+                "Argeș Pitești"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "3291",
+                "116221"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-fc-botosani/YVjswzW#id:14065007,tab:statistics",
+            "teams": [
+                "Argeș Pitești",
+                "FC Botoșani"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "116221",
+                "24798"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-csikszereda-miercurea-ciuc-fc-arges-pitesti/wzWsxEnc#id:14065000,tab:statistics",
+            "teams": [
+                "FK Csíkszereda",
+                "Argeș Pitești"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "283972",
+                "116221"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-cfr-1907-cluj/MfcswzW#id:14060321,tab:statistics",
+            "teams": [
+                "Argeș Pitești",
+                "CFR Cluj"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "116221",
+                "5287"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universitatea-craiova-fc-arges-pitesti/wzWsyzW#id:14060314,tab:statistics",
+            "teams": [
+                "Argeș Pitești",
+                "U. Craiova"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "116221",
+                "116223"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fc-arges-pitesti/wzWsditc#id:14060308,tab:statistics",
+            "teams": [
+                "Rapid București",
+                "Argeș Pitești"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "295403",
+                "116221"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "4/9[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "30/29[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Argeș Pitești,Metaloglobus,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "12/13[A]",
+            "aerialDuels": "24/19[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "8/1[A]",
+            "dribblesAttempted": "13/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/9[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "4/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "20/31[H]",
+            "averageBallPossession": "32/68[H]",
+            "teams": "Argeș Pitești,FCSB,Home",
+            "tackles": "18/28[H]",
+            "interceptions": "18/3[H]",
+            "aerialDuels": "25/25[H]",
+            "aerialDuelsAttempted": "50/50[H]",
+            "dribbles": "2/5[H]",
+            "dribblesAttempted": "17/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "7/4[A]",
+            "saves": "9/3[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/11[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "20/23[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Argeș Pitești,Oțelul Galați,Away",
+            "tackles": "9/11[A]",
+            "interceptions": "12/15[A]",
+            "aerialDuels": "11/18[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "10/8[H]",
+            "saves": "1/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "37/21[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Argeș Pitești,FC Botoșani,Home",
+            "tackles": "25/23[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "22/12[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "12/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "10/12[A]",
+            "saves": "0/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "3/0[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/22[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Argeș Pitești,FK Csíkszereda,Away",
+            "tackles": "20/8[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "11/8[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "11/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "11/9[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "25/29[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Argeș Pitești,CFR Cluj,Home",
+            "tackles": "11/8[H]",
+            "interceptions": "15/6[H]",
+            "aerialDuels": "16/25[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "9/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "13/0[H]",
+            "fouls": "14/17[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "1/1[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "30/16[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Argeș Pitești,U. Craiova,Home",
+            "tackles": "23/15[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "13/21[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "10/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/6[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "4/13[A]",
+            "saves": "0/1[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "24/18[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Argeș Pitești,Rapid București,Away",
+            "tackles": "25/20[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "19/15[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "21/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:06:50.615Z",
+    "endTime": "2026-01-31T13:07:24.404Z",
+    "totalTimeSeconds": 33.79,
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+4/9[H]+7/4[A]+4/6[H]+4/2[A]+2/4[H]+13/0[H]+7/6[A]",
+        "fouls": "12/14[A]+15/12[H]+17/13[A]+13/13[H]+17/13[A]+13/13[H]+14/17[H]+8/12[A]",
+        "goalKicks": "4/9[A]+10/6[H]+7/4[A]+10/8[H]+10/12[A]+11/9[H]+6/5[H]+4/13[A]",
+        "saves": "1/2[A]+4/1[H]+9/3[A]+1/2[H]+0/2[A]+5/3[H]+1/1[H]+0/1[A]",
+        "offsides": "2/1[A]+2/2[H]+1/1[A]+3/2[H]+2/0[A]+1/2[H]+3/2[H]+2/1[A]",
+        "shotsOnTarget": "4/1[A]+2/4[H]+4/11[A]+2/2[H]+3/0[A]+5/5[H]+2/4[H]+1/2[A]",
+        "yellowCards": "2/4[A]+1/0[H]+4/2[A]+1/1[H]+3/1[A]+3/1[H]+3/3[H]+1/2[A]",
+        "goals": "2/0[A]+1/0[H]+1/2[A]+0/0[H]+2/0[A]+3/0[H]+1/2[H]+0/2[A]",
+        "throwIns": "30/29[A]+20/31[H]+20/23[A]+37/21[H]+21/22[A]+25/29[H]+30/16[H]+24/18[A]",
+        "averageBallPossession": "52/48[A]+32/68[H]+36/64[A]+37/63[H]+49/51[A]+39/61[H]+44/56[H]+41/59[A]",
+        "teams": "Argeș Pitești,Metaloglobus,Away+Argeș Pitești,FCSB,Home+Argeș Pitești,Oțelul Galați,Away+Argeș Pitești,FC Botoșani,Home+Argeș Pitești,FK Csíkszereda,Away+Argeș Pitești,CFR Cluj,Home+Argeș Pitești,U. Craiova,Home+Argeș Pitești,Rapid București,Away",
+        "tackles": "14/12[A]+18/28[H]+9/11[A]+25/23[H]+20/8[A]+11/8[H]+23/15[H]+25/20[A]",
+        "interceptions": "12/13[A]+18/3[H]+12/15[A]+9/4[H]+6/7[A]+15/6[H]+6/6[H]+4/9[A]",
+        "aerialDuels": "24/19[A]+25/25[H]+11/18[A]+22/12[H]+11/8[A]+16/25[H]+13/21[H]+19/15[A]",
+        "aerialDuelsAttempted": "43/43[A]+50/50[H]+29/29[A]+34/34[H]+19/19[A]+41/41[H]+34/34[H]+34/34[A]",
+        "dribbles": "8/1[A]+2/5[H]+3/6[A]+3/4[H]+5/5[A]+3/6[H]+5/8[H]+8/5[A]",
+        "dribblesAttempted": "13/9[A]+17/18[H]+8/9[A]+12/18[H]+11/18[A]+9/11[H]+10/20[H]+21/19[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "44/37",
+        "cornersTotalsHome": "23/19",
+        "cornersTotalsAway": "21/18",
+        "cornersAverage": "5.50/4.63",
+        "cornersAverageHome": "5.75/4.75",
+        "cornersAverageAway": "5.25/4.50",
+        "foulsTotals": "109/107",
+        "foulsTotalsHome": "55/55",
+        "foulsTotalsAway": "54/52",
+        "foulsAverage": "13.63/13.38",
+        "foulsAverageHome": "13.75/13.75",
+        "foulsAverageAway": "13.50/13.00",
+        "goalKicksTotals": "62/66",
+        "goalKicksTotalsHome": "37/28",
+        "goalKicksTotalsAway": "25/38",
+        "goalKicksAverage": "7.75/8.25",
+        "goalKicksAverageHome": "9.25/7.00",
+        "goalKicksAverageAway": "6.25/9.50",
+        "savesTotals": "21/15",
+        "savesTotalsHome": "11/7",
+        "savesTotalsAway": "10/8",
+        "savesAverage": "2.63/1.88",
+        "savesAverageHome": "2.75/1.75",
+        "savesAverageAway": "2.50/2.00",
+        "offsidesTotals": "16/11",
+        "offsidesTotalsHome": "9/8",
+        "offsidesTotalsAway": "7/3",
+        "offsidesAverage": "2.00/1.38",
+        "offsidesAverageHome": "2.25/2.00",
+        "offsidesAverageAway": "1.75/0.75",
+        "shotsOnTargetTotals": "23/29",
+        "shotsOnTargetTotalsHome": "11/15",
+        "shotsOnTargetTotalsAway": "12/14",
+        "shotsOnTargetAverage": "2.88/3.63",
+        "shotsOnTargetAverageHome": "2.75/3.75",
+        "shotsOnTargetAverageAway": "3.00/3.50",
+        "yellowCardsTotals": "18/14",
+        "yellowCardsTotalsHome": "8/5",
+        "yellowCardsTotalsAway": "10/9",
+        "yellowCardsAverage": "2.25/1.75",
+        "yellowCardsAverageHome": "2.00/1.25",
+        "yellowCardsAverageAway": "2.50/2.25",
+        "goalsTotals": "10/6",
+        "goalsTotalsHome": "5/2",
+        "goalsTotalsAway": "5/4",
+        "goalsAverage": "1.25/0.75",
+        "goalsAverageHome": "1.25/0.50",
+        "goalsAverageAway": "1.25/1.00",
+        "throwInsTotals": "207/189",
+        "throwInsTotalsHome": "112/97",
+        "throwInsTotalsAway": "95/92",
+        "throwInsAverage": "25.88/23.63",
+        "throwInsAverageHome": "28.00/24.25",
+        "throwInsAverageAway": "23.75/23.00",
+        "averageBallPossessionTotals": "330/470",
+        "averageBallPossessionTotalsHome": "152/248",
+        "averageBallPossessionTotalsAway": "178/222",
+        "averageBallPossessionAverage": "41.25/58.75",
+        "averageBallPossessionAverageHome": "38.00/62.00",
+        "averageBallPossessionAverageAway": "44.50/55.50",
+        "tacklesTotals": "145/125",
+        "tacklesTotalsHome": "77/74",
+        "tacklesTotalsAway": "68/51",
+        "tacklesAverage": "18.13/15.63",
+        "tacklesAverageHome": "19.25/18.50",
+        "tacklesAverageAway": "17.00/12.75",
+        "interceptionsTotals": "82/63",
+        "interceptionsTotalsHome": "48/19",
+        "interceptionsTotalsAway": "34/44",
+        "interceptionsAverage": "10.25/7.88",
+        "interceptionsAverageHome": "12.00/4.75",
+        "interceptionsAverageAway": "8.50/11.00",
+        "aerialDuelsTotals": "141/143",
+        "aerialDuelsTotalsHome": "76/83",
+        "aerialDuelsTotalsAway": "65/60",
+        "aerialDuelsAverage": "17.63/17.88",
+        "aerialDuelsAverageHome": "19.00/20.75",
+        "aerialDuelsAverageAway": "16.25/15.00",
+        "aerialDuelsAttemptedTotals": "284/284",
+        "aerialDuelsAttemptedTotalsHome": "159/159",
+        "aerialDuelsAttemptedTotalsAway": "125/125",
+        "aerialDuelsAttemptedAverage": "35.50/35.50",
+        "aerialDuelsAttemptedAverageHome": "39.75/39.75",
+        "aerialDuelsAttemptedAverageAway": "31.25/31.25",
+        "dribblesTotals": "37/40",
+        "dribblesTotalsHome": "13/23",
+        "dribblesTotalsAway": "24/17",
+        "dribblesAverage": "4.63/5.00",
+        "dribblesAverageHome": "3.25/5.75",
+        "dribblesAverageAway": "6.00/4.25",
+        "dribblesAttemptedTotals": "101/122",
+        "dribblesAttemptedTotalsHome": "48/67",
+        "dribblesAttemptedTotalsAway": "53/55",
+        "dribblesAttemptedAverage": "12.63/15.25",
+        "dribblesAttemptedAverageHome": "12.00/16.75",
+        "dribblesAttemptedAverageAway": "13.25/13.75"
+    }
+}

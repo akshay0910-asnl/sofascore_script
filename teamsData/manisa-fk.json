@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.78",
+        "fouls": "12.22",
+        "goalKicks": "7.70",
+        "saves": "2.74",
+        "offsides": "1.57",
+        "shotsOnTarget": "4.78/4.39",
+        "yellowCards": "2.48/2.17",
+        "goals": "1.39/1.43",
+        "throwIns": "22.22",
+        "ballPossession": 47.347826086957,
+        "tackles": "16.96/15.83",
+        "interceptions": "9.96/10.70",
+        "aerialDuels": "12.78",
+        "aerialDuelsAttempted": "25.17",
+        "dribbles": "6.78/7.91",
+        "dribblesAttempted": "15.87/16.43"
+    },
+    "teamSlug": "manisa-fk",
+    "teamId": "202391",
+    "teamName": "Manisa FK",
+    "tournament": "Trendyol 1.Lig",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/igdir-fk-manisa-fk/QXFbsopfd#id:14138487,tab:statistics",
+            "teams": [
+                "Iğdır",
+                "Manisa"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "388264",
+                "202391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manisa-fk-istanbulspor/qlbsQXFb#id:14138485,tab:statistics",
+            "teams": [
+                "Manisa",
+                "İstanbulspor"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "202391",
+                "3066"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manisa-fk-hatayspor/QlbsQXFb#id:14138472,tab:statistics",
+            "teams": [
+                "Hatayspor",
+                "Manisa"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "3091",
+                "202391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manisa-fk-umraniyespor/AmxsQXFb#id:14138463,tab:statistics",
+            "teams": [
+                "Manisa",
+                "Ümraniyespor"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "202391",
+                "55625"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manisa-fk-sakaryaspor/FlbsQXFb#id:14138457,tab:statistics",
+            "teams": [
+                "Sakaryaspor",
+                "Manisa"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "3080",
+                "202391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manisa-fk-keciorengucu/qCcsQXFb#id:14143623,tab:statistics",
+            "teams": [
+                "Manisa",
+                "Keçiörengücü"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "202391",
+                "6366"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/serik-belediyespor-manisa-fk/QXFbscRtc#id:14138434,tab:statistics",
+            "teams": [
+                "Serikspor A.Ş.",
+                "Manisa"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "297102",
+                "202391"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manisa-fk-vanspor-fk/aVjsQXFb#id:14138420,tab:statistics",
+            "teams": [
+                "Manisa",
+                "Vanspor"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "202391",
+                "24750"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/7[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "11/1[A]",
+            "saves": "4/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "36/40[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Manisa,Iğdır,Away",
+            "tackles": "23/18[A]",
+            "interceptions": "8/13[A]",
+            "aerialDuels": "12/20[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "1/6[A]",
+            "dribblesAttempted": "11/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/31[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Manisa,İstanbulspor,Home",
+            "tackles": "16/11[H]",
+            "interceptions": "14/7[H]",
+            "aerialDuels": "6/18[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "5/9[H]",
+            "dribblesAttempted": "10/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/1[A]",
+            "fouls": "9/16[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "1/5[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "25/19[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Manisa,Hatayspor,Away",
+            "tackles": "14/19[A]",
+            "interceptions": "7/15[A]",
+            "aerialDuels": "11/6[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "4/10[H]",
+            "saves": "7/6[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "7/7[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "23/22[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Manisa,Ümraniyespor,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "14/12[H]",
+            "aerialDuels": "12/13[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "9/11[H]",
+            "dribblesAttempted": "18/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "12/10[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "1/5[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "7/1[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "17/23[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Manisa,Sakaryaspor,Away",
+            "tackles": "18/14[A]",
+            "interceptions": "9/11[A]",
+            "aerialDuels": "8/12[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "16/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "10/14[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "2/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "15/16[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Manisa,Keçiörengücü,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "15/13[H]",
+            "aerialDuels": "12/15[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "14/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "31/26[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Manisa,Serikspor A.Ş.,Away",
+            "tackles": "27/21[A]",
+            "interceptions": "8/12[A]",
+            "aerialDuels": "11/19[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "10/9[A]",
+            "dribblesAttempted": "25/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "13/16[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "3/4[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Manisa,Vanspor,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "7/12[H]",
+            "aerialDuels": "7/11[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "15/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T12:45:25.223Z",
+    "endTime": "2026-01-31T12:45:47.813Z",
+    "totalTimeSeconds": 22.59,
+    "combinedMatchStatistics": {
+        "corners": "3/7[A]+5/5[H]+3/1[A]+3/2[H]+5/4[A]+3/5[H]+5/3[A]+4/2[H]",
+        "fouls": "9/7[A]+10/12[H]+9/16[A]+13/10[H]+12/10[A]+10/14[H]+14/11[A]+13/16[H]",
+        "goalKicks": "11/1[A]+7/4[H]+5/10[A]+4/10[H]+5/10[A]+4/7[H]+13/6[A]+4/9[H]",
+        "saves": "4/1[A]+5/3[H]+1/5[A]+7/6[H]+1/5[A]+2/6[H]+3/2[A]+3/4[H]",
+        "offsides": "2/3[A]+1/1[H]+0/0[A]+2/3[H]+2/1[A]+0/2[H]+0/1[A]+3/2[H]",
+        "shotsOnTarget": "1/5[A]+4/5[H]+7/2[A]+7/7[H]+7/1[A]+8/4[H]+4/3[A]+6/4[H]",
+        "yellowCards": "5/1[A]+5/2[H]+5/3[A]+2/1[H]+3/3[A]+2/2[H]+3/3[A]+2/4[H]",
+        "goals": "0/0[A]+1/0[H]+2/2[A]+1/0[H]+2/0[A]+2/2[H]+1/0[A]+2/1[H]",
+        "throwIns": "36/40[A]+19/31[H]+25/19[A]+23/22[H]+17/23[A]+15/16[H]+31/26[A]+17/17[H]",
+        "averageBallPossession": "31/69[A]+37/63[H]+63/37[A]+49/51[H]+57/43[A]+56/44[H]+41/59[A]+52/48[H]",
+        "teams": "Manisa,Iğdır,Away+Manisa,İstanbulspor,Home+Manisa,Hatayspor,Away+Manisa,Ümraniyespor,Home+Manisa,Sakaryaspor,Away+Manisa,Keçiörengücü,Home+Manisa,Serikspor A.Ş.,Away+Manisa,Vanspor,Home",
+        "tackles": "23/18[A]+16/11[H]+14/19[A]+12/16[H]+18/14[A]+12/14[H]+27/21[A]+15/17[H]",
+        "interceptions": "8/13[A]+14/7[H]+7/15[A]+14/12[H]+9/11[A]+15/13[H]+8/12[A]+7/12[H]",
+        "aerialDuels": "12/20[A]+6/18[H]+11/6[A]+12/13[H]+8/12[A]+12/15[H]+11/19[A]+7/11[H]",
+        "aerialDuelsAttempted": "32/32[A]+24/24[H]+17/17[A]+25/25[H]+20/20[A]+27/27[H]+30/30[A]+18/18[H]",
+        "dribbles": "1/6[A]+5/9[H]+3/9[A]+9/11[H]+6/7[A]+7/5[H]+10/9[A]+7/5[H]",
+        "dribblesAttempted": "11/21[A]+10/17[H]+14/15[A]+18/18[H]+16/16[A]+14/11[H]+25/22[A]+15/14[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "31/29",
+        "cornersTotalsHome": "15/14",
+        "cornersTotalsAway": "16/15",
+        "cornersAverage": "3.88/3.63",
+        "cornersAverageHome": "3.75/3.50",
+        "cornersAverageAway": "4.00/3.75",
+        "foulsTotals": "90/96",
+        "foulsTotalsHome": "46/52",
+        "foulsTotalsAway": "44/44",
+        "foulsAverage": "11.25/12.00",
+        "foulsAverageHome": "11.50/13.00",
+        "foulsAverageAway": "11.00/11.00",
+        "goalKicksTotals": "53/57",
+        "goalKicksTotalsHome": "19/30",
+        "goalKicksTotalsAway": "34/27",
+        "goalKicksAverage": "6.63/7.13",
+        "goalKicksAverageHome": "4.75/7.50",
+        "goalKicksAverageAway": "8.50/6.75",
+        "savesTotals": "26/32",
+        "savesTotalsHome": "17/19",
+        "savesTotalsAway": "9/13",
+        "savesAverage": "3.25/4.00",
+        "savesAverageHome": "4.25/4.75",
+        "savesAverageAway": "2.25/3.25",
+        "offsidesTotals": "10/13",
+        "offsidesTotalsHome": "6/8",
+        "offsidesTotalsAway": "4/5",
+        "offsidesAverage": "1.25/1.63",
+        "offsidesAverageHome": "1.50/2.00",
+        "offsidesAverageAway": "1.00/1.25",
+        "shotsOnTargetTotals": "44/31",
+        "shotsOnTargetTotalsHome": "25/20",
+        "shotsOnTargetTotalsAway": "19/11",
+        "shotsOnTargetAverage": "5.50/3.88",
+        "shotsOnTargetAverageHome": "6.25/5.00",
+        "shotsOnTargetAverageAway": "4.75/2.75",
+        "yellowCardsTotals": "27/19",
+        "yellowCardsTotalsHome": "11/9",
+        "yellowCardsTotalsAway": "16/10",
+        "yellowCardsAverage": "3.38/2.38",
+        "yellowCardsAverageHome": "2.75/2.25",
+        "yellowCardsAverageAway": "4.00/2.50",
+        "goalsTotals": "11/5",
+        "goalsTotalsHome": "6/3",
+        "goalsTotalsAway": "5/2",
+        "goalsAverage": "1.38/0.63",
+        "goalsAverageHome": "1.50/0.75",
+        "goalsAverageAway": "1.25/0.50",
+        "throwInsTotals": "183/194",
+        "throwInsTotalsHome": "74/86",
+        "throwInsTotalsAway": "109/108",
+        "throwInsAverage": "22.88/24.25",
+        "throwInsAverageHome": "18.50/21.50",
+        "throwInsAverageAway": "27.25/27.00",
+        "averageBallPossessionTotals": "386/414",
+        "averageBallPossessionTotalsHome": "194/206",
+        "averageBallPossessionTotalsAway": "192/208",
+        "averageBallPossessionAverage": "48.25/51.75",
+        "averageBallPossessionAverageHome": "48.50/51.50",
+        "averageBallPossessionAverageAway": "48.00/52.00",
+        "tacklesTotals": "137/130",
+        "tacklesTotalsHome": "55/58",
+        "tacklesTotalsAway": "82/72",
+        "tacklesAverage": "17.13/16.25",
+        "tacklesAverageHome": "13.75/14.50",
+        "tacklesAverageAway": "20.50/18.00",
+        "interceptionsTotals": "82/95",
+        "interceptionsTotalsHome": "50/44",
+        "interceptionsTotalsAway": "32/51",
+        "interceptionsAverage": "10.25/11.88",
+        "interceptionsAverageHome": "12.50/11.00",
+        "interceptionsAverageAway": "8.00/12.75",
+        "aerialDuelsTotals": "79/114",
+        "aerialDuelsTotalsHome": "37/57",
+        "aerialDuelsTotalsAway": "42/57",
+        "aerialDuelsAverage": "9.88/14.25",
+        "aerialDuelsAverageHome": "9.25/14.25",
+        "aerialDuelsAverageAway": "10.50/14.25",
+        "aerialDuelsAttemptedTotals": "193/193",
+        "aerialDuelsAttemptedTotalsHome": "94/94",
+        "aerialDuelsAttemptedTotalsAway": "99/99",
+        "aerialDuelsAttemptedAverage": "24.13/24.13",
+        "aerialDuelsAttemptedAverageHome": "23.50/23.50",
+        "aerialDuelsAttemptedAverageAway": "24.75/24.75",
+        "dribblesTotals": "48/61",
+        "dribblesTotalsHome": "28/30",
+        "dribblesTotalsAway": "20/31",
+        "dribblesAverage": "6.00/7.63",
+        "dribblesAverageHome": "7.00/7.50",
+        "dribblesAverageAway": "5.00/7.75",
+        "dribblesAttemptedTotals": "123/134",
+        "dribblesAttemptedTotalsHome": "57/60",
+        "dribblesAttemptedTotalsAway": "66/74",
+        "dribblesAttemptedAverage": "15.38/16.75",
+        "dribblesAttemptedAverageHome": "14.25/15.00",
+        "dribblesAttemptedAverageAway": "16.50/18.50"
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.41",
+        "fouls": "12.09",
+        "goalKicks": "6.50",
+        "saves": "2.86",
+        "offsides": "2.23",
+        "shotsOnTarget": "4.50/3.77",
+        "yellowCards": "1.59/1.82",
+        "goals": "1.86/0.91",
+        "throwIns": "19.50",
+        "ballPossession": 51.818181818182,
+        "tackles": "14.77/15.36",
+        "interceptions": "8.45/9.41",
+        "aerialDuels": "11.14",
+        "aerialDuelsAttempted": "21.73",
+        "dribbles": "10.32/8.14",
+        "dribblesAttempted": "18.95/15.95"
+    },
+    "teamSlug": "bodrum",
+    "teamId": "202390",
+    "teamName": "Bodrum FK",
+    "tournament": "Trendyol 1.Lig",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-sakaryaspor/FlbsPXFb#id:14138490,tab:statistics",
+            "teams": [
+                "Sakaryaspor",
+                "Bodrum"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "3080",
+                "202390"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-sivasspor/BlbsPXFb#id:14138468,tab:statistics",
+            "teams": [
+                "Bodrum",
+                "Sivasspor"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "202390",
+                "3076"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-pendikspor/HPcsPXFb#id:14138467,tab:statistics",
+            "teams": [
+                "Pendikspor",
+                "Bodrum"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "7032",
+                "202390"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-sariyer/cZbsPXFb#id:14138453,tab:statistics",
+            "teams": [
+                "Sarıyer",
+                "Bodrum"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "4952",
+                "202390"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/amed-sportif-faaliyetler-bodrum-fk/PXFbslPHb#id:14138444,tab:statistics",
+            "teams": [
+                "Bodrum",
+                "Amed"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "202390",
+                "207011"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-erzurumspor-fk/dmxsPXFb#id:14138429,tab:statistics",
+            "teams": [
+                "Erzurumspor",
+                "Bodrum"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "55603",
+                "202390"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-corum-fk/EcGsPXFb#id:14138410,tab:statistics",
+            "teams": [
+                "Bodrum",
+                "Çorum"
+            ],
+            "goals": [
+                "4",
+                "0"
+            ],
+            "teamIds": [
+                "202390",
+                "77629"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bodrum-fk-istanbulspor/qlbsPXFb#id:14138392,tab:statistics",
+            "teams": [
+                "Bodrum",
+                "İstanbulspor"
+            ],
+            "goals": [
+                "5",
+                "0"
+            ],
+            "teamIds": [
+                "202390",
+                "3066"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/1[A]",
+            "fouls": "7/13[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "26/24[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Bodrum,Sakaryaspor,Away",
+            "tackles": "11/18[A]",
+            "interceptions": "10/14[A]",
+            "aerialDuels": "10/14[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "20/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "12/16[H]",
+            "goalKicks": "6/14[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "24/15[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Bodrum,Sivasspor,Home",
+            "tackles": "19/16[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "13/9[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "17/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "7/19[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "27/22[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Bodrum,Pendikspor,Away",
+            "tackles": "19/28[A]",
+            "interceptions": "6/11[A]",
+            "aerialDuels": "18/17[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "30/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "14/13[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "6/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "15/19[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Bodrum,Sarıyer,Away",
+            "tackles": "8/9[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "9/7[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "9/16[H]",
+            "goalKicks": "11/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "8/21[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Bodrum,Amed,Home",
+            "tackles": "9/10[H]",
+            "interceptions": "17/12[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "15/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "11/9[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "19/16[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Bodrum,Erzurumspor,Away",
+            "tackles": "15/18[A]",
+            "interceptions": "3/4[A]",
+            "aerialDuels": "16/11[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "11/6[A]",
+            "dribblesAttempted": "22/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/9[H]",
+            "fouls": "7/15[H]",
+            "goalKicks": "10/2[H]",
+            "saves": "4/1[H]",
+            "offsides": "3/5[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "4/0[H]",
+            "throwIns": "18/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Bodrum,Çorum,Home",
+            "tackles": "14/16[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "6/14[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "9/12[H]",
+            "dribblesAttempted": "16/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "5/3[H]",
+            "offsides": "2/5[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "5/0[H]",
+            "throwIns": "18/11[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Bodrum,İstanbulspor,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "6/8[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "13/13[H]",
+            "dribblesAttempted": "21/23[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T12:47:11.970Z",
+    "endTime": "2026-01-31T12:47:34.497Z",
+    "totalTimeSeconds": 22.53,
+    "combinedMatchStatistics": {
+        "corners": "4/1[A]+7/4[H]+6/6[A]+3/4[A]+2/5[H]+1/9[A]+6/9[H]+2/2[H]",
+        "fouls": "7/13[A]+12/16[H]+7/19[A]+14/13[A]+9/16[H]+11/15[A]+7/15[H]+12/14[H]",
+        "goalKicks": "5/7[A]+6/14[H]+9/11[A]+8/8[A]+11/9[H]+11/9[A]+10/2[H]+4/7[H]",
+        "saves": "3/4[A]+3/3[H]+5/2[A]+6/1[A]+5/1[H]+4/2[A]+4/1[H]+5/3[H]",
+        "offsides": "1/1[A]+0/1[H]+0/1[A]+0/4[A]+4/3[H]+3/3[A]+3/5[H]+2/5[H]",
+        "shotsOnTarget": "6/3[A]+4/5[H]+1/5[A]+1/7[A]+1/5[H]+4/6[A]+5/4[H]+8/5[H]",
+        "yellowCards": "1/2[A]+1/4[H]+1/2[A]+2/3[A]+1/2[H]+2/3[A]+2/3[H]+2/1[H]",
+        "goals": "2/0[A]+1/2[H]+0/0[A]+0/1[A]+0/0[H]+2/2[A]+4/0[H]+5/0[H]",
+        "throwIns": "26/24[A]+24/15[H]+27/22[A]+15/19[A]+8/21[H]+19/16[A]+18/23[H]+18/11[H]",
+        "averageBallPossession": "56/44[A]+59/41[H]+52/48[A]+56/44[A]+51/49[H]+44/56[A]+54/46[H]+49/51[H]",
+        "teams": "Bodrum,Sakaryaspor,Away+Bodrum,Sivasspor,Home+Bodrum,Pendikspor,Away+Bodrum,Sarıyer,Away+Bodrum,Amed,Home+Bodrum,Erzurumspor,Away+Bodrum,Çorum,Home+Bodrum,İstanbulspor,Home",
+        "tackles": "11/18[A]+19/16[H]+19/28[A]+8/9[A]+9/10[H]+15/18[A]+14/16[H]+12/17[H]",
+        "interceptions": "10/14[A]+8/9[H]+6/11[A]+5/10[A]+17/12[H]+3/4[A]+7/6[H]+7/6[H]",
+        "aerialDuels": "10/14[A]+13/9[H]+18/17[A]+9/7[A]+14/14[H]+16/11[A]+6/14[H]+6/8[H]",
+        "aerialDuelsAttempted": "24/24[A]+22/22[H]+35/35[A]+16/16[A]+28/28[H]+27/27[A]+20/20[H]+14/14[H]",
+        "dribbles": "8/8[A]+10/9[H]+11/8[A]+5/5[A]+8/8[H]+11/6[A]+9/12[H]+13/13[H]",
+        "dribblesAttempted": "20/13[A]+17/18[H]+30/19[A]+10/10[A]+15/16[H]+22/15[A]+16/19[H]+21/23[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "31/40",
+        "cornersTotalsHome": "17/20",
+        "cornersTotalsAway": "14/20",
+        "cornersAverage": "3.88/5.00",
+        "cornersAverageHome": "4.25/5.00",
+        "cornersAverageAway": "3.50/5.00",
+        "foulsTotals": "79/121",
+        "foulsTotalsHome": "40/61",
+        "foulsTotalsAway": "39/60",
+        "foulsAverage": "9.88/15.13",
+        "foulsAverageHome": "10.00/15.25",
+        "foulsAverageAway": "9.75/15.00",
+        "goalKicksTotals": "64/67",
+        "goalKicksTotalsHome": "31/32",
+        "goalKicksTotalsAway": "33/35",
+        "goalKicksAverage": "8.00/8.38",
+        "goalKicksAverageHome": "7.75/8.00",
+        "goalKicksAverageAway": "8.25/8.75",
+        "savesTotals": "35/17",
+        "savesTotalsHome": "17/8",
+        "savesTotalsAway": "18/9",
+        "savesAverage": "4.38/2.13",
+        "savesAverageHome": "4.25/2.00",
+        "savesAverageAway": "4.50/2.25",
+        "offsidesTotals": "13/23",
+        "offsidesTotalsHome": "9/14",
+        "offsidesTotalsAway": "4/9",
+        "offsidesAverage": "1.63/2.88",
+        "offsidesAverageHome": "2.25/3.50",
+        "offsidesAverageAway": "1.00/2.25",
+        "shotsOnTargetTotals": "30/40",
+        "shotsOnTargetTotalsHome": "18/19",
+        "shotsOnTargetTotalsAway": "12/21",
+        "shotsOnTargetAverage": "3.75/5.00",
+        "shotsOnTargetAverageHome": "4.50/4.75",
+        "shotsOnTargetAverageAway": "3.00/5.25",
+        "yellowCardsTotals": "12/20",
+        "yellowCardsTotalsHome": "6/10",
+        "yellowCardsTotalsAway": "6/10",
+        "yellowCardsAverage": "1.50/2.50",
+        "yellowCardsAverageHome": "1.50/2.50",
+        "yellowCardsAverageAway": "1.50/2.50",
+        "goalsTotals": "14/5",
+        "goalsTotalsHome": "10/2",
+        "goalsTotalsAway": "4/3",
+        "goalsAverage": "1.75/0.63",
+        "goalsAverageHome": "2.50/0.50",
+        "goalsAverageAway": "1.00/0.75",
+        "throwInsTotals": "155/151",
+        "throwInsTotalsHome": "68/70",
+        "throwInsTotalsAway": "87/81",
+        "throwInsAverage": "19.38/18.88",
+        "throwInsAverageHome": "17.00/17.50",
+        "throwInsAverageAway": "21.75/20.25",
+        "averageBallPossessionTotals": "421/379",
+        "averageBallPossessionTotalsHome": "213/187",
+        "averageBallPossessionTotalsAway": "208/192",
+        "averageBallPossessionAverage": "52.63/47.38",
+        "averageBallPossessionAverageHome": "53.25/46.75",
+        "averageBallPossessionAverageAway": "52.00/48.00",
+        "tacklesTotals": "107/132",
+        "tacklesTotalsHome": "54/59",
+        "tacklesTotalsAway": "53/73",
+        "tacklesAverage": "13.38/16.50",
+        "tacklesAverageHome": "13.50/14.75",
+        "tacklesAverageAway": "13.25/18.25",
+        "interceptionsTotals": "63/72",
+        "interceptionsTotalsHome": "39/33",
+        "interceptionsTotalsAway": "24/39",
+        "interceptionsAverage": "7.88/9.00",
+        "interceptionsAverageHome": "9.75/8.25",
+        "interceptionsAverageAway": "6.00/9.75",
+        "aerialDuelsTotals": "92/94",
+        "aerialDuelsTotalsHome": "39/45",
+        "aerialDuelsTotalsAway": "53/49",
+        "aerialDuelsAverage": "11.50/11.75",
+        "aerialDuelsAverageHome": "9.75/11.25",
+        "aerialDuelsAverageAway": "13.25/12.25",
+        "aerialDuelsAttemptedTotals": "186/186",
+        "aerialDuelsAttemptedTotalsHome": "84/84",
+        "aerialDuelsAttemptedTotalsAway": "102/102",
+        "aerialDuelsAttemptedAverage": "23.25/23.25",
+        "aerialDuelsAttemptedAverageHome": "21.00/21.00",
+        "aerialDuelsAttemptedAverageAway": "25.50/25.50",
+        "dribblesTotals": "75/69",
+        "dribblesTotalsHome": "40/42",
+        "dribblesTotalsAway": "35/27",
+        "dribblesAverage": "9.38/8.63",
+        "dribblesAverageHome": "10.00/10.50",
+        "dribblesAverageAway": "8.75/6.75",
+        "dribblesAttemptedTotals": "151/133",
+        "dribblesAttemptedTotalsHome": "69/76",
+        "dribblesAttemptedTotalsAway": "82/57",
+        "dribblesAttemptedAverage": "18.88/16.63",
+        "dribblesAttemptedAverageHome": "17.25/19.00",
+        "dribblesAttemptedAverageAway": "20.50/14.25"
+    }
+}

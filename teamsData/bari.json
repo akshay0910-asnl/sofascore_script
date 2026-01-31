@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.59",
+        "fouls": "14.77",
+        "goalKicks": "8.27",
+        "saves": "3.82",
+        "offsides": "0.91",
+        "shotsOnTarget": "2.68/5.41",
+        "yellowCards": "2.00/2.68",
+        "goals": "0.82/1.55",
+        "throwIns": "17.68",
+        "ballPossession": 49.363636363636,
+        "tackles": "13.77/13.95",
+        "interceptions": "8.14/7.36",
+        "aerialDuels": "14.14",
+        "aerialDuelsAttempted": "30.41",
+        "dribbles": "5.73/6.55",
+        "dribblesAttempted": "12.45/13.05"
+    },
+    "teamSlug": "bari",
+    "teamId": "2712",
+    "teamName": "Bari",
+    "tournament": "Serie B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/palermo-bari/mebspeb#id:14317896,tab:statistics",
+            "teams": [
+                "Bari",
+                "Palermo"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "2712",
+                "2715"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cesena-bari/mebsReb#id:14317884,tab:statistics",
+            "teams": [
+                "Cesena",
+                "Bari"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2742",
+                "2712"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/juve-stabia-bari/mebszgc#id:14317715,tab:statistics",
+            "teams": [
+                "Bari",
+                "Juve Stabia"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2712",
+                "5324"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/carrarese-bari/mebsVeb#id:14317686,tab:statistics",
+            "teams": [
+                "Carrarese",
+                "Bari"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "2745",
+                "2712"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avellino-bari/mebsFeb#id:14317688,tab:statistics",
+            "teams": [
+                "Bari",
+                "Avellino"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2712",
+                "2730"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/catanzaro-bari/mebsWfb#id:14317846,tab:statistics",
+            "teams": [
+                "Bari",
+                "Catanzaro"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2712",
+                "2796"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sudtirol-bari/mebskfb#id:14317843,tab:statistics",
+            "teams": [
+                "Südtirol",
+                "Bari"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2760",
+                "2712"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/juve-stabia-bari/mebszgc#id:15007362,tab:statistics",
+            "teams": [
+                "Juve Stabia",
+                "Bari"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "5324",
+                "2712"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/7[H]",
+            "fouls": "13/18[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "0/3[H]",
+            "throwIns": "18/25[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Bari,Palermo,Home",
+            "tackles": "11/17[H]",
+            "interceptions": "7/3[H]",
+            "aerialDuels": "29/35[H]",
+            "aerialDuelsAttempted": "64/64[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "19/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/16[A]",
+            "fouls": "11/10[A]",
+            "goalKicks": "12/2[A]",
+            "saves": "6/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/8[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "18/23[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Bari,Cesena,Away",
+            "tackles": "16/8[A]",
+            "interceptions": "11/14[A]",
+            "aerialDuels": "14/17[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "5/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "20/16[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "5/0[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "0/6[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "20/18[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Bari,Juve Stabia,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "13/8[H]",
+            "aerialDuels": "25/16[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "7/3[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "13/8[A]",
+            "goalKicks": "11/12[A]",
+            "saves": "5/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "27/13[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Bari,Carrarese,Away",
+            "tackles": "14/20[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "15/15[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "7/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "23/21[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/30[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Bari,Avellino,Home",
+            "tackles": "23/18[H]",
+            "interceptions": "19/12[H]",
+            "aerialDuels": "21/15[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "12/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "17/14[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Bari,Catanzaro,Home",
+            "tackles": "13/13[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "4/12[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "3/2[H]",
+            "dribblesAttempted": "9/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "5/12[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "22/27[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "Bari,Südtirol,Away",
+            "tackles": "16/5[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "18/21[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/8[A]",
+            "fouls": "13/17[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "1/0[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "0/1[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "0/0[A]",
+            "throwIns": "11/13[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Bari,Juve Stabia,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "12/2[A]",
+            "aerialDuels": "19/16[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T12:35:45.067Z",
+    "endTime": "2026-01-31T12:36:12.271Z",
+    "totalTimeSeconds": 27.2,
+    "combinedMatchStatistics": {
+        "corners": "3/7[H]+1/16[A]+5/5[H]+3/7[A]+3/3[H]+3/9[H]+3/3[A]+0/8[A]",
+        "fouls": "13/18[H]+11/10[A]+20/16[H]+13/8[A]+23/21[H]+17/14[H]+15/14[A]+13/17[A]",
+        "goalKicks": "11/7[H]+12/2[A]+7/6[H]+11/12[A]+7/6[H]+4/7[H]+5/12[A]+13/4[A]",
+        "saves": "2/1[H]+6/1[A]+5/0[H]+5/4[A]+3/3[H]+2/2[H]+3/3[A]+1/0[A]",
+        "offsides": "0/1[H]+0/2[A]+0/1[H]+0/1[A]+1/0[H]+1/1[H]+0/0[A]+0/2[A]",
+        "shotsOnTarget": "1/5[H]+4/8[A]+0/6[H]+4/6[A]+4/4[H]+3/4[H]+3/3[A]+0/1[A]",
+        "yellowCards": "3/4[H]+3/2[A]+1/4[H]+0/1[A]+3/3[H]+1/3[H]+2/3[A]+3/4[A]",
+        "goals": "0/3[H]+2/1[A]+0/1[H]+0/1[A]+1/1[H]+1/2[H]+0/0[A]+0/0[A]",
+        "throwIns": "18/25[H]+18/23[A]+20/18[H]+27/13[A]+18/30[H]+17/17[H]+22/27[A]+11/13[A]",
+        "averageBallPossession": "50/50[H]+37/63[A]+57/43[H]+54/46[A]+40/60[H]+37/63[H]+69/31[A]+39/61[A]",
+        "teams": "Bari,Palermo,Home+Bari,Cesena,Away+Bari,Juve Stabia,Home+Bari,Carrarese,Away+Bari,Avellino,Home+Bari,Catanzaro,Home+Bari,Südtirol,Away+Bari,Juve Stabia,Away",
+        "tackles": "11/17[H]+16/8[A]+14/12[H]+14/20[A]+23/18[H]+13/13[H]+16/5[A]+11/12[A]",
+        "interceptions": "7/3[H]+11/14[A]+13/8[H]+8/9[A]+19/12[H]+8/9[H]+6/4[A]+12/2[A]",
+        "aerialDuels": "29/35[H]+14/17[A]+25/16[H]+15/15[A]+21/15[H]+4/12[H]+18/21[A]+19/16[A]",
+        "aerialDuelsAttempted": "64/64[H]+31/31[A]+41/41[H]+30/30[A]+36/36[H]+16/16[H]+39/39[A]+35/35[A]",
+        "dribbles": "7/7[H]+2/6[A]+7/3[H]+3/6[A]+4/9[H]+3/2[H]+3/3[A]+5/5[A]",
+        "dribblesAttempted": "19/13[H]+5/15[A]+10/9[H]+7/15[A]+12/19[H]+9/7[H]+8/9[A]+11/8[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "21/58",
+        "cornersTotalsHome": "14/24",
+        "cornersTotalsAway": "7/34",
+        "cornersAverage": "2.63/7.25",
+        "cornersAverageHome": "3.50/6.00",
+        "cornersAverageAway": "1.75/8.50",
+        "foulsTotals": "125/118",
+        "foulsTotalsHome": "73/69",
+        "foulsTotalsAway": "52/49",
+        "foulsAverage": "15.63/14.75",
+        "foulsAverageHome": "18.25/17.25",
+        "foulsAverageAway": "13.00/12.25",
+        "goalKicksTotals": "70/56",
+        "goalKicksTotalsHome": "29/26",
+        "goalKicksTotalsAway": "41/30",
+        "goalKicksAverage": "8.75/7.00",
+        "goalKicksAverageHome": "7.25/6.50",
+        "goalKicksAverageAway": "10.25/7.50",
+        "savesTotals": "27/14",
+        "savesTotalsHome": "12/6",
+        "savesTotalsAway": "15/8",
+        "savesAverage": "3.38/1.75",
+        "savesAverageHome": "3.00/1.50",
+        "savesAverageAway": "3.75/2.00",
+        "offsidesTotals": "2/8",
+        "offsidesTotalsHome": "2/3",
+        "offsidesTotalsAway": "0/5",
+        "offsidesAverage": "0.25/1.00",
+        "offsidesAverageHome": "0.50/0.75",
+        "offsidesAverageAway": "0.00/1.25",
+        "shotsOnTargetTotals": "19/37",
+        "shotsOnTargetTotalsHome": "8/19",
+        "shotsOnTargetTotalsAway": "11/18",
+        "shotsOnTargetAverage": "2.38/4.63",
+        "shotsOnTargetAverageHome": "2.00/4.75",
+        "shotsOnTargetAverageAway": "2.75/4.50",
+        "yellowCardsTotals": "16/24",
+        "yellowCardsTotalsHome": "8/14",
+        "yellowCardsTotalsAway": "8/10",
+        "yellowCardsAverage": "2.00/3.00",
+        "yellowCardsAverageHome": "2.00/3.50",
+        "yellowCardsAverageAway": "2.00/2.50",
+        "goalsTotals": "4/9",
+        "goalsTotalsHome": "2/7",
+        "goalsTotalsAway": "2/2",
+        "goalsAverage": "0.50/1.13",
+        "goalsAverageHome": "0.50/1.75",
+        "goalsAverageAway": "0.50/0.50",
+        "throwInsTotals": "151/166",
+        "throwInsTotalsHome": "73/90",
+        "throwInsTotalsAway": "78/76",
+        "throwInsAverage": "18.88/20.75",
+        "throwInsAverageHome": "18.25/22.50",
+        "throwInsAverageAway": "19.50/19.00",
+        "averageBallPossessionTotals": "383/417",
+        "averageBallPossessionTotalsHome": "184/216",
+        "averageBallPossessionTotalsAway": "199/201",
+        "averageBallPossessionAverage": "47.88/52.13",
+        "averageBallPossessionAverageHome": "46.00/54.00",
+        "averageBallPossessionAverageAway": "49.75/50.25",
+        "tacklesTotals": "118/105",
+        "tacklesTotalsHome": "61/60",
+        "tacklesTotalsAway": "57/45",
+        "tacklesAverage": "14.75/13.13",
+        "tacklesAverageHome": "15.25/15.00",
+        "tacklesAverageAway": "14.25/11.25",
+        "interceptionsTotals": "84/61",
+        "interceptionsTotalsHome": "47/32",
+        "interceptionsTotalsAway": "37/29",
+        "interceptionsAverage": "10.50/7.63",
+        "interceptionsAverageHome": "11.75/8.00",
+        "interceptionsAverageAway": "9.25/7.25",
+        "aerialDuelsTotals": "145/147",
+        "aerialDuelsTotalsHome": "79/78",
+        "aerialDuelsTotalsAway": "66/69",
+        "aerialDuelsAverage": "18.13/18.38",
+        "aerialDuelsAverageHome": "19.75/19.50",
+        "aerialDuelsAverageAway": "16.50/17.25",
+        "aerialDuelsAttemptedTotals": "292/292",
+        "aerialDuelsAttemptedTotalsHome": "157/157",
+        "aerialDuelsAttemptedTotalsAway": "135/135",
+        "aerialDuelsAttemptedAverage": "36.50/36.50",
+        "aerialDuelsAttemptedAverageHome": "39.25/39.25",
+        "aerialDuelsAttemptedAverageAway": "33.75/33.75",
+        "dribblesTotals": "34/41",
+        "dribblesTotalsHome": "21/21",
+        "dribblesTotalsAway": "13/20",
+        "dribblesAverage": "4.25/5.13",
+        "dribblesAverageHome": "5.25/5.25",
+        "dribblesAverageAway": "3.25/5.00",
+        "dribblesAttemptedTotals": "81/95",
+        "dribblesAttemptedTotalsHome": "50/48",
+        "dribblesAttemptedTotalsAway": "31/47",
+        "dribblesAttemptedAverage": "10.13/11.88",
+        "dribblesAttemptedAverageHome": "12.50/12.00",
+        "dribblesAttemptedAverageAway": "7.75/11.75"
+    }
+}

@@ -1,0 +1,448 @@
+{
+    "globalStatistics": {
+        "corners": "4.67",
+        "fouls": "13.14",
+        "goalKicks": "7.14",
+        "saves": "3.52",
+        "offsides": "1.57",
+        "shotsOnTarget": "5.05/5.05",
+        "yellowCards": "2.29/2.62",
+        "goals": "0.95/1.62",
+        "throwIns": "16.86",
+        "ballPossession": 59.238095238095,
+        "tackles": "12.71/15.19",
+        "interceptions": "5.05/7.38",
+        "aerialDuels": "12.00",
+        "aerialDuelsAttempted": "26.33",
+        "dribbles": "6.24/5.14",
+        "dribblesAttempted": "14.05/11.76"
+    },
+    "teamSlug": "mantova",
+    "teamId": "2770",
+    "teamName": "Mantova",
+    "tournament": "Serie B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-venezia/Ndbsvfb#id:14317888,tab:statistics",
+            "teams": [
+                "Mantova",
+                "Venezia"
+            ],
+            "goals": [
+                "2",
+                "5"
+            ],
+            "teamIds": [
+                "2770",
+                "2688"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-padova/Qebsvfb#id:14317718,tab:statistics",
+            "teams": [
+                "Padova",
+                "Mantova"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2741",
+                "2770"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-palermo/pebsvfb#id:14317680,tab:statistics",
+            "teams": [
+                "Mantova",
+                "Palermo"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "2770",
+                "2715"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-carrarese/Vebsvfb#id:14317676,tab:statistics",
+            "teams": [
+                "Carrarese",
+                "Mantova"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "2745",
+                "2770"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-empoli/febsvfb#id:14317848,tab:statistics",
+            "teams": [
+                "Mantova",
+                "Empoli"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2770",
+                "2705"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-cesena/Rebsvfb#id:14317836,tab:statistics",
+            "teams": [
+                "Cesena",
+                "Mantova"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2742",
+                "2770"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/reggiana-mantova/vfbsqPj#id:14317824,tab:statistics",
+            "teams": [
+                "Mantova",
+                "Reggiana"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "2770",
+                "24516"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mantova-venezia/Ndbsvfb#id:14317822,tab:statistics",
+            "teams": [
+                "Venezia",
+                "Mantova"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "2688",
+                "2770"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/9[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "7/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "4/11[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/5[H]",
+            "throwIns": "16/15[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Mantova,Venezia,Home",
+            "tackles": "17/20[H]",
+            "interceptions": "3/11[H]",
+            "aerialDuels": "11/13[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/14[H]",
+            "dribblesAttempted": "18/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "20/14[A]",
+            "goalKicks": "5/13[A]",
+            "saves": "6/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/7[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "10/15[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Mantova,Padova,Away",
+            "tackles": "11/16[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "23/22[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "11/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "7/18[H]",
+            "goalKicks": "8/6[H]",
+            "saves": "4/1[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "24/18[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Mantova,Palermo,Home",
+            "tackles": "17/13[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "19/26[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "6/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/7[A]",
+            "fouls": "19/14[A]",
+            "goalKicks": "12/9[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "20/20[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Mantova,Carrarese,Away",
+            "tackles": "17/17[A]",
+            "interceptions": "2/7[A]",
+            "aerialDuels": "11/23[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "19/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "17/15[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Mantova,Empoli,Home",
+            "tackles": "22/14[H]",
+            "interceptions": "1/10[H]",
+            "aerialDuels": "13/17[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "7/11[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "7/17[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "7/5[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "7/9[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "10/14[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Mantova,Cesena,Away",
+            "tackles": "9/15[A]",
+            "interceptions": "8/8[A]",
+            "aerialDuels": "6/10[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "16/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/3[H]",
+            "fouls": "12/18[H]",
+            "goalKicks": "4/7[H]",
+            "saves": "2/6[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "14/10[H]",
+            "averageBallPossession": "76/24[H]",
+            "teams": "Mantova,Reggiana,Home",
+            "tackles": "13/18[H]",
+            "interceptions": "1/8[H]",
+            "aerialDuels": "10/18[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "10/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "11/21[A]",
+            "goalKicks": "14/4[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "16/13[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Mantova,Venezia,Away",
+            "tackles": "18/10[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "8/13[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T12:43:16.331Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/mantova-carrarese/Vebsvfb#id:14317676,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 3235922,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-31T12:44:09.342Z",
+    "totalTimeSeconds": 53.01,
+    "combinedMatchStatistics": {
+        "corners": "3/9[H]+2/6[A]+3/6[H]+5/7[A]+6/3[H]+2/7[A]+10/3[H]+1/7[A]",
+        "fouls": "13/13[H]+20/14[A]+7/18[H]+19/14[A]+17/15[H]+7/17[A]+12/18[H]+11/21[A]",
+        "goalKicks": "6/7[H]+5/13[A]+8/6[H]+12/9[A]+4/9[H]+5/9[A]+4/7[H]+14/4[A]",
+        "saves": "7/2[H]+6/3[A]+4/1[H]+4/1[A]+1/3[H]+7/5[A]+2/6[H]+4/1[A]",
+        "offsides": "2/3[H]+2/2[A]+5/1[H]+1/0[A]+3/0[H]+0/3[A]+1/0[H]+1/0[A]",
+        "shotsOnTarget": "4/11[H]+5/7[A]+2/6[H]+1/4[A]+3/2[H]+7/9[A]+6/3[H]+1/8[A]",
+        "yellowCards": "2/2[H]+3/4[A]+3/2[H]+2/2[A]+4/3[H]+1/2[A]+2/3[H]+3/2[A]",
+        "goals": "2/5[H]+2/1[A]+1/1[H]+0/0[A]+0/1[H]+2/3[A]+0/1[H]+0/3[A]",
+        "throwIns": "16/15[H]+10/15[A]+24/18[H]+20/20[A]+22/19[H]+10/14[A]+14/10[H]+16/13[A]",
+        "averageBallPossession": "42/58[H]+42/58[A]+64/36[H]+48/52[A]+58/42[H]+50/50[A]+76/24[H]+36/64[A]",
+        "teams": "Mantova,Venezia,Home+Mantova,Padova,Away+Mantova,Palermo,Home+Mantova,Carrarese,Away+Mantova,Empoli,Home+Mantova,Cesena,Away+Mantova,Reggiana,Home+Mantova,Venezia,Away",
+        "tackles": "17/20[H]+11/16[A]+17/13[H]+17/17[A]+22/14[H]+9/15[A]+13/18[H]+18/10[A]",
+        "interceptions": "3/11[H]+9/4[A]+5/5[H]+2/7[A]+1/10[H]+8/8[A]+1/8[H]+6/6[A]",
+        "aerialDuels": "11/13[H]+23/22[A]+19/26[H]+11/23[A]+13/17[H]+6/10[A]+10/18[H]+8/13[A]",
+        "aerialDuelsAttempted": "24/24[H]+45/45[A]+45/45[H]+34/34[A]+30/30[H]+16/16[A]+28/28[H]+21/21[A]",
+        "dribbles": "7/14[H]+5/3[A]+2/4[H]+8/4[A]+7/11[H]+6/2[A]+4/6[H]+6/5[A]",
+        "dribblesAttempted": "18/23[H]+11/9[A]+6/17[H]+19/12[A]+12/21[H]+16/6[A]+10/12[H]+10/13[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "32/48",
+        "cornersTotalsHome": "22/21",
+        "cornersTotalsAway": "10/27",
+        "cornersAverage": "4.00/6.00",
+        "cornersAverageHome": "5.50/5.25",
+        "cornersAverageAway": "2.50/6.75",
+        "foulsTotals": "106/130",
+        "foulsTotalsHome": "49/64",
+        "foulsTotalsAway": "57/66",
+        "foulsAverage": "13.25/16.25",
+        "foulsAverageHome": "12.25/16.00",
+        "foulsAverageAway": "14.25/16.50",
+        "goalKicksTotals": "58/64",
+        "goalKicksTotalsHome": "22/29",
+        "goalKicksTotalsAway": "36/35",
+        "goalKicksAverage": "7.25/8.00",
+        "goalKicksAverageHome": "5.50/7.25",
+        "goalKicksAverageAway": "9.00/8.75",
+        "savesTotals": "35/22",
+        "savesTotalsHome": "14/12",
+        "savesTotalsAway": "21/10",
+        "savesAverage": "4.38/2.75",
+        "savesAverageHome": "3.50/3.00",
+        "savesAverageAway": "5.25/2.50",
+        "offsidesTotals": "15/9",
+        "offsidesTotalsHome": "11/4",
+        "offsidesTotalsAway": "4/5",
+        "offsidesAverage": "1.88/1.13",
+        "offsidesAverageHome": "2.75/1.00",
+        "offsidesAverageAway": "1.00/1.25",
+        "shotsOnTargetTotals": "29/50",
+        "shotsOnTargetTotalsHome": "15/22",
+        "shotsOnTargetTotalsAway": "14/28",
+        "shotsOnTargetAverage": "3.63/6.25",
+        "shotsOnTargetAverageHome": "3.75/5.50",
+        "shotsOnTargetAverageAway": "3.50/7.00",
+        "yellowCardsTotals": "20/20",
+        "yellowCardsTotalsHome": "11/10",
+        "yellowCardsTotalsAway": "9/10",
+        "yellowCardsAverage": "2.50/2.50",
+        "yellowCardsAverageHome": "2.75/2.50",
+        "yellowCardsAverageAway": "2.25/2.50",
+        "goalsTotals": "7/15",
+        "goalsTotalsHome": "3/8",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "0.88/1.88",
+        "goalsAverageHome": "0.75/2.00",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "132/124",
+        "throwInsTotalsHome": "76/62",
+        "throwInsTotalsAway": "56/62",
+        "throwInsAverage": "16.50/15.50",
+        "throwInsAverageHome": "19.00/15.50",
+        "throwInsAverageAway": "14.00/15.50",
+        "averageBallPossessionTotals": "416/384",
+        "averageBallPossessionTotalsHome": "240/160",
+        "averageBallPossessionTotalsAway": "176/224",
+        "averageBallPossessionAverage": "52.00/48.00",
+        "averageBallPossessionAverageHome": "60.00/40.00",
+        "averageBallPossessionAverageAway": "44.00/56.00",
+        "tacklesTotals": "124/123",
+        "tacklesTotalsHome": "69/65",
+        "tacklesTotalsAway": "55/58",
+        "tacklesAverage": "15.50/15.38",
+        "tacklesAverageHome": "17.25/16.25",
+        "tacklesAverageAway": "13.75/14.50",
+        "interceptionsTotals": "35/59",
+        "interceptionsTotalsHome": "10/34",
+        "interceptionsTotalsAway": "25/25",
+        "interceptionsAverage": "4.38/7.38",
+        "interceptionsAverageHome": "2.50/8.50",
+        "interceptionsAverageAway": "6.25/6.25",
+        "aerialDuelsTotals": "101/142",
+        "aerialDuelsTotalsHome": "53/74",
+        "aerialDuelsTotalsAway": "48/68",
+        "aerialDuelsAverage": "12.63/17.75",
+        "aerialDuelsAverageHome": "13.25/18.50",
+        "aerialDuelsAverageAway": "12.00/17.00",
+        "aerialDuelsAttemptedTotals": "243/243",
+        "aerialDuelsAttemptedTotalsHome": "127/127",
+        "aerialDuelsAttemptedTotalsAway": "116/116",
+        "aerialDuelsAttemptedAverage": "30.38/30.38",
+        "aerialDuelsAttemptedAverageHome": "31.75/31.75",
+        "aerialDuelsAttemptedAverageAway": "29.00/29.00",
+        "dribblesTotals": "45/49",
+        "dribblesTotalsHome": "20/35",
+        "dribblesTotalsAway": "25/14",
+        "dribblesAverage": "5.63/6.13",
+        "dribblesAverageHome": "5.00/8.75",
+        "dribblesAverageAway": "6.25/3.50",
+        "dribblesAttemptedTotals": "102/113",
+        "dribblesAttemptedTotalsHome": "46/73",
+        "dribblesAttemptedTotalsAway": "56/40",
+        "dribblesAttemptedAverage": "12.75/14.13",
+        "dribblesAttemptedAverageHome": "11.50/18.25",
+        "dribblesAttemptedAverageAway": "14.00/10.00"
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "5.56",
+        "fouls": "12.56",
+        "goalKicks": "8.17",
+        "saves": "3.44",
+        "offsides": "1.28",
+        "shotsOnTarget": "5.33/5.06",
+        "yellowCards": "2.67/1.89",
+        "goals": "1.44/1.56",
+        "throwIns": "17.94",
+        "ballPossession": 46.555555555556,
+        "tackles": "13.67/13.72",
+        "interceptions": "7.56/6.33",
+        "aerialDuels": "8.67",
+        "aerialDuelsAttempted": "19.50",
+        "dribbles": "4.33/3.22",
+        "dribblesAttempted": "11.00/10.50"
+    },
+    "teamSlug": "ayutthaya-united",
+    "teamId": "256902",
+    "teamName": "Ayutthaya United",
+    "tournament": "Thai League 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-chiangrai-united/qGBscNcc#id:15213926,tab:statistics",
+            "teams": [
+                "Chiangrai Utd",
+                "Ayutthaya United"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "66566",
+                "256902"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/uthai-thani-fc-ayutthaya-united/cNccskBKc#id:15213918,tab:statistics",
+            "teams": [
+                "Ayutthaya United",
+                "Uthai Thani"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "256902",
+                "338810"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-muang-thong-united/WYpscNcc#id:15213917,tab:statistics",
+            "teams": [
+                "Muang Thong Utd",
+                "Ayutthaya United"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "39946",
+                "256902"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-true-bangkok-united/QoJscNcc#id:14514371,tab:statistics",
+            "teams": [
+                "Ayutthaya United",
+                "Bangkok Utd"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "256902",
+                "85741"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-pt-prachuap-fc/pRacscNcc#id:14514365,tab:statistics",
+            "teams": [
+                "PT Prachuap FC",
+                "Ayutthaya United"
+            ],
+            "goals": [
+                "4",
+                "4"
+            ],
+            "teamIds": [
+                "252115",
+                "256902"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lamphun-warrior-ayutthaya-united/cNccsDpzc#id:14514354,tab:statistics",
+            "teams": [
+                "Ayutthaya United",
+                "Lamphun Warrior"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "256902",
+                "310778"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-nakhon-ratchasima-mazda-fc/zCAbscNcc#id:14514347,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima",
+                "Ayutthaya United"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "188874",
+                "256902"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-ratchaburi/ToJscNcc#id:14514343,tab:statistics",
+            "teams": [
+                "Ayutthaya United",
+                "Ratchaburi"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "256902",
+                "85743"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/10[A]",
+            "fouls": "19/14[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "4/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "0/0[A]",
+            "throwIns": "19/21[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Ayutthaya United,Chiangrai Utd,Away",
+            "tackles": "17/9[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "11/20[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/0[H]",
+            "fouls": "16/11[H]",
+            "goalKicks": "2/14[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "21/13[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Ayutthaya United,Uthai Thani,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "5/1[H]",
+            "aerialDuels": "10/14[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "15/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "17/14[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "21/28[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Ayutthaya United,Muang Thong Utd,Away",
+            "tackles": "13/15[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "10/13[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "1/0[A]",
+            "dribblesAttempted": "9/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "12/35[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Ayutthaya United,Bangkok Utd,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "8/2[H]",
+            "aerialDuels": "8/13[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "7/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/0[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "2/5[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "9/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "4/4[A]",
+            "throwIns": "16/26[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Ayutthaya United,PT Prachuap FC,Away",
+            "tackles": "6/12[A]",
+            "interceptions": "12/3[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "7/1[A]",
+            "dribblesAttempted": "11/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "25/23[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Ayutthaya United,Lamphun Warrior,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "13/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/10[A]",
+            "fouls": "14/14[A]",
+            "goalKicks": "13/7[A]",
+            "saves": "3/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "18/21[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Ayutthaya United,Nakhon Ratchasima,Away",
+            "tackles": "18/19[A]",
+            "interceptions": "10/5[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "5/0[A]",
+            "dribblesAttempted": "16/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/6[H]",
+            "fouls": "5/8[H]",
+            "goalKicks": "5/14[H]",
+            "saves": "6/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "5/9[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "1/3[H]",
+            "throwIns": "22/12[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Ayutthaya United,Ratchaburi,Home",
+            "tackles": "10/16[H]",
+            "interceptions": "10/12[H]",
+            "aerialDuels": "10/7[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "13/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:21:48.010Z",
+    "endTime": "2026-01-31T13:22:28.533Z",
+    "totalTimeSeconds": 40.52,
+    "combinedMatchStatistics": {
+        "corners": "7/10[A]+6/0[H]+7/3[A]+5/4[H]+7/0[A]+2/4[H]+9/10[A]+12/6[H]",
+        "fouls": "19/14[A]+16/11[H]+17/14[A]+12/9[H]+10/10[A]+11/10[H]+14/14[A]+5/8[H]",
+        "goalKicks": "6/5[A]+2/14[H]+6/5[A]+7/5[H]+10/7[A]+4/9[H]+13/7[A]+5/14[H]",
+        "saves": "4/5[A]+2/4[H]+3/4[A]+5/4[H]+2/5[A]+3/2[H]+3/4[A]+6/4[H]",
+        "offsides": "1/1[A]+1/2[H]+1/0[A]+1/0[H]+0/2[A]+1/2[H]+0/3[A]+0/1[H]",
+        "shotsOnTarget": "5/4[A]+4/3[H]+6/3[A]+7/6[H]+9/6[A]+3/4[H]+6/3[A]+5/9[H]",
+        "yellowCards": "2/5[A]+3/3[H]+5/1[A]+4/3[H]+2/0[A]+1/2[H]+3/3[A]+2/0[H]",
+        "goals": "0/0[A]+0/1[H]+1/0[A]+3/1[H]+4/4[A]+1/1[H]+1/0[A]+1/3[H]",
+        "throwIns": "19/21[A]+21/13[H]+21/28[A]+12/35[H]+16/26[A]+25/23[H]+18/21[A]+22/12[H]",
+        "averageBallPossession": "47/53[A]+52/48[H]+36/64[A]+37/63[H]+44/56[A]+56/44[H]+57/43[A]+40/60[H]",
+        "teams": "Ayutthaya United,Chiangrai Utd,Away+Ayutthaya United,Uthai Thani,Home+Ayutthaya United,Muang Thong Utd,Away+Ayutthaya United,Bangkok Utd,Home+Ayutthaya United,PT Prachuap FC,Away+Ayutthaya United,Lamphun Warrior,Home+Ayutthaya United,Nakhon Ratchasima,Away+Ayutthaya United,Ratchaburi,Home",
+        "tackles": "17/9[A]+17/19[H]+13/15[A]+11/12[H]+6/12[A]+15/15[H]+18/19[A]+10/16[H]",
+        "interceptions": "8/5[A]+5/1[H]+12/5[A]+8/2[H]+12/3[A]+9/11[H]+10/5[A]+10/12[H]",
+        "aerialDuels": "11/20[A]+10/14[H]+10/13[A]+8/13[H]+11/11[A]+7/10[H]+14/13[A]+10/7[H]",
+        "aerialDuelsAttempted": "31/31[A]+24/24[H]+23/23[A]+21/21[H]+22/22[A]+17/17[H]+27/27[A]+17/17[H]",
+        "dribbles": "5/4[A]+8/6[H]+1/0[A]+2/4[H]+7/1[A]+2/7[H]+5/0[A]+5/3[H]",
+        "dribblesAttempted": "11/11[A]+15/13[H]+9/6[A]+7/8[H]+11/5[A]+13/14[H]+16/13[A]+13/11[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "55/37",
+        "cornersTotalsHome": "25/14",
+        "cornersTotalsAway": "30/23",
+        "cornersAverage": "6.88/4.63",
+        "cornersAverageHome": "6.25/3.50",
+        "cornersAverageAway": "7.50/5.75",
+        "foulsTotals": "104/90",
+        "foulsTotalsHome": "44/38",
+        "foulsTotalsAway": "60/52",
+        "foulsAverage": "13.00/11.25",
+        "foulsAverageHome": "11.00/9.50",
+        "foulsAverageAway": "15.00/13.00",
+        "goalKicksTotals": "53/66",
+        "goalKicksTotalsHome": "18/42",
+        "goalKicksTotalsAway": "35/24",
+        "goalKicksAverage": "6.63/8.25",
+        "goalKicksAverageHome": "4.50/10.50",
+        "goalKicksAverageAway": "8.75/6.00",
+        "savesTotals": "28/32",
+        "savesTotalsHome": "16/14",
+        "savesTotalsAway": "12/18",
+        "savesAverage": "3.50/4.00",
+        "savesAverageHome": "4.00/3.50",
+        "savesAverageAway": "3.00/4.50",
+        "offsidesTotals": "5/11",
+        "offsidesTotalsHome": "3/5",
+        "offsidesTotalsAway": "2/6",
+        "offsidesAverage": "0.63/1.38",
+        "offsidesAverageHome": "0.75/1.25",
+        "offsidesAverageAway": "0.50/1.50",
+        "shotsOnTargetTotals": "45/38",
+        "shotsOnTargetTotalsHome": "19/22",
+        "shotsOnTargetTotalsAway": "26/16",
+        "shotsOnTargetAverage": "5.63/4.75",
+        "shotsOnTargetAverageHome": "4.75/5.50",
+        "shotsOnTargetAverageAway": "6.50/4.00",
+        "yellowCardsTotals": "22/17",
+        "yellowCardsTotalsHome": "10/8",
+        "yellowCardsTotalsAway": "12/9",
+        "yellowCardsAverage": "2.75/2.13",
+        "yellowCardsAverageHome": "2.50/2.00",
+        "yellowCardsAverageAway": "3.00/2.25",
+        "goalsTotals": "11/10",
+        "goalsTotalsHome": "5/6",
+        "goalsTotalsAway": "6/4",
+        "goalsAverage": "1.38/1.25",
+        "goalsAverageHome": "1.25/1.50",
+        "goalsAverageAway": "1.50/1.00",
+        "throwInsTotals": "154/179",
+        "throwInsTotalsHome": "80/83",
+        "throwInsTotalsAway": "74/96",
+        "throwInsAverage": "19.25/22.38",
+        "throwInsAverageHome": "20.00/20.75",
+        "throwInsAverageAway": "18.50/24.00",
+        "averageBallPossessionTotals": "369/431",
+        "averageBallPossessionTotalsHome": "185/215",
+        "averageBallPossessionTotalsAway": "184/216",
+        "averageBallPossessionAverage": "46.13/53.88",
+        "averageBallPossessionAverageHome": "46.25/53.75",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "107/117",
+        "tacklesTotalsHome": "53/62",
+        "tacklesTotalsAway": "54/55",
+        "tacklesAverage": "13.38/14.63",
+        "tacklesAverageHome": "13.25/15.50",
+        "tacklesAverageAway": "13.50/13.75",
+        "interceptionsTotals": "74/44",
+        "interceptionsTotalsHome": "32/26",
+        "interceptionsTotalsAway": "42/18",
+        "interceptionsAverage": "9.25/5.50",
+        "interceptionsAverageHome": "8.00/6.50",
+        "interceptionsAverageAway": "10.50/4.50",
+        "aerialDuelsTotals": "81/101",
+        "aerialDuelsTotalsHome": "35/44",
+        "aerialDuelsTotalsAway": "46/57",
+        "aerialDuelsAverage": "10.13/12.63",
+        "aerialDuelsAverageHome": "8.75/11.00",
+        "aerialDuelsAverageAway": "11.50/14.25",
+        "aerialDuelsAttemptedTotals": "182/182",
+        "aerialDuelsAttemptedTotalsHome": "79/79",
+        "aerialDuelsAttemptedTotalsAway": "103/103",
+        "aerialDuelsAttemptedAverage": "22.75/22.75",
+        "aerialDuelsAttemptedAverageHome": "19.75/19.75",
+        "aerialDuelsAttemptedAverageAway": "25.75/25.75",
+        "dribblesTotals": "35/25",
+        "dribblesTotalsHome": "17/20",
+        "dribblesTotalsAway": "18/5",
+        "dribblesAverage": "4.38/3.13",
+        "dribblesAverageHome": "4.25/5.00",
+        "dribblesAverageAway": "4.50/1.25",
+        "dribblesAttemptedTotals": "95/81",
+        "dribblesAttemptedTotalsHome": "48/46",
+        "dribblesAttemptedTotalsAway": "47/35",
+        "dribblesAttemptedAverage": "11.88/10.13",
+        "dribblesAttemptedAverageHome": "12.00/11.50",
+        "dribblesAttemptedAverageAway": "11.75/8.75"
+    }
+}

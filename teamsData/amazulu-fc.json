@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.67",
+        "fouls": "12.60",
+        "goalKicks": "11.27",
+        "saves": "3.13",
+        "offsides": "2.60",
+        "shotsOnTarget": "2.93/4.00",
+        "yellowCards": "1.53/1.33",
+        "goals": "1.20/0.93",
+        "throwIns": "20.00",
+        "ballPossession": 41,
+        "tackles": "14.00/15.07",
+        "interceptions": "10.53/9.40",
+        "aerialDuels": "14.20",
+        "aerialDuelsAttempted": "29.20",
+        "dribbles": "7.53/6.60",
+        "dribblesAttempted": "13.33/12.20"
+    },
+    "teamSlug": "amazulu-fc",
+    "teamId": "7655",
+    "teamName": "AmaZulu FC",
+    "tournament": "South African Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ts-galaxy-amazulu-fc/fddsiitc#id:14366033,tab:statistics",
+            "teams": [
+                "AmaZulu",
+                "TS Galaxy"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "7655",
+                "295408"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lamontville-golden-arrows-amazulu-fc/fddsodd#id:14366020,tab:statistics",
+            "teams": [
+                "Golden Arrows",
+                "AmaZulu"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "7664",
+                "7655"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/richards-bay-fc-amazulu-fc/fddsElfc#id:14366014,tab:statistics",
+            "teams": [
+                "Richards Bay FC",
+                "AmaZulu"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "263079",
+                "7655"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/siwelele-fc-amazulu-fc/fddsimVi#id:14366005,tab:statistics",
+            "teams": [
+                "AmaZulu",
+                "Siwelele FC"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "7655",
+                "1113108"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/polokwane-city-amazulu-fc/fddscak#id:14366001,tab:statistics",
+            "teams": [
+                "AmaZulu",
+                "Polokwane"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "7655",
+                "25002"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chippa-united-amazulu-fc/fddsWtD#id:14365999,tab:statistics",
+            "teams": [
+                "Chippa Utd",
+                "AmaZulu"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "70946",
+                "7655"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-amazulu-fc/fddsjIGg#id:14365990,tab:statistics",
+            "teams": [
+                "AmaZulu",
+                "Durban City"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "7655",
+                "829159"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaizer-chiefs-amazulu-fc/fddsndd#id:14770044,tab:statistics",
+            "teams": [
+                "Kaizer Chiefs",
+                "AmaZulu"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "7663",
+                "7655"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/3[H]",
+            "fouls": "13/16[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "3/2[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/2[H]",
+            "throwIns": "19/24[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "AmaZulu,TS Galaxy,Home",
+            "tackles": "14/17[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "20/13[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "10/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "4/11[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "22/30[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "AmaZulu,Golden Arrows,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "19/6[A]",
+            "aerialDuels": "16/11[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "12/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "11/8[A]",
+            "goalKicks": "14/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "30/20[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "AmaZulu,Richards Bay FC,Away",
+            "tackles": "10/21[A]",
+            "interceptions": "5/9[A]",
+            "aerialDuels": "19/13[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "9/4[A]",
+            "dribblesAttempted": "19/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/26[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "AmaZulu,Siwelele FC,Home",
+            "tackles": "21/16[H]",
+            "interceptions": "12/12[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "14/10[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "3/1[H]",
+            "offsides": "3/5[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "24/16[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "AmaZulu,Polokwane,Home",
+            "tackles": "9/26[H]",
+            "interceptions": "6/16[H]",
+            "aerialDuels": "10/14[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "18/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "11/3[A]",
+            "saves": "6/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "16/21[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "AmaZulu,Chippa Utd,Away",
+            "tackles": "19/10[A]",
+            "interceptions": "14/15[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "13/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "1/2[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "26/21[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "AmaZulu,Durban City,Home",
+            "tackles": "16/17[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "8/14[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "18/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "7/6[A]",
+            "goalKicks": "22/5[A]",
+            "saves": "7/0[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "11/26[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "AmaZulu,Kaizer Chiefs,Away",
+            "tackles": "12/13[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "9/14[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "9/10[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:12:36.212Z",
+    "endTime": "2026-01-31T13:13:13.051Z",
+    "totalTimeSeconds": 36.84,
+    "combinedMatchStatistics": {
+        "corners": "5/3[H]+5/6[A]+5/6[A]+1/6[H]+5/4[H]+3/7[A]+1/5[H]+1/7[A]",
+        "fouls": "13/16[H]+4/11[A]+11/8[A]+10/10[H]+14/10[H]+9/10[A]+9/13[H]+7/6[A]",
+        "goalKicks": "9/5[H]+10/4[A]+14/7[A]+6/10[H]+7/8[H]+11/3[A]+11/11[H]+22/5[A]",
+        "saves": "3/2[H]+2/3[A]+5/2[A]+4/1[H]+3/1[H]+6/3[A]+1/2[H]+7/0[A]",
+        "offsides": "4/1[H]+2/1[A]+3/3[A]+1/1[H]+3/5[H]+0/0[A]+4/2[H]+3/2[A]",
+        "shotsOnTarget": "5/5[H]+4/2[A]+2/7[A]+3/4[H]+1/4[H]+6/6[A]+3/1[H]+1/8[A]",
+        "yellowCards": "1/1[H]+0/1[A]+3/1[A]+1/0[H]+0/2[H]+2/0[A]+1/2[H]+1/1[A]",
+        "goals": "3/2[H]+1/0[A]+0/2[A]+2/0[H]+0/1[H]+3/0[A]+1/0[H]+1/1[A]",
+        "throwIns": "19/24[H]+22/30[A]+30/20[A]+21/26[H]+24/16[H]+16/21[A]+26/21[H]+11/26[A]",
+        "averageBallPossession": "38/62[H]+31/69[A]+56/44[A]+39/61[H]+61/39[H]+40/60[A]+43/57[H]+33/67[A]",
+        "teams": "AmaZulu,TS Galaxy,Home+AmaZulu,Golden Arrows,Away+AmaZulu,Richards Bay FC,Away+AmaZulu,Siwelele FC,Home+AmaZulu,Polokwane,Home+AmaZulu,Chippa Utd,Away+AmaZulu,Durban City,Home+AmaZulu,Kaizer Chiefs,Away",
+        "tackles": "14/17[H]+12/15[A]+10/21[A]+21/16[H]+9/26[H]+19/10[A]+16/17[H]+12/13[A]",
+        "interceptions": "10/6[H]+19/6[A]+5/9[A]+12/12[H]+6/16[H]+14/15[A]+11/6[H]+9/6[A]",
+        "aerialDuels": "20/13[H]+16/11[A]+19/13[A]+11/8[H]+10/14[H]+8/10[A]+8/14[H]+9/14[A]",
+        "aerialDuelsAttempted": "33/33[H]+27/27[A]+32/32[A]+19/19[H]+24/24[H]+18/18[A]+22/22[H]+23/23[A]",
+        "dribbles": "5/3[H]+6/5[A]+9/4[A]+4/7[H]+9/4[H]+8/9[A]+8/9[H]+9/10[A]",
+        "dribblesAttempted": "10/8[H]+12/12[A]+19/9[A]+9/15[H]+18/7[H]+13/17[A]+18/14[H]+14/15[A]",
+        "isHome": "true+false+false+true+true+false+true+false",
+        "cornersTotals": "26/44",
+        "cornersTotalsHome": "12/18",
+        "cornersTotalsAway": "14/26",
+        "cornersAverage": "3.25/5.50",
+        "cornersAverageHome": "3.00/4.50",
+        "cornersAverageAway": "3.50/6.50",
+        "foulsTotals": "77/84",
+        "foulsTotalsHome": "46/49",
+        "foulsTotalsAway": "31/35",
+        "foulsAverage": "9.63/10.50",
+        "foulsAverageHome": "11.50/12.25",
+        "foulsAverageAway": "7.75/8.75",
+        "goalKicksTotals": "90/53",
+        "goalKicksTotalsHome": "33/34",
+        "goalKicksTotalsAway": "57/19",
+        "goalKicksAverage": "11.25/6.63",
+        "goalKicksAverageHome": "8.25/8.50",
+        "goalKicksAverageAway": "14.25/4.75",
+        "savesTotals": "31/14",
+        "savesTotalsHome": "11/6",
+        "savesTotalsAway": "20/8",
+        "savesAverage": "3.88/1.75",
+        "savesAverageHome": "2.75/1.50",
+        "savesAverageAway": "5.00/2.00",
+        "offsidesTotals": "20/15",
+        "offsidesTotalsHome": "12/9",
+        "offsidesTotalsAway": "8/6",
+        "offsidesAverage": "2.50/1.88",
+        "offsidesAverageHome": "3.00/2.25",
+        "offsidesAverageAway": "2.00/1.50",
+        "shotsOnTargetTotals": "25/37",
+        "shotsOnTargetTotalsHome": "12/14",
+        "shotsOnTargetTotalsAway": "13/23",
+        "shotsOnTargetAverage": "3.13/4.63",
+        "shotsOnTargetAverageHome": "3.00/3.50",
+        "shotsOnTargetAverageAway": "3.25/5.75",
+        "yellowCardsTotals": "9/8",
+        "yellowCardsTotalsHome": "3/5",
+        "yellowCardsTotalsAway": "6/3",
+        "yellowCardsAverage": "1.13/1.00",
+        "yellowCardsAverageHome": "0.75/1.25",
+        "yellowCardsAverageAway": "1.50/0.75",
+        "goalsTotals": "11/6",
+        "goalsTotalsHome": "6/3",
+        "goalsTotalsAway": "5/3",
+        "goalsAverage": "1.38/0.75",
+        "goalsAverageHome": "1.50/0.75",
+        "goalsAverageAway": "1.25/0.75",
+        "throwInsTotals": "169/184",
+        "throwInsTotalsHome": "90/87",
+        "throwInsTotalsAway": "79/97",
+        "throwInsAverage": "21.13/23.00",
+        "throwInsAverageHome": "22.50/21.75",
+        "throwInsAverageAway": "19.75/24.25",
+        "averageBallPossessionTotals": "341/459",
+        "averageBallPossessionTotalsHome": "181/219",
+        "averageBallPossessionTotalsAway": "160/240",
+        "averageBallPossessionAverage": "42.63/57.38",
+        "averageBallPossessionAverageHome": "45.25/54.75",
+        "averageBallPossessionAverageAway": "40.00/60.00",
+        "tacklesTotals": "113/135",
+        "tacklesTotalsHome": "60/76",
+        "tacklesTotalsAway": "53/59",
+        "tacklesAverage": "14.13/16.88",
+        "tacklesAverageHome": "15.00/19.00",
+        "tacklesAverageAway": "13.25/14.75",
+        "interceptionsTotals": "86/76",
+        "interceptionsTotalsHome": "39/40",
+        "interceptionsTotalsAway": "47/36",
+        "interceptionsAverage": "10.75/9.50",
+        "interceptionsAverageHome": "9.75/10.00",
+        "interceptionsAverageAway": "11.75/9.00",
+        "aerialDuelsTotals": "101/97",
+        "aerialDuelsTotalsHome": "49/49",
+        "aerialDuelsTotalsAway": "52/48",
+        "aerialDuelsAverage": "12.63/12.13",
+        "aerialDuelsAverageHome": "12.25/12.25",
+        "aerialDuelsAverageAway": "13.00/12.00",
+        "aerialDuelsAttemptedTotals": "198/198",
+        "aerialDuelsAttemptedTotalsHome": "98/98",
+        "aerialDuelsAttemptedTotalsAway": "100/100",
+        "aerialDuelsAttemptedAverage": "24.75/24.75",
+        "aerialDuelsAttemptedAverageHome": "24.50/24.50",
+        "aerialDuelsAttemptedAverageAway": "25.00/25.00",
+        "dribblesTotals": "58/51",
+        "dribblesTotalsHome": "26/23",
+        "dribblesTotalsAway": "32/28",
+        "dribblesAverage": "7.25/6.38",
+        "dribblesAverageHome": "6.50/5.75",
+        "dribblesAverageAway": "8.00/7.00",
+        "dribblesAttemptedTotals": "113/97",
+        "dribblesAttemptedTotalsHome": "55/44",
+        "dribblesAttemptedTotalsAway": "58/53",
+        "dribblesAttemptedAverage": "14.13/12.13",
+        "dribblesAttemptedAverageHome": "13.75/11.00",
+        "dribblesAttemptedAverageAway": "14.50/13.25"
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.63",
+        "fouls": "11.81",
+        "goalKicks": "6.37",
+        "saves": "3.85",
+        "offsides": "2.52",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "1.59/NaN",
+        "goals": "1.30/1.63",
+        "throwIns": "NaN",
+        "ballPossession": 45.9,
+        "tackles": "NaN/NaN",
+        "interceptions": "43.48/NaN",
+        "aerialDuels": "18.07",
+        "aerialDuelsAttempted": "44.04",
+        "dribbles": "11.52/NaN",
+        "dribblesAttempted": "16.41/NaN"
+    },
+    "teamSlug": "ff-jaro",
+    "teamId": "2252",
+    "teamName": "FF Jaro",
+    "tournament": "Veikkausliiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ff-jaro-vps/WUscV#id:14600175,tab:statistics",
+            "teams": [
+                "VPS",
+                "Jaro"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2246",
+                "2252"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ff-jaro-fc-haka/PUscV#id:14600173,tab:statistics",
+            "teams": [
+                "Jaro",
+                "Haka"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "2252",
+                "2240"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ifk-mariehamn-ff-jaro/cVsibc#id:14600174,tab:statistics",
+            "teams": [
+                "Jaro",
+                "Mariehamn"
+            ],
+            "goals": [
+                "2",
+                "3"
+            ],
+            "teamIds": [
+                "2252",
+                "5058"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ktp-ff-jaro/cVsfV#id:14600167,tab:statistics",
+            "teams": [
+                "KTP",
+                "Jaro"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2255",
+                "2252"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ac-oulu-ff-jaro/cVsocc#id:14600164,tab:statistics",
+            "teams": [
+                "Jaro",
+                "Oulu"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2252",
+                "5114"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/if-gnistan-ff-jaro/cVswV#id:13342477,tab:statistics",
+            "teams": [
+                "Gnistan",
+                "Jaro"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "2271",
+                "2252"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ff-jaro-kups/UUscV#id:13342470,tab:statistics",
+            "teams": [
+                "Jaro",
+                "KuPS"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2252",
+                "2244"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ac-oulu-ff-jaro/cVsocc#id:13342447,tab:statistics",
+            "teams": [
+                "Oulu",
+                "Jaro"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "5114",
+                "2252"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/8[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "15/6[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "26/30[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Jaro,VPS,Away",
+            "tackles": "0/1[A]",
+            "interceptions": "19/9[A]",
+            "aerialDuels": "17/25[A]",
+            "aerialDuelsAttempted": "45/51[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "14/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/6[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "10/13[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "21/15[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Jaro,Haka,Home",
+            "tackles": "2/3[H]",
+            "interceptions": "20/16[H]",
+            "aerialDuels": "26/14[H]",
+            "aerialDuelsAttempted": "47/41[H]",
+            "dribbles": "14/17[H]",
+            "dribblesAttempted": "22/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "7/8[H]",
+            "goalKicks": "4/10[H]",
+            "saves": "0/8[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "10/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/3[H]",
+            "throwIns": "24/17[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Jaro,Mariehamn,Home",
+            "tackles": "6/4[H]",
+            "interceptions": "22/28[H]",
+            "aerialDuels": "18/9[H]",
+            "aerialDuelsAttempted": "31/29[H]",
+            "dribbles": "17/9[H]",
+            "dribblesAttempted": "24/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "16/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "25/22[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Jaro,KTP,Away",
+            "tackles": "0/1[A]",
+            "interceptions": "17/13[A]",
+            "aerialDuels": "21/29[A]",
+            "aerialDuelsAttempted": "57/58[A]",
+            "dribbles": "15/16[A]",
+            "dribblesAttempted": "22/26[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "3/3[H]",
+            "offsides": "3/4[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "28/23[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Jaro,Oulu,Home",
+            "tackles": "3/2[H]",
+            "interceptions": "12/18[H]",
+            "aerialDuels": "13/17[H]",
+            "aerialDuelsAttempted": "35/36[H]",
+            "dribbles": "8/4[H]",
+            "dribblesAttempted": "16/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/9[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "13/7[A]",
+            "saves": "5/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "21/29[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Jaro,Gnistan,Away",
+            "tackles": "1/0[A]",
+            "interceptions": "19/20[A]",
+            "aerialDuels": "25/54[A]",
+            "aerialDuelsAttempted": "80/79[A]",
+            "dribbles": "7/15[A]",
+            "dribblesAttempted": "10/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/13[H]",
+            "fouls": "15/9[H]",
+            "goalKicks": "10/1[H]",
+            "saves": "8/3[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "2/10[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "16/13[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Jaro,KuPS,Home",
+            "tackles": "2/0[H]",
+            "interceptions": "18/9[H]",
+            "aerialDuels": "16/9[H]",
+            "aerialDuelsAttempted": "35/22[H]",
+            "dribbles": "14/14[H]",
+            "dribblesAttempted": "18/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "15/8[A]",
+            "goalKicks": "15/7[A]",
+            "saves": "8/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "26/22[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Jaro,Oulu,Away",
+            "tackles": "3/4[A]",
+            "interceptions": "23/8[A]",
+            "aerialDuels": "14/23[A]",
+            "aerialDuelsAttempted": "45/43[A]",
+            "dribbles": "9/24[A]",
+            "dribblesAttempted": "14/26[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:36:58.012Z",
+    "endTime": "2026-01-31T13:37:33.819Z",
+    "totalTimeSeconds": 35.81,
+    "combinedMatchStatistics": {
+        "corners": "3/8[A]+9/6[H]+6/1[H]+3/7[A]+3/3[H]+6/9[A]+2/13[H]+2/7[A]",
+        "fouls": "9/11[A]+12/8[H]+7/8[H]+11/9[A]+15/11[H]+11/9[A]+15/9[H]+15/8[A]",
+        "goalKicks": "15/6[A]+10/13[H]+4/10[H]+16/5[A]+5/11[H]+13/7[A]+10/1[H]+15/7[A]",
+        "saves": "1/1[A]+4/4[H]+0/8[H]+2/3[A]+3/3[H]+5/4[A]+8/3[H]+8/1[A]",
+        "offsides": "1/0[A]+1/2[H]+1/2[H]+3/3[A]+3/4[H]+0/3[A]+3/2[H]+3/1[A]",
+        "shotsOnTarget": "3/2[A]+6/5[H]+10/3[H]+5/3[A]+4/5[H]+5/5[A]+2/10[H]+2/8[A]",
+        "yellowCards": "0/2[A]+1/1[H]+0/1[H]+1/2[A]+4/2[H]+1/2[A]+2/1[H]+4/2[A]",
+        "goals": "3/1[A]+2/1[H]+2/3[H]+2/1[A]+1/2[H]+2/1[A]+1/3[H]+1/0[A]",
+        "throwIns": "26/30[A]+21/15[H]+24/17[H]+25/22[A]+28/23[H]+21/29[A]+16/13[H]+26/22[A]",
+        "averageBallPossession": "45/55[A]+55/45[H]+53/47[H]+45/55[A]+49/51[H]+35/65[A]+41/59[H]+45/55[A]",
+        "teams": "Jaro,VPS,Away+Jaro,Haka,Home+Jaro,Mariehamn,Home+Jaro,KTP,Away+Jaro,Oulu,Home+Jaro,Gnistan,Away+Jaro,KuPS,Home+Jaro,Oulu,Away",
+        "tackles": "0/1[A]+2/3[H]+6/4[H]+0/1[A]+3/2[H]+1/0[A]+2/0[H]+3/4[A]",
+        "interceptions": "19/9[A]+20/16[H]+22/28[H]+17/13[A]+12/18[H]+19/20[A]+18/9[H]+23/8[A]",
+        "aerialDuels": "17/25[A]+26/14[H]+18/9[H]+21/29[A]+13/17[H]+25/54[A]+16/9[H]+14/23[A]",
+        "aerialDuelsAttempted": "45/51[A]+47/41[H]+31/29[H]+57/58[A]+35/36[H]+80/79[A]+35/22[H]+45/43[A]",
+        "dribbles": "11/8[A]+14/17[H]+17/9[H]+15/16[A]+8/4[H]+7/15[A]+14/14[H]+9/24[A]",
+        "dribblesAttempted": "14/11[A]+22/19[H]+24/12[H]+22/26[A]+16/8[H]+10/18[A]+18/15[H]+14/26[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "34/54",
+        "cornersTotalsHome": "20/23",
+        "cornersTotalsAway": "14/31",
+        "cornersAverage": "4.25/6.75",
+        "cornersAverageHome": "5.00/5.75",
+        "cornersAverageAway": "3.50/7.75",
+        "foulsTotals": "95/73",
+        "foulsTotalsHome": "49/36",
+        "foulsTotalsAway": "46/37",
+        "foulsAverage": "11.88/9.13",
+        "foulsAverageHome": "12.25/9.00",
+        "foulsAverageAway": "11.50/9.25",
+        "goalKicksTotals": "88/60",
+        "goalKicksTotalsHome": "29/35",
+        "goalKicksTotalsAway": "59/25",
+        "goalKicksAverage": "11.00/7.50",
+        "goalKicksAverageHome": "7.25/8.75",
+        "goalKicksAverageAway": "14.75/6.25",
+        "savesTotals": "31/27",
+        "savesTotalsHome": "15/18",
+        "savesTotalsAway": "16/9",
+        "savesAverage": "3.88/3.38",
+        "savesAverageHome": "3.75/4.50",
+        "savesAverageAway": "4.00/2.25",
+        "offsidesTotals": "15/17",
+        "offsidesTotalsHome": "8/10",
+        "offsidesTotalsAway": "7/7",
+        "offsidesAverage": "1.88/2.13",
+        "offsidesAverageHome": "2.00/2.50",
+        "offsidesAverageAway": "1.75/1.75",
+        "shotsOnTargetTotals": "37/41",
+        "shotsOnTargetTotalsHome": "22/23",
+        "shotsOnTargetTotalsAway": "15/18",
+        "shotsOnTargetAverage": "4.63/5.13",
+        "shotsOnTargetAverageHome": "5.50/5.75",
+        "shotsOnTargetAverageAway": "3.75/4.50",
+        "yellowCardsTotals": "13/13",
+        "yellowCardsTotalsHome": "7/5",
+        "yellowCardsTotalsAway": "6/8",
+        "yellowCardsAverage": "1.63/1.63",
+        "yellowCardsAverageHome": "1.75/1.25",
+        "yellowCardsAverageAway": "1.50/2.00",
+        "goalsTotals": "14/12",
+        "goalsTotalsHome": "6/9",
+        "goalsTotalsAway": "8/3",
+        "goalsAverage": "1.75/1.50",
+        "goalsAverageHome": "1.50/2.25",
+        "goalsAverageAway": "2.00/0.75",
+        "throwInsTotals": "187/171",
+        "throwInsTotalsHome": "89/68",
+        "throwInsTotalsAway": "98/103",
+        "throwInsAverage": "23.38/21.38",
+        "throwInsAverageHome": "22.25/17.00",
+        "throwInsAverageAway": "24.50/25.75",
+        "averageBallPossessionTotals": "368/432",
+        "averageBallPossessionTotalsHome": "198/202",
+        "averageBallPossessionTotalsAway": "170/230",
+        "averageBallPossessionAverage": "46.00/54.00",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "42.50/57.50",
+        "tacklesTotals": "17/15",
+        "tacklesTotalsHome": "13/9",
+        "tacklesTotalsAway": "4/6",
+        "tacklesAverage": "2.13/1.88",
+        "tacklesAverageHome": "3.25/2.25",
+        "tacklesAverageAway": "1.00/1.50",
+        "interceptionsTotals": "150/121",
+        "interceptionsTotalsHome": "72/71",
+        "interceptionsTotalsAway": "78/50",
+        "interceptionsAverage": "18.75/15.13",
+        "interceptionsAverageHome": "18.00/17.75",
+        "interceptionsAverageAway": "19.50/12.50",
+        "aerialDuelsTotals": "150/180",
+        "aerialDuelsTotalsHome": "73/49",
+        "aerialDuelsTotalsAway": "77/131",
+        "aerialDuelsAverage": "18.75/22.50",
+        "aerialDuelsAverageHome": "18.25/12.25",
+        "aerialDuelsAverageAway": "19.25/32.75",
+        "aerialDuelsAttemptedTotals": "375/359",
+        "aerialDuelsAttemptedTotalsHome": "148/128",
+        "aerialDuelsAttemptedTotalsAway": "227/231",
+        "aerialDuelsAttemptedAverage": "46.88/44.88",
+        "aerialDuelsAttemptedAverageHome": "37.00/32.00",
+        "aerialDuelsAttemptedAverageAway": "56.75/57.75",
+        "dribblesTotals": "95/107",
+        "dribblesTotalsHome": "53/44",
+        "dribblesTotalsAway": "42/63",
+        "dribblesAverage": "11.88/13.38",
+        "dribblesAverageHome": "13.25/11.00",
+        "dribblesAverageAway": "10.50/15.75",
+        "dribblesAttemptedTotals": "140/135",
+        "dribblesAttemptedTotalsHome": "80/54",
+        "dribblesAttemptedTotalsAway": "60/81",
+        "dribblesAttemptedAverage": "17.50/16.88",
+        "dribblesAttemptedAverageHome": "20.00/13.50",
+        "dribblesAttemptedAverageAway": "15.00/20.25"
+    }
+}

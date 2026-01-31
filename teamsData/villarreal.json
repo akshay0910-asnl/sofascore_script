@@ -316,9 +316,19 @@
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-25T13:25:18.648Z",
-    "endTime": "2026-01-25T13:25:58.238Z",
-    "totalTimeSeconds": 39.59,
+    "startTime": "2026-01-31T10:50:52.769Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/getafe-villarreal/ugbsjhb#id:14083159,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 183061,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-31T10:51:20.500Z",
+    "totalTimeSeconds": 27.73,
     "combinedMatchStatistics": {
         "corners": "6/6[H]+3/2[A]+1/6[H]+2/6[A]+5/10[H]+5/3[H]+2/8[A]+2/4[A]",
         "fouls": "19/10[H]+13/14[A]+10/14[H]+11/8[A]+10/8[H]+19/15[H]+18/15[A]+9/9[A]",

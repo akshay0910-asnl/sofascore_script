@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "6.56",
+        "fouls": "8.25",
+        "goalKicks": "4.34",
+        "saves": "2.44",
+        "offsides": "1.84",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "1.72/NaN",
+        "goals": "2.13/1.41",
+        "throwIns": "NaN",
+        "ballPossession": 55,
+        "tackles": "NaN/NaN",
+        "interceptions": "36.88/NaN",
+        "aerialDuels": "13.50",
+        "aerialDuelsAttempted": "28.50",
+        "dribbles": "15.94/NaN",
+        "dribblesAttempted": "21.94/NaN"
+    },
+    "teamSlug": "ilves",
+    "teamId": "22386",
+    "teamName": "Ilves",
+    "tournament": "Veikkausliiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ilves-inter-turku/XUsLXi#id:14626813,tab:statistics",
+            "teams": [
+                "Inter",
+                "Ilves"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "2247",
+                "22386"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sjk-ilves/LXisVXi#id:14600202,tab:statistics",
+            "teams": [
+                "Ilves",
+                "SJK"
+            ],
+            "goals": [
+                "3",
+                "3"
+            ],
+            "teamIds": [
+                "22386",
+                "22395"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ilves-hjk/RUsLXi#id:14600196,tab:statistics",
+            "teams": [
+                "Ilves",
+                "HJK"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "22386",
+                "2242"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ilves-if-gnistan/wVsLXi#id:14600191,tab:statistics",
+            "teams": [
+                "Gnistan",
+                "Ilves"
+            ],
+            "goals": [
+                "1",
+                "3"
+            ],
+            "teamIds": [
+                "2271",
+                "22386"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ilves-inter-turku/XUsLXi#id:14600187,tab:statistics",
+            "teams": [
+                "Ilves",
+                "Inter"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "22386",
+                "2247"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ilves-kups/UUsLXi#id:14600185,tab:statistics",
+            "teams": [
+                "Ilves",
+                "KuPS"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "22386",
+                "2244"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sjk-ilves/LXisVXi#id:14600182,tab:statistics",
+            "teams": [
+                "SJK",
+                "Ilves"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "22395",
+                "22386"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ilves-hjk/RUsLXi#id:14600177,tab:statistics",
+            "teams": [
+                "HJK",
+                "Ilves"
+            ],
+            "goals": [
+                "2",
+                "2"
+            ],
+            "teamIds": [
+                "2242",
+                "22386"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/6[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "4/7[A]",
+            "saves": "5/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "20/18[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "Ilves,Inter,Away",
+            "tackles": "2/4[A]",
+            "interceptions": "25/17[A]",
+            "aerialDuels": "16/7[A]",
+            "aerialDuelsAttempted": "23/22[A]",
+            "dribbles": "17/12[A]",
+            "dribblesAttempted": "27/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/7[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "1/6[H]",
+            "saves": "1/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "3/3[H]",
+            "throwIns": "18/14[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Ilves,SJK,Home",
+            "tackles": "2/2[H]",
+            "interceptions": "18/10[H]",
+            "aerialDuels": "17/7[H]",
+            "aerialDuelsAttempted": "26/20[H]",
+            "dribbles": "9/13[H]",
+            "dribblesAttempted": "15/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "5/5[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "1/0[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "24/22[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Ilves,HJK,Home",
+            "tackles": "1/1[H]",
+            "interceptions": "20/16[H]",
+            "aerialDuels": "4/5[H]",
+            "aerialDuelsAttempted": "10/8[H]",
+            "dribbles": "14/6[H]",
+            "dribblesAttempted": "20/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/10[A]",
+            "fouls": "11/19[A]",
+            "goalKicks": "13/11[A]",
+            "saves": "5/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "3/1[A]",
+            "throwIns": "14/18[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Ilves,Gnistan,Away",
+            "tackles": "1/3[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "16/20[A]",
+            "aerialDuelsAttempted": "37/41[A]",
+            "dribbles": "8/11[A]",
+            "dribblesAttempted": "10/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "8/16[H]",
+            "goalKicks": "10/4[H]",
+            "saves": "3/1[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "13/18[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Ilves,Inter,Home",
+            "tackles": "0/2[H]",
+            "interceptions": "16/12[H]",
+            "aerialDuels": "23/16[H]",
+            "aerialDuelsAttempted": "39/42[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "14/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "14/15[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Ilves,KuPS,Home",
+            "tackles": "2/5[H]",
+            "interceptions": "12/15[H]",
+            "aerialDuels": "10/16[H]",
+            "aerialDuelsAttempted": "22/28[H]",
+            "dribbles": "14/6[H]",
+            "dribblesAttempted": "19/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/1[A]",
+            "fouls": "6/7[A]",
+            "goalKicks": "5/17[A]",
+            "saves": "3/6[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "7/3[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/13[A]",
+            "averageBallPossession": "73/27[A]",
+            "teams": "Ilves,SJK,Away",
+            "tackles": "2/1[A]",
+            "interceptions": "13/18[A]",
+            "aerialDuels": "17/18[A]",
+            "aerialDuelsAttempted": "32/34[A]",
+            "dribbles": "18/3[A]",
+            "dribblesAttempted": "22/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "9/17[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Ilves,HJK,Away",
+            "tackles": "0/0[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "32/25[A]",
+            "dribbles": "10/22[A]",
+            "dribblesAttempted": "16/26[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:36:08.931Z",
+    "endTime": "2026-01-31T13:36:55.839Z",
+    "totalTimeSeconds": 46.91,
+    "combinedMatchStatistics": {
+        "corners": "6/6[A]+10/7[H]+4/1[H]+1/10[A]+2/5[H]+5/2[H]+9/1[A]+3/5[A]",
+        "fouls": "10/10[A]+8/14[H]+5/5[H]+11/19[A]+8/16[H]+11/9[H]+6/7[A]+10/10[A]",
+        "goalKicks": "4/7[A]+1/6[H]+3/6[H]+13/11[A]+10/4[H]+8/7[H]+5/17[A]+13/4[A]",
+        "saves": "5/4[A]+1/2[H]+1/0[H]+5/2[A]+3/1[H]+3/3[H]+3/6[A]+1/1[A]",
+        "offsides": "1/0[A]+0/0[H]+2/1[H]+2/1[A]+3/3[H]+0/3[H]+1/1[A]+1/3[A]",
+        "shotsOnTarget": "4/7[A]+4/4[H]+3/2[H]+5/6[A]+2/5[H]+4/4[H]+7/3[A]+3/3[A]",
+        "yellowCards": "2/1[A]+5/2[H]+0/1[H]+2/3[A]+0/2[H]+3/2[H]+0/1[A]+3/1[A]",
+        "goals": "0/2[A]+3/3[H]+3/1[H]+3/1[A]+1/2[H]+1/1[H]+1/2[A]+2/2[A]",
+        "throwIns": "20/18[A]+18/14[H]+24/22[H]+14/18[A]+13/18[H]+14/15[H]+18/13[A]+9/17[A]",
+        "averageBallPossession": "66/34[A]+62/38[H]+52/48[H]+51/49[A]+46/54[H]+57/43[H]+73/27[A]+48/52[A]",
+        "teams": "Ilves,Inter,Away+Ilves,SJK,Home+Ilves,HJK,Home+Ilves,Gnistan,Away+Ilves,Inter,Home+Ilves,KuPS,Home+Ilves,SJK,Away+Ilves,HJK,Away",
+        "tackles": "2/4[A]+2/2[H]+1/1[H]+1/3[A]+0/2[H]+2/5[H]+2/1[A]+0/0[A]",
+        "interceptions": "25/17[A]+18/10[H]+20/16[H]+12/11[A]+16/12[H]+12/15[H]+13/18[A]+9/8[A]",
+        "aerialDuels": "16/7[A]+17/7[H]+4/5[H]+16/20[A]+23/16[H]+10/16[H]+17/18[A]+11/11[A]",
+        "aerialDuelsAttempted": "23/22[A]+26/20[H]+10/8[H]+37/41[A]+39/42[H]+22/28[H]+32/34[A]+32/25[A]",
+        "dribbles": "17/12[A]+9/13[H]+14/6[H]+8/11[A]+8/5[H]+14/6[H]+18/3[A]+10/22[A]",
+        "dribblesAttempted": "27/17[A]+15/17[H]+20/10[H]+10/16[A]+14/9[H]+19/8[H]+22/7[A]+16/26[A]",
+        "isHome": "false+true+true+false+true+true+false+false",
+        "cornersTotals": "40/37",
+        "cornersTotalsHome": "21/15",
+        "cornersTotalsAway": "19/22",
+        "cornersAverage": "5.00/4.63",
+        "cornersAverageHome": "5.25/3.75",
+        "cornersAverageAway": "4.75/5.50",
+        "foulsTotals": "69/90",
+        "foulsTotalsHome": "32/44",
+        "foulsTotalsAway": "37/46",
+        "foulsAverage": "8.63/11.25",
+        "foulsAverageHome": "8.00/11.00",
+        "foulsAverageAway": "9.25/11.50",
+        "goalKicksTotals": "57/62",
+        "goalKicksTotalsHome": "22/23",
+        "goalKicksTotalsAway": "35/39",
+        "goalKicksAverage": "7.13/7.75",
+        "goalKicksAverageHome": "5.50/5.75",
+        "goalKicksAverageAway": "8.75/9.75",
+        "savesTotals": "22/19",
+        "savesTotalsHome": "8/6",
+        "savesTotalsAway": "14/13",
+        "savesAverage": "2.75/2.38",
+        "savesAverageHome": "2.00/1.50",
+        "savesAverageAway": "3.50/3.25",
+        "offsidesTotals": "10/12",
+        "offsidesTotalsHome": "5/7",
+        "offsidesTotalsAway": "5/5",
+        "offsidesAverage": "1.25/1.50",
+        "offsidesAverageHome": "1.25/1.75",
+        "offsidesAverageAway": "1.25/1.25",
+        "shotsOnTargetTotals": "32/34",
+        "shotsOnTargetTotalsHome": "13/15",
+        "shotsOnTargetTotalsAway": "19/19",
+        "shotsOnTargetAverage": "4.00/4.25",
+        "shotsOnTargetAverageHome": "3.25/3.75",
+        "shotsOnTargetAverageAway": "4.75/4.75",
+        "yellowCardsTotals": "15/13",
+        "yellowCardsTotalsHome": "8/7",
+        "yellowCardsTotalsAway": "7/6",
+        "yellowCardsAverage": "1.88/1.63",
+        "yellowCardsAverageHome": "2.00/1.75",
+        "yellowCardsAverageAway": "1.75/1.50",
+        "goalsTotals": "14/14",
+        "goalsTotalsHome": "8/7",
+        "goalsTotalsAway": "6/7",
+        "goalsAverage": "1.75/1.75",
+        "goalsAverageHome": "2.00/1.75",
+        "goalsAverageAway": "1.50/1.75",
+        "throwInsTotals": "130/135",
+        "throwInsTotalsHome": "69/69",
+        "throwInsTotalsAway": "61/66",
+        "throwInsAverage": "16.25/16.88",
+        "throwInsAverageHome": "17.25/17.25",
+        "throwInsAverageAway": "15.25/16.50",
+        "averageBallPossessionTotals": "455/345",
+        "averageBallPossessionTotalsHome": "217/183",
+        "averageBallPossessionTotalsAway": "238/162",
+        "averageBallPossessionAverage": "56.88/43.13",
+        "averageBallPossessionAverageHome": "54.25/45.75",
+        "averageBallPossessionAverageAway": "59.50/40.50",
+        "tacklesTotals": "10/18",
+        "tacklesTotalsHome": "5/10",
+        "tacklesTotalsAway": "5/8",
+        "tacklesAverage": "1.25/2.25",
+        "tacklesAverageHome": "1.25/2.50",
+        "tacklesAverageAway": "1.25/2.00",
+        "interceptionsTotals": "125/107",
+        "interceptionsTotalsHome": "66/53",
+        "interceptionsTotalsAway": "59/54",
+        "interceptionsAverage": "15.63/13.38",
+        "interceptionsAverageHome": "16.50/13.25",
+        "interceptionsAverageAway": "14.75/13.50",
+        "aerialDuelsTotals": "114/100",
+        "aerialDuelsTotalsHome": "54/44",
+        "aerialDuelsTotalsAway": "60/56",
+        "aerialDuelsAverage": "14.25/12.50",
+        "aerialDuelsAverageHome": "13.50/11.00",
+        "aerialDuelsAverageAway": "15.00/14.00",
+        "aerialDuelsAttemptedTotals": "221/220",
+        "aerialDuelsAttemptedTotalsHome": "97/98",
+        "aerialDuelsAttemptedTotalsAway": "124/122",
+        "aerialDuelsAttemptedAverage": "27.63/27.50",
+        "aerialDuelsAttemptedAverageHome": "24.25/24.50",
+        "aerialDuelsAttemptedAverageAway": "31.00/30.50",
+        "dribblesTotals": "98/78",
+        "dribblesTotalsHome": "45/30",
+        "dribblesTotalsAway": "53/48",
+        "dribblesAverage": "12.25/9.75",
+        "dribblesAverageHome": "11.25/7.50",
+        "dribblesAverageAway": "13.25/12.00",
+        "dribblesAttemptedTotals": "143/110",
+        "dribblesAttemptedTotalsHome": "68/44",
+        "dribblesAttemptedTotalsAway": "75/66",
+        "dribblesAttemptedAverage": "17.88/13.75",
+        "dribblesAttemptedAverageHome": "17.00/11.00",
+        "dribblesAttemptedAverageAway": "18.75/16.50"
+    }
+}

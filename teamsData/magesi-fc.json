@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "4.64",
+        "fouls": "13.21",
+        "goalKicks": "7.79",
+        "saves": "2.36",
+        "offsides": "2.36",
+        "shotsOnTarget": "2.93/3.71",
+        "yellowCards": "2.14/1.86",
+        "goals": "0.71/1.36",
+        "throwIns": "26.93",
+        "ballPossession": 50.214285714286,
+        "tackles": "14.14/14.29",
+        "interceptions": "9.86/9.71",
+        "aerialDuels": "25.50",
+        "aerialDuelsAttempted": "46.79",
+        "dribbles": "6.64/6.79",
+        "dribblesAttempted": "12.14/12.93"
+    },
+    "teamSlug": "magesi-fc",
+    "teamId": "90844",
+    "teamName": "Magesi FC",
+    "tournament": "South African Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sekhukhune-united-magesi-fc/UqLsQBYc#id:14366025,tab:statistics",
+            "teams": [
+                "Magesi",
+                "Sekhukhune"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "90844",
+                "371341"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/marumo-gallants-fc-magesi-fc/UqLsClfc#id:14366021,tab:statistics",
+            "teams": [
+                "Marumo Gallants FC",
+                "Magesi"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "263077",
+                "90844"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/magesi-fc-chippa-united/WtDsUqL#id:14366002,tab:statistics",
+            "teams": [
+                "Chippa Utd",
+                "Magesi"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "70946",
+                "90844"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-magesi-fc/UqLstqkc#id:14372226,tab:statistics",
+            "teams": [
+                "ORBIT College",
+                "Magesi"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "275818",
+                "90844"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ts-galaxy-magesi-fc/UqLsiitc#id:14365993,tab:statistics",
+            "teams": [
+                "Magesi",
+                "TS Galaxy"
+            ],
+            "goals": [
+                "2",
+                "1"
+            ],
+            "teamIds": [
+                "90844",
+                "295408"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-magesi-fc/UqLsjIGg#id:14372220,tab:statistics",
+            "teams": [
+                "Durban City",
+                "Magesi"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "829159",
+                "90844"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/siwelele-fc-magesi-fc/UqLsimVi#id:14342267,tab:statistics",
+            "teams": [
+                "Magesi",
+                "Siwelele FC"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "90844",
+                "1113108"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/magesi-fc-amazulu-fc/fddsUqL#id:14338633,tab:statistics",
+            "teams": [
+                "Magesi",
+                "AmaZulu"
+            ],
+            "goals": [
+                "1",
+                "1"
+            ],
+            "teamIds": [
+                "90844",
+                "7655"
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/2[H]",
+            "fouls": "12/17[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "37/26[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Magesi,Sekhukhune,Home",
+            "tackles": "19/11[H]",
+            "interceptions": "10/11[H]",
+            "aerialDuels": "28/27[H]",
+            "aerialDuelsAttempted": "55/55[H]",
+            "dribbles": "8/2[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "7/12[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "23/23[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Magesi,Marumo Gallants FC,Away",
+            "tackles": "8/16[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "25/9[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "4/2[A]",
+            "dribblesAttempted": "10/3[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "1/1[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/25[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Magesi,Chippa Utd,Away",
+            "tackles": "11/9[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "23/22[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "5/13[A]",
+            "dribblesAttempted": "10/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "3/13[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "1/3[A]",
+            "throwIns": "19/15[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Magesi,ORBIT College,Away",
+            "tackles": "13/17[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "26/11[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "13/9[A]",
+            "dribblesAttempted": "22/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/2[H]",
+            "fouls": "14/9[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "2/4[H]",
+            "offsides": "6/0[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "25/24[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Magesi,TS Galaxy,Home",
+            "tackles": "20/13[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "25/31[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "11/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "7/3[A]",
+            "saves": "6/1[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "27/24[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Magesi,Durban City,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "34/33[A]",
+            "aerialDuelsAttempted": "67/67[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "10/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "17/11[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "3/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "27/37[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Magesi,Siwelele FC,Home",
+            "tackles": "12/19[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "39/28[H]",
+            "aerialDuelsAttempted": "67/67[H]",
+            "dribbles": "5/1[H]",
+            "dribblesAttempted": "18/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "6/20[H]",
+            "saves": "0/0[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "36/20[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Magesi,AmaZulu,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "11/11[H]",
+            "aerialDuels": "24/14[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "8/10[H]",
+            "dribblesAttempted": "12/13[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:14:32.499Z",
+    "endTime": "2026-01-31T13:14:57.241Z",
+    "totalTimeSeconds": 24.74,
+    "combinedMatchStatistics": {
+        "corners": "7/2[H]+6/7[A]+4/3[A]+7/2[A]+10/2[H]+2/3[A]+2/2[H]+3/2[H]",
+        "fouls": "12/17[H]+10/11[A]+15/13[A]+12/13[A]+14/9[H]+16/11[A]+17/11[H]+11/14[H]",
+        "goalKicks": "7/9[H]+7/12[A]+6/9[A]+3/13[A]+8/4[H]+7/3[A]+9/7[H]+6/20[H]",
+        "saves": "1/3[H]+5/1[A]+1/1[A]+2/4[A]+2/4[H]+6/1[A]+3/4[H]+0/0[H]",
+        "offsides": "1/1[H]+1/2[A]+2/4[A]+2/1[A]+6/0[H]+5/2[A]+0/1[H]+0/3[H]",
+        "shotsOnTarget": "4/2[H]+1/6[A]+1/1[A]+5/5[A]+7/3[H]+2/8[A]+6/3[H]+1/1[H]",
+        "yellowCards": "3/3[H]+1/1[A]+2/2[A]+1/5[A]+1/3[H]+2/1[A]+5/2[H]+3/3[H]",
+        "goals": "0/1[H]+1/1[A]+0/0[A]+1/3[A]+2/1[H]+1/3[A]+2/0[H]+1/1[H]",
+        "throwIns": "37/26[H]+23/23[A]+24/25[A]+19/15[A]+25/24[H]+27/24[A]+27/37[H]+36/20[H]",
+        "averageBallPossession": "61/39[H]+48/52[A]+41/59[A]+60/40[A]+51/49[H]+40/60[A]+61/39[H]+63/37[H]",
+        "teams": "Magesi,Sekhukhune,Home+Magesi,Marumo Gallants FC,Away+Magesi,Chippa Utd,Away+Magesi,ORBIT College,Away+Magesi,TS Galaxy,Home+Magesi,Durban City,Away+Magesi,Siwelele FC,Home+Magesi,AmaZulu,Home",
+        "tackles": "19/11[H]+8/16[A]+11/9[A]+13/17[A]+20/13[H]+15/12[A]+12/19[H]+13/12[H]",
+        "interceptions": "10/11[H]+12/11[A]+9/4[A]+8/9[A]+10/6[H]+10/13[A]+10/10[H]+11/11[H]",
+        "aerialDuels": "28/27[H]+25/9[A]+23/22[A]+26/11[A]+25/31[H]+34/33[A]+39/28[H]+24/14[H]",
+        "aerialDuelsAttempted": "55/55[H]+34/34[A]+45/45[A]+37/37[A]+56/56[H]+67/67[A]+67/67[H]+38/38[H]",
+        "dribbles": "8/2[H]+4/2[A]+5/13[A]+13/9[A]+7/8[H]+7/8[A]+5/1[H]+8/10[H]",
+        "dribblesAttempted": "10/9[H]+10/3[A]+10/16[A]+22/16[A]+11/20[H]+10/17[A]+18/5[H]+12/13[H]",
+        "isHome": "true+false+false+false+true+false+true+true",
+        "cornersTotals": "41/23",
+        "cornersTotalsHome": "22/8",
+        "cornersTotalsAway": "19/15",
+        "cornersAverage": "5.13/2.88",
+        "cornersAverageHome": "5.50/2.00",
+        "cornersAverageAway": "4.75/3.75",
+        "foulsTotals": "107/99",
+        "foulsTotalsHome": "54/51",
+        "foulsTotalsAway": "53/48",
+        "foulsAverage": "13.38/12.38",
+        "foulsAverageHome": "13.50/12.75",
+        "foulsAverageAway": "13.25/12.00",
+        "goalKicksTotals": "53/77",
+        "goalKicksTotalsHome": "30/40",
+        "goalKicksTotalsAway": "23/37",
+        "goalKicksAverage": "6.63/9.63",
+        "goalKicksAverageHome": "7.50/10.00",
+        "goalKicksAverageAway": "5.75/9.25",
+        "savesTotals": "20/18",
+        "savesTotalsHome": "6/11",
+        "savesTotalsAway": "14/7",
+        "savesAverage": "2.50/2.25",
+        "savesAverageHome": "1.50/2.75",
+        "savesAverageAway": "3.50/1.75",
+        "offsidesTotals": "17/14",
+        "offsidesTotalsHome": "7/5",
+        "offsidesTotalsAway": "10/9",
+        "offsidesAverage": "2.13/1.75",
+        "offsidesAverageHome": "1.75/1.25",
+        "offsidesAverageAway": "2.50/2.25",
+        "shotsOnTargetTotals": "27/29",
+        "shotsOnTargetTotalsHome": "18/9",
+        "shotsOnTargetTotalsAway": "9/20",
+        "shotsOnTargetAverage": "3.38/3.63",
+        "shotsOnTargetAverageHome": "4.50/2.25",
+        "shotsOnTargetAverageAway": "2.25/5.00",
+        "yellowCardsTotals": "18/20",
+        "yellowCardsTotalsHome": "12/11",
+        "yellowCardsTotalsAway": "6/9",
+        "yellowCardsAverage": "2.25/2.50",
+        "yellowCardsAverageHome": "3.00/2.75",
+        "yellowCardsAverageAway": "1.50/2.25",
+        "goalsTotals": "8/10",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "3/7",
+        "goalsAverage": "1.00/1.25",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "0.75/1.75",
+        "throwInsTotals": "218/194",
+        "throwInsTotalsHome": "125/107",
+        "throwInsTotalsAway": "93/87",
+        "throwInsAverage": "27.25/24.25",
+        "throwInsAverageHome": "31.25/26.75",
+        "throwInsAverageAway": "23.25/21.75",
+        "averageBallPossessionTotals": "425/375",
+        "averageBallPossessionTotalsHome": "236/164",
+        "averageBallPossessionTotalsAway": "189/211",
+        "averageBallPossessionAverage": "53.13/46.88",
+        "averageBallPossessionAverageHome": "59.00/41.00",
+        "averageBallPossessionAverageAway": "47.25/52.75",
+        "tacklesTotals": "111/109",
+        "tacklesTotalsHome": "64/55",
+        "tacklesTotalsAway": "47/54",
+        "tacklesAverage": "13.88/13.63",
+        "tacklesAverageHome": "16.00/13.75",
+        "tacklesAverageAway": "11.75/13.50",
+        "interceptionsTotals": "80/75",
+        "interceptionsTotalsHome": "41/38",
+        "interceptionsTotalsAway": "39/37",
+        "interceptionsAverage": "10.00/9.38",
+        "interceptionsAverageHome": "10.25/9.50",
+        "interceptionsAverageAway": "9.75/9.25",
+        "aerialDuelsTotals": "224/175",
+        "aerialDuelsTotalsHome": "116/100",
+        "aerialDuelsTotalsAway": "108/75",
+        "aerialDuelsAverage": "28.00/21.88",
+        "aerialDuelsAverageHome": "29.00/25.00",
+        "aerialDuelsAverageAway": "27.00/18.75",
+        "aerialDuelsAttemptedTotals": "399/399",
+        "aerialDuelsAttemptedTotalsHome": "216/216",
+        "aerialDuelsAttemptedTotalsAway": "183/183",
+        "aerialDuelsAttemptedAverage": "49.88/49.88",
+        "aerialDuelsAttemptedAverageHome": "54.00/54.00",
+        "aerialDuelsAttemptedAverageAway": "45.75/45.75",
+        "dribblesTotals": "57/53",
+        "dribblesTotalsHome": "28/21",
+        "dribblesTotalsAway": "29/32",
+        "dribblesAverage": "7.13/6.63",
+        "dribblesAverageHome": "7.00/5.25",
+        "dribblesAverageAway": "7.25/8.00",
+        "dribblesAttemptedTotals": "103/99",
+        "dribblesAttemptedTotalsHome": "51/47",
+        "dribblesAttemptedTotalsAway": "52/52",
+        "dribblesAttemptedAverage": "12.88/12.38",
+        "dribblesAttemptedAverageHome": "12.75/11.75",
+        "dribblesAttemptedAverageAway": "13.00/13.00"
+    }
+}

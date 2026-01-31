@@ -14,8 +14,8 @@
         "interceptions": "7.11/6.17",
         "aerialDuels": "15.83",
         "aerialDuelsAttempted": "31.61",
-        "dribbles": "6.67/6.83",
-        "dribblesAttempted": "13.61/12.61"
+        "dribbles": "6.67/6.78",
+        "dribblesAttempted": "13.61/12.56"
     },
     "teamSlug": "aris-thessaloniki",
     "teamId": "3252",
@@ -170,8 +170,8 @@
             "interceptions": "10/4[H]",
             "aerialDuels": "18/9[H]",
             "aerialDuelsAttempted": "27/27[H]",
-            "dribbles": "10/10[H]",
-            "dribblesAttempted": "18/16[H]",
+            "dribbles": "10/9[H]",
+            "dribblesAttempted": "18/15[H]",
             "isHome": true
         },
         {
@@ -316,9 +316,19 @@
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-25T16:08:44.004Z",
-    "endTime": "2026-01-25T16:09:08.960Z",
-    "totalTimeSeconds": 24.96,
+    "startTime": "2026-01-31T12:04:48.366Z",
+    "timeouts": {
+        "https://www.sofascore.com/football/match/aris-thessaloniki-paok/bpbscpb#id:14152038,tab:statistics": {
+            "_idleTimeout": 3000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 911454,
+            "_repeat": null,
+            "_destroyed": true
+        }
+    },
+    "endTime": "2026-01-31T12:05:17.182Z",
+    "totalTimeSeconds": 28.82,
     "combinedMatchStatistics": {
         "corners": "7/6[H]+6/4[A]+7/6[H]+3/7[A]+3/5[H]+2/7[A]+7/0[H]+1/10[A]",
         "fouls": "17/15[H]+21/26[A]+18/14[H]+19/12[A]+7/12[H]+11/11[A]+14/21[H]+11/13[A]",
@@ -335,8 +345,8 @@
         "interceptions": "10/4[H]+8/9[A]+9/7[H]+7/9[A]+6/11[H]+7/5[A]+7/6[H]+10/7[A]",
         "aerialDuels": "18/9[H]+12/18[A]+10/20[H]+23/19[A]+17/24[H]+13/20[A]+17/16[H]+18/15[A]",
         "aerialDuelsAttempted": "27/27[H]+30/30[A]+30/30[H]+42/42[A]+41/41[H]+33/33[A]+33/33[H]+33/33[A]",
-        "dribbles": "10/10[H]+2/8[A]+8/10[H]+6/8[A]+6/5[H]+7/8[A]+5/5[H]+5/9[A]",
-        "dribblesAttempted": "18/16[H]+9/13[A]+18/16[H]+19/17[A]+9/16[H]+14/13[A]+10/9[H]+10/18[A]",
+        "dribbles": "10/9[H]+2/8[A]+8/10[H]+6/8[A]+6/5[H]+7/8[A]+5/5[H]+5/9[A]",
+        "dribblesAttempted": "18/15[H]+9/13[A]+18/16[H]+19/17[A]+9/16[H]+14/13[A]+10/9[H]+10/18[A]",
         "isHome": "true+false+true+false+true+false+true+false",
         "cornersTotals": "36/45",
         "cornersTotalsHome": "24/17",
@@ -422,17 +432,17 @@
         "aerialDuelsAttemptedAverage": "33.63/33.63",
         "aerialDuelsAttemptedAverageHome": "32.75/32.75",
         "aerialDuelsAttemptedAverageAway": "34.50/34.50",
-        "dribblesTotals": "49/63",
-        "dribblesTotalsHome": "29/30",
+        "dribblesTotals": "49/62",
+        "dribblesTotalsHome": "29/29",
         "dribblesTotalsAway": "20/33",
-        "dribblesAverage": "6.13/7.88",
-        "dribblesAverageHome": "7.25/7.50",
+        "dribblesAverage": "6.13/7.75",
+        "dribblesAverageHome": "7.25/7.25",
         "dribblesAverageAway": "5.00/8.25",
-        "dribblesAttemptedTotals": "107/118",
-        "dribblesAttemptedTotalsHome": "55/57",
+        "dribblesAttemptedTotals": "107/117",
+        "dribblesAttemptedTotalsHome": "55/56",
         "dribblesAttemptedTotalsAway": "52/61",
-        "dribblesAttemptedAverage": "13.38/14.75",
-        "dribblesAttemptedAverageHome": "13.75/14.25",
+        "dribblesAttemptedAverage": "13.38/14.63",
+        "dribblesAttemptedAverageHome": "13.75/14.00",
         "dribblesAttemptedAverageAway": "13.00/15.25"
     }
 }

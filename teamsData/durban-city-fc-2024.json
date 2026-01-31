@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.94",
+        "fouls": "14.00",
+        "goalKicks": "8.31",
+        "saves": "1.94",
+        "offsides": "2.38",
+        "shotsOnTarget": "2.94/2.56",
+        "yellowCards": "1.13/1.63",
+        "goals": "0.94/0.69",
+        "throwIns": "26.56",
+        "ballPossession": 46.875,
+        "tackles": "15.75/15.50",
+        "interceptions": "9.56/9.94",
+        "aerialDuels": "24.81",
+        "aerialDuelsAttempted": "51.13",
+        "dribbles": "5.56/7.38",
+        "dribblesAttempted": "12.88/13.94"
+    },
+    "teamSlug": "durban-city-fc-2024",
+    "teamId": "829159",
+    "teamName": "Durban City FC",
+    "tournament": "South African Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-polokwane-city/caksjIGg#id:14372238,tab:statistics",
+            "teams": [
+                "Durban City",
+                "Polokwane"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "829159",
+                "25002"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-orbit-college-fc/tqkcsjIGg#id:14372240,tab:statistics",
+            "teams": [
+                "ORBIT College",
+                "Durban City"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "275818",
+                "829159"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-orlando-pirates/tddsjIGg#id:14372230,tab:statistics",
+            "teams": [
+                "Durban City ",
+                "Orlando Pirates"
+            ],
+            "goals": [
+                "0",
+                "2"
+            ],
+            "teamIds": [
+                "829159",
+                "7668"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-richards-bay-fc/ElfcsjIGg#id:14366008,tab:statistics",
+            "teams": [
+                "Richards Bay FC",
+                "Durban City"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "263079",
+                "829159"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-marumo-gallants-fc/ClfcsjIGg#id:14372234,tab:statistics",
+            "teams": [
+                "Durban City",
+                "Marumo Gallants FC"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "829159",
+                "263077"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-kaizer-chiefs/nddsjIGg#id:14372232,tab:statistics",
+            "teams": [
+                "Durban City",
+                "Kaizer Chiefs"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "829159",
+                "7663"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-amazulu-fc/fddsjIGg#id:14365990,tab:statistics",
+            "teams": [
+                "AmaZulu",
+                "Durban City"
+            ],
+            "goals": [
+                "1",
+                "0"
+            ],
+            "teamIds": [
+                "7655",
+                "829159"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-stellenbosch/fwrsjIGg#id:14338643,tab:statistics",
+            "teams": [
+                "Stellenbosch",
+                "Durban City"
+            ],
+            "goals": [
+                "0",
+                "0"
+            ],
+            "teamIds": [
+                "43555",
+                "829159"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/4[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "12/10[H]",
+            "saves": "1/4[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "5/0[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "26/24[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Durban City,Polokwane,Home",
+            "tackles": "22/12[H]",
+            "interceptions": "5/17[H]",
+            "aerialDuels": "20/21[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "10/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "24/13[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "3/0[A]",
+            "throwIns": "25/20[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Durban City,ORBIT College,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "24/32[A]",
+            "aerialDuelsAttempted": "56/56[A]",
+            "dribbles": "7/2[A]",
+            "dribblesAttempted": "13/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/2[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "2/1[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "19/22[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Durban City ,Orlando Pirates,Home",
+            "tackles": "26/30[H]",
+            "interceptions": "14/11[H]",
+            "aerialDuels": "15/19[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "21/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "16/13[A]",
+            "goalKicks": "10/15[A]",
+            "saves": "3/0[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "0/2[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "31/29[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Durban City,Richards Bay FC,Away",
+            "tackles": "12/19[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "27/25[A]",
+            "aerialDuelsAttempted": "52/52[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "16/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "11/15[H]",
+            "saves": "3/6[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "26/26[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Durban City,Marumo Gallants FC,Home",
+            "tackles": "18/15[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "32/31[H]",
+            "aerialDuelsAttempted": "63/63[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "11/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/4[H]",
+            "fouls": "19/11[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "2/0[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "0/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "21/25[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Durban City,Kaizer Chiefs,Home",
+            "tackles": "24/12[H]",
+            "interceptions": "16/8[H]",
+            "aerialDuels": "24/26[H]",
+            "aerialDuelsAttempted": "50/50[H]",
+            "dribbles": "2/9[H]",
+            "dribblesAttempted": "7/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "13/9[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/26[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Durban City,AmaZulu,Away",
+            "tackles": "17/16[A]",
+            "interceptions": "6/11[A]",
+            "aerialDuels": "14/8[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "14/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "18/10[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/7[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "19/39[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Durban City,Stellenbosch,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "26/17[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:11:29.643Z",
+    "endTime": "2026-01-31T13:12:00.738Z",
+    "totalTimeSeconds": 31.09,
+    "combinedMatchStatistics": {
+        "corners": "4/4[H]+3/5[A]+1/2[H]+4/4[A]+4/5[H]+0/4[H]+5/1[A]+6/3[A]",
+        "fouls": "12/11[H]+24/13[A]+14/16[H]+16/13[A]+10/16[H]+19/11[H]+13/9[A]+18/10[A]",
+        "goalKicks": "12/10[H]+10/9[A]+6/13[H]+10/15[A]+11/15[H]+10/9[H]+11/11[A]+11/11[A]",
+        "saves": "1/4[H]+3/3[A]+2/1[H]+3/0[A]+3/6[H]+2/0[H]+2/1[A]+1/2[A]",
+        "offsides": "3/0[H]+0/3[A]+4/1[H]+2/2[A]+2/3[H]+2/2[H]+2/4[A]+1/7[A]",
+        "shotsOnTarget": "5/0[H]+5/3[A]+1/4[H]+0/2[A]+7/2[H]+0/3[H]+1/3[A]+2/1[A]",
+        "yellowCards": "0/0[H]+1/3[A]+3/3[H]+0/0[A]+2/3[H]+1/3[H]+2/1[A]+1/3[A]",
+        "goals": "1/0[H]+3/0[A]+0/2[H]+0/0[A]+1/0[H]+0/1[H]+0/1[A]+0/0[A]",
+        "throwIns": "26/24[H]+25/20[A]+19/22[H]+31/29[A]+26/26[H]+21/25[H]+21/26[A]+19/39[A]",
+        "averageBallPossession": "51/49[H]+61/39[A]+43/57[H]+46/54[A]+59/41[H]+33/67[H]+57/43[A]+38/62[A]",
+        "teams": "Durban City,Polokwane,Home+Durban City,ORBIT College,Away+Durban City ,Orlando Pirates,Home+Durban City,Richards Bay FC,Away+Durban City,Marumo Gallants FC,Home+Durban City,Kaizer Chiefs,Home+Durban City,AmaZulu,Away+Durban City,Stellenbosch,Away",
+        "tackles": "22/12[H]+10/12[A]+26/30[H]+12/19[A]+18/15[H]+24/12[H]+17/16[A]+13/14[A]",
+        "interceptions": "5/17[H]+4/9[A]+14/11[H]+7/10[A]+7/11[H]+16/8[H]+6/11[A]+13/7[A]",
+        "aerialDuels": "20/21[H]+24/32[A]+15/19[H]+27/25[A]+32/31[H]+24/26[H]+14/8[A]+26/17[A]",
+        "aerialDuelsAttempted": "41/41[H]+56/56[A]+34/34[H]+52/52[A]+63/63[H]+50/50[H]+22/22[A]+43/43[A]",
+        "dribbles": "6/10[H]+7/2[A]+7/10[H]+5/11[A]+6/7[H]+2/9[H]+9/8[A]+6/7[A]",
+        "dribblesAttempted": "10/14[H]+13/6[A]+21/25[H]+16/17[A]+11/11[H]+7/15[H]+14/18[A]+11/11[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "27/28",
+        "cornersTotalsHome": "9/15",
+        "cornersTotalsAway": "18/13",
+        "cornersAverage": "3.38/3.50",
+        "cornersAverageHome": "2.25/3.75",
+        "cornersAverageAway": "4.50/3.25",
+        "foulsTotals": "126/99",
+        "foulsTotalsHome": "55/54",
+        "foulsTotalsAway": "71/45",
+        "foulsAverage": "15.75/12.38",
+        "foulsAverageHome": "13.75/13.50",
+        "foulsAverageAway": "17.75/11.25",
+        "goalKicksTotals": "81/93",
+        "goalKicksTotalsHome": "39/47",
+        "goalKicksTotalsAway": "42/46",
+        "goalKicksAverage": "10.13/11.63",
+        "goalKicksAverageHome": "9.75/11.75",
+        "goalKicksAverageAway": "10.50/11.50",
+        "savesTotals": "17/17",
+        "savesTotalsHome": "8/11",
+        "savesTotalsAway": "9/6",
+        "savesAverage": "2.13/2.13",
+        "savesAverageHome": "2.00/2.75",
+        "savesAverageAway": "2.25/1.50",
+        "offsidesTotals": "16/22",
+        "offsidesTotalsHome": "11/6",
+        "offsidesTotalsAway": "5/16",
+        "offsidesAverage": "2.00/2.75",
+        "offsidesAverageHome": "2.75/1.50",
+        "offsidesAverageAway": "1.25/4.00",
+        "shotsOnTargetTotals": "21/18",
+        "shotsOnTargetTotalsHome": "13/9",
+        "shotsOnTargetTotalsAway": "8/9",
+        "shotsOnTargetAverage": "2.63/2.25",
+        "shotsOnTargetAverageHome": "3.25/2.25",
+        "shotsOnTargetAverageAway": "2.00/2.25",
+        "yellowCardsTotals": "10/16",
+        "yellowCardsTotalsHome": "6/9",
+        "yellowCardsTotalsAway": "4/7",
+        "yellowCardsAverage": "1.25/2.00",
+        "yellowCardsAverageHome": "1.50/2.25",
+        "yellowCardsAverageAway": "1.00/1.75",
+        "goalsTotals": "5/4",
+        "goalsTotalsHome": "2/3",
+        "goalsTotalsAway": "3/1",
+        "goalsAverage": "0.63/0.50",
+        "goalsAverageHome": "0.50/0.75",
+        "goalsAverageAway": "0.75/0.25",
+        "throwInsTotals": "188/211",
+        "throwInsTotalsHome": "92/97",
+        "throwInsTotalsAway": "96/114",
+        "throwInsAverage": "23.50/26.38",
+        "throwInsAverageHome": "23.00/24.25",
+        "throwInsAverageAway": "24.00/28.50",
+        "averageBallPossessionTotals": "388/412",
+        "averageBallPossessionTotalsHome": "186/214",
+        "averageBallPossessionTotalsAway": "202/198",
+        "averageBallPossessionAverage": "48.50/51.50",
+        "averageBallPossessionAverageHome": "46.50/53.50",
+        "averageBallPossessionAverageAway": "50.50/49.50",
+        "tacklesTotals": "142/130",
+        "tacklesTotalsHome": "90/69",
+        "tacklesTotalsAway": "52/61",
+        "tacklesAverage": "17.75/16.25",
+        "tacklesAverageHome": "22.50/17.25",
+        "tacklesAverageAway": "13.00/15.25",
+        "interceptionsTotals": "72/84",
+        "interceptionsTotalsHome": "42/47",
+        "interceptionsTotalsAway": "30/37",
+        "interceptionsAverage": "9.00/10.50",
+        "interceptionsAverageHome": "10.50/11.75",
+        "interceptionsAverageAway": "7.50/9.25",
+        "aerialDuelsTotals": "182/179",
+        "aerialDuelsTotalsHome": "91/97",
+        "aerialDuelsTotalsAway": "91/82",
+        "aerialDuelsAverage": "22.75/22.38",
+        "aerialDuelsAverageHome": "22.75/24.25",
+        "aerialDuelsAverageAway": "22.75/20.50",
+        "aerialDuelsAttemptedTotals": "361/361",
+        "aerialDuelsAttemptedTotalsHome": "188/188",
+        "aerialDuelsAttemptedTotalsAway": "173/173",
+        "aerialDuelsAttemptedAverage": "45.13/45.13",
+        "aerialDuelsAttemptedAverageHome": "47.00/47.00",
+        "aerialDuelsAttemptedAverageAway": "43.25/43.25",
+        "dribblesTotals": "48/64",
+        "dribblesTotalsHome": "21/36",
+        "dribblesTotalsAway": "27/28",
+        "dribblesAverage": "6.00/8.00",
+        "dribblesAverageHome": "5.25/9.00",
+        "dribblesAverageAway": "6.75/7.00",
+        "dribblesAttemptedTotals": "103/117",
+        "dribblesAttemptedTotalsHome": "49/65",
+        "dribblesAttemptedTotalsAway": "54/52",
+        "dribblesAttemptedAverage": "12.88/14.63",
+        "dribblesAttemptedAverageHome": "12.25/16.25",
+        "dribblesAttemptedAverageAway": "13.50/13.00"
+    }
+}

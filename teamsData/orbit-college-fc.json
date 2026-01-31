@@ -1,0 +1,438 @@
+{
+    "globalStatistics": {
+        "corners": "3.88",
+        "fouls": "12.25",
+        "goalKicks": "8.00",
+        "saves": "3.69",
+        "offsides": "2.81",
+        "shotsOnTarget": "2.69/5.44",
+        "yellowCards": "1.81/1.06",
+        "goals": "0.75/1.75",
+        "throwIns": "21.13",
+        "ballPossession": 41.9375,
+        "tackles": "14.31/13.50",
+        "interceptions": "9.31/9.25",
+        "aerialDuels": "13.88",
+        "aerialDuelsAttempted": "31.38",
+        "dribbles": "5.56/8.56",
+        "dribblesAttempted": "11.19/15.19"
+    },
+    "teamSlug": "orbit-college-fc",
+    "teamId": "275818",
+    "teamName": "ORBIT College FC",
+    "tournament": "South African Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-chippa-united/WtDstqkc#id:14372241,tab:statistics",
+            "teams": [
+                "ORBIT College",
+                "Chippa Utd"
+            ],
+            "goals": [
+                "0",
+                "1"
+            ],
+            "teamIds": [
+                "275818",
+                "70946"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-mamelodi-sundowns/pddstqkc#id:15153898,tab:statistics",
+            "teams": [
+                "Sundowns",
+                "ORBIT College"
+            ],
+            "goals": [
+                "2",
+                "0"
+            ],
+            "teamIds": [
+                "7665",
+                "275818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/durban-city-fc-orbit-college-fc/tqkcsjIGg#id:14372240,tab:statistics",
+            "teams": [
+                "ORBIT College",
+                "Durban City"
+            ],
+            "goals": [
+                "0",
+                "3"
+            ],
+            "teamIds": [
+                "275818",
+                "829159"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-stellenbosch/fwrstqkc#id:14372222,tab:statistics",
+            "teams": [
+                "ORBIT College",
+                "Stellenbosch"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "275818",
+                "43555"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-kaizer-chiefs/nddstqkc#id:14366004,tab:statistics",
+            "teams": [
+                "Kaizer Chiefs",
+                "ORBIT College"
+            ],
+            "goals": [
+                "4",
+                "1"
+            ],
+            "teamIds": [
+                "7663",
+                "275818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-magesi-fc/UqLstqkc#id:14372226,tab:statistics",
+            "teams": [
+                "ORBIT College",
+                "Magesi"
+            ],
+            "goals": [
+                "3",
+                "1"
+            ],
+            "teamIds": [
+                "275818",
+                "90844"
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-richards-bay-fc/Elfcstqkc#id:14365988,tab:statistics",
+            "teams": [
+                "Richards Bay FC",
+                "ORBIT College"
+            ],
+            "goals": [
+                "1",
+                "2"
+            ],
+            "teamIds": [
+                "263079",
+                "275818"
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orbit-college-fc-lamontville-golden-arrows/oddstqkc#id:14365983,tab:statistics",
+            "teams": [
+                "Golden Arrows",
+                "ORBIT College"
+            ],
+            "goals": [
+                "3",
+                "0"
+            ],
+            "teamIds": [
+                "7664",
+                "275818"
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/1[H]",
+            "fouls": "14/7[H]",
+            "goalKicks": "11/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/1[H]",
+            "throwIns": "11/21[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "ORBIT College,Chippa Utd,Home",
+            "tackles": "15/12[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "6/19[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "10/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/4[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "3/0[A]",
+            "offsides": "7/1[A]",
+            "shotsOnTarget": "0/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "25/75[A]",
+            "teams": "ORBIT College,Sundowns,Away",
+            "tackles": "18/13[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "1/4[A]",
+            "aerialDuelsAttempted": "5/5[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "7/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "13/24[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "3/3[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "20/25[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "ORBIT College,Durban City,Home",
+            "tackles": "12/10[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "32/24[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "6/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[H]",
+            "fouls": "10/15[H]",
+            "goalKicks": "14/6[H]",
+            "saves": "5/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "21/23[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "ORBIT College,Stellenbosch,Home",
+            "tackles": "8/4[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "20/21[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "4/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "13/7[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "3/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/4[A]",
+            "throwIns": "10/20[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "ORBIT College,Kaizer Chiefs,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "10/3[A]",
+            "aerialDuels": "4/9[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "5/13[A]",
+            "dribblesAttempted": "11/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "13/3[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "15/19[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "ORBIT College,Magesi,Home",
+            "tackles": "17/13[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "11/26[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "9/13[H]",
+            "dribblesAttempted": "16/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/5[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "6/0[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "27/36[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "ORBIT College,Richards Bay FC,Away",
+            "tackles": "14/18[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "33/30[A]",
+            "aerialDuelsAttempted": "63/63[A]",
+            "dribbles": "5/8[A]",
+            "dribblesAttempted": "10/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "16/6[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "3/5[A]",
+            "offsides": "5/4[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "18/15[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "ORBIT College,Golden Arrows,Away",
+            "tackles": "22/19[A]",
+            "interceptions": "17/16[A]",
+            "aerialDuels": "13/5[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "15/17[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "startTime": "2026-01-31T13:15:43.094Z",
+    "endTime": "2026-01-31T13:16:29.124Z",
+    "totalTimeSeconds": 46.03,
+    "combinedMatchStatistics": {
+        "corners": "4/1[H]+0/4[A]+5/3[H]+1/8[H]+5/4[A]+2/7[H]+1/5[A]+4/3[A]",
+        "fouls": "14/7[H]+10/14[A]+13/24[H]+10/15[H]+13/7[A]+13/12[H]+11/13[A]+16/6[A]",
+        "goalKicks": "11/9[H]+7/6[A]+9/10[H]+14/6[H]+9/5[A]+13/3[H]+6/5[A]+7/8[A]",
+        "saves": "5/1[H]+3/0[A]+3/3[H]+5/1[H]+3/4[A]+4/2[H]+6/0[A]+3/5[A]",
+        "offsides": "3/3[H]+7/1[A]+3/0[H]+0/1[H]+1/2[A]+1/2[H]+3/2[A]+5/4[A]",
+        "shotsOnTarget": "1/6[H]+0/6[A]+3/5[H]+2/7[H]+6/7[A]+5/5[H]+2/7[A]+5/6[A]",
+        "yellowCards": "2/0[H]+2/3[A]+3/1[H]+1/3[H]+1/0[A]+5/1[H]+5/2[A]+3/1[A]",
+        "goals": "0/1[H]+0/2[A]+0/3[H]+1/2[H]+1/4[A]+3/1[H]+2/1[A]+0/3[A]",
+        "throwIns": "11/21[H]+13/18[A]+20/25[H]+21/23[H]+10/20[A]+15/19[H]+27/36[A]+18/15[A]",
+        "averageBallPossession": "52/48[H]+25/75[A]+39/61[H]+39/61[H]+41/59[A]+40/60[H]+39/61[A]+45/55[A]",
+        "teams": "ORBIT College,Chippa Utd,Home+ORBIT College,Sundowns,Away+ORBIT College,Durban City,Home+ORBIT College,Stellenbosch,Home+ORBIT College,Kaizer Chiefs,Away+ORBIT College,Magesi,Home+ORBIT College,Richards Bay FC,Away+ORBIT College,Golden Arrows,Away",
+        "tackles": "15/12[H]+18/13[A]+12/10[H]+8/4[H]+10/12[A]+17/13[H]+14/18[A]+22/19[A]",
+        "interceptions": "9/7[H]+6/6[A]+9/4[H]+7/7[H]+10/3[A]+9/8[H]+6/8[A]+17/16[A]",
+        "aerialDuels": "6/19[H]+1/4[A]+32/24[H]+20/21[H]+4/9[A]+11/26[H]+33/30[A]+13/5[A]",
+        "aerialDuelsAttempted": "25/25[H]+5/5[A]+56/56[H]+41/41[H]+13/13[A]+37/37[H]+63/63[A]+18/18[A]",
+        "dribbles": "5/3[H]+4/8[A]+2/7[H]+2/8[H]+5/13[A]+9/13[H]+5/8[A]+8/9[A]",
+        "dribblesAttempted": "10/9[H]+7/17[A]+6/13[H]+4/13[H]+11/19[A]+16/22[H]+10/12[A]+15/17[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "22/35",
+        "cornersTotalsHome": "12/19",
+        "cornersTotalsAway": "10/16",
+        "cornersAverage": "2.75/4.38",
+        "cornersAverageHome": "3.00/4.75",
+        "cornersAverageAway": "2.50/4.00",
+        "foulsTotals": "100/98",
+        "foulsTotalsHome": "50/58",
+        "foulsTotalsAway": "50/40",
+        "foulsAverage": "12.50/12.25",
+        "foulsAverageHome": "12.50/14.50",
+        "foulsAverageAway": "12.50/10.00",
+        "goalKicksTotals": "76/52",
+        "goalKicksTotalsHome": "47/28",
+        "goalKicksTotalsAway": "29/24",
+        "goalKicksAverage": "9.50/6.50",
+        "goalKicksAverageHome": "11.75/7.00",
+        "goalKicksAverageAway": "7.25/6.00",
+        "savesTotals": "32/16",
+        "savesTotalsHome": "17/7",
+        "savesTotalsAway": "15/9",
+        "savesAverage": "4.00/2.00",
+        "savesAverageHome": "4.25/1.75",
+        "savesAverageAway": "3.75/2.25",
+        "offsidesTotals": "23/15",
+        "offsidesTotalsHome": "7/6",
+        "offsidesTotalsAway": "16/9",
+        "offsidesAverage": "2.88/1.88",
+        "offsidesAverageHome": "1.75/1.50",
+        "offsidesAverageAway": "4.00/2.25",
+        "shotsOnTargetTotals": "24/49",
+        "shotsOnTargetTotalsHome": "11/23",
+        "shotsOnTargetTotalsAway": "13/26",
+        "shotsOnTargetAverage": "3.00/6.13",
+        "shotsOnTargetAverageHome": "2.75/5.75",
+        "shotsOnTargetAverageAway": "3.25/6.50",
+        "yellowCardsTotals": "22/11",
+        "yellowCardsTotalsHome": "11/5",
+        "yellowCardsTotalsAway": "11/6",
+        "yellowCardsAverage": "2.75/1.38",
+        "yellowCardsAverageHome": "2.75/1.25",
+        "yellowCardsAverageAway": "2.75/1.50",
+        "goalsTotals": "7/17",
+        "goalsTotalsHome": "4/7",
+        "goalsTotalsAway": "3/10",
+        "goalsAverage": "0.88/2.13",
+        "goalsAverageHome": "1.00/1.75",
+        "goalsAverageAway": "0.75/2.50",
+        "throwInsTotals": "135/177",
+        "throwInsTotalsHome": "67/88",
+        "throwInsTotalsAway": "68/89",
+        "throwInsAverage": "16.88/22.13",
+        "throwInsAverageHome": "16.75/22.00",
+        "throwInsAverageAway": "17.00/22.25",
+        "averageBallPossessionTotals": "320/480",
+        "averageBallPossessionTotalsHome": "170/230",
+        "averageBallPossessionTotalsAway": "150/250",
+        "averageBallPossessionAverage": "40.00/60.00",
+        "averageBallPossessionAverageHome": "42.50/57.50",
+        "averageBallPossessionAverageAway": "37.50/62.50",
+        "tacklesTotals": "116/101",
+        "tacklesTotalsHome": "52/39",
+        "tacklesTotalsAway": "64/62",
+        "tacklesAverage": "14.50/12.63",
+        "tacklesAverageHome": "13.00/9.75",
+        "tacklesAverageAway": "16.00/15.50",
+        "interceptionsTotals": "73/59",
+        "interceptionsTotalsHome": "34/26",
+        "interceptionsTotalsAway": "39/33",
+        "interceptionsAverage": "9.13/7.38",
+        "interceptionsAverageHome": "8.50/6.50",
+        "interceptionsAverageAway": "9.75/8.25",
+        "aerialDuelsTotals": "120/138",
+        "aerialDuelsTotalsHome": "69/90",
+        "aerialDuelsTotalsAway": "51/48",
+        "aerialDuelsAverage": "15.00/17.25",
+        "aerialDuelsAverageHome": "17.25/22.50",
+        "aerialDuelsAverageAway": "12.75/12.00",
+        "aerialDuelsAttemptedTotals": "258/258",
+        "aerialDuelsAttemptedTotalsHome": "159/159",
+        "aerialDuelsAttemptedTotalsAway": "99/99",
+        "aerialDuelsAttemptedAverage": "32.25/32.25",
+        "aerialDuelsAttemptedAverageHome": "39.75/39.75",
+        "aerialDuelsAttemptedAverageAway": "24.75/24.75",
+        "dribblesTotals": "40/69",
+        "dribblesTotalsHome": "18/31",
+        "dribblesTotalsAway": "22/38",
+        "dribblesAverage": "5.00/8.63",
+        "dribblesAverageHome": "4.50/7.75",
+        "dribblesAverageAway": "5.50/9.50",
+        "dribblesAttemptedTotals": "79/122",
+        "dribblesAttemptedTotalsHome": "36/57",
+        "dribblesAttemptedTotalsAway": "43/65",
+        "dribblesAttemptedAverage": "9.88/15.25",
+        "dribblesAttemptedAverageHome": "9.00/14.25",
+        "dribblesAttemptedAverageAway": "10.75/16.25"
+    }
+}

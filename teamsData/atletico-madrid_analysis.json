@@ -191,14 +191,14 @@
         },
         ">=4": {
           "total": {
-            "hits": 4,
+            "hits": 3,
             "totalMatches": 8,
-            "probability": 0.5
+            "probability": 0.375
           },
           "home": {
-            "hits": 2,
+            "hits": 1,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.25
           },
           "away": {
             "hits": 2,
@@ -270,14 +270,14 @@
         "scope": "team",
         ">=6": {
           "total": {
-            "hits": 6,
+            "hits": 7,
             "totalMatches": 8,
-            "probability": 0.75
+            "probability": 0.875
           },
           "home": {
-            "hits": 2,
+            "hits": 3,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.75
           },
           "away": {
             "hits": 4,
@@ -330,14 +330,14 @@
         "scope": "team",
         ">=8": {
           "total": {
-            "hits": 6,
+            "hits": 7,
             "totalMatches": 8,
-            "probability": 0.75
+            "probability": 0.875
           },
           "home": {
-            "hits": 2,
+            "hits": 3,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.75
           },
           "away": {
             "hits": 4,
@@ -347,14 +347,14 @@
         },
         ">=9": {
           "total": {
-            "hits": 6,
+            "hits": 7,
             "totalMatches": 8,
-            "probability": 0.75
+            "probability": 0.875
           },
           "home": {
-            "hits": 2,
+            "hits": 3,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.75
           },
           "away": {
             "hits": 4,
@@ -364,14 +364,14 @@
         },
         ">=10": {
           "total": {
-            "hits": 5,
+            "hits": 6,
             "totalMatches": 8,
-            "probability": 0.625
+            "probability": 0.75
           },
           "home": {
-            "hits": 2,
+            "hits": 3,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.75
           },
           "away": {
             "hits": 3,
