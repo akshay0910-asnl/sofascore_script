@@ -385,7 +385,7 @@ const handleMatchStatisticsResponse = async (
       //   if (index === 1) {
       //     await parentPage.close();
       //   }
-      if (index === 8) {
+      if (index === 7) {
         cache[teamId].endTime = new Date();
         cache[teamId].totalTimeSeconds = parseFloat(
           ((cache[teamId].endTime - cache[teamId].startTime) / 1000).toFixed(2),
@@ -398,7 +398,6 @@ const handleMatchStatisticsResponse = async (
             clearTimeout(cache[teamId]["timeouts"][timeoutKey]);
           }
         }
-        delete cache[teamId];
         result = {
           globalStatistics: {},
           teamSlug: null,
@@ -413,6 +412,7 @@ const handleMatchStatisticsResponse = async (
         };
         await parentPage.close();
         await parentPage.context().browser().close();
+        delete cache[teamId];
       }
     } catch (err) {
       console.error("✗ Failed to parse statistics:", err.message);
@@ -1034,6 +1034,7 @@ async function executeWorkflow(page, context, teamId) {
     //await keepBrowserOpenTillRequired(page, teamId);
     console.log("✓ Workflow completed successfully");
   } catch (err) {
+    console.error(err.stack);
     console.error("✗ Workflow error:", err.message);
     process.exitCode = 1;
   }
