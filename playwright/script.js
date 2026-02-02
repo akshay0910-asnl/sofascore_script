@@ -64,6 +64,7 @@ let result = {
   awayMatchCount: 0,
   matchStatistics: [],
   attempts: 0,
+  currentIndex: -1,
 };
 
 // ============================================================================
@@ -379,41 +380,50 @@ const handleMatchStatisticsResponse = async (
 
       console.log("✓ Match Statistics intercepted");
       await page.off("response", (response) =>
-        handleMatchStatisticsResponse(response, match, index, page),
+        handleMatchStatisticsResponse(
+          response,
+          match,
+          index,
+          page,
+          teamId,
+          parentPage,
+        ),
       ); // Remove listener after capturing
       await page.close(); // Close the match page after capturing statistics
       //   if (index === 1) {
       //     await parentPage.close();
       //   }
-      if (index === 7) {
-        cache[teamId].endTime = new Date();
-        cache[teamId].totalTimeSeconds = parseFloat(
-          ((cache[teamId].endTime - cache[teamId].startTime) / 1000).toFixed(2),
-        );
-        console.log("\n✓ All data collected. Closing browser.");
-        await parseCombinedStatistics(teamId);
-        await writeStatisticsToFile(teamId);
-        if (cache[teamId]["timeouts"]) {
-          for (const timeoutKey of Object.keys(cache[teamId]["timeouts"])) {
-            clearTimeout(cache[teamId]["timeouts"][timeoutKey]);
-          }
-        }
-        result = {
-          globalStatistics: {},
-          teamSlug: null,
-          teamId: null,
-          teamName: null,
-          tournament: null,
-          matchLinks: [],
-          homeMatchCount: 0,
-          awayMatchCount: 0,
-          matchStatistics: [],
-          attempts: 0,
-        };
-        await parentPage.close();
-        await parentPage.context().browser().close();
-        delete cache[teamId];
-      }
+      cache[teamId].currentIndex = index;
+      //   if (cache[teamId].currentIndex === 7) {
+      //     cache[teamId].endTime = new Date();
+      //     cache[teamId].totalTimeSeconds = parseFloat(
+      //       ((cache[teamId].endTime - cache[teamId].startTime) / 1000).toFixed(2),
+      //     );
+      //     console.log("\n✓ All data collected. Closing browser.");
+      //     await parseCombinedStatistics(teamId);
+      //     await writeStatisticsToFile(teamId);
+      //     if (cache[teamId]["timeouts"]) {
+      //       for (const timeoutKey of Object.keys(cache[teamId]["timeouts"])) {
+      //         clearTimeout(cache[teamId]["timeouts"][timeoutKey]);
+      //       }
+      //     }
+      //     result = {
+      //       globalStatistics: {},
+      //       teamSlug: null,
+      //       teamId: null,
+      //       teamName: null,
+      //       tournament: null,
+      //       matchLinks: [],
+      //       homeMatchCount: 0,
+      //       awayMatchCount: 0,
+      //       matchStatistics: [],
+      //       attempts: 0,
+      //       currentIndex: -1,
+      //     };
+      //     await parentPage.close();
+      //     await parentPage.context().browser().close();
+      //     delete cache[teamId];
+      //   }
     } catch (err) {
       console.error("✗ Failed to parse statistics:", err.message);
     }
@@ -894,10 +904,10 @@ const extractMatchId = (url) =>
       .find((p) => p.startsWith("id:")) || ""
   ).replace("id:", "") || null;
 
-async function processMatchDetails(page, match, index, teamId, parentPage) {
+async function processMatchDetails(page, match, index, teamId) {
   // Implement match details processing here
 
-  await navigateToMatchPage(page, match, index, teamId, parentPage);
+  await navigateToMatchPage(page, match, index, teamId);
   //await setUpMatchStatisticsInterception(page, match, index);
 }
 
@@ -978,6 +988,7 @@ async function keepBrowserOpenTillRequired(page, teamId) {
             awayMatchCount: 0,
             matchStatistics: [],
             attempts: 0,
+            currentIndex: -1,
           };
           resolve(1);
         } else {
@@ -996,42 +1007,104 @@ async function keepBrowserOpenTillRequired(page, teamId) {
 // ORCHESTRATION
 // ============================================================================
 
+// ============================================================================
+// INITIALIZATION & CACHE SETUP
+// ============================================================================
+
+/**
+ * Initialize cache for the team with default result template
+ * Prepares data structures for collecting match statistics and links
+ */
+function initializeTeamCache(teamId) {
+  cache = {
+    ...cache,
+    [teamId]:
+      {
+        ...result,
+        matchStatistics: result.matchStatistics.map((x) => x),
+        matchLinks: result.matchLinks.map((x) => x),
+        globalStatistics: { ...result.globalStatistics },
+        startTime: new Date(),
+      } || {},
+  };
+}
+
+// ============================================================================
+// TEAM PAGE SETUP & INFORMATION EXTRACTION
+// ============================================================================
+
+/**
+ * Setup API interception and navigate to team's statistics page
+ */
+async function setupAndNavigateTeamPage(page, teamId) {
+  await setupStatisticsInterception(page, teamId);
+  await navigateToPage(
+    page,
+    `https://www.sofascore.com/football/team/cp/${teamId}#tab:statistics`,
+    teamId,
+  );
+}
+
+/**
+ * Extract core team information from the team page
+ * Gets tournament, team info, and team name
+ */
+async function extractTeamMetadata(page, teamId) {
+  // Extract tournament from the combobox selector
+  await extractTournament(page, teamId);
+
+  // Extract team identification info (slug and ID from URL)
+  await extractTeamInfo(page, teamId);
+
+  // Extract team name from breadcrumb JSON-LD data
+  await extractTeamName(page, teamId);
+}
+
+// ============================================================================
+// MATCH DATA COLLECTION & PROCESSING
+// ============================================================================
+
+/**
+ * Collect and process all match data
+ * Uses DOM scraping to extract match links from team page
+ */
+async function collectMatchData(page, context, teamId) {
+  // Extract match links from team page (4 home + 4 away matches)
+  await processAllMatches(page, context, teamId);
+
+  // Alternative: Extract from recent events API (not currently used)
+  // await processAllMatchesNew(page, context, teamId);
+}
+
+// ============================================================================
+// MAIN WORKFLOW ORCHESTRATION
+// ============================================================================
+
+/**
+ * Main workflow: orchestrates all steps from navigation to data collection
+ * Sequence:
+ * 1. Initialize cache structure
+ * 2. Setup interception and navigate to team page
+ * 3. Extract team metadata (tournament, info, name)
+ * 4. Collect match data (links and statistics)
+ * 5. Wait for all data to be collected and process
+ */
 async function executeWorkflow(page, context, teamId) {
   try {
-    cache = {
-      ...cache,
-      [teamId]:
-        {
-          ...result,
-          matchStatistics: result.matchStatistics.map((x) => x),
-          matchLinks: result.matchLinks.map((x) => x),
-          globalStatistics: { ...result.globalStatistics },
-          startTime: new Date(),
-        } || {},
-    };
+    // PHASE 1: Initialize data structures
+    initializeTeamCache(teamId);
 
-    // Setup and navigate
-    await setupStatisticsInterception(page, teamId);
-    await navigateToPage(
-      page,
-      `https://www.sofascore.com/football/team/cp/${teamId}#tab:statistics`,
-      teamId,
-    );
+    // PHASE 2: Setup and navigate to team page
+    await setupAndNavigateTeamPage(page, teamId);
 
-    // Click statistics and extract tournament
-    //await clickStatisticsTab(page);
-    await extractTournament(page, teamId);
+    // PHASE 3: Extract team metadata
+    await extractTeamMetadata(page, teamId);
 
-    // Extract team info
-    await extractTeamInfo(page, teamId);
-    await extractTeamName(page, teamId);
+    // PHASE 4: Collect match data
+    await collectMatchData(page, context, teamId);
 
-    // Extract match data
-    //await processAllMatches(page, context, teamId);
-    await processAllMatchesNew(page, context, teamId);
-
-    // Keep browser open until all data is collected
-    //await keepBrowserOpenTillRequired(page, teamId);
+    // PHASE 5: Wait for all statistics to be collected from match pages
+    await keepBrowserOpenTillRequired(page, teamId);
     console.log("✓ Workflow completed successfully");
   } catch (err) {
     console.error(err.stack);
