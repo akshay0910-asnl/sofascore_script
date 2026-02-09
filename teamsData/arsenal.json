@@ -5,7 +5,7 @@
         "goalKicks": "4.83",
         "saves": "1.38",
         "offsides": "1.54",
-        "shotsOnTarget": "5.04/2.08",
+        "shotsOnTarget": "5.08/2.08",
         "yellowCards": "1.38/1.67",
         "goals": "1.92/0.71",
         "throwIns": "17.13",
@@ -25,16 +25,16 @@
         {
             "href": "https://www.sofascore.com/football/match/arsenal-leeds-united/JsR#id:14025134,tab:statistics",
             "teams": [
-                "Leeds United",
+                "Leeds",
                 "Arsenal"
             ],
             "goals": [
-                0,
-                4
+                "0",
+                "4"
             ],
             "teamIds": [
-                34,
-                42
+                "34",
+                "42"
             ],
             "isHome": false
         },
@@ -42,31 +42,31 @@
             "href": "https://www.sofascore.com/football/match/arsenal-manchester-united/KR#id:14025098,tab:statistics",
             "teams": [
                 "Arsenal",
-                "Manchester United"
+                "Man Utd"
             ],
             "goals": [
-                2,
-                3
+                "2",
+                "3"
             ],
             "teamIds": [
-                42,
-                35
+                "42",
+                "35"
             ],
             "isHome": true
         },
         {
             "href": "https://www.sofascore.com/football/match/arsenal-nottingham-forest/osR#id:14025082,tab:statistics",
             "teams": [
-                "Nottingham Forest",
+                "Forest",
                 "Arsenal"
             ],
             "goals": [
-                0,
-                0
+                "0",
+                "0"
             ],
             "teamIds": [
-                14,
-                42
+                "14",
+                "42"
             ],
             "isHome": false
         },
@@ -77,12 +77,12 @@
                 "Liverpool"
             ],
             "goals": [
-                0,
-                0
+                "0",
+                "0"
             ],
             "teamIds": [
-                42,
-                44
+                "42",
+                "44"
             ],
             "isHome": true
         },
@@ -93,12 +93,12 @@
                 "Arsenal"
             ],
             "goals": [
-                2,
-                3
+                "2",
+                "3"
             ],
             "teamIds": [
-                60,
-                42
+                "60",
+                "42"
             ],
             "isHome": false
         },
@@ -109,12 +109,12 @@
                 "Aston Villa"
             ],
             "goals": [
-                4,
-                1
+                "4",
+                "1"
             ],
             "teamIds": [
-                42,
-                40
+                "42",
+                "40"
             ],
             "isHome": true
         },
@@ -122,15 +122,15 @@
             "href": "https://www.sofascore.com/football/match/arsenal-brighton-and-hove-albion/FsR#id:14025234,tab:statistics",
             "teams": [
                 "Arsenal",
-                "Brighton & Hove Albion"
+                "Brighton"
             ],
             "goals": [
-                2,
-                1
+                "2",
+                "1"
             ],
             "teamIds": [
-                42,
-                30
+                "42",
+                "30"
             ],
             "isHome": true
         },
@@ -141,12 +141,12 @@
                 "Arsenal"
             ],
             "goals": [
-                0,
-                1
+                "0",
+                "1"
             ],
             "teamIds": [
-                48,
-                42
+                "48",
+                "42"
             ],
             "isHome": false
         }
@@ -155,7 +155,7 @@
     "awayMatchCount": 4,
     "matchStatistics": [
         {
-            "corners": "11/4[A]",
+            "corners": "12/4[A]",
             "fouls": "7/10[A]",
             "goalKicks": "1/6[A]",
             "saves": "1/4[A]",
@@ -165,7 +165,7 @@
             "goals": "4/0[A]",
             "throwIns": "23/23[A]",
             "averageBallPossession": "50/50[A]",
-            "teams": "Arsenal,Leeds United,Away",
+            "teams": "Arsenal,Leeds,Away",
             "tackles": "14/16[A]",
             "interceptions": "6/10[A]",
             "aerialDuels": "18/18[A]",
@@ -185,7 +185,7 @@
             "goals": "2/3[H]",
             "throwIns": "17/12[H]",
             "averageBallPossession": "56/44[H]",
-            "teams": "Arsenal,Manchester United,Home",
+            "teams": "Arsenal,Man Utd,Home",
             "tackles": "11/14[H]",
             "interceptions": "11/6[H]",
             "aerialDuels": "14/12[H]",
@@ -205,7 +205,7 @@
             "goals": "0/0[A]",
             "throwIns": "10/19[A]",
             "averageBallPossession": "60/40[A]",
-            "teams": "Arsenal,Nottingham Forest,Away",
+            "teams": "Arsenal,Forest,Away",
             "tackles": "16/12[A]",
             "interceptions": "4/6[A]",
             "aerialDuels": "18/17[A]",
@@ -285,7 +285,7 @@
             "goals": "2/1[H]",
             "throwIns": "20/12[H]",
             "averageBallPossession": "53/47[H]",
-            "teams": "Arsenal,Brighton & Hove Albion,Home",
+            "teams": "Arsenal,Brighton,Home",
             "tackles": "14/16[H]",
             "interceptions": "9/5[H]",
             "aerialDuels": "10/18[H]",
@@ -316,8 +316,252 @@
         }
     ],
     "attempts": 0,
-    "startTime": "2026-02-01T16:14:13.537Z",
+    "currentIndex": 7,
+    "startTime": "2026-02-07T09:46:12.879Z",
     "recentEvents": [
+        {
+            "eventState": {},
+            "correctAiInsight": true,
+            "correctHalftimeAiInsight": false,
+            "tournament": {
+                "name": "EFL Cup",
+                "slug": "efl-cup",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "country": {
+                        "alpha2": "EN",
+                        "alpha3": "ENG",
+                        "name": "England",
+                        "slug": "england"
+                    },
+                    "flag": "england",
+                    "alpha2": "EN",
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "إنجلترا",
+                            "hi": "इंग्लैंड",
+                            "bn": "ইংল্যান্ড"
+                        },
+                        "shortNameTranslation": {}
+                    }
+                },
+                "uniqueTournament": {
+                    "name": "EFL Cup",
+                    "slug": "efl-cup",
+                    "primaryColorHex": "#203e93",
+                    "secondaryColorHex": "#bc1723",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "country": {
+                            "alpha2": "EN",
+                            "alpha3": "ENG",
+                            "name": "England",
+                            "slug": "england"
+                        },
+                        "flag": "england",
+                        "alpha2": "EN",
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "إنجلترا",
+                                "hi": "इंग्लैंड",
+                                "bn": "ইংল্যান্ড"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "userCount": 155583,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 21,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false,
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "كأس رابطة الدوري الإنجليزي",
+                            "hi": "ईएफएल कप",
+                            "bn": "ইএফএল কাপ"
+                        },
+                        "shortNameTranslation": {}
+                    }
+                },
+                "priority": 484,
+                "isGroup": false,
+                "isLive": false,
+                "id": 17,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "كأس رابطة الدوري الإنجليزي",
+                        "hi": "ईएफएल कप",
+                        "bn": "ইএফএল কাপ"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "season": {
+                "name": "EFL Cup 25/26",
+                "year": "25/26",
+                "editor": false,
+                "id": 77500
+            },
+            "roundInfo": {
+                "round": 28,
+                "name": "Semifinals",
+                "slug": "semifinals",
+                "cupRoundType": 2
+            },
+            "customId": "NR",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 1,
+            "aggregatedWinnerCode": 1,
+            "homeTeam": {
+                "name": "Arsenal",
+                "slug": "arsenal",
+                "shortName": "Arsenal",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 3057477,
+                "nameCode": "ARS",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 42,
+                "country": {
+                    "alpha2": "EN",
+                    "alpha3": "ENG",
+                    "name": "England",
+                    "slug": "england"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "ارسنال",
+                        "ru": "Арсенал",
+                        "hi": "आर्सेनल",
+                        "bn": "আর্সেনাল"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "awayTeam": {
+                "name": "Chelsea",
+                "slug": "chelsea",
+                "shortName": "Chelsea",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 2878618,
+                "nameCode": "CHE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 38,
+                "country": {
+                    "alpha2": "EN",
+                    "alpha3": "ENG",
+                    "name": "England",
+                    "slug": "england"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0310a7",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "تشيلسي",
+                        "ru": "Челси",
+                        "hi": "चेल्सी",
+                        "bn": "চেলসি"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1,
+                "aggregated": 4
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0,
+                "normaltime": 0,
+                "aggregated": 2
+            },
+            "time": {
+                "injuryTime1": 1,
+                "injuryTime2": 6,
+                "currentPeriodStartTimestamp": 1770152652
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.normaltime"
+                ],
+                "changeTimestamp": 1770155884
+            },
+            "hasGlobalHighlights": true,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 15268211,
+            "slug": "arsenal-chelsea",
+            "previousLegEventId": 15268210,
+            "startTimestamp": 1770148800,
+            "finalResultOnly": false,
+            "feedLocked": true,
+            "isEditor": false,
+            "eventFilters": {
+                "category": [
+                    "club"
+                ],
+                "level": [
+                    "top-competitions",
+                    "pro"
+                ],
+                "gender": [
+                    "M"
+                ]
+            }
+        },
         {
             "eventState": {},
             "correctAiInsight": true,
@@ -382,7 +626,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -436,7 +680,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 231272,
+                "userCount": 232648,
                 "nameCode": "LEE",
                 "disabled": false,
                 "national": false,
@@ -477,7 +721,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -607,7 +851,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -658,7 +902,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -696,7 +940,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 83924,
+                "userCount": 83625,
                 "nameCode": "ALM",
                 "disabled": false,
                 "national": false,
@@ -844,7 +1088,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -898,7 +1142,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -936,7 +1180,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3118135,
+                "userCount": 3149162,
                 "nameCode": "MUN",
                 "disabled": false,
                 "national": false,
@@ -1071,7 +1315,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -1122,7 +1366,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1829799,
+                "userCount": 1836586,
                 "nameCode": "INT",
                 "disabled": false,
                 "national": false,
@@ -1160,7 +1404,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -1305,7 +1549,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -1359,7 +1603,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 400178,
+                "userCount": 398485,
                 "nameCode": "NFO",
                 "disabled": false,
                 "national": false,
@@ -1400,7 +1644,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -1544,7 +1788,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 151785,
+                    "userCount": 155583,
                     "hasPerformanceGraphFeature": false,
                     "id": 21,
                     "country": {},
@@ -1601,7 +1845,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 2862131,
+                "userCount": 2878618,
                 "nameCode": "CHE",
                 "disabled": false,
                 "national": false,
@@ -1639,7 +1883,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -1782,7 +2026,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 188371,
+                    "userCount": 187782,
                     "hasPerformanceGraphFeature": false,
                     "id": 19,
                     "country": {},
@@ -1838,7 +2082,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 23770,
+                "userCount": 23782,
                 "nameCode": "POR",
                 "disabled": false,
                 "national": false,
@@ -1874,7 +2118,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -2017,7 +2261,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -2071,7 +2315,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -2109,7 +2353,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3475461,
+                "userCount": 3482909,
                 "nameCode": "LIV",
                 "disabled": false,
                 "national": false,
@@ -2252,7 +2496,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -2306,7 +2550,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 291884,
+                "userCount": 289370,
                 "nameCode": "BOU",
                 "disabled": false,
                 "national": false,
@@ -2344,7 +2588,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -2488,7 +2732,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -2542,7 +2786,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -2580,7 +2824,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 893812,
+                "userCount": 899001,
                 "nameCode": "AVL",
                 "disabled": false,
                 "national": false,
@@ -2724,7 +2968,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -2778,7 +3022,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -2816,7 +3060,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 434656,
+                "userCount": 429308,
                 "nameCode": "BHA",
                 "disabled": false,
                 "national": false,
@@ -2963,7 +3207,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 151785,
+                    "userCount": 155583,
                     "hasPerformanceGraphFeature": false,
                     "id": 21,
                     "country": {},
@@ -3020,7 +3264,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -3058,7 +3302,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 415356,
+                "userCount": 412127,
                 "nameCode": "CRY",
                 "disabled": false,
                 "national": false,
@@ -3202,7 +3446,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -3256,7 +3500,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 371641,
+                "userCount": 367642,
                 "nameCode": "EVE",
                 "disabled": false,
                 "national": false,
@@ -3294,7 +3538,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -3438,7 +3682,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -3492,7 +3736,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -3530,7 +3774,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 297762,
+                "userCount": 294278,
                 "nameCode": "WOL",
                 "disabled": false,
                 "national": false,
@@ -3664,7 +3908,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -3715,7 +3959,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 292237,
+                "userCount": 290060,
                 "nameCode": "BRU",
                 "disabled": false,
                 "national": false,
@@ -3755,7 +3999,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -3900,7 +4144,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -3954,7 +4198,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 893812,
+                "userCount": 899001,
                 "nameCode": "AVL",
                 "disabled": false,
                 "national": false,
@@ -3992,7 +4236,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -4138,7 +4382,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -4192,7 +4436,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -4230,7 +4474,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 284553,
+                "userCount": 282618,
                 "nameCode": "BRE",
                 "disabled": false,
                 "national": false,
@@ -4374,7 +4618,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -4428,7 +4672,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 2862131,
+                "userCount": 2878618,
                 "nameCode": "CHE",
                 "disabled": false,
                 "national": false,
@@ -4466,7 +4710,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -4587,7 +4831,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -4638,7 +4882,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -4676,7 +4920,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 2395787,
+                "userCount": 2398786,
                 "nameCode": "FCB",
                 "disabled": false,
                 "national": false,
@@ -4811,7 +5055,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -4865,7 +5109,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -4903,7 +5147,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1369739,
+                "userCount": 1371720,
                 "nameCode": "TOT",
                 "disabled": false,
                 "national": false,
@@ -5038,7 +5282,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -5092,7 +5336,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 195201,
+                "userCount": 198541,
                 "nameCode": "SUN",
                 "disabled": false,
                 "national": false,
@@ -5128,7 +5372,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -5248,7 +5492,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -5299,7 +5543,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 127171,
+                "userCount": 126645,
                 "nameCode": "SLA",
                 "disabled": false,
                 "national": false,
@@ -5337,7 +5581,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -5469,7 +5713,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -5523,7 +5767,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 152908,
+                "userCount": 152834,
                 "nameCode": "BUR",
                 "disabled": false,
                 "national": false,
@@ -5561,7 +5805,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -5693,7 +5937,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 151785,
+                    "userCount": 155583,
                     "hasPerformanceGraphFeature": false,
                     "id": 21,
                     "country": {},
@@ -5749,7 +5993,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -5787,7 +6031,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 434656,
+                "userCount": 429308,
                 "nameCode": "BHA",
                 "disabled": false,
                 "national": false,
@@ -5921,7 +6165,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -5975,7 +6219,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -6013,7 +6257,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 415356,
+                "userCount": 412127,
                 "nameCode": "CRY",
                 "disabled": false,
                 "national": false,
@@ -6133,7 +6377,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -6184,7 +6428,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -6222,7 +6466,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 2111052,
+                "userCount": 2122048,
                 "nameCode": "ATM",
                 "disabled": false,
                 "national": false,
@@ -6357,7 +6601,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -6411,7 +6655,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 319276,
+                "userCount": 318764,
                 "nameCode": "FUL",
                 "disabled": false,
                 "national": false,
@@ -6449,7 +6693,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -6581,7 +6825,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1170105,
+                    "userCount": 1167970,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "country": {},
@@ -6635,7 +6879,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -6673,7 +6917,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 432190,
+                "userCount": 427363,
                 "nameCode": "WHU",
                 "disabled": false,
                 "national": false,
@@ -6796,7 +7040,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 1191223,
+                    "userCount": 1186697,
                     "hasPerformanceGraphFeature": false,
                     "id": 7,
                     "country": {},
@@ -6847,7 +7091,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3036785,
+                "userCount": 3057477,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -6885,7 +7129,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 276280,
+                "userCount": 276018,
                 "nameCode": "OLY",
                 "disabled": false,
                 "national": false,
@@ -6955,241 +7199,12 @@
             "finalResultOnly": false,
             "feedLocked": true,
             "isEditor": false
-        },
-        {
-            "eventState": {},
-            "correctAiInsight": true,
-            "correctHalftimeAiInsight": false,
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "country": {
-                        "alpha2": "EN",
-                        "alpha3": "ENG",
-                        "name": "England",
-                        "slug": "england"
-                    },
-                    "flag": "england",
-                    "alpha2": "EN",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "إنجلترا",
-                            "hi": "इंग्लैंड",
-                            "bn": "ইংল্যান্ড"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "country": {
-                            "alpha2": "EN",
-                            "alpha3": "ENG",
-                            "name": "England",
-                            "slug": "england"
-                        },
-                        "flag": "england",
-                        "alpha2": "EN",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "إنجلترا",
-                                "hi": "इंग्लैंड",
-                                "bn": "ইংল্যান্ড"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "userCount": 1170105,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false,
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "الدوري الإنجليزي الممتاز",
-                            "hi": "प्रिमियर लीग",
-                            "bn": "প্রিমিয়ার লীগ"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "priority": 699,
-                "isGroup": false,
-                "isLive": false,
-                "id": 1,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري الإنجليزي الممتاز",
-                        "hi": "प्रिमियर लीग",
-                        "bn": "প্রিমিয়ার লীগ"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "season": {
-                "name": "Premier League 25/26",
-                "year": "25/26",
-                "editor": false,
-                "id": 76986
-            },
-            "roundInfo": {
-                "round": 6
-            },
-            "customId": "Ardc",
-            "status": {
-                "code": 100,
-                "description": "Ended",
-                "type": "finished"
-            },
-            "winnerCode": 2,
-            "homeTeam": {
-                "name": "Newcastle United",
-                "slug": "newcastle-united",
-                "shortName": "Newcastle",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 869595,
-                "nameCode": "NEW",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 39,
-                "country": {
-                    "alpha2": "EN",
-                    "alpha3": "ENG",
-                    "name": "England",
-                    "slug": "england"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                },
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "نيوكاسل يونايتد",
-                        "ru": "Ньюкасл Юнайтед",
-                        "hi": "न्यू कास्सेल यूनाइटेड ऍफ़सी"
-                    },
-                    "shortNameTranslation": {
-                        "ar": "نيوكاسل",
-                        "hi": "न्यूकैसल",
-                        "bn": "নিউক্যাসল"
-                    }
-                }
-            },
-            "awayTeam": {
-                "name": "Arsenal",
-                "slug": "arsenal",
-                "shortName": "Arsenal",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 3036785,
-                "nameCode": "ARS",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 42,
-                "country": {
-                    "alpha2": "EN",
-                    "alpha3": "ENG",
-                    "name": "England",
-                    "slug": "england"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                },
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "ارسنال",
-                        "ru": "Арсенал",
-                        "hi": "आर्सेनल",
-                        "bn": "আর্সেনাল"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "homeScore": {
-                "current": 1,
-                "display": 1,
-                "period1": 1,
-                "period2": 0,
-                "normaltime": 1
-            },
-            "awayScore": {
-                "current": 2,
-                "display": 2,
-                "period1": 0,
-                "period2": 2,
-                "normaltime": 2
-            },
-            "time": {
-                "injuryTime1": 7,
-                "injuryTime2": 8,
-                "currentPeriodStartTimestamp": 1759077500
-            },
-            "changes": {
-                "changes": [
-                    "status.code",
-                    "status.description",
-                    "status.type",
-                    "awayScore.period2",
-                    "awayScore.normaltime"
-                ],
-                "changeTimestamp": 1759080747
-            },
-            "hasGlobalHighlights": true,
-            "hasXg": true,
-            "hasEventPlayerStatistics": true,
-            "hasEventPlayerHeatMap": true,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 14025202,
-            "slug": "arsenal-newcastle-united",
-            "startTimestamp": 1759073400,
-            "finalResultOnly": false,
-            "feedLocked": true,
-            "isEditor": false
         }
     ],
-    "endTime": "2026-02-01T16:14:55.672Z",
-    "totalTimeSeconds": 42.13,
+    "endTime": "2026-02-07T09:46:34.997Z",
+    "totalTimeSeconds": 22.12,
     "combinedMatchStatistics": {
-        "corners": "11/4[A]+9/2[H]+9/4[A]+3/0[H]+5/7[A]+3/3[H]+7/2[H]+3/2[A]",
+        "corners": "12/4[A]+9/2[H]+9/4[A]+3/0[H]+5/7[A]+3/3[H]+7/2[H]+3/2[A]",
         "fouls": "7/10[A]+11/9[H]+14/8[A]+10/9[H]+8/13[A]+18/9[H]+7/13[H]+5/4[A]",
         "goalKicks": "1/6[A]+5/10[H]+6/11[A]+8/6[H]+8/10[A]+2/8[H]+4/9[H]+5/9[A]",
         "saves": "1/4[A]+0/3[H]+0/3[A]+0/4[H]+1/2[A]+2/3[H]+2/5[H]+1/0[A]",
@@ -7199,7 +7214,7 @@
         "goals": "4/0[A]+2/3[H]+0/0[A]+0/0[H]+3/2[A]+4/1[H]+2/1[H]+1/0[A]",
         "throwIns": "23/23[A]+17/12[H]+10/19[A]+15/17[H]+13/14[A]+8/17[H]+20/12[H]+17/19[A]",
         "averageBallPossession": "50/50[A]+56/44[H]+60/40[A]+48/52[H]+57/43[A]+46/54[H]+53/47[H]+65/35[A]",
-        "teams": "Arsenal,Leeds United,Away+Arsenal,Manchester United,Home+Arsenal,Nottingham Forest,Away+Arsenal,Liverpool,Home+Arsenal,Bournemouth,Away+Arsenal,Aston Villa,Home+Arsenal,Brighton & Hove Albion,Home+Arsenal,Everton,Away",
+        "teams": "Arsenal,Leeds,Away+Arsenal,Man Utd,Home+Arsenal,Forest,Away+Arsenal,Liverpool,Home+Arsenal,Bournemouth,Away+Arsenal,Aston Villa,Home+Arsenal,Brighton,Home+Arsenal,Everton,Away",
         "tackles": "14/16[A]+11/14[H]+16/12[A]+11/10[H]+25/16[A]+17/10[H]+14/16[H]+14/26[A]",
         "interceptions": "6/10[A]+11/6[H]+4/6[A]+7/8[H]+7/4[A]+8/3[H]+9/5[H]+7/8[A]",
         "aerialDuels": "18/18[A]+14/12[H]+18/17[A]+6/5[H]+21/17[A]+7/9[H]+10/18[H]+21/22[A]",
@@ -7207,12 +7222,12 @@
         "dribbles": "10/6[A]+7/4[H]+6/4[A]+8/10[H]+7/8[A]+5/8[H]+10/7[H]+9/4[A]",
         "dribblesAttempted": "19/16[A]+13/6[H]+13/14[A]+16/13[H]+17/20[A]+9/15[H]+16/13[H]+21/10[A]",
         "isHome": "false+true+false+true+false+true+true+false",
-        "cornersTotals": "50/24",
+        "cornersTotals": "51/24",
         "cornersTotalsHome": "22/7",
-        "cornersTotalsAway": "28/17",
-        "cornersAverage": "6.25/3.00",
+        "cornersTotalsAway": "29/17",
+        "cornersAverage": "6.38/3.00",
         "cornersAverageHome": "5.50/1.75",
-        "cornersAverageAway": "7.00/4.25",
+        "cornersAverageAway": "7.25/4.25",
         "foulsTotals": "80/75",
         "foulsTotalsHome": "46/40",
         "foulsTotalsAway": "34/35",
