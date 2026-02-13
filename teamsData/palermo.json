@@ -1,27 +1,43 @@
 {
     "globalStatistics": {
-        "corners": "5.18",
-        "fouls": "15.77",
+        "corners": "5.09",
+        "fouls": "15.91",
         "goalKicks": "6.91",
-        "saves": "2.68",
-        "offsides": "1.00",
-        "shotsOnTarget": "4.41/3.32",
-        "yellowCards": "2.09/2.14",
-        "goals": "1.50/0.64",
-        "throwIns": "19.55",
-        "ballPossession": 48.363636363636,
-        "tackles": "14.14/13.09",
-        "interceptions": "6.86/6.77",
-        "aerialDuels": "22.27",
-        "aerialDuelsAttempted": "42.68",
-        "dribbles": "4.09/5.45",
-        "dribblesAttempted": "10.82/12.32"
+        "saves": "2.83",
+        "offsides": "1.04",
+        "shotsOnTarget": "4.35/3.52",
+        "yellowCards": "2.09/2.22",
+        "goals": "1.57/0.70",
+        "throwIns": "19.78",
+        "ballPossession": 48.739130434783,
+        "tackles": "13.87/13.17",
+        "interceptions": "6.87/6.91",
+        "aerialDuels": "21.70",
+        "aerialDuelsAttempted": "41.57",
+        "dribbles": "4.26/5.43",
+        "dribblesAttempted": "11.09/12.17"
     },
     "teamSlug": "palermo",
     "teamId": "2715",
     "teamName": "Palermo",
     "tournament": "Serie B",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/palermo-empoli/febspeb#id:14317714,tab:statistics",
+            "teams": [
+                "Palermo",
+                "Empoli"
+            ],
+            "goals": [
+                "3",
+                "2"
+            ],
+            "teamIds": [
+                "2715",
+                "2705"
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/palermo-bari/mebspeb#id:14317896,tab:statistics",
             "teams": [
@@ -133,27 +149,31 @@
                 "2711"
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/carrarese-palermo/pebsVeb#id:14317882,tab:statistics",
-            "teams": [
-                "Palermo",
-                "Carrarese"
-            ],
-            "goals": [
-                "5",
-                "0"
-            ],
-            "teamIds": [
-                "2715",
-                "2745"
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "3/5[H]",
+            "fouls": "19/16[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "6/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/8[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "3/2[H]",
+            "throwIns": "25/16[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Palermo,Empoli,Home",
+            "tackles": "8/15[H]",
+            "interceptions": "7/10[H]",
+            "aerialDuels": "9/8[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "17/9[H]",
+            "isHome": true
+        },
         {
             "corners": "7/3[A]",
             "fouls": "18/13[A]",
@@ -293,31 +313,11 @@
             "dribbles": "2/10[H]",
             "dribblesAttempted": "7/17[H]",
             "isHome": true
-        },
-        {
-            "corners": "3/4[H]",
-            "fouls": "17/12[H]",
-            "goalKicks": "6/8[H]",
-            "saves": "2/4[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "9/2[H]",
-            "yellowCards": "2/3[H]",
-            "goals": "5/0[H]",
-            "throwIns": "17/20[H]",
-            "averageBallPossession": "55/45[H]",
-            "teams": "Palermo,Carrarese,Home",
-            "tackles": "13/12[H]",
-            "interceptions": "8/5[H]",
-            "aerialDuels": "11/16[H]",
-            "aerialDuelsAttempted": "27/27[H]",
-            "dribbles": "5/4[H]",
-            "dribblesAttempted": "9/10[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 7,
-    "startTime": "2026-02-07T11:08:57.659Z",
+    "currentIndex": 6,
+    "startTime": "2026-02-09T19:16:46.288Z",
     "recentEvents": [
         {
             "eventState": {},
@@ -383,7 +383,241 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 53,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false,
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "دوري الدرجة الثانية",
+                            "hi": "सीरी बी",
+                            "bn": "সেরি বি"
+                        },
+                        "shortNameTranslation": {}
+                    }
+                },
+                "priority": 344,
+                "isGroup": false,
+                "isLive": false,
+                "id": 34,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "الدرجة الثانية",
+                        "hi": "सीरी बी",
+                        "bn": "সেরি বি"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "season": {
+                "name": "Serie B 25/26",
+                "year": "25/26",
+                "editor": false,
+                "id": 79502
+            },
+            "roundInfo": {
+                "round": 23
+            },
+            "customId": "febspeb",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 1,
+            "homeTeam": {
+                "name": "Palermo",
+                "slug": "palermo",
+                "shortName": "Palermo",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 36439,
+                "nameCode": "PAL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2715,
+                "country": {
+                    "alpha2": "IT",
+                    "alpha3": "ITA",
+                    "name": "Italy",
+                    "slug": "italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffb3d9",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "باليرمو",
+                        "ru": "Палермо"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "awayTeam": {
+                "name": "Empoli",
+                "slug": "empoli",
+                "shortName": "Empoli",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 78812,
+                "nameCode": "EMP",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2705,
+                "country": {
+                    "alpha2": "IT",
+                    "alpha3": "ITA",
+                    "name": "Italy",
+                    "slug": "italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0d5696",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إمبولي",
+                        "ru": "Эмполи",
+                        "hi": "एम्पोली",
+                        "bn": "এমপোলি"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 1,
+                "period2": 2,
+                "normaltime": 3
+            },
+            "awayScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 1,
+                "period2": 1,
+                "normaltime": 2
+            },
+            "time": {
+                "injuryTime1": 1,
+                "injuryTime2": 8,
+                "currentPeriodStartTimestamp": 1770484782
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type"
+                ],
+                "changeTimestamp": 1770488035
+            },
+            "hasGlobalHighlights": true,
+            "hasXg": true,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 14317714,
+            "slug": "palermo-empoli",
+            "startTimestamp": 1770480900,
+            "finalResultOnly": false,
+            "feedLocked": true,
+            "isEditor": false,
+            "eventFilters": {
+                "category": [
+                    "club"
+                ],
+                "level": [
+                    "top-competitions",
+                    "pro"
+                ],
+                "gender": [
+                    "M"
+                ]
+            }
+        },
+        {
+            "eventState": {},
+            "correctAiInsight": true,
+            "correctHalftimeAiInsight": true,
+            "tournament": {
+                "name": "Serie B",
+                "slug": "serie-b",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "country": {
+                        "alpha2": "IT",
+                        "alpha3": "ITA",
+                        "name": "Italy",
+                        "slug": "italy"
+                    },
+                    "flag": "italy",
+                    "alpha2": "IT",
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "إيطاليا",
+                            "hi": "इटली",
+                            "bn": "ইতালি"
+                        },
+                        "shortNameTranslation": {}
+                    }
+                },
+                "uniqueTournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "primaryColorHex": "#027d32",
+                    "secondaryColorHex": "#f18f01",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "alpha3": "ITA",
+                            "name": "Italy",
+                            "slug": "italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT",
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "إيطاليا",
+                                "hi": "इटली",
+                                "bn": "ইতালি"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -437,7 +671,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 25233,
+                "userCount": 25184,
                 "nameCode": "BAR",
                 "disabled": false,
                 "national": false,
@@ -473,7 +707,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -616,7 +850,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -670,7 +904,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 14601,
+                "userCount": 14620,
                 "nameCode": "MOD",
                 "disabled": false,
                 "national": false,
@@ -707,7 +941,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -849,7 +1083,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -903,7 +1137,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -939,7 +1173,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 25401,
+                "userCount": 25547,
                 "nameCode": "SPE",
                 "disabled": false,
                 "national": false,
@@ -1083,7 +1317,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -1137,7 +1371,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 7660,
+                "userCount": 7722,
                 "nameCode": "MAN",
                 "disabled": false,
                 "national": false,
@@ -1174,7 +1408,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -1318,7 +1552,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -1372,7 +1606,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -1408,7 +1642,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 11884,
+                "userCount": 11872,
                 "nameCode": "PAD",
                 "disabled": false,
                 "national": false,
@@ -1552,7 +1786,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -1606,7 +1840,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 10300,
+                "userCount": 10402,
                 "nameCode": "USA",
                 "disabled": false,
                 "national": false,
@@ -1644,7 +1878,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -1787,7 +2021,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -1841,7 +2075,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -1877,7 +2111,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 33143,
+                "userCount": 33048,
                 "nameCode": "SAM",
                 "disabled": false,
                 "national": false,
@@ -2023,7 +2257,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -2077,7 +2311,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 79214,
+                "userCount": 78812,
                 "nameCode": "EMP",
                 "disabled": false,
                 "national": false,
@@ -2115,7 +2349,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -2257,7 +2491,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -2311,7 +2545,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -2347,7 +2581,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 6688,
+                "userCount": 6753,
                 "nameCode": "CAR",
                 "disabled": false,
                 "national": false,
@@ -2479,7 +2713,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -2533,7 +2767,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 7446,
+                "userCount": 7510,
                 "nameCode": "ENT",
                 "national": false,
                 "type": 0,
@@ -2569,7 +2803,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -2699,7 +2933,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -2753,7 +2987,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 9352,
+                "userCount": 9415,
                 "nameCode": "STA",
                 "national": false,
                 "type": 0,
@@ -2789,7 +3023,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -2920,7 +3154,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -2974,7 +3208,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -3010,7 +3244,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 13017,
+                "userCount": 12995,
                 "nameCode": "PES",
                 "disabled": false,
                 "national": false,
@@ -3140,7 +3374,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -3194,7 +3428,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -3230,7 +3464,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 71071,
+                "userCount": 71182,
                 "nameCode": "MON",
                 "disabled": false,
                 "national": false,
@@ -3364,7 +3598,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -3418,7 +3652,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 13119,
+                "userCount": 13152,
                 "nameCode": "USC",
                 "disabled": false,
                 "national": false,
@@ -3456,7 +3690,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -3587,7 +3821,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -3641,7 +3875,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -3677,7 +3911,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 14601,
+                "userCount": 14620,
                 "nameCode": "MOD",
                 "disabled": false,
                 "national": false,
@@ -3808,7 +4042,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -3862,7 +4096,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 25401,
+                "userCount": 25547,
                 "nameCode": "SPE",
                 "disabled": false,
                 "national": false,
@@ -3900,7 +4134,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -4030,7 +4264,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -4084,7 +4318,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -4120,7 +4354,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 56702,
+                "userCount": 56777,
                 "nameCode": "VEN",
                 "disabled": false,
                 "national": false,
@@ -4255,7 +4489,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -4309,7 +4543,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 12898,
+                "userCount": 12827,
                 "nameCode": "CES",
                 "disabled": false,
                 "national": false,
@@ -4345,7 +4579,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -4475,7 +4709,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 100719,
+                    "userCount": 100591,
                     "hasPerformanceGraphFeature": false,
                     "id": 328,
                     "country": {},
@@ -4532,7 +4766,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 118830,
+                "userCount": 119170,
                 "nameCode": "UDI",
                 "disabled": false,
                 "national": false,
@@ -4570,7 +4804,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -4697,7 +4931,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -4751,7 +4985,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -4787,7 +5021,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 25233,
+                "userCount": 25184,
                 "nameCode": "BAR",
                 "disabled": false,
                 "national": false,
@@ -4917,7 +5151,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -4971,7 +5205,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 10135,
+                "userCount": 10151,
                 "nameCode": "FCS",
                 "disabled": false,
                 "national": false,
@@ -5009,7 +5243,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -5139,7 +5373,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -5193,7 +5427,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -5229,7 +5463,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 34908,
+                "userCount": 34921,
                 "nameCode": "FRO",
                 "disabled": false,
                 "national": false,
@@ -5361,7 +5595,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 33439,
+                    "userCount": 33399,
                     "hasPerformanceGraphFeature": true,
                     "id": 53,
                     "country": {},
@@ -5415,7 +5649,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -5451,7 +5685,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 10263,
+                "userCount": 10288,
                 "nameCode": "REG",
                 "disabled": false,
                 "national": false,
@@ -5583,7 +5817,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 100719,
+                    "userCount": 100591,
                     "hasPerformanceGraphFeature": false,
                     "id": 328,
                     "country": {},
@@ -5639,7 +5873,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 57518,
+                "userCount": 57523,
                 "nameCode": "CRE",
                 "disabled": false,
                 "national": false,
@@ -5677,7 +5911,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -5798,7 +6032,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 26739,
+                    "userCount": 26527,
                     "hasPerformanceGraphFeature": false,
                     "id": 853,
                     "country": {},
@@ -5849,7 +6083,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -5885,7 +6119,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 3641821,
+                "userCount": 3658198,
                 "nameCode": "MCI",
                 "disabled": false,
                 "national": false,
@@ -6003,7 +6237,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 26739,
+                    "userCount": 26527,
                     "hasPerformanceGraphFeature": false,
                     "id": 853,
                     "country": {},
@@ -6054,7 +6288,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -6090,7 +6324,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 10997,
+                "userCount": 10927,
                 "nameCode": "ANN",
                 "disabled": false,
                 "national": false,
@@ -6202,7 +6436,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 26739,
+                    "userCount": 26527,
                     "hasPerformanceGraphFeature": false,
                     "id": 853,
                     "country": {},
@@ -6253,7 +6487,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -6289,7 +6523,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 2049,
+                "userCount": 2054,
                 "nameCode": "BRA",
                 "national": false,
                 "type": 0,
@@ -6404,7 +6638,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 26739,
+                    "userCount": 26527,
                     "hasPerformanceGraphFeature": false,
                     "id": 853,
                     "country": {},
@@ -6455,7 +6689,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -6491,7 +6725,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 659,
+                "userCount": 657,
                 "nameCode": "SON",
                 "disabled": false,
                 "national": false,
@@ -6607,7 +6841,7 @@
                             "shortNameTranslation": {}
                         }
                     },
-                    "userCount": 26739,
+                    "userCount": 26527,
                     "hasPerformanceGraphFeature": false,
                     "id": 853,
                     "country": {},
@@ -6658,7 +6892,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 36235,
+                "userCount": 36439,
                 "nameCode": "PAL",
                 "disabled": false,
                 "national": false,
@@ -6694,7 +6928,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1035,
+                "userCount": 1029,
                 "nameCode": "PAD",
                 "disabled": false,
                 "national": false,
@@ -6753,250 +6987,52 @@
             "finalResultOnly": false,
             "feedLocked": false,
             "isEditor": false
-        },
-        {
-            "eventState": {},
-            "tournament": {
-                "name": "Club Friendly Games",
-                "slug": "club-friendly-games",
-                "category": {
-                    "name": "World",
-                    "slug": "world",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1468,
-                    "country": {},
-                    "flag": "international",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "العالم",
-                            "hi": "विश्व",
-                            "bn": "বিশ্ব"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "uniqueTournament": {
-                    "name": "Club Friendly Games",
-                    "slug": "club-friendly-games",
-                    "primaryColorHex": "#25497d",
-                    "secondaryColorHex": "#d38f1d",
-                    "category": {
-                        "name": "World",
-                        "slug": "world",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1468,
-                        "country": {},
-                        "flag": "international",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "العالم",
-                                "hi": "विश्व",
-                                "bn": "বিশ্ব"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "userCount": 26739,
-                    "hasPerformanceGraphFeature": false,
-                    "id": 853,
-                    "country": {},
-                    "hasEventPlayerStatistics": false,
-                    "displayInverseHomeAwayTeams": false,
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "مباريات ودية للأندية",
-                            "hi": "क्लब फ्रेंडली गेम्स",
-                            "bn": "ক্লাব ফ্রেন্ডলি গেমস"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "priority": 0,
-                "isGroup": false,
-                "isLive": false,
-                "id": 86,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "مباريات ودية للأندية",
-                        "hi": "क्लब फ्रेंडली गेम्स",
-                        "bn": "ক্লাব ফ্রেন্ডলি গেমস"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "season": {
-                "name": "Club Friendly Games 2025",
-                "year": "2025",
-                "editor": false,
-                "id": 69580
-            },
-            "customId": "pebsOlG",
-            "status": {
-                "code": 100,
-                "description": "Ended",
-                "type": "finished"
-            },
-            "winnerCode": 1,
-            "homeTeam": {
-                "name": "Palermo",
-                "slug": "palermo",
-                "shortName": "Palermo",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 36235,
-                "nameCode": "PAL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2715,
-                "country": {
-                    "alpha2": "IT",
-                    "alpha3": "ITA",
-                    "name": "Italy",
-                    "slug": "italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffb3d9",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                },
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "باليرمو",
-                        "ru": "Палермо"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "awayTeam": {
-                "name": "Vallée d'Aoste",
-                "slug": "vallee-daoste",
-                "shortName": "Vallée",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 31,
-                "nameCode": "VD'",
-                "national": false,
-                "type": 0,
-                "id": 78089,
-                "country": {
-                    "alpha2": "IT",
-                    "alpha3": "ITA",
-                    "name": "Italy",
-                    "slug": "italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#a00030",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                },
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "فاليه د'أوست",
-                        "ru": "Валее Д'аосте"
-                    },
-                    "shortNameTranslation": {
-                        "ar": "فاليه"
-                    }
-                }
-            },
-            "homeScore": {
-                "current": 9,
-                "display": 9,
-                "period1": 0,
-                "period2": 8,
-                "normaltime": 8
-            },
-            "awayScore": {
-                "current": 0,
-                "display": 0,
-                "period1": 0,
-                "period2": 0,
-                "normaltime": 0
-            },
-            "coverage": -1,
-            "time": {
-                "currentPeriodStartTimestamp": 1752769800
-            },
-            "changes": {
-                "changes": [
-                    "homeScore.current",
-                    "homeScore.display"
-                ],
-                "changeTimestamp": 1752773554
-            },
-            "hasGlobalHighlights": true,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 14181054,
-            "slug": "vallee-daoste-palermo",
-            "startTimestamp": 1752766200,
-            "finalResultOnly": false,
-            "feedLocked": true,
-            "isEditor": false
         }
     ],
-    "endTime": "2026-02-07T11:09:25.160Z",
-    "totalTimeSeconds": 27.5,
+    "endTime": "2026-02-09T19:17:14.736Z",
+    "totalTimeSeconds": 28.45,
     "combinedMatchStatistics": {
-        "corners": "7/3[A]+4/2[A]+9/8[H]+6/3[A]+3/8[H]+4/4[A]+5/1[H]+3/4[H]",
-        "fouls": "18/13[A]+17/17[A]+18/17[H]+18/7[A]+12/11[H]+22/15[A]+12/18[H]+17/12[H]",
-        "goalKicks": "7/11[A]+9/4[A]+5/11[H]+6/8[A]+4/5[H]+4/10[A]+7/5[H]+6/8[H]",
-        "saves": "1/2[A]+1/2[A]+2/3[H]+1/4[A]+6/1[H]+6/1[A]+1/4[H]+2/4[H]",
-        "offsides": "1/0[A]+1/1[A]+1/5[H]+1/5[A]+0/5[H]+0/3[A]+1/3[H]+2/2[H]",
-        "shotsOnTarget": "5/1[A]+2/1[A]+4/3[H]+6/2[A]+3/6[H]+3/9[A]+5/1[H]+9/2[H]",
-        "yellowCards": "4/3[A]+1/1[A]+2/3[H]+2/3[A]+2/2[H]+4/4[A]+0/0[H]+2/3[H]",
-        "goals": "3/0[A]+0/0[A]+1/0[H]+1/1[A]+1/0[H]+2/2[A]+1/0[H]+5/0[H]",
-        "throwIns": "25/18[A]+21/31[A]+15/19[H]+18/24[A]+23/26[H]+14/15[A]+18/28[H]+17/20[H]",
-        "averageBallPossession": "50/50[A]+54/46[A]+48/52[H]+36/64[A]+41/59[H]+47/53[A]+43/57[H]+55/45[H]",
-        "teams": "Palermo,Bari,Away+Palermo,Modena,Away+Palermo,Spezia,Home+Palermo,Mantova,Away+Palermo,Padova,Home+Palermo,Avellino,Away+Palermo,Sampdoria,Home+Palermo,Carrarese,Home",
-        "tackles": "17/11[A]+18/13[A]+15/19[H]+13/17[A]+11/15[H]+12/5[A]+18/10[H]+13/12[H]",
-        "interceptions": "3/7[A]+3/6[A]+5/5[H]+5/5[A]+9/13[H]+10/3[A]+5/4[H]+8/5[H]",
-        "aerialDuels": "35/29[A]+24/23[A]+19/34[H]+26/19[A]+16/18[H]+18/10[A]+23/18[H]+11/16[H]",
-        "aerialDuelsAttempted": "64/64[A]+47/47[A]+53/53[H]+45/45[A]+34/34[H]+28/28[A]+41/41[H]+27/27[H]",
-        "dribbles": "7/7[A]+2/3[A]+3/9[H]+4/2[A]+2/4[H]+3/6[A]+2/10[H]+5/4[H]",
-        "dribblesAttempted": "14/20[A]+10/10[A]+10/16[H]+17/6[A]+10/9[H]+5/15[A]+7/17[H]+9/10[H]",
-        "isHome": "false+false+true+false+true+false+true+true",
-        "cornersTotals": "41/33",
-        "cornersTotalsHome": "20/21",
+        "corners": "3/5[H]+7/3[A]+4/2[A]+9/8[H]+6/3[A]+3/8[H]+4/4[A]+5/1[H]",
+        "fouls": "19/16[H]+18/13[A]+17/17[A]+18/17[H]+18/7[A]+12/11[H]+22/15[A]+12/18[H]",
+        "goalKicks": "7/4[H]+7/11[A]+9/4[A]+5/11[H]+6/8[A]+4/5[H]+4/10[A]+7/5[H]",
+        "saves": "6/1[H]+1/2[A]+1/2[A]+2/3[H]+1/4[A]+6/1[H]+6/1[A]+1/4[H]",
+        "offsides": "2/2[H]+1/0[A]+1/1[A]+1/5[H]+1/5[A]+0/5[H]+0/3[A]+1/3[H]",
+        "shotsOnTarget": "3/8[H]+5/1[A]+2/1[A]+4/3[H]+6/2[A]+3/6[H]+3/9[A]+5/1[H]",
+        "yellowCards": "2/4[H]+4/3[A]+1/1[A]+2/3[H]+2/3[A]+2/2[H]+4/4[A]+0/0[H]",
+        "goals": "3/2[H]+3/0[A]+0/0[A]+1/0[H]+1/1[A]+1/0[H]+2/2[A]+1/0[H]",
+        "throwIns": "25/16[H]+25/18[A]+21/31[A]+15/19[H]+18/24[A]+23/26[H]+14/15[A]+18/28[H]",
+        "averageBallPossession": "57/43[H]+50/50[A]+54/46[A]+48/52[H]+36/64[A]+41/59[H]+47/53[A]+43/57[H]",
+        "teams": "Palermo,Empoli,Home+Palermo,Bari,Away+Palermo,Modena,Away+Palermo,Spezia,Home+Palermo,Mantova,Away+Palermo,Padova,Home+Palermo,Avellino,Away+Palermo,Sampdoria,Home",
+        "tackles": "8/15[H]+17/11[A]+18/13[A]+15/19[H]+13/17[A]+11/15[H]+12/5[A]+18/10[H]",
+        "interceptions": "7/10[H]+3/7[A]+3/6[A]+5/5[H]+5/5[A]+9/13[H]+10/3[A]+5/4[H]",
+        "aerialDuels": "9/8[H]+35/29[A]+24/23[A]+19/34[H]+26/19[A]+16/18[H]+18/10[A]+23/18[H]",
+        "aerialDuelsAttempted": "17/17[H]+64/64[A]+47/47[A]+53/53[H]+45/45[A]+34/34[H]+28/28[A]+41/41[H]",
+        "dribbles": "8/5[H]+7/7[A]+2/3[A]+3/9[H]+4/2[A]+2/4[H]+3/6[A]+2/10[H]",
+        "dribblesAttempted": "17/9[H]+14/20[A]+10/10[A]+10/16[H]+17/6[A]+10/9[H]+5/15[A]+7/17[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "41/34",
+        "cornersTotalsHome": "20/22",
         "cornersTotalsAway": "21/12",
-        "cornersAverage": "5.13/4.13",
-        "cornersAverageHome": "5.00/5.25",
+        "cornersAverage": "5.13/4.25",
+        "cornersAverageHome": "5.00/5.50",
         "cornersAverageAway": "5.25/3.00",
-        "foulsTotals": "134/110",
-        "foulsTotalsHome": "59/58",
+        "foulsTotals": "136/114",
+        "foulsTotalsHome": "61/62",
         "foulsTotalsAway": "75/52",
-        "foulsAverage": "16.75/13.75",
-        "foulsAverageHome": "14.75/14.50",
+        "foulsAverage": "17.00/14.25",
+        "foulsAverageHome": "15.25/15.50",
         "foulsAverageAway": "18.75/13.00",
-        "goalKicksTotals": "48/62",
-        "goalKicksTotalsHome": "22/29",
+        "goalKicksTotals": "49/58",
+        "goalKicksTotalsHome": "23/25",
         "goalKicksTotalsAway": "26/33",
-        "goalKicksAverage": "6.00/7.75",
-        "goalKicksAverageHome": "5.50/7.25",
+        "goalKicksAverage": "6.13/7.25",
+        "goalKicksAverageHome": "5.75/6.25",
         "goalKicksAverageAway": "6.50/8.25",
-        "savesTotals": "20/21",
-        "savesTotalsHome": "11/12",
+        "savesTotals": "24/18",
+        "savesTotalsHome": "15/9",
         "savesTotalsAway": "9/9",
-        "savesAverage": "2.50/2.63",
-        "savesAverageHome": "2.75/3.00",
+        "savesAverage": "3.00/2.25",
+        "savesAverageHome": "3.75/2.25",
         "savesAverageAway": "2.25/2.25",
         "offsidesTotals": "7/24",
         "offsidesTotalsHome": "4/15",
@@ -7004,71 +7040,71 @@
         "offsidesAverage": "0.88/3.00",
         "offsidesAverageHome": "1.00/3.75",
         "offsidesAverageAway": "0.75/2.25",
-        "shotsOnTargetTotals": "37/25",
-        "shotsOnTargetTotalsHome": "21/12",
+        "shotsOnTargetTotals": "31/31",
+        "shotsOnTargetTotalsHome": "15/18",
         "shotsOnTargetTotalsAway": "16/13",
-        "shotsOnTargetAverage": "4.63/3.13",
-        "shotsOnTargetAverageHome": "5.25/3.00",
+        "shotsOnTargetAverage": "3.88/3.88",
+        "shotsOnTargetAverageHome": "3.75/4.50",
         "shotsOnTargetAverageAway": "4.00/3.25",
-        "yellowCardsTotals": "17/19",
-        "yellowCardsTotalsHome": "6/8",
+        "yellowCardsTotals": "17/20",
+        "yellowCardsTotalsHome": "6/9",
         "yellowCardsTotalsAway": "11/11",
-        "yellowCardsAverage": "2.13/2.38",
-        "yellowCardsAverageHome": "1.50/2.00",
+        "yellowCardsAverage": "2.13/2.50",
+        "yellowCardsAverageHome": "1.50/2.25",
         "yellowCardsAverageAway": "2.75/2.75",
-        "goalsTotals": "14/3",
-        "goalsTotalsHome": "8/0",
+        "goalsTotals": "12/5",
+        "goalsTotalsHome": "6/2",
         "goalsTotalsAway": "6/3",
-        "goalsAverage": "1.75/0.38",
-        "goalsAverageHome": "2.00/0.00",
+        "goalsAverage": "1.50/0.63",
+        "goalsAverageHome": "1.50/0.50",
         "goalsAverageAway": "1.50/0.75",
-        "throwInsTotals": "151/181",
-        "throwInsTotalsHome": "73/93",
+        "throwInsTotals": "159/177",
+        "throwInsTotalsHome": "81/89",
         "throwInsTotalsAway": "78/88",
-        "throwInsAverage": "18.88/22.63",
-        "throwInsAverageHome": "18.25/23.25",
+        "throwInsAverage": "19.88/22.13",
+        "throwInsAverageHome": "20.25/22.25",
         "throwInsAverageAway": "19.50/22.00",
-        "averageBallPossessionTotals": "374/426",
-        "averageBallPossessionTotalsHome": "187/213",
+        "averageBallPossessionTotals": "376/424",
+        "averageBallPossessionTotalsHome": "189/211",
         "averageBallPossessionTotalsAway": "187/213",
-        "averageBallPossessionAverage": "46.75/53.25",
-        "averageBallPossessionAverageHome": "46.75/53.25",
+        "averageBallPossessionAverage": "47.00/53.00",
+        "averageBallPossessionAverageHome": "47.25/52.75",
         "averageBallPossessionAverageAway": "46.75/53.25",
-        "tacklesTotals": "117/102",
-        "tacklesTotalsHome": "57/56",
+        "tacklesTotals": "112/105",
+        "tacklesTotalsHome": "52/59",
         "tacklesTotalsAway": "60/46",
-        "tacklesAverage": "14.63/12.75",
-        "tacklesAverageHome": "14.25/14.00",
+        "tacklesAverage": "14.00/13.13",
+        "tacklesAverageHome": "13.00/14.75",
         "tacklesAverageAway": "15.00/11.50",
-        "interceptionsTotals": "48/48",
-        "interceptionsTotalsHome": "27/27",
+        "interceptionsTotals": "47/53",
+        "interceptionsTotalsHome": "26/32",
         "interceptionsTotalsAway": "21/21",
-        "interceptionsAverage": "6.00/6.00",
-        "interceptionsAverageHome": "6.75/6.75",
+        "interceptionsAverage": "5.88/6.63",
+        "interceptionsAverageHome": "6.50/8.00",
         "interceptionsAverageAway": "5.25/5.25",
-        "aerialDuelsTotals": "172/167",
-        "aerialDuelsTotalsHome": "69/86",
+        "aerialDuelsTotals": "170/159",
+        "aerialDuelsTotalsHome": "67/78",
         "aerialDuelsTotalsAway": "103/81",
-        "aerialDuelsAverage": "21.50/20.88",
-        "aerialDuelsAverageHome": "17.25/21.50",
+        "aerialDuelsAverage": "21.25/19.88",
+        "aerialDuelsAverageHome": "16.75/19.50",
         "aerialDuelsAverageAway": "25.75/20.25",
-        "aerialDuelsAttemptedTotals": "339/339",
-        "aerialDuelsAttemptedTotalsHome": "155/155",
+        "aerialDuelsAttemptedTotals": "329/329",
+        "aerialDuelsAttemptedTotalsHome": "145/145",
         "aerialDuelsAttemptedTotalsAway": "184/184",
-        "aerialDuelsAttemptedAverage": "42.38/42.38",
-        "aerialDuelsAttemptedAverageHome": "38.75/38.75",
+        "aerialDuelsAttemptedAverage": "41.13/41.13",
+        "aerialDuelsAttemptedAverageHome": "36.25/36.25",
         "aerialDuelsAttemptedAverageAway": "46.00/46.00",
-        "dribblesTotals": "28/45",
-        "dribblesTotalsHome": "12/27",
+        "dribblesTotals": "31/46",
+        "dribblesTotalsHome": "15/28",
         "dribblesTotalsAway": "16/18",
-        "dribblesAverage": "3.50/5.63",
-        "dribblesAverageHome": "3.00/6.75",
+        "dribblesAverage": "3.88/5.75",
+        "dribblesAverageHome": "3.75/7.00",
         "dribblesAverageAway": "4.00/4.50",
-        "dribblesAttemptedTotals": "82/103",
-        "dribblesAttemptedTotalsHome": "36/52",
+        "dribblesAttemptedTotals": "90/102",
+        "dribblesAttemptedTotalsHome": "44/51",
         "dribblesAttemptedTotalsAway": "46/51",
-        "dribblesAttemptedAverage": "10.25/12.88",
-        "dribblesAttemptedAverageHome": "9.00/13.00",
+        "dribblesAttemptedAverage": "11.25/12.75",
+        "dribblesAttemptedAverageHome": "11.00/12.75",
         "dribblesAttemptedAverageAway": "11.50/12.75"
     }
 }
