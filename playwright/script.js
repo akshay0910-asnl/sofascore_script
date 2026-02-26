@@ -24,7 +24,7 @@ const CONFIG = {
   selectors: {
     statisticsTab: '[data-testid="tab-statistics"]',
     tournamentCombobox:
-      'button.dropdown__button[role="combobox"][aria-haspopup="listbox"]',
+      '[id^="tabpanel"] button.dropdown__button[role="combobox"][aria-haspopup="listbox"]',
     cardComponent: ".md\\:bg_surface\\.s1.card-component",
     tournamentElement:
       ".md\\:bg_surface\\.s1.card-component .card-component.never",
@@ -601,7 +601,18 @@ async function extractTournament(page, teamId) {
       timeout: CONFIG.timeouts.combobox,
     });
 
+    // Probe: print innerText of all matching elements for debugging
+    // const probeTexts = await page.$$eval(
+    //   CONFIG.selectors.tournamentCombobox,
+    //   els => els.map(el => (el.innerText || '').trim())
+    // );
+    // console.log(`Probe selector "${CONFIG.selectors.tournamentCombobox}" matches:`, probeTexts.length);
+    // probeTexts.forEach((t, i) => console.log(`#${i}:`, t));
+
     const button = await page.$(CONFIG.selectors.tournamentCombobox);
+    if (!button) {
+      throw new Error(`Tournament combobox not found using selector: ${CONFIG.selectors.tournamentCombobox}`);
+    }
     //result.tournament = await button.evaluate(el => el.innerText);
     cache[teamId].tournament = await button.evaluate((el) => el.innerText);
     console.log(`✓ Tournament: ${cache[teamId].tournament}`);
@@ -752,7 +763,10 @@ async function extractTournamentMatches(page, index, teamId) {
 
     // Skip if not the current tournament
     //if (headerText !== result.tournament) return;
-    if (headerText !== cache[teamId].tournament) return;
+    if (headerText !== cache[teamId].tournament) {
+      console.log(`⚠ Skipping tournament: headerText="${headerText}" does not match expected="${cache[teamId].tournament}" for teamId=${teamId}`);
+      return;
+    }
 
     const linkElements = await page.$$(`${selector} a`);
 
