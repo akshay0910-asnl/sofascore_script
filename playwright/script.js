@@ -611,7 +611,9 @@ async function extractTournament(page, teamId) {
 
     const button = await page.$(CONFIG.selectors.tournamentCombobox);
     if (!button) {
-      throw new Error(`Tournament combobox not found using selector: ${CONFIG.selectors.tournamentCombobox}`);
+      throw new Error(
+        `Tournament combobox not found using selector: ${CONFIG.selectors.tournamentCombobox}`,
+      );
     }
     //result.tournament = await button.evaluate(el => el.innerText);
     cache[teamId].tournament = await button.evaluate((el) => el.innerText);
@@ -627,6 +629,8 @@ async function extractTournament(page, teamId) {
 
 async function extractMatchScore(linkElement, index, teamId) {
   try {
+    const html = await linkElement.evaluate((el) => el.innerHTML);
+    console.log(html);
     const hasFT = await linkElement
       .$(CONFIG.selectors.ftIndicator)
       .catch(() => null);
@@ -764,7 +768,9 @@ async function extractTournamentMatches(page, index, teamId) {
     // Skip if not the current tournament
     //if (headerText !== result.tournament) return;
     if (headerText !== cache[teamId].tournament) {
-      console.log(`⚠ Skipping tournament: headerText="${headerText}" does not match expected="${cache[teamId].tournament}" for teamId=${teamId}`);
+      console.log(
+        `⚠ Skipping tournament: headerText="${headerText}" does not match expected="${cache[teamId].tournament}" for teamId=${teamId}`,
+      );
       return;
     }
 
