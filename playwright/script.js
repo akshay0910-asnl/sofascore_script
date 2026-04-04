@@ -359,10 +359,6 @@ const handleMatchStatisticsResponse = async (
       }
       console.log("On index:", index, "Match ID:", matchId);
       const data = await response.json();
-      // result.matchStatistics[index] = {
-      // 	...(result.matchStatistics[index] || {}),
-      // 	...transformMatchStatistics(data, match)
-      // };
 
       ///Commented next three lines to get rid of reference problem
       cache[teamId].matchStatistics[index] = {
@@ -485,6 +481,7 @@ async function navigateToPage(page, url, teamId) {
   }
 }
 
+/* UNUSED FUNCTION - NOT CALLED BY ACTIVE WORKFLOW
 async function clickStatisticsTab(page) {
   try {
     await page.waitForSelector(CONFIG.selectors.statisticsTab, {
@@ -497,6 +494,7 @@ async function clickStatisticsTab(page) {
     console.error("✗ Could not click statistics tab:", err.message);
   }
 }
+*/
 
 async function navigateToMatchPage(page, match, index, teamId, parentPage) {
   try {
@@ -627,6 +625,7 @@ async function extractTournament(page, teamId) {
 // MATCH DATA EXTRACTION FROM TEAM PAGE
 // ============================================================================
 
+/* UNUSED FUNCTION - ONLY CALLED BY extractTournamentMatches (WHICH IS ALSO UNUSED)
 async function extractMatchScore(linkElement, index, teamId) {
   try {
     const html = await linkElement.evaluate((el) => el.innerHTML);
@@ -745,7 +744,9 @@ async function extractMatchScore(linkElement, index, teamId) {
     return;
   }
 }
+*/
 
+/* UNUSED FUNCTION - ONLY CALLED BY processAllMatches (WHICH IS ALSO UNUSED)
 async function extractTournamentMatches(page, index, teamId) {
   // if (result.homeMatchCount >= 4 && result.awayMatchCount >= 4) {
   // 	return;
@@ -789,6 +790,7 @@ async function extractTournamentMatches(page, index, teamId) {
     return null;
   }
 }
+*/
 
 async function processAllMatchesNew(page, context, teamId) {
   if (!cache[teamId].recentEvents || cache[teamId].recentEvents.length === 0) {
@@ -873,6 +875,7 @@ async function processAllMatchesNew(page, context, teamId) {
   }
 }
 
+/* UNUSED FUNCTION - REPLACED BY processAllMatchesNew IN ACTIVE WORKFLOW
 async function processAllMatches(page, context, teamId) {
   try {
     await page.waitForSelector(CONFIG.selectors.cardComponent, {
@@ -911,6 +914,7 @@ async function processAllMatches(page, context, teamId) {
     console.error("✗ Error processing matches:", err.message);
   }
 }
+*/
 
 // ============================================================================
 // MATCH DATA EXTRACTION FROM MATCH PAGE
@@ -1090,7 +1094,7 @@ async function extractTeamMetadata(page, teamId) {
  */
 async function collectMatchData(page, context, teamId) {
   // Extract match links from team page (4 home + 4 away matches)
-  await processAllMatches(page, context, teamId);
+  await processAllMatchesNew(page, context, teamId);
 
   // Alternative: Extract from recent events API (not currently used)
   // await processAllMatchesNew(page, context, teamId);
@@ -1167,6 +1171,7 @@ function isAllDataCollected(teamId) {
 }
 
 async function writeStatisticsToFile(teamId) {
+  delete cache[teamId].recentEvents;
   const filePath = path.join(
     __dirname,
     "..",
@@ -1191,10 +1196,25 @@ async function writeStatisticsToFile(teamId) {
 // MAIN ENTRY POINT
 // ============================================================================
 
-async function scrape(teamId) {
+async function scrape(teamId, proxyConfig = null, delayMs = 0) {
   let browser;
   try {
-    browser = await chromium.launch({ headless: false });
+    // Add delay before starting (useful for rate limiting)
+    if (delayMs > 0) {
+      console.log(
+        `⏸️  Delaying ${delayMs}ms before scraping team ${teamId}...`,
+      );
+      await new Promise((resolve) => setTimeout(resolve, delayMs));
+    }
+
+    // Launch browser with proxy if provided
+    const launchOptions = { headless: false };
+    if (proxyConfig) {
+      launchOptions.proxy = proxyConfig;
+      console.log(`🔐 Using proxy for team ${teamId}`);
+    }
+
+    browser = await chromium.launch(launchOptions);
     // ✅ Create one context (one window)
     const context = await browser.newContext();
 
