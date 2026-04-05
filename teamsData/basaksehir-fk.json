@@ -1,21 +1,21 @@
 {
     "globalStatistics": {
-        "corners": "5.21",
-        "fouls": "13.68",
-        "goalKicks": "7.74",
-        "saves": "3.37",
-        "offsides": "1.21",
-        "shotsOnTarget": "4.53/4.42",
-        "yellowCards": "2.11/2.63",
-        "goals": "1.68/1.00",
-        "throwIns": "18.26",
-        "ballPossession": 55.578947368421,
-        "tackles": "14.05/13.63",
-        "interceptions": "8.16/7.21",
-        "aerialDuels": "14.89",
-        "aerialDuelsAttempted": "27.11",
-        "dribbles": "8.42/7.53",
-        "dribblesAttempted": "14.42/13.89"
+        "corners": "4.85",
+        "fouls": "13.56",
+        "goalKicks": "7.59",
+        "saves": "3.26",
+        "offsides": "1.15",
+        "shotsOnTarget": "4.70/4.41",
+        "yellowCards": "2.11/2.41",
+        "goals": "1.63/1.11",
+        "throwIns": "18.11",
+        "ballPossession": 54.888888888889,
+        "tackles": "13.37/13.52",
+        "interceptions": "8.07/7.63",
+        "aerialDuels": "15.15",
+        "aerialDuelsAttempted": "27.04",
+        "dribbles": "7.74/7.30",
+        "dribblesAttempted": "13.59/13.22"
     },
     "teamSlug": "basaksehir-fk",
     "teamId": "3086",
@@ -23,130 +23,130 @@
     "tournament": "Trendyol Süper Lig",
     "matchLinks": [
         {
+            "href": "https://www.sofascore.com/football/match/basaksehir-fk-antalyaspor/glbsLlb#id:14109853,tab:statistics",
+            "teams": [
+                "Başakşehir FK",
+                "Antalyaspor"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3086,
+                3056
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basaksehir-fk-galatasaray/llbsLlb#id:14109844,tab:statistics",
+            "teams": [
+                "Galatasaray",
+                "Başakşehir FK"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                3061,
+                3086
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basaksehir-fk-goztepe/elbsLlb#id:14109837,tab:statistics",
+            "teams": [
+                "Başakşehir FK",
+                "Göztepe"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                3086,
+                3054
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basaksehir-fk-konyaspor/KlbsLlb#id:14109821,tab:statistics",
+            "teams": [
+                "Başakşehir FK",
+                "Konyaspor"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3086,
+                3085
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/alanyaspor-basaksehir-fk/LlbsmCc#id:14109816,tab:statistics",
+            "teams": [
+                "Alanyaspor",
+                "Başakşehir FK"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                6362,
+                3086
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/basaksehir-fk-besiktas/albsLlb#id:14109803,tab:statistics",
+            "teams": [
+                "Başakşehir FK",
+                "Beşiktaş JK"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                3086,
+                3050
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eyupspor-basaksehir-fk/LlbsPPc#id:14109790,tab:statistics",
+            "teams": [
+                "Eyüpspor",
+                "Başakşehir FK"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                7040,
+                3086
+            ],
+            "isHome": false
+        },
+        {
             "href": "https://www.sofascore.com/football/match/basaksehir-fk-kayserispor/xlbsLlb#id:14109775,tab:statistics",
             "teams": [
                 "Kayserispor",
-                "Başakşehir"
+                "Başakşehir FK"
             ],
             "goals": [
-                "0",
-                "3"
+                0,
+                3
             ],
             "teamIds": [
-                "3072",
-                "3086"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/fatih-karagumruk-basaksehir-fk/LlbseZb#id:14109766,tab:statistics",
-            "teams": [
-                "Başakşehir",
-                "Karagümrük"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "3086",
-                "4954"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/gaziantep-fk-basaksehir-fk/LlbsNcc#id:14109756,tab:statistics",
-            "teams": [
-                "Başakşehir",
-                "Gaziantep"
-            ],
-            "goals": [
-                "5",
-                "1"
-            ],
-            "teamIds": [
-                "3086",
-                "5138"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/basaksehir-fk-samsunspor/dlbsLlb#id:14109736,tab:statistics",
-            "teams": [
-                "Samsunspor",
-                "Başakşehir"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "3053",
-                "3086"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/basaksehir-fk-fenerbahce/clbsLlb#id:14109747,tab:statistics",
-            "teams": [
-                "Başakşehir",
-                "Fenerbahçe"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "3086",
-                "3052"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/kasimpasa-basaksehir-fk/Llbsnwc#id:14109723,tab:statistics",
-            "teams": [
-                "Kasımpaşa",
-                "Başakşehir"
-            ],
-            "goals": [
-                "1",
-                "3"
-            ],
-            "teamIds": [
-                "6063",
-                "3086"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/basaksehir-fk-trabzonspor/blbsLlb#id:14109718,tab:statistics",
-            "teams": [
-                "Başakşehir",
-                "Trabzonspor"
-            ],
-            "goals": [
-                "3",
-                "4"
-            ],
-            "teamIds": [
-                "3086",
-                "3051"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/genclerbirligi-basaksehir-fk/Llbscgd#id:14109711,tab:statistics",
-            "teams": [
-                "Gençlerbirliği",
-                "Başakşehir"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "7802",
-                "3086"
+                3072,
+                3086
             ],
             "isHome": false
         }
@@ -154,6 +154,146 @@
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "2/3[H]",
+            "fouls": "12/18[H]",
+            "goalKicks": "7/18[H]",
+            "saves": "4/6[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "23/19[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Başakşehir FK,Antalyaspor,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "13/19[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "15/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/5[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "8/17[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Başakşehir FK,Galatasaray,Away",
+            "tackles": "18/11[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "12/10[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "8/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "14/5[H]",
+            "saves": "7/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "4/9[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "20/22[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Başakşehir FK,Göztepe,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "17/21[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "3/10[H]",
+            "dribblesAttempted": "7/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "14/16[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/8[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Başakşehir FK,Konyaspor,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "4/9[H]",
+            "aerialDuels": "18/8[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "12/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "5/5[A]",
+            "goals": "2/1[A]",
+            "throwIns": "17/16[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Başakşehir FK,Alanyaspor,Away",
+            "tackles": "7/12[A]",
+            "interceptions": "8/8[A]",
+            "aerialDuels": "23/10[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/2[A]",
+            "dribblesAttempted": "11/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "20/20[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Başakşehir FK,Beşiktaş JK,Home",
+            "tackles": "7/12[H]",
+            "interceptions": "11/7[H]",
+            "aerialDuels": "16/9[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/0[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "4/9[A]",
+            "saves": "1/9[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "11/2[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "20/17[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Başakşehir FK,Eyüpspor,Away",
+            "tackles": "11/15[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "13/7[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "10/10[A]",
+            "dribblesAttempted": "17/14[A]",
+            "isHome": false
+        },
         {
             "corners": "4/10[A]",
             "fouls": "18/8[A]",
@@ -165,7 +305,7 @@
             "goals": "3/0[A]",
             "throwIns": "31/22[A]",
             "averageBallPossession": "55/45[A]",
-            "teams": "Başakşehir,Kayserispor,Away",
+            "teams": "Başakşehir FK,Kayserispor,Away",
             "tackles": "6/10[A]",
             "interceptions": "11/12[A]",
             "aerialDuels": "14/7[A]",
@@ -173,266 +313,127 @@
             "dribbles": "13/4[A]",
             "dribblesAttempted": "16/8[A]",
             "isHome": false
-        },
-        {
-            "corners": "5/1[H]",
-            "fouls": "17/8[H]",
-            "goalKicks": "9/7[H]",
-            "saves": "4/4[H]",
-            "offsides": "0/5[H]",
-            "shotsOnTarget": "6/5[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "2/1[H]",
-            "throwIns": "16/18[H]",
-            "averageBallPossession": "62/38[H]",
-            "teams": "Başakşehir,Karagümrük,Home",
-            "tackles": "11/13[H]",
-            "interceptions": "15/7[H]",
-            "aerialDuels": "11/4[H]",
-            "aerialDuelsAttempted": "15/15[H]",
-            "dribbles": "2/9[H]",
-            "dribblesAttempted": "10/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/3[H]",
-            "fouls": "19/14[H]",
-            "goalKicks": "6/9[H]",
-            "saves": "2/3[H]",
-            "offsides": "0/2[H]",
-            "shotsOnTarget": "7/3[H]",
-            "yellowCards": "3/4[H]",
-            "goals": "5/1[H]",
-            "throwIns": "17/11[H]",
-            "averageBallPossession": "58/42[H]",
-            "teams": "Başakşehir,Gaziantep,Home",
-            "tackles": "15/16[H]",
-            "interceptions": "5/4[H]",
-            "aerialDuels": "10/9[H]",
-            "aerialDuelsAttempted": "19/19[H]",
-            "dribbles": "9/11[H]",
-            "dribblesAttempted": "16/21[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/7[A]",
-            "fouls": "9/17[A]",
-            "goalKicks": "5/9[A]",
-            "saves": "4/4[A]",
-            "offsides": "0/3[A]",
-            "shotsOnTarget": "6/4[A]",
-            "yellowCards": "0/0[A]",
-            "goals": "2/0[A]",
-            "throwIns": "24/15[A]",
-            "averageBallPossession": "47/53[A]",
-            "teams": "Başakşehir,Samsunspor,Away",
-            "tackles": "12/18[A]",
-            "interceptions": "5/5[A]",
-            "aerialDuels": "17/14[A]",
-            "aerialDuelsAttempted": "31/31[A]",
-            "dribbles": "8/5[A]",
-            "dribblesAttempted": "14/9[A]",
-            "isHome": false
-        },
-        {
-            "corners": "10/8[H]",
-            "fouls": "8/13[H]",
-            "goalKicks": "9/7[H]",
-            "saves": "1/4[H]",
-            "offsides": "1/5[H]",
-            "shotsOnTarget": "4/2[H]",
-            "yellowCards": "2/3[H]",
-            "goals": "1/1[H]",
-            "throwIns": "19/17[H]",
-            "averageBallPossession": "52/48[H]",
-            "teams": "Başakşehir,Fenerbahçe,Home",
-            "tackles": "14/15[H]",
-            "interceptions": "8/3[H]",
-            "aerialDuels": "17/21[H]",
-            "aerialDuelsAttempted": "38/38[H]",
-            "dribbles": "9/6[H]",
-            "dribblesAttempted": "12/13[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/12[A]",
-            "fouls": "17/13[A]",
-            "goalKicks": "10/7[A]",
-            "saves": "2/2[A]",
-            "offsides": "1/4[A]",
-            "shotsOnTarget": "6/5[A]",
-            "yellowCards": "5/4[A]",
-            "goals": "3/1[A]",
-            "throwIns": "11/23[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "Başakşehir,Kasımpaşa,Away",
-            "tackles": "15/13[A]",
-            "interceptions": "4/3[A]",
-            "aerialDuels": "20/15[A]",
-            "aerialDuelsAttempted": "35/35[A]",
-            "dribbles": "8/9[A]",
-            "dribblesAttempted": "15/15[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/10[H]",
-            "fouls": "15/11[H]",
-            "goalKicks": "8/6[H]",
-            "saves": "8/0[H]",
-            "offsides": "0/5[H]",
-            "shotsOnTarget": "3/12[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "3/4[H]",
-            "throwIns": "16/16[H]",
-            "averageBallPossession": "36/64[H]",
-            "teams": "Başakşehir,Trabzonspor,Home",
-            "tackles": "19/13[H]",
-            "interceptions": "10/7[H]",
-            "aerialDuels": "19/14[H]",
-            "aerialDuelsAttempted": "33/33[H]",
-            "dribbles": "2/6[H]",
-            "dribblesAttempted": "11/14[H]",
-            "isHome": true
-        },
-        {
-            "corners": "9/4[A]",
-            "fouls": "8/20[A]",
-            "goalKicks": "5/12[A]",
-            "saves": "5/2[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "3/7[A]",
-            "yellowCards": "3/2[A]",
-            "goals": "1/2[A]",
-            "throwIns": "15/12[A]",
-            "averageBallPossession": "72/28[A]",
-            "teams": "Başakşehir,Gençlerbirliği,Away",
-            "tackles": "11/13[A]",
-            "interceptions": "6/6[A]",
-            "aerialDuels": "18/14[A]",
-            "aerialDuelsAttempted": "32/32[A]",
-            "dribbles": "7/3[A]",
-            "dribblesAttempted": "11/9[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-31T11:57:13.737Z",
-    "endTime": "2026-01-31T11:57:52.028Z",
-    "totalTimeSeconds": 38.29,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T16:02:28.920Z",
+    "endTime": "2026-04-05T16:02:47.834Z",
+    "totalTimeSeconds": 18.91,
     "combinedMatchStatistics": {
-        "corners": "4/10[A]+5/1[H]+2/3[H]+2/7[A]+10/8[H]+3/12[A]+1/10[H]+9/4[A]",
-        "fouls": "18/8[A]+17/8[H]+19/14[H]+9/17[A]+8/13[H]+17/13[A]+15/11[H]+8/20[A]",
-        "goalKicks": "5/8[A]+9/7[H]+6/9[H]+5/9[A]+9/7[H]+10/7[A]+8/6[H]+5/12[A]",
-        "saves": "2/5[A]+4/4[H]+2/3[H]+4/4[A]+1/4[H]+2/2[A]+8/0[H]+5/2[A]",
-        "offsides": "1/3[A]+0/5[H]+0/2[H]+0/3[A]+1/5[H]+1/4[A]+0/5[H]+2/0[A]",
-        "shotsOnTarget": "7/2[A]+6/5[H]+7/3[H]+6/4[A]+4/2[H]+6/5[A]+3/12[H]+3/7[A]",
-        "yellowCards": "0/1[A]+2/2[H]+3/4[H]+0/0[A]+2/3[H]+5/4[A]+2/2[H]+3/2[A]",
-        "goals": "3/0[A]+2/1[H]+5/1[H]+2/0[A]+1/1[H]+3/1[A]+3/4[H]+1/2[A]",
-        "throwIns": "31/22[A]+16/18[H]+17/11[H]+24/15[A]+19/17[H]+11/23[A]+16/16[H]+15/12[A]",
-        "averageBallPossession": "55/45[A]+62/38[H]+58/42[H]+47/53[A]+52/48[H]+49/51[A]+36/64[H]+72/28[A]",
-        "teams": "Başakşehir,Kayserispor,Away+Başakşehir,Karagümrük,Home+Başakşehir,Gaziantep,Home+Başakşehir,Samsunspor,Away+Başakşehir,Fenerbahçe,Home+Başakşehir,Kasımpaşa,Away+Başakşehir,Trabzonspor,Home+Başakşehir,Gençlerbirliği,Away",
-        "tackles": "6/10[A]+11/13[H]+15/16[H]+12/18[A]+14/15[H]+15/13[A]+19/13[H]+11/13[A]",
-        "interceptions": "11/12[A]+15/7[H]+5/4[H]+5/5[A]+8/3[H]+4/3[A]+10/7[H]+6/6[A]",
-        "aerialDuels": "14/7[A]+11/4[H]+10/9[H]+17/14[A]+17/21[H]+20/15[A]+19/14[H]+18/14[A]",
-        "aerialDuelsAttempted": "21/21[A]+15/15[H]+19/19[H]+31/31[A]+38/38[H]+35/35[A]+33/33[H]+32/32[A]",
-        "dribbles": "13/4[A]+2/9[H]+9/11[H]+8/5[A]+9/6[H]+8/9[A]+2/6[H]+7/3[A]",
-        "dribblesAttempted": "16/8[A]+10/11[H]+16/21[H]+14/9[A]+12/13[H]+15/15[A]+11/14[H]+11/9[A]",
-        "isHome": "false+true+true+false+true+false+true+false",
-        "cornersTotals": "36/55",
-        "cornersTotalsHome": "18/22",
-        "cornersTotalsAway": "18/33",
-        "cornersAverage": "4.50/6.88",
-        "cornersAverageHome": "4.50/5.50",
-        "cornersAverageAway": "4.50/8.25",
-        "foulsTotals": "111/104",
-        "foulsTotalsHome": "59/46",
-        "foulsTotalsAway": "52/58",
-        "foulsAverage": "13.88/13.00",
-        "foulsAverageHome": "14.75/11.50",
-        "foulsAverageAway": "13.00/14.50",
-        "goalKicksTotals": "57/65",
-        "goalKicksTotalsHome": "32/29",
-        "goalKicksTotalsAway": "25/36",
-        "goalKicksAverage": "7.13/8.13",
-        "goalKicksAverageHome": "8.00/7.25",
-        "goalKicksAverageAway": "6.25/9.00",
-        "savesTotals": "28/24",
-        "savesTotalsHome": "15/11",
-        "savesTotalsAway": "13/13",
-        "savesAverage": "3.50/3.00",
-        "savesAverageHome": "3.75/2.75",
-        "savesAverageAway": "3.25/3.25",
-        "offsidesTotals": "5/27",
-        "offsidesTotalsHome": "1/17",
-        "offsidesTotalsAway": "4/10",
-        "offsidesAverage": "0.63/3.38",
-        "offsidesAverageHome": "0.25/4.25",
-        "offsidesAverageAway": "1.00/2.50",
-        "shotsOnTargetTotals": "42/40",
-        "shotsOnTargetTotalsHome": "20/22",
-        "shotsOnTargetTotalsAway": "22/18",
-        "shotsOnTargetAverage": "5.25/5.00",
-        "shotsOnTargetAverageHome": "5.00/5.50",
-        "shotsOnTargetAverageAway": "5.50/4.50",
-        "yellowCardsTotals": "17/18",
-        "yellowCardsTotalsHome": "9/11",
+        "corners": "2/3[H]+3/9[A]+3/5[H]+5/7[H]+2/6[A]+6/3[H]+7/0[A]+4/10[A]",
+        "fouls": "12/18[H]+12/13[A]+8/14[H]+14/16[H]+18/14[A]+12/13[H]+15/9[A]+18/8[A]",
+        "goalKicks": "7/18[H]+13/6[A]+14/5[H]+6/10[H]+3/10[A]+8/8[H]+4/9[A]+5/8[A]",
+        "saves": "4/6[H]+3/3[A]+7/2[H]+2/2[H]+1/1[A]+1/4[H]+1/9[A]+2/5[A]",
+        "offsides": "0/4[H]+0/5[A]+3/3[H]+1/8[H]+2/4[A]+1/3[H]+1/3[A]+1/3[A]",
+        "shotsOnTarget": "6/4[H]+3/6[A]+4/9[H]+4/2[H]+3/2[A]+6/4[H]+11/2[A]+7/2[A]",
+        "yellowCards": "3/4[H]+2/0[A]+1/2[H]+3/1[H]+5/5[A]+2/2[H]+1/1[A]+0/1[A]",
+        "goals": "0/0[H]+0/3[A]+2/1[H]+2/0[H]+2/1[A]+2/3[H]+2/1[A]+3/0[A]",
+        "throwIns": "23/19[H]+8/17[A]+20/22[H]+17/25[H]+17/16[A]+20/20[H]+20/17[A]+31/22[A]",
+        "averageBallPossession": "68/32[H]+33/67[A]+55/45[H]+54/46[H]+47/53[A]+57/43[H]+55/45[A]+55/45[A]",
+        "teams": "Başakşehir FK,Antalyaspor,Home+Başakşehir FK,Galatasaray,Away+Başakşehir FK,Göztepe,Home+Başakşehir FK,Konyaspor,Home+Başakşehir FK,Alanyaspor,Away+Başakşehir FK,Beşiktaş JK,Home+Başakşehir FK,Eyüpspor,Away+Başakşehir FK,Kayserispor,Away",
+        "tackles": "12/16[H]+18/11[A]+15/15[H]+13/12[H]+7/12[A]+7/12[H]+11/15[A]+6/10[A]",
+        "interceptions": "9/10[H]+6/7[A]+8/11[H]+4/9[H]+8/8[A]+11/7[H]+9/6[A]+11/12[A]",
+        "aerialDuels": "13/19[H]+12/10[A]+17/21[H]+18/8[H]+23/10[A]+16/9[H]+13/7[A]+14/7[A]",
+        "aerialDuelsAttempted": "32/32[H]+22/22[A]+38/38[H]+26/26[H]+33/33[A]+25/25[H]+20/20[A]+21/21[A]",
+        "dribbles": "9/4[H]+5/7[A]+3/10[H]+5/6[H]+7/2[A]+5/8[H]+10/10[A]+13/4[A]",
+        "dribblesAttempted": "15/10[H]+8/18[A]+7/17[H]+12/6[H]+11/8[A]+11/12[H]+17/14[A]+16/8[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "32/43",
+        "cornersTotalsHome": "16/18",
+        "cornersTotalsAway": "16/25",
+        "cornersAverage": "4.00/5.38",
+        "cornersAverageHome": "4.00/4.50",
+        "cornersAverageAway": "4.00/6.25",
+        "foulsTotals": "109/105",
+        "foulsTotalsHome": "46/61",
+        "foulsTotalsAway": "63/44",
+        "foulsAverage": "13.63/13.13",
+        "foulsAverageHome": "11.50/15.25",
+        "foulsAverageAway": "15.75/11.00",
+        "goalKicksTotals": "60/74",
+        "goalKicksTotalsHome": "35/41",
+        "goalKicksTotalsAway": "25/33",
+        "goalKicksAverage": "7.50/9.25",
+        "goalKicksAverageHome": "8.75/10.25",
+        "goalKicksAverageAway": "6.25/8.25",
+        "savesTotals": "21/32",
+        "savesTotalsHome": "14/14",
+        "savesTotalsAway": "7/18",
+        "savesAverage": "2.63/4.00",
+        "savesAverageHome": "3.50/3.50",
+        "savesAverageAway": "1.75/4.50",
+        "offsidesTotals": "9/33",
+        "offsidesTotalsHome": "5/18",
+        "offsidesTotalsAway": "4/15",
+        "offsidesAverage": "1.13/4.13",
+        "offsidesAverageHome": "1.25/4.50",
+        "offsidesAverageAway": "1.00/3.75",
+        "shotsOnTargetTotals": "44/31",
+        "shotsOnTargetTotalsHome": "20/19",
+        "shotsOnTargetTotalsAway": "24/12",
+        "shotsOnTargetAverage": "5.50/3.88",
+        "shotsOnTargetAverageHome": "5.00/4.75",
+        "shotsOnTargetAverageAway": "6.00/3.00",
+        "yellowCardsTotals": "17/16",
+        "yellowCardsTotalsHome": "9/9",
         "yellowCardsTotalsAway": "8/7",
-        "yellowCardsAverage": "2.13/2.25",
-        "yellowCardsAverageHome": "2.25/2.75",
+        "yellowCardsAverage": "2.13/2.00",
+        "yellowCardsAverageHome": "2.25/2.25",
         "yellowCardsAverageAway": "2.00/1.75",
-        "goalsTotals": "20/10",
-        "goalsTotalsHome": "11/7",
-        "goalsTotalsAway": "9/3",
-        "goalsAverage": "2.50/1.25",
-        "goalsAverageHome": "2.75/1.75",
-        "goalsAverageAway": "2.25/0.75",
-        "throwInsTotals": "149/134",
-        "throwInsTotalsHome": "68/62",
-        "throwInsTotalsAway": "81/72",
-        "throwInsAverage": "18.63/16.75",
-        "throwInsAverageHome": "17.00/15.50",
-        "throwInsAverageAway": "20.25/18.00",
-        "averageBallPossessionTotals": "431/369",
-        "averageBallPossessionTotalsHome": "208/192",
-        "averageBallPossessionTotalsAway": "223/177",
-        "averageBallPossessionAverage": "53.88/46.13",
-        "averageBallPossessionAverageHome": "52.00/48.00",
-        "averageBallPossessionAverageAway": "55.75/44.25",
-        "tacklesTotals": "103/111",
-        "tacklesTotalsHome": "59/57",
-        "tacklesTotalsAway": "44/54",
-        "tacklesAverage": "12.88/13.88",
-        "tacklesAverageHome": "14.75/14.25",
-        "tacklesAverageAway": "11.00/13.50",
-        "interceptionsTotals": "64/47",
-        "interceptionsTotalsHome": "38/21",
-        "interceptionsTotalsAway": "26/26",
-        "interceptionsAverage": "8.00/5.88",
-        "interceptionsAverageHome": "9.50/5.25",
-        "interceptionsAverageAway": "6.50/6.50",
-        "aerialDuelsTotals": "126/98",
-        "aerialDuelsTotalsHome": "57/48",
-        "aerialDuelsTotalsAway": "69/50",
-        "aerialDuelsAverage": "15.75/12.25",
-        "aerialDuelsAverageHome": "14.25/12.00",
-        "aerialDuelsAverageAway": "17.25/12.50",
-        "aerialDuelsAttemptedTotals": "224/224",
-        "aerialDuelsAttemptedTotalsHome": "105/105",
-        "aerialDuelsAttemptedTotalsAway": "119/119",
-        "aerialDuelsAttemptedAverage": "28.00/28.00",
-        "aerialDuelsAttemptedAverageHome": "26.25/26.25",
-        "aerialDuelsAttemptedAverageAway": "29.75/29.75",
-        "dribblesTotals": "58/53",
-        "dribblesTotalsHome": "22/32",
-        "dribblesTotalsAway": "36/21",
-        "dribblesAverage": "7.25/6.63",
-        "dribblesAverageHome": "5.50/8.00",
-        "dribblesAverageAway": "9.00/5.25",
-        "dribblesAttemptedTotals": "105/100",
-        "dribblesAttemptedTotalsHome": "49/59",
-        "dribblesAttemptedTotalsAway": "56/41",
-        "dribblesAttemptedAverage": "13.13/12.50",
-        "dribblesAttemptedAverageHome": "12.25/14.75",
-        "dribblesAttemptedAverageAway": "14.00/10.25"
+        "goalsTotals": "13/9",
+        "goalsTotalsHome": "6/4",
+        "goalsTotalsAway": "7/5",
+        "goalsAverage": "1.63/1.13",
+        "goalsAverageHome": "1.50/1.00",
+        "goalsAverageAway": "1.75/1.25",
+        "throwInsTotals": "156/158",
+        "throwInsTotalsHome": "80/86",
+        "throwInsTotalsAway": "76/72",
+        "throwInsAverage": "19.50/19.75",
+        "throwInsAverageHome": "20.00/21.50",
+        "throwInsAverageAway": "19.00/18.00",
+        "averageBallPossessionTotals": "424/376",
+        "averageBallPossessionTotalsHome": "234/166",
+        "averageBallPossessionTotalsAway": "190/210",
+        "averageBallPossessionAverage": "53.00/47.00",
+        "averageBallPossessionAverageHome": "58.50/41.50",
+        "averageBallPossessionAverageAway": "47.50/52.50",
+        "tacklesTotals": "89/103",
+        "tacklesTotalsHome": "47/55",
+        "tacklesTotalsAway": "42/48",
+        "tacklesAverage": "11.13/12.88",
+        "tacklesAverageHome": "11.75/13.75",
+        "tacklesAverageAway": "10.50/12.00",
+        "interceptionsTotals": "66/70",
+        "interceptionsTotalsHome": "32/37",
+        "interceptionsTotalsAway": "34/33",
+        "interceptionsAverage": "8.25/8.75",
+        "interceptionsAverageHome": "8.00/9.25",
+        "interceptionsAverageAway": "8.50/8.25",
+        "aerialDuelsTotals": "126/91",
+        "aerialDuelsTotalsHome": "64/57",
+        "aerialDuelsTotalsAway": "62/34",
+        "aerialDuelsAverage": "15.75/11.38",
+        "aerialDuelsAverageHome": "16.00/14.25",
+        "aerialDuelsAverageAway": "15.50/8.50",
+        "aerialDuelsAttemptedTotals": "217/217",
+        "aerialDuelsAttemptedTotalsHome": "121/121",
+        "aerialDuelsAttemptedTotalsAway": "96/96",
+        "aerialDuelsAttemptedAverage": "27.13/27.13",
+        "aerialDuelsAttemptedAverageHome": "30.25/30.25",
+        "aerialDuelsAttemptedAverageAway": "24.00/24.00",
+        "dribblesTotals": "57/51",
+        "dribblesTotalsHome": "22/28",
+        "dribblesTotalsAway": "35/23",
+        "dribblesAverage": "7.13/6.38",
+        "dribblesAverageHome": "5.50/7.00",
+        "dribblesAverageAway": "8.75/5.75",
+        "dribblesAttemptedTotals": "97/93",
+        "dribblesAttemptedTotalsHome": "45/45",
+        "dribblesAttemptedTotalsAway": "52/48",
+        "dribblesAttemptedAverage": "12.13/11.63",
+        "dribblesAttemptedAverageHome": "11.25/11.25",
+        "dribblesAttemptedAverageAway": "13.00/12.00"
     }
 }

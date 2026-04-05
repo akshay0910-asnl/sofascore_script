@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.63",
+        "fouls": "15.63",
+        "goalKicks": "6.88",
+        "saves": "2.50",
+        "offsides": "1.63",
+        "shotsOnTarget": "3.38/4.25",
+        "yellowCards": "2.63/2.25",
+        "goals": "1.00/1.63",
+        "throwIns": "19.13",
+        "ballPossession": 41.75,
+        "tackles": "16.00/15.13",
+        "interceptions": "9.00/8.25",
+        "aerialDuels": "11.88",
+        "aerialDuelsAttempted": "28.25",
+        "dribbles": "7.50/7.00",
+        "dribblesAttempted": "14.63/15.75"
+    },
+    "teamSlug": "vitoria",
+    "teamId": "1962",
+    "teamName": "Vitória",
+    "tournament": "Brasileirão Betano",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/vitoria-cruzeiro/eOsmO#id:15237970,tab:statistics",
+            "teams": [
+                "Cruzeiro",
+                "Vitória"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                1954,
+                1962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mirassol-vitoria/mOsHOi#id:15237963,tab:statistics",
+            "teams": [
+                "Vitória",
+                "Mirassol"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1962,
+                21982
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gremio-vitoria/mOsBtc#id:15237951,tab:statistics",
+            "teams": [
+                "Grêmio",
+                "Vitória"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5926,
+                1962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atletico-mineiro-vitoria/mOsCO#id:15237943,tab:statistics",
+            "teams": [
+                "Vitória",
+                "Atlético Mineiro"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1962,
+                1977
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vitoria-bahia/fOsmO#id:15237933,tab:statistics",
+            "teams": [
+                "Bahia",
+                "Vitória"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1955,
+                1962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/flamengo-vitoria/mOsGuc#id:15237912,tab:statistics",
+            "teams": [
+                "Vitória",
+                "Flamengo"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1962,
+                5981
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/palmeiras-vitoria/mOsnO#id:15237897,tab:statistics",
+            "teams": [
+                "Palmeiras",
+                "Vitória"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                1963,
+                1962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/remo-vitoria/mOsmP#id:15237892,tab:statistics",
+            "teams": [
+                "Vitória",
+                "Remo"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1962,
+                2012
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/5[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "6/2[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Vitória,Cruzeiro,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "18/8[H]",
+            "goalKicks": "9/4[H]",
+            "saves": "3/5[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/27[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Vitória,Mirassol,Home",
+            "tackles": "20/19[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "17/26[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "7/16[H]",
+            "dribblesAttempted": "20/27[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "17/15[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "3/0[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "12/17[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Vitória,Grêmio,Away",
+            "tackles": "17/12[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "9/4[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "14/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/10[H]",
+            "fouls": "18/13[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "19/28[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Vitória,Atlético Mineiro,Home",
+            "tackles": "25/18[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "9/23[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "5/11[H]",
+            "dribblesAttempted": "20/27[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "19/17[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "6/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/20[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Vitória,Bahia,Away",
+            "tackles": "14/24[A]",
+            "interceptions": "11/5[A]",
+            "aerialDuels": "12/16[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "19/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "12/21[H]",
+            "goalKicks": "5/4[H]",
+            "saves": "0/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "32/25[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Vitória,Flamengo,Home",
+            "tackles": "21/13[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "10/13[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "10/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "16/13[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/8[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/5[A]",
+            "throwIns": "18/17[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Vitória,Palmeiras,Away",
+            "tackles": "9/10[A]",
+            "interceptions": "12/7[A]",
+            "aerialDuels": "12/20[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "13/17[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "1/5[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "19/11[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Vitória,Remo,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "10/1[H]",
+            "dribblesAttempted": "15/4[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T15:53:59.029Z",
+    "endTime": "2026-04-05T15:54:18.692Z",
+    "totalTimeSeconds": 19.66,
+    "combinedMatchStatistics": {
+        "corners": "6/5[A]+4/5[H]+5/4[A]+4/10[H]+3/7[A]+7/2[H]+4/6[A]+4/1[H]",
+        "fouls": "12/15[A]+18/8[H]+17/15[A]+18/13[H]+19/17[A]+12/21[H]+16/13[A]+13/17[H]",
+        "goalKicks": "6/2[A]+9/4[H]+5/6[A]+8/4[H]+9/7[A]+5/4[H]+4/5[A]+9/9[H]",
+        "saves": "2/1[A]+3/5[H]+3/0[A]+3/2[H]+6/1[A]+0/2[H]+2/2[A]+1/5[H]",
+        "offsides": "0/2[A]+3/1[H]+1/1[A]+2/2[H]+2/0[A]+2/3[H]+1/2[A]+2/2[H]",
+        "shotsOnTarget": "1/6[A]+6/3[H]+1/4[A]+4/3[H]+2/7[A]+3/2[H]+4/8[A]+7/1[H]",
+        "yellowCards": "3/1[A]+3/3[H]+3/1[A]+2/3[H]+1/1[A]+3/4[H]+4/1[A]+2/4[H]",
+        "goals": "0/3[A]+1/0[H]+0/2[A]+2/0[H]+1/1[A]+1/2[H]+1/5[A]+2/0[H]",
+        "throwIns": "17/15[A]+22/27[H]+12/17[A]+19/28[H]+14/20[A]+32/25[H]+18/17[A]+19/11[H]",
+        "averageBallPossession": "41/59[A]+40/60[H]+57/43[A]+33/67[H]+37/63[A]+44/56[H]+40/60[A]+42/58[H]",
+        "teams": "Vitória,Cruzeiro,Away+Vitória,Mirassol,Home+Vitória,Grêmio,Away+Vitória,Atlético Mineiro,Home+Vitória,Bahia,Away+Vitória,Flamengo,Home+Vitória,Palmeiras,Away+Vitória,Remo,Home",
+        "tackles": "10/14[A]+20/19[H]+17/12[A]+25/18[H]+14/24[A]+21/13[H]+9/10[A]+12/11[H]",
+        "interceptions": "8/6[A]+6/10[H]+7/11[A]+9/7[H]+11/5[A]+10/9[H]+12/7[A]+9/11[H]",
+        "aerialDuels": "11/14[A]+17/26[H]+9/4[A]+9/23[H]+12/16[A]+10/13[H]+12/20[A]+15/15[H]",
+        "aerialDuelsAttempted": "25/25[A]+43/43[H]+13/13[A]+32/32[H]+28/28[A]+23/23[H]+32/32[A]+30/30[H]",
+        "dribbles": "6/3[A]+7/16[H]+7/6[A]+5/11[H]+11/8[A]+6/3[H]+8/8[A]+10/1[H]",
+        "dribblesAttempted": "10/10[A]+20/27[H]+14/14[A]+20/27[H]+19/17[A]+10/15[H]+9/12[A]+15/4[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "37/40",
+        "cornersTotalsHome": "19/18",
+        "cornersTotalsAway": "18/22",
+        "cornersAverage": "4.63/5.00",
+        "cornersAverageHome": "4.75/4.50",
+        "cornersAverageAway": "4.50/5.50",
+        "foulsTotals": "125/119",
+        "foulsTotalsHome": "61/59",
+        "foulsTotalsAway": "64/60",
+        "foulsAverage": "15.63/14.88",
+        "foulsAverageHome": "15.25/14.75",
+        "foulsAverageAway": "16.00/15.00",
+        "goalKicksTotals": "55/41",
+        "goalKicksTotalsHome": "31/21",
+        "goalKicksTotalsAway": "24/20",
+        "goalKicksAverage": "6.88/5.13",
+        "goalKicksAverageHome": "7.75/5.25",
+        "goalKicksAverageAway": "6.00/5.00",
+        "savesTotals": "20/18",
+        "savesTotalsHome": "7/14",
+        "savesTotalsAway": "13/4",
+        "savesAverage": "2.50/2.25",
+        "savesAverageHome": "1.75/3.50",
+        "savesAverageAway": "3.25/1.00",
+        "offsidesTotals": "13/13",
+        "offsidesTotalsHome": "9/8",
+        "offsidesTotalsAway": "4/5",
+        "offsidesAverage": "1.63/1.63",
+        "offsidesAverageHome": "2.25/2.00",
+        "offsidesAverageAway": "1.00/1.25",
+        "shotsOnTargetTotals": "28/34",
+        "shotsOnTargetTotalsHome": "20/9",
+        "shotsOnTargetTotalsAway": "8/25",
+        "shotsOnTargetAverage": "3.50/4.25",
+        "shotsOnTargetAverageHome": "5.00/2.25",
+        "shotsOnTargetAverageAway": "2.00/6.25",
+        "yellowCardsTotals": "21/18",
+        "yellowCardsTotalsHome": "10/14",
+        "yellowCardsTotalsAway": "11/4",
+        "yellowCardsAverage": "2.63/2.25",
+        "yellowCardsAverageHome": "2.50/3.50",
+        "yellowCardsAverageAway": "2.75/1.00",
+        "goalsTotals": "8/13",
+        "goalsTotalsHome": "6/2",
+        "goalsTotalsAway": "2/11",
+        "goalsAverage": "1.00/1.63",
+        "goalsAverageHome": "1.50/0.50",
+        "goalsAverageAway": "0.50/2.75",
+        "throwInsTotals": "153/160",
+        "throwInsTotalsHome": "92/91",
+        "throwInsTotalsAway": "61/69",
+        "throwInsAverage": "19.13/20.00",
+        "throwInsAverageHome": "23.00/22.75",
+        "throwInsAverageAway": "15.25/17.25",
+        "averageBallPossessionTotals": "334/466",
+        "averageBallPossessionTotalsHome": "159/241",
+        "averageBallPossessionTotalsAway": "175/225",
+        "averageBallPossessionAverage": "41.75/58.25",
+        "averageBallPossessionAverageHome": "39.75/60.25",
+        "averageBallPossessionAverageAway": "43.75/56.25",
+        "tacklesTotals": "128/121",
+        "tacklesTotalsHome": "78/61",
+        "tacklesTotalsAway": "50/60",
+        "tacklesAverage": "16.00/15.13",
+        "tacklesAverageHome": "19.50/15.25",
+        "tacklesAverageAway": "12.50/15.00",
+        "interceptionsTotals": "72/66",
+        "interceptionsTotalsHome": "34/37",
+        "interceptionsTotalsAway": "38/29",
+        "interceptionsAverage": "9.00/8.25",
+        "interceptionsAverageHome": "8.50/9.25",
+        "interceptionsAverageAway": "9.50/7.25",
+        "aerialDuelsTotals": "95/131",
+        "aerialDuelsTotalsHome": "51/77",
+        "aerialDuelsTotalsAway": "44/54",
+        "aerialDuelsAverage": "11.88/16.38",
+        "aerialDuelsAverageHome": "12.75/19.25",
+        "aerialDuelsAverageAway": "11.00/13.50",
+        "aerialDuelsAttemptedTotals": "226/226",
+        "aerialDuelsAttemptedTotalsHome": "128/128",
+        "aerialDuelsAttemptedTotalsAway": "98/98",
+        "aerialDuelsAttemptedAverage": "28.25/28.25",
+        "aerialDuelsAttemptedAverageHome": "32.00/32.00",
+        "aerialDuelsAttemptedAverageAway": "24.50/24.50",
+        "dribblesTotals": "60/56",
+        "dribblesTotalsHome": "28/31",
+        "dribblesTotalsAway": "32/25",
+        "dribblesAverage": "7.50/7.00",
+        "dribblesAverageHome": "7.00/7.75",
+        "dribblesAverageAway": "8.00/6.25",
+        "dribblesAttemptedTotals": "117/126",
+        "dribblesAttemptedTotalsHome": "65/73",
+        "dribblesAttemptedTotalsAway": "52/53",
+        "dribblesAttemptedAverage": "14.63/15.75",
+        "dribblesAttemptedAverageHome": "16.25/18.25",
+        "dribblesAttemptedAverageAway": "13.00/13.25"
+    }
+}

@@ -1,21 +1,21 @@
 {
     "globalStatistics": {
-        "corners": "3.61",
-        "fouls": "15.33",
-        "goalKicks": "8.06",
-        "saves": "2.78",
-        "offsides": "1.22",
-        "shotsOnTarget": "3.83/4.22",
-        "yellowCards": "3.28/2.28",
-        "goals": "1.06/1.39",
-        "throwIns": "20.67",
-        "ballPossession": 47.277777777778,
-        "tackles": "13.56/18.28",
-        "interceptions": "8.00/8.33",
-        "aerialDuels": "12.17",
-        "aerialDuelsAttempted": "26.50",
-        "dribbles": "7.78/6.56",
-        "dribblesAttempted": "16.50/14.06"
+        "corners": "3.96",
+        "fouls": "15.23",
+        "goalKicks": "7.88",
+        "saves": "2.62",
+        "offsides": "1.38",
+        "shotsOnTarget": "3.62/4.12",
+        "yellowCards": "3.12/2.04",
+        "goals": "1.00/1.46",
+        "throwIns": "21.12",
+        "ballPossession": 47.230769230769,
+        "tackles": "13.92/17.35",
+        "interceptions": "8.31/8.08",
+        "aerialDuels": "12.96",
+        "aerialDuelsAttempted": "27.85",
+        "dribbles": "6.96/7.31",
+        "dribblesAttempted": "15.38/14.77"
     },
     "teamSlug": "volos-nfc",
     "teamId": "267459",
@@ -23,137 +23,277 @@
     "tournament": "Stoiximan Super League",
     "matchLinks": [
         {
+            "href": "https://www.sofascore.com/football/match/nps-volos-paok/bpbsjZgc#id:14159181,tab:statistics",
+            "teams": [
+                "NPS Volos",
+                "PAOK"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                267459,
+                3251
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-ae-kifisia/zeYsjZgc#id:14159173,tab:statistics",
+            "teams": [
+                "AE Kifisia",
+                "NPS Volos"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                120224,
+                267459
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-ofi-crete/QobsjZgc#id:14159168,tab:statistics",
+            "teams": [
+                "NPS Volos",
+                "OFI Crete"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                267459,
+                3241
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-aek-athens/apbsjZgc#id:14159159,tab:statistics",
+            "teams": [
+                "NPS Volos",
+                "AEK Athens"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                267459,
+                3250
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-mgs-panserraikos/XBcsjZgc#id:14159156,tab:statistics",
+            "teams": [
+                "MGS Panserraikos",
+                "NPS Volos"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                6347,
+                267459
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-aris-thessaloniki/cpbsjZgc#id:14159143,tab:statistics",
+            "teams": [
+                "NPS Volos",
+                "Aris Thessaloniki"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                267459,
+                3252
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nps-volos-asteras-aktor/RBcsjZgc#id:14159135,tab:statistics",
+            "teams": [
+                "Asteras Aktor",
+                "NPS Volos"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                6342,
+                267459
+            ],
+            "isHome": false
+        },
+        {
             "href": "https://www.sofascore.com/football/match/nps-volos-olympiacos-fc/VobsjZgc#id:14159128,tab:statistics",
             "teams": [
-                "Olympiacos",
-                "Volos"
+                "Olympiacos FC",
+                "NPS Volos"
             ],
             "goals": [
-                "1",
-                "0"
+                1,
+                0
             ],
             "teamIds": [
-                "3245",
-                "267459"
+                3245,
+                267459
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-atromitos-athens/mbcsjZgc#id:14159117,tab:statistics",
-            "teams": [
-                "Volos",
-                "Atromitos"
-            ],
-            "goals": [
-                "0",
-                "3"
-            ],
-            "teamIds": [
-                "267459",
-                "5062"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-apo-levadiakos/nbcsjZgc#id:14159115,tab:statistics",
-            "teams": [
-                "Levadiakos",
-                "Volos"
-            ],
-            "goals": [
-                "3",
-                "1"
-            ],
-            "teamIds": [
-                "5063",
-                "267459"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-panetolikos/ePcsjZgc#id:14152049,tab:statistics",
-            "teams": [
-                "Volos",
-                "Panetolikos"
-            ],
-            "goals": [
-                "1",
-                "0"
-            ],
-            "teamIds": [
-                "267459",
-                "7004"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-panathinaikos/YobsjZgc#id:14152045,tab:statistics",
-            "teams": [
-                "Panathinaikos",
-                "Volos"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "3248",
-                "267459"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-ae-kifisia/zeYsjZgc#id:14152034,tab:statistics",
-            "teams": [
-                "Volos",
-                "Kifisia"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "267459",
-                "120224"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-ofi-crete/QobsjZgc#id:14152027,tab:statistics",
-            "teams": [
-                "OFI",
-                "Volos"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "3241",
-                "267459"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nps-volos-apo-levadiakos/nbcsjZgc#id:14152022,tab:statistics",
-            "teams": [
-                "Volos",
-                "Levadiakos"
-            ],
-            "goals": [
-                "1",
-                "2"
-            ],
-            "teamIds": [
-                "267459",
-                "5063"
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "3/6[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "3/1[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "4/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "25/32[H]",
+            "averageBallPossession": "26/74[H]",
+            "teams": "NPS Volos,PAOK,Home",
+            "tackles": "24/19[H]",
+            "interceptions": "10/7[H]",
+            "aerialDuels": "14/11[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "9/11[H]",
+            "dribblesAttempted": "18/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "15/21[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "5/2[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/18[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "NPS Volos,AE Kifisia,Away",
+            "tackles": "17/15[A]",
+            "interceptions": "12/7[A]",
+            "aerialDuels": "11/7[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "2/12[A]",
+            "dribblesAttempted": "9/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/4[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "2/5[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/21[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "NPS Volos,OFI Crete,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "10/5[H]",
+            "aerialDuels": "10/19[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "7/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "18/20[H]",
+            "goalKicks": "5/3[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "6/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "7/20[H]",
+            "averageBallPossession": "23/77[H]",
+            "teams": "NPS Volos,AEK Athens,Home",
+            "tackles": "18/9[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "22/22[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "3/16[H]",
+            "dribblesAttempted": "10/27[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "17/16[A]",
+            "goalKicks": "5/12[A]",
+            "saves": "0/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "29/26[A]",
+            "averageBallPossession": "71/29[A]",
+            "teams": "NPS Volos,MGS Panserraikos,Away",
+            "tackles": "13/20[A]",
+            "interceptions": "10/10[A]",
+            "aerialDuels": "16/12[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "10/8[A]",
+            "dribblesAttempted": "22/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "14/13[H]",
+            "goalKicks": "3/12[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "26/25[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "NPS Volos,Aris Thessaloniki,Home",
+            "tackles": "8/17[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "14/17[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "15/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/11[A]",
+            "fouls": "19/10[A]",
+            "goalKicks": "10/8[A]",
+            "saves": "0/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "27/27[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "NPS Volos,Asteras Aktor,Away",
+            "tackles": "16/17[A]",
+            "interceptions": "6/13[A]",
+            "aerialDuels": "20/23[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "15/16[A]",
+            "isHome": false
+        },
         {
             "corners": "3/13[A]",
             "fouls": "10/11[A]",
@@ -165,7 +305,7 @@
             "goals": "0/1[A]",
             "throwIns": "25/29[A]",
             "averageBallPossession": "37/63[A]",
-            "teams": "Volos,Olympiacos,Away",
+            "teams": "NPS Volos,Olympiacos FC,Away",
             "tackles": "11/16[A]",
             "interceptions": "8/7[A]",
             "aerialDuels": "21/20[A]",
@@ -173,266 +313,127 @@
             "dribbles": "2/6[A]",
             "dribblesAttempted": "11/12[A]",
             "isHome": false
-        },
-        {
-            "corners": "3/4[H]",
-            "fouls": "15/18[H]",
-            "goalKicks": "6/5[H]",
-            "saves": "6/1[H]",
-            "offsides": "2/0[H]",
-            "shotsOnTarget": "1/9[H]",
-            "yellowCards": "6/3[H]",
-            "goals": "0/3[H]",
-            "throwIns": "28/18[H]",
-            "averageBallPossession": "58/42[H]",
-            "teams": "Volos,Atromitos,Home",
-            "tackles": "14/17[H]",
-            "interceptions": "10/14[H]",
-            "aerialDuels": "8/16[H]",
-            "aerialDuelsAttempted": "24/24[H]",
-            "dribbles": "9/11[H]",
-            "dribblesAttempted": "20/19[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/1[A]",
-            "fouls": "16/11[A]",
-            "goalKicks": "6/8[A]",
-            "saves": "4/1[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "2/6[A]",
-            "yellowCards": "3/1[A]",
-            "goals": "1/3[A]",
-            "throwIns": "29/28[A]",
-            "averageBallPossession": "51/49[A]",
-            "teams": "Volos,Levadiakos,Away",
-            "tackles": "13/27[A]",
-            "interceptions": "8/13[A]",
-            "aerialDuels": "5/11[A]",
-            "aerialDuelsAttempted": "16/16[A]",
-            "dribbles": "12/7[A]",
-            "dribblesAttempted": "28/18[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/9[H]",
-            "fouls": "13/14[H]",
-            "goalKicks": "12/7[H]",
-            "saves": "4/2[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "3/4[H]",
-            "yellowCards": "3/1[H]",
-            "goals": "1/0[H]",
-            "throwIns": "16/12[H]",
-            "averageBallPossession": "57/43[H]",
-            "teams": "Volos,Panetolikos,Home",
-            "tackles": "13/11[H]",
-            "interceptions": "5/7[H]",
-            "aerialDuels": "9/16[H]",
-            "aerialDuelsAttempted": "25/25[H]",
-            "dribbles": "5/3[H]",
-            "dribblesAttempted": "10/14[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/6[A]",
-            "fouls": "17/21[A]",
-            "goalKicks": "7/5[A]",
-            "saves": "0/3[A]",
-            "offsides": "1/2[A]",
-            "shotsOnTarget": "4/2[A]",
-            "yellowCards": "6/2[A]",
-            "goals": "1/2[A]",
-            "throwIns": "19/28[A]",
-            "averageBallPossession": "56/44[A]",
-            "teams": "Volos,Panathinaikos,Away",
-            "tackles": "13/21[A]",
-            "interceptions": "10/10[A]",
-            "aerialDuels": "13/16[A]",
-            "aerialDuelsAttempted": "29/29[A]",
-            "dribbles": "10/1[A]",
-            "dribblesAttempted": "20/8[A]",
-            "isHome": false
-        },
-        {
-            "corners": "8/8[H]",
-            "fouls": "13/15[H]",
-            "goalKicks": "7/6[H]",
-            "saves": "8/4[H]",
-            "offsides": "0/1[H]",
-            "shotsOnTarget": "5/8[H]",
-            "yellowCards": "4/4[H]",
-            "goals": "1/1[H]",
-            "throwIns": "23/16[H]",
-            "averageBallPossession": "53/47[H]",
-            "teams": "Volos,Kifisia,Home",
-            "tackles": "11/21[H]",
-            "interceptions": "12/8[H]",
-            "aerialDuels": "14/15[H]",
-            "aerialDuelsAttempted": "29/29[H]",
-            "dribbles": "9/8[H]",
-            "dribblesAttempted": "20/12[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/1[A]",
-            "fouls": "23/16[A]",
-            "goalKicks": "4/16[A]",
-            "saves": "1/3[A]",
-            "offsides": "2/4[A]",
-            "shotsOnTarget": "4/1[A]",
-            "yellowCards": "3/2[A]",
-            "goals": "1/0[A]",
-            "throwIns": "15/18[A]",
-            "averageBallPossession": "53/47[A]",
-            "teams": "Volos,OFI,Away",
-            "tackles": "15/16[A]",
-            "interceptions": "7/10[A]",
-            "aerialDuels": "16/9[A]",
-            "aerialDuelsAttempted": "25/25[A]",
-            "dribbles": "8/7[A]",
-            "dribblesAttempted": "15/14[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/2[H]",
-            "fouls": "17/15[H]",
-            "goalKicks": "4/8[H]",
-            "saves": "3/4[H]",
-            "offsides": "1/1[H]",
-            "shotsOnTarget": "5/5[H]",
-            "yellowCards": "3/2[H]",
-            "goals": "1/2[H]",
-            "throwIns": "23/17[H]",
-            "averageBallPossession": "52/48[H]",
-            "teams": "Volos,Levadiakos,Home",
-            "tackles": "12/22[H]",
-            "interceptions": "5/8[H]",
-            "aerialDuels": "11/9[H]",
-            "aerialDuelsAttempted": "20/20[H]",
-            "dribbles": "11/8[H]",
-            "dribblesAttempted": "23/17[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-31T12:06:13.378Z",
-    "endTime": "2026-01-31T12:07:04.565Z",
-    "totalTimeSeconds": 51.19,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T12:41:01.104Z",
+    "endTime": "2026-04-05T12:41:40.510Z",
+    "totalTimeSeconds": 39.41,
     "combinedMatchStatistics": {
-        "corners": "3/13[A]+3/4[H]+3/1[A]+4/9[H]+5/6[A]+8/8[H]+5/1[A]+2/2[H]",
-        "fouls": "10/11[A]+15/18[H]+16/11[A]+13/14[H]+17/21[A]+13/15[H]+23/16[A]+17/15[H]",
-        "goalKicks": "15/3[A]+6/5[H]+6/8[A]+12/7[H]+7/5[A]+7/6[H]+4/16[A]+4/8[H]",
-        "saves": "2/3[A]+6/1[H]+4/1[A]+4/2[H]+0/3[A]+8/4[H]+1/3[A]+3/4[H]",
-        "offsides": "0/1[A]+2/0[H]+1/1[A]+2/2[H]+1/2[A]+0/1[H]+2/4[A]+1/1[H]",
-        "shotsOnTarget": "3/4[A]+1/9[H]+2/6[A]+3/4[H]+4/2[A]+5/8[H]+4/1[A]+5/5[H]",
-        "yellowCards": "0/0[A]+6/3[H]+3/1[A]+3/1[H]+6/2[A]+4/4[H]+3/2[A]+3/2[H]",
-        "goals": "0/1[A]+0/3[H]+1/3[A]+1/0[H]+1/2[A]+1/1[H]+1/0[A]+1/2[H]",
-        "throwIns": "25/29[A]+28/18[H]+29/28[A]+16/12[H]+19/28[A]+23/16[H]+15/18[A]+23/17[H]",
-        "averageBallPossession": "37/63[A]+58/42[H]+51/49[A]+57/43[H]+56/44[A]+53/47[H]+53/47[A]+52/48[H]",
-        "teams": "Volos,Olympiacos,Away+Volos,Atromitos,Home+Volos,Levadiakos,Away+Volos,Panetolikos,Home+Volos,Panathinaikos,Away+Volos,Kifisia,Home+Volos,OFI,Away+Volos,Levadiakos,Home",
-        "tackles": "11/16[A]+14/17[H]+13/27[A]+13/11[H]+13/21[A]+11/21[H]+15/16[A]+12/22[H]",
-        "interceptions": "8/7[A]+10/14[H]+8/13[A]+5/7[H]+10/10[A]+12/8[H]+7/10[A]+5/8[H]",
-        "aerialDuels": "21/20[A]+8/16[H]+5/11[A]+9/16[H]+13/16[A]+14/15[H]+16/9[A]+11/9[H]",
-        "aerialDuelsAttempted": "41/41[A]+24/24[H]+16/16[A]+25/25[H]+29/29[A]+29/29[H]+25/25[A]+20/20[H]",
-        "dribbles": "2/6[A]+9/11[H]+12/7[A]+5/3[H]+10/1[A]+9/8[H]+8/7[A]+11/8[H]",
-        "dribblesAttempted": "11/12[A]+20/19[H]+28/18[A]+10/14[H]+20/8[A]+20/12[H]+15/14[A]+23/17[H]",
-        "isHome": "false+true+false+true+false+true+false+true",
-        "cornersTotals": "33/44",
-        "cornersTotalsHome": "17/23",
-        "cornersTotalsAway": "16/21",
-        "cornersAverage": "4.13/5.50",
-        "cornersAverageHome": "4.25/5.75",
-        "cornersAverageAway": "4.00/5.25",
-        "foulsTotals": "124/121",
-        "foulsTotalsHome": "58/62",
-        "foulsTotalsAway": "66/59",
-        "foulsAverage": "15.50/15.13",
-        "foulsAverageHome": "14.50/15.50",
-        "foulsAverageAway": "16.50/14.75",
-        "goalKicksTotals": "61/58",
-        "goalKicksTotalsHome": "29/26",
-        "goalKicksTotalsAway": "32/32",
-        "goalKicksAverage": "7.63/7.25",
-        "goalKicksAverageHome": "7.25/6.50",
-        "goalKicksAverageAway": "8.00/8.00",
-        "savesTotals": "28/21",
-        "savesTotalsHome": "21/11",
-        "savesTotalsAway": "7/10",
-        "savesAverage": "3.50/2.63",
-        "savesAverageHome": "5.25/2.75",
-        "savesAverageAway": "1.75/2.50",
-        "offsidesTotals": "9/12",
-        "offsidesTotalsHome": "5/4",
-        "offsidesTotalsAway": "4/8",
-        "offsidesAverage": "1.13/1.50",
-        "offsidesAverageHome": "1.25/1.00",
-        "offsidesAverageAway": "1.00/2.00",
-        "shotsOnTargetTotals": "27/39",
-        "shotsOnTargetTotalsHome": "14/26",
-        "shotsOnTargetTotalsAway": "13/13",
-        "shotsOnTargetAverage": "3.38/4.88",
-        "shotsOnTargetAverageHome": "3.50/6.50",
-        "shotsOnTargetAverageAway": "3.25/3.25",
-        "yellowCardsTotals": "28/15",
-        "yellowCardsTotalsHome": "16/10",
-        "yellowCardsTotalsAway": "12/5",
-        "yellowCardsAverage": "3.50/1.88",
-        "yellowCardsAverageHome": "4.00/2.50",
-        "yellowCardsAverageAway": "3.00/1.25",
+        "corners": "3/6[H]+6/3[A]+9/4[H]+1/7[H]+3/2[A]+4/1[H]+5/11[A]+3/13[A]",
+        "fouls": "11/9[H]+15/21[A]+11/11[H]+18/20[H]+17/16[A]+14/13[H]+19/10[A]+10/11[A]",
+        "goalKicks": "11/8[H]+7/11[A]+6/11[H]+5/3[H]+5/12[A]+3/12[H]+10/8[A]+15/3[A]",
+        "saves": "3/1[H]+5/2[A]+2/5[H]+4/2[H]+0/2[A]+1/3[H]+0/1[A]+2/3[A]",
+        "offsides": "2/4[H]+4/2[A]+3/2[H]+1/4[H]+1/1[A]+1/3[H]+2/0[A]+0/1[A]",
+        "shotsOnTarget": "3/4[H]+2/7[A]+6/3[H]+4/5[H]+3/2[A]+4/1[H]+1/2[A]+3/4[A]",
+        "yellowCards": "4/0[H]+3/2[A]+1/3[H]+6/3[H]+3/1[A]+2/3[H]+2/1[A]+0/0[A]",
+        "goals": "2/1[H]+0/2[A]+1/1[H]+2/2[H]+1/2[A]+0/1[H]+0/2[A]+0/1[A]",
+        "throwIns": "25/32[H]+19/18[A]+19/21[H]+7/20[H]+29/26[A]+26/25[H]+27/27[A]+25/29[A]",
+        "averageBallPossession": "26/74[H]+46/54[A]+45/55[H]+23/77[H]+71/29[A]+59/41[H]+53/47[A]+37/63[A]",
+        "teams": "NPS Volos,PAOK,Home+NPS Volos,AE Kifisia,Away+NPS Volos,OFI Crete,Home+NPS Volos,AEK Athens,Home+NPS Volos,MGS Panserraikos,Away+NPS Volos,Aris Thessaloniki,Home+NPS Volos,Asteras Aktor,Away+NPS Volos,Olympiacos FC,Away",
+        "tackles": "24/19[H]+17/15[A]+11/12[H]+18/9[H]+13/20[A]+8/17[H]+16/17[A]+11/16[A]",
+        "interceptions": "10/7[H]+12/7[A]+10/5[H]+9/6[H]+10/10[A]+8/8[H]+6/13[A]+8/7[A]",
+        "aerialDuels": "14/11[H]+11/7[A]+10/19[H]+22/22[H]+16/12[A]+14/17[H]+20/23[A]+21/20[A]",
+        "aerialDuelsAttempted": "25/25[H]+18/18[A]+29/29[H]+44/44[H]+28/28[A]+31/31[H]+43/43[A]+41/41[A]",
+        "dribbles": "9/11[H]+2/12[A]+3/5[H]+3/16[H]+10/8[A]+5/6[H]+6/8[A]+2/6[A]",
+        "dribblesAttempted": "18/21[H]+9/19[A]+7/14[H]+10/27[H]+22/13[A]+15/10[H]+15/16[A]+11/12[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "34/47",
+        "cornersTotalsHome": "17/18",
+        "cornersTotalsAway": "17/29",
+        "cornersAverage": "4.25/5.88",
+        "cornersAverageHome": "4.25/4.50",
+        "cornersAverageAway": "4.25/7.25",
+        "foulsTotals": "115/111",
+        "foulsTotalsHome": "54/53",
+        "foulsTotalsAway": "61/58",
+        "foulsAverage": "14.38/13.88",
+        "foulsAverageHome": "13.50/13.25",
+        "foulsAverageAway": "15.25/14.50",
+        "goalKicksTotals": "62/68",
+        "goalKicksTotalsHome": "25/34",
+        "goalKicksTotalsAway": "37/34",
+        "goalKicksAverage": "7.75/8.50",
+        "goalKicksAverageHome": "6.25/8.50",
+        "goalKicksAverageAway": "9.25/8.50",
+        "savesTotals": "17/19",
+        "savesTotalsHome": "10/11",
+        "savesTotalsAway": "7/8",
+        "savesAverage": "2.13/2.38",
+        "savesAverageHome": "2.50/2.75",
+        "savesAverageAway": "1.75/2.00",
+        "offsidesTotals": "14/17",
+        "offsidesTotalsHome": "7/13",
+        "offsidesTotalsAway": "7/4",
+        "offsidesAverage": "1.75/2.13",
+        "offsidesAverageHome": "1.75/3.25",
+        "offsidesAverageAway": "1.75/1.00",
+        "shotsOnTargetTotals": "26/28",
+        "shotsOnTargetTotalsHome": "17/13",
+        "shotsOnTargetTotalsAway": "9/15",
+        "shotsOnTargetAverage": "3.25/3.50",
+        "shotsOnTargetAverageHome": "4.25/3.25",
+        "shotsOnTargetAverageAway": "2.25/3.75",
+        "yellowCardsTotals": "21/13",
+        "yellowCardsTotalsHome": "13/9",
+        "yellowCardsTotalsAway": "8/4",
+        "yellowCardsAverage": "2.63/1.63",
+        "yellowCardsAverageHome": "3.25/2.25",
+        "yellowCardsAverageAway": "2.00/1.00",
         "goalsTotals": "6/12",
-        "goalsTotalsHome": "3/6",
-        "goalsTotalsAway": "3/6",
+        "goalsTotalsHome": "5/5",
+        "goalsTotalsAway": "1/7",
         "goalsAverage": "0.75/1.50",
-        "goalsAverageHome": "0.75/1.50",
-        "goalsAverageAway": "0.75/1.50",
-        "throwInsTotals": "178/166",
-        "throwInsTotalsHome": "90/63",
-        "throwInsTotalsAway": "88/103",
-        "throwInsAverage": "22.25/20.75",
-        "throwInsAverageHome": "22.50/15.75",
-        "throwInsAverageAway": "22.00/25.75",
-        "averageBallPossessionTotals": "417/383",
-        "averageBallPossessionTotalsHome": "220/180",
-        "averageBallPossessionTotalsAway": "197/203",
-        "averageBallPossessionAverage": "52.13/47.88",
-        "averageBallPossessionAverageHome": "55.00/45.00",
-        "averageBallPossessionAverageAway": "49.25/50.75",
-        "tacklesTotals": "102/151",
-        "tacklesTotalsHome": "50/71",
-        "tacklesTotalsAway": "52/80",
-        "tacklesAverage": "12.75/18.88",
-        "tacklesAverageHome": "12.50/17.75",
-        "tacklesAverageAway": "13.00/20.00",
-        "interceptionsTotals": "65/77",
-        "interceptionsTotalsHome": "32/37",
-        "interceptionsTotalsAway": "33/40",
-        "interceptionsAverage": "8.13/9.63",
-        "interceptionsAverageHome": "8.00/9.25",
-        "interceptionsAverageAway": "8.25/10.00",
-        "aerialDuelsTotals": "97/112",
-        "aerialDuelsTotalsHome": "42/56",
-        "aerialDuelsTotalsAway": "55/56",
-        "aerialDuelsAverage": "12.13/14.00",
-        "aerialDuelsAverageHome": "10.50/14.00",
-        "aerialDuelsAverageAway": "13.75/14.00",
-        "aerialDuelsAttemptedTotals": "209/209",
-        "aerialDuelsAttemptedTotalsHome": "98/98",
-        "aerialDuelsAttemptedTotalsAway": "111/111",
-        "aerialDuelsAttemptedAverage": "26.13/26.13",
-        "aerialDuelsAttemptedAverageHome": "24.50/24.50",
-        "aerialDuelsAttemptedAverageAway": "27.75/27.75",
-        "dribblesTotals": "66/51",
-        "dribblesTotalsHome": "34/30",
-        "dribblesTotalsAway": "32/21",
-        "dribblesAverage": "8.25/6.38",
-        "dribblesAverageHome": "8.50/7.50",
-        "dribblesAverageAway": "8.00/5.25",
-        "dribblesAttemptedTotals": "147/114",
-        "dribblesAttemptedTotalsHome": "73/62",
-        "dribblesAttemptedTotalsAway": "74/52",
-        "dribblesAttemptedAverage": "18.38/14.25",
-        "dribblesAttemptedAverageHome": "18.25/15.50",
-        "dribblesAttemptedAverageAway": "18.50/13.00"
+        "goalsAverageHome": "1.25/1.25",
+        "goalsAverageAway": "0.25/1.75",
+        "throwInsTotals": "177/198",
+        "throwInsTotalsHome": "77/98",
+        "throwInsTotalsAway": "100/100",
+        "throwInsAverage": "22.13/24.75",
+        "throwInsAverageHome": "19.25/24.50",
+        "throwInsAverageAway": "25.00/25.00",
+        "averageBallPossessionTotals": "360/440",
+        "averageBallPossessionTotalsHome": "153/247",
+        "averageBallPossessionTotalsAway": "207/193",
+        "averageBallPossessionAverage": "45.00/55.00",
+        "averageBallPossessionAverageHome": "38.25/61.75",
+        "averageBallPossessionAverageAway": "51.75/48.25",
+        "tacklesTotals": "118/125",
+        "tacklesTotalsHome": "61/57",
+        "tacklesTotalsAway": "57/68",
+        "tacklesAverage": "14.75/15.63",
+        "tacklesAverageHome": "15.25/14.25",
+        "tacklesAverageAway": "14.25/17.00",
+        "interceptionsTotals": "73/63",
+        "interceptionsTotalsHome": "37/26",
+        "interceptionsTotalsAway": "36/37",
+        "interceptionsAverage": "9.13/7.88",
+        "interceptionsAverageHome": "9.25/6.50",
+        "interceptionsAverageAway": "9.00/9.25",
+        "aerialDuelsTotals": "128/131",
+        "aerialDuelsTotalsHome": "60/69",
+        "aerialDuelsTotalsAway": "68/62",
+        "aerialDuelsAverage": "16.00/16.38",
+        "aerialDuelsAverageHome": "15.00/17.25",
+        "aerialDuelsAverageAway": "17.00/15.50",
+        "aerialDuelsAttemptedTotals": "259/259",
+        "aerialDuelsAttemptedTotalsHome": "129/129",
+        "aerialDuelsAttemptedTotalsAway": "130/130",
+        "aerialDuelsAttemptedAverage": "32.38/32.38",
+        "aerialDuelsAttemptedAverageHome": "32.25/32.25",
+        "aerialDuelsAttemptedAverageAway": "32.50/32.50",
+        "dribblesTotals": "40/72",
+        "dribblesTotalsHome": "20/38",
+        "dribblesTotalsAway": "20/34",
+        "dribblesAverage": "5.00/9.00",
+        "dribblesAverageHome": "5.00/9.50",
+        "dribblesAverageAway": "5.00/8.50",
+        "dribblesAttemptedTotals": "107/132",
+        "dribblesAttemptedTotalsHome": "50/72",
+        "dribblesAttemptedTotalsAway": "57/60",
+        "dribblesAttemptedAverage": "13.38/16.50",
+        "dribblesAttemptedAverageHome": "12.50/18.00",
+        "dribblesAttemptedAverageAway": "14.25/15.00"
     }
 }

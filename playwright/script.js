@@ -800,7 +800,10 @@ async function processAllMatchesNew(page, context, teamId) {
 
   for (const event of cache[teamId].recentEvents) {
     // Only process events from the current tournament
-    if (event.tournament.name !== cache[teamId].tournament) {
+    if (
+      event?.tournament?.name !== cache[teamId]?.tournament &&
+      event?.tournament?.uniqueTournament?.name !== cache[teamId]?.tournament
+    ) {
       continue;
     }
 
@@ -1163,9 +1166,9 @@ function isAllDataCollected(teamId) {
   // if (homeMatchesWithDataAvailable < 4 || awayMatchesWithDataAvailable < 4) {
   // 	return false
   // }
-  if (homeMatchesWithDataAvailable < 4 || awayMatchesWithDataAvailable < 4) {
-    return false;
-  }
+  // if (homeMatchesWithDataAvailable < 4 || awayMatchesWithDataAvailable < 4) {
+  //   return false;
+  // }
 
   return true;
 }

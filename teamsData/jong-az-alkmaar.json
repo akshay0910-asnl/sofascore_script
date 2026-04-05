@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.65",
+        "fouls": "13.24",
+        "goalKicks": "7.62",
+        "saves": "2.62",
+        "offsides": "1.35",
+        "shotsOnTarget": "5.24/4.68",
+        "yellowCards": "1.50/1.74",
+        "goals": "1.74/1.94",
+        "throwIns": "19.65",
+        "ballPossession": 53.676470588235,
+        "tackles": "16.88/18.50",
+        "interceptions": "8.09/8.88",
+        "aerialDuels": "9.68",
+        "aerialDuelsAttempted": "21.00",
+        "dribbles": "9.68/8.35",
+        "dribblesAttempted": "19.18/16.74"
+    },
+    "teamSlug": "jong-az-alkmaar",
+    "teamId": "46161",
+    "teamName": "Jong AZ Alkmaar",
+    "tournament": "Eerste Divisie",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-helmond-sport/zjbslyt#id:14056530,tab:statistics",
+            "teams": [
+                "Jong AZ Alkmaar",
+                "Helmond Sport"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                46161,
+                2974
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-sc-cambuur/vjbslyt#id:14056493,tab:statistics",
+            "teams": [
+                "SC Cambuur",
+                "Jong AZ Alkmaar"
+            ],
+            "goals": [
+                3,
+                4
+            ],
+            "teamIds": [
+                2970,
+                46161
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-mvv-maastricht/Bjbslyt#id:14056449,tab:statistics",
+            "teams": [
+                "Jong AZ Alkmaar",
+                "MVV Maastricht"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                46161,
+                2976
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-rkc-waalwijk/gjbslyt#id:14056382,tab:statistics",
+            "teams": [
+                "RKC Waalwijk",
+                "Jong AZ Alkmaar"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2956,
+                46161
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-fc-emmen/pjbslyt#id:14056697,tab:statistics",
+            "teams": [
+                "Jong AZ Alkmaar",
+                "FC Emmen"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                46161,
+                2965
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-vitesse/ijbslyt#id:14056675,tab:statistics",
+            "teams": [
+                "Vitesse",
+                "Jong AZ Alkmaar"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2958,
+                46161
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-fc-den-bosch/njbslyt#id:14056654,tab:statistics",
+            "teams": [
+                "Jong AZ Alkmaar",
+                "FC Den Bosch"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                46161,
+                2963
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/jong-az-alkmaar-top-oss/Djbslyt#id:14056619,tab:statistics",
+            "teams": [
+                "TOP Oss",
+                "Jong AZ Alkmaar"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                2978,
+                46161
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/2[H]",
+            "fouls": "12/15[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "22/26[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Jong AZ Alkmaar,Helmond Sport,Home",
+            "tackles": "22/24[H]",
+            "interceptions": "17/12[H]",
+            "aerialDuels": "5/7[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "11/4[H]",
+            "dribblesAttempted": "20/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/11[A]",
+            "fouls": "24/8[A]",
+            "goalKicks": "7/3[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/8[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "4/3[A]",
+            "throwIns": "15/17[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Jong AZ Alkmaar,SC Cambuur,Away",
+            "tackles": "21/12[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "14/14[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "1/19[A]",
+            "dribblesAttempted": "2/29[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/3[H]",
+            "fouls": "9/9[H]",
+            "goalKicks": "6/20[H]",
+            "saves": "2/7[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "8/2[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/16[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Jong AZ Alkmaar,MVV Maastricht,Home",
+            "tackles": "17/11[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "19/9[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "14/10[H]",
+            "dribblesAttempted": "22/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "10/7[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "23/11[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Jong AZ Alkmaar,RKC Waalwijk,Away",
+            "tackles": "21/28[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "7/11[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "18/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "7/8[H]",
+            "goalKicks": "7/13[H]",
+            "saves": "2/0[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/3[H]",
+            "throwIns": "22/12[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Jong AZ Alkmaar,FC Emmen,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "12/5[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "8/7[H]",
+            "dribblesAttempted": "19/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/18[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Jong AZ Alkmaar,Vitesse,Away",
+            "tackles": "22/28[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "9/6[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "17/11[A]",
+            "dribblesAttempted": "31/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "21/15[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Jong AZ Alkmaar,FC Den Bosch,Home",
+            "tackles": "12/27[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "6/13[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "11/7[H]",
+            "dribblesAttempted": "21/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/10[A]",
+            "fouls": "13/7[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "3/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Jong AZ Alkmaar,TOP Oss,Away",
+            "tackles": "16/20[A]",
+            "interceptions": "16/11[A]",
+            "aerialDuels": "4/11[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "20/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T16:49:08.657Z",
+    "endTime": "2026-04-05T16:49:48.578Z",
+    "totalTimeSeconds": 39.92,
+    "combinedMatchStatistics": {
+        "corners": "6/2[H]+2/11[A]+11/3[H]+3/5[A]+7/2[H]+1/7[A]+6/3[H]+4/10[A]",
+        "fouls": "12/15[H]+24/8[A]+9/9[H]+10/7[A]+7/8[H]+14/10[A]+13/11[H]+13/7[A]",
+        "goalKicks": "5/6[H]+7/3[A]+6/20[H]+7/9[A]+7/13[H]+7/5[A]+4/6[H]+11/11[A]",
+        "saves": "2/3[H]+5/1[A]+2/7[H]+2/1[A]+2/0[H]+2/3[A]+2/3[H]+3/5[A]",
+        "offsides": "3/2[H]+1/1[A]+3/2[H]+2/2[A]+3/3[H]+1/5[A]+2/3[H]+1/0[A]",
+        "shotsOnTarget": "5/3[H]+6/8[A]+8/2[H]+2/4[A]+3/5[H]+3/4[A]+6/4[H]+8/3[A]",
+        "yellowCards": "0/4[H]+3/3[A]+0/0[H]+0/0[A]+0/1[H]+1/4[A]+2/1[H]+2/0[A]",
+        "goals": "2/0[H]+4/3[A]+1/1[H]+1/2[A]+2/3[H]+0/2[A]+2/2[H]+3/0[A]",
+        "throwIns": "22/26[H]+15/17[A]+17/16[H]+23/11[A]+22/12[H]+19/18[A]+21/15[H]+17/15[A]",
+        "averageBallPossession": "48/52[H]+29/71[A]+59/41[H]+48/52[A]+49/51[H]+52/48[A]+67/33[H]+49/51[A]",
+        "teams": "Jong AZ Alkmaar,Helmond Sport,Home+Jong AZ Alkmaar,SC Cambuur,Away+Jong AZ Alkmaar,MVV Maastricht,Home+Jong AZ Alkmaar,RKC Waalwijk,Away+Jong AZ Alkmaar,FC Emmen,Home+Jong AZ Alkmaar,Vitesse,Away+Jong AZ Alkmaar,FC Den Bosch,Home+Jong AZ Alkmaar,TOP Oss,Away",
+        "tackles": "22/24[H]+21/12[A]+17/11[H]+21/28[A]+17/19[H]+22/28[A]+12/27[H]+16/20[A]",
+        "interceptions": "17/12[H]+9/7[A]+12/8[H]+5/10[A]+4/8[H]+6/6[A]+8/9[H]+16/11[A]",
+        "aerialDuels": "5/7[H]+14/14[A]+19/9[H]+7/11[A]+12/5[H]+9/6[A]+6/13[H]+4/11[A]",
+        "aerialDuelsAttempted": "12/12[H]+28/28[A]+28/28[H]+18/18[A]+17/17[H]+15/15[A]+19/19[H]+15/15[A]",
+        "dribbles": "11/4[H]+1/19[A]+14/10[H]+7/9[A]+8/7[H]+17/11[A]+11/7[H]+8/6[A]",
+        "dribblesAttempted": "20/17[H]+2/29[A]+22/17[H]+18/14[A]+19/17[H]+31/21[A]+21/11[H]+20/14[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "40/43",
+        "cornersTotalsHome": "30/10",
+        "cornersTotalsAway": "10/33",
+        "cornersAverage": "5.00/5.38",
+        "cornersAverageHome": "7.50/2.50",
+        "cornersAverageAway": "2.50/8.25",
+        "foulsTotals": "102/75",
+        "foulsTotalsHome": "41/43",
+        "foulsTotalsAway": "61/32",
+        "foulsAverage": "12.75/9.38",
+        "foulsAverageHome": "10.25/10.75",
+        "foulsAverageAway": "15.25/8.00",
+        "goalKicksTotals": "54/73",
+        "goalKicksTotalsHome": "22/45",
+        "goalKicksTotalsAway": "32/28",
+        "goalKicksAverage": "6.75/9.13",
+        "goalKicksAverageHome": "5.50/11.25",
+        "goalKicksAverageAway": "8.00/7.00",
+        "savesTotals": "20/23",
+        "savesTotalsHome": "8/13",
+        "savesTotalsAway": "12/10",
+        "savesAverage": "2.50/2.88",
+        "savesAverageHome": "2.00/3.25",
+        "savesAverageAway": "3.00/2.50",
+        "offsidesTotals": "16/18",
+        "offsidesTotalsHome": "11/10",
+        "offsidesTotalsAway": "5/8",
+        "offsidesAverage": "2.00/2.25",
+        "offsidesAverageHome": "2.75/2.50",
+        "offsidesAverageAway": "1.25/2.00",
+        "shotsOnTargetTotals": "41/33",
+        "shotsOnTargetTotalsHome": "22/14",
+        "shotsOnTargetTotalsAway": "19/19",
+        "shotsOnTargetAverage": "5.13/4.13",
+        "shotsOnTargetAverageHome": "5.50/3.50",
+        "shotsOnTargetAverageAway": "4.75/4.75",
+        "yellowCardsTotals": "8/13",
+        "yellowCardsTotalsHome": "2/6",
+        "yellowCardsTotalsAway": "6/7",
+        "yellowCardsAverage": "1.00/1.63",
+        "yellowCardsAverageHome": "0.50/1.50",
+        "yellowCardsAverageAway": "1.50/1.75",
+        "goalsTotals": "15/13",
+        "goalsTotalsHome": "7/6",
+        "goalsTotalsAway": "8/7",
+        "goalsAverage": "1.88/1.63",
+        "goalsAverageHome": "1.75/1.50",
+        "goalsAverageAway": "2.00/1.75",
+        "throwInsTotals": "156/130",
+        "throwInsTotalsHome": "82/69",
+        "throwInsTotalsAway": "74/61",
+        "throwInsAverage": "19.50/16.25",
+        "throwInsAverageHome": "20.50/17.25",
+        "throwInsAverageAway": "18.50/15.25",
+        "averageBallPossessionTotals": "401/399",
+        "averageBallPossessionTotalsHome": "223/177",
+        "averageBallPossessionTotalsAway": "178/222",
+        "averageBallPossessionAverage": "50.13/49.88",
+        "averageBallPossessionAverageHome": "55.75/44.25",
+        "averageBallPossessionAverageAway": "44.50/55.50",
+        "tacklesTotals": "148/169",
+        "tacklesTotalsHome": "68/81",
+        "tacklesTotalsAway": "80/88",
+        "tacklesAverage": "18.50/21.13",
+        "tacklesAverageHome": "17.00/20.25",
+        "tacklesAverageAway": "20.00/22.00",
+        "interceptionsTotals": "77/71",
+        "interceptionsTotalsHome": "41/37",
+        "interceptionsTotalsAway": "36/34",
+        "interceptionsAverage": "9.63/8.88",
+        "interceptionsAverageHome": "10.25/9.25",
+        "interceptionsAverageAway": "9.00/8.50",
+        "aerialDuelsTotals": "76/76",
+        "aerialDuelsTotalsHome": "42/34",
+        "aerialDuelsTotalsAway": "34/42",
+        "aerialDuelsAverage": "9.50/9.50",
+        "aerialDuelsAverageHome": "10.50/8.50",
+        "aerialDuelsAverageAway": "8.50/10.50",
+        "aerialDuelsAttemptedTotals": "152/152",
+        "aerialDuelsAttemptedTotalsHome": "76/76",
+        "aerialDuelsAttemptedTotalsAway": "76/76",
+        "aerialDuelsAttemptedAverage": "19.00/19.00",
+        "aerialDuelsAttemptedAverageHome": "19.00/19.00",
+        "aerialDuelsAttemptedAverageAway": "19.00/19.00",
+        "dribblesTotals": "77/73",
+        "dribblesTotalsHome": "44/28",
+        "dribblesTotalsAway": "33/45",
+        "dribblesAverage": "9.63/9.13",
+        "dribblesAverageHome": "11.00/7.00",
+        "dribblesAverageAway": "8.25/11.25",
+        "dribblesAttemptedTotals": "153/140",
+        "dribblesAttemptedTotalsHome": "82/62",
+        "dribblesAttemptedTotalsAway": "71/78",
+        "dribblesAttemptedAverage": "19.13/17.50",
+        "dribblesAttemptedAverageHome": "20.50/15.50",
+        "dribblesAttemptedAverageAway": "17.75/19.50"
+    }
+}

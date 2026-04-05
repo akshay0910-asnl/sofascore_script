@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "9.50",
+        "fouls": "10.50",
+        "goalKicks": "5.50",
+        "saves": "1.50",
+        "offsides": "1.00",
+        "shotsOnTarget": "5.00/4.00",
+        "yellowCards": "1.50/2.50",
+        "goals": "1.00/2.50",
+        "throwIns": "14.00",
+        "ballPossession": 67.5,
+        "tackles": "12.00/15.00",
+        "interceptions": "6.00/6.50",
+        "aerialDuels": "15.00",
+        "aerialDuelsAttempted": "30.00",
+        "dribbles": "6.00/1.00",
+        "dribblesAttempted": "13.50/6.00"
+    },
+    "teamSlug": "america-mineiro",
+    "teamId": "1973",
+    "teamName": "América Mineiro",
+    "tournament": "Brasileirão Série B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/botafogo-sp-america-mineiro/yOsEO#id:15525997,tab:statistics",
+            "teams": [
+                "América Mineiro",
+                "Botafogo-SP"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1973,
+                1979
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/america-mineiro-goias/kOsyO#id:15525989,tab:statistics",
+            "teams": [
+                "Goiás",
+                "América Mineiro"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1960,
+                1973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/america-mineiro-athletico/rOsyO#id:13638756,tab:statistics",
+            "teams": [
+                "Athletico",
+                "América Mineiro"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1967,
+                1973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cuiaba-america-mineiro/yOscJu#id:13638753,tab:statistics",
+            "teams": [
+                "América Mineiro",
+                "Cuiabá"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1973,
+                49202
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-america-mineiro/yOsVLi#id:13638733,tab:statistics",
+            "teams": [
+                "Chapecoense",
+                "América Mineiro"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                21845,
+                1973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/novorizontino-america-mineiro/yOsokeb#id:13638718,tab:statistics",
+            "teams": [
+                "América Mineiro",
+                "Grêmio Novorizontino"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                1973,
+                135514
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-america-mineiro/yOsAfMc#id:13638698,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "América Mineiro"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                342775,
+                1973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crb-america-mineiro/yOsHPi#id:13638678,tab:statistics",
+            "teams": [
+                "América Mineiro",
+                "CRB"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1973,
+                22032
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "11/7[H]",
+            "fouls": "15/17[H]",
+            "goalKicks": "6/16[H]",
+            "saves": "3/0[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "16/21[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "América Mineiro,Botafogo-SP,Home",
+            "tackles": "10/16[H]",
+            "interceptions": "4/3[H]",
+            "aerialDuels": "17/21[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "8/0[H]",
+            "dribblesAttempted": "15/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "6/10[A]",
+            "goalKicks": "5/14[A]",
+            "saves": "0/8[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "9/3[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "12/13[A]",
+            "averageBallPossession": "67/33[A]",
+            "teams": "América Mineiro,Goiás,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "13/9[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "4/2[A]",
+            "dribblesAttempted": "12/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "12/5[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/23[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "América Mineiro,Athletico,Away",
+            "tackles": "14/20[A]",
+            "interceptions": "3/12[A]",
+            "aerialDuels": "12/10[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "4/0[A]",
+            "dribblesAttempted": "13/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/1[H]",
+            "fouls": "17/14[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "27/17[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "América Mineiro,Cuiabá,Home",
+            "tackles": "12/19[H]",
+            "interceptions": "4/9[H]",
+            "aerialDuels": "9/14[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "20/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/13[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "16/9[A]",
+            "saves": "4/4[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "20/19[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "América Mineiro,Chapecoense,Away",
+            "tackles": "8/14[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "24/15[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "16/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/10[H]",
+            "fouls": "6/6[H]",
+            "goalKicks": "12/12[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "23/24[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "América Mineiro,Grêmio Novorizontino,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "13/15[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "9/10[H]",
+            "dribblesAttempted": "13/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "14/13[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "19/25[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "América Mineiro,Athletic Club,Away",
+            "tackles": "21/5[A]",
+            "interceptions": "8/8[A]",
+            "aerialDuels": "13/4[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "1/9[A]",
+            "dribblesAttempted": "4/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/3[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "5/13[H]",
+            "saves": "0/9[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "10/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "13/10[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "América Mineiro,CRB,Home",
+            "tackles": "11/10[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "10/11[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "5/1[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T16:29:21.832Z",
+    "endTime": "2026-04-05T16:30:04.484Z",
+    "totalTimeSeconds": 42.65,
+    "combinedMatchStatistics": {
+        "corners": "11/7[H]+8/3[A]+4/4[A]+3/1[H]+1/13[A]+5/10[H]+4/7[A]+13/3[H]",
+        "fouls": "15/17[H]+6/10[A]+12/5[A]+17/14[H]+11/15[A]+6/6[H]+14/13[A]+9/13[H]",
+        "goalKicks": "6/16[H]+5/14[A]+12/6[A]+9/5[H]+16/9[A]+12/12[H]+7/10[A]+5/13[H]",
+        "saves": "3/0[H]+0/8[A]+3/2[A]+1/1[H]+4/4[A]+4/1[H]+2/1[A]+0/9[H]",
+        "offsides": "1/2[H]+1/0[A]+1/2[A]+1/1[H]+3/3[A]+0/4[H]+1/3[A]+2/0[H]",
+        "shotsOnTarget": "1/5[H]+9/3[A]+2/4[A]+2/2[H]+4/4[A]+2/6[H]+4/2[A]+10/1[H]",
+        "yellowCards": "2/4[H]+1/1[A]+4/1[A]+2/1[H]+5/2[A]+2/2[H]+4/3[A]+1/1[H]",
+        "goals": "1/2[H]+1/3[A]+0/1[A]+1/1[H]+1/0[A]+2/2[H]+2/0[A]+1/1[H]",
+        "throwIns": "16/21[H]+12/13[A]+23/23[A]+27/17[H]+20/19[A]+23/24[H]+19/25[A]+13/10[H]",
+        "averageBallPossession": "68/32[H]+67/33[A]+52/48[A]+58/42[H]+30/70[A]+51/49[H]+48/52[A]+59/41[H]",
+        "teams": "América Mineiro,Botafogo-SP,Home+América Mineiro,Goiás,Away+América Mineiro,Athletico,Away+América Mineiro,Cuiabá,Home+América Mineiro,Chapecoense,Away+América Mineiro,Grêmio Novorizontino,Home+América Mineiro,Athletic Club,Away+América Mineiro,CRB,Home",
+        "tackles": "10/16[H]+14/14[A]+14/20[A]+12/19[H]+8/14[A]+12/11[H]+21/5[A]+11/10[H]",
+        "interceptions": "4/3[H]+8/10[A]+3/12[A]+4/9[H]+4/6[A]+9/7[H]+8/8[A]+6/10[H]",
+        "aerialDuels": "17/21[H]+13/9[A]+12/10[A]+9/14[H]+24/15[A]+13/15[H]+13/4[A]+10/11[H]",
+        "aerialDuelsAttempted": "38/38[H]+22/22[A]+22/22[A]+23/23[H]+39/39[A]+28/28[H]+17/17[A]+21/21[H]",
+        "dribbles": "8/0[H]+4/2[A]+4/0[A]+7/4[H]+8/2[A]+9/10[H]+1/9[A]+5/1[H]",
+        "dribblesAttempted": "15/6[H]+12/6[A]+13/5[A]+20/8[H]+16/7[A]+13/17[H]+4/20[A]+8/11[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "49/48",
+        "cornersTotalsHome": "32/21",
+        "cornersTotalsAway": "17/27",
+        "cornersAverage": "6.13/6.00",
+        "cornersAverageHome": "8.00/5.25",
+        "cornersAverageAway": "4.25/6.75",
+        "foulsTotals": "90/93",
+        "foulsTotalsHome": "47/50",
+        "foulsTotalsAway": "43/43",
+        "foulsAverage": "11.25/11.63",
+        "foulsAverageHome": "11.75/12.50",
+        "foulsAverageAway": "10.75/10.75",
+        "goalKicksTotals": "72/85",
+        "goalKicksTotalsHome": "32/46",
+        "goalKicksTotalsAway": "40/39",
+        "goalKicksAverage": "9.00/10.63",
+        "goalKicksAverageHome": "8.00/11.50",
+        "goalKicksAverageAway": "10.00/9.75",
+        "savesTotals": "17/26",
+        "savesTotalsHome": "8/11",
+        "savesTotalsAway": "9/15",
+        "savesAverage": "2.13/3.25",
+        "savesAverageHome": "2.00/2.75",
+        "savesAverageAway": "2.25/3.75",
+        "offsidesTotals": "10/15",
+        "offsidesTotalsHome": "4/7",
+        "offsidesTotalsAway": "6/8",
+        "offsidesAverage": "1.25/1.88",
+        "offsidesAverageHome": "1.00/1.75",
+        "offsidesAverageAway": "1.50/2.00",
+        "shotsOnTargetTotals": "34/27",
+        "shotsOnTargetTotalsHome": "15/14",
+        "shotsOnTargetTotalsAway": "19/13",
+        "shotsOnTargetAverage": "4.25/3.38",
+        "shotsOnTargetAverageHome": "3.75/3.50",
+        "shotsOnTargetAverageAway": "4.75/3.25",
+        "yellowCardsTotals": "21/15",
+        "yellowCardsTotalsHome": "7/8",
+        "yellowCardsTotalsAway": "14/7",
+        "yellowCardsAverage": "2.63/1.88",
+        "yellowCardsAverageHome": "1.75/2.00",
+        "yellowCardsAverageAway": "3.50/1.75",
+        "goalsTotals": "9/10",
+        "goalsTotalsHome": "5/6",
+        "goalsTotalsAway": "4/4",
+        "goalsAverage": "1.13/1.25",
+        "goalsAverageHome": "1.25/1.50",
+        "goalsAverageAway": "1.00/1.00",
+        "throwInsTotals": "153/152",
+        "throwInsTotalsHome": "79/72",
+        "throwInsTotalsAway": "74/80",
+        "throwInsAverage": "19.13/19.00",
+        "throwInsAverageHome": "19.75/18.00",
+        "throwInsAverageAway": "18.50/20.00",
+        "averageBallPossessionTotals": "433/367",
+        "averageBallPossessionTotalsHome": "236/164",
+        "averageBallPossessionTotalsAway": "197/203",
+        "averageBallPossessionAverage": "54.13/45.88",
+        "averageBallPossessionAverageHome": "59.00/41.00",
+        "averageBallPossessionAverageAway": "49.25/50.75",
+        "tacklesTotals": "102/109",
+        "tacklesTotalsHome": "45/56",
+        "tacklesTotalsAway": "57/53",
+        "tacklesAverage": "12.75/13.63",
+        "tacklesAverageHome": "11.25/14.00",
+        "tacklesAverageAway": "14.25/13.25",
+        "interceptionsTotals": "46/65",
+        "interceptionsTotalsHome": "23/29",
+        "interceptionsTotalsAway": "23/36",
+        "interceptionsAverage": "5.75/8.13",
+        "interceptionsAverageHome": "5.75/7.25",
+        "interceptionsAverageAway": "5.75/9.00",
+        "aerialDuelsTotals": "111/99",
+        "aerialDuelsTotalsHome": "49/61",
+        "aerialDuelsTotalsAway": "62/38",
+        "aerialDuelsAverage": "13.88/12.38",
+        "aerialDuelsAverageHome": "12.25/15.25",
+        "aerialDuelsAverageAway": "15.50/9.50",
+        "aerialDuelsAttemptedTotals": "210/210",
+        "aerialDuelsAttemptedTotalsHome": "110/110",
+        "aerialDuelsAttemptedTotalsAway": "100/100",
+        "aerialDuelsAttemptedAverage": "26.25/26.25",
+        "aerialDuelsAttemptedAverageHome": "27.50/27.50",
+        "aerialDuelsAttemptedAverageAway": "25.00/25.00",
+        "dribblesTotals": "46/28",
+        "dribblesTotalsHome": "29/15",
+        "dribblesTotalsAway": "17/13",
+        "dribblesAverage": "5.75/3.50",
+        "dribblesAverageHome": "7.25/3.75",
+        "dribblesAverageAway": "4.25/3.25",
+        "dribblesAttemptedTotals": "101/80",
+        "dribblesAttemptedTotalsHome": "56/42",
+        "dribblesAttemptedTotalsAway": "45/38",
+        "dribblesAttemptedAverage": "12.63/10.00",
+        "dribblesAttemptedAverageHome": "14.00/10.50",
+        "dribblesAttemptedAverageAway": "11.25/9.50"
+    }
+}

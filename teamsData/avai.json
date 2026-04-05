@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.00",
+        "fouls": "14.50",
+        "goalKicks": "14.00",
+        "saves": "3.50",
+        "offsides": "0.50",
+        "shotsOnTarget": "4.00/3.50",
+        "yellowCards": "4.50/0.50",
+        "goals": "1.50/0.00",
+        "throwIns": "16.50",
+        "ballPossession": 42,
+        "tackles": "18.50/12.50",
+        "interceptions": "15.00/11.00",
+        "aerialDuels": "8.50",
+        "aerialDuelsAttempted": "17.00",
+        "dribbles": "7.00/6.50",
+        "dribblesAttempted": "12.00/15.00"
+    },
+    "teamSlug": "avai",
+    "teamId": "7315",
+    "teamName": "Avaí",
+    "tournament": "Brasileirão Série B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/crb-avai/pWcsHPi#id:15526003,tab:statistics",
+            "teams": [
+                "CRB",
+                "Avaí"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                22032,
+                7315
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avai-juventude/FOspWc#id:15525991,tab:statistics",
+            "teams": [
+                "Avaí",
+                "Juventude"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                7315,
+                1980
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avai-botafogo-sp/EOspWc#id:13638765,tab:statistics",
+            "teams": [
+                "Botafogo-SP",
+                "Avaí"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1979,
+                7315
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avai-remo/mPspWc#id:13638750,tab:statistics",
+            "teams": [
+                "Avaí",
+                "Remo"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                7315,
+                2012
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avai-vila-nova-fc/wPspWc#id:13638727,tab:statistics",
+            "teams": [
+                "Vila Nova FC",
+                "Avaí"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2021,
+                7315
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-avai/pWcsAfMc#id:13638712,tab:statistics",
+            "teams": [
+                "Avaí",
+                "Athletic Club"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                7315,
+                342775
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avai-paysandu-sc/XOspWc#id:13638690,tab:statistics",
+            "teams": [
+                "Paysandu SC",
+                "Avaí"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1997,
+                7315
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/avai-criciuma/JOspWc#id:13638672,tab:statistics",
+            "teams": [
+                "Avaí",
+                "Criciúma"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                7315,
+                1984
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/5[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "21/6[A]",
+            "saves": "6/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "6/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "10/23[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Avaí,CRB,Away",
+            "tackles": "17/11[A]",
+            "interceptions": "13/11[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "23/23[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Avaí,Juventude,Home",
+            "tackles": "20/14[H]",
+            "interceptions": "17/11[H]",
+            "aerialDuels": "9/7[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "15/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/13[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "18/3[A]",
+            "saves": "6/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "18/16[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Avaí,Botafogo-SP,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "5/11[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "9/4[A]",
+            "dribblesAttempted": "14/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/12[H]",
+            "fouls": "17/12[H]",
+            "goalKicks": "13/5[H]",
+            "saves": "4/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "13/22[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Avaí,Remo,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "9/16[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "17/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/2[A]",
+            "fouls": "12/26[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "1/4[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "2/2[A]",
+            "throwIns": "19/16[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Avaí,Vila Nova FC,Away",
+            "tackles": "13/7[A]",
+            "interceptions": "2/11[A]",
+            "aerialDuels": "12/11[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "8/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "13/7[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "9/24[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Avaí,Athletic Club,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "8/9[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "16/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "17/19[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "4/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Avaí,Paysandu SC,Away",
+            "tackles": "7/12[A]",
+            "interceptions": "10/3[A]",
+            "aerialDuels": "12/7[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "10/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "8/15[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "1/1[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/30[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Avaí,Criciúma,Home",
+            "tackles": "16/15[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "9/24[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "11/7[H]",
+            "dribblesAttempted": "17/16[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T16:25:39.826Z",
+    "endTime": "2026-04-05T16:26:24.678Z",
+    "totalTimeSeconds": 44.85,
+    "combinedMatchStatistics": {
+        "corners": "5/5[A]+3/3[H]+9/13[A]+4/12[H]+9/2[A]+4/7[H]+4/5[A]+4/1[H]",
+        "fouls": "14/10[A]+15/14[H]+10/14[A]+17/12[H]+12/26[A]+11/12[H]+17/19[A]+8/15[H]",
+        "goalKicks": "21/6[A]+7/8[H]+18/3[A]+13/5[H]+5/6[A]+13/7[H]+11/7[A]+5/9[H]",
+        "saves": "6/2[A]+1/3[H]+6/3[A]+4/3[H]+1/4[A]+2/3[H]+4/2[A]+1/1[H]",
+        "offsides": "1/3[A]+0/3[H]+0/0[A]+4/1[H]+0/0[A]+1/2[H]+0/0[A]+4/1[H]",
+        "shotsOnTarget": "3/6[A]+5/1[H]+3/6[A]+6/5[H]+6/3[A]+5/3[H]+4/5[A]+2/2[H]",
+        "yellowCards": "6/1[A]+3/0[H]+2/2[A]+2/2[H]+1/5[A]+4/4[H]+4/1[A]+0/1[H]",
+        "goals": "1/0[A]+2/0[H]+0/0[A]+3/1[H]+2/2[A]+2/1[H]+2/1[A]+1/1[H]",
+        "throwIns": "10/23[A]+23/23[H]+18/16[A]+13/22[H]+19/16[A]+9/24[H]+16/17[A]+26/30[H]",
+        "averageBallPossession": "43/57[A]+41/59[H]+45/55[A]+33/67[H]+63/37[A]+48/52[H]+50/50[A]+48/52[H]",
+        "teams": "Avaí,CRB,Away+Avaí,Juventude,Home+Avaí,Botafogo-SP,Away+Avaí,Remo,Home+Avaí,Vila Nova FC,Away+Avaí,Athletic Club,Home+Avaí,Paysandu SC,Away+Avaí,Criciúma,Home",
+        "tackles": "17/11[A]+20/14[H]+15/13[A]+15/13[H]+13/7[A]+15/15[H]+7/12[A]+16/15[H]",
+        "interceptions": "13/11[A]+17/11[H]+5/11[A]+8/7[H]+2/11[A]+10/9[H]+10/3[A]+5/10[H]",
+        "aerialDuels": "8/10[A]+9/7[H]+14/13[A]+9/16[H]+12/11[A]+8/9[H]+12/7[A]+9/24[H]",
+        "aerialDuelsAttempted": "18/18[A]+16/16[H]+27/27[A]+25/25[H]+23/23[A]+17/17[H]+19/19[A]+33/33[H]",
+        "dribbles": "5/6[A]+9/7[H]+9/4[A]+8/8[H]+5/3[A]+7/9[H]+5/3[A]+11/7[H]",
+        "dribblesAttempted": "9/12[A]+15/18[H]+14/11[A]+17/20[H]+8/10[A]+16/16[H]+10/8[A]+17/16[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "42/48",
+        "cornersTotalsHome": "15/23",
+        "cornersTotalsAway": "27/25",
+        "cornersAverage": "5.25/6.00",
+        "cornersAverageHome": "3.75/5.75",
+        "cornersAverageAway": "6.75/6.25",
+        "foulsTotals": "104/122",
+        "foulsTotalsHome": "51/53",
+        "foulsTotalsAway": "53/69",
+        "foulsAverage": "13.00/15.25",
+        "foulsAverageHome": "12.75/13.25",
+        "foulsAverageAway": "13.25/17.25",
+        "goalKicksTotals": "93/51",
+        "goalKicksTotalsHome": "38/29",
+        "goalKicksTotalsAway": "55/22",
+        "goalKicksAverage": "11.63/6.38",
+        "goalKicksAverageHome": "9.50/7.25",
+        "goalKicksAverageAway": "13.75/5.50",
+        "savesTotals": "25/21",
+        "savesTotalsHome": "8/10",
+        "savesTotalsAway": "17/11",
+        "savesAverage": "3.13/2.63",
+        "savesAverageHome": "2.00/2.50",
+        "savesAverageAway": "4.25/2.75",
+        "offsidesTotals": "10/10",
+        "offsidesTotalsHome": "9/7",
+        "offsidesTotalsAway": "1/3",
+        "offsidesAverage": "1.25/1.25",
+        "offsidesAverageHome": "2.25/1.75",
+        "offsidesAverageAway": "0.25/0.75",
+        "shotsOnTargetTotals": "34/31",
+        "shotsOnTargetTotalsHome": "18/11",
+        "shotsOnTargetTotalsAway": "16/20",
+        "shotsOnTargetAverage": "4.25/3.88",
+        "shotsOnTargetAverageHome": "4.50/2.75",
+        "shotsOnTargetAverageAway": "4.00/5.00",
+        "yellowCardsTotals": "22/16",
+        "yellowCardsTotalsHome": "9/7",
+        "yellowCardsTotalsAway": "13/9",
+        "yellowCardsAverage": "2.75/2.00",
+        "yellowCardsAverageHome": "2.25/1.75",
+        "yellowCardsAverageAway": "3.25/2.25",
+        "goalsTotals": "13/6",
+        "goalsTotalsHome": "8/3",
+        "goalsTotalsAway": "5/3",
+        "goalsAverage": "1.63/0.75",
+        "goalsAverageHome": "2.00/0.75",
+        "goalsAverageAway": "1.25/0.75",
+        "throwInsTotals": "134/171",
+        "throwInsTotalsHome": "71/99",
+        "throwInsTotalsAway": "63/72",
+        "throwInsAverage": "16.75/21.38",
+        "throwInsAverageHome": "17.75/24.75",
+        "throwInsAverageAway": "15.75/18.00",
+        "averageBallPossessionTotals": "371/429",
+        "averageBallPossessionTotalsHome": "170/230",
+        "averageBallPossessionTotalsAway": "201/199",
+        "averageBallPossessionAverage": "46.38/53.63",
+        "averageBallPossessionAverageHome": "42.50/57.50",
+        "averageBallPossessionAverageAway": "50.25/49.75",
+        "tacklesTotals": "118/100",
+        "tacklesTotalsHome": "66/57",
+        "tacklesTotalsAway": "52/43",
+        "tacklesAverage": "14.75/12.50",
+        "tacklesAverageHome": "16.50/14.25",
+        "tacklesAverageAway": "13.00/10.75",
+        "interceptionsTotals": "70/73",
+        "interceptionsTotalsHome": "40/37",
+        "interceptionsTotalsAway": "30/36",
+        "interceptionsAverage": "8.75/9.13",
+        "interceptionsAverageHome": "10.00/9.25",
+        "interceptionsAverageAway": "7.50/9.00",
+        "aerialDuelsTotals": "81/97",
+        "aerialDuelsTotalsHome": "35/56",
+        "aerialDuelsTotalsAway": "46/41",
+        "aerialDuelsAverage": "10.13/12.13",
+        "aerialDuelsAverageHome": "8.75/14.00",
+        "aerialDuelsAverageAway": "11.50/10.25",
+        "aerialDuelsAttemptedTotals": "178/178",
+        "aerialDuelsAttemptedTotalsHome": "91/91",
+        "aerialDuelsAttemptedTotalsAway": "87/87",
+        "aerialDuelsAttemptedAverage": "22.25/22.25",
+        "aerialDuelsAttemptedAverageHome": "22.75/22.75",
+        "aerialDuelsAttemptedAverageAway": "21.75/21.75",
+        "dribblesTotals": "59/47",
+        "dribblesTotalsHome": "35/31",
+        "dribblesTotalsAway": "24/16",
+        "dribblesAverage": "7.38/5.88",
+        "dribblesAverageHome": "8.75/7.75",
+        "dribblesAverageAway": "6.00/4.00",
+        "dribblesAttemptedTotals": "106/111",
+        "dribblesAttemptedTotalsHome": "65/70",
+        "dribblesAttemptedTotalsAway": "41/41",
+        "dribblesAttemptedAverage": "13.25/13.88",
+        "dribblesAttemptedAverageHome": "16.25/17.50",
+        "dribblesAttemptedAverageAway": "10.25/10.25"
+    }
+}

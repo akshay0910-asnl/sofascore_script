@@ -1,21 +1,21 @@
 {
     "globalStatistics": {
-        "corners": "6.91",
-        "fouls": "14.14",
-        "goalKicks": "5.09",
-        "saves": "1.77",
-        "offsides": "1.82",
-        "shotsOnTarget": "6.18/2.64",
-        "yellowCards": "1.59/1.68",
-        "goals": "2.27/0.86",
-        "throwIns": "18.73",
-        "ballPossession": 59.772727272727,
-        "tackles": "15.14/12.32",
-        "interceptions": "6.27/8.91",
-        "aerialDuels": "15.00",
-        "aerialDuelsAttempted": "26.91",
-        "dribbles": "5.14/4.91",
-        "dribblesAttempted": "10.59/11.77"
+        "corners": "6.70",
+        "fouls": "13.53",
+        "goalKicks": "5.37",
+        "saves": "2.00",
+        "offsides": "1.77",
+        "shotsOnTarget": "6.13/2.80",
+        "yellowCards": "1.70/1.70",
+        "goals": "2.20/0.80",
+        "throwIns": "17.93",
+        "ballPossession": 60.366666666667,
+        "tackles": "15.40/12.53",
+        "interceptions": "6.33/8.47",
+        "aerialDuels": "14.37",
+        "aerialDuelsAttempted": "25.80",
+        "dribbles": "5.43/4.93",
+        "dribblesAttempted": "10.87/12.07"
     },
     "teamSlug": "inter",
     "teamId": "2697",
@@ -23,137 +23,277 @@
     "tournament": "Serie A",
     "matchLinks": [
         {
+            "href": "https://www.sofascore.com/football/match/inter-fiorentina/TdbsXdb#id:13981715,tab:statistics",
+            "teams": [
+                "Fiorentina",
+                "Inter"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2693,
+                2697
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-atalanta/LdbsXdb#id:13981705,tab:statistics",
+            "teams": [
+                "Inter",
+                "Atalanta"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2697,
+                2686
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-milan/RdbsXdb#id:13981700,tab:statistics",
+            "teams": [
+                "Milan",
+                "Inter"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2692,
+                2697
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/genoa-inter/Xdbsneb#id:13981684,tab:statistics",
+            "teams": [
+                "Inter",
+                "Genoa"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2697,
+                2713
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-lecce/OdbsXdb#id:13981679,tab:statistics",
+            "teams": [
+                "Lecce",
+                "Inter"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                2689,
+                2697
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-juventus/MdbsXdb#id:13981671,tab:statistics",
+            "teams": [
+                "Inter",
+                "Juventus"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                2697,
+                2687
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sassuolo-inter/XdbsTfb#id:13981660,tab:statistics",
+            "teams": [
+                "Sassuolo",
+                "Inter"
+            ],
+            "goals": [
+                0,
+                5
+            ],
+            "teamIds": [
+                2793,
+                2697
+            ],
+            "isHome": false
+        },
+        {
             "href": "https://www.sofascore.com/football/match/pisa-inter/XdbsMeb#id:13981637,tab:statistics",
             "teams": [
                 "Inter",
                 "Pisa"
             ],
             "goals": [
-                "6",
-                "2"
+                6,
+                2
             ],
             "teamIds": [
-                "2697",
-                "2737"
+                2697,
+                2737
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/inter-udinese/VdbsXdb#id:13981630,tab:statistics",
-            "teams": [
-                "Udinese",
-                "Inter"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "2695",
-                "2697"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/inter-lecce/OdbsXdb#id:14844287,tab:statistics",
-            "teams": [
-                "Inter",
-                "Lecce"
-            ],
-            "goals": [
-                "1",
-                "0"
-            ],
-            "teamIds": [
-                "2697",
-                "2689"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/napoli-inter/Xdbsoeb#id:13981618,tab:statistics",
-            "teams": [
-                "Inter",
-                "Napoli"
-            ],
-            "goals": [
-                "2",
-                "2"
-            ],
-            "teamIds": [
-                "2697",
-                "2714"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/inter-parma/PdbsXdb#id:13981610,tab:statistics",
-            "teams": [
-                "Parma",
-                "Inter"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "2690",
-                "2697"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/inter-bologna/KdbsXdb#id:13981597,tab:statistics",
-            "teams": [
-                "Inter",
-                "Bologna"
-            ],
-            "goals": [
-                "3",
-                "1"
-            ],
-            "teamIds": [
-                "2697",
-                "2685"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/inter-atalanta/LdbsXdb#id:13981591,tab:statistics",
-            "teams": [
-                "Atalanta",
-                "Inter"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "2686",
-                "2697"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/genoa-inter/Xdbsneb#id:13981564,tab:statistics",
-            "teams": [
-                "Genoa",
-                "Inter"
-            ],
-            "goals": [
-                "1",
-                "2"
-            ],
-            "teamIds": [
-                "2713",
-                "2697"
-            ],
-            "isHome": false
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/3[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/11[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Inter,Fiorentina,Away",
+            "tackles": "16/4[A]",
+            "interceptions": "5/9[A]",
+            "aerialDuels": "16/11[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "5/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "11/5[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "2/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "11/13[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Inter,Atalanta,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "13/6[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "10/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "12/8[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "15/8[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Inter,Milan,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "6/7[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "8/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/2[H]",
+            "fouls": "13/8[H]",
+            "goalKicks": "9/4[H]",
+            "saves": "3/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "14/14[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Inter,Genoa,Home",
+            "tackles": "23/21[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "23/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/2[A]",
+            "fouls": "8/10[A]",
+            "goalKicks": "3/14[A]",
+            "saves": "0/6[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "9/0[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "20/15[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Inter,Lecce,Away",
+            "tackles": "23/16[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "19/12[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "11/4[A]",
+            "dribblesAttempted": "20/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "15/7[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "6/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "9/8[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "3/2[H]",
+            "throwIns": "19/12[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Inter,Juventus,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "10/12[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "8/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "10/6[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "11/2[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "5/0[A]",
+            "throwIns": "9/11[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Inter,Sassuolo,Away",
+            "tackles": "13/6[A]",
+            "interceptions": "4/2[A]",
+            "aerialDuels": "11/7[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "6/13[A]",
+            "isHome": false
+        },
         {
             "corners": "7/5[H]",
             "fouls": "8/11[H]",
@@ -173,266 +313,127 @@
             "dribbles": "11/3[H]",
             "dribblesAttempted": "21/11[H]",
             "isHome": true
-        },
-        {
-            "corners": "5/2[A]",
-            "fouls": "11/17[A]",
-            "goalKicks": "4/7[A]",
-            "saves": "1/4[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "5/1[A]",
-            "yellowCards": "1/0[A]",
-            "goals": "1/0[A]",
-            "throwIns": "16/13[A]",
-            "averageBallPossession": "62/38[A]",
-            "teams": "Inter,Udinese,Away",
-            "tackles": "17/12[A]",
-            "interceptions": "7/11[A]",
-            "aerialDuels": "5/14[A]",
-            "aerialDuelsAttempted": "19/19[A]",
-            "dribbles": "5/7[A]",
-            "dribblesAttempted": "9/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "11/3[H]",
-            "fouls": "11/14[H]",
-            "goalKicks": "3/13[H]",
-            "saves": "1/6[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "7/1[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "1/0[H]",
-            "throwIns": "25/15[H]",
-            "averageBallPossession": "68/32[H]",
-            "teams": "Inter,Lecce,Home",
-            "tackles": "18/16[H]",
-            "interceptions": "3/3[H]",
-            "aerialDuels": "26/18[H]",
-            "aerialDuelsAttempted": "44/44[H]",
-            "dribbles": "8/6[H]",
-            "dribblesAttempted": "18/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/1[H]",
-            "fouls": "12/11[H]",
-            "goalKicks": "4/8[H]",
-            "saves": "1/2[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "4/3[H]",
-            "yellowCards": "0/2[H]",
-            "goals": "2/2[H]",
-            "throwIns": "18/18[H]",
-            "averageBallPossession": "50/50[H]",
-            "teams": "Inter,Napoli,Home",
-            "tackles": "21/13[H]",
-            "interceptions": "10/6[H]",
-            "aerialDuels": "10/13[H]",
-            "aerialDuelsAttempted": "23/23[H]",
-            "dribbles": "4/3[H]",
-            "dribblesAttempted": "6/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/1[A]",
-            "fouls": "20/4[A]",
-            "goalKicks": "5/14[A]",
-            "saves": "0/6[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "8/0[A]",
-            "yellowCards": "3/1[A]",
-            "goals": "2/0[A]",
-            "throwIns": "16/13[A]",
-            "averageBallPossession": "63/37[A]",
-            "teams": "Inter,Parma,Away",
-            "tackles": "18/12[A]",
-            "interceptions": "9/13[A]",
-            "aerialDuels": "17/6[A]",
-            "aerialDuelsAttempted": "23/23[A]",
-            "dribbles": "3/2[A]",
-            "dribblesAttempted": "10/9[A]",
-            "isHome": false
-        },
-        {
-            "corners": "7/1[H]",
-            "fouls": "20/21[H]",
-            "goalKicks": "5/7[H]",
-            "saves": "1/7[H]",
-            "offsides": "3/0[H]",
-            "shotsOnTarget": "10/2[H]",
-            "yellowCards": "3/3[H]",
-            "goals": "3/1[H]",
-            "throwIns": "19/18[H]",
-            "averageBallPossession": "58/42[H]",
-            "teams": "Inter,Bologna,Home",
-            "tackles": "17/21[H]",
-            "interceptions": "6/9[H]",
-            "aerialDuels": "16/12[H]",
-            "aerialDuelsAttempted": "28/28[H]",
-            "dribbles": "4/2[H]",
-            "dribblesAttempted": "13/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/4[A]",
-            "fouls": "12/8[A]",
-            "goalKicks": "5/12[A]",
-            "saves": "0/3[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "4/0[A]",
-            "yellowCards": "1/2[A]",
-            "goals": "1/0[A]",
-            "throwIns": "17/13[A]",
-            "averageBallPossession": "55/45[A]",
-            "teams": "Inter,Atalanta,Away",
-            "tackles": "17/12[A]",
-            "interceptions": "6/11[A]",
-            "aerialDuels": "9/8[A]",
-            "aerialDuelsAttempted": "17/17[A]",
-            "dribbles": "7/8[A]",
-            "dribblesAttempted": "15/19[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/1[A]",
-            "fouls": "20/10[A]",
-            "goalKicks": "5/6[A]",
-            "saves": "2/6[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "8/3[A]",
-            "yellowCards": "3/2[A]",
-            "goals": "2/1[A]",
-            "throwIns": "23/23[A]",
-            "averageBallPossession": "64/36[A]",
-            "teams": "Inter,Genoa,Away",
-            "tackles": "18/13[A]",
-            "interceptions": "8/3[A]",
-            "aerialDuels": "21/14[A]",
-            "aerialDuelsAttempted": "35/35[A]",
-            "dribbles": "7/3[A]",
-            "dribblesAttempted": "12/12[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-31T17:30:58.641Z",
-    "endTime": "2026-01-31T17:31:24.962Z",
-    "totalTimeSeconds": 26.32,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T11:55:42.310Z",
+    "endTime": "2026-04-05T11:56:29.481Z",
+    "totalTimeSeconds": 47.17,
     "combinedMatchStatistics": {
-        "corners": "7/5[H]+5/2[A]+11/3[H]+4/1[H]+3/1[A]+7/1[H]+7/4[A]+6/1[A]",
-        "fouls": "8/11[H]+11/17[A]+11/14[H]+12/11[H]+20/4[A]+20/21[H]+12/8[A]+20/10[A]",
-        "goalKicks": "3/8[H]+4/7[A]+3/13[H]+4/8[H]+5/14[A]+5/7[H]+5/12[A]+5/6[A]",
-        "saves": "1/5[H]+1/4[A]+1/6[H]+1/2[H]+0/6[A]+1/7[H]+0/3[A]+2/6[A]",
-        "offsides": "0/2[H]+2/1[A]+3/1[H]+2/1[H]+1/1[A]+3/0[H]+2/3[A]+1/0[A]",
-        "shotsOnTarget": "14/3[H]+5/1[A]+7/1[H]+4/3[H]+8/0[A]+10/2[H]+4/0[A]+8/3[A]",
-        "yellowCards": "2/3[H]+1/0[A]+2/1[H]+0/2[H]+3/1[A]+3/3[H]+1/2[A]+3/2[A]",
-        "goals": "6/2[H]+1/0[A]+1/0[H]+2/2[H]+2/0[A]+3/1[H]+1/0[A]+2/1[A]",
-        "throwIns": "23/12[H]+16/13[A]+25/15[H]+18/18[H]+16/13[A]+19/18[H]+17/13[A]+23/23[A]",
-        "averageBallPossession": "66/34[H]+62/38[A]+68/32[H]+50/50[H]+63/37[A]+58/42[H]+55/45[A]+64/36[A]",
-        "teams": "Inter,Pisa,Home+Inter,Udinese,Away+Inter,Lecce,Home+Inter,Napoli,Home+Inter,Parma,Away+Inter,Bologna,Home+Inter,Atalanta,Away+Inter,Genoa,Away",
-        "tackles": "16/23[H]+17/12[A]+18/16[H]+21/13[H]+18/12[A]+17/21[H]+17/12[A]+18/13[A]",
-        "interceptions": "3/19[H]+7/11[A]+3/3[H]+10/6[H]+9/13[A]+6/9[H]+6/11[A]+8/3[A]",
-        "aerialDuels": "20/11[H]+5/14[A]+26/18[H]+10/13[H]+17/6[A]+16/12[H]+9/8[A]+21/14[A]",
-        "aerialDuelsAttempted": "31/31[H]+19/19[A]+44/44[H]+23/23[H]+23/23[A]+28/28[H]+17/17[A]+35/35[A]",
-        "dribbles": "11/3[H]+5/7[A]+8/6[H]+4/3[H]+3/2[A]+4/2[H]+7/8[A]+7/3[A]",
-        "dribblesAttempted": "21/11[H]+9/13[A]+18/16[H]+6/9[H]+10/9[A]+13/11[H]+15/19[A]+12/12[A]",
-        "isHome": "true+false+true+true+false+true+false+false",
-        "cornersTotals": "50/18",
-        "cornersTotalsHome": "29/10",
-        "cornersTotalsAway": "21/8",
-        "cornersAverage": "6.25/2.25",
-        "cornersAverageHome": "7.25/2.50",
-        "cornersAverageAway": "5.25/2.00",
-        "foulsTotals": "114/96",
-        "foulsTotalsHome": "51/57",
-        "foulsTotalsAway": "63/39",
-        "foulsAverage": "14.25/12.00",
-        "foulsAverageHome": "12.75/14.25",
-        "foulsAverageAway": "15.75/9.75",
-        "goalKicksTotals": "34/75",
-        "goalKicksTotalsHome": "15/36",
-        "goalKicksTotalsAway": "19/39",
-        "goalKicksAverage": "4.25/9.38",
-        "goalKicksAverageHome": "3.75/9.00",
-        "goalKicksAverageAway": "4.75/9.75",
-        "savesTotals": "7/39",
-        "savesTotalsHome": "4/20",
-        "savesTotalsAway": "3/19",
-        "savesAverage": "0.88/4.88",
-        "savesAverageHome": "1.00/5.00",
-        "savesAverageAway": "0.75/4.75",
-        "offsidesTotals": "14/9",
-        "offsidesTotalsHome": "8/4",
-        "offsidesTotalsAway": "6/5",
-        "offsidesAverage": "1.75/1.13",
-        "offsidesAverageHome": "2.00/1.00",
-        "offsidesAverageAway": "1.50/1.25",
-        "shotsOnTargetTotals": "60/13",
-        "shotsOnTargetTotalsHome": "35/9",
-        "shotsOnTargetTotalsAway": "25/4",
-        "shotsOnTargetAverage": "7.50/1.63",
-        "shotsOnTargetAverageHome": "8.75/2.25",
-        "shotsOnTargetAverageAway": "6.25/1.00",
-        "yellowCardsTotals": "15/14",
-        "yellowCardsTotalsHome": "7/9",
-        "yellowCardsTotalsAway": "8/5",
-        "yellowCardsAverage": "1.88/1.75",
-        "yellowCardsAverageHome": "1.75/2.25",
-        "yellowCardsAverageAway": "2.00/1.25",
-        "goalsTotals": "18/6",
+        "corners": "5/3[A]+2/3[H]+6/1[A]+10/2[H]+10/2[A]+4/1[H]+6/5[A]+7/5[H]",
+        "fouls": "12/16[A]+11/5[H]+12/8[A]+13/8[H]+8/10[A]+15/7[H]+10/6[A]+8/11[H]",
+        "goalKicks": "7/6[A]+4/11[H]+9/8[A]+9/4[H]+3/14[A]+6/8[H]+5/9[A]+3/8[H]",
+        "saves": "5/3[A]+2/2[H]+1/2[A]+3/4[H]+0/6[A]+6/5[H]+1/4[A]+1/5[H]",
+        "offsides": "1/5[A]+3/2[H]+1/2[A]+2/1[H]+3/3[A]+1/1[H]+1/3[A]+0/2[H]",
+        "shotsOnTarget": "4/6[A]+3/3[H]+2/2[A]+6/2[H]+9/0[A]+9/8[H]+11/2[A]+14/3[H]",
+        "yellowCards": "3/3[A]+2/2[H]+2/2[A]+2/1[H]+2/1[A]+4/2[H]+1/1[A]+2/3[H]",
+        "goals": "1/1[A]+1/1[H]+0/1[A]+2/0[H]+2/0[A]+3/2[H]+5/0[A]+6/2[H]",
+        "throwIns": "17/11[A]+11/13[H]+15/8[A]+14/14[H]+20/15[A]+19/12[H]+9/11[A]+23/12[H]",
+        "averageBallPossession": "60/40[A]+58/42[H]+63/37[A]+56/44[H]+68/32[A]+60/40[H]+62/38[A]+66/34[H]",
+        "teams": "Inter,Fiorentina,Away+Inter,Atalanta,Home+Inter,Milan,Away+Inter,Genoa,Home+Inter,Lecce,Away+Inter,Juventus,Home+Inter,Sassuolo,Away+Inter,Pisa,Home",
+        "tackles": "16/4[A]+19/13[H]+12/15[A]+23/21[H]+23/16[A]+15/15[H]+13/6[A]+16/23[H]",
+        "interceptions": "5/9[A]+8/10[H]+8/7[A]+11/13[H]+4/5[A]+8/8[H]+4/2[A]+3/19[H]",
+        "aerialDuels": "16/11[A]+13/6[H]+6/7[A]+15/12[H]+19/12[A]+10/12[H]+11/7[A]+20/11[H]",
+        "aerialDuelsAttempted": "27/27[A]+19/19[H]+13/13[A]+27/27[H]+31/31[A]+22/22[H]+18/18[A]+31/31[H]",
+        "dribbles": "3/3[A]+7/5[H]+3/7[A]+11/5[H]+11/4[A]+6/7[H]+3/7[A]+11/3[H]",
+        "dribblesAttempted": "5/9[A]+10/18[H]+8/13[A]+23/15[H]+20/14[A]+8/14[H]+6/13[A]+21/11[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "50/22",
+        "cornersTotalsHome": "23/11",
+        "cornersTotalsAway": "27/11",
+        "cornersAverage": "6.25/2.75",
+        "cornersAverageHome": "5.75/2.75",
+        "cornersAverageAway": "6.75/2.75",
+        "foulsTotals": "89/71",
+        "foulsTotalsHome": "47/31",
+        "foulsTotalsAway": "42/40",
+        "foulsAverage": "11.13/8.88",
+        "foulsAverageHome": "11.75/7.75",
+        "foulsAverageAway": "10.50/10.00",
+        "goalKicksTotals": "46/68",
+        "goalKicksTotalsHome": "22/31",
+        "goalKicksTotalsAway": "24/37",
+        "goalKicksAverage": "5.75/8.50",
+        "goalKicksAverageHome": "5.50/7.75",
+        "goalKicksAverageAway": "6.00/9.25",
+        "savesTotals": "19/31",
+        "savesTotalsHome": "12/16",
+        "savesTotalsAway": "7/15",
+        "savesAverage": "2.38/3.88",
+        "savesAverageHome": "3.00/4.00",
+        "savesAverageAway": "1.75/3.75",
+        "offsidesTotals": "12/19",
+        "offsidesTotalsHome": "6/6",
+        "offsidesTotalsAway": "6/13",
+        "offsidesAverage": "1.50/2.38",
+        "offsidesAverageHome": "1.50/1.50",
+        "offsidesAverageAway": "1.50/3.25",
+        "shotsOnTargetTotals": "58/26",
+        "shotsOnTargetTotalsHome": "32/16",
+        "shotsOnTargetTotalsAway": "26/10",
+        "shotsOnTargetAverage": "7.25/3.25",
+        "shotsOnTargetAverageHome": "8.00/4.00",
+        "shotsOnTargetAverageAway": "6.50/2.50",
+        "yellowCardsTotals": "18/15",
+        "yellowCardsTotalsHome": "10/8",
+        "yellowCardsTotalsAway": "8/7",
+        "yellowCardsAverage": "2.25/1.88",
+        "yellowCardsAverageHome": "2.50/2.00",
+        "yellowCardsAverageAway": "2.00/1.75",
+        "goalsTotals": "20/7",
         "goalsTotalsHome": "12/5",
-        "goalsTotalsAway": "6/1",
-        "goalsAverage": "2.25/0.75",
+        "goalsTotalsAway": "8/2",
+        "goalsAverage": "2.50/0.88",
         "goalsAverageHome": "3.00/1.25",
-        "goalsAverageAway": "1.50/0.25",
-        "throwInsTotals": "157/125",
-        "throwInsTotalsHome": "85/63",
-        "throwInsTotalsAway": "72/62",
-        "throwInsAverage": "19.63/15.63",
-        "throwInsAverageHome": "21.25/15.75",
-        "throwInsAverageAway": "18.00/15.50",
-        "averageBallPossessionTotals": "486/314",
-        "averageBallPossessionTotalsHome": "242/158",
-        "averageBallPossessionTotalsAway": "244/156",
-        "averageBallPossessionAverage": "60.75/39.25",
-        "averageBallPossessionAverageHome": "60.50/39.50",
-        "averageBallPossessionAverageAway": "61.00/39.00",
-        "tacklesTotals": "142/122",
-        "tacklesTotalsHome": "72/73",
-        "tacklesTotalsAway": "70/49",
-        "tacklesAverage": "17.75/15.25",
-        "tacklesAverageHome": "18.00/18.25",
-        "tacklesAverageAway": "17.50/12.25",
-        "interceptionsTotals": "52/75",
-        "interceptionsTotalsHome": "22/37",
-        "interceptionsTotalsAway": "30/38",
-        "interceptionsAverage": "6.50/9.38",
-        "interceptionsAverageHome": "5.50/9.25",
-        "interceptionsAverageAway": "7.50/9.50",
-        "aerialDuelsTotals": "124/96",
-        "aerialDuelsTotalsHome": "72/54",
-        "aerialDuelsTotalsAway": "52/42",
-        "aerialDuelsAverage": "15.50/12.00",
-        "aerialDuelsAverageHome": "18.00/13.50",
-        "aerialDuelsAverageAway": "13.00/10.50",
-        "aerialDuelsAttemptedTotals": "220/220",
-        "aerialDuelsAttemptedTotalsHome": "126/126",
-        "aerialDuelsAttemptedTotalsAway": "94/94",
-        "aerialDuelsAttemptedAverage": "27.50/27.50",
-        "aerialDuelsAttemptedAverageHome": "31.50/31.50",
-        "aerialDuelsAttemptedAverageAway": "23.50/23.50",
-        "dribblesTotals": "49/34",
-        "dribblesTotalsHome": "27/14",
-        "dribblesTotalsAway": "22/20",
-        "dribblesAverage": "6.13/4.25",
-        "dribblesAverageHome": "6.75/3.50",
-        "dribblesAverageAway": "5.50/5.00",
-        "dribblesAttemptedTotals": "104/100",
-        "dribblesAttemptedTotalsHome": "58/47",
-        "dribblesAttemptedTotalsAway": "46/53",
-        "dribblesAttemptedAverage": "13.00/12.50",
-        "dribblesAttemptedAverageHome": "14.50/11.75",
-        "dribblesAttemptedAverageAway": "11.50/13.25"
+        "goalsAverageAway": "2.00/0.50",
+        "throwInsTotals": "128/96",
+        "throwInsTotalsHome": "67/51",
+        "throwInsTotalsAway": "61/45",
+        "throwInsAverage": "16.00/12.00",
+        "throwInsAverageHome": "16.75/12.75",
+        "throwInsAverageAway": "15.25/11.25",
+        "averageBallPossessionTotals": "493/307",
+        "averageBallPossessionTotalsHome": "240/160",
+        "averageBallPossessionTotalsAway": "253/147",
+        "averageBallPossessionAverage": "61.63/38.38",
+        "averageBallPossessionAverageHome": "60.00/40.00",
+        "averageBallPossessionAverageAway": "63.25/36.75",
+        "tacklesTotals": "137/113",
+        "tacklesTotalsHome": "73/72",
+        "tacklesTotalsAway": "64/41",
+        "tacklesAverage": "17.13/14.13",
+        "tacklesAverageHome": "18.25/18.00",
+        "tacklesAverageAway": "16.00/10.25",
+        "interceptionsTotals": "51/73",
+        "interceptionsTotalsHome": "30/50",
+        "interceptionsTotalsAway": "21/23",
+        "interceptionsAverage": "6.38/9.13",
+        "interceptionsAverageHome": "7.50/12.50",
+        "interceptionsAverageAway": "5.25/5.75",
+        "aerialDuelsTotals": "110/78",
+        "aerialDuelsTotalsHome": "58/41",
+        "aerialDuelsTotalsAway": "52/37",
+        "aerialDuelsAverage": "13.75/9.75",
+        "aerialDuelsAverageHome": "14.50/10.25",
+        "aerialDuelsAverageAway": "13.00/9.25",
+        "aerialDuelsAttemptedTotals": "188/188",
+        "aerialDuelsAttemptedTotalsHome": "99/99",
+        "aerialDuelsAttemptedTotalsAway": "89/89",
+        "aerialDuelsAttemptedAverage": "23.50/23.50",
+        "aerialDuelsAttemptedAverageHome": "24.75/24.75",
+        "aerialDuelsAttemptedAverageAway": "22.25/22.25",
+        "dribblesTotals": "55/41",
+        "dribblesTotalsHome": "35/20",
+        "dribblesTotalsAway": "20/21",
+        "dribblesAverage": "6.88/5.13",
+        "dribblesAverageHome": "8.75/5.00",
+        "dribblesAverageAway": "5.00/5.25",
+        "dribblesAttemptedTotals": "101/107",
+        "dribblesAttemptedTotalsHome": "62/58",
+        "dribblesAttemptedTotalsAway": "39/49",
+        "dribblesAttemptedAverage": "12.63/13.38",
+        "dribblesAttemptedAverageHome": "15.50/14.50",
+        "dribblesAttemptedAverageAway": "9.75/12.25"
     }
 }

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "15.43",
+        "goalKicks": "8.00",
+        "saves": "3.43",
+        "offsides": "1.75",
+        "shotsOnTarget": "3.54/5.11",
+        "yellowCards": "2.57/2.04",
+        "goals": "1.25/1.75",
+        "throwIns": "21.39",
+        "ballPossession": 48.357142857143,
+        "tackles": "14.89/17.36",
+        "interceptions": "8.11/7.86",
+        "aerialDuels": "19.07",
+        "aerialDuelsAttempted": "36.07",
+        "dribbles": "6.14/5.43",
+        "dribblesAttempted": "15.36/12.43"
+    },
+    "teamSlug": "diosgyori-vtk",
+    "teamId": "5121",
+    "teamName": "Diósgyőri VTK",
+    "tournament": "Fizz Liga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-diosgyori-vtk/wccsWlk#id:14019535,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "Puskás Akadémia"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                5121,
+                25596
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nyiregyhaza-spartacus-diosgyori-vtk/wccszcc#id:14019527,tab:statistics",
+            "teams": [
+                "Nyiregyháza Spartacus",
+                "Diósgyőri VTK"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                5124,
+                5121
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-diosgyori-vtk/wccsjld#id:14019523,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "Kazincbarcikai SC"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                5121,
+                8059
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/diosgyori-vtk-mtk-budapest/pNswcc#id:14019517,tab:statistics",
+            "teams": [
+                "MTK Budapest",
+                "Diósgyőri VTK"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1915,
+                5121
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/diosgyori-vtk-zalaegerszegi-te/xNswcc#id:14019509,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "Zalaegerszegi TE"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5121,
+                1922
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/diosgyori-vtk-ujpest/zNswcc#id:14019506,tab:statistics",
+            "teams": [
+                "Újpest",
+                "Diósgyőri VTK"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1924,
+                5121
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/paksi-fc-diosgyori-vtk/wccsjwc#id:14019498,tab:statistics",
+            "teams": [
+                "Paksi FC",
+                "Diósgyőri VTK"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                6059,
+                5121
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/diosgyori-vtk-eto-fc-gyor/yNswcc#id:14019496,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "ETO FC Győr"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5121,
+                1923
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/2[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "0/2[H]",
+            "offsides": "0/5[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "25/30[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Diósgyőri VTK,Puskás Akadémia,Home",
+            "tackles": "16/24[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "20/22[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "12/5[H]",
+            "dribblesAttempted": "27/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/7[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "1/3[A]",
+            "throwIns": "20/35[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Diósgyőri VTK,Nyiregyháza Spartacus,Away",
+            "tackles": "21/14[A]",
+            "interceptions": "7/13[A]",
+            "aerialDuels": "25/31[A]",
+            "aerialDuelsAttempted": "56/56[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "13/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "15/16[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/4[H]",
+            "throwIns": "20/26[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Diósgyőri VTK,Kazincbarcikai SC,Home",
+            "tackles": "16/14[H]",
+            "interceptions": "12/6[H]",
+            "aerialDuels": "17/19[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "7/1[H]",
+            "dribblesAttempted": "16/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/11[A]",
+            "fouls": "7/12[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "23/25[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Diósgyőri VTK,MTK Budapest,Away",
+            "tackles": "12/13[A]",
+            "interceptions": "15/10[A]",
+            "aerialDuels": "15/11[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "13/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[H]",
+            "fouls": "18/10[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "24/21[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Diósgyőri VTK,Zalaegerszegi TE,Home",
+            "tackles": "16/19[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "19/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "6/5[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "7/8[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "22/18[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Diósgyőri VTK,Újpest,Away",
+            "tackles": "6/22[A]",
+            "interceptions": "14/4[A]",
+            "aerialDuels": "10/11[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "3/11[A]",
+            "dribblesAttempted": "13/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/13[A]",
+            "fouls": "18/20[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "7/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/8[A]",
+            "yellowCards": "6/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "23/31[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Diósgyőri VTK,Paksi FC,Away",
+            "tackles": "19/17[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "19/17[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "14/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "19/12[H]",
+            "goalKicks": "15/8[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/30[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Diósgyőri VTK,ETO FC Győr,Home",
+            "tackles": "18/26[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "17/10[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "25/16[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T15:31:30.429Z",
+    "endTime": "2026-04-05T15:32:23.198Z",
+    "totalTimeSeconds": 52.77,
+    "combinedMatchStatistics": {
+        "corners": "7/2[H]+5/7[A]+6/2[H]+3/11[A]+3/3[H]+1/6[A]+3/13[A]+4/6[H]",
+        "fouls": "13/11[H]+18/14[A]+15/16[H]+7/12[A]+18/10[H]+15/14[A]+18/20[A]+19/12[H]",
+        "goalKicks": "6/6[H]+11/7[A]+5/11[H]+9/8[A]+7/7[H]+4/6[A]+11/4[A]+15/8[H]",
+        "saves": "0/2[H]+3/2[A]+1/2[H]+2/3[A]+1/2[H]+6/5[A]+7/3[A]+5/4[H]",
+        "offsides": "0/5[H]+1/1[A]+1/1[H]+2/4[A]+2/4[H]+1/4[A]+2/1[A]+1/3[H]",
+        "shotsOnTarget": "3/2[H]+3/6[A]+3/5[H]+4/3[A]+3/1[H]+7/8[A]+5/8[A]+5/6[H]",
+        "yellowCards": "2/1[H]+3/0[A]+3/3[H]+3/3[A]+3/2[H]+3/2[A]+6/3[A]+5/1[H]",
+        "goals": "1/2[H]+1/3[A]+0/4[H]+1/1[A]+1/1[H]+1/2[A]+2/1[A]+1/1[H]",
+        "throwIns": "25/30[H]+20/35[A]+20/26[H]+23/25[A]+24/21[H]+22/18[A]+23/31[A]+21/30[H]",
+        "averageBallPossession": "50/50[H]+54/46[A]+61/39[H]+41/59[A]+43/57[H]+53/47[A]+50/50[A]+40/60[H]",
+        "teams": "Diósgyőri VTK,Puskás Akadémia,Home+Diósgyőri VTK,Nyiregyháza Spartacus,Away+Diósgyőri VTK,Kazincbarcikai SC,Home+Diósgyőri VTK,MTK Budapest,Away+Diósgyőri VTK,Zalaegerszegi TE,Home+Diósgyőri VTK,Újpest,Away+Diósgyőri VTK,Paksi FC,Away+Diósgyőri VTK,ETO FC Győr,Home",
+        "tackles": "16/24[H]+21/14[A]+16/14[H]+12/13[A]+16/19[H]+6/22[A]+19/17[A]+18/26[H]",
+        "interceptions": "7/6[H]+7/13[A]+12/6[H]+15/10[A]+9/6[H]+14/4[A]+9/9[A]+6/6[H]",
+        "aerialDuels": "20/22[H]+25/31[A]+17/19[H]+15/11[A]+15/12[H]+10/11[A]+19/17[A]+17/10[H]",
+        "aerialDuelsAttempted": "42/42[H]+56/56[A]+36/36[H]+26/26[A]+27/27[H]+21/21[A]+36/36[A]+27/27[H]",
+        "dribbles": "12/5[H]+3/8[A]+7/1[H]+8/8[A]+7/5[H]+3/11[A]+5/6[A]+6/4[H]",
+        "dribblesAttempted": "27/13[H]+13/13[A]+16/10[H]+13/11[A]+19/11[H]+13/14[A]+14/19[A]+25/16[H]",
+        "isHome": "true+false+true+false+true+false+false+true",
+        "cornersTotals": "32/50",
+        "cornersTotalsHome": "20/13",
+        "cornersTotalsAway": "12/37",
+        "cornersAverage": "4.00/6.25",
+        "cornersAverageHome": "5.00/3.25",
+        "cornersAverageAway": "3.00/9.25",
+        "foulsTotals": "123/109",
+        "foulsTotalsHome": "65/49",
+        "foulsTotalsAway": "58/60",
+        "foulsAverage": "15.38/13.63",
+        "foulsAverageHome": "16.25/12.25",
+        "foulsAverageAway": "14.50/15.00",
+        "goalKicksTotals": "68/57",
+        "goalKicksTotalsHome": "33/32",
+        "goalKicksTotalsAway": "35/25",
+        "goalKicksAverage": "8.50/7.13",
+        "goalKicksAverageHome": "8.25/8.00",
+        "goalKicksAverageAway": "8.75/6.25",
+        "savesTotals": "25/23",
+        "savesTotalsHome": "7/10",
+        "savesTotalsAway": "18/13",
+        "savesAverage": "3.13/2.88",
+        "savesAverageHome": "1.75/2.50",
+        "savesAverageAway": "4.50/3.25",
+        "offsidesTotals": "10/23",
+        "offsidesTotalsHome": "4/13",
+        "offsidesTotalsAway": "6/10",
+        "offsidesAverage": "1.25/2.88",
+        "offsidesAverageHome": "1.00/3.25",
+        "offsidesAverageAway": "1.50/2.50",
+        "shotsOnTargetTotals": "33/39",
+        "shotsOnTargetTotalsHome": "14/14",
+        "shotsOnTargetTotalsAway": "19/25",
+        "shotsOnTargetAverage": "4.13/4.88",
+        "shotsOnTargetAverageHome": "3.50/3.50",
+        "shotsOnTargetAverageAway": "4.75/6.25",
+        "yellowCardsTotals": "28/15",
+        "yellowCardsTotalsHome": "13/7",
+        "yellowCardsTotalsAway": "15/8",
+        "yellowCardsAverage": "3.50/1.88",
+        "yellowCardsAverageHome": "3.25/1.75",
+        "yellowCardsAverageAway": "3.75/2.00",
+        "goalsTotals": "8/15",
+        "goalsTotalsHome": "3/8",
+        "goalsTotalsAway": "5/7",
+        "goalsAverage": "1.00/1.88",
+        "goalsAverageHome": "0.75/2.00",
+        "goalsAverageAway": "1.25/1.75",
+        "throwInsTotals": "178/216",
+        "throwInsTotalsHome": "90/107",
+        "throwInsTotalsAway": "88/109",
+        "throwInsAverage": "22.25/27.00",
+        "throwInsAverageHome": "22.50/26.75",
+        "throwInsAverageAway": "22.00/27.25",
+        "averageBallPossessionTotals": "392/408",
+        "averageBallPossessionTotalsHome": "194/206",
+        "averageBallPossessionTotalsAway": "198/202",
+        "averageBallPossessionAverage": "49.00/51.00",
+        "averageBallPossessionAverageHome": "48.50/51.50",
+        "averageBallPossessionAverageAway": "49.50/50.50",
+        "tacklesTotals": "124/149",
+        "tacklesTotalsHome": "66/83",
+        "tacklesTotalsAway": "58/66",
+        "tacklesAverage": "15.50/18.63",
+        "tacklesAverageHome": "16.50/20.75",
+        "tacklesAverageAway": "14.50/16.50",
+        "interceptionsTotals": "79/60",
+        "interceptionsTotalsHome": "34/24",
+        "interceptionsTotalsAway": "45/36",
+        "interceptionsAverage": "9.88/7.50",
+        "interceptionsAverageHome": "8.50/6.00",
+        "interceptionsAverageAway": "11.25/9.00",
+        "aerialDuelsTotals": "138/133",
+        "aerialDuelsTotalsHome": "69/63",
+        "aerialDuelsTotalsAway": "69/70",
+        "aerialDuelsAverage": "17.25/16.63",
+        "aerialDuelsAverageHome": "17.25/15.75",
+        "aerialDuelsAverageAway": "17.25/17.50",
+        "aerialDuelsAttemptedTotals": "271/271",
+        "aerialDuelsAttemptedTotalsHome": "132/132",
+        "aerialDuelsAttemptedTotalsAway": "139/139",
+        "aerialDuelsAttemptedAverage": "33.88/33.88",
+        "aerialDuelsAttemptedAverageHome": "33.00/33.00",
+        "aerialDuelsAttemptedAverageAway": "34.75/34.75",
+        "dribblesTotals": "51/48",
+        "dribblesTotalsHome": "32/15",
+        "dribblesTotalsAway": "19/33",
+        "dribblesAverage": "6.38/6.00",
+        "dribblesAverageHome": "8.00/3.75",
+        "dribblesAverageAway": "4.75/8.25",
+        "dribblesAttemptedTotals": "140/107",
+        "dribblesAttemptedTotalsHome": "87/50",
+        "dribblesAttemptedTotalsAway": "53/57",
+        "dribblesAttemptedAverage": "17.50/13.38",
+        "dribblesAttemptedAverageHome": "21.75/12.50",
+        "dribblesAttemptedAverageAway": "13.25/14.25"
+    }
+}

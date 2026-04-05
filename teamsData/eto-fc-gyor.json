@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.56",
+        "fouls": "12.52",
+        "goalKicks": "6.41",
+        "saves": "2.56",
+        "offsides": "3.07",
+        "shotsOnTarget": "6.33/3.52",
+        "yellowCards": "2.00/2.30",
+        "goals": "1.96/1.04",
+        "throwIns": "21.33",
+        "ballPossession": 59.444444444444,
+        "tackles": "15.04/16.00",
+        "interceptions": "8.70/8.85",
+        "aerialDuels": "17.59",
+        "aerialDuelsAttempted": "33.41",
+        "dribbles": "7.74/6.78",
+        "dribblesAttempted": "16.30/13.81"
+    },
+    "teamSlug": "eto-fc-gyor",
+    "teamId": "1923",
+    "teamName": "ETO FC Győr",
+    "tournament": "Fizz Liga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-eto-fc-gyor/yNsjld#id:14019528,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "ETO FC Győr"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                8059,
+                1923
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eto-fc-gyor-mtk-budapest/pNsyN#id:14019524,tab:statistics",
+            "teams": [
+                "ETO FC Győr",
+                "MTK Budapest"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1923,
+                1915
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eto-fc-gyor-zalaegerszegi-te/xNsyN#id:14019520,tab:statistics",
+            "teams": [
+                "Zalaegerszegi TE",
+                "ETO FC Győr"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1922,
+                1923
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ujpest-eto-fc-gyor/yNszN#id:14019508,tab:statistics",
+            "teams": [
+                "ETO FC Győr",
+                "Újpest"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1923,
+                1924
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/paksi-fc-eto-fc-gyor/yNsjwc#id:14019510,tab:statistics",
+            "teams": [
+                "Paksi FC",
+                "ETO FC Győr"
+            ],
+            "goals": [
+                3,
+                4
+            ],
+            "teamIds": [
+                6059,
+                1923
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kisvarda-fc-eto-fc-gyor/yNsXhk#id:14019505,tab:statistics",
+            "teams": [
+                "ETO FC Győr",
+                "Kisvárda FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1923,
+                25397
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/diosgyori-vtk-eto-fc-gyor/yNswcc#id:14019496,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "ETO FC Győr"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5121,
+                1923
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eto-fc-gyor-debreceni-vsc/wNsyN#id:14019484,tab:statistics",
+            "teams": [
+                "ETO FC Győr",
+                "Debreceni VSC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                1923,
+                1921
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "10/2[A]",
+            "fouls": "10/9[A]",
+            "goalKicks": "5/13[A]",
+            "saves": "2/5[A]",
+            "offsides": "5/0[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "3/1[A]",
+            "throwIns": "23/13[A]",
+            "averageBallPossession": "74/26[A]",
+            "teams": "ETO FC Győr,Kazincbarcikai SC,Away",
+            "tackles": "14/13[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "19/17[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "12/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/1[H]",
+            "fouls": "11/17[H]",
+            "goalKicks": "6/15[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "28/12[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "ETO FC Győr,MTK Budapest,Home",
+            "tackles": "16/22[H]",
+            "interceptions": "8/15[H]",
+            "aerialDuels": "16/23[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "14/6[H]",
+            "dribblesAttempted": "28/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "5/3[A]",
+            "saves": "1/2[A]",
+            "offsides": "7/1[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "20/19[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "ETO FC Győr,Zalaegerszegi TE,Away",
+            "tackles": "18/18[A]",
+            "interceptions": "14/8[A]",
+            "aerialDuels": "18/7[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "10/4[A]",
+            "dribblesAttempted": "21/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "13/19[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "0/4[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "ETO FC Győr,Újpest,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "12/15[H]",
+            "aerialDuels": "15/18[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "14/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "5/5[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "9/8[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "4/3[A]",
+            "throwIns": "19/30[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "ETO FC Győr,Paksi FC,Away",
+            "tackles": "18/24[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "25/15[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "14/4[A]",
+            "dribblesAttempted": "31/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "4/11[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "0/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "5/0[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "26/22[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "ETO FC Győr,Kisvárda FC,Home",
+            "tackles": "17/25[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "12/15[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "14/8[H]",
+            "dribblesAttempted": "26/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "12/19[A]",
+            "goalKicks": "8/15[A]",
+            "saves": "4/5[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "1/1[A]",
+            "throwIns": "30/21[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "ETO FC Győr,Diósgyőri VTK,Away",
+            "tackles": "26/18[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "10/17[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "16/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "15/21[H]",
+            "goalKicks": "4/8[H]",
+            "saves": "3/5[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "22/16[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "ETO FC Győr,Debreceni VSC,Home",
+            "tackles": "11/9[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "21/11[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T15:35:36.139Z",
+    "endTime": "2026-04-05T15:36:22.980Z",
+    "totalTimeSeconds": 46.84,
+    "combinedMatchStatistics": {
+        "corners": "10/2[A]+12/1[H]+5/3[A]+4/2[H]+2/4[A]+7/3[H]+6/4[A]+4/2[H]",
+        "fouls": "10/9[A]+11/17[H]+11/12[A]+13/19[H]+16/11[A]+4/11[H]+12/19[A]+15/21[H]",
+        "goalKicks": "5/13[A]+6/15[H]+5/3[A]+5/5[H]+7/7[A]+6/5[H]+8/15[A]+4/8[H]",
+        "saves": "2/5[A]+2/3[H]+1/2[A]+0/4[H]+5/5[A]+0/4[H]+4/5[A]+3/5[H]",
+        "offsides": "5/0[A]+2/0[H]+7/1[A]+2/3[H]+3/3[A]+1/3[H]+3/1[A]+3/3[H]",
+        "shotsOnTarget": "8/3[A]+3/2[H]+3/3[A]+5/1[H]+9/8[A]+5/0[H]+6/5[A]+8/5[H]",
+        "yellowCards": "3/1[A]+0/0[H]+1/2[A]+3/3[H]+3/3[A]+1/3[H]+1/5[A]+3/3[H]",
+        "goals": "3/1[A]+0/0[H]+1/2[A]+2/1[H]+4/3[A]+1/0[H]+1/1[A]+2/2[H]",
+        "throwIns": "23/13[A]+28/12[H]+20/19[A]+22/19[H]+19/30[A]+26/22[H]+30/21[A]+22/16[H]",
+        "averageBallPossession": "74/26[A]+71/29[H]+58/42[A]+57/43[H]+52/48[A]+51/49[H]+60/40[A]+68/32[H]",
+        "teams": "ETO FC Győr,Kazincbarcikai SC,Away+ETO FC Győr,MTK Budapest,Home+ETO FC Győr,Zalaegerszegi TE,Away+ETO FC Győr,Újpest,Home+ETO FC Győr,Paksi FC,Away+ETO FC Győr,Kisvárda FC,Home+ETO FC Győr,Diósgyőri VTK,Away+ETO FC Győr,Debreceni VSC,Home",
+        "tackles": "14/13[A]+16/22[H]+18/18[A]+15/17[H]+18/24[A]+17/25[H]+26/18[A]+11/9[H]",
+        "interceptions": "6/6[A]+8/15[H]+14/8[A]+12/15[H]+11/10[A]+8/11[H]+6/6[A]+9/11[H]",
+        "aerialDuels": "19/17[A]+16/23[H]+18/7[A]+15/18[H]+25/15[A]+12/15[H]+10/17[A]+21/11[H]",
+        "aerialDuelsAttempted": "36/36[A]+39/39[H]+25/25[A]+33/33[H]+40/40[A]+27/27[H]+27/27[A]+32/32[H]",
+        "dribbles": "8/8[A]+14/6[H]+10/4[A]+5/4[H]+14/4[A]+14/8[H]+4/6[A]+7/5[H]",
+        "dribblesAttempted": "12/11[A]+28/9[H]+21/15[A]+14/11[H]+31/11[A]+26/14[H]+16/25[A]+11/12[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "50/21",
+        "cornersTotalsHome": "27/8",
+        "cornersTotalsAway": "23/13",
+        "cornersAverage": "6.25/2.63",
+        "cornersAverageHome": "6.75/2.00",
+        "cornersAverageAway": "5.75/3.25",
+        "foulsTotals": "92/119",
+        "foulsTotalsHome": "43/68",
+        "foulsTotalsAway": "49/51",
+        "foulsAverage": "11.50/14.88",
+        "foulsAverageHome": "10.75/17.00",
+        "foulsAverageAway": "12.25/12.75",
+        "goalKicksTotals": "46/71",
+        "goalKicksTotalsHome": "21/33",
+        "goalKicksTotalsAway": "25/38",
+        "goalKicksAverage": "5.75/8.88",
+        "goalKicksAverageHome": "5.25/8.25",
+        "goalKicksAverageAway": "6.25/9.50",
+        "savesTotals": "17/33",
+        "savesTotalsHome": "5/16",
+        "savesTotalsAway": "12/17",
+        "savesAverage": "2.13/4.13",
+        "savesAverageHome": "1.25/4.00",
+        "savesAverageAway": "3.00/4.25",
+        "offsidesTotals": "26/14",
+        "offsidesTotalsHome": "8/9",
+        "offsidesTotalsAway": "18/5",
+        "offsidesAverage": "3.25/1.75",
+        "offsidesAverageHome": "2.00/2.25",
+        "offsidesAverageAway": "4.50/1.25",
+        "shotsOnTargetTotals": "47/27",
+        "shotsOnTargetTotalsHome": "21/8",
+        "shotsOnTargetTotalsAway": "26/19",
+        "shotsOnTargetAverage": "5.88/3.38",
+        "shotsOnTargetAverageHome": "5.25/2.00",
+        "shotsOnTargetAverageAway": "6.50/4.75",
+        "yellowCardsTotals": "15/20",
+        "yellowCardsTotalsHome": "7/9",
+        "yellowCardsTotalsAway": "8/11",
+        "yellowCardsAverage": "1.88/2.50",
+        "yellowCardsAverageHome": "1.75/2.25",
+        "yellowCardsAverageAway": "2.00/2.75",
+        "goalsTotals": "14/10",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "9/7",
+        "goalsAverage": "1.75/1.25",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "2.25/1.75",
+        "throwInsTotals": "190/152",
+        "throwInsTotalsHome": "98/69",
+        "throwInsTotalsAway": "92/83",
+        "throwInsAverage": "23.75/19.00",
+        "throwInsAverageHome": "24.50/17.25",
+        "throwInsAverageAway": "23.00/20.75",
+        "averageBallPossessionTotals": "491/309",
+        "averageBallPossessionTotalsHome": "247/153",
+        "averageBallPossessionTotalsAway": "244/156",
+        "averageBallPossessionAverage": "61.38/38.63",
+        "averageBallPossessionAverageHome": "61.75/38.25",
+        "averageBallPossessionAverageAway": "61.00/39.00",
+        "tacklesTotals": "135/146",
+        "tacklesTotalsHome": "59/73",
+        "tacklesTotalsAway": "76/73",
+        "tacklesAverage": "16.88/18.25",
+        "tacklesAverageHome": "14.75/18.25",
+        "tacklesAverageAway": "19.00/18.25",
+        "interceptionsTotals": "74/82",
+        "interceptionsTotalsHome": "37/52",
+        "interceptionsTotalsAway": "37/30",
+        "interceptionsAverage": "9.25/10.25",
+        "interceptionsAverageHome": "9.25/13.00",
+        "interceptionsAverageAway": "9.25/7.50",
+        "aerialDuelsTotals": "136/123",
+        "aerialDuelsTotalsHome": "64/67",
+        "aerialDuelsTotalsAway": "72/56",
+        "aerialDuelsAverage": "17.00/15.38",
+        "aerialDuelsAverageHome": "16.00/16.75",
+        "aerialDuelsAverageAway": "18.00/14.00",
+        "aerialDuelsAttemptedTotals": "259/259",
+        "aerialDuelsAttemptedTotalsHome": "131/131",
+        "aerialDuelsAttemptedTotalsAway": "128/128",
+        "aerialDuelsAttemptedAverage": "32.38/32.38",
+        "aerialDuelsAttemptedAverageHome": "32.75/32.75",
+        "aerialDuelsAttemptedAverageAway": "32.00/32.00",
+        "dribblesTotals": "76/45",
+        "dribblesTotalsHome": "40/23",
+        "dribblesTotalsAway": "36/22",
+        "dribblesAverage": "9.50/5.63",
+        "dribblesAverageHome": "10.00/5.75",
+        "dribblesAverageAway": "9.00/5.50",
+        "dribblesAttemptedTotals": "159/108",
+        "dribblesAttemptedTotalsHome": "79/46",
+        "dribblesAttemptedTotalsAway": "80/62",
+        "dribblesAttemptedAverage": "19.88/13.50",
+        "dribblesAttemptedAverageHome": "19.75/11.50",
+        "dribblesAttemptedAverageAway": "20.00/15.50"
+    }
+}

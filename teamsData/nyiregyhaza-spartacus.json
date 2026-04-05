@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.59",
+        "fouls": "18.11",
+        "goalKicks": "7.00",
+        "saves": "2.74",
+        "offsides": "2.19",
+        "shotsOnTarget": "4.85/4.33",
+        "yellowCards": "2.48/2.41",
+        "goals": "1.41/1.67",
+        "throwIns": "24.11",
+        "ballPossession": 46.592592592593,
+        "tackles": "15.96/15.96",
+        "interceptions": "10.70/7.48",
+        "aerialDuels": "25.96",
+        "aerialDuelsAttempted": "46.59",
+        "dribbles": "6.63/7.04",
+        "dribblesAttempted": "14.30/15.07"
+    },
+    "teamSlug": "nyiregyhaza-spartacus",
+    "teamId": "5124",
+    "teamName": "Nyiregyháza Spartacus",
+    "tournament": "Fizz Liga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nyiregyhaza-spartacus-diosgyori-vtk/wccszcc#id:14019527,tab:statistics",
+            "teams": [
+                "Nyiregyháza Spartacus",
+                "Diósgyőri VTK"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                5124,
+                5121
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nyiregyhaza-spartacus-debreceni-vsc/wNszcc#id:14019526,tab:statistics",
+            "teams": [
+                "Debreceni VSC",
+                "Nyiregyháza Spartacus"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1921,
+                5124
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nyiregyhaza-spartacus-ferencvaros-tc/ANszcc#id:14019515,tab:statistics",
+            "teams": [
+                "Nyiregyháza Spartacus",
+                "Ferencváros TC"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                5124,
+                1925
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-nyiregyhaza-spartacus/zccsWlk#id:14019513,tab:statistics",
+            "teams": [
+                "Puskás Akadémia",
+                "Nyiregyháza Spartacus"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                25596,
+                5124
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kisvarda-fc-nyiregyhaza-spartacus/zccsXhk#id:14019502,tab:statistics",
+            "teams": [
+                "Nyiregyháza Spartacus",
+                "Kisvárda FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                5124,
+                25397
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-nyiregyhaza-spartacus/zccsjld#id:14019493,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "Nyiregyháza Spartacus"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                8059,
+                5124
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nyiregyhaza-spartacus-mtk-budapest/pNszcc#id:14019491,tab:statistics",
+            "teams": [
+                "Nyiregyháza Spartacus",
+                "MTK Budapest"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                5124,
+                1915
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nyiregyhaza-spartacus-zalaegerszegi-te/xNszcc#id:14019481,tab:statistics",
+            "teams": [
+                "Zalaegerszegi TE",
+                "Nyiregyháza Spartacus"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                1922,
+                5124
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/5[H]",
+            "fouls": "14/18[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "35/20[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Nyiregyháza Spartacus,Diósgyőri VTK,Home",
+            "tackles": "14/21[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "31/25[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "13/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "21/8[A]",
+            "goalKicks": "12/8[A]",
+            "saves": "2/2[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "1/1[A]",
+            "throwIns": "20/35[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Nyiregyháza Spartacus,Debreceni VSC,Away",
+            "tackles": "17/11[A]",
+            "interceptions": "14/9[A]",
+            "aerialDuels": "35/26[A]",
+            "aerialDuelsAttempted": "61/61[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "7/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "17/12[H]",
+            "goalKicks": "1/5[H]",
+            "saves": "6/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/9[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "17/29[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Nyiregyháza Spartacus,Ferencváros TC,Home",
+            "tackles": "22/11[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "36/21[H]",
+            "aerialDuelsAttempted": "57/57[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "13/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "23/14[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "1/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "6/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "23/26[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Nyiregyháza Spartacus,Puskás Akadémia,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "8/13[A]",
+            "aerialDuels": "31/24[A]",
+            "aerialDuelsAttempted": "55/55[A]",
+            "dribbles": "11/3[A]",
+            "dribblesAttempted": "19/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "16/17[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "35/18[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Nyiregyháza Spartacus,Kisvárda FC,Home",
+            "tackles": "9/14[H]",
+            "interceptions": "8/6[H]",
+            "aerialDuels": "35/26[H]",
+            "aerialDuelsAttempted": "61/61[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "13/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "29/18[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "2/5[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "8/2[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "4/0[A]",
+            "throwIns": "26/31[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Nyiregyháza Spartacus,Kazincbarcikai SC,Away",
+            "tackles": "24/12[A]",
+            "interceptions": "14/10[A]",
+            "aerialDuels": "50/24[A]",
+            "aerialDuelsAttempted": "74/74[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "11/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "0/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "4/2[H]",
+            "throwIns": "38/26[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Nyiregyháza Spartacus,MTK Budapest,Home",
+            "tackles": "10/14[H]",
+            "interceptions": "11/10[H]",
+            "aerialDuels": "27/22[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "17/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "21/10[A]",
+            "goalKicks": "10/8[A]",
+            "saves": "5/0[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "24/21[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Nyiregyháza Spartacus,Zalaegerszegi TE,Away",
+            "tackles": "15/9[A]",
+            "interceptions": "15/9[A]",
+            "aerialDuels": "23/8[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "2/17[A]",
+            "dribblesAttempted": "9/23[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T15:36:25.928Z",
+    "endTime": "2026-04-05T15:37:08.998Z",
+    "totalTimeSeconds": 43.07,
+    "combinedMatchStatistics": {
+        "corners": "7/5[H]+2/3[A]+6/5[H]+4/7[A]+6/3[H]+4/2[A]+6/1[H]+5/4[A]",
+        "fouls": "14/18[H]+21/8[A]+17/12[H]+23/14[A]+16/17[H]+29/18[A]+15/11[H]+21/10[A]",
+        "goalKicks": "7/11[H]+12/8[A]+1/5[H]+8/9[A]+7/9[H]+6/6[A]+5/5[H]+10/8[A]",
+        "saves": "2/3[H]+2/2[A]+6/2[H]+1/2[A]+1/3[H]+2/5[A]+0/3[H]+5/0[A]",
+        "offsides": "1/1[H]+3/1[A]+1/2[H]+3/2[A]+0/3[H]+2/1[A]+2/2[H]+4/1[A]",
+        "shotsOnTarget": "6/3[H]+3/3[A]+3/9[H]+4/2[A]+5/3[H]+8/2[A]+7/2[H]+1/5[A]",
+        "yellowCards": "0/3[H]+2/4[A]+2/2[H]+6/1[A]+0/2[H]+1/3[A]+2/1[H]+3/3[A]",
+        "goals": "3/1[H]+1/1[A]+1/3[H]+2/1[A]+2/2[H]+4/0[A]+4/2[H]+1/0[A]",
+        "throwIns": "35/20[H]+20/35[A]+17/29[H]+23/26[A]+35/18[H]+26/31[A]+38/26[H]+24/21[A]",
+        "averageBallPossession": "46/54[H]+42/58[A]+60/40[H]+50/50[A]+60/40[H]+48/52[A]+52/48[H]+42/58[A]",
+        "teams": "Nyiregyháza Spartacus,Diósgyőri VTK,Home+Nyiregyháza Spartacus,Debreceni VSC,Away+Nyiregyháza Spartacus,Ferencváros TC,Home+Nyiregyháza Spartacus,Puskás Akadémia,Away+Nyiregyháza Spartacus,Kisvárda FC,Home+Nyiregyháza Spartacus,Kazincbarcikai SC,Away+Nyiregyháza Spartacus,MTK Budapest,Home+Nyiregyháza Spartacus,Zalaegerszegi TE,Away",
+        "tackles": "14/21[H]+17/11[A]+22/11[H]+13/14[A]+9/14[H]+24/12[A]+10/14[H]+15/9[A]",
+        "interceptions": "13/7[H]+14/9[A]+7/5[H]+8/13[A]+8/6[H]+14/10[A]+11/10[H]+15/9[A]",
+        "aerialDuels": "31/25[H]+35/26[A]+36/21[H]+31/24[A]+35/26[H]+50/24[A]+27/22[H]+23/8[A]",
+        "aerialDuelsAttempted": "56/56[H]+61/61[A]+57/57[H]+55/55[A]+61/61[H]+74/74[A]+49/49[H]+31/31[A]",
+        "dribbles": "8/3[H]+2/7[A]+8/5[H]+11/3[A]+6/3[H]+6/7[A]+11/10[H]+2/17[A]",
+        "dribblesAttempted": "13/13[H]+7/13[A]+13/17[H]+19/8[A]+13/6[H]+11/20[A]+17/14[H]+9/23[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "40/30",
+        "cornersTotalsHome": "25/14",
+        "cornersTotalsAway": "15/16",
+        "cornersAverage": "5.00/3.75",
+        "cornersAverageHome": "6.25/3.50",
+        "cornersAverageAway": "3.75/4.00",
+        "foulsTotals": "156/108",
+        "foulsTotalsHome": "62/58",
+        "foulsTotalsAway": "94/50",
+        "foulsAverage": "19.50/13.50",
+        "foulsAverageHome": "15.50/14.50",
+        "foulsAverageAway": "23.50/12.50",
+        "goalKicksTotals": "56/61",
+        "goalKicksTotalsHome": "20/30",
+        "goalKicksTotalsAway": "36/31",
+        "goalKicksAverage": "7.00/7.63",
+        "goalKicksAverageHome": "5.00/7.50",
+        "goalKicksAverageAway": "9.00/7.75",
+        "savesTotals": "19/20",
+        "savesTotalsHome": "9/11",
+        "savesTotalsAway": "10/9",
+        "savesAverage": "2.38/2.50",
+        "savesAverageHome": "2.25/2.75",
+        "savesAverageAway": "2.50/2.25",
+        "offsidesTotals": "16/13",
+        "offsidesTotalsHome": "4/8",
+        "offsidesTotalsAway": "12/5",
+        "offsidesAverage": "2.00/1.63",
+        "offsidesAverageHome": "1.00/2.00",
+        "offsidesAverageAway": "3.00/1.25",
+        "shotsOnTargetTotals": "37/29",
+        "shotsOnTargetTotalsHome": "21/17",
+        "shotsOnTargetTotalsAway": "16/12",
+        "shotsOnTargetAverage": "4.63/3.63",
+        "shotsOnTargetAverageHome": "5.25/4.25",
+        "shotsOnTargetAverageAway": "4.00/3.00",
+        "yellowCardsTotals": "16/19",
+        "yellowCardsTotalsHome": "4/8",
+        "yellowCardsTotalsAway": "12/11",
+        "yellowCardsAverage": "2.00/2.38",
+        "yellowCardsAverageHome": "1.00/2.00",
+        "yellowCardsAverageAway": "3.00/2.75",
+        "goalsTotals": "18/10",
+        "goalsTotalsHome": "10/8",
+        "goalsTotalsAway": "8/2",
+        "goalsAverage": "2.25/1.25",
+        "goalsAverageHome": "2.50/2.00",
+        "goalsAverageAway": "2.00/0.50",
+        "throwInsTotals": "218/206",
+        "throwInsTotalsHome": "125/93",
+        "throwInsTotalsAway": "93/113",
+        "throwInsAverage": "27.25/25.75",
+        "throwInsAverageHome": "31.25/23.25",
+        "throwInsAverageAway": "23.25/28.25",
+        "averageBallPossessionTotals": "400/400",
+        "averageBallPossessionTotalsHome": "218/182",
+        "averageBallPossessionTotalsAway": "182/218",
+        "averageBallPossessionAverage": "50.00/50.00",
+        "averageBallPossessionAverageHome": "54.50/45.50",
+        "averageBallPossessionAverageAway": "45.50/54.50",
+        "tacklesTotals": "124/106",
+        "tacklesTotalsHome": "55/60",
+        "tacklesTotalsAway": "69/46",
+        "tacklesAverage": "15.50/13.25",
+        "tacklesAverageHome": "13.75/15.00",
+        "tacklesAverageAway": "17.25/11.50",
+        "interceptionsTotals": "90/69",
+        "interceptionsTotalsHome": "39/28",
+        "interceptionsTotalsAway": "51/41",
+        "interceptionsAverage": "11.25/8.63",
+        "interceptionsAverageHome": "9.75/7.00",
+        "interceptionsAverageAway": "12.75/10.25",
+        "aerialDuelsTotals": "268/176",
+        "aerialDuelsTotalsHome": "129/94",
+        "aerialDuelsTotalsAway": "139/82",
+        "aerialDuelsAverage": "33.50/22.00",
+        "aerialDuelsAverageHome": "32.25/23.50",
+        "aerialDuelsAverageAway": "34.75/20.50",
+        "aerialDuelsAttemptedTotals": "444/444",
+        "aerialDuelsAttemptedTotalsHome": "223/223",
+        "aerialDuelsAttemptedTotalsAway": "221/221",
+        "aerialDuelsAttemptedAverage": "55.50/55.50",
+        "aerialDuelsAttemptedAverageHome": "55.75/55.75",
+        "aerialDuelsAttemptedAverageAway": "55.25/55.25",
+        "dribblesTotals": "54/55",
+        "dribblesTotalsHome": "33/21",
+        "dribblesTotalsAway": "21/34",
+        "dribblesAverage": "6.75/6.88",
+        "dribblesAverageHome": "8.25/5.25",
+        "dribblesAverageAway": "5.25/8.50",
+        "dribblesAttemptedTotals": "102/114",
+        "dribblesAttemptedTotalsHome": "56/50",
+        "dribblesAttemptedTotalsAway": "46/64",
+        "dribblesAttemptedAverage": "12.75/14.25",
+        "dribblesAttemptedAverageHome": "14.00/12.50",
+        "dribblesAttemptedAverageAway": "11.50/16.00"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.38",
+        "fouls": "14.63",
+        "goalKicks": "8.63",
+        "saves": "3.38",
+        "offsides": "2.13",
+        "shotsOnTarget": "4.88/4.25",
+        "yellowCards": "2.25/2.63",
+        "goals": "1.50/0.88",
+        "throwIns": "17.88",
+        "ballPossession": 50.25,
+        "tackles": "16.13/16.13",
+        "interceptions": "9.00/8.63",
+        "aerialDuels": "12.00",
+        "aerialDuelsAttempted": "24.50",
+        "dribbles": "7.88/10.38",
+        "dribblesAttempted": "15.88/18.38"
+    },
+    "teamSlug": "bahia",
+    "teamId": "1955",
+    "teamName": "Bahia",
+    "tournament": "Brasileirão Betano",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/athletico-bahia/fOsrO#id:15237973,tab:statistics",
+            "teams": [
+                "Bahia",
+                "Athletico"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                1955,
+                1967
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/remo-bahia/fOsmP#id:15237964,tab:statistics",
+            "teams": [
+                "Remo",
+                "Bahia"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                2012,
+                1955
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/red-bull-bragantino-bahia/fOsZO#id:15237953,tab:statistics",
+            "teams": [
+                "Bahia",
+                "Red Bull Bragantino"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1955,
+                1999
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/internacional-bahia/fOsqO#id:15237941,tab:statistics",
+            "teams": [
+                "Internacional",
+                "Bahia"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                1966,
+                1955
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vitoria-bahia/fOsmO#id:15237933,tab:statistics",
+            "teams": [
+                "Bahia",
+                "Vitória"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1955,
+                1962
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vasco-da-gama-bahia/fOszO#id:15237905,tab:statistics",
+            "teams": [
+                "Vasco da Gama",
+                "Bahia"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                1974,
+                1955
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fluminense-bahia/fOslO#id:15237902,tab:statistics",
+            "teams": [
+                "Bahia",
+                "Fluminense"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1955,
+                1961
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/corinthians-bahia/fOshO#id:15237887,tab:statistics",
+            "teams": [
+                "Corinthians",
+                "Bahia"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1957,
+                1955
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/1[H]",
+            "fouls": "15/19[H]",
+            "goalKicks": "11/1[H]",
+            "saves": "4/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "3/0[H]",
+            "throwIns": "12/20[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Bahia,Athletico,Home",
+            "tackles": "13/6[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "11/4[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "10/15[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "6/2[A]",
+            "offsides": "2/5[A]",
+            "shotsOnTarget": "3/10[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/4[A]",
+            "throwIns": "20/16[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Bahia,Remo,Away",
+            "tackles": "9/18[A]",
+            "interceptions": "13/6[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "11/4[A]",
+            "dribblesAttempted": "19/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/7[H]",
+            "fouls": "15/16[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "3/6[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "13/15[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Bahia,Red Bull Bragantino,Home",
+            "tackles": "14/18[H]",
+            "interceptions": "9/10[H]",
+            "aerialDuels": "9/16[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "10/17[H]",
+            "dribblesAttempted": "18/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "20/20[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/31[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Bahia,Internacional,Away",
+            "tackles": "24/26[A]",
+            "interceptions": "3/6[A]",
+            "aerialDuels": "18/16[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "15/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "17/19[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "1/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/14[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Bahia,Vitória,Home",
+            "tackles": "24/14[H]",
+            "interceptions": "5/11[H]",
+            "aerialDuels": "16/12[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "17/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/8[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "12/3[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "5/5[A]",
+            "goals": "1/0[A]",
+            "throwIns": "13/23[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Bahia,Vasco da Gama,Away",
+            "tackles": "18/10[A]",
+            "interceptions": "16/8[A]",
+            "aerialDuels": "13/16[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "7/12[A]",
+            "dribblesAttempted": "13/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "3/4[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/9[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Bahia,Fluminense,Home",
+            "tackles": "13/17[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "6/11[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "9/16[H]",
+            "dribblesAttempted": "19/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "14/14[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "4/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "32/10[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Bahia,Corinthians,Away",
+            "tackles": "14/20[A]",
+            "interceptions": "8/13[A]",
+            "aerialDuels": "12/13[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "17/16[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T15:56:03.588Z",
+    "endTime": "2026-04-05T15:56:40.722Z",
+    "totalTimeSeconds": 37.13,
+    "combinedMatchStatistics": {
+        "corners": "3/1[H]+9/5[A]+7/7[H]+1/7[A]+7/3[H]+4/8[A]+6/4[H]+6/4[A]",
+        "fouls": "15/19[H]+10/15[A]+15/16[H]+20/20[A]+17/19[H]+14/15[A]+12/13[H]+14/14[A]",
+        "goalKicks": "11/1[H]+3/10[A]+8/5[H]+10/6[A]+7/9[H]+12/3[A]+9/11[H]+9/3[A]",
+        "saves": "4/2[H]+6/2[A]+3/6[H]+2/1[A]+1/6[H]+4/2[A]+3/4[H]+4/4[A]",
+        "offsides": "3/3[H]+2/5[A]+2/1[H]+3/3[A]+0/2[H]+3/0[A]+4/0[H]+0/3[A]",
+        "shotsOnTarget": "5/4[H]+3/10[A]+9/3[H]+1/2[A]+7/2[H]+3/4[A]+5/4[H]+6/5[A]",
+        "yellowCards": "2/2[H]+1/3[A]+3/1[H]+2/3[A]+1/1[H]+5/5[A]+0/3[H]+5/3[A]",
+        "goals": "3/0[H]+1/4[A]+2/0[H]+1/0[A]+1/1[H]+1/0[A]+1/1[H]+2/1[A]",
+        "throwIns": "12/20[H]+20/16[A]+13/15[H]+16/31[A]+20/14[H]+13/23[A]+17/9[H]+32/10[A]",
+        "averageBallPossession": "52/48[H]+62/38[A]+57/43[H]+47/53[A]+63/37[H]+38/62[A]+42/58[H]+41/59[A]",
+        "teams": "Bahia,Athletico,Home+Bahia,Remo,Away+Bahia,Red Bull Bragantino,Home+Bahia,Internacional,Away+Bahia,Vitória,Home+Bahia,Vasco da Gama,Away+Bahia,Fluminense,Home+Bahia,Corinthians,Away",
+        "tackles": "13/6[H]+9/18[A]+14/18[H]+24/26[A]+24/14[H]+18/10[A]+13/17[H]+14/20[A]",
+        "interceptions": "11/9[H]+13/6[A]+9/10[H]+3/6[A]+5/11[H]+16/8[A]+7/6[H]+8/13[A]",
+        "aerialDuels": "11/4[H]+11/12[A]+9/16[H]+18/16[A]+16/12[H]+13/16[A]+6/11[H]+12/13[A]",
+        "aerialDuelsAttempted": "15/15[H]+23/23[A]+25/25[H]+34/34[A]+28/28[H]+29/29[A]+17/17[H]+25/25[A]",
+        "dribbles": "5/7[H]+11/4[A]+10/17[H]+6/7[A]+8/11[H]+7/12[A]+9/16[H]+7/9[A]",
+        "dribblesAttempted": "9/15[H]+19/6[A]+18/24[H]+15/15[A]+17/19[H]+13/28[A]+19/24[H]+17/16[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "43/39",
+        "cornersTotalsHome": "23/15",
+        "cornersTotalsAway": "20/24",
+        "cornersAverage": "5.38/4.88",
+        "cornersAverageHome": "5.75/3.75",
+        "cornersAverageAway": "5.00/6.00",
+        "foulsTotals": "117/131",
+        "foulsTotalsHome": "59/67",
+        "foulsTotalsAway": "58/64",
+        "foulsAverage": "14.63/16.38",
+        "foulsAverageHome": "14.75/16.75",
+        "foulsAverageAway": "14.50/16.00",
+        "goalKicksTotals": "69/48",
+        "goalKicksTotalsHome": "35/26",
+        "goalKicksTotalsAway": "34/22",
+        "goalKicksAverage": "8.63/6.00",
+        "goalKicksAverageHome": "8.75/6.50",
+        "goalKicksAverageAway": "8.50/5.50",
+        "savesTotals": "27/27",
+        "savesTotalsHome": "11/18",
+        "savesTotalsAway": "16/9",
+        "savesAverage": "3.38/3.38",
+        "savesAverageHome": "2.75/4.50",
+        "savesAverageAway": "4.00/2.25",
+        "offsidesTotals": "17/17",
+        "offsidesTotalsHome": "9/6",
+        "offsidesTotalsAway": "8/11",
+        "offsidesAverage": "2.13/2.13",
+        "offsidesAverageHome": "2.25/1.50",
+        "offsidesAverageAway": "2.00/2.75",
+        "shotsOnTargetTotals": "39/34",
+        "shotsOnTargetTotalsHome": "26/13",
+        "shotsOnTargetTotalsAway": "13/21",
+        "shotsOnTargetAverage": "4.88/4.25",
+        "shotsOnTargetAverageHome": "6.50/3.25",
+        "shotsOnTargetAverageAway": "3.25/5.25",
+        "yellowCardsTotals": "19/21",
+        "yellowCardsTotalsHome": "6/7",
+        "yellowCardsTotalsAway": "13/14",
+        "yellowCardsAverage": "2.38/2.63",
+        "yellowCardsAverageHome": "1.50/1.75",
+        "yellowCardsAverageAway": "3.25/3.50",
+        "goalsTotals": "12/7",
+        "goalsTotalsHome": "7/2",
+        "goalsTotalsAway": "5/5",
+        "goalsAverage": "1.50/0.88",
+        "goalsAverageHome": "1.75/0.50",
+        "goalsAverageAway": "1.25/1.25",
+        "throwInsTotals": "143/138",
+        "throwInsTotalsHome": "62/58",
+        "throwInsTotalsAway": "81/80",
+        "throwInsAverage": "17.88/17.25",
+        "throwInsAverageHome": "15.50/14.50",
+        "throwInsAverageAway": "20.25/20.00",
+        "averageBallPossessionTotals": "402/398",
+        "averageBallPossessionTotalsHome": "214/186",
+        "averageBallPossessionTotalsAway": "188/212",
+        "averageBallPossessionAverage": "50.25/49.75",
+        "averageBallPossessionAverageHome": "53.50/46.50",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "129/129",
+        "tacklesTotalsHome": "64/55",
+        "tacklesTotalsAway": "65/74",
+        "tacklesAverage": "16.13/16.13",
+        "tacklesAverageHome": "16.00/13.75",
+        "tacklesAverageAway": "16.25/18.50",
+        "interceptionsTotals": "72/69",
+        "interceptionsTotalsHome": "32/36",
+        "interceptionsTotalsAway": "40/33",
+        "interceptionsAverage": "9.00/8.63",
+        "interceptionsAverageHome": "8.00/9.00",
+        "interceptionsAverageAway": "10.00/8.25",
+        "aerialDuelsTotals": "96/100",
+        "aerialDuelsTotalsHome": "42/43",
+        "aerialDuelsTotalsAway": "54/57",
+        "aerialDuelsAverage": "12.00/12.50",
+        "aerialDuelsAverageHome": "10.50/10.75",
+        "aerialDuelsAverageAway": "13.50/14.25",
+        "aerialDuelsAttemptedTotals": "196/196",
+        "aerialDuelsAttemptedTotalsHome": "85/85",
+        "aerialDuelsAttemptedTotalsAway": "111/111",
+        "aerialDuelsAttemptedAverage": "24.50/24.50",
+        "aerialDuelsAttemptedAverageHome": "21.25/21.25",
+        "aerialDuelsAttemptedAverageAway": "27.75/27.75",
+        "dribblesTotals": "63/83",
+        "dribblesTotalsHome": "32/51",
+        "dribblesTotalsAway": "31/32",
+        "dribblesAverage": "7.88/10.38",
+        "dribblesAverageHome": "8.00/12.75",
+        "dribblesAverageAway": "7.75/8.00",
+        "dribblesAttemptedTotals": "127/147",
+        "dribblesAttemptedTotalsHome": "63/82",
+        "dribblesAttemptedTotalsAway": "64/65",
+        "dribblesAttemptedAverage": "15.88/18.38",
+        "dribblesAttemptedAverageHome": "15.75/20.50",
+        "dribblesAttemptedAverageAway": "16.00/16.25"
+    }
+}

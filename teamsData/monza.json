@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.63",
+        "fouls": "14.09",
+        "goalKicks": "6.56",
+        "saves": "2.50",
+        "offsides": "1.44",
+        "shotsOnTarget": "4.66/3.28",
+        "yellowCards": "1.97/1.88",
+        "goals": "1.56/0.81",
+        "throwIns": "16.50",
+        "ballPossession": 53.40625,
+        "tackles": "14.69/15.38",
+        "interceptions": "6.91/7.63",
+        "aerialDuels": "18.00",
+        "aerialDuelsAttempted": "33.88",
+        "dribbles": "6.44/5.72",
+        "dribblesAttempted": "13.25/12.69"
+    },
+    "teamSlug": "monza",
+    "teamId": "2729",
+    "teamName": "Monza",
+    "tournament": "Serie B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/monza-venezia/NdbsEeb#id:14317616,tab:statistics",
+            "teams": [
+                "Monza",
+                "Venezia"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2729,
+                2688
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/reggiana-monza/EebsqPj#id:14317610,tab:statistics",
+            "teams": [
+                "Reggiana",
+                "Monza"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                24516,
+                2729
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/monza-palermo/pebsEeb#id:14317590,tab:statistics",
+            "teams": [
+                "Monza",
+                "Palermo"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                2729,
+                2715
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/spezia-monza/EebsKeb#id:14317748,tab:statistics",
+            "teams": [
+                "Spezia",
+                "Monza"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                2735,
+                2729
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cesena-monza/EebsReb#id:14317731,tab:statistics",
+            "teams": [
+                "Cesena",
+                "Monza"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                2742,
+                2729
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/virtus-entella-monza/EebsFyr#id:14317724,tab:statistics",
+            "teams": [
+                "Monza",
+                "Virtus Entella"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2729,
+                43680
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/carrarese-monza/EebsVeb#id:14317555,tab:statistics",
+            "teams": [
+                "Carrarese",
+                "Monza"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                2745,
+                2729
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/juve-stabia-monza/Eebszgc#id:14317772,tab:statistics",
+            "teams": [
+                "Monza",
+                "Juve Stabia"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2729,
+                5324
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "10/1[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/18[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Monza,Venezia,Home",
+            "tackles": "14/10[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "17/14[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "6/12[H]",
+            "dribblesAttempted": "11/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "0/6[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/0[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "14/17[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Monza,Reggiana,Away",
+            "tackles": "22/19[A]",
+            "interceptions": "0/6[A]",
+            "aerialDuels": "19/14[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "18/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/10[H]",
+            "fouls": "10/11[H]",
+            "goalKicks": "13/6[H]",
+            "saves": "5/0[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "3/0[H]",
+            "throwIns": "13/25[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Monza,Palermo,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "13/11[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "19/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "1/3[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "2/4[A]",
+            "throwIns": "17/20[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Monza,Spezia,Away",
+            "tackles": "9/19[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "15/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "14/15[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Monza,Cesena,Away",
+            "tackles": "14/12[A]",
+            "interceptions": "8/8[A]",
+            "aerialDuels": "10/17[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "9/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/2[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "6/16[H]",
+            "saves": "3/7[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "18/13[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Monza,Virtus Entella,Home",
+            "tackles": "9/17[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "20/13[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "11/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "17/14[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "13/20[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Monza,Carrarese,Away",
+            "tackles": "7/18[A]",
+            "interceptions": "6/5[A]",
+            "aerialDuels": "18/17[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "17/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "12/10[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/5[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "6/21[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Monza,Juve Stabia,Home",
+            "tackles": "25/12[H]",
+            "interceptions": "13/10[H]",
+            "aerialDuels": "18/17[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "13/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T16:36:00.003Z",
+    "endTime": "2026-04-05T16:36:38.230Z",
+    "totalTimeSeconds": 38.23,
+    "combinedMatchStatistics": {
+        "corners": "10/1[H]+4/3[A]+3/10[H]+2/3[A]+2/4[A]+1/2[H]+7/4[A]+5/7[H]",
+        "fouls": "11/11[H]+9/10[A]+10/11[H]+14/15[A]+12/15[A]+12/14[H]+17/14[A]+12/10[H]",
+        "goalKicks": "5/7[H]+8/10[A]+13/6[H]+9/5[A]+8/8[A]+6/16[H]+9/8[A]+5/8[H]",
+        "saves": "1/1[H]+0/6[A]+5/0[H]+1/3[A]+5/2[A]+3/7[H]+4/1[A]+3/5[H]",
+        "offsides": "2/1[H]+1/2[A]+4/0[H]+2/3[A]+1/5[A]+2/3[H]+1/1[A]+3/2[H]",
+        "shotsOnTarget": "2/2[H]+6/0[A]+3/4[H]+5/5[A]+5/6[A]+7/3[H]+2/4[A]+7/5[H]",
+        "yellowCards": "1/0[H]+0/1[A]+2/4[H]+3/3[A]+3/2[A]+2/0[H]+1/1[A]+0/0[H]",
+        "goals": "1/1[H]+0/0[A]+3/0[H]+2/4[A]+3/1[A]+2/0[H]+1/0[A]+2/1[H]",
+        "throwIns": "20/18[H]+14/17[A]+13/25[H]+17/20[A]+14/15[A]+18/13[H]+13/20[A]+6/21[H]",
+        "averageBallPossession": "40/60[H]+68/32[A]+42/58[H]+49/51[A]+48/52[A]+61/39[H]+56/44[A]+50/50[H]",
+        "teams": "Monza,Venezia,Home+Monza,Reggiana,Away+Monza,Palermo,Home+Monza,Spezia,Away+Monza,Cesena,Away+Monza,Virtus Entella,Home+Monza,Carrarese,Away+Monza,Juve Stabia,Home",
+        "tackles": "14/10[H]+22/19[A]+12/15[H]+9/19[A]+14/12[A]+9/17[H]+7/18[A]+25/12[H]",
+        "interceptions": "9/12[H]+0/6[A]+4/5[H]+6/10[A]+8/8[A]+6/6[H]+6/5[A]+13/10[H]",
+        "aerialDuels": "17/14[H]+19/14[A]+13/11[H]+11/11[A]+10/17[A]+20/13[H]+18/17[A]+18/17[H]",
+        "aerialDuelsAttempted": "31/31[H]+33/33[A]+24/24[H]+22/22[A]+27/27[A]+33/33[H]+35/35[A]+35/35[H]",
+        "dribbles": "6/12[H]+7/5[A]+6/7[H]+8/2[A]+3/6[A]+4/6[H]+8/5[A]+6/4[H]",
+        "dribblesAttempted": "11/21[H]+18/13[A]+19/16[H]+15/6[A]+9/12[A]+11/10[H]+17/7[A]+13/18[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "34/34",
+        "cornersTotalsHome": "19/20",
+        "cornersTotalsAway": "15/14",
+        "cornersAverage": "4.25/4.25",
+        "cornersAverageHome": "4.75/5.00",
+        "cornersAverageAway": "3.75/3.50",
+        "foulsTotals": "97/100",
+        "foulsTotalsHome": "45/46",
+        "foulsTotalsAway": "52/54",
+        "foulsAverage": "12.13/12.50",
+        "foulsAverageHome": "11.25/11.50",
+        "foulsAverageAway": "13.00/13.50",
+        "goalKicksTotals": "63/68",
+        "goalKicksTotalsHome": "29/37",
+        "goalKicksTotalsAway": "34/31",
+        "goalKicksAverage": "7.88/8.50",
+        "goalKicksAverageHome": "7.25/9.25",
+        "goalKicksAverageAway": "8.50/7.75",
+        "savesTotals": "22/25",
+        "savesTotalsHome": "12/13",
+        "savesTotalsAway": "10/12",
+        "savesAverage": "2.75/3.13",
+        "savesAverageHome": "3.00/3.25",
+        "savesAverageAway": "2.50/3.00",
+        "offsidesTotals": "16/17",
+        "offsidesTotalsHome": "11/6",
+        "offsidesTotalsAway": "5/11",
+        "offsidesAverage": "2.00/2.13",
+        "offsidesAverageHome": "2.75/1.50",
+        "offsidesAverageAway": "1.25/2.75",
+        "shotsOnTargetTotals": "37/29",
+        "shotsOnTargetTotalsHome": "19/14",
+        "shotsOnTargetTotalsAway": "18/15",
+        "shotsOnTargetAverage": "4.63/3.63",
+        "shotsOnTargetAverageHome": "4.75/3.50",
+        "shotsOnTargetAverageAway": "4.50/3.75",
+        "yellowCardsTotals": "12/11",
+        "yellowCardsTotalsHome": "5/4",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "1.50/1.38",
+        "yellowCardsAverageHome": "1.25/1.00",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "14/7",
+        "goalsTotalsHome": "8/2",
+        "goalsTotalsAway": "6/5",
+        "goalsAverage": "1.75/0.88",
+        "goalsAverageHome": "2.00/0.50",
+        "goalsAverageAway": "1.50/1.25",
+        "throwInsTotals": "115/149",
+        "throwInsTotalsHome": "57/77",
+        "throwInsTotalsAway": "58/72",
+        "throwInsAverage": "14.38/18.63",
+        "throwInsAverageHome": "14.25/19.25",
+        "throwInsAverageAway": "14.50/18.00",
+        "averageBallPossessionTotals": "414/386",
+        "averageBallPossessionTotalsHome": "193/207",
+        "averageBallPossessionTotalsAway": "221/179",
+        "averageBallPossessionAverage": "51.75/48.25",
+        "averageBallPossessionAverageHome": "48.25/51.75",
+        "averageBallPossessionAverageAway": "55.25/44.75",
+        "tacklesTotals": "112/122",
+        "tacklesTotalsHome": "60/54",
+        "tacklesTotalsAway": "52/68",
+        "tacklesAverage": "14.00/15.25",
+        "tacklesAverageHome": "15.00/13.50",
+        "tacklesAverageAway": "13.00/17.00",
+        "interceptionsTotals": "52/62",
+        "interceptionsTotalsHome": "32/33",
+        "interceptionsTotalsAway": "20/29",
+        "interceptionsAverage": "6.50/7.75",
+        "interceptionsAverageHome": "8.00/8.25",
+        "interceptionsAverageAway": "5.00/7.25",
+        "aerialDuelsTotals": "126/114",
+        "aerialDuelsTotalsHome": "68/55",
+        "aerialDuelsTotalsAway": "58/59",
+        "aerialDuelsAverage": "15.75/14.25",
+        "aerialDuelsAverageHome": "17.00/13.75",
+        "aerialDuelsAverageAway": "14.50/14.75",
+        "aerialDuelsAttemptedTotals": "240/240",
+        "aerialDuelsAttemptedTotalsHome": "123/123",
+        "aerialDuelsAttemptedTotalsAway": "117/117",
+        "aerialDuelsAttemptedAverage": "30.00/30.00",
+        "aerialDuelsAttemptedAverageHome": "30.75/30.75",
+        "aerialDuelsAttemptedAverageAway": "29.25/29.25",
+        "dribblesTotals": "48/47",
+        "dribblesTotalsHome": "22/29",
+        "dribblesTotalsAway": "26/18",
+        "dribblesAverage": "6.00/5.88",
+        "dribblesAverageHome": "5.50/7.25",
+        "dribblesAverageAway": "6.50/4.50",
+        "dribblesAttemptedTotals": "113/103",
+        "dribblesAttemptedTotalsHome": "54/65",
+        "dribblesAttemptedTotalsAway": "59/38",
+        "dribblesAttemptedAverage": "14.13/12.88",
+        "dribblesAttemptedAverageHome": "13.50/16.25",
+        "dribblesAttemptedAverageAway": "14.75/9.50"
+    }
+}

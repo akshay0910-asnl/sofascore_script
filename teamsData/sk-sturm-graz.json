@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.29",
+        "fouls": "11.67",
+        "goalKicks": "8.88",
+        "saves": "2.50",
+        "offsides": "1.38",
+        "shotsOnTarget": "4.83/3.75",
+        "yellowCards": "2.17/2.75",
+        "goals": "1.63/1.21",
+        "throwIns": "26.38",
+        "ballPossession": 53.958333333333,
+        "tackles": "17.92/18.50",
+        "interceptions": "8.04/10.25",
+        "aerialDuels": "17.88",
+        "aerialDuelsAttempted": "39.00",
+        "dribbles": "10.42/7.79",
+        "dribblesAttempted": "21.17/16.75"
+    },
+    "teamSlug": "sk-sturm-graz",
+    "teamId": "2051",
+    "teamName": "SK Sturm Graz",
+    "tournament": "Austrian Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sc-rheindorf-altach-sk-sturm-graz/bQsgXb#id:14065690,tab:statistics",
+            "teams": [
+                "SK Sturm Graz",
+                "SCR Altach"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2051,
+                4856
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wolfsberger-ac-sk-sturm-graz/bQsBQ#id:14065680,tab:statistics",
+            "teams": [
+                "Wolfsberger AC",
+                "SK Sturm Graz"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2076,
+                2051
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-sk-sturm-graz/bQsnR#id:14065686,tab:statistics",
+            "teams": [
+                "SK Sturm Graz",
+                "FC Blau Weiss Linz"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2051,
+                2113
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wsg-tirol-sk-sturm-graz/bQsfic#id:14065677,tab:statistics",
+            "teams": [
+                "WSG Tirol",
+                "SK Sturm Graz"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5405,
+                2051
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-sturm-graz-sv-ried/ZPsbQ#id:14065671,tab:statistics",
+            "teams": [
+                "SK Sturm Graz",
+                "SV Ried"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2051,
+                2049
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austria-wien-sk-sturm-graz/bQsdU#id:14065659,tab:statistics",
+            "teams": [
+                "FK Austria Wien",
+                "SK Sturm Graz"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                2203,
+                2051
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/grazer-ak-1902-sk-sturm-graz/bQscQ#id:14065653,tab:statistics",
+            "teams": [
+                "SK Sturm Graz",
+                "Grazer AK 1902"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2051,
+                2052
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/tsv-hartberg-sk-sturm-graz/bQsAQ#id:14065665,tab:statistics",
+            "teams": [
+                "TSV Hartberg",
+                "SK Sturm Graz"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                2075,
+                2051
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/3[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "25/26[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "SK Sturm Graz,SCR Altach,Home",
+            "tackles": "22/19[H]",
+            "interceptions": "14/10[H]",
+            "aerialDuels": "21/21[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "12/10[H]",
+            "dribblesAttempted": "24/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "5/11[A]",
+            "saves": "1/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "20/17[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "SK Sturm Graz,Wolfsberger AC,Away",
+            "tackles": "9/21[A]",
+            "interceptions": "4/7[A]",
+            "aerialDuels": "9/13[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "13/9[A]",
+            "dribblesAttempted": "27/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/10[H]",
+            "fouls": "16/9[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "4/4[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "38/20[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "SK Sturm Graz,FC Blau Weiss Linz,Home",
+            "tackles": "16/9[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "25/19[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "8/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "8/6[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/29[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "SK Sturm Graz,WSG Tirol,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "16/10[A]",
+            "aerialDuels": "17/23[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "4/9[A]",
+            "dribblesAttempted": "12/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "6/10[H]",
+            "goalKicks": "11/4[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "43/30[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "SK Sturm Graz,SV Ried,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "21/33[H]",
+            "aerialDuelsAttempted": "54/54[H]",
+            "dribbles": "3/9[H]",
+            "dribblesAttempted": "16/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[A]",
+            "fouls": "13/7[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "0/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "32/32[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "SK Sturm Graz,FK Austria Wien,Away",
+            "tackles": "21/18[A]",
+            "interceptions": "6/14[A]",
+            "aerialDuels": "15/21[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "19/7[A]",
+            "dribblesAttempted": "33/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "17/12[H]",
+            "goalKicks": "7/12[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "25/33[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "SK Sturm Graz,Grazer AK 1902,Home",
+            "tackles": "22/13[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "22/25[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "14/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "20/6[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "4/5[A]",
+            "goals": "1/0[A]",
+            "throwIns": "22/29[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "SK Sturm Graz,TSV Hartberg,Away",
+            "tackles": "30/17[A]",
+            "interceptions": "14/7[A]",
+            "aerialDuels": "6/7[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "16/6[A]",
+            "dribblesAttempted": "25/22[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T14:50:37.825Z",
+    "endTime": "2026-04-05T14:51:27.880Z",
+    "totalTimeSeconds": 50.05,
+    "combinedMatchStatistics": {
+        "corners": "6/3[H]+6/1[A]+3/10[H]+1/7[A]+1/5[H]+8/1[A]+8/5[H]+6/4[A]",
+        "fouls": "12/13[H]+10/10[A]+16/9[H]+8/6[A]+6/10[H]+13/7[A]+17/12[H]+20/6[A]",
+        "goalKicks": "8/8[H]+5/11[A]+11/11[H]+7/10[A]+11/4[H]+7/5[A]+7/12[H]+9/6[A]",
+        "saves": "3/1[H]+1/4[A]+4/4[H]+3/2[A]+1/3[H]+0/2[A]+1/4[H]+2/1[A]",
+        "offsides": "1/1[H]+0/1[A]+3/0[H]+1/0[A]+1/3[H]+3/2[A]+1/4[H]+1/1[A]",
+        "shotsOnTarget": "4/4[H]+6/3[A]+5/4[H]+2/4[A]+4/1[H]+3/3[A]+6/2[H]+2/2[A]",
+        "yellowCards": "1/3[H]+5/2[A]+5/3[H]+1/0[A]+0/1[H]+2/2[A]+2/1[H]+4/5[A]",
+        "goals": "2/0[H]+2/2[A]+1/0[H]+0/1[A]+1/0[H]+1/3[A]+2/1[H]+1/0[A]",
+        "throwIns": "25/26[H]+20/17[A]+38/20[H]+25/29[A]+43/30[H]+32/32[A]+25/33[H]+22/29[A]",
+        "averageBallPossession": "48/52[H]+54/46[A]+40/60[H]+54/46[A]+54/46[H]+54/46[A]+46/54[H]+58/42[A]",
+        "teams": "SK Sturm Graz,SCR Altach,Home+SK Sturm Graz,Wolfsberger AC,Away+SK Sturm Graz,FC Blau Weiss Linz,Home+SK Sturm Graz,WSG Tirol,Away+SK Sturm Graz,SV Ried,Home+SK Sturm Graz,FK Austria Wien,Away+SK Sturm Graz,Grazer AK 1902,Home+SK Sturm Graz,TSV Hartberg,Away",
+        "tackles": "22/19[H]+9/21[A]+16/9[H]+15/16[A]+17/19[H]+21/18[A]+22/13[H]+30/17[A]",
+        "interceptions": "14/10[H]+4/7[A]+7/6[H]+16/10[A]+8/10[H]+6/14[A]+10/9[H]+14/7[A]",
+        "aerialDuels": "21/21[H]+9/13[A]+25/19[H]+17/23[A]+21/33[H]+15/21[A]+22/25[H]+6/7[A]",
+        "aerialDuelsAttempted": "42/42[H]+22/22[A]+44/44[H]+40/40[A]+54/54[H]+36/36[A]+47/47[H]+13/13[A]",
+        "dribbles": "12/10[H]+13/9[A]+4/2[H]+4/9[A]+3/9[H]+19/7[A]+5/8[H]+16/6[A]",
+        "dribblesAttempted": "24/22[H]+27/13[A]+8/5[H]+12/21[A]+16/17[H]+33/15[A]+14/17[H]+25/22[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "39/36",
+        "cornersTotalsHome": "18/23",
+        "cornersTotalsAway": "21/13",
+        "cornersAverage": "4.88/4.50",
+        "cornersAverageHome": "4.50/5.75",
+        "cornersAverageAway": "5.25/3.25",
+        "foulsTotals": "102/73",
+        "foulsTotalsHome": "51/44",
+        "foulsTotalsAway": "51/29",
+        "foulsAverage": "12.75/9.13",
+        "foulsAverageHome": "12.75/11.00",
+        "foulsAverageAway": "12.75/7.25",
+        "goalKicksTotals": "65/67",
+        "goalKicksTotalsHome": "37/35",
+        "goalKicksTotalsAway": "28/32",
+        "goalKicksAverage": "8.13/8.38",
+        "goalKicksAverageHome": "9.25/8.75",
+        "goalKicksAverageAway": "7.00/8.00",
+        "savesTotals": "15/21",
+        "savesTotalsHome": "9/12",
+        "savesTotalsAway": "6/9",
+        "savesAverage": "1.88/2.63",
+        "savesAverageHome": "2.25/3.00",
+        "savesAverageAway": "1.50/2.25",
+        "offsidesTotals": "11/12",
+        "offsidesTotalsHome": "6/8",
+        "offsidesTotalsAway": "5/4",
+        "offsidesAverage": "1.38/1.50",
+        "offsidesAverageHome": "1.50/2.00",
+        "offsidesAverageAway": "1.25/1.00",
+        "shotsOnTargetTotals": "32/23",
+        "shotsOnTargetTotalsHome": "19/11",
+        "shotsOnTargetTotalsAway": "13/12",
+        "shotsOnTargetAverage": "4.00/2.88",
+        "shotsOnTargetAverageHome": "4.75/2.75",
+        "shotsOnTargetAverageAway": "3.25/3.00",
+        "yellowCardsTotals": "20/17",
+        "yellowCardsTotalsHome": "8/8",
+        "yellowCardsTotalsAway": "12/9",
+        "yellowCardsAverage": "2.50/2.13",
+        "yellowCardsAverageHome": "2.00/2.00",
+        "yellowCardsAverageAway": "3.00/2.25",
+        "goalsTotals": "10/7",
+        "goalsTotalsHome": "6/1",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.25/0.88",
+        "goalsAverageHome": "1.50/0.25",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "230/216",
+        "throwInsTotalsHome": "131/109",
+        "throwInsTotalsAway": "99/107",
+        "throwInsAverage": "28.75/27.00",
+        "throwInsAverageHome": "32.75/27.25",
+        "throwInsAverageAway": "24.75/26.75",
+        "averageBallPossessionTotals": "408/392",
+        "averageBallPossessionTotalsHome": "188/212",
+        "averageBallPossessionTotalsAway": "220/180",
+        "averageBallPossessionAverage": "51.00/49.00",
+        "averageBallPossessionAverageHome": "47.00/53.00",
+        "averageBallPossessionAverageAway": "55.00/45.00",
+        "tacklesTotals": "152/132",
+        "tacklesTotalsHome": "77/60",
+        "tacklesTotalsAway": "75/72",
+        "tacklesAverage": "19.00/16.50",
+        "tacklesAverageHome": "19.25/15.00",
+        "tacklesAverageAway": "18.75/18.00",
+        "interceptionsTotals": "79/73",
+        "interceptionsTotalsHome": "39/35",
+        "interceptionsTotalsAway": "40/38",
+        "interceptionsAverage": "9.88/9.13",
+        "interceptionsAverageHome": "9.75/8.75",
+        "interceptionsAverageAway": "10.00/9.50",
+        "aerialDuelsTotals": "136/162",
+        "aerialDuelsTotalsHome": "89/98",
+        "aerialDuelsTotalsAway": "47/64",
+        "aerialDuelsAverage": "17.00/20.25",
+        "aerialDuelsAverageHome": "22.25/24.50",
+        "aerialDuelsAverageAway": "11.75/16.00",
+        "aerialDuelsAttemptedTotals": "298/298",
+        "aerialDuelsAttemptedTotalsHome": "187/187",
+        "aerialDuelsAttemptedTotalsAway": "111/111",
+        "aerialDuelsAttemptedAverage": "37.25/37.25",
+        "aerialDuelsAttemptedAverageHome": "46.75/46.75",
+        "aerialDuelsAttemptedAverageAway": "27.75/27.75",
+        "dribblesTotals": "76/60",
+        "dribblesTotalsHome": "24/29",
+        "dribblesTotalsAway": "52/31",
+        "dribblesAverage": "9.50/7.50",
+        "dribblesAverageHome": "6.00/7.25",
+        "dribblesAverageAway": "13.00/7.75",
+        "dribblesAttemptedTotals": "159/132",
+        "dribblesAttemptedTotalsHome": "62/61",
+        "dribblesAttemptedTotalsAway": "97/71",
+        "dribblesAttemptedAverage": "19.88/16.50",
+        "dribblesAttemptedAverageHome": "15.50/15.25",
+        "dribblesAttemptedAverageAway": "24.25/17.75"
+    }
+}

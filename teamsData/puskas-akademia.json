@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.22",
+        "fouls": "17.11",
+        "goalKicks": "7.26",
+        "saves": "3.22",
+        "offsides": "2.26",
+        "shotsOnTarget": "4.30/4.41",
+        "yellowCards": "2.37/2.48",
+        "goals": "1.26/1.22",
+        "throwIns": "21.33",
+        "ballPossession": 46.407407407407,
+        "tackles": "15.56/13.81",
+        "interceptions": "9.93/7.63",
+        "aerialDuels": "18.67",
+        "aerialDuelsAttempted": "38.56",
+        "dribbles": "5.48/8.30",
+        "dribblesAttempted": "12.15/16.44"
+    },
+    "teamSlug": "puskas-akademia",
+    "teamId": "25596",
+    "teamName": "Puskás Akadémia",
+    "tournament": "Fizz Liga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-diosgyori-vtk/wccsWlk#id:14019535,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "Puskás Akadémia"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                5121,
+                25596
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-debreceni-vsc/wNsWlk#id:14019531,tab:statistics",
+            "teams": [
+                "Puskás Akadémia",
+                "Debreceni VSC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                25596,
+                1921
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-kisvarda-fc/XhksWlk#id:14019519,tab:statistics",
+            "teams": [
+                "Kisvárda FC",
+                "Puskás Akadémia"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                25397,
+                25596
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-nyiregyhaza-spartacus/zccsWlk#id:14019513,tab:statistics",
+            "teams": [
+                "Puskás Akadémia",
+                "Nyiregyháza Spartacus"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                25596,
+                5124
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-kazincbarcikai-sc/jldsWlk#id:14019504,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "Puskás Akadémia"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                8059,
+                25596
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-mtk-budapest/pNsWlk#id:14019501,tab:statistics",
+            "teams": [
+                "MTK Budapest",
+                "Puskás Akadémia"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                1915,
+                25596
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-zalaegerszegi-te/xNsWlk#id:14019495,tab:statistics",
+            "teams": [
+                "Puskás Akadémia",
+                "Zalaegerszegi TE"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                25596,
+                1922
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-paksi-fc/jwcsWlk#id:14019486,tab:statistics",
+            "teams": [
+                "Puskás Akadémia",
+                "Paksi FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                25596,
+                6059
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/7[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "2/0[A]",
+            "offsides": "5/0[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "30/25[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Puskás Akadémia,Diósgyőri VTK,Away",
+            "tackles": "24/16[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "22/20[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "5/12[A]",
+            "dribblesAttempted": "13/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "21/8[H]",
+            "goalKicks": "14/11[H]",
+            "saves": "3/4[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "25/21[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Puskás Akadémia,Debreceni VSC,Home",
+            "tackles": "8/7[H]",
+            "interceptions": "17/7[H]",
+            "aerialDuels": "17/24[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "11/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/6[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "4/6[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "1/6[A]",
+            "goals": "0/1[A]",
+            "throwIns": "28/24[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Puskás Akadémia,Kisvárda FC,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "9/11[A]",
+            "aerialDuels": "20/26[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "10/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "14/23[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "2/1[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "1/6[H]",
+            "goals": "1/2[H]",
+            "throwIns": "26/23[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Puskás Akadémia,Nyiregyháza Spartacus,Home",
+            "tackles": "14/13[H]",
+            "interceptions": "13/8[H]",
+            "aerialDuels": "24/31[H]",
+            "aerialDuelsAttempted": "55/55[H]",
+            "dribbles": "3/11[H]",
+            "dribblesAttempted": "8/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "25/12[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "2/4[A]",
+            "offsides": "5/3[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "14/24[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Puskás Akadémia,Kazincbarcikai SC,Away",
+            "tackles": "21/15[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "13/19[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "11/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/3[A]",
+            "fouls": "23/10[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "5/5[A]",
+            "goals": "2/2[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Puskás Akadémia,MTK Budapest,Away",
+            "tackles": "22/20[A]",
+            "interceptions": "14/7[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "7/13[A]",
+            "dribblesAttempted": "16/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "3/6[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "17/13[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Puskás Akadémia,Zalaegerszegi TE,Home",
+            "tackles": "10/10[H]",
+            "interceptions": "9/4[H]",
+            "aerialDuels": "16/12[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "11/4[H]",
+            "dribblesAttempted": "17/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/9[H]",
+            "fouls": "19/15[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "9/2[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "3/11[H]",
+            "yellowCards": "5/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "23/30[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Puskás Akadémia,Paksi FC,Home",
+            "tackles": "16/24[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "21/20[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "5/14[H]",
+            "dribblesAttempted": "15/23[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T15:32:24.753Z",
+    "endTime": "2026-04-05T15:33:15.606Z",
+    "totalTimeSeconds": 50.85,
+    "combinedMatchStatistics": {
+        "corners": "2/7[A]+3/2[H]+11/6[A]+7/4[H]+6/5[A]+1/3[A]+7/2[H]+4/9[H]",
+        "fouls": "11/13[A]+21/8[H]+14/11[A]+14/23[H]+25/12[A]+23/10[A]+13/15[H]+19/15[H]",
+        "goalKicks": "6/6[A]+14/11[H]+8/8[A]+9/8[H]+4/6[A]+9/5[A]+6/12[H]+8/8[H]",
+        "saves": "2/0[A]+3/4[H]+4/6[A]+2/1[H]+2/4[A]+4/1[A]+3/6[H]+9/2[H]",
+        "offsides": "5/0[A]+3/0[H]+1/2[A]+2/3[H]+5/3[A]+1/3[A]+2/0[H]+3/1[H]",
+        "shotsOnTarget": "2/3[A]+5/4[H]+6/4[A]+2/4[H]+6/2[A]+3/6[A]+6/3[H]+3/11[H]",
+        "yellowCards": "1/2[A]+2/3[H]+1/6[A]+1/6[H]+4/3[A]+5/5[A]+1/2[H]+5/1[H]",
+        "goals": "2/1[A]+1/1[H]+0/1[A]+1/2[H]+2/0[A]+2/2[A]+0/1[H]+1/2[H]",
+        "throwIns": "30/25[A]+25/21[H]+28/24[A]+26/23[H]+14/24[A]+17/15[A]+17/13[H]+23/30[H]",
+        "averageBallPossession": "50/50[A]+43/57[H]+62/38[A]+50/50[H]+35/65[A]+37/63[A]+57/43[H]+47/53[H]",
+        "teams": "Puskás Akadémia,Diósgyőri VTK,Away+Puskás Akadémia,Debreceni VSC,Home+Puskás Akadémia,Kisvárda FC,Away+Puskás Akadémia,Nyiregyháza Spartacus,Home+Puskás Akadémia,Kazincbarcikai SC,Away+Puskás Akadémia,MTK Budapest,Away+Puskás Akadémia,Zalaegerszegi TE,Home+Puskás Akadémia,Paksi FC,Home",
+        "tackles": "24/16[A]+8/7[H]+11/12[A]+14/13[H]+21/15[A]+22/20[A]+10/10[H]+16/24[H]",
+        "interceptions": "6/7[A]+17/7[H]+9/11[A]+13/8[H]+6/7[A]+14/7[A]+9/4[H]+11/8[H]",
+        "aerialDuels": "22/20[A]+17/24[H]+20/26[A]+24/31[H]+13/19[A]+13/13[A]+16/12[H]+21/20[H]",
+        "aerialDuelsAttempted": "42/42[A]+41/41[H]+46/46[A]+55/55[H]+32/32[A]+26/26[A]+28/28[H]+41/41[H]",
+        "dribbles": "5/12[A]+7/7[H]+5/11[A]+3/11[H]+5/7[A]+7/13[A]+11/4[H]+5/14[H]",
+        "dribblesAttempted": "13/27[A]+11/9[H]+10/14[A]+8/19[H]+11/17[A]+16/21[A]+17/10[H]+15/23[H]",
+        "isHome": "false+true+false+true+false+false+true+true",
+        "cornersTotals": "41/38",
+        "cornersTotalsHome": "21/17",
+        "cornersTotalsAway": "20/21",
+        "cornersAverage": "5.13/4.75",
+        "cornersAverageHome": "5.25/4.25",
+        "cornersAverageAway": "5.00/5.25",
+        "foulsTotals": "140/107",
+        "foulsTotalsHome": "67/61",
+        "foulsTotalsAway": "73/46",
+        "foulsAverage": "17.50/13.38",
+        "foulsAverageHome": "16.75/15.25",
+        "foulsAverageAway": "18.25/11.50",
+        "goalKicksTotals": "64/64",
+        "goalKicksTotalsHome": "37/39",
+        "goalKicksTotalsAway": "27/25",
+        "goalKicksAverage": "8.00/8.00",
+        "goalKicksAverageHome": "9.25/9.75",
+        "goalKicksAverageAway": "6.75/6.25",
+        "savesTotals": "29/24",
+        "savesTotalsHome": "17/13",
+        "savesTotalsAway": "12/11",
+        "savesAverage": "3.63/3.00",
+        "savesAverageHome": "4.25/3.25",
+        "savesAverageAway": "3.00/2.75",
+        "offsidesTotals": "22/12",
+        "offsidesTotalsHome": "10/4",
+        "offsidesTotalsAway": "12/8",
+        "offsidesAverage": "2.75/1.50",
+        "offsidesAverageHome": "2.50/1.00",
+        "offsidesAverageAway": "3.00/2.00",
+        "shotsOnTargetTotals": "33/37",
+        "shotsOnTargetTotalsHome": "16/22",
+        "shotsOnTargetTotalsAway": "17/15",
+        "shotsOnTargetAverage": "4.13/4.63",
+        "shotsOnTargetAverageHome": "4.00/5.50",
+        "shotsOnTargetAverageAway": "4.25/3.75",
+        "yellowCardsTotals": "20/28",
+        "yellowCardsTotalsHome": "9/12",
+        "yellowCardsTotalsAway": "11/16",
+        "yellowCardsAverage": "2.50/3.50",
+        "yellowCardsAverageHome": "2.25/3.00",
+        "yellowCardsAverageAway": "2.75/4.00",
+        "goalsTotals": "9/10",
+        "goalsTotalsHome": "3/6",
+        "goalsTotalsAway": "6/4",
+        "goalsAverage": "1.13/1.25",
+        "goalsAverageHome": "0.75/1.50",
+        "goalsAverageAway": "1.50/1.00",
+        "throwInsTotals": "180/175",
+        "throwInsTotalsHome": "91/87",
+        "throwInsTotalsAway": "89/88",
+        "throwInsAverage": "22.50/21.88",
+        "throwInsAverageHome": "22.75/21.75",
+        "throwInsAverageAway": "22.25/22.00",
+        "averageBallPossessionTotals": "381/419",
+        "averageBallPossessionTotalsHome": "197/203",
+        "averageBallPossessionTotalsAway": "184/216",
+        "averageBallPossessionAverage": "47.63/52.38",
+        "averageBallPossessionAverageHome": "49.25/50.75",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "126/117",
+        "tacklesTotalsHome": "48/54",
+        "tacklesTotalsAway": "78/63",
+        "tacklesAverage": "15.75/14.63",
+        "tacklesAverageHome": "12.00/13.50",
+        "tacklesAverageAway": "19.50/15.75",
+        "interceptionsTotals": "85/59",
+        "interceptionsTotalsHome": "50/27",
+        "interceptionsTotalsAway": "35/32",
+        "interceptionsAverage": "10.63/7.38",
+        "interceptionsAverageHome": "12.50/6.75",
+        "interceptionsAverageAway": "8.75/8.00",
+        "aerialDuelsTotals": "146/165",
+        "aerialDuelsTotalsHome": "78/87",
+        "aerialDuelsTotalsAway": "68/78",
+        "aerialDuelsAverage": "18.25/20.63",
+        "aerialDuelsAverageHome": "19.50/21.75",
+        "aerialDuelsAverageAway": "17.00/19.50",
+        "aerialDuelsAttemptedTotals": "311/311",
+        "aerialDuelsAttemptedTotalsHome": "165/165",
+        "aerialDuelsAttemptedTotalsAway": "146/146",
+        "aerialDuelsAttemptedAverage": "38.88/38.88",
+        "aerialDuelsAttemptedAverageHome": "41.25/41.25",
+        "aerialDuelsAttemptedAverageAway": "36.50/36.50",
+        "dribblesTotals": "48/79",
+        "dribblesTotalsHome": "26/36",
+        "dribblesTotalsAway": "22/43",
+        "dribblesAverage": "6.00/9.88",
+        "dribblesAverageHome": "6.50/9.00",
+        "dribblesAverageAway": "5.50/10.75",
+        "dribblesAttemptedTotals": "101/140",
+        "dribblesAttemptedTotalsHome": "51/61",
+        "dribblesAttemptedTotalsAway": "50/79",
+        "dribblesAttemptedAverage": "12.63/17.50",
+        "dribblesAttemptedAverageHome": "12.75/15.25",
+        "dribblesAttemptedAverageAway": "12.50/19.75"
+    }
+}

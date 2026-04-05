@@ -1,0 +1,403 @@
+{
+    "globalStatistics": {
+        "corners": "4.25",
+        "fouls": "12.38",
+        "goalKicks": "10.25",
+        "saves": "4.50",
+        "offsides": "1.13",
+        "shotsOnTarget": "2.88/6.63",
+        "yellowCards": "1.88/1.63",
+        "goals": "1.13/1.88",
+        "throwIns": "21.13",
+        "ballPossession": 40.375,
+        "tackles": "12.13/10.50",
+        "interceptions": "6.13/8.63",
+        "aerialDuels": "12.50",
+        "aerialDuelsAttempted": "27.13",
+        "dribbles": "5.63/7.13",
+        "dribblesAttempted": "10.75/13.13"
+    },
+    "teamSlug": "chapecoense",
+    "teamId": "21845",
+    "teamName": "Chapecoense",
+    "tournament": "Brasileirão Betano",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-atletico-mineiro/COsVLi#id:15235602,tab:statistics",
+            "teams": [
+                "Chapecoense",
+                "Atlético Mineiro"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                21845,
+                1977
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-internacional/qOsVLi#id:15237961,tab:statistics",
+            "teams": [
+                "Internacional",
+                "Chapecoense"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1966,
+                21845
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-corinthians/hOsVLi#id:15237954,tab:statistics",
+            "teams": [
+                "Chapecoense",
+                "Corinthians"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                21845,
+                1957
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-gremio/BtcsVLi#id:15237944,tab:statistics",
+            "teams": [
+                "Chapecoense",
+                "Grêmio"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                21845,
+                5926
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-sao-paulo/GOsVLi#id:15237927,tab:statistics",
+            "teams": [
+                "São Paulo",
+                "Chapecoense"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1981,
+                21845
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-coritiba/HOsVLi#id:15237913,tab:statistics",
+            "teams": [
+                "Chapecoense",
+                "Coritiba"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                21845,
+                1982
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chapecoense-vasco-da-gama/zOsVLi#id:15237895,tab:statistics",
+            "teams": [
+                "Vasco da Gama",
+                "Chapecoense"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1974,
+                21845
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 3,
+    "matchStatistics": [
+        {
+            "corners": "7/3[H]",
+            "fouls": "19/5[H]",
+            "goalKicks": "8/14[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "0/4[H]",
+            "throwIns": "30/22[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Chapecoense,Atlético Mineiro,Home",
+            "tackles": "12/9[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "10/8[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "8/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "9/16[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "5/0[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "0/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "26/10[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Chapecoense,Internacional,Away",
+            "tackles": "16/19[A]",
+            "interceptions": "5/14[A]",
+            "aerialDuels": "11/19[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "14/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "18/11[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "4/5[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "18/22[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Chapecoense,Corinthians,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "10/16[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "11/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "16/10[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "3/0[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "12/18[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Chapecoense,Grêmio,Home",
+            "tackles": "18/4[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "8/6[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "5/11[H]",
+            "dribblesAttempted": "7/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/11[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "12/4[A]",
+            "saves": "5/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "32/13[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Chapecoense,São Paulo,Away",
+            "tackles": "10/11[A]",
+            "interceptions": "5/9[A]",
+            "aerialDuels": "20/17[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "14/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "4/8[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "3/3[H]",
+            "throwIns": "21/12[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Chapecoense,Coritiba,Home",
+            "tackles": "7/12[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "19/12[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "14/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/14[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "10/0[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "1/13[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/11[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Chapecoense,Vasco da Gama,Away",
+            "tackles": "9/10[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "10/24[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T15:53:36.617Z",
+    "endTime": "2026-04-05T15:53:57.178Z",
+    "totalTimeSeconds": 20.56,
+    "combinedMatchStatistics": {
+        "corners": "7/3[H]+4/4[A]+6/4[H]+4/5[H]+6/11[A]+6/5[H]+0/14[A]",
+        "fouls": "19/5[H]+9/16[A]+18/11[H]+16/10[H]+12/13[A]+4/8[H]+11/15[A]",
+        "goalKicks": "8/14[H]+9/9[A]+11/8[H]+8/9[H]+12/4[A]+8/10[H]+8/6[A]",
+        "saves": "4/3[H]+5/0[A]+4/5[H]+3/0[H]+5/1[A]+2/5[H]+10/0[A]",
+        "offsides": "1/1[H]+3/0[A]+1/2[H]+1/2[H]+0/3[A]+0/0[H]+1/0[A]",
+        "shotsOnTarget": "4/8[H]+0/7[A]+4/4[H]+1/4[H]+1/7[A]+8/5[H]+1/13[A]",
+        "yellowCards": "1/0[H]+3/2[A]+3/4[H]+3/3[H]+1/0[A]+2/1[H]+0/0[A]",
+        "goals": "0/4[H]+0/2[A]+0/0[H]+1/1[H]+0/2[A]+3/3[H]+1/1[A]",
+        "throwIns": "30/22[H]+26/10[A]+18/22[H]+12/18[H]+32/13[A]+21/12[H]+17/11[A]",
+        "averageBallPossession": "45/55[H]+52/48[A]+36/64[H]+35/65[H]+37/63[A]+51/49[H]+33/67[A]",
+        "teams": "Chapecoense,Atlético Mineiro,Home+Chapecoense,Internacional,Away+Chapecoense,Corinthians,Home+Chapecoense,Grêmio,Home+Chapecoense,São Paulo,Away+Chapecoense,Coritiba,Home+Chapecoense,Vasco da Gama,Away",
+        "tackles": "12/9[H]+16/19[A]+13/12[H]+18/4[H]+10/11[A]+7/12[H]+9/10[A]",
+        "interceptions": "8/10[H]+5/14[A]+7/5[H]+7/6[H]+5/9[A]+5/10[H]+7/10[A]",
+        "aerialDuels": "10/8[H]+11/19[A]+10/16[H]+8/6[H]+20/17[A]+19/12[H]+10/24[A]",
+        "aerialDuelsAttempted": "18/18[H]+30/30[A]+26/26[H]+14/14[H]+37/37[A]+31/31[H]+34/34[A]",
+        "dribbles": "5/5[H]+8/5[A]+5/7[H]+5/11[H]+4/5[A]+8/6[H]+5/7[A]",
+        "dribblesAttempted": "8/12[H]+14/11[A]+11/13[H]+7/18[H]+14/11[A]+14/8[H]+9/14[A]",
+        "isHome": "true+false+true+true+false+true+false",
+        "cornersTotals": "33/46",
+        "cornersTotalsHome": "23/17",
+        "cornersTotalsAway": "10/29",
+        "cornersAverage": "4.71/6.57",
+        "cornersAverageHome": "5.75/4.25",
+        "cornersAverageAway": "3.33/9.67",
+        "foulsTotals": "89/78",
+        "foulsTotalsHome": "57/34",
+        "foulsTotalsAway": "32/44",
+        "foulsAverage": "12.71/11.14",
+        "foulsAverageHome": "14.25/8.50",
+        "foulsAverageAway": "10.67/14.67",
+        "goalKicksTotals": "64/60",
+        "goalKicksTotalsHome": "35/41",
+        "goalKicksTotalsAway": "29/19",
+        "goalKicksAverage": "9.14/8.57",
+        "goalKicksAverageHome": "8.75/10.25",
+        "goalKicksAverageAway": "9.67/6.33",
+        "savesTotals": "33/14",
+        "savesTotalsHome": "13/13",
+        "savesTotalsAway": "20/1",
+        "savesAverage": "4.71/2.00",
+        "savesAverageHome": "3.25/3.25",
+        "savesAverageAway": "6.67/0.33",
+        "offsidesTotals": "7/8",
+        "offsidesTotalsHome": "3/5",
+        "offsidesTotalsAway": "4/3",
+        "offsidesAverage": "1.00/1.14",
+        "offsidesAverageHome": "0.75/1.25",
+        "offsidesAverageAway": "1.33/1.00",
+        "shotsOnTargetTotals": "19/48",
+        "shotsOnTargetTotalsHome": "17/21",
+        "shotsOnTargetTotalsAway": "2/27",
+        "shotsOnTargetAverage": "2.71/6.86",
+        "shotsOnTargetAverageHome": "4.25/5.25",
+        "shotsOnTargetAverageAway": "0.67/9.00",
+        "yellowCardsTotals": "13/10",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "4/2",
+        "yellowCardsAverage": "1.86/1.43",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "1.33/0.67",
+        "goalsTotals": "5/13",
+        "goalsTotalsHome": "4/8",
+        "goalsTotalsAway": "1/5",
+        "goalsAverage": "0.71/1.86",
+        "goalsAverageHome": "1.00/2.00",
+        "goalsAverageAway": "0.33/1.67",
+        "throwInsTotals": "156/108",
+        "throwInsTotalsHome": "81/74",
+        "throwInsTotalsAway": "75/34",
+        "throwInsAverage": "22.29/15.43",
+        "throwInsAverageHome": "20.25/18.50",
+        "throwInsAverageAway": "25.00/11.33",
+        "averageBallPossessionTotals": "289/411",
+        "averageBallPossessionTotalsHome": "167/233",
+        "averageBallPossessionTotalsAway": "122/178",
+        "averageBallPossessionAverage": "41.29/58.71",
+        "averageBallPossessionAverageHome": "41.75/58.25",
+        "averageBallPossessionAverageAway": "40.67/59.33",
+        "tacklesTotals": "85/77",
+        "tacklesTotalsHome": "50/37",
+        "tacklesTotalsAway": "35/40",
+        "tacklesAverage": "12.14/11.00",
+        "tacklesAverageHome": "12.50/9.25",
+        "tacklesAverageAway": "11.67/13.33",
+        "interceptionsTotals": "44/64",
+        "interceptionsTotalsHome": "27/31",
+        "interceptionsTotalsAway": "17/33",
+        "interceptionsAverage": "6.29/9.14",
+        "interceptionsAverageHome": "6.75/7.75",
+        "interceptionsAverageAway": "5.67/11.00",
+        "aerialDuelsTotals": "88/102",
+        "aerialDuelsTotalsHome": "47/42",
+        "aerialDuelsTotalsAway": "41/60",
+        "aerialDuelsAverage": "12.57/14.57",
+        "aerialDuelsAverageHome": "11.75/10.50",
+        "aerialDuelsAverageAway": "13.67/20.00",
+        "aerialDuelsAttemptedTotals": "190/190",
+        "aerialDuelsAttemptedTotalsHome": "89/89",
+        "aerialDuelsAttemptedTotalsAway": "101/101",
+        "aerialDuelsAttemptedAverage": "27.14/27.14",
+        "aerialDuelsAttemptedAverageHome": "22.25/22.25",
+        "aerialDuelsAttemptedAverageAway": "33.67/33.67",
+        "dribblesTotals": "40/46",
+        "dribblesTotalsHome": "23/29",
+        "dribblesTotalsAway": "17/17",
+        "dribblesAverage": "5.71/6.57",
+        "dribblesAverageHome": "5.75/7.25",
+        "dribblesAverageAway": "5.67/5.67",
+        "dribblesAttemptedTotals": "77/87",
+        "dribblesAttemptedTotalsHome": "40/51",
+        "dribblesAttemptedTotalsAway": "37/36",
+        "dribblesAttemptedAverage": "11.00/12.43",
+        "dribblesAttemptedAverageHome": "10.00/12.75",
+        "dribblesAttemptedAverageAway": "12.33/12.00"
+    }
+}
