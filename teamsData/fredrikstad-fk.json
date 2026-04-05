@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.50",
+        "fouls": "5.50",
+        "goalKicks": "5.50",
+        "saves": "5.50",
+        "offsides": "2.00",
+        "shotsOnTarget": "4.50/8.50",
+        "yellowCards": "0.50/1.00",
+        "goals": "1.50/2.50",
+        "throwIns": "17.00",
+        "ballPossession": 46,
+        "tackles": "14.50/12.50",
+        "interceptions": "9.50/5.00",
+        "aerialDuels": "17.50",
+        "aerialDuelsAttempted": "31.00",
+        "dribbles": "6.50/7.00",
+        "dribblesAttempted": "14.00/14.00"
+    },
+    "teamSlug": "fredrikstad-fk",
+    "teamId": "687",
+    "teamName": "Fredrikstad FK",
+    "tournament": "Eliteserien",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/kfum-oslo-fredrikstad-fk/MnsLp#id:15260749,tab:statistics",
+            "teams": [
+                "Fredrikstad FK",
+                "KFUM Oslo"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                687,
+                786
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fredrikstad-fk-tromso-il/knsMn#id:15260744,tab:statistics",
+            "teams": [
+                "Tromsø IL",
+                "Fredrikstad FK"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                660,
+                687
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fredrikstad-fk-bodoglimt/gnsMn#id:13265929,tab:statistics",
+            "teams": [
+                "Bodø/Glimt",
+                "Fredrikstad FK"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                656,
+                687
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viking-fk-fredrikstad-fk/Mnsoy#id:13265886,tab:statistics",
+            "teams": [
+                "Fredrikstad FK",
+                "Viking FK"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                687,
+                1164
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sarpsborg-08-fredrikstad-fk/Mnsxq#id:13265915,tab:statistics",
+            "teams": [
+                "Sarpsborg 08",
+                "Fredrikstad FK"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                822,
+                687
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kristiansund-bk-fredrikstad-fk/Mnshu#id:13265900,tab:statistics",
+            "teams": [
+                "Fredrikstad FK",
+                "Kristiansund BK"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                687,
+                957
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fredrikstad-fk-sandefjord-fotball/BnsMn#id:13265896,tab:statistics",
+            "teams": [
+                "Sandefjord Fotball",
+                "Fredrikstad FK"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                676,
+                687
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fredrikstad-fk-hamkam/qnsMn#id:13295717,tab:statistics",
+            "teams": [
+                "Fredrikstad FK",
+                "HamKam"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                687,
+                666
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/5[H]",
+            "fouls": "7/11[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "6/5[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "8/8[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "21/24[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Fredrikstad FK,KFUM Oslo,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "13/8[H]",
+            "aerialDuels": "22/18[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "13/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "4/12[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "5/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Fredrikstad FK,Tromsø IL,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "6/2[A]",
+            "aerialDuels": "13/9[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "15/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[A]",
+            "fouls": "5/8[A]",
+            "goalKicks": "12/4[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/9[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/5[A]",
+            "throwIns": "22/18[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Fredrikstad FK,Bodø/Glimt,Away",
+            "tackles": "16/15[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "15/14[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "6/9[A]",
+            "dribblesAttempted": "16/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "10/13[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "7/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "6/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "25/22[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Fredrikstad FK,Viking FK,Home",
+            "tackles": "19/16[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "21/20[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "12/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "10/2[A]",
+            "saves": "4/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Fredrikstad FK,Sarpsborg 08,Away",
+            "tackles": "14/22[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "14/19[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "15/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "8/12[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "24/16[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "Fredrikstad FK,Kristiansund BK,Home",
+            "tackles": "12/12[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "19/8[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "21/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "6/11[A]",
+            "goalKicks": "11/3[A]",
+            "saves": "3/5[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "24/15[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Fredrikstad FK,Sandefjord Fotball,Away",
+            "tackles": "14/21[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "14/11[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "20/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/8[H]",
+            "fouls": "8/12[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "4/8[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "9/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/18[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Fredrikstad FK,HamKam,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "17/16[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "16/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T23:09:59.512Z",
+    "endTime": "2026-04-05T23:10:26.951Z",
+    "totalTimeSeconds": 27.44,
+    "combinedMatchStatistics": {
+        "corners": "5/5[H]+2/6[A]+5/7[A]+3/5[H]+6/7[A]+2/1[H]+3/5[A]+7/8[H]",
+        "fouls": "7/11[H]+4/12[A]+5/8[A]+10/13[H]+9/13[A]+8/12[H]+6/11[A]+8/12[H]",
+        "goalKicks": "5/9[H]+6/5[A]+12/4[A]+7/10[H]+10/2[A]+11/8[H]+11/3[A]+7/9[H]",
+        "saves": "6/5[H]+5/1[A]+4/1[A]+7/4[H]+4/3[A]+2/2[H]+3/5[A]+4/8[H]",
+        "offsides": "4/0[H]+0/0[A]+0/0[A]+1/2[H]+0/0[A]+2/1[H]+2/0[A]+2/1[H]",
+        "shotsOnTarget": "8/8[H]+1/9[A]+1/9[A]+4/8[H]+5/3[A]+5/3[H]+5/4[A]+9/5[H]",
+        "yellowCards": "0/2[H]+1/0[A]+2/0[A]+6/3[H]+3/2[A]+1/2[H]+0/0[A]+0/1[H]",
+        "goals": "3/1[H]+0/4[A]+0/5[A]+0/1[H]+2/0[A]+3/1[H]+0/0[A]+1/1[H]",
+        "throwIns": "21/24[H]+13/18[A]+22/18[A]+25/22[H]+21/20[A]+24/16[H]+24/15[A]+19/18[H]",
+        "averageBallPossession": "35/65[H]+57/43[A]+40/60[A]+43/57[H]+44/56[A]+66/34[H]+54/46[A]+59/41[H]",
+        "teams": "Fredrikstad FK,KFUM Oslo,Home+Fredrikstad FK,Tromsø IL,Away+Fredrikstad FK,Bodø/Glimt,Away+Fredrikstad FK,Viking FK,Home+Fredrikstad FK,Sarpsborg 08,Away+Fredrikstad FK,Kristiansund BK,Home+Fredrikstad FK,Sandefjord Fotball,Away+Fredrikstad FK,HamKam,Home",
+        "tackles": "18/13[H]+11/12[A]+16/15[A]+19/16[H]+14/22[A]+12/12[H]+14/21[A]+12/17[H]",
+        "interceptions": "13/8[H]+6/2[A]+9/10[A]+7/8[H]+4/5[A]+9/12[H]+7/6[A]+6/4[H]",
+        "aerialDuels": "22/18[H]+13/9[A]+15/14[A]+21/20[H]+14/19[A]+19/8[H]+14/11[A]+17/16[H]",
+        "aerialDuelsAttempted": "40/40[H]+22/22[A]+29/29[A]+41/41[H]+33/33[A]+27/27[H]+25/25[A]+33/33[H]",
+        "dribbles": "5/7[H]+8/7[A]+6/9[A]+4/4[H]+4/5[A]+11/5[H]+8/9[A]+7/7[H]",
+        "dribblesAttempted": "13/18[H]+15/10[A]+16/15[A]+12/16[H]+15/9[A]+21/9[H]+20/18[A]+16/12[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "33/44",
+        "cornersTotalsHome": "17/19",
+        "cornersTotalsAway": "16/25",
+        "cornersAverage": "4.13/5.50",
+        "cornersAverageHome": "4.25/4.75",
+        "cornersAverageAway": "4.00/6.25",
+        "foulsTotals": "57/92",
+        "foulsTotalsHome": "33/48",
+        "foulsTotalsAway": "24/44",
+        "foulsAverage": "7.13/11.50",
+        "foulsAverageHome": "8.25/12.00",
+        "foulsAverageAway": "6.00/11.00",
+        "goalKicksTotals": "69/50",
+        "goalKicksTotalsHome": "30/36",
+        "goalKicksTotalsAway": "39/14",
+        "goalKicksAverage": "8.63/6.25",
+        "goalKicksAverageHome": "7.50/9.00",
+        "goalKicksAverageAway": "9.75/3.50",
+        "savesTotals": "35/29",
+        "savesTotalsHome": "19/19",
+        "savesTotalsAway": "16/10",
+        "savesAverage": "4.38/3.63",
+        "savesAverageHome": "4.75/4.75",
+        "savesAverageAway": "4.00/2.50",
+        "offsidesTotals": "11/4",
+        "offsidesTotalsHome": "9/4",
+        "offsidesTotalsAway": "2/0",
+        "offsidesAverage": "1.38/0.50",
+        "offsidesAverageHome": "2.25/1.00",
+        "offsidesAverageAway": "0.50/0.00",
+        "shotsOnTargetTotals": "38/49",
+        "shotsOnTargetTotalsHome": "26/24",
+        "shotsOnTargetTotalsAway": "12/25",
+        "shotsOnTargetAverage": "4.75/6.13",
+        "shotsOnTargetAverageHome": "6.50/6.00",
+        "shotsOnTargetAverageAway": "3.00/6.25",
+        "yellowCardsTotals": "13/10",
+        "yellowCardsTotalsHome": "7/8",
+        "yellowCardsTotalsAway": "6/2",
+        "yellowCardsAverage": "1.63/1.25",
+        "yellowCardsAverageHome": "1.75/2.00",
+        "yellowCardsAverageAway": "1.50/0.50",
+        "goalsTotals": "9/13",
+        "goalsTotalsHome": "7/4",
+        "goalsTotalsAway": "2/9",
+        "goalsAverage": "1.13/1.63",
+        "goalsAverageHome": "1.75/1.00",
+        "goalsAverageAway": "0.50/2.25",
+        "throwInsTotals": "169/151",
+        "throwInsTotalsHome": "89/80",
+        "throwInsTotalsAway": "80/71",
+        "throwInsAverage": "21.13/18.88",
+        "throwInsAverageHome": "22.25/20.00",
+        "throwInsAverageAway": "20.00/17.75",
+        "averageBallPossessionTotals": "398/402",
+        "averageBallPossessionTotalsHome": "203/197",
+        "averageBallPossessionTotalsAway": "195/205",
+        "averageBallPossessionAverage": "49.75/50.25",
+        "averageBallPossessionAverageHome": "50.75/49.25",
+        "averageBallPossessionAverageAway": "48.75/51.25",
+        "tacklesTotals": "116/128",
+        "tacklesTotalsHome": "61/58",
+        "tacklesTotalsAway": "55/70",
+        "tacklesAverage": "14.50/16.00",
+        "tacklesAverageHome": "15.25/14.50",
+        "tacklesAverageAway": "13.75/17.50",
+        "interceptionsTotals": "61/55",
+        "interceptionsTotalsHome": "35/32",
+        "interceptionsTotalsAway": "26/23",
+        "interceptionsAverage": "7.63/6.88",
+        "interceptionsAverageHome": "8.75/8.00",
+        "interceptionsAverageAway": "6.50/5.75",
+        "aerialDuelsTotals": "135/115",
+        "aerialDuelsTotalsHome": "79/62",
+        "aerialDuelsTotalsAway": "56/53",
+        "aerialDuelsAverage": "16.88/14.38",
+        "aerialDuelsAverageHome": "19.75/15.50",
+        "aerialDuelsAverageAway": "14.00/13.25",
+        "aerialDuelsAttemptedTotals": "250/250",
+        "aerialDuelsAttemptedTotalsHome": "141/141",
+        "aerialDuelsAttemptedTotalsAway": "109/109",
+        "aerialDuelsAttemptedAverage": "31.25/31.25",
+        "aerialDuelsAttemptedAverageHome": "35.25/35.25",
+        "aerialDuelsAttemptedAverageAway": "27.25/27.25",
+        "dribblesTotals": "53/53",
+        "dribblesTotalsHome": "27/23",
+        "dribblesTotalsAway": "26/30",
+        "dribblesAverage": "6.63/6.63",
+        "dribblesAverageHome": "6.75/5.75",
+        "dribblesAverageAway": "6.50/7.50",
+        "dribblesAttemptedTotals": "128/107",
+        "dribblesAttemptedTotalsHome": "62/55",
+        "dribblesAttemptedTotalsAway": "66/52",
+        "dribblesAttemptedAverage": "16.00/13.38",
+        "dribblesAttemptedAverageHome": "15.50/13.75",
+        "dribblesAttemptedAverageAway": "16.50/13.00"
+    }
+}

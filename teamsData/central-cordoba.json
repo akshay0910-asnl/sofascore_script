@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.91",
+        "fouls": "13.09",
+        "goalKicks": "10.36",
+        "saves": "3.18",
+        "offsides": "1.27",
+        "shotsOnTarget": "2.36/4.55",
+        "yellowCards": "2.82/2.09",
+        "goals": "0.45/1.09",
+        "throwIns": "18.09",
+        "ballPossession": 45.272727272727,
+        "tackles": "16.64/15.45",
+        "interceptions": "9.91/9.27",
+        "aerialDuels": "18.36",
+        "aerialDuelsAttempted": "38.18",
+        "dribbles": "7.18/7.45",
+        "dribblesAttempted": "15.18/16.45"
+    },
+    "teamSlug": "central-cordoba",
+    "teamId": "65676",
+    "teamName": "Central Córdoba",
+    "tournament": "Liga Profesional de Fútbol",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-estudiantes-de-la-plata/gobsBnB#id:15270034,tab:statistics",
+            "teams": [
+                "Estudiantes de La Plata",
+                "Central Córdoba"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                3206,
+                65676
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-central-cordoba/BnBsyUAb#id:15270020,tab:statistics",
+            "teams": [
+                "Central Córdoba",
+                "Deportivo Riestra"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                65676,
+                189723
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-defensa-y-justicia/OLosBnB#id:15270001,tab:statistics",
+            "teams": [
+                "Defensa y Justicia",
+                "Central Córdoba"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                36839,
+                65676
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-ca-independiente/jobsBnB#id:15269942,tab:statistics",
+            "teams": [
+                "CA Independiente",
+                "Central Córdoba"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3209,
+                65676
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-talleres/kobsBnB#id:15270135,tab:statistics",
+            "teams": [
+                "Central Córdoba",
+                "CA Talleres"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                65676,
+                3210
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-tigre/DcdsBnB#id:15270130,tab:statistics",
+            "teams": [
+                "Central Córdoba",
+                "Tigre"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                65676,
+                7628
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-instituto-de-cordoba/MYbsBnB#id:15270109,tab:statistics",
+            "teams": [
+                "Instituto De Córdoba",
+                "Central Córdoba"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                4937,
+                65676
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/central-cordoba-club-atletico-union-de-santa-fe/eobsBnB#id:15270089,tab:statistics",
+            "teams": [
+                "Central Córdoba",
+                "Club Atlético Unión de Santa Fe"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                65676,
+                3204
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/8[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "10/3[A]",
+            "saves": "7/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/13[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/5[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Central Córdoba,Estudiantes de La Plata,Away",
+            "tackles": "17/9[A]",
+            "interceptions": "9/11[A]",
+            "aerialDuels": "8/18[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "9/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "7/14[H]",
+            "goalKicks": "5/3[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "21/30[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Central Córdoba,Deportivo Riestra,Home",
+            "tackles": "21/15[H]",
+            "interceptions": "7/13[H]",
+            "aerialDuels": "39/24[H]",
+            "aerialDuelsAttempted": "63/63[H]",
+            "dribbles": "9/9[H]",
+            "dribblesAttempted": "16/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "5/4[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "13/20[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Central Córdoba,Defensa y Justicia,Away",
+            "tackles": "20/14[A]",
+            "interceptions": "5/9[A]",
+            "aerialDuels": "9/8[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "13/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/11[A]",
+            "fouls": "15/7[A]",
+            "goalKicks": "17/5[A]",
+            "saves": "4/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "20/28[A]",
+            "averageBallPossession": "26/74[A]",
+            "teams": "Central Córdoba,CA Independiente,Away",
+            "tackles": "17/14[A]",
+            "interceptions": "12/8[A]",
+            "aerialDuels": "22/19[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/2[H]",
+            "fouls": "11/8[H]",
+            "goalKicks": "16/6[H]",
+            "saves": "2/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "20/26[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Central Córdoba,CA Talleres,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "16/15[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "15/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "19/10[H]",
+            "goalKicks": "12/9[H]",
+            "saves": "3/1[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "1/3[H]",
+            "yellowCards": "8/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "16/18[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Central Córdoba,Tigre,Home",
+            "tackles": "12/21[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "13/20[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "12/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "18/22[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "0/0[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "0/2[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "22/19[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Central Córdoba,Instituto De Córdoba,Away",
+            "tackles": "7/11[A]",
+            "interceptions": "14/9[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "11/6[A]",
+            "dribblesAttempted": "19/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "12/15[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Central Córdoba,Club Atlético Unión de Santa Fe,Home",
+            "tackles": "16/21[H]",
+            "interceptions": "10/5[H]",
+            "aerialDuels": "18/30[H]",
+            "aerialDuelsAttempted": "48/48[H]",
+            "dribbles": "10/7[H]",
+            "dribblesAttempted": "26/19[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T19:40:04.268Z",
+    "endTime": "2026-04-05T19:40:40.813Z",
+    "totalTimeSeconds": 36.55,
+    "combinedMatchStatistics": {
+        "corners": "4/8[A]+2/3[H]+2/5[A]+2/11[A]+1/2[H]+4/6[H]+5/3[A]+3/2[H]",
+        "fouls": "13/10[A]+7/14[H]+10/14[A]+15/7[A]+11/8[H]+19/10[H]+18/22[A]+11/16[H]",
+        "goalKicks": "10/3[A]+5/3[H]+9/5[A]+17/5[A]+16/6[H]+12/9[H]+9/5[A]+9/5[H]",
+        "saves": "7/1[A]+4/1[H]+5/4[A]+4/2[A]+2/1[H]+3/1[H]+0/0[A]+2/2[H]",
+        "offsides": "0/0[A]+1/2[H]+2/0[A]+2/1[A]+2/1[H]+3/0[H]+2/3[A]+1/2[H]",
+        "shotsOnTarget": "1/13[A]+2/4[H]+5/6[A]+2/8[A]+3/2[H]+1/3[H]+0/2[A]+3/2[H]",
+        "yellowCards": "3/2[A]+0/4[H]+2/3[A]+1/1[A]+3/1[H]+8/1[H]+5/3[A]+1/2[H]",
+        "goals": "0/5[A]+1/0[H]+1/1[A]+0/2[A]+2/0[H]+0/0[H]+0/2[A]+1/0[H]",
+        "throwIns": "17/15[A]+21/30[H]+13/20[A]+20/28[A]+20/26[H]+16/18[H]+22/19[A]+12/15[H]",
+        "averageBallPossession": "45/55[A]+52/48[H]+43/57[A]+26/74[A]+37/63[H]+39/61[H]+54/46[A]+49/51[H]",
+        "teams": "Central Córdoba,Estudiantes de La Plata,Away+Central Córdoba,Deportivo Riestra,Home+Central Córdoba,Defensa y Justicia,Away+Central Córdoba,CA Independiente,Away+Central Córdoba,CA Talleres,Home+Central Córdoba,Tigre,Home+Central Córdoba,Instituto De Córdoba,Away+Central Córdoba,Club Atlético Unión de Santa Fe,Home",
+        "tackles": "17/9[A]+21/15[H]+20/14[A]+17/14[A]+22/18[H]+12/21[H]+7/11[A]+16/21[H]",
+        "interceptions": "9/11[A]+7/13[H]+5/9[A]+12/8[A]+13/7[H]+11/13[H]+14/9[A]+10/5[H]",
+        "aerialDuels": "8/18[A]+39/24[H]+9/8[A]+22/19[A]+16/15[H]+13/20[H]+13/13[A]+18/30[H]",
+        "aerialDuelsAttempted": "26/26[A]+63/63[H]+17/17[A]+41/41[A]+31/31[H]+33/33[H]+26/26[A]+48/48[H]",
+        "dribbles": "4/8[A]+9/9[H]+8/7[A]+3/7[A]+3/4[H]+5/7[H]+11/6[A]+10/7[H]",
+        "dribblesAttempted": "9/20[A]+16/19[H]+13/19[A]+9/14[A]+15/20[H]+12/14[H]+19/9[A]+26/19[H]",
+        "isHome": "false+true+false+false+true+true+false+true",
+        "cornersTotals": "23/40",
+        "cornersTotalsHome": "10/13",
+        "cornersTotalsAway": "13/27",
+        "cornersAverage": "2.88/5.00",
+        "cornersAverageHome": "2.50/3.25",
+        "cornersAverageAway": "3.25/6.75",
+        "foulsTotals": "104/101",
+        "foulsTotalsHome": "48/48",
+        "foulsTotalsAway": "56/53",
+        "foulsAverage": "13.00/12.63",
+        "foulsAverageHome": "12.00/12.00",
+        "foulsAverageAway": "14.00/13.25",
+        "goalKicksTotals": "87/41",
+        "goalKicksTotalsHome": "42/23",
+        "goalKicksTotalsAway": "45/18",
+        "goalKicksAverage": "10.88/5.13",
+        "goalKicksAverageHome": "10.50/5.75",
+        "goalKicksAverageAway": "11.25/4.50",
+        "savesTotals": "27/12",
+        "savesTotalsHome": "11/5",
+        "savesTotalsAway": "16/7",
+        "savesAverage": "3.38/1.50",
+        "savesAverageHome": "2.75/1.25",
+        "savesAverageAway": "4.00/1.75",
+        "offsidesTotals": "13/9",
+        "offsidesTotalsHome": "7/5",
+        "offsidesTotalsAway": "6/4",
+        "offsidesAverage": "1.63/1.13",
+        "offsidesAverageHome": "1.75/1.25",
+        "offsidesAverageAway": "1.50/1.00",
+        "shotsOnTargetTotals": "17/40",
+        "shotsOnTargetTotalsHome": "9/11",
+        "shotsOnTargetTotalsAway": "8/29",
+        "shotsOnTargetAverage": "2.13/5.00",
+        "shotsOnTargetAverageHome": "2.25/2.75",
+        "shotsOnTargetAverageAway": "2.00/7.25",
+        "yellowCardsTotals": "23/17",
+        "yellowCardsTotalsHome": "12/8",
+        "yellowCardsTotalsAway": "11/9",
+        "yellowCardsAverage": "2.88/2.13",
+        "yellowCardsAverageHome": "3.00/2.00",
+        "yellowCardsAverageAway": "2.75/2.25",
+        "goalsTotals": "5/10",
+        "goalsTotalsHome": "4/0",
+        "goalsTotalsAway": "1/10",
+        "goalsAverage": "0.63/1.25",
+        "goalsAverageHome": "1.00/0.00",
+        "goalsAverageAway": "0.25/2.50",
+        "throwInsTotals": "141/171",
+        "throwInsTotalsHome": "69/89",
+        "throwInsTotalsAway": "72/82",
+        "throwInsAverage": "17.63/21.38",
+        "throwInsAverageHome": "17.25/22.25",
+        "throwInsAverageAway": "18.00/20.50",
+        "averageBallPossessionTotals": "345/455",
+        "averageBallPossessionTotalsHome": "177/223",
+        "averageBallPossessionTotalsAway": "168/232",
+        "averageBallPossessionAverage": "43.13/56.88",
+        "averageBallPossessionAverageHome": "44.25/55.75",
+        "averageBallPossessionAverageAway": "42.00/58.00",
+        "tacklesTotals": "132/123",
+        "tacklesTotalsHome": "71/75",
+        "tacklesTotalsAway": "61/48",
+        "tacklesAverage": "16.50/15.38",
+        "tacklesAverageHome": "17.75/18.75",
+        "tacklesAverageAway": "15.25/12.00",
+        "interceptionsTotals": "81/75",
+        "interceptionsTotalsHome": "41/38",
+        "interceptionsTotalsAway": "40/37",
+        "interceptionsAverage": "10.13/9.38",
+        "interceptionsAverageHome": "10.25/9.50",
+        "interceptionsAverageAway": "10.00/9.25",
+        "aerialDuelsTotals": "138/147",
+        "aerialDuelsTotalsHome": "86/89",
+        "aerialDuelsTotalsAway": "52/58",
+        "aerialDuelsAverage": "17.25/18.38",
+        "aerialDuelsAverageHome": "21.50/22.25",
+        "aerialDuelsAverageAway": "13.00/14.50",
+        "aerialDuelsAttemptedTotals": "285/285",
+        "aerialDuelsAttemptedTotalsHome": "175/175",
+        "aerialDuelsAttemptedTotalsAway": "110/110",
+        "aerialDuelsAttemptedAverage": "35.63/35.63",
+        "aerialDuelsAttemptedAverageHome": "43.75/43.75",
+        "aerialDuelsAttemptedAverageAway": "27.50/27.50",
+        "dribblesTotals": "53/55",
+        "dribblesTotalsHome": "27/27",
+        "dribblesTotalsAway": "26/28",
+        "dribblesAverage": "6.63/6.88",
+        "dribblesAverageHome": "6.75/6.75",
+        "dribblesAverageAway": "6.50/7.00",
+        "dribblesAttemptedTotals": "119/134",
+        "dribblesAttemptedTotalsHome": "69/72",
+        "dribblesAttemptedTotalsAway": "50/62",
+        "dribblesAttemptedAverage": "14.88/16.75",
+        "dribblesAttemptedAverageHome": "17.25/18.00",
+        "dribblesAttemptedAverageAway": "12.50/15.50"
+    }
+}

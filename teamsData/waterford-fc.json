@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.11",
+        "fouls": "11.22",
+        "goalKicks": "9.22",
+        "saves": "5.33",
+        "offsides": "1.33",
+        "shotsOnTarget": "2.89/7.56",
+        "yellowCards": "2.11/1.89",
+        "goals": "0.78/2.22",
+        "throwIns": "22.56",
+        "ballPossession": 42.333333333333,
+        "tackles": "16.89/12.89",
+        "interceptions": "10.22/10.89",
+        "aerialDuels": "18.33",
+        "aerialDuelsAttempted": "37.00",
+        "dribbles": "3.89/5.89",
+        "dribblesAttempted": "8.33/12.67"
+    },
+    "teamSlug": "waterford-fc",
+    "teamId": "3194",
+    "teamName": "Waterford FC",
+    "tournament": "Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-shamrock-rovers/CnbsUnb#id:15238051,tab:statistics",
+            "teams": [
+                "Waterford FC",
+                "Shamrock Rovers"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3194,
+                3177
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-st-patricks-athletic/unbsUnb#id:15238044,tab:statistics",
+            "teams": [
+                "Waterford FC",
+                "St. Patrick's Athletic"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                3194,
+                3169
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/galway-united-waterford-fc/UnbsHXeb#id:15238039,tab:statistics",
+            "teams": [
+                "Galway United",
+                "Waterford FC"
+            ],
+            "goals": [
+                4,
+                3
+            ],
+            "teamIds": [
+                137382,
+                3194
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-dundalk-fc/EnbsUnb#id:15238034,tab:statistics",
+            "teams": [
+                "Dundalk FC",
+                "Waterford FC"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                3179,
+                3194
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-bohemian-fc/ynbsUnb#id:15238029,tab:statistics",
+            "teams": [
+                "Waterford FC",
+                "Bohemian FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3194,
+                3173
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-derry-city/vnbsUnb#id:15238023,tab:statistics",
+            "teams": [
+                "Derry City",
+                "Waterford FC"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                3170,
+                3194
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-sligo-rovers/PnbsUnb#id:15238020,tab:statistics",
+            "teams": [
+                "Waterford FC",
+                "Sligo Rovers"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3194,
+                3190
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-drogheda-united/FnbsUnb#id:15238012,tab:statistics",
+            "teams": [
+                "Drogheda United",
+                "Waterford FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3180,
+                3194
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "0/9[H]",
+            "fouls": "5/13[H]",
+            "goalKicks": "17/4[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/21[H]",
+            "averageBallPossession": "26/74[H]",
+            "teams": "Waterford FC,Shamrock Rovers,Home",
+            "tackles": "24/17[H]",
+            "interceptions": "22/12[H]",
+            "aerialDuels": "9/13[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "20/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "11/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/13[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "13/22[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Waterford FC,St. Patrick's Athletic,Home",
+            "tackles": "13/15[H]",
+            "interceptions": "17/21[H]",
+            "aerialDuels": "12/24[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "15/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/2[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "5/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/9[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "3/4[A]",
+            "throwIns": "32/26[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Waterford FC,Galway United,Away",
+            "tackles": "12/12[A]",
+            "interceptions": "5/16[A]",
+            "aerialDuels": "11/8[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "7/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/9[A]",
+            "fouls": "13/9[A]",
+            "goalKicks": "10/3[A]",
+            "saves": "7/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/12[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/5[A]",
+            "throwIns": "22/23[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Waterford FC,Dundalk FC,Away",
+            "tackles": "18/9[A]",
+            "interceptions": "4/10[A]",
+            "aerialDuels": "18/14[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "2/3[A]",
+            "dribblesAttempted": "3/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "1/6[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "24/22[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Waterford FC,Bohemian FC,Home",
+            "tackles": "15/22[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "24/13[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "4/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "9/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/13[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/4[A]",
+            "throwIns": "17/28[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Waterford FC,Derry City,Away",
+            "tackles": "21/13[A]",
+            "interceptions": "7/5[A]",
+            "aerialDuels": "20/29[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "8/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/6[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "8/13[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "26/25[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Waterford FC,Sligo Rovers,Home",
+            "tackles": "23/7[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "26/25[H]",
+            "aerialDuelsAttempted": "51/51[H]",
+            "dribbles": "6/13[H]",
+            "dribblesAttempted": "8/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/6[A]",
+            "fouls": "14/17[A]",
+            "goalKicks": "3/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/2[A]",
+            "throwIns": "29/18[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Waterford FC,Drogheda United,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "25/20[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "5/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T19:54:39.227Z",
+    "endTime": "2026-04-05T19:55:24.419Z",
+    "totalTimeSeconds": 45.19,
+    "combinedMatchStatistics": {
+        "corners": "0/9[H]+6/7[H]+11/2[A]+5/9[A]+7/6[H]+2/7[A]+11/6[H]+11/6[A]",
+        "fouls": "5/13[H]+13/11[H]+12/13[A]+13/9[A]+12/9[H]+9/11[A]+13/10[H]+14/17[A]",
+        "goalKicks": "17/4[H]+8/4[H]+7/10[A]+10/3[A]+8/9[H]+7/6[A]+8/13[H]+3/7[A]",
+        "saves": "2/2[H]+11/2[H]+5/1[A]+7/3[A]+5/1[H]+9/3[A]+1/3[H]+4/3[A]",
+        "offsides": "2/2[H]+1/0[H]+0/1[A]+2/2[A]+1/1[H]+2/0[A]+1/1[H]+1/0[A]",
+        "shotsOnTarget": "3/3[H]+2/13[H]+3/9[A]+3/12[A]+1/6[H]+5/13[A]+4/1[H]+3/6[A]",
+        "yellowCards": "2/2[H]+3/1[H]+2/2[A]+2/0[A]+0/1[H]+2/1[A]+2/4[H]+1/4[A]",
+        "goals": "1/1[H]+0/2[H]+3/4[A]+0/5[A]+0/1[H]+2/4[A]+0/0[H]+0/2[A]",
+        "throwIns": "18/21[H]+13/22[H]+32/26[A]+22/23[A]+24/22[H]+17/28[A]+26/25[H]+29/18[A]",
+        "averageBallPossession": "26/74[H]+39/61[H]+58/42[A]+47/53[A]+36/64[H]+34/66[A]+48/52[H]+60/40[A]",
+        "teams": "Waterford FC,Shamrock Rovers,Home+Waterford FC,St. Patrick's Athletic,Home+Waterford FC,Galway United,Away+Waterford FC,Dundalk FC,Away+Waterford FC,Bohemian FC,Home+Waterford FC,Derry City,Away+Waterford FC,Sligo Rovers,Home+Waterford FC,Drogheda United,Away",
+        "tackles": "24/17[H]+13/15[H]+12/12[A]+18/9[A]+15/22[H]+21/13[A]+23/7[H]+13/13[A]",
+        "interceptions": "22/12[H]+17/21[H]+5/16[A]+4/10[A]+9/12[H]+7/5[A]+12/8[H]+7/8[A]",
+        "aerialDuels": "9/13[H]+12/24[H]+11/8[A]+18/14[A]+24/13[H]+20/29[A]+26/25[H]+25/20[A]",
+        "aerialDuelsAttempted": "22/22[H]+36/36[H]+19/19[A]+32/32[A]+37/37[H]+49/49[A]+51/51[H]+45/45[A]",
+        "dribbles": "4/6[H]+5/6[H]+4/4[A]+2/3[A]+3/4[H]+3/6[A]+6/13[H]+4/5[A]",
+        "dribblesAttempted": "20/17[H]+15/7[H]+7/9[A]+3/8[A]+4/14[H]+8/12[A]+8/24[H]+5/12[A]",
+        "isHome": "true+true+false+false+true+false+true+false",
+        "cornersTotals": "53/52",
+        "cornersTotalsHome": "24/28",
+        "cornersTotalsAway": "29/24",
+        "cornersAverage": "6.63/6.50",
+        "cornersAverageHome": "6.00/7.00",
+        "cornersAverageAway": "7.25/6.00",
+        "foulsTotals": "91/93",
+        "foulsTotalsHome": "43/43",
+        "foulsTotalsAway": "48/50",
+        "foulsAverage": "11.38/11.63",
+        "foulsAverageHome": "10.75/10.75",
+        "foulsAverageAway": "12.00/12.50",
+        "goalKicksTotals": "68/56",
+        "goalKicksTotalsHome": "41/30",
+        "goalKicksTotalsAway": "27/26",
+        "goalKicksAverage": "8.50/7.00",
+        "goalKicksAverageHome": "10.25/7.50",
+        "goalKicksAverageAway": "6.75/6.50",
+        "savesTotals": "44/18",
+        "savesTotalsHome": "19/8",
+        "savesTotalsAway": "25/10",
+        "savesAverage": "5.50/2.25",
+        "savesAverageHome": "4.75/2.00",
+        "savesAverageAway": "6.25/2.50",
+        "offsidesTotals": "10/7",
+        "offsidesTotalsHome": "5/4",
+        "offsidesTotalsAway": "5/3",
+        "offsidesAverage": "1.25/0.88",
+        "offsidesAverageHome": "1.25/1.00",
+        "offsidesAverageAway": "1.25/0.75",
+        "shotsOnTargetTotals": "24/63",
+        "shotsOnTargetTotalsHome": "10/23",
+        "shotsOnTargetTotalsAway": "14/40",
+        "shotsOnTargetAverage": "3.00/7.88",
+        "shotsOnTargetAverageHome": "2.50/5.75",
+        "shotsOnTargetAverageAway": "3.50/10.00",
+        "yellowCardsTotals": "14/15",
+        "yellowCardsTotalsHome": "7/8",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "1.75/1.88",
+        "yellowCardsAverageHome": "1.75/2.00",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "6/19",
+        "goalsTotalsHome": "1/4",
+        "goalsTotalsAway": "5/15",
+        "goalsAverage": "0.75/2.38",
+        "goalsAverageHome": "0.25/1.00",
+        "goalsAverageAway": "1.25/3.75",
+        "throwInsTotals": "181/185",
+        "throwInsTotalsHome": "81/90",
+        "throwInsTotalsAway": "100/95",
+        "throwInsAverage": "22.63/23.13",
+        "throwInsAverageHome": "20.25/22.50",
+        "throwInsAverageAway": "25.00/23.75",
+        "averageBallPossessionTotals": "348/452",
+        "averageBallPossessionTotalsHome": "149/251",
+        "averageBallPossessionTotalsAway": "199/201",
+        "averageBallPossessionAverage": "43.50/56.50",
+        "averageBallPossessionAverageHome": "37.25/62.75",
+        "averageBallPossessionAverageAway": "49.75/50.25",
+        "tacklesTotals": "139/108",
+        "tacklesTotalsHome": "75/61",
+        "tacklesTotalsAway": "64/47",
+        "tacklesAverage": "17.38/13.50",
+        "tacklesAverageHome": "18.75/15.25",
+        "tacklesAverageAway": "16.00/11.75",
+        "interceptionsTotals": "83/92",
+        "interceptionsTotalsHome": "60/53",
+        "interceptionsTotalsAway": "23/39",
+        "interceptionsAverage": "10.38/11.50",
+        "interceptionsAverageHome": "15.00/13.25",
+        "interceptionsAverageAway": "5.75/9.75",
+        "aerialDuelsTotals": "145/146",
+        "aerialDuelsTotalsHome": "71/75",
+        "aerialDuelsTotalsAway": "74/71",
+        "aerialDuelsAverage": "18.13/18.25",
+        "aerialDuelsAverageHome": "17.75/18.75",
+        "aerialDuelsAverageAway": "18.50/17.75",
+        "aerialDuelsAttemptedTotals": "291/291",
+        "aerialDuelsAttemptedTotalsHome": "146/146",
+        "aerialDuelsAttemptedTotalsAway": "145/145",
+        "aerialDuelsAttemptedAverage": "36.38/36.38",
+        "aerialDuelsAttemptedAverageHome": "36.50/36.50",
+        "aerialDuelsAttemptedAverageAway": "36.25/36.25",
+        "dribblesTotals": "31/47",
+        "dribblesTotalsHome": "18/29",
+        "dribblesTotalsAway": "13/18",
+        "dribblesAverage": "3.88/5.88",
+        "dribblesAverageHome": "4.50/7.25",
+        "dribblesAverageAway": "3.25/4.50",
+        "dribblesAttemptedTotals": "70/103",
+        "dribblesAttemptedTotalsHome": "47/62",
+        "dribblesAttemptedTotalsAway": "23/41",
+        "dribblesAttemptedAverage": "8.75/12.88",
+        "dribblesAttemptedAverageHome": "11.75/15.50",
+        "dribblesAttemptedAverageAway": "5.75/10.25"
+    }
+}

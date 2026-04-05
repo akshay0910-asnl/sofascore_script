@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "14.00",
+        "goalKicks": "14.00",
+        "saves": "3.00",
+        "offsides": "2.00",
+        "shotsOnTarget": "4.00/4.00",
+        "yellowCards": "3.00/2.00",
+        "goals": "2.00/1.00",
+        "throwIns": "17.00",
+        "ballPossession": 39,
+        "tackles": "13.00/16.00",
+        "interceptions": "6.00/9.00",
+        "aerialDuels": "22.00",
+        "aerialDuelsAttempted": "60.00",
+        "dribbles": "10.00/2.00",
+        "dribblesAttempted": "18.00/6.00"
+    },
+    "teamSlug": "hamkam",
+    "teamId": "666",
+    "teamName": "HamKam",
+    "tournament": "Eliteserien",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/viking-fk-hamkam/qnsoy#id:15260739,tab:statistics",
+            "teams": [
+                "HamKam",
+                "Viking FK"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                666,
+                1164
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-hamkam/qnsjy#id:13265925,tab:statistics",
+            "teams": [
+                "SK Brann",
+                "HamKam"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1159,
+                666
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/haugesund-hamkam/qnsyn#id:13265924,tab:statistics",
+            "teams": [
+                "HamKam",
+                "Haugesund"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                666,
+                673
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viking-fk-hamkam/qnsoy#id:13265914,tab:statistics",
+            "teams": [
+                "Viking FK",
+                "HamKam"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                1164,
+                666
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sandefjord-fotball-hamkam/qnsBn#id:13265902,tab:statistics",
+            "teams": [
+                "HamKam",
+                "Sandefjord Fotball"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                666,
+                676
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kristiansund-bk-hamkam/qnshu#id:13265912,tab:statistics",
+            "teams": [
+                "Kristiansund BK",
+                "HamKam"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                957,
+                666
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-hamkam/qnspy#id:13295726,tab:statistics",
+            "teams": [
+                "HamKam",
+                "Vålerenga IF"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                666,
+                1165
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fredrikstad-fk-hamkam/qnsMn#id:13295717,tab:statistics",
+            "teams": [
+                "Fredrikstad FK",
+                "HamKam"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                687,
+                666
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/11[H]",
+            "fouls": "14/14[H]",
+            "goalKicks": "14/5[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/26[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "HamKam,Viking FK,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "22/38[H]",
+            "aerialDuelsAttempted": "60/60[H]",
+            "dribbles": "10/2[H]",
+            "dribblesAttempted": "18/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "8/11[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "26/23[A]",
+            "averageBallPossession": "27/73[A]",
+            "teams": "HamKam,SK Brann,Away",
+            "tackles": "25/15[A]",
+            "interceptions": "8/4[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/5[H]",
+            "fouls": "14/7[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "2/6[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "11/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "5/0[H]",
+            "throwIns": "23/9[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "HamKam,Haugesund,Home",
+            "tackles": "9/16[H]",
+            "interceptions": "10/13[H]",
+            "aerialDuels": "7/5[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "18/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "12/4[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "22/22[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "HamKam,Viking FK,Away",
+            "tackles": "11/11[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "22/17[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "5/1[A]",
+            "dribblesAttempted": "10/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/10[H]",
+            "fouls": "17/13[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "6/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "6/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "14/17[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "HamKam,Sandefjord Fotball,Home",
+            "tackles": "12/18[H]",
+            "interceptions": "10/3[H]",
+            "aerialDuels": "14/17[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "5/9[H]",
+            "dribblesAttempted": "16/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "21/24[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "HamKam,Kristiansund BK,Away",
+            "tackles": "12/11[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "8/9[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/8[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "5/5[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/24[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "HamKam,Vålerenga IF,Home",
+            "tackles": "15/12[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "8/18[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "12/8[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "8/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/9[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "18/19[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "HamKam,Fredrikstad FK,Away",
+            "tackles": "17/12[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "16/17[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T20:02:40.692Z",
+    "endTime": "2026-04-05T20:03:26.375Z",
+    "totalTimeSeconds": 45.68,
+    "combinedMatchStatistics": {
+        "corners": "6/11[H]+3/8[A]+11/5[H]+4/4[A]+8/10[H]+7/5[A]+6/8[H]+8/7[A]",
+        "fouls": "14/14[H]+8/11[A]+14/7[H]+15/14[A]+17/13[H]+10/11[A]+13/12[H]+12/8[A]",
+        "goalKicks": "14/5[H]+8/4[A]+7/10[H]+12/4[A]+12/7[H]+9/7[A]+9/6[H]+9/7[A]",
+        "saves": "3/2[H]+5/2[A]+2/6[H]+2/3[A]+6/3[H]+4/3[A]+5/5[H]+8/4[A]",
+        "offsides": "2/4[H]+0/4[A]+0/4[H]+1/2[A]+1/2[H]+0/1[A]+3/1[H]+1/2[A]",
+        "shotsOnTarget": "4/4[H]+3/8[A]+11/2[H]+3/5[A]+6/7[H]+6/5[A]+7/6[H]+5/9[A]",
+        "yellowCards": "3/2[H]+4/1[A]+1/0[H]+4/0[A]+1/2[H]+1/2[A]+3/1[H]+1/0[A]",
+        "goals": "2/1[H]+1/3[A]+5/0[H]+0/3[A]+3/1[H]+3/1[A]+2/1[H]+1/1[A]",
+        "throwIns": "17/26[H]+26/23[A]+23/9[H]+22/22[A]+14/17[H]+21/24[A]+16/24[H]+18/19[A]",
+        "averageBallPossession": "39/61[H]+27/73[A]+55/45[H]+47/53[A]+35/65[H]+45/55[A]+39/61[H]+41/59[A]",
+        "teams": "HamKam,Viking FK,Home+HamKam,SK Brann,Away+HamKam,Haugesund,Home+HamKam,Viking FK,Away+HamKam,Sandefjord Fotball,Home+HamKam,Kristiansund BK,Away+HamKam,Vålerenga IF,Home+HamKam,Fredrikstad FK,Away",
+        "tackles": "13/16[H]+25/15[A]+9/16[H]+11/11[A]+12/18[H]+12/11[A]+15/12[H]+17/12[A]",
+        "interceptions": "6/9[H]+8/4[A]+10/13[H]+6/6[A]+10/3[H]+6/6[A]+11/8[H]+4/6[A]",
+        "aerialDuels": "22/38[H]+13/13[A]+7/5[H]+22/17[A]+14/17[H]+8/9[A]+8/18[H]+16/17[A]",
+        "aerialDuelsAttempted": "60/60[H]+26/26[A]+12/12[H]+39/39[A]+31/31[H]+17/17[A]+26/26[H]+33/33[A]",
+        "dribbles": "10/2[H]+3/9[A]+8/3[H]+5/1[A]+5/9[H]+5/6[A]+7/5[H]+7/7[A]",
+        "dribblesAttempted": "18/6[H]+14/20[A]+18/7[H]+10/8[A]+16/16[H]+11/11[A]+10/10[H]+12/16[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "53/58",
+        "cornersTotalsHome": "31/34",
+        "cornersTotalsAway": "22/24",
+        "cornersAverage": "6.63/7.25",
+        "cornersAverageHome": "7.75/8.50",
+        "cornersAverageAway": "5.50/6.00",
+        "foulsTotals": "103/90",
+        "foulsTotalsHome": "58/46",
+        "foulsTotalsAway": "45/44",
+        "foulsAverage": "12.88/11.25",
+        "foulsAverageHome": "14.50/11.50",
+        "foulsAverageAway": "11.25/11.00",
+        "goalKicksTotals": "80/50",
+        "goalKicksTotalsHome": "42/28",
+        "goalKicksTotalsAway": "38/22",
+        "goalKicksAverage": "10.00/6.25",
+        "goalKicksAverageHome": "10.50/7.00",
+        "goalKicksAverageAway": "9.50/5.50",
+        "savesTotals": "35/28",
+        "savesTotalsHome": "16/16",
+        "savesTotalsAway": "19/12",
+        "savesAverage": "4.38/3.50",
+        "savesAverageHome": "4.00/4.00",
+        "savesAverageAway": "4.75/3.00",
+        "offsidesTotals": "8/20",
+        "offsidesTotalsHome": "6/11",
+        "offsidesTotalsAway": "2/9",
+        "offsidesAverage": "1.00/2.50",
+        "offsidesAverageHome": "1.50/2.75",
+        "offsidesAverageAway": "0.50/2.25",
+        "shotsOnTargetTotals": "45/46",
+        "shotsOnTargetTotalsHome": "28/19",
+        "shotsOnTargetTotalsAway": "17/27",
+        "shotsOnTargetAverage": "5.63/5.75",
+        "shotsOnTargetAverageHome": "7.00/4.75",
+        "shotsOnTargetAverageAway": "4.25/6.75",
+        "yellowCardsTotals": "18/8",
+        "yellowCardsTotalsHome": "8/5",
+        "yellowCardsTotalsAway": "10/3",
+        "yellowCardsAverage": "2.25/1.00",
+        "yellowCardsAverageHome": "2.00/1.25",
+        "yellowCardsAverageAway": "2.50/0.75",
+        "goalsTotals": "17/11",
+        "goalsTotalsHome": "12/3",
+        "goalsTotalsAway": "5/8",
+        "goalsAverage": "2.13/1.38",
+        "goalsAverageHome": "3.00/0.75",
+        "goalsAverageAway": "1.25/2.00",
+        "throwInsTotals": "157/164",
+        "throwInsTotalsHome": "70/76",
+        "throwInsTotalsAway": "87/88",
+        "throwInsAverage": "19.63/20.50",
+        "throwInsAverageHome": "17.50/19.00",
+        "throwInsAverageAway": "21.75/22.00",
+        "averageBallPossessionTotals": "328/472",
+        "averageBallPossessionTotalsHome": "168/232",
+        "averageBallPossessionTotalsAway": "160/240",
+        "averageBallPossessionAverage": "41.00/59.00",
+        "averageBallPossessionAverageHome": "42.00/58.00",
+        "averageBallPossessionAverageAway": "40.00/60.00",
+        "tacklesTotals": "114/111",
+        "tacklesTotalsHome": "49/62",
+        "tacklesTotalsAway": "65/49",
+        "tacklesAverage": "14.25/13.88",
+        "tacklesAverageHome": "12.25/15.50",
+        "tacklesAverageAway": "16.25/12.25",
+        "interceptionsTotals": "61/55",
+        "interceptionsTotalsHome": "37/33",
+        "interceptionsTotalsAway": "24/22",
+        "interceptionsAverage": "7.63/6.88",
+        "interceptionsAverageHome": "9.25/8.25",
+        "interceptionsAverageAway": "6.00/5.50",
+        "aerialDuelsTotals": "110/134",
+        "aerialDuelsTotalsHome": "51/78",
+        "aerialDuelsTotalsAway": "59/56",
+        "aerialDuelsAverage": "13.75/16.75",
+        "aerialDuelsAverageHome": "12.75/19.50",
+        "aerialDuelsAverageAway": "14.75/14.00",
+        "aerialDuelsAttemptedTotals": "244/244",
+        "aerialDuelsAttemptedTotalsHome": "129/129",
+        "aerialDuelsAttemptedTotalsAway": "115/115",
+        "aerialDuelsAttemptedAverage": "30.50/30.50",
+        "aerialDuelsAttemptedAverageHome": "32.25/32.25",
+        "aerialDuelsAttemptedAverageAway": "28.75/28.75",
+        "dribblesTotals": "50/42",
+        "dribblesTotalsHome": "30/19",
+        "dribblesTotalsAway": "20/23",
+        "dribblesAverage": "6.25/5.25",
+        "dribblesAverageHome": "7.50/4.75",
+        "dribblesAverageAway": "5.00/5.75",
+        "dribblesAttemptedTotals": "109/94",
+        "dribblesAttemptedTotalsHome": "62/39",
+        "dribblesAttemptedTotalsAway": "47/55",
+        "dribblesAttemptedAverage": "13.63/11.75",
+        "dribblesAttemptedAverageHome": "15.50/9.75",
+        "dribblesAttemptedAverageAway": "11.75/13.75"
+    }
+}

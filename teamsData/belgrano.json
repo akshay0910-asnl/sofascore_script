@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.00",
+        "fouls": "10.73",
+        "goalKicks": "8.27",
+        "saves": "3.00",
+        "offsides": "1.45",
+        "shotsOnTarget": "3.36/3.91",
+        "yellowCards": "2.27/1.64",
+        "goals": "1.09/0.82",
+        "throwIns": "21.09",
+        "ballPossession": 49.727272727273,
+        "tackles": "18.55/18.45",
+        "interceptions": "9.00/10.64",
+        "aerialDuels": "12.36",
+        "aerialDuelsAttempted": "26.64",
+        "dribbles": "7.36/5.64",
+        "dribblesAttempted": "19.45/15.09"
+    },
+    "teamSlug": "belgrano",
+    "teamId": "3203",
+    "teamName": "Club Atlético Belgrano",
+    "tournament": "Liga Profesional de Fútbol",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/racing-club-club-atletico-belgrano/dobspob#id:15270045,tab:statistics",
+            "teams": [
+                "Club Atlético Belgrano",
+                "Racing Club"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                3203,
+                3215
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/talleres-club-atletico-belgrano/dobskob#id:15270016,tab:statistics",
+            "teams": [
+                "Club Atlético Belgrano",
+                "CA Talleres"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3203,
+                3210
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/estudiantes-de-rio-cuarto-club-atletico-belgrano/dobsUIgc#id:15270015,tab:statistics",
+            "teams": [
+                "Estudiantes de Río Cuarto",
+                "Club Atlético Belgrano"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                266694,
+                3203
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/huracan-club-atletico-belgrano/dobsEcd#id:15269958,tab:statistics",
+            "teams": [
+                "Huracán",
+                "Club Atlético Belgrano"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                7629,
+                3203
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atletico-tucuman-club-atletico-belgrano/dobsILo#id:15270142,tab:statistics",
+            "teams": [
+                "Club Atlético Belgrano",
+                "Atlético Tucumán"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                3203,
+                36833
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/defensa-y-justicia-club-atletico-belgrano/dobsOLo#id:15270122,tab:statistics",
+            "teams": [
+                "Defensa y Justicia",
+                "Club Atlético Belgrano"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                36839,
+                3203
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-rivadavia-club-atletico-belgrano/dobsRLo#id:15270115,tab:statistics",
+            "teams": [
+                "Independiente Rivadavia",
+                "Club Atlético Belgrano"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                36842,
+                3203
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-club-atletico-belgrano/dobsuob#id:15270098,tab:statistics",
+            "teams": [
+                "Club Atlético Belgrano",
+                "Banfield"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3203,
+                3219
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/2[H]",
+            "fouls": "8/17[H]",
+            "goalKicks": "2/10[H]",
+            "saves": "2/4[H]",
+            "offsides": "5/4[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "26/21[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Club Atlético Belgrano,Racing Club,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "12/21[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "10/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/3[H]",
+            "fouls": "17/16[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "2/0[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "0/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "19/24[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Club Atlético Belgrano,CA Talleres,Home",
+            "tackles": "21/17[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "23/9[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "6/2[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "10/4[A]",
+            "goalKicks": "14/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "28/36[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Club Atlético Belgrano,Estudiantes de Río Cuarto,Away",
+            "tackles": "26/20[A]",
+            "interceptions": "11/9[A]",
+            "aerialDuels": "13/31[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "24/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "8/13[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "20/10[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Club Atlético Belgrano,Huracán,Away",
+            "tackles": "10/26[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "9/11[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "14/9[A]",
+            "dribblesAttempted": "34/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/5[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "11/5[H]",
+            "saves": "1/1[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "17/26[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Club Atlético Belgrano,Atlético Tucumán,Home",
+            "tackles": "18/29[H]",
+            "interceptions": "7/12[H]",
+            "aerialDuels": "6/7[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "31/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/25[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Club Atlético Belgrano,Defensa y Justicia,Away",
+            "tackles": "19/15[A]",
+            "interceptions": "14/13[A]",
+            "aerialDuels": "10/7[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "13/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/8[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "11/10[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/25[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Club Atlético Belgrano,Independiente Rivadavia,Away",
+            "tackles": "16/13[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "13/9[A]",
+            "dribblesAttempted": "20/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/1[H]",
+            "fouls": "16/9[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "2/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "24/16[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Club Atlético Belgrano,Banfield,Home",
+            "tackles": "16/17[H]",
+            "interceptions": "3/10[H]",
+            "aerialDuels": "10/9[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "16/13[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T19:39:42.103Z",
+    "endTime": "2026-04-05T19:40:02.466Z",
+    "totalTimeSeconds": 20.36,
+    "combinedMatchStatistics": {
+        "corners": "8/2[H]+1/3[H]+2/8[A]+3/3[A]+0/5[H]+3/5[A]+5/8[A]+11/1[H]",
+        "fouls": "8/17[H]+17/16[H]+10/4[A]+11/12[A]+12/14[H]+9/7[A]+12/14[A]+16/9[H]",
+        "goalKicks": "2/10[H]+6/7[H]+14/6[A]+8/13[A]+11/5[H]+9/11[A]+11/10[A]+3/6[H]",
+        "saves": "2/4[H]+2/0[H]+2/1[A]+4/1[A]+1/1[H]+2/2[A]+3/2[A]+2/6[H]",
+        "offsides": "5/4[H]+1/2[H]+1/1[A]+1/3[A]+0/1[H]+2/3[A]+1/2[A]+0/2[H]",
+        "shotsOnTarget": "5/4[H]+0/2[H]+1/2[A]+2/7[A]+4/2[H]+3/3[A]+3/3[A]+7/3[H]",
+        "yellowCards": "3/4[H]+3/1[H]+2/1[A]+2/2[A]+3/1[H]+3/2[A]+2/2[A]+4/2[H]",
+        "goals": "1/2[H]+0/0[H]+1/0[A]+1/3[A]+3/1[H]+1/1[A]+1/0[A]+1/0[H]",
+        "throwIns": "26/21[H]+19/24[H]+28/36[A]+20/10[A]+17/26[H]+24/25[A]+16/25[A]+24/16[H]",
+        "averageBallPossession": "46/54[H]+48/52[H]+46/54[A]+49/51[A]+50/50[H]+43/57[A]+52/48[A]+63/37[H]",
+        "teams": "Club Atlético Belgrano,Racing Club,Home+Club Atlético Belgrano,CA Talleres,Home+Club Atlético Belgrano,Estudiantes de Río Cuarto,Away+Club Atlético Belgrano,Huracán,Away+Club Atlético Belgrano,Atlético Tucumán,Home+Club Atlético Belgrano,Defensa y Justicia,Away+Club Atlético Belgrano,Independiente Rivadavia,Away+Club Atlético Belgrano,Banfield,Home",
+        "tackles": "12/17[H]+21/17[H]+26/20[A]+10/26[A]+18/29[H]+19/15[A]+16/13[A]+16/17[H]",
+        "interceptions": "9/7[H]+5/7[H]+11/9[A]+11/11[A]+7/12[H]+14/13[A]+8/7[A]+3/10[H]",
+        "aerialDuels": "12/21[H]+23/9[H]+13/31[A]+9/11[A]+6/7[H]+10/7[A]+13/13[A]+10/9[H]",
+        "aerialDuelsAttempted": "33/33[H]+32/32[H]+44/44[A]+20/20[A]+13/13[H]+17/17[A]+26/26[A]+19/19[H]",
+        "dribbles": "6/3[H]+6/2[H]+9/5[A]+14/9[A]+6/4[H]+3/5[A]+13/9[A]+6/6[H]",
+        "dribblesAttempted": "10/8[H]+14/15[H]+24/16[A]+34/12[A]+31/11[H]+13/15[A]+20/21[A]+16/13[H]",
+        "isHome": "true+true+false+false+true+false+false+true",
+        "cornersTotals": "33/35",
+        "cornersTotalsHome": "20/11",
+        "cornersTotalsAway": "13/24",
+        "cornersAverage": "4.13/4.38",
+        "cornersAverageHome": "5.00/2.75",
+        "cornersAverageAway": "3.25/6.00",
+        "foulsTotals": "95/93",
+        "foulsTotalsHome": "53/56",
+        "foulsTotalsAway": "42/37",
+        "foulsAverage": "11.88/11.63",
+        "foulsAverageHome": "13.25/14.00",
+        "foulsAverageAway": "10.50/9.25",
+        "goalKicksTotals": "64/68",
+        "goalKicksTotalsHome": "22/28",
+        "goalKicksTotalsAway": "42/40",
+        "goalKicksAverage": "8.00/8.50",
+        "goalKicksAverageHome": "5.50/7.00",
+        "goalKicksAverageAway": "10.50/10.00",
+        "savesTotals": "18/17",
+        "savesTotalsHome": "7/11",
+        "savesTotalsAway": "11/6",
+        "savesAverage": "2.25/2.13",
+        "savesAverageHome": "1.75/2.75",
+        "savesAverageAway": "2.75/1.50",
+        "offsidesTotals": "11/18",
+        "offsidesTotalsHome": "6/9",
+        "offsidesTotalsAway": "5/9",
+        "offsidesAverage": "1.38/2.25",
+        "offsidesAverageHome": "1.50/2.25",
+        "offsidesAverageAway": "1.25/2.25",
+        "shotsOnTargetTotals": "25/26",
+        "shotsOnTargetTotalsHome": "16/11",
+        "shotsOnTargetTotalsAway": "9/15",
+        "shotsOnTargetAverage": "3.13/3.25",
+        "shotsOnTargetAverageHome": "4.00/2.75",
+        "shotsOnTargetAverageAway": "2.25/3.75",
+        "yellowCardsTotals": "22/15",
+        "yellowCardsTotalsHome": "13/8",
+        "yellowCardsTotalsAway": "9/7",
+        "yellowCardsAverage": "2.75/1.88",
+        "yellowCardsAverageHome": "3.25/2.00",
+        "yellowCardsAverageAway": "2.25/1.75",
+        "goalsTotals": "9/7",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "4/4",
+        "goalsAverage": "1.13/0.88",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "1.00/1.00",
+        "throwInsTotals": "174/183",
+        "throwInsTotalsHome": "86/87",
+        "throwInsTotalsAway": "88/96",
+        "throwInsAverage": "21.75/22.88",
+        "throwInsAverageHome": "21.50/21.75",
+        "throwInsAverageAway": "22.00/24.00",
+        "averageBallPossessionTotals": "397/403",
+        "averageBallPossessionTotalsHome": "207/193",
+        "averageBallPossessionTotalsAway": "190/210",
+        "averageBallPossessionAverage": "49.63/50.38",
+        "averageBallPossessionAverageHome": "51.75/48.25",
+        "averageBallPossessionAverageAway": "47.50/52.50",
+        "tacklesTotals": "138/154",
+        "tacklesTotalsHome": "67/80",
+        "tacklesTotalsAway": "71/74",
+        "tacklesAverage": "17.25/19.25",
+        "tacklesAverageHome": "16.75/20.00",
+        "tacklesAverageAway": "17.75/18.50",
+        "interceptionsTotals": "68/76",
+        "interceptionsTotalsHome": "24/36",
+        "interceptionsTotalsAway": "44/40",
+        "interceptionsAverage": "8.50/9.50",
+        "interceptionsAverageHome": "6.00/9.00",
+        "interceptionsAverageAway": "11.00/10.00",
+        "aerialDuelsTotals": "96/108",
+        "aerialDuelsTotalsHome": "51/46",
+        "aerialDuelsTotalsAway": "45/62",
+        "aerialDuelsAverage": "12.00/13.50",
+        "aerialDuelsAverageHome": "12.75/11.50",
+        "aerialDuelsAverageAway": "11.25/15.50",
+        "aerialDuelsAttemptedTotals": "204/204",
+        "aerialDuelsAttemptedTotalsHome": "97/97",
+        "aerialDuelsAttemptedTotalsAway": "107/107",
+        "aerialDuelsAttemptedAverage": "25.50/25.50",
+        "aerialDuelsAttemptedAverageHome": "24.25/24.25",
+        "aerialDuelsAttemptedAverageAway": "26.75/26.75",
+        "dribblesTotals": "63/43",
+        "dribblesTotalsHome": "24/15",
+        "dribblesTotalsAway": "39/28",
+        "dribblesAverage": "7.88/5.38",
+        "dribblesAverageHome": "6.00/3.75",
+        "dribblesAverageAway": "9.75/7.00",
+        "dribblesAttemptedTotals": "162/111",
+        "dribblesAttemptedTotalsHome": "71/47",
+        "dribblesAttemptedTotalsAway": "91/64",
+        "dribblesAttemptedAverage": "20.25/13.88",
+        "dribblesAttemptedAverageHome": "17.75/11.75",
+        "dribblesAttemptedAverageAway": "22.75/16.00"
+    }
+}

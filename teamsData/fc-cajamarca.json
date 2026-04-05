@@ -1,0 +1,403 @@
+{
+    "globalStatistics": {
+        "corners": "3.00",
+        "fouls": "13.13",
+        "goalKicks": "10.25",
+        "saves": "3.63",
+        "offsides": "0.63",
+        "shotsOnTarget": "2.75/5.75",
+        "yellowCards": "2.38/2.25",
+        "goals": "1.25/2.00",
+        "throwIns": "18.13",
+        "ballPossession": 46.625,
+        "tackles": "13.25/13.88",
+        "interceptions": "8.00/8.63",
+        "aerialDuels": "15.25",
+        "aerialDuelsAttempted": "30.38",
+        "dribbles": "5.75/5.88",
+        "dribblesAttempted": "12.13/11.75"
+    },
+    "teamSlug": "fc-cajamarca",
+    "teamId": "1082002",
+    "teamName": "FC Cajamarca",
+    "tournament": "Liga 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-cienciano/bWscPHi#id:15655433,tab:statistics",
+            "teams": [
+                "Cienciano",
+                "FC Cajamarca"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                2301,
+                1082002
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-comerciantes-unidos/jxKbscPHi#id:15607093,tab:statistics",
+            "teams": [
+                "FC Cajamarca",
+                "Comerciantes Unidos"
+            ],
+            "goals": [
+                3,
+                4
+            ],
+            "teamIds": [
+                1082002,
+                213609
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-club-atletico-grau/NancscPHi#id:15590541,tab:statistics",
+            "teams": [
+                "Club Atlético Grau",
+                "FC Cajamarca"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                282538,
+                1082002
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-universitario-de-deportes/fWscPHi#id:15536571,tab:statistics",
+            "teams": [
+                "Universitario de Deportes",
+                "FC Cajamarca"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2305,
+                1082002
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-melgar/iWscPHi#id:15446515,tab:statistics",
+            "teams": [
+                "FC Cajamarca",
+                "Melgar"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1082002,
+                2308
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-sport-huancayo/VCnscPHi#id:15445908,tab:statistics",
+            "teams": [
+                "Sport Huancayo",
+                "FC Cajamarca"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                33895,
+                1082002
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cajamarca-deportivo-garcilaso/JwIdscPHi#id:15438956,tab:statistics",
+            "teams": [
+                "FC Cajamarca",
+                "Deportivo Garcilaso"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1082002,
+                458584
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 3,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "0/9[A]",
+            "fouls": "7/10[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "10/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "0/15[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "16/18[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "FC Cajamarca,Cienciano,Away",
+            "tackles": "6/19[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "7/11[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "16/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "3/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "3/4[H]",
+            "throwIns": "21/29[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "FC Cajamarca,Comerciantes Unidos,Home",
+            "tackles": "8/17[H]",
+            "interceptions": "2/6[H]",
+            "aerialDuels": "20/14[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "13/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/3[A]",
+            "fouls": "11/17[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/8[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "FC Cajamarca,Club Atlético Grau,Away",
+            "tackles": "18/19[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "11/22[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "21/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "9/4[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "0/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "16/26[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "FC Cajamarca,Universitario de Deportes,Away",
+            "tackles": "26/16[A]",
+            "interceptions": "15/8[A]",
+            "aerialDuels": "20/15[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "4/9[A]",
+            "dribblesAttempted": "11/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "23/23[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "FC Cajamarca,Melgar,Home",
+            "tackles": "13/9[H]",
+            "interceptions": "7/10[H]",
+            "aerialDuels": "28/24[H]",
+            "aerialDuelsAttempted": "52/52[H]",
+            "dribbles": "5/1[H]",
+            "dribblesAttempted": "9/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "13/14[A]",
+            "saves": "1/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "FC Cajamarca,Sport Huancayo,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "12/18[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "2/3[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "23/9[H]",
+            "goalKicks": "15/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "7/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "12/21[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "FC Cajamarca,Deportivo Garcilaso,Home",
+            "tackles": "13/8[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "8/10[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T23:11:32.472Z",
+    "endTime": "2026-04-05T23:12:02.075Z",
+    "totalTimeSeconds": 29.6,
+    "combinedMatchStatistics": {
+        "corners": "0/9[A]+3/6[H]+1/3[A]+2/5[A]+5/7[H]+6/5[A]+3/6[H]",
+        "fouls": "7/10[A]+11/10[H]+11/17[A]+9/4[A]+11/13[H]+18/14[A]+23/9[H]",
+        "goalKicks": "13/5[A]+10/7[H]+6/9[A]+11/4[A]+6/7[H]+13/14[A]+15/9[H]",
+        "saves": "10/0[A]+3/2[H]+5/1[A]+0/3[A]+2/3[H]+1/1[A]+5/1[H]",
+        "offsides": "2/1[A]+0/2[H]+1/3[A]+1/3[A]+0/0[H]+0/1[A]+1/1[H]",
+        "shotsOnTarget": "0/15[A]+5/7[H]+1/6[A]+3/1[A]+6/3[H]+1/2[A]+2/6[H]",
+        "yellowCards": "0/0[A]+2/5[H]+1/3[A]+0/0[A]+3/3[H]+2/2[A]+7/2[H]",
+        "goals": "0/3[A]+3/4[H]+0/1[A]+0/1[A]+3/1[H]+0/2[A]+1/1[H]",
+        "throwIns": "16/18[A]+21/29[H]+24/8[A]+16/26[A]+23/23[H]+16/17[A]+12/21[H]",
+        "averageBallPossession": "30/70[A]+47/53[H]+59/41[A]+38/62[A]+57/43[H]+53/47[A]+43/57[H]",
+        "teams": "FC Cajamarca,Cienciano,Away+FC Cajamarca,Comerciantes Unidos,Home+FC Cajamarca,Club Atlético Grau,Away+FC Cajamarca,Universitario de Deportes,Away+FC Cajamarca,Melgar,Home+FC Cajamarca,Sport Huancayo,Away+FC Cajamarca,Deportivo Garcilaso,Home",
+        "tackles": "6/19[A]+8/17[H]+18/19[A]+26/16[A]+13/9[H]+15/14[A]+13/8[H]",
+        "interceptions": "8/7[A]+2/6[H]+7/8[A]+15/8[A]+7/10[H]+7/12[A]+9/6[H]",
+        "aerialDuels": "7/11[A]+20/14[H]+11/22[A]+20/15[A]+28/24[H]+12/18[A]+8/10[H]",
+        "aerialDuelsAttempted": "18/18[A]+34/34[H]+33/33[A]+35/35[A]+52/52[H]+30/30[A]+18/18[H]",
+        "dribbles": "7/5[A]+8/9[H]+8/8[A]+4/9[A]+5/1[H]+2/3[A]+5/7[H]",
+        "dribblesAttempted": "16/8[A]+13/13[H]+21/16[A]+11/21[A]+9/5[H]+8/9[A]+9/15[H]",
+        "isHome": "false+true+false+false+true+false+true",
+        "cornersTotals": "20/41",
+        "cornersTotalsHome": "11/19",
+        "cornersTotalsAway": "9/22",
+        "cornersAverage": "2.86/5.86",
+        "cornersAverageHome": "3.67/6.33",
+        "cornersAverageAway": "2.25/5.50",
+        "foulsTotals": "90/77",
+        "foulsTotalsHome": "45/32",
+        "foulsTotalsAway": "45/45",
+        "foulsAverage": "12.86/11.00",
+        "foulsAverageHome": "15.00/10.67",
+        "foulsAverageAway": "11.25/11.25",
+        "goalKicksTotals": "74/55",
+        "goalKicksTotalsHome": "31/23",
+        "goalKicksTotalsAway": "43/32",
+        "goalKicksAverage": "10.57/7.86",
+        "goalKicksAverageHome": "10.33/7.67",
+        "goalKicksAverageAway": "10.75/8.00",
+        "savesTotals": "26/11",
+        "savesTotalsHome": "10/6",
+        "savesTotalsAway": "16/5",
+        "savesAverage": "3.71/1.57",
+        "savesAverageHome": "3.33/2.00",
+        "savesAverageAway": "4.00/1.25",
+        "offsidesTotals": "5/11",
+        "offsidesTotalsHome": "1/3",
+        "offsidesTotalsAway": "4/8",
+        "offsidesAverage": "0.71/1.57",
+        "offsidesAverageHome": "0.33/1.00",
+        "offsidesAverageAway": "1.00/2.00",
+        "shotsOnTargetTotals": "18/40",
+        "shotsOnTargetTotalsHome": "13/16",
+        "shotsOnTargetTotalsAway": "5/24",
+        "shotsOnTargetAverage": "2.57/5.71",
+        "shotsOnTargetAverageHome": "4.33/5.33",
+        "shotsOnTargetAverageAway": "1.25/6.00",
+        "yellowCardsTotals": "15/15",
+        "yellowCardsTotalsHome": "12/10",
+        "yellowCardsTotalsAway": "3/5",
+        "yellowCardsAverage": "2.14/2.14",
+        "yellowCardsAverageHome": "4.00/3.33",
+        "yellowCardsAverageAway": "0.75/1.25",
+        "goalsTotals": "7/13",
+        "goalsTotalsHome": "7/6",
+        "goalsTotalsAway": "0/7",
+        "goalsAverage": "1.00/1.86",
+        "goalsAverageHome": "2.33/2.00",
+        "goalsAverageAway": "0.00/1.75",
+        "throwInsTotals": "128/142",
+        "throwInsTotalsHome": "56/73",
+        "throwInsTotalsAway": "72/69",
+        "throwInsAverage": "18.29/20.29",
+        "throwInsAverageHome": "18.67/24.33",
+        "throwInsAverageAway": "18.00/17.25",
+        "averageBallPossessionTotals": "327/373",
+        "averageBallPossessionTotalsHome": "147/153",
+        "averageBallPossessionTotalsAway": "180/220",
+        "averageBallPossessionAverage": "46.71/53.29",
+        "averageBallPossessionAverageHome": "49.00/51.00",
+        "averageBallPossessionAverageAway": "45.00/55.00",
+        "tacklesTotals": "99/102",
+        "tacklesTotalsHome": "34/34",
+        "tacklesTotalsAway": "65/68",
+        "tacklesAverage": "14.14/14.57",
+        "tacklesAverageHome": "11.33/11.33",
+        "tacklesAverageAway": "16.25/17.00",
+        "interceptionsTotals": "55/57",
+        "interceptionsTotalsHome": "18/22",
+        "interceptionsTotalsAway": "37/35",
+        "interceptionsAverage": "7.86/8.14",
+        "interceptionsAverageHome": "6.00/7.33",
+        "interceptionsAverageAway": "9.25/8.75",
+        "aerialDuelsTotals": "106/114",
+        "aerialDuelsTotalsHome": "56/48",
+        "aerialDuelsTotalsAway": "50/66",
+        "aerialDuelsAverage": "15.14/16.29",
+        "aerialDuelsAverageHome": "18.67/16.00",
+        "aerialDuelsAverageAway": "12.50/16.50",
+        "aerialDuelsAttemptedTotals": "220/220",
+        "aerialDuelsAttemptedTotalsHome": "104/104",
+        "aerialDuelsAttemptedTotalsAway": "116/116",
+        "aerialDuelsAttemptedAverage": "31.43/31.43",
+        "aerialDuelsAttemptedAverageHome": "34.67/34.67",
+        "aerialDuelsAttemptedAverageAway": "29.00/29.00",
+        "dribblesTotals": "39/42",
+        "dribblesTotalsHome": "18/17",
+        "dribblesTotalsAway": "21/25",
+        "dribblesAverage": "5.57/6.00",
+        "dribblesAverageHome": "6.00/5.67",
+        "dribblesAverageAway": "5.25/6.25",
+        "dribblesAttemptedTotals": "87/87",
+        "dribblesAttemptedTotalsHome": "31/33",
+        "dribblesAttemptedTotalsAway": "56/54",
+        "dribblesAttemptedAverage": "12.43/12.43",
+        "dribblesAttemptedAverageHome": "10.33/11.00",
+        "dribblesAttemptedAverageAway": "14.00/13.50"
+    }
+}

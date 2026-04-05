@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.67",
+        "fouls": "13.50",
+        "goalKicks": "11.17",
+        "saves": "2.17",
+        "offsides": "1.17",
+        "shotsOnTarget": "5.33/2.50",
+        "yellowCards": "2.33/2.67",
+        "goals": "0.83/0.33",
+        "throwIns": "23.00",
+        "ballPossession": 51,
+        "tackles": "15.33/11.50",
+        "interceptions": "7.50/8.67",
+        "aerialDuels": "11.67",
+        "aerialDuelsAttempted": "24.33",
+        "dribbles": "4.67/5.33",
+        "dribblesAttempted": "11.00/12.00"
+    },
+    "teamSlug": "macara",
+    "teamId": "6001",
+    "teamName": "Macará",
+    "tournament": "LigaPro Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/macara-deportivo-cuenca/bfcsbvc#id:15502490,tab:statistics",
+            "teams": [
+                "Deportivo Cuenca",
+                "Macará"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5251,
+                6001
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/delfin-macara/bvcsNxKb#id:15502485,tab:statistics",
+            "teams": [
+                "Macará",
+                "Delfín"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6001,
+                213638
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mushuc-runa-sc-macara/bvcsBZdb#id:15502474,tab:statistics",
+            "teams": [
+                "Mushuc Runa SC",
+                "Macará"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                134976,
+                6001
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/tecnico-universitario-macara/bvcsQNi#id:15502466,tab:statistics",
+            "teams": [
+                "Macará",
+                "Técnico Universitario"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6001,
+                21941
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macara-ldu/hfcsbvc#id:15502459,tab:statistics",
+            "teams": [
+                "LDU",
+                "Macará"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                5257,
+                6001
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leones-del-norte-macara/bvcsJofd#id:15502454,tab:statistics",
+            "teams": [
+                "Macará",
+                "Leones del Norte"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                6001,
+                388234
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macara-aucas/Zecsbvc#id:15195591,tab:statistics",
+            "teams": [
+                "Aucas",
+                "Macará"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                5249,
+                6001
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macara-deportivo-cuenca/bfcsbvc#id:15195588,tab:statistics",
+            "teams": [
+                "Macará",
+                "Deportivo Cuenca"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                6001,
+                5251
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "13/9[A]",
+            "saves": "0/5[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "6/1[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "15/22[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Macará,Deportivo Cuenca,Away",
+            "tackles": "9/9[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "14/16[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "7/4[A]",
+            "dribblesAttempted": "11/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "14/6[H]",
+            "goalKicks": "12/10[H]",
+            "saves": "4/7[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "26/25[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Macará,Delfín,Home",
+            "tackles": "15/6[H]",
+            "interceptions": "14/12[H]",
+            "aerialDuels": "13/7[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "7/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "10/9[A]",
+            "goalKicks": "14/6[A]",
+            "saves": "2/5[A]",
+            "offsides": "0/5[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "27/12[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Macará,Mushuc Runa SC,Away",
+            "tackles": "17/9[A]",
+            "interceptions": "3/7[A]",
+            "aerialDuels": "8/15[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "6/11[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "11/12[H]",
+            "saves": "1/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "5/5[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/21[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Macará,Técnico Universitario,Home",
+            "tackles": "18/11[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "10/9[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "1/4[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "24/29[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Macará,LDU,Away",
+            "tackles": "15/17[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "6/19[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "13/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "20/12[H]",
+            "goalKicks": "7/16[H]",
+            "saves": "2/4[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "28/17[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Macará,Leones del Norte,Home",
+            "tackles": "18/17[H]",
+            "interceptions": "3/11[H]",
+            "aerialDuels": "19/10[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "11/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "10/9[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "6/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "20/7[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Macará,Aucas,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "7/4[A]",
+            "aerialDuels": "12/16[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "6/1[A]",
+            "dribblesAttempted": "16/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "12/15[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "1/5[H]",
+            "offsides": "0/6[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "17/20[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Macará,Deportivo Cuenca,Home",
+            "tackles": "11/10[H]",
+            "interceptions": "10/2[H]",
+            "aerialDuels": "9/18[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "12/13[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T19:49:18.119Z",
+    "endTime": "2026-04-05T19:49:52.902Z",
+    "totalTimeSeconds": 34.78,
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+4/4[H]+2/6[A]+2/7[H]+5/3[A]+6/7[H]+2/6[A]+4/2[H]",
+        "fouls": "13/11[A]+14/6[H]+10/9[A]+12/13[H]+12/12[A]+20/12[H]+10/9[A]+12/15[H]",
+        "goalKicks": "13/9[A]+12/10[H]+14/6[A]+11/12[H]+10/6[A]+7/16[H]+8/9[A]+9/11[H]",
+        "saves": "0/5[A]+4/7[H]+2/5[A]+1/2[H]+4/4[A]+2/4[H]+6/0[A]+1/5[H]",
+        "offsides": "0/4[A]+1/0[H]+0/5[A]+0/2[H]+4/3[A]+2/4[H]+0/1[A]+0/6[H]",
+        "shotsOnTarget": "6/1[A]+8/4[H]+5/2[A]+3/2[H]+6/4[A]+4/2[H]+2/6[A]+5/1[H]",
+        "yellowCards": "3/3[A]+0/2[H]+2/3[A]+5/5[H]+2/1[A]+2/2[H]+2/2[A]+2/4[H]",
+        "goals": "1/1[A]+1/0[H]+0/0[A]+1/1[H]+2/0[A]+0/0[H]+2/0[A]+0/1[H]",
+        "throwIns": "15/22[A]+26/25[H]+27/12[A]+18/21[H]+24/29[A]+28/17[H]+20/7[A]+17/20[H]",
+        "averageBallPossession": "54/46[A]+56/44[H]+42/58[A]+56/44[H]+45/55[A]+53/47[H]+42/58[A]+47/53[H]",
+        "teams": "Macará,Deportivo Cuenca,Away+Macará,Delfín,Home+Macará,Mushuc Runa SC,Away+Macará,Técnico Universitario,Home+Macará,LDU,Away+Macará,Leones del Norte,Home+Macará,Aucas,Away+Macará,Deportivo Cuenca,Home",
+        "tackles": "9/9[A]+15/6[H]+17/9[A]+18/11[H]+15/17[A]+18/17[H]+15/16[A]+11/10[H]",
+        "interceptions": "10/7[A]+14/12[H]+3/7[A]+5/6[H]+10/9[A]+3/11[H]+7/4[A]+10/2[H]",
+        "aerialDuels": "14/16[A]+13/7[H]+8/15[A]+10/9[H]+6/19[A]+19/10[H]+12/16[A]+9/18[H]",
+        "aerialDuelsAttempted": "30/30[A]+20/20[H]+23/23[A]+19/19[H]+25/25[A]+29/29[H]+28/28[A]+27/27[H]",
+        "dribbles": "7/4[A]+6/6[H]+6/11[A]+1/4[H]+4/4[A]+4/3[H]+6/1[A]+7/6[H]",
+        "dribblesAttempted": "11/6[A]+7/14[H]+14/20[A]+10/10[H]+13/12[A]+11/10[H]+16/7[A]+12/13[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "28/41",
+        "cornersTotalsHome": "16/20",
+        "cornersTotalsAway": "12/21",
+        "cornersAverage": "3.50/5.13",
+        "cornersAverageHome": "4.00/5.00",
+        "cornersAverageAway": "3.00/5.25",
+        "foulsTotals": "103/87",
+        "foulsTotalsHome": "58/46",
+        "foulsTotalsAway": "45/41",
+        "foulsAverage": "12.88/10.88",
+        "foulsAverageHome": "14.50/11.50",
+        "foulsAverageAway": "11.25/10.25",
+        "goalKicksTotals": "84/79",
+        "goalKicksTotalsHome": "39/49",
+        "goalKicksTotalsAway": "45/30",
+        "goalKicksAverage": "10.50/9.88",
+        "goalKicksAverageHome": "9.75/12.25",
+        "goalKicksAverageAway": "11.25/7.50",
+        "savesTotals": "20/32",
+        "savesTotalsHome": "8/18",
+        "savesTotalsAway": "12/14",
+        "savesAverage": "2.50/4.00",
+        "savesAverageHome": "2.00/4.50",
+        "savesAverageAway": "3.00/3.50",
+        "offsidesTotals": "7/25",
+        "offsidesTotalsHome": "3/12",
+        "offsidesTotalsAway": "4/13",
+        "offsidesAverage": "0.88/3.13",
+        "offsidesAverageHome": "0.75/3.00",
+        "offsidesAverageAway": "1.00/3.25",
+        "shotsOnTargetTotals": "39/22",
+        "shotsOnTargetTotalsHome": "20/9",
+        "shotsOnTargetTotalsAway": "19/13",
+        "shotsOnTargetAverage": "4.88/2.75",
+        "shotsOnTargetAverageHome": "5.00/2.25",
+        "shotsOnTargetAverageAway": "4.75/3.25",
+        "yellowCardsTotals": "18/22",
+        "yellowCardsTotalsHome": "9/13",
+        "yellowCardsTotalsAway": "9/9",
+        "yellowCardsAverage": "2.25/2.75",
+        "yellowCardsAverageHome": "2.25/3.25",
+        "yellowCardsAverageAway": "2.25/2.25",
+        "goalsTotals": "7/3",
+        "goalsTotalsHome": "2/2",
+        "goalsTotalsAway": "5/1",
+        "goalsAverage": "0.88/0.38",
+        "goalsAverageHome": "0.50/0.50",
+        "goalsAverageAway": "1.25/0.25",
+        "throwInsTotals": "175/153",
+        "throwInsTotalsHome": "89/83",
+        "throwInsTotalsAway": "86/70",
+        "throwInsAverage": "21.88/19.13",
+        "throwInsAverageHome": "22.25/20.75",
+        "throwInsAverageAway": "21.50/17.50",
+        "averageBallPossessionTotals": "395/405",
+        "averageBallPossessionTotalsHome": "212/188",
+        "averageBallPossessionTotalsAway": "183/217",
+        "averageBallPossessionAverage": "49.38/50.63",
+        "averageBallPossessionAverageHome": "53.00/47.00",
+        "averageBallPossessionAverageAway": "45.75/54.25",
+        "tacklesTotals": "118/95",
+        "tacklesTotalsHome": "62/44",
+        "tacklesTotalsAway": "56/51",
+        "tacklesAverage": "14.75/11.88",
+        "tacklesAverageHome": "15.50/11.00",
+        "tacklesAverageAway": "14.00/12.75",
+        "interceptionsTotals": "62/58",
+        "interceptionsTotalsHome": "32/31",
+        "interceptionsTotalsAway": "30/27",
+        "interceptionsAverage": "7.75/7.25",
+        "interceptionsAverageHome": "8.00/7.75",
+        "interceptionsAverageAway": "7.50/6.75",
+        "aerialDuelsTotals": "91/110",
+        "aerialDuelsTotalsHome": "51/44",
+        "aerialDuelsTotalsAway": "40/66",
+        "aerialDuelsAverage": "11.38/13.75",
+        "aerialDuelsAverageHome": "12.75/11.00",
+        "aerialDuelsAverageAway": "10.00/16.50",
+        "aerialDuelsAttemptedTotals": "201/201",
+        "aerialDuelsAttemptedTotalsHome": "95/95",
+        "aerialDuelsAttemptedTotalsAway": "106/106",
+        "aerialDuelsAttemptedAverage": "25.13/25.13",
+        "aerialDuelsAttemptedAverageHome": "23.75/23.75",
+        "aerialDuelsAttemptedAverageAway": "26.50/26.50",
+        "dribblesTotals": "41/39",
+        "dribblesTotalsHome": "18/19",
+        "dribblesTotalsAway": "23/20",
+        "dribblesAverage": "5.13/4.88",
+        "dribblesAverageHome": "4.50/4.75",
+        "dribblesAverageAway": "5.75/5.00",
+        "dribblesAttemptedTotals": "94/92",
+        "dribblesAttemptedTotalsHome": "40/47",
+        "dribblesAttemptedTotalsAway": "54/45",
+        "dribblesAttemptedAverage": "11.75/11.50",
+        "dribblesAttemptedAverageHome": "10.00/11.75",
+        "dribblesAttemptedAverageAway": "13.50/11.25"
+    }
+}

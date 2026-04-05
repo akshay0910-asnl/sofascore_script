@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.00",
+        "fouls": "11.89",
+        "goalKicks": "6.44",
+        "saves": "1.89",
+        "offsides": "1.11",
+        "shotsOnTarget": "5.44/2.33",
+        "yellowCards": "1.67/1.56",
+        "goals": "1.22/0.33",
+        "throwIns": "21.11",
+        "ballPossession": 56,
+        "tackles": "18.89/17.78",
+        "interceptions": "5.67/9.00",
+        "aerialDuels": "15.67",
+        "aerialDuelsAttempted": "30.56",
+        "dribbles": "4.44/4.67",
+        "dribblesAttempted": "12.44/14.11"
+    },
+    "teamSlug": "bohemian",
+    "teamId": "3173",
+    "teamName": "Bohemian FC",
+    "tournament": "Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-bohemian-fc/ynbsFnb#id:15238047,tab:statistics",
+            "teams": [
+                "Drogheda United",
+                "Bohemian FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3180,
+                3173
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundalk-fc-bohemian-fc/ynbsEnb#id:15238042,tab:statistics",
+            "teams": [
+                "Bohemian FC",
+                "Dundalk FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3173,
+                3179
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shelbourne-bohemian-fc/ynbsznb#id:15238040,tab:statistics",
+            "teams": [
+                "Shelbourne",
+                "Bohemian FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3174,
+                3173
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/galway-united-bohemian-fc/ynbsHXeb#id:15238032,tab:statistics",
+            "teams": [
+                "Bohemian FC",
+                "Galway United"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3173,
+                137382
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-bohemian-fc/ynbsUnb#id:15238029,tab:statistics",
+            "teams": [
+                "Waterford FC",
+                "Bohemian FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3194,
+                3173
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shamrock-rovers-bohemian-fc/ynbsCnb#id:15238022,tab:statistics",
+            "teams": [
+                "Bohemian FC",
+                "Shamrock Rovers"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                3173,
+                3177
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bohemian-fc-derry-city/vnbsynb#id:15238017,tab:statistics",
+            "teams": [
+                "Derry City",
+                "Bohemian FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3170,
+                3173
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bohemian-fc-st-patricks-athletic/unbsynb#id:15238011,tab:statistics",
+            "teams": [
+                "Bohemian FC",
+                "St. Patrick's Athletic"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3173,
+                3169
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/5[A]",
+            "fouls": "13/5[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "19/25[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Bohemian FC,Drogheda United,Away",
+            "tackles": "10/13[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "19/18[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "5/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "13/7[H]",
+            "goalKicks": "12/10[H]",
+            "saves": "7/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "24/14[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Bohemian FC,Dundalk FC,Home",
+            "tackles": "17/26[H]",
+            "interceptions": "5/11[H]",
+            "aerialDuels": "25/16[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "26/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "0/6[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/0[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "26/22[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Bohemian FC,Shelbourne,Away",
+            "tackles": "23/16[A]",
+            "interceptions": "7/14[A]",
+            "aerialDuels": "8/9[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "4/10[A]",
+            "dribblesAttempted": "15/30[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/1[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "70/30[H]",
+            "teams": "Bohemian FC,Galway United,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "2/10[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "11/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "9/12[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/1[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/0[A]",
+            "throwIns": "22/24[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Bohemian FC,Waterford FC,Away",
+            "tackles": "22/15[A]",
+            "interceptions": "12/9[A]",
+            "aerialDuels": "13/24[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "14/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "5/2[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "3/2[H]",
+            "throwIns": "15/31[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Bohemian FC,Shamrock Rovers,Home",
+            "tackles": "26/8[H]",
+            "interceptions": "1/5[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "4/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "16/15[A]",
+            "goalKicks": "4/5[A]",
+            "saves": "2/6[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "19/29[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Bohemian FC,Derry City,Away",
+            "tackles": "18/29[A]",
+            "interceptions": "4/2[A]",
+            "aerialDuels": "18/18[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "14/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "18/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Bohemian FC,St. Patrick's Athletic,Home",
+            "tackles": "22/18[H]",
+            "interceptions": "8/13[H]",
+            "aerialDuels": "14/11[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "13/19[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T19:54:01.298Z",
+    "endTime": "2026-04-05T19:54:37.656Z",
+    "totalTimeSeconds": 36.36,
+    "combinedMatchStatistics": {
+        "corners": "5/5[A]+3/9[H]+4/2[A]+10/1[H]+6/7[A]+6/7[H]+3/5[A]+2/4[H]",
+        "fouls": "13/5[A]+13/7[H]+8/13[A]+12/13[H]+9/12[A]+13/12[H]+16/15[A]+11/10[H]",
+        "goalKicks": "5/8[A]+12/10[H]+6/8[A]+7/9[H]+9/8[A]+5/2[H]+4/5[A]+6/4[H]",
+        "saves": "2/2[A]+7/4[H]+0/6[A]+2/5[H]+1/5[A]+2/1[H]+2/6[A]+1/4[H]",
+        "offsides": "2/0[A]+1/1[H]+1/3[A]+0/2[H]+1/1[A]+1/1[H]+0/0[A]+2/0[H]",
+        "shotsOnTarget": "2/3[A]+5/7[H]+6/0[A]+6/2[H]+6/1[A]+5/4[H]+7/2[A]+4/2[H]",
+        "yellowCards": "4/2[A]+1/1[H]+0/2[A]+2/1[H]+1/0[A]+2/4[H]+3/1[A]+1/2[H]",
+        "goals": "0/0[A]+1/1[H]+0/0[A]+1/0[H]+1/0[A]+3/2[H]+1/0[A]+0/0[H]",
+        "throwIns": "19/25[A]+24/14[H]+26/22[A]+17/17[H]+22/24[A]+15/31[H]+19/29[A]+18/23[H]",
+        "averageBallPossession": "68/32[A]+58/42[H]+56/44[A]+70/30[H]+64/36[A]+42/58[H]+42/58[A]+54/46[H]",
+        "teams": "Bohemian FC,Drogheda United,Away+Bohemian FC,Dundalk FC,Home+Bohemian FC,Shelbourne,Away+Bohemian FC,Galway United,Home+Bohemian FC,Waterford FC,Away+Bohemian FC,Shamrock Rovers,Home+Bohemian FC,Derry City,Away+Bohemian FC,St. Patrick's Athletic,Home",
+        "tackles": "10/13[A]+17/26[H]+23/16[A]+13/16[H]+22/15[A]+26/8[H]+18/29[A]+22/18[H]",
+        "interceptions": "6/9[A]+5/11[H]+7/14[A]+2/10[H]+12/9[A]+1/5[H]+4/2[A]+8/13[H]",
+        "aerialDuels": "19/18[A]+25/16[H]+8/9[A]+11/8[H]+13/24[A]+15/15[H]+18/18[A]+14/11[H]",
+        "aerialDuelsAttempted": "37/37[A]+41/41[H]+17/17[A]+19/19[H]+37/37[A]+30/30[H]+36/36[A]+25/25[H]",
+        "dribbles": "4/4[A]+9/4[H]+4/10[A]+4/3[H]+4/3[A]+2/4[H]+3/4[A]+6/5[H]",
+        "dribblesAttempted": "5/9[A]+26/12[H]+15/30[A]+11/14[H]+14/4[A]+4/17[H]+14/9[A]+13/19[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "39/40",
+        "cornersTotalsHome": "21/21",
+        "cornersTotalsAway": "18/19",
+        "cornersAverage": "4.88/5.00",
+        "cornersAverageHome": "5.25/5.25",
+        "cornersAverageAway": "4.50/4.75",
+        "foulsTotals": "95/87",
+        "foulsTotalsHome": "49/42",
+        "foulsTotalsAway": "46/45",
+        "foulsAverage": "11.88/10.88",
+        "foulsAverageHome": "12.25/10.50",
+        "foulsAverageAway": "11.50/11.25",
+        "goalKicksTotals": "54/54",
+        "goalKicksTotalsHome": "30/25",
+        "goalKicksTotalsAway": "24/29",
+        "goalKicksAverage": "6.75/6.75",
+        "goalKicksAverageHome": "7.50/6.25",
+        "goalKicksAverageAway": "6.00/7.25",
+        "savesTotals": "17/33",
+        "savesTotalsHome": "12/14",
+        "savesTotalsAway": "5/19",
+        "savesAverage": "2.13/4.13",
+        "savesAverageHome": "3.00/3.50",
+        "savesAverageAway": "1.25/4.75",
+        "offsidesTotals": "8/8",
+        "offsidesTotalsHome": "4/4",
+        "offsidesTotalsAway": "4/4",
+        "offsidesAverage": "1.00/1.00",
+        "offsidesAverageHome": "1.00/1.00",
+        "offsidesAverageAway": "1.00/1.00",
+        "shotsOnTargetTotals": "41/21",
+        "shotsOnTargetTotalsHome": "20/15",
+        "shotsOnTargetTotalsAway": "21/6",
+        "shotsOnTargetAverage": "5.13/2.63",
+        "shotsOnTargetAverageHome": "5.00/3.75",
+        "shotsOnTargetAverageAway": "5.25/1.50",
+        "yellowCardsTotals": "14/13",
+        "yellowCardsTotalsHome": "6/8",
+        "yellowCardsTotalsAway": "8/5",
+        "yellowCardsAverage": "1.75/1.63",
+        "yellowCardsAverageHome": "1.50/2.00",
+        "yellowCardsAverageAway": "2.00/1.25",
+        "goalsTotals": "7/3",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "2/0",
+        "goalsAverage": "0.88/0.38",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "0.50/0.00",
+        "throwInsTotals": "160/185",
+        "throwInsTotalsHome": "74/85",
+        "throwInsTotalsAway": "86/100",
+        "throwInsAverage": "20.00/23.13",
+        "throwInsAverageHome": "18.50/21.25",
+        "throwInsAverageAway": "21.50/25.00",
+        "averageBallPossessionTotals": "454/346",
+        "averageBallPossessionTotalsHome": "224/176",
+        "averageBallPossessionTotalsAway": "230/170",
+        "averageBallPossessionAverage": "56.75/43.25",
+        "averageBallPossessionAverageHome": "56.00/44.00",
+        "averageBallPossessionAverageAway": "57.50/42.50",
+        "tacklesTotals": "151/141",
+        "tacklesTotalsHome": "78/68",
+        "tacklesTotalsAway": "73/73",
+        "tacklesAverage": "18.88/17.63",
+        "tacklesAverageHome": "19.50/17.00",
+        "tacklesAverageAway": "18.25/18.25",
+        "interceptionsTotals": "45/73",
+        "interceptionsTotalsHome": "16/39",
+        "interceptionsTotalsAway": "29/34",
+        "interceptionsAverage": "5.63/9.13",
+        "interceptionsAverageHome": "4.00/9.75",
+        "interceptionsAverageAway": "7.25/8.50",
+        "aerialDuelsTotals": "123/119",
+        "aerialDuelsTotalsHome": "65/50",
+        "aerialDuelsTotalsAway": "58/69",
+        "aerialDuelsAverage": "15.38/14.88",
+        "aerialDuelsAverageHome": "16.25/12.50",
+        "aerialDuelsAverageAway": "14.50/17.25",
+        "aerialDuelsAttemptedTotals": "242/242",
+        "aerialDuelsAttemptedTotalsHome": "115/115",
+        "aerialDuelsAttemptedTotalsAway": "127/127",
+        "aerialDuelsAttemptedAverage": "30.25/30.25",
+        "aerialDuelsAttemptedAverageHome": "28.75/28.75",
+        "aerialDuelsAttemptedAverageAway": "31.75/31.75",
+        "dribblesTotals": "36/37",
+        "dribblesTotalsHome": "21/16",
+        "dribblesTotalsAway": "15/21",
+        "dribblesAverage": "4.50/4.63",
+        "dribblesAverageHome": "5.25/4.00",
+        "dribblesAverageAway": "3.75/5.25",
+        "dribblesAttemptedTotals": "102/114",
+        "dribblesAttemptedTotalsHome": "54/62",
+        "dribblesAttemptedTotalsAway": "48/52",
+        "dribblesAttemptedAverage": "12.75/14.25",
+        "dribblesAttemptedAverageHome": "13.50/15.50",
+        "dribblesAttemptedAverageAway": "12.00/13.00"
+    }
+}

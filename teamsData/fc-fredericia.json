@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "10.50",
+        "goalKicks": "9.96",
+        "saves": "4.38",
+        "offsides": "1.83",
+        "shotsOnTarget": "3.88/6.75",
+        "yellowCards": "1.25/0.92",
+        "goals": "1.33/2.21",
+        "throwIns": "16.54",
+        "ballPossession": 42.625,
+        "tackles": "16.54/18.25",
+        "interceptions": "9.54/8.17",
+        "aerialDuels": "9.83",
+        "aerialDuelsAttempted": "22.71",
+        "dribbles": "7.25/6.42",
+        "dribblesAttempted": "15.29/14.29"
+    },
+    "teamSlug": "fc-fredericia",
+    "teamId": "1302",
+    "teamName": "FC Fredericia",
+    "tournament": "Danish Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-fc-kobenhavn/JAscB#id:15676252,tab:statistics",
+            "teams": [
+                "FC København",
+                "FC Fredericia"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1284,
+                1302
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-randers-fc/bBscB#id:15676281,tab:statistics",
+            "teams": [
+                "FC Fredericia",
+                "Randers FC"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                1302,
+                1301
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-silkeborg-if/KAscB#id:13984684,tab:statistics",
+            "teams": [
+                "FC Fredericia",
+                "Silkeborg IF"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1302,
+                1285
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-randers-fc/bBscB#id:13984680,tab:statistics",
+            "teams": [
+                "Randers FC",
+                "FC Fredericia"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1301,
+                1302
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-agf/QAscB#id:13984677,tab:statistics",
+            "teams": [
+                "FC Fredericia",
+                "AGF"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1302,
+                1291
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vejle-fc-fredericia/cBsxXb#id:13984669,tab:statistics",
+            "teams": [
+                "Vejle",
+                "FC Fredericia"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                4872,
+                1302
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-odense-bk/LAscB#id:13984653,tab:statistics",
+            "teams": [
+                "FC Fredericia",
+                "Odense Boldklub"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                1302,
+                1286
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-fredericia-brondby-if/GAscB#id:13984650,tab:statistics",
+            "teams": [
+                "Brøndby IF",
+                "FC Fredericia"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                1281,
+                1302
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/14[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "10/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/11[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "14/25[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "FC Fredericia,FC København,Away",
+            "tackles": "22/27[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "15/23[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "8/13[A]",
+            "dribblesAttempted": "17/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "11/19[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "0/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/3[H]",
+            "throwIns": "19/16[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "FC Fredericia,Randers FC,Home",
+            "tackles": "12/14[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "9/18[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "17/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/1[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "4/7[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "9/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/13[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "FC Fredericia,Silkeborg IF,Home",
+            "tackles": "13/11[H]",
+            "interceptions": "13/6[H]",
+            "aerialDuels": "13/10[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "16/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/14[A]",
+            "fouls": "12/6[A]",
+            "goalKicks": "12/5[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/1[A]",
+            "throwIns": "14/14[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "FC Fredericia,Randers FC,Away",
+            "tackles": "15/19[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "21/20[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "19/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/11[H]",
+            "fouls": "19/12[H]",
+            "goalKicks": "15/6[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "16/13[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "FC Fredericia,AGF,Home",
+            "tackles": "21/19[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "15/9[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "2/9[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/10[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/8[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "3/2[A]",
+            "throwIns": "19/33[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "FC Fredericia,Vejle,Away",
+            "tackles": "11/24[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "25/15[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "21/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "9/6[H]",
+            "goalKicks": "9/4[H]",
+            "saves": "5/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "16/20[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "FC Fredericia,Odense Boldklub,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "8/11[A]",
+            "goalKicks": "12/1[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "3/1[A]",
+            "throwIns": "13/21[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "FC Fredericia,Brøndby IF,Away",
+            "tackles": "15/6[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T19:45:18.277Z",
+    "endTime": "2026-04-05T19:45:47.749Z",
+    "totalTimeSeconds": 29.47,
+    "combinedMatchStatistics": {
+        "corners": "3/14[A]+3/6[H]+9/1[H]+3/14[A]+4/11[H]+4/10[A]+7/6[H]+3/8[A]",
+        "fouls": "13/12[A]+11/19[H]+10/7[H]+12/6[A]+19/12[H]+8/13[A]+9/6[H]+8/11[A]",
+        "goalKicks": "10/9[A]+6/11[H]+9/11[H]+12/5[A]+15/6[H]+7/5[A]+9/4[H]+12/1[A]",
+        "saves": "10/1[A]+0/3[H]+4/7[H]+4/4[A]+4/0[H]+5/3[A]+5/1[H]+3/3[A]",
+        "offsides": "0/1[A]+3/1[H]+3/0[H]+1/2[A]+1/1[H]+1/2[A]+2/2[H]+0/1[A]",
+        "shotsOnTarget": "3/11[A]+3/3[H]+9/5[H]+6/6[A]+1/5[H]+6/8[A]+3/6[H]+5/4[A]",
+        "yellowCards": "2/1[A]+2/1[H]+0/1[H]+2/0[A]+3/0[H]+2/2[A]+1/1[H]+1/0[A]",
+        "goals": "2/1[A]+0/3[H]+2/1[H]+2/1[A]+1/1[H]+3/2[A]+1/3[H]+3/1[A]",
+        "throwIns": "14/25[A]+19/16[H]+16/13[H]+14/14[A]+16/13[H]+19/33[A]+16/20[H]+13/21[A]",
+        "averageBallPossession": "33/67[A]+56/44[H]+49/51[H]+41/59[A]+43/57[H]+35/65[A]+48/52[H]+36/64[A]",
+        "teams": "FC Fredericia,FC København,Away+FC Fredericia,Randers FC,Home+FC Fredericia,Silkeborg IF,Home+FC Fredericia,Randers FC,Away+FC Fredericia,AGF,Home+FC Fredericia,Vejle,Away+FC Fredericia,Odense Boldklub,Home+FC Fredericia,Brøndby IF,Away",
+        "tackles": "22/27[A]+12/14[H]+13/11[H]+15/19[A]+21/19[H]+11/24[A]+12/17[H]+15/6[A]",
+        "interceptions": "11/6[A]+10/10[H]+13/6[H]+11/6[A]+6/10[H]+11/6[A]+10/6[H]+7/6[A]",
+        "aerialDuels": "15/23[A]+9/18[H]+13/10[H]+21/20[A]+15/9[H]+25/15[A]+11/8[H]+11/11[A]",
+        "aerialDuelsAttempted": "38/38[A]+27/27[H]+23/23[H]+41/41[A]+24/24[H]+40/40[A]+19/19[H]+22/22[A]",
+        "dribbles": "8/13[A]+10/4[H]+7/7[H]+7/5[A]+2/9[H]+7/7[A]+6/9[H]+5/4[A]",
+        "dribblesAttempted": "17/24[A]+17/9[H]+16/13[H]+19/8[A]+9/15[H]+21/12[A]+13/15[H]+9/14[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "36/70",
+        "cornersTotalsHome": "23/24",
+        "cornersTotalsAway": "13/46",
+        "cornersAverage": "4.50/8.75",
+        "cornersAverageHome": "5.75/6.00",
+        "cornersAverageAway": "3.25/11.50",
+        "foulsTotals": "90/86",
+        "foulsTotalsHome": "49/44",
+        "foulsTotalsAway": "41/42",
+        "foulsAverage": "11.25/10.75",
+        "foulsAverageHome": "12.25/11.00",
+        "foulsAverageAway": "10.25/10.50",
+        "goalKicksTotals": "80/52",
+        "goalKicksTotalsHome": "39/32",
+        "goalKicksTotalsAway": "41/20",
+        "goalKicksAverage": "10.00/6.50",
+        "goalKicksAverageHome": "9.75/8.00",
+        "goalKicksAverageAway": "10.25/5.00",
+        "savesTotals": "35/22",
+        "savesTotalsHome": "13/11",
+        "savesTotalsAway": "22/11",
+        "savesAverage": "4.38/2.75",
+        "savesAverageHome": "3.25/2.75",
+        "savesAverageAway": "5.50/2.75",
+        "offsidesTotals": "11/10",
+        "offsidesTotalsHome": "9/4",
+        "offsidesTotalsAway": "2/6",
+        "offsidesAverage": "1.38/1.25",
+        "offsidesAverageHome": "2.25/1.00",
+        "offsidesAverageAway": "0.50/1.50",
+        "shotsOnTargetTotals": "36/48",
+        "shotsOnTargetTotalsHome": "16/19",
+        "shotsOnTargetTotalsAway": "20/29",
+        "shotsOnTargetAverage": "4.50/6.00",
+        "shotsOnTargetAverageHome": "4.00/4.75",
+        "shotsOnTargetAverageAway": "5.00/7.25",
+        "yellowCardsTotals": "13/6",
+        "yellowCardsTotalsHome": "6/3",
+        "yellowCardsTotalsAway": "7/3",
+        "yellowCardsAverage": "1.63/0.75",
+        "yellowCardsAverageHome": "1.50/0.75",
+        "yellowCardsAverageAway": "1.75/0.75",
+        "goalsTotals": "14/13",
+        "goalsTotalsHome": "4/8",
+        "goalsTotalsAway": "10/5",
+        "goalsAverage": "1.75/1.63",
+        "goalsAverageHome": "1.00/2.00",
+        "goalsAverageAway": "2.50/1.25",
+        "throwInsTotals": "127/155",
+        "throwInsTotalsHome": "67/62",
+        "throwInsTotalsAway": "60/93",
+        "throwInsAverage": "15.88/19.38",
+        "throwInsAverageHome": "16.75/15.50",
+        "throwInsAverageAway": "15.00/23.25",
+        "averageBallPossessionTotals": "341/459",
+        "averageBallPossessionTotalsHome": "196/204",
+        "averageBallPossessionTotalsAway": "145/255",
+        "averageBallPossessionAverage": "42.63/57.38",
+        "averageBallPossessionAverageHome": "49.00/51.00",
+        "averageBallPossessionAverageAway": "36.25/63.75",
+        "tacklesTotals": "121/137",
+        "tacklesTotalsHome": "58/61",
+        "tacklesTotalsAway": "63/76",
+        "tacklesAverage": "15.13/17.13",
+        "tacklesAverageHome": "14.50/15.25",
+        "tacklesAverageAway": "15.75/19.00",
+        "interceptionsTotals": "79/56",
+        "interceptionsTotalsHome": "39/32",
+        "interceptionsTotalsAway": "40/24",
+        "interceptionsAverage": "9.88/7.00",
+        "interceptionsAverageHome": "9.75/8.00",
+        "interceptionsAverageAway": "10.00/6.00",
+        "aerialDuelsTotals": "120/114",
+        "aerialDuelsTotalsHome": "48/45",
+        "aerialDuelsTotalsAway": "72/69",
+        "aerialDuelsAverage": "15.00/14.25",
+        "aerialDuelsAverageHome": "12.00/11.25",
+        "aerialDuelsAverageAway": "18.00/17.25",
+        "aerialDuelsAttemptedTotals": "234/234",
+        "aerialDuelsAttemptedTotalsHome": "93/93",
+        "aerialDuelsAttemptedTotalsAway": "141/141",
+        "aerialDuelsAttemptedAverage": "29.25/29.25",
+        "aerialDuelsAttemptedAverageHome": "23.25/23.25",
+        "aerialDuelsAttemptedAverageAway": "35.25/35.25",
+        "dribblesTotals": "52/58",
+        "dribblesTotalsHome": "25/29",
+        "dribblesTotalsAway": "27/29",
+        "dribblesAverage": "6.50/7.25",
+        "dribblesAverageHome": "6.25/7.25",
+        "dribblesAverageAway": "6.75/7.25",
+        "dribblesAttemptedTotals": "121/110",
+        "dribblesAttemptedTotalsHome": "55/52",
+        "dribblesAttemptedTotalsAway": "66/58",
+        "dribblesAttemptedAverage": "15.13/13.75",
+        "dribblesAttemptedAverageHome": "13.75/13.00",
+        "dribblesAttemptedAverageAway": "16.50/14.50"
+    }
+}

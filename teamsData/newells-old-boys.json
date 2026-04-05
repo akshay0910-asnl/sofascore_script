@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.45",
+        "fouls": "14.55",
+        "goalKicks": "6.64",
+        "saves": "3.27",
+        "offsides": "1.91",
+        "shotsOnTarget": "3.09/5.45",
+        "yellowCards": "2.45/2.82",
+        "goals": "0.64/2.00",
+        "throwIns": "19.45",
+        "ballPossession": 43.727272727273,
+        "tackles": "18.36/16.09",
+        "interceptions": "8.00/7.64",
+        "aerialDuels": "18.55",
+        "aerialDuelsAttempted": "39.09",
+        "dribbles": "8.00/6.73",
+        "dribblesAttempted": "17.09/17.00"
+    },
+    "teamSlug": "newells-old-boys",
+    "teamId": "3212",
+    "teamName": "Newell&apos;s Old Boys",
+    "tournament": "Liga Profesional de Fútbol",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/gimnasia-y-esgrima-mendoza-newells-old-boys/mobsQtAb#id:15270033,tab:statistics",
+            "teams": [
+                "Newell's Old Boys",
+                "Gimnasia y Esgrima Mendoza"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3212,
+                188441
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ca-lanus-newells-old-boys/mobstob#id:15270022,tab:statistics",
+            "teams": [
+                "CA Lanús",
+                "Newell's Old Boys"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                3218,
+                3212
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/platense-newells-old-boys/mobsMLo#id:15269994,tab:statistics",
+            "teams": [
+                "Newell's Old Boys",
+                "Platense"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3212,
+                36837
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rosario-central-newells-old-boys/mobsrob#id:15269932,tab:statistics",
+            "teams": [
+                "Newell's Old Boys",
+                "Rosario Central"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                3212,
+                3217
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newells-old-boys-estudiantes-de-la-plata/gobsmob#id:15270140,tab:statistics",
+            "teams": [
+                "Newell's Old Boys",
+                "Estudiantes de La Plata"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                3212,
+                3206
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-newells-old-boys/mobsuob#id:15270132,tab:statistics",
+            "teams": [
+                "Banfield",
+                "Newell's Old Boys"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                3219,
+                3212
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-newells-old-boys/mobsyUAb#id:15270104,tab:statistics",
+            "teams": [
+                "Deportivo Riestra",
+                "Newell's Old Boys"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                189723,
+                3212
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/newells-old-boys-boca-juniors/cobsmob#id:15270075,tab:statistics",
+            "teams": [
+                "Boca Juniors",
+                "Newell's Old Boys"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3202,
+                3212
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/5[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "3/7[H]",
+            "goals": "1/0[H]",
+            "throwIns": "20/10[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Newell's Old Boys,Gimnasia y Esgrima Mendoza,Home",
+            "tackles": "14/18[H]",
+            "interceptions": "10/2[H]",
+            "aerialDuels": "18/13[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "15/7[H]",
+            "dribblesAttempted": "24/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/7[A]",
+            "fouls": "7/12[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/5[A]",
+            "throwIns": "10/16[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Newell's Old Boys,CA Lanús,Away",
+            "tackles": "18/14[A]",
+            "interceptions": "7/1[A]",
+            "aerialDuels": "10/13[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "9/6[A]",
+            "dribblesAttempted": "18/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "17/14[H]",
+            "goalKicks": "6/3[H]",
+            "saves": "6/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/25[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Newell's Old Boys,Platense,Home",
+            "tackles": "28/11[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "12/18[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "14/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[H]",
+            "fouls": "24/7[H]",
+            "goalKicks": "6/2[H]",
+            "saves": "3/1[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "17/23[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Newell's Old Boys,Rosario Central,Home",
+            "tackles": "14/19[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "22/21[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "16/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "5/1[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "1/7[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "16/18[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "Newell's Old Boys,Estudiantes de La Plata,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "9/17[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "11/8[H]",
+            "dribblesAttempted": "20/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "18/15[A]",
+            "goalKicks": "10/11[A]",
+            "saves": "6/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/9[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/3[A]",
+            "throwIns": "26/30[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Newell's Old Boys,Banfield,Away",
+            "tackles": "24/27[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "23/30[A]",
+            "aerialDuelsAttempted": "53/53[A]",
+            "dribbles": "5/11[A]",
+            "dribblesAttempted": "19/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "6/17[A]",
+            "goalKicks": "10/13[A]",
+            "saves": "3/3[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/31[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Newell's Old Boys,Deportivo Riestra,Away",
+            "tackles": "20/12[A]",
+            "interceptions": "4/16[A]",
+            "aerialDuels": "33/30[A]",
+            "aerialDuelsAttempted": "63/63[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "13/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/2[A]",
+            "fouls": "23/14[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "14/22[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Newell's Old Boys,Boca Juniors,Away",
+            "tackles": "17/17[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "16/22[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "10/10[A]",
+            "dribblesAttempted": "23/24[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T19:40:43.702Z",
+    "endTime": "2026-04-05T19:41:18.998Z",
+    "totalTimeSeconds": 35.3,
+    "combinedMatchStatistics": {
+        "corners": "6/5[H]+0/7[A]+5/6[H]+1/8[H]+2/3[H]+2/4[A]+4/4[A]+1/2[A]",
+        "fouls": "13/15[H]+7/12[A]+17/14[H]+24/7[H]+11/12[H]+18/15[A]+6/17[A]+23/14[A]",
+        "goalKicks": "8/10[H]+6/4[A]+6/3[H]+6/2[H]+8/9[H]+10/11[A]+10/13[A]+7/11[A]",
+        "saves": "3/4[H]+2/2[A]+6/2[H]+3/1[H]+5/1[H]+6/2[A]+3/3[A]+3/1[A]",
+        "offsides": "1/2[H]+0/0[A]+2/0[H]+3/2[H]+2/0[H]+2/2[A]+3/0[A]+0/1[A]",
+        "shotsOnTarget": "5/3[H]+2/7[A]+3/7[H]+2/6[H]+1/7[H]+2/9[A]+4/5[A]+1/5[A]",
+        "yellowCards": "3/7[H]+0/2[A]+4/2[H]+2/3[H]+2/1[H]+3/3[A]+3/3[A]+3/3[A]",
+        "goals": "1/0[H]+0/5[A]+1/1[H]+0/2[H]+0/2[H]+0/3[A]+1/1[A]+0/2[A]",
+        "throwIns": "20/10[H]+10/16[A]+20/25[H]+17/23[H]+16/18[H]+26/30[A]+24/31[A]+14/22[A]",
+        "averageBallPossession": "57/43[H]+37/63[A]+36/64[H]+38/62[H]+38/62[H]+47/53[A]+50/50[A]+40/60[A]",
+        "teams": "Newell's Old Boys,Gimnasia y Esgrima Mendoza,Home+Newell's Old Boys,CA Lanús,Away+Newell's Old Boys,Platense,Home+Newell's Old Boys,Rosario Central,Home+Newell's Old Boys,Estudiantes de La Plata,Home+Newell's Old Boys,Banfield,Away+Newell's Old Boys,Deportivo Riestra,Away+Newell's Old Boys,Boca Juniors,Away",
+        "tackles": "14/18[H]+18/14[A]+28/11[H]+14/19[H]+18/13[H]+24/27[A]+20/12[A]+17/17[A]",
+        "interceptions": "10/2[H]+7/1[A]+10/9[H]+10/9[H]+5/7[H]+7/7[A]+4/16[A]+10/7[A]",
+        "aerialDuels": "18/13[H]+10/13[A]+12/18[H]+22/21[H]+9/17[H]+23/30[A]+33/30[A]+16/22[A]",
+        "aerialDuelsAttempted": "31/31[H]+23/23[A]+30/30[H]+43/43[H]+26/26[H]+53/53[A]+63/63[A]+38/38[A]",
+        "dribbles": "15/7[H]+9/6[A]+9/7[H]+6/5[H]+11/8[H]+5/11[A]+6/4[A]+10/10[A]",
+        "dribblesAttempted": "24/17[H]+18/12[A]+14/25[H]+16/14[H]+20/20[H]+19/20[A]+13/12[A]+23/24[A]",
+        "isHome": "true+false+true+true+true+false+false+false",
+        "cornersTotals": "21/39",
+        "cornersTotalsHome": "14/22",
+        "cornersTotalsAway": "7/17",
+        "cornersAverage": "2.63/4.88",
+        "cornersAverageHome": "3.50/5.50",
+        "cornersAverageAway": "1.75/4.25",
+        "foulsTotals": "119/106",
+        "foulsTotalsHome": "65/48",
+        "foulsTotalsAway": "54/58",
+        "foulsAverage": "14.88/13.25",
+        "foulsAverageHome": "16.25/12.00",
+        "foulsAverageAway": "13.50/14.50",
+        "goalKicksTotals": "61/63",
+        "goalKicksTotalsHome": "28/24",
+        "goalKicksTotalsAway": "33/39",
+        "goalKicksAverage": "7.63/7.88",
+        "goalKicksAverageHome": "7.00/6.00",
+        "goalKicksAverageAway": "8.25/9.75",
+        "savesTotals": "31/16",
+        "savesTotalsHome": "17/8",
+        "savesTotalsAway": "14/8",
+        "savesAverage": "3.88/2.00",
+        "savesAverageHome": "4.25/2.00",
+        "savesAverageAway": "3.50/2.00",
+        "offsidesTotals": "13/7",
+        "offsidesTotalsHome": "8/4",
+        "offsidesTotalsAway": "5/3",
+        "offsidesAverage": "1.63/0.88",
+        "offsidesAverageHome": "2.00/1.00",
+        "offsidesAverageAway": "1.25/0.75",
+        "shotsOnTargetTotals": "20/49",
+        "shotsOnTargetTotalsHome": "11/23",
+        "shotsOnTargetTotalsAway": "9/26",
+        "shotsOnTargetAverage": "2.50/6.13",
+        "shotsOnTargetAverageHome": "2.75/5.75",
+        "shotsOnTargetAverageAway": "2.25/6.50",
+        "yellowCardsTotals": "20/24",
+        "yellowCardsTotalsHome": "11/13",
+        "yellowCardsTotalsAway": "9/11",
+        "yellowCardsAverage": "2.50/3.00",
+        "yellowCardsAverageHome": "2.75/3.25",
+        "yellowCardsAverageAway": "2.25/2.75",
+        "goalsTotals": "3/16",
+        "goalsTotalsHome": "2/5",
+        "goalsTotalsAway": "1/11",
+        "goalsAverage": "0.38/2.00",
+        "goalsAverageHome": "0.50/1.25",
+        "goalsAverageAway": "0.25/2.75",
+        "throwInsTotals": "147/175",
+        "throwInsTotalsHome": "73/76",
+        "throwInsTotalsAway": "74/99",
+        "throwInsAverage": "18.38/21.88",
+        "throwInsAverageHome": "18.25/19.00",
+        "throwInsAverageAway": "18.50/24.75",
+        "averageBallPossessionTotals": "343/457",
+        "averageBallPossessionTotalsHome": "169/231",
+        "averageBallPossessionTotalsAway": "174/226",
+        "averageBallPossessionAverage": "42.88/57.13",
+        "averageBallPossessionAverageHome": "42.25/57.75",
+        "averageBallPossessionAverageAway": "43.50/56.50",
+        "tacklesTotals": "153/131",
+        "tacklesTotalsHome": "74/61",
+        "tacklesTotalsAway": "79/70",
+        "tacklesAverage": "19.13/16.38",
+        "tacklesAverageHome": "18.50/15.25",
+        "tacklesAverageAway": "19.75/17.50",
+        "interceptionsTotals": "63/58",
+        "interceptionsTotalsHome": "35/27",
+        "interceptionsTotalsAway": "28/31",
+        "interceptionsAverage": "7.88/7.25",
+        "interceptionsAverageHome": "8.75/6.75",
+        "interceptionsAverageAway": "7.00/7.75",
+        "aerialDuelsTotals": "143/164",
+        "aerialDuelsTotalsHome": "61/69",
+        "aerialDuelsTotalsAway": "82/95",
+        "aerialDuelsAverage": "17.88/20.50",
+        "aerialDuelsAverageHome": "15.25/17.25",
+        "aerialDuelsAverageAway": "20.50/23.75",
+        "aerialDuelsAttemptedTotals": "307/307",
+        "aerialDuelsAttemptedTotalsHome": "130/130",
+        "aerialDuelsAttemptedTotalsAway": "177/177",
+        "aerialDuelsAttemptedAverage": "38.38/38.38",
+        "aerialDuelsAttemptedAverageHome": "32.50/32.50",
+        "aerialDuelsAttemptedAverageAway": "44.25/44.25",
+        "dribblesTotals": "71/58",
+        "dribblesTotalsHome": "41/27",
+        "dribblesTotalsAway": "30/31",
+        "dribblesAverage": "8.88/7.25",
+        "dribblesAverageHome": "10.25/6.75",
+        "dribblesAverageAway": "7.50/7.75",
+        "dribblesAttemptedTotals": "147/144",
+        "dribblesAttemptedTotalsHome": "74/76",
+        "dribblesAttemptedTotalsAway": "73/68",
+        "dribblesAttemptedAverage": "18.38/18.00",
+        "dribblesAttemptedAverageHome": "18.50/19.00",
+        "dribblesAttemptedAverageAway": "18.25/17.00"
+    }
+}

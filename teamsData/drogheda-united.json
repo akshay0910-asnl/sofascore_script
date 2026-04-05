@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.78",
+        "fouls": "10.56",
+        "goalKicks": "10.89",
+        "saves": "2.56",
+        "offsides": "1.11",
+        "shotsOnTarget": "3.11/3.78",
+        "yellowCards": "2.56/2.33",
+        "goals": "1.00/1.22",
+        "throwIns": "22.33",
+        "ballPossession": 38.222222222222,
+        "tackles": "11.11/11.89",
+        "interceptions": "9.44/6.33",
+        "aerialDuels": "21.00",
+        "aerialDuelsAttempted": "44.67",
+        "dribbles": "4.44/4.89",
+        "dribblesAttempted": "12.67/8.44"
+    },
+    "teamSlug": "drogheda-united",
+    "teamId": "3180",
+    "teamName": "Drogheda United",
+    "tournament": "Premier Division",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-bohemian-fc/ynbsFnb#id:15238047,tab:statistics",
+            "teams": [
+                "Drogheda United",
+                "Bohemian FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3180,
+                3173
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-derry-city/vnbsFnb#id:15238043,tab:statistics",
+            "teams": [
+                "Derry City",
+                "Drogheda United"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                3170,
+                3180
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-shamrock-rovers/CnbsFnb#id:15238037,tab:statistics",
+            "teams": [
+                "Drogheda United",
+                "Shamrock Rovers"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3180,
+                3177
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-st-patricks-athletic/unbsFnb#id:15238036,tab:statistics",
+            "teams": [
+                "St. Patrick's Athletic",
+                "Drogheda United"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                3169,
+                3180
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sligo-rovers-drogheda-united/FnbsPnb#id:15238031,tab:statistics",
+            "teams": [
+                "Sligo Rovers",
+                "Drogheda United"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                3190,
+                3180
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-shelbourne/znbsFnb#id:15238024,tab:statistics",
+            "teams": [
+                "Drogheda United",
+                "Shelbourne"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                3180,
+                3174
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/drogheda-united-dundalk-fc/EnbsFnb#id:15238018,tab:statistics",
+            "teams": [
+                "Dundalk FC",
+                "Drogheda United"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3179,
+                3180
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/waterford-fc-drogheda-united/FnbsUnb#id:15238012,tab:statistics",
+            "teams": [
+                "Drogheda United",
+                "Waterford FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3180,
+                3194
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/5[H]",
+            "fouls": "5/13[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "2/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "25/19[H]",
+            "averageBallPossession": "32/68[H]",
+            "teams": "Drogheda United,Bohemian FC,Home",
+            "tackles": "13/10[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "18/19[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "9/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "6/17[A]",
+            "goalKicks": "8/7[A]",
+            "saves": "2/0[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "18/24[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Drogheda United,Derry City,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "21/14[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "21/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "11/13[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "20/21[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Drogheda United,Shamrock Rovers,Home",
+            "tackles": "9/11[H]",
+            "interceptions": "12/2[H]",
+            "aerialDuels": "13/5[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "3/1[H]",
+            "dribblesAttempted": "13/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/3[A]",
+            "fouls": "15/10[A]",
+            "goalKicks": "15/4[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "16/22[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Drogheda United,St. Patrick's Athletic,Away",
+            "tackles": "15/10[A]",
+            "interceptions": "14/5[A]",
+            "aerialDuels": "12/7[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "12/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "7/6[A]",
+            "goalKicks": "15/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "30/27[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Drogheda United,Sligo Rovers,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "26/37[A]",
+            "aerialDuelsAttempted": "63/63[A]",
+            "dribbles": "6/12[A]",
+            "dribblesAttempted": "19/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "8/13[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "12/20[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Drogheda United,Shelbourne,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "14/5[H]",
+            "aerialDuels": "17/22[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "11/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "14/7[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "33/19[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Drogheda United,Dundalk FC,Away",
+            "tackles": "3/10[A]",
+            "interceptions": "6/13[A]",
+            "aerialDuels": "19/34[A]",
+            "aerialDuelsAttempted": "53/53[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "8/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/11[H]",
+            "fouls": "17/14[H]",
+            "goalKicks": "7/3[H]",
+            "saves": "3/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "18/29[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Drogheda United,Waterford FC,Home",
+            "tackles": "13/13[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "20/25[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "12/5[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T19:55:26.712Z",
+    "endTime": "2026-04-05T19:56:02.532Z",
+    "totalTimeSeconds": 35.82,
+    "combinedMatchStatistics": {
+        "corners": "5/5[H]+4/6[A]+3/4[H]+1/3[A]+3/5[A]+2/7[H]+3/8[A]+6/11[H]",
+        "fouls": "5/13[H]+6/17[A]+9/14[H]+15/10[A]+7/6[A]+11/11[H]+13/15[A]+17/14[H]",
+        "goalKicks": "8/5[H]+8/7[A]+11/13[H]+15/4[A]+15/5[A]+8/13[H]+14/7[A]+7/3[H]",
+        "saves": "2/2[H]+2/0[A]+2/2[H]+4/2[A]+2/1[A]+3/2[H]+2/3[A]+3/4[H]",
+        "offsides": "0/2[H]+1/3[A]+2/2[H]+1/3[A]+1/3[A]+3/2[H]+1/0[A]+0/1[H]",
+        "shotsOnTarget": "3/2[H]+2/4[A]+2/2[H]+3/8[A]+2/4[A]+3/5[H]+4/3[A]+6/3[H]",
+        "yellowCards": "2/4[H]+2/3[A]+4/2[H]+2/1[A]+3/2[A]+3/4[H]+1/2[A]+4/1[H]",
+        "goals": "0/0[H]+2/2[A]+0/0[H]+1/4[A]+1/2[A]+1/2[H]+1/1[A]+2/0[H]",
+        "throwIns": "25/19[H]+18/24[A]+20/21[H]+16/22[A]+30/27[A]+12/20[H]+33/19[A]+18/29[H]",
+        "averageBallPossession": "32/68[H]+39/61[A]+34/66[H]+33/67[A]+42/58[A]+36/64[H]+40/60[A]+40/60[H]",
+        "teams": "Drogheda United,Bohemian FC,Home+Drogheda United,Derry City,Away+Drogheda United,Shamrock Rovers,Home+Drogheda United,St. Patrick's Athletic,Away+Drogheda United,Sligo Rovers,Away+Drogheda United,Shelbourne,Home+Drogheda United,Dundalk FC,Away+Drogheda United,Waterford FC,Home",
+        "tackles": "13/10[H]+10/12[A]+9/11[H]+15/10[A]+13/13[A]+12/11[H]+3/10[A]+13/13[H]",
+        "interceptions": "9/6[H]+10/7[A]+12/2[H]+14/5[A]+4/5[A]+14/5[H]+6/13[A]+8/7[H]",
+        "aerialDuels": "18/19[H]+21/14[A]+13/5[H]+12/7[A]+26/37[A]+17/22[H]+19/34[A]+20/25[H]",
+        "aerialDuelsAttempted": "37/37[H]+35/35[A]+18/18[H]+19/19[A]+63/63[A]+39/39[H]+53/53[A]+45/45[H]",
+        "dribbles": "4/4[H]+9/5[A]+3/1[H]+3/6[A]+6/12[A]+4/7[H]+3/4[A]+5/4[H]",
+        "dribblesAttempted": "9/5[H]+21/11[A]+13/6[H]+12/9[A]+19/16[A]+11/15[H]+8/4[A]+12/5[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "27/49",
+        "cornersTotalsHome": "16/27",
+        "cornersTotalsAway": "11/22",
+        "cornersAverage": "3.38/6.13",
+        "cornersAverageHome": "4.00/6.75",
+        "cornersAverageAway": "2.75/5.50",
+        "foulsTotals": "83/100",
+        "foulsTotalsHome": "42/52",
+        "foulsTotalsAway": "41/48",
+        "foulsAverage": "10.38/12.50",
+        "foulsAverageHome": "10.50/13.00",
+        "foulsAverageAway": "10.25/12.00",
+        "goalKicksTotals": "86/57",
+        "goalKicksTotalsHome": "34/34",
+        "goalKicksTotalsAway": "52/23",
+        "goalKicksAverage": "10.75/7.13",
+        "goalKicksAverageHome": "8.50/8.50",
+        "goalKicksAverageAway": "13.00/5.75",
+        "savesTotals": "20/16",
+        "savesTotalsHome": "10/10",
+        "savesTotalsAway": "10/6",
+        "savesAverage": "2.50/2.00",
+        "savesAverageHome": "2.50/2.50",
+        "savesAverageAway": "2.50/1.50",
+        "offsidesTotals": "9/16",
+        "offsidesTotalsHome": "5/7",
+        "offsidesTotalsAway": "4/9",
+        "offsidesAverage": "1.13/2.00",
+        "offsidesAverageHome": "1.25/1.75",
+        "offsidesAverageAway": "1.00/2.25",
+        "shotsOnTargetTotals": "25/31",
+        "shotsOnTargetTotalsHome": "14/12",
+        "shotsOnTargetTotalsAway": "11/19",
+        "shotsOnTargetAverage": "3.13/3.88",
+        "shotsOnTargetAverageHome": "3.50/3.00",
+        "shotsOnTargetAverageAway": "2.75/4.75",
+        "yellowCardsTotals": "21/19",
+        "yellowCardsTotalsHome": "13/11",
+        "yellowCardsTotalsAway": "8/8",
+        "yellowCardsAverage": "2.63/2.38",
+        "yellowCardsAverageHome": "3.25/2.75",
+        "yellowCardsAverageAway": "2.00/2.00",
+        "goalsTotals": "8/11",
+        "goalsTotalsHome": "3/2",
+        "goalsTotalsAway": "5/9",
+        "goalsAverage": "1.00/1.38",
+        "goalsAverageHome": "0.75/0.50",
+        "goalsAverageAway": "1.25/2.25",
+        "throwInsTotals": "172/181",
+        "throwInsTotalsHome": "75/89",
+        "throwInsTotalsAway": "97/92",
+        "throwInsAverage": "21.50/22.63",
+        "throwInsAverageHome": "18.75/22.25",
+        "throwInsAverageAway": "24.25/23.00",
+        "averageBallPossessionTotals": "296/504",
+        "averageBallPossessionTotalsHome": "142/258",
+        "averageBallPossessionTotalsAway": "154/246",
+        "averageBallPossessionAverage": "37.00/63.00",
+        "averageBallPossessionAverageHome": "35.50/64.50",
+        "averageBallPossessionAverageAway": "38.50/61.50",
+        "tacklesTotals": "88/90",
+        "tacklesTotalsHome": "47/45",
+        "tacklesTotalsAway": "41/45",
+        "tacklesAverage": "11.00/11.25",
+        "tacklesAverageHome": "11.75/11.25",
+        "tacklesAverageAway": "10.25/11.25",
+        "interceptionsTotals": "77/50",
+        "interceptionsTotalsHome": "43/20",
+        "interceptionsTotalsAway": "34/30",
+        "interceptionsAverage": "9.63/6.25",
+        "interceptionsAverageHome": "10.75/5.00",
+        "interceptionsAverageAway": "8.50/7.50",
+        "aerialDuelsTotals": "146/163",
+        "aerialDuelsTotalsHome": "68/71",
+        "aerialDuelsTotalsAway": "78/92",
+        "aerialDuelsAverage": "18.25/20.38",
+        "aerialDuelsAverageHome": "17.00/17.75",
+        "aerialDuelsAverageAway": "19.50/23.00",
+        "aerialDuelsAttemptedTotals": "309/309",
+        "aerialDuelsAttemptedTotalsHome": "139/139",
+        "aerialDuelsAttemptedTotalsAway": "170/170",
+        "aerialDuelsAttemptedAverage": "38.63/38.63",
+        "aerialDuelsAttemptedAverageHome": "34.75/34.75",
+        "aerialDuelsAttemptedAverageAway": "42.50/42.50",
+        "dribblesTotals": "37/43",
+        "dribblesTotalsHome": "16/16",
+        "dribblesTotalsAway": "21/27",
+        "dribblesAverage": "4.63/5.38",
+        "dribblesAverageHome": "4.00/4.00",
+        "dribblesAverageAway": "5.25/6.75",
+        "dribblesAttemptedTotals": "105/71",
+        "dribblesAttemptedTotalsHome": "45/31",
+        "dribblesAttemptedTotalsAway": "60/40",
+        "dribblesAttemptedAverage": "13.13/8.88",
+        "dribblesAttemptedAverageHome": "11.25/7.75",
+        "dribblesAttemptedAverageAway": "15.00/10.00"
+    }
+}

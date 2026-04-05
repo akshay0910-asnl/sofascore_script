@@ -1,0 +1,403 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "10.86",
+        "goalKicks": "6.43",
+        "saves": "3.43",
+        "offsides": "2.29",
+        "shotsOnTarget": "3.86/5.00",
+        "yellowCards": "3.43/2.57",
+        "goals": "0.86/1.29",
+        "throwIns": "19.57",
+        "ballPossession": 46.142857142857,
+        "tackles": "15.14/16.86",
+        "interceptions": "9.71/9.29",
+        "aerialDuels": "13.14",
+        "aerialDuelsAttempted": "28.71",
+        "dribbles": "10.57/6.86",
+        "dribblesAttempted": "19.57/13.86"
+    },
+    "teamSlug": "universidad-de-concepcion",
+    "teamId": "5034",
+    "teamName": "Universidad de Concepción",
+    "tournament": "Liga de Primera",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-palestino/hnbsJac#id:15353001,tab:statistics",
+            "teams": [
+                "Universidad de Concepción",
+                "Palestino"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5034,
+                3157
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-universidad-de-chile/lnbsJac#id:15352995,tab:statistics",
+            "teams": [
+                "Universidad de Chile",
+                "Universidad de Concepción"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3161,
+                5034
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-everton-de-vina-del-mar/HacsJac#id:15352981,tab:statistics",
+            "teams": [
+                "Universidad de Concepción",
+                "Everton de Viña del Mar"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                5034,
+                5032
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-deportes-la-serena/GacsJac#id:15352977,tab:statistics",
+            "teams": [
+                "Deportes La Serena",
+                "Universidad de Concepción"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5031,
+                5034
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-deportes-concepcion/knbsJac#id:15352961,tab:statistics",
+            "teams": [
+                "Universidad de Concepción",
+                "Deportes Concepción"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                5034,
+                3160
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-audax-italiano/mnbsJac#id:15352948,tab:statistics",
+            "teams": [
+                "Audax Italiano",
+                "Universidad de Concepción"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                3162,
+                5034
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-de-concepcion-coquimbo-unido/pnbsJac#id:15352952,tab:statistics",
+            "teams": [
+                "Universidad de Concepción",
+                "Coquimbo Unido"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5034,
+                3165
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 3,
+    "matchStatistics": [
+        {
+            "corners": "2/5[H]",
+            "fouls": "6/17[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "3/0[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "1/3[H]",
+            "yellowCards": "3/5[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Universidad de Concepción,Palestino,Home",
+            "tackles": "16/13[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "15/7[H]",
+            "dribblesAttempted": "21/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/11[A]",
+            "fouls": "3/11[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "6/3[A]",
+            "offsides": "5/1[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "15/19[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "Universidad de Concepción,Universidad de Chile,Away",
+            "tackles": "18/20[A]",
+            "interceptions": "11/7[A]",
+            "aerialDuels": "17/26[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "6/13[A]",
+            "dribblesAttempted": "21/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "3/11[H]",
+            "saves": "7/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/10[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/3[H]",
+            "throwIns": "14/19[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Universidad de Concepción,Everton de Viña del Mar,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "10/12[H]",
+            "aerialDuels": "18/13[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "18/10[H]",
+            "dribblesAttempted": "26/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "5/2[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "27/23[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Universidad de Concepción,Deportes La Serena,Away",
+            "tackles": "18/16[A]",
+            "interceptions": "7/14[A]",
+            "aerialDuels": "18/25[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "19/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "16/10[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "0/7[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "24/11[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Universidad de Concepción,Deportes Concepción,Home",
+            "tackles": "11/23[H]",
+            "interceptions": "9/5[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "11/2[H]",
+            "dribblesAttempted": "22/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "14/12[A]",
+            "goalKicks": "7/21[A]",
+            "saves": "2/3[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/3[A]",
+            "throwIns": "19/13[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Universidad de Concepción,Audax Italiano,Away",
+            "tackles": "15/17[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "16/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/1[H]",
+            "fouls": "8/12[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "16/21[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Universidad de Concepción,Coquimbo Unido,Home",
+            "tackles": "14/17[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "8/15[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/1[H]",
+            "dribblesAttempted": "12/7[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T23:13:16.192Z",
+    "endTime": "2026-04-05T23:13:49.424Z",
+    "totalTimeSeconds": 33.23,
+    "combinedMatchStatistics": {
+        "corners": "2/5[H]+5/11[A]+8/2[H]+4/5[A]+5/3[H]+7/3[A]+11/1[H]",
+        "fouls": "6/17[H]+3/11[A]+14/12[H]+15/14[A]+16/10[H]+14/12[A]+8/12[H]",
+        "goalKicks": "6/7[H]+8/6[A]+3/11[H]+5/6[A]+6/4[H]+7/21[A]+10/9[H]",
+        "saves": "3/0[H]+6/3[A]+7/4[H]+5/2[A]+0/7[H]+2/3[A]+1/3[H]",
+        "offsides": "0/0[H]+5/1[A]+1/1[H]+2/3[A]+3/1[H]+3/1[A]+2/1[H]",
+        "shotsOnTarget": "1/3[H]+4/7[A]+4/10[H]+2/8[A]+9/1[H]+3/5[A]+4/1[H]",
+        "yellowCards": "3/5[H]+3/2[A]+3/2[H]+2/1[A]+5/2[H]+4/3[A]+4/4[H]",
+        "goals": "1/0[H]+1/1[A]+0/3[H]+1/1[A]+2/1[H]+0/3[A]+1/0[H]",
+        "throwIns": "22/19[H]+15/19[A]+14/19[H]+27/23[A]+24/11[H]+19/13[A]+16/21[H]",
+        "averageBallPossession": "44/56[H]+33/67[A]+54/46[H]+40/60[A]+49/51[H]+53/47[A]+50/50[H]",
+        "teams": "Universidad de Concepción,Palestino,Home+Universidad de Concepción,Universidad de Chile,Away+Universidad de Concepción,Everton de Viña del Mar,Home+Universidad de Concepción,Deportes La Serena,Away+Universidad de Concepción,Deportes Concepción,Home+Universidad de Concepción,Audax Italiano,Away+Universidad de Concepción,Coquimbo Unido,Home",
+        "tackles": "16/13[H]+18/20[A]+14/12[H]+18/16[A]+11/23[H]+15/17[A]+14/17[H]",
+        "interceptions": "11/8[H]+11/7[A]+10/12[H]+7/14[A]+9/5[H]+8/11[A]+12/8[H]",
+        "aerialDuels": "11/8[H]+17/26[A]+18/13[H]+18/25[A]+9/10[H]+11/12[A]+8/15[H]",
+        "aerialDuelsAttempted": "19/19[H]+43/43[A]+31/31[H]+43/43[A]+19/19[H]+23/23[A]+23/23[H]",
+        "dribbles": "15/7[H]+6/13[A]+18/10[H]+9/8[A]+11/2[H]+8/7[A]+7/1[H]",
+        "dribblesAttempted": "21/15[H]+21/24[A]+26/15[H]+19/17[A]+22/10[H]+16/9[A]+12/7[H]",
+        "isHome": "true+false+true+false+true+false+true",
+        "cornersTotals": "42/30",
+        "cornersTotalsHome": "26/11",
+        "cornersTotalsAway": "16/19",
+        "cornersAverage": "6.00/4.29",
+        "cornersAverageHome": "6.50/2.75",
+        "cornersAverageAway": "5.33/6.33",
+        "foulsTotals": "76/88",
+        "foulsTotalsHome": "44/51",
+        "foulsTotalsAway": "32/37",
+        "foulsAverage": "10.86/12.57",
+        "foulsAverageHome": "11.00/12.75",
+        "foulsAverageAway": "10.67/12.33",
+        "goalKicksTotals": "45/64",
+        "goalKicksTotalsHome": "25/31",
+        "goalKicksTotalsAway": "20/33",
+        "goalKicksAverage": "6.43/9.14",
+        "goalKicksAverageHome": "6.25/7.75",
+        "goalKicksAverageAway": "6.67/11.00",
+        "savesTotals": "24/22",
+        "savesTotalsHome": "11/14",
+        "savesTotalsAway": "13/8",
+        "savesAverage": "3.43/3.14",
+        "savesAverageHome": "2.75/3.50",
+        "savesAverageAway": "4.33/2.67",
+        "offsidesTotals": "16/8",
+        "offsidesTotalsHome": "6/3",
+        "offsidesTotalsAway": "10/5",
+        "offsidesAverage": "2.29/1.14",
+        "offsidesAverageHome": "1.50/0.75",
+        "offsidesAverageAway": "3.33/1.67",
+        "shotsOnTargetTotals": "27/35",
+        "shotsOnTargetTotalsHome": "18/15",
+        "shotsOnTargetTotalsAway": "9/20",
+        "shotsOnTargetAverage": "3.86/5.00",
+        "shotsOnTargetAverageHome": "4.50/3.75",
+        "shotsOnTargetAverageAway": "3.00/6.67",
+        "yellowCardsTotals": "24/19",
+        "yellowCardsTotalsHome": "15/13",
+        "yellowCardsTotalsAway": "9/6",
+        "yellowCardsAverage": "3.43/2.71",
+        "yellowCardsAverageHome": "3.75/3.25",
+        "yellowCardsAverageAway": "3.00/2.00",
+        "goalsTotals": "6/9",
+        "goalsTotalsHome": "4/4",
+        "goalsTotalsAway": "2/5",
+        "goalsAverage": "0.86/1.29",
+        "goalsAverageHome": "1.00/1.00",
+        "goalsAverageAway": "0.67/1.67",
+        "throwInsTotals": "137/125",
+        "throwInsTotalsHome": "76/70",
+        "throwInsTotalsAway": "61/55",
+        "throwInsAverage": "19.57/17.86",
+        "throwInsAverageHome": "19.00/17.50",
+        "throwInsAverageAway": "20.33/18.33",
+        "averageBallPossessionTotals": "323/377",
+        "averageBallPossessionTotalsHome": "197/203",
+        "averageBallPossessionTotalsAway": "126/174",
+        "averageBallPossessionAverage": "46.14/53.86",
+        "averageBallPossessionAverageHome": "49.25/50.75",
+        "averageBallPossessionAverageAway": "42.00/58.00",
+        "tacklesTotals": "106/118",
+        "tacklesTotalsHome": "55/65",
+        "tacklesTotalsAway": "51/53",
+        "tacklesAverage": "15.14/16.86",
+        "tacklesAverageHome": "13.75/16.25",
+        "tacklesAverageAway": "17.00/17.67",
+        "interceptionsTotals": "68/65",
+        "interceptionsTotalsHome": "42/33",
+        "interceptionsTotalsAway": "26/32",
+        "interceptionsAverage": "9.71/9.29",
+        "interceptionsAverageHome": "10.50/8.25",
+        "interceptionsAverageAway": "8.67/10.67",
+        "aerialDuelsTotals": "92/109",
+        "aerialDuelsTotalsHome": "46/46",
+        "aerialDuelsTotalsAway": "46/63",
+        "aerialDuelsAverage": "13.14/15.57",
+        "aerialDuelsAverageHome": "11.50/11.50",
+        "aerialDuelsAverageAway": "15.33/21.00",
+        "aerialDuelsAttemptedTotals": "201/201",
+        "aerialDuelsAttemptedTotalsHome": "92/92",
+        "aerialDuelsAttemptedTotalsAway": "109/109",
+        "aerialDuelsAttemptedAverage": "28.71/28.71",
+        "aerialDuelsAttemptedAverageHome": "23.00/23.00",
+        "aerialDuelsAttemptedAverageAway": "36.33/36.33",
+        "dribblesTotals": "74/48",
+        "dribblesTotalsHome": "51/20",
+        "dribblesTotalsAway": "23/28",
+        "dribblesAverage": "10.57/6.86",
+        "dribblesAverageHome": "12.75/5.00",
+        "dribblesAverageAway": "7.67/9.33",
+        "dribblesAttemptedTotals": "137/97",
+        "dribblesAttemptedTotalsHome": "81/47",
+        "dribblesAttemptedTotalsAway": "56/50",
+        "dribblesAttemptedAverage": "19.57/13.86",
+        "dribblesAttemptedAverageHome": "20.25/11.75",
+        "dribblesAttemptedAverageAway": "18.67/16.67"
+    }
+}

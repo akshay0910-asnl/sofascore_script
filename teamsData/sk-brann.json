@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "8.50",
+        "fouls": "12.50",
+        "goalKicks": "9.00",
+        "saves": "2.00",
+        "offsides": "2.00",
+        "shotsOnTarget": "4.50/5.00",
+        "yellowCards": "1.50/3.50",
+        "goals": "1.50/2.50",
+        "throwIns": "35.00",
+        "ballPossession": 62,
+        "tackles": "20.00/11.50",
+        "interceptions": "8.00/9.00",
+        "aerialDuels": "15.00",
+        "aerialDuelsAttempted": "32.50",
+        "dribbles": "5.50/6.00",
+        "dribblesAttempted": "9.00/14.00"
+    },
+    "teamSlug": "sk-brann",
+    "teamId": "1159",
+    "teamName": "SK Brann",
+    "tournament": "Eliteserien",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-tromso-il/knsjy#id:15260745,tab:statistics",
+            "teams": [
+                "SK Brann",
+                "Tromsø IL"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1159,
+                660
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-kristiansund-bk/husjy#id:15260742,tab:statistics",
+            "teams": [
+                "Kristiansund BK",
+                "SK Brann"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                957,
+                1159
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-hamkam/qnsjy#id:13265925,tab:statistics",
+            "teams": [
+                "SK Brann",
+                "HamKam"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1159,
+                666
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-molde-fk/lnsjy#id:13265939,tab:statistics",
+            "teams": [
+                "Molde FK",
+                "SK Brann"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                661,
+                1159
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-kfum-oslo/Lpsjy#id:13265910,tab:statistics",
+            "teams": [
+                "SK Brann",
+                "KFUM Oslo"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1159,
+                786
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-bryne-fk/nnsjy#id:13265895,tab:statistics",
+            "teams": [
+                "Bryne FK",
+                "SK Brann"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                663,
+                1159
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-bodoglimt/gnsjy#id:13295708,tab:statistics",
+            "teams": [
+                "SK Brann",
+                "Bodø/Glimt"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1159,
+                656
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rosenborg-bk-sk-brann/jysly#id:13265893,tab:statistics",
+            "teams": [
+                "Rosenborg BK",
+                "SK Brann"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                1161,
+                1159
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/9[H]",
+            "fouls": "12/12[H]",
+            "goalKicks": "7/13[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "37/24[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "SK Brann,Tromsø IL,Home",
+            "tackles": "19/10[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "21/21[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "13/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/6[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/3[A]",
+            "throwIns": "33/10[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "SK Brann,Kristiansund BK,Away",
+            "tackles": "21/13[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "9/14[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "2/6[A]",
+            "dribblesAttempted": "5/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "11/8[H]",
+            "goalKicks": "4/8[H]",
+            "saves": "2/5[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "3/1[H]",
+            "throwIns": "23/26[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "SK Brann,HamKam,Home",
+            "tackles": "15/25[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "13/13[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "20/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/1[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "0/4[A]",
+            "goals": "0/4[A]",
+            "throwIns": "22/14[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "SK Brann,Molde FK,Away",
+            "tackles": "16/20[A]",
+            "interceptions": "6/13[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "14/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "8/9[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "3/2[H]",
+            "offsides": "5/0[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "35/28[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "SK Brann,KFUM Oslo,Home",
+            "tackles": "24/29[H]",
+            "interceptions": "11/19[H]",
+            "aerialDuels": "14/30[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "19/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "15/17[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "26/15[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "SK Brann,Bryne FK,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "4/15[A]",
+            "aerialDuels": "16/15[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "8/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "17/10[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "0/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "27/30[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "SK Brann,Bodø/Glimt,Home",
+            "tackles": "19/24[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "9/11[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "15/7[H]",
+            "dribblesAttempted": "23/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "13/16[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "3/2[A]",
+            "throwIns": "20/15[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "SK Brann,Rosenborg BK,Away",
+            "tackles": "9/13[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "9/14[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "14/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T20:03:28.770Z",
+    "endTime": "2026-04-05T20:04:08.620Z",
+    "totalTimeSeconds": 39.85,
+    "combinedMatchStatistics": {
+        "corners": "6/9[H]+11/6[A]+8/3[H]+4/1[A]+7/3[H]+5/2[A]+2/1[H]+8/7[A]",
+        "fouls": "12/12[H]+13/12[A]+11/8[H]+10/11[A]+8/9[H]+15/17[A]+17/10[H]+13/16[A]",
+        "goalKicks": "7/13[H]+11/8[A]+4/8[H]+8/5[A]+5/5[H]+9/9[A]+5/8[H]+9/9[A]",
+        "saves": "3/2[H]+1/4[A]+2/5[H]+2/3[A]+3/2[H]+2/4[A]+0/3[H]+2/3[A]",
+        "offsides": "1/2[H]+3/3[A]+4/0[H]+2/1[A]+5/0[H]+2/2[A]+0/0[H]+1/3[A]",
+        "shotsOnTarget": "3/6[H]+6/4[A]+8/3[H]+2/5[A]+3/4[H]+5/4[A]+4/2[H]+6/4[A]",
+        "yellowCards": "1/3[H]+2/4[A]+1/4[H]+0/4[A]+1/2[H]+2/2[A]+4/2[H]+4/2[A]",
+        "goals": "1/2[H]+2/3[A]+3/1[H]+0/4[A]+1/1[H]+1/2[A]+1/2[H]+3/2[A]",
+        "throwIns": "37/24[H]+33/10[A]+23/26[H]+22/14[A]+35/28[H]+26/15[A]+27/30[H]+20/15[A]",
+        "averageBallPossession": "61/39[H]+63/37[A]+73/27[H]+58/42[A]+62/38[H]+69/31[A]+54/46[H]+58/42[A]",
+        "teams": "SK Brann,Tromsø IL,Home+SK Brann,Kristiansund BK,Away+SK Brann,HamKam,Home+SK Brann,Molde FK,Away+SK Brann,KFUM Oslo,Home+SK Brann,Bryne FK,Away+SK Brann,Bodø/Glimt,Home+SK Brann,Rosenborg BK,Away",
+        "tackles": "19/10[H]+21/13[A]+15/25[H]+16/20[A]+24/29[H]+13/14[A]+19/24[H]+9/13[A]",
+        "interceptions": "5/10[H]+11/8[A]+4/8[H]+6/13[A]+11/19[H]+4/15[A]+12/9[H]+5/10[A]",
+        "aerialDuels": "21/21[H]+9/14[A]+13/13[H]+11/12[A]+14/30[H]+16/15[A]+9/11[H]+9/14[A]",
+        "aerialDuelsAttempted": "42/42[H]+23/23[A]+26/26[H]+23/23[A]+44/44[H]+31/31[A]+20/20[H]+23/23[A]",
+        "dribbles": "9/6[H]+2/6[A]+9/3[H]+7/9[A]+6/7[H]+5/5[A]+15/7[H]+7/8[A]",
+        "dribblesAttempted": "13/12[H]+5/16[A]+20/14[H]+14/21[A]+19/14[H]+8/13[A]+23/18[H]+14/12[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "51/32",
+        "cornersTotalsHome": "23/16",
+        "cornersTotalsAway": "28/16",
+        "cornersAverage": "6.38/4.00",
+        "cornersAverageHome": "5.75/4.00",
+        "cornersAverageAway": "7.00/4.00",
+        "foulsTotals": "99/95",
+        "foulsTotalsHome": "48/39",
+        "foulsTotalsAway": "51/56",
+        "foulsAverage": "12.38/11.88",
+        "foulsAverageHome": "12.00/9.75",
+        "foulsAverageAway": "12.75/14.00",
+        "goalKicksTotals": "58/65",
+        "goalKicksTotalsHome": "21/34",
+        "goalKicksTotalsAway": "37/31",
+        "goalKicksAverage": "7.25/8.13",
+        "goalKicksAverageHome": "5.25/8.50",
+        "goalKicksAverageAway": "9.25/7.75",
+        "savesTotals": "15/26",
+        "savesTotalsHome": "8/12",
+        "savesTotalsAway": "7/14",
+        "savesAverage": "1.88/3.25",
+        "savesAverageHome": "2.00/3.00",
+        "savesAverageAway": "1.75/3.50",
+        "offsidesTotals": "18/11",
+        "offsidesTotalsHome": "10/2",
+        "offsidesTotalsAway": "8/9",
+        "offsidesAverage": "2.25/1.38",
+        "offsidesAverageHome": "2.50/0.50",
+        "offsidesAverageAway": "2.00/2.25",
+        "shotsOnTargetTotals": "37/32",
+        "shotsOnTargetTotalsHome": "18/15",
+        "shotsOnTargetTotalsAway": "19/17",
+        "shotsOnTargetAverage": "4.63/4.00",
+        "shotsOnTargetAverageHome": "4.50/3.75",
+        "shotsOnTargetAverageAway": "4.75/4.25",
+        "yellowCardsTotals": "15/23",
+        "yellowCardsTotalsHome": "7/11",
+        "yellowCardsTotalsAway": "8/12",
+        "yellowCardsAverage": "1.88/2.88",
+        "yellowCardsAverageHome": "1.75/2.75",
+        "yellowCardsAverageAway": "2.00/3.00",
+        "goalsTotals": "12/17",
+        "goalsTotalsHome": "6/6",
+        "goalsTotalsAway": "6/11",
+        "goalsAverage": "1.50/2.13",
+        "goalsAverageHome": "1.50/1.50",
+        "goalsAverageAway": "1.50/2.75",
+        "throwInsTotals": "223/162",
+        "throwInsTotalsHome": "122/108",
+        "throwInsTotalsAway": "101/54",
+        "throwInsAverage": "27.88/20.25",
+        "throwInsAverageHome": "30.50/27.00",
+        "throwInsAverageAway": "25.25/13.50",
+        "averageBallPossessionTotals": "498/302",
+        "averageBallPossessionTotalsHome": "250/150",
+        "averageBallPossessionTotalsAway": "248/152",
+        "averageBallPossessionAverage": "62.25/37.75",
+        "averageBallPossessionAverageHome": "62.50/37.50",
+        "averageBallPossessionAverageAway": "62.00/38.00",
+        "tacklesTotals": "136/148",
+        "tacklesTotalsHome": "77/88",
+        "tacklesTotalsAway": "59/60",
+        "tacklesAverage": "17.00/18.50",
+        "tacklesAverageHome": "19.25/22.00",
+        "tacklesAverageAway": "14.75/15.00",
+        "interceptionsTotals": "58/92",
+        "interceptionsTotalsHome": "32/46",
+        "interceptionsTotalsAway": "26/46",
+        "interceptionsAverage": "7.25/11.50",
+        "interceptionsAverageHome": "8.00/11.50",
+        "interceptionsAverageAway": "6.50/11.50",
+        "aerialDuelsTotals": "102/130",
+        "aerialDuelsTotalsHome": "57/75",
+        "aerialDuelsTotalsAway": "45/55",
+        "aerialDuelsAverage": "12.75/16.25",
+        "aerialDuelsAverageHome": "14.25/18.75",
+        "aerialDuelsAverageAway": "11.25/13.75",
+        "aerialDuelsAttemptedTotals": "232/232",
+        "aerialDuelsAttemptedTotalsHome": "132/132",
+        "aerialDuelsAttemptedTotalsAway": "100/100",
+        "aerialDuelsAttemptedAverage": "29.00/29.00",
+        "aerialDuelsAttemptedAverageHome": "33.00/33.00",
+        "aerialDuelsAttemptedAverageAway": "25.00/25.00",
+        "dribblesTotals": "60/51",
+        "dribblesTotalsHome": "39/23",
+        "dribblesTotalsAway": "21/28",
+        "dribblesAverage": "7.50/6.38",
+        "dribblesAverageHome": "9.75/5.75",
+        "dribblesAverageAway": "5.25/7.00",
+        "dribblesAttemptedTotals": "116/120",
+        "dribblesAttemptedTotalsHome": "75/58",
+        "dribblesAttemptedTotalsAway": "41/62",
+        "dribblesAttemptedAverage": "14.50/15.00",
+        "dribblesAttemptedAverageHome": "18.75/14.50",
+        "dribblesAttemptedAverageAway": "10.25/15.50"
+    }
+}

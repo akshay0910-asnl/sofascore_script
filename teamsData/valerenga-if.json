@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.50",
+        "fouls": "15.00",
+        "goalKicks": "10.00",
+        "saves": "2.50",
+        "offsides": "0.50",
+        "shotsOnTarget": "5.50/2.50",
+        "yellowCards": "1.00/1.00",
+        "goals": "1.50/0.00",
+        "throwIns": "20.00",
+        "ballPossession": 41,
+        "tackles": "25.50/18.00",
+        "interceptions": "9.50/7.50",
+        "aerialDuels": "18.50",
+        "aerialDuelsAttempted": "33.50",
+        "dribbles": "9.50/8.00",
+        "dribblesAttempted": "19.50/24.50"
+    },
+    "teamSlug": "valerenga-if",
+    "teamId": "1165",
+    "teamName": "Vålerenga IF",
+    "tournament": "Eliteserien",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-rosenborg-bk/lyspy#id:15260747,tab:statistics",
+            "teams": [
+                "Rosenborg BK",
+                "Vålerenga IF"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                1161,
+                1165
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-sandefjord-fotball/Bnspy#id:15260743,tab:statistics",
+            "teams": [
+                "Vålerenga IF",
+                "Sandefjord Fotball"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1165,
+                676
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-viking-fk/oyspy#id:13265878,tab:statistics",
+            "teams": [
+                "Viking FK",
+                "Vålerenga IF"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                1164,
+                1165
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-kristiansund-bk/huspy#id:13265931,tab:statistics",
+            "teams": [
+                "Vålerenga IF",
+                "Kristiansund BK"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                1165,
+                957
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-rosenborg-bk/lyspy#id:13265911,tab:statistics",
+            "teams": [
+                "Rosenborg BK",
+                "Vålerenga IF"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1161,
+                1165
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-bodoglimt/gnspy#id:13265899,tab:statistics",
+            "teams": [
+                "Vålerenga IF",
+                "Bodø/Glimt"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1165,
+                656
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-stromsgodset/nyspy#id:13265901,tab:statistics",
+            "teams": [
+                "Vålerenga IF",
+                "Strømsgodset"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1165,
+                1163
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-hamkam/qnspy#id:13295726,tab:statistics",
+            "teams": [
+                "HamKam",
+                "Vålerenga IF"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                666,
+                1165
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/16[A]",
+            "fouls": "19/9[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "6/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/16[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Vålerenga IF,Rosenborg BK,Away",
+            "tackles": "26/16[A]",
+            "interceptions": "12/10[A]",
+            "aerialDuels": "17/14[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "15/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/7[H]",
+            "fouls": "11/7[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "5/4[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/24[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Vålerenga IF,Sandefjord Fotball,Home",
+            "tackles": "25/20[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "20/16[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "13/10[H]",
+            "dribblesAttempted": "24/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/18[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "0/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/5[A]",
+            "throwIns": "18/24[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Vålerenga IF,Viking FK,Away",
+            "tackles": "15/19[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "12/15[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "17/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "4/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "3/3[H]",
+            "throwIns": "16/11[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Vålerenga IF,Kristiansund BK,Home",
+            "tackles": "10/10[H]",
+            "interceptions": "6/5[H]",
+            "aerialDuels": "9/5[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "8/10[H]",
+            "dribblesAttempted": "16/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/11[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "18/2[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "25/75[A]",
+            "teams": "Vålerenga IF,Rosenborg BK,Away",
+            "tackles": "16/8[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "9/15[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "8/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/12[H]",
+            "fouls": "14/10[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "6/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "15/17[H]",
+            "averageBallPossession": "29/71[H]",
+            "teams": "Vålerenga IF,Bodø/Glimt,Home",
+            "tackles": "22/10[H]",
+            "interceptions": "11/5[H]",
+            "aerialDuels": "8/17[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "9/8[H]",
+            "dribblesAttempted": "14/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "16/3[H]",
+            "fouls": "9/15[H]",
+            "goalKicks": "5/13[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "20/13[H]",
+            "averageBallPossession": "68/32[H]",
+            "teams": "Vålerenga IF,Strømsgodset,Home",
+            "tackles": "19/19[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "18/15[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "16/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/6[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "5/5[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "24/16[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Vålerenga IF,HamKam,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "18/8[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T20:01:18.676Z",
+    "endTime": "2026-04-05T20:01:56.296Z",
+    "totalTimeSeconds": 37.62,
+    "combinedMatchStatistics": {
+        "corners": "6/16[A]+7/7[H]+3/6[A]+5/6[H]+4/11[A]+2/12[H]+16/3[H]+8/6[A]",
+        "fouls": "19/9[A]+11/7[H]+13/18[A]+13/12[H]+10/10[A]+14/10[H]+9/15[H]+12/13[A]",
+        "goalKicks": "9/6[A]+11/7[H]+9/8[A]+7/11[H]+18/2[A]+12/7[H]+5/13[H]+6/9[A]",
+        "saves": "1/4[A]+5/4[H]+0/3[A]+4/2[H]+4/2[A]+6/1[H]+2/5[H]+5/5[A]",
+        "offsides": "1/0[A]+0/2[H]+1/2[A]+2/1[H]+1/1[A]+1/0[H]+0/1[H]+1/3[A]",
+        "shotsOnTarget": "6/1[A]+5/5[H]+4/5[A]+5/7[H]+2/5[A]+4/7[H]+7/3[H]+6/7[A]",
+        "yellowCards": "2/1[A]+0/1[H]+3/1[A]+2/0[H]+3/2[A]+0/1[H]+0/3[H]+1/3[A]",
+        "goals": "2/0[A]+1/0[H]+1/5[A]+3/3[H]+0/1[A]+3/1[H]+2/1[H]+1/2[A]",
+        "throwIns": "21/16[A]+19/24[H]+18/24[A]+16/11[H]+16/17[A]+15/17[H]+20/13[H]+24/16[A]",
+        "averageBallPossession": "39/61[A]+43/57[H]+52/48[A]+58/42[H]+25/75[A]+29/71[H]+68/32[H]+61/39[A]",
+        "teams": "Vålerenga IF,Rosenborg BK,Away+Vålerenga IF,Sandefjord Fotball,Home+Vålerenga IF,Viking FK,Away+Vålerenga IF,Kristiansund BK,Home+Vålerenga IF,Rosenborg BK,Away+Vålerenga IF,Bodø/Glimt,Home+Vålerenga IF,Strømsgodset,Home+Vålerenga IF,HamKam,Away",
+        "tackles": "26/16[A]+25/20[H]+15/19[A]+10/10[H]+16/8[A]+22/10[H]+19/19[H]+12/15[A]",
+        "interceptions": "12/10[A]+7/5[H]+8/5[A]+6/5[H]+6/6[A]+11/5[H]+5/10[H]+8/11[A]",
+        "aerialDuels": "17/14[A]+20/16[H]+12/15[A]+9/5[H]+9/15[A]+8/17[H]+18/15[H]+18/8[A]",
+        "aerialDuelsAttempted": "31/31[A]+36/36[H]+27/27[A]+14/14[H]+24/24[A]+25/25[H]+33/33[H]+26/26[A]",
+        "dribbles": "6/6[A]+13/10[H]+9/5[A]+8/10[H]+4/6[A]+9/8[H]+7/9[H]+5/7[A]",
+        "dribblesAttempted": "15/27[A]+24/22[H]+17/13[A]+16/15[H]+8/16[A]+14/20[H]+16/21[H]+10/10[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "51/67",
+        "cornersTotalsHome": "30/28",
+        "cornersTotalsAway": "21/39",
+        "cornersAverage": "6.38/8.38",
+        "cornersAverageHome": "7.50/7.00",
+        "cornersAverageAway": "5.25/9.75",
+        "foulsTotals": "101/94",
+        "foulsTotalsHome": "47/44",
+        "foulsTotalsAway": "54/50",
+        "foulsAverage": "12.63/11.75",
+        "foulsAverageHome": "11.75/11.00",
+        "foulsAverageAway": "13.50/12.50",
+        "goalKicksTotals": "77/63",
+        "goalKicksTotalsHome": "35/38",
+        "goalKicksTotalsAway": "42/25",
+        "goalKicksAverage": "9.63/7.88",
+        "goalKicksAverageHome": "8.75/9.50",
+        "goalKicksAverageAway": "10.50/6.25",
+        "savesTotals": "27/26",
+        "savesTotalsHome": "17/12",
+        "savesTotalsAway": "10/14",
+        "savesAverage": "3.38/3.25",
+        "savesAverageHome": "4.25/3.00",
+        "savesAverageAway": "2.50/3.50",
+        "offsidesTotals": "7/10",
+        "offsidesTotalsHome": "3/4",
+        "offsidesTotalsAway": "4/6",
+        "offsidesAverage": "0.88/1.25",
+        "offsidesAverageHome": "0.75/1.00",
+        "offsidesAverageAway": "1.00/1.50",
+        "shotsOnTargetTotals": "39/40",
+        "shotsOnTargetTotalsHome": "21/22",
+        "shotsOnTargetTotalsAway": "18/18",
+        "shotsOnTargetAverage": "4.88/5.00",
+        "shotsOnTargetAverageHome": "5.25/5.50",
+        "shotsOnTargetAverageAway": "4.50/4.50",
+        "yellowCardsTotals": "11/12",
+        "yellowCardsTotalsHome": "2/5",
+        "yellowCardsTotalsAway": "9/7",
+        "yellowCardsAverage": "1.38/1.50",
+        "yellowCardsAverageHome": "0.50/1.25",
+        "yellowCardsAverageAway": "2.25/1.75",
+        "goalsTotals": "13/13",
+        "goalsTotalsHome": "9/5",
+        "goalsTotalsAway": "4/8",
+        "goalsAverage": "1.63/1.63",
+        "goalsAverageHome": "2.25/1.25",
+        "goalsAverageAway": "1.00/2.00",
+        "throwInsTotals": "149/138",
+        "throwInsTotalsHome": "70/65",
+        "throwInsTotalsAway": "79/73",
+        "throwInsAverage": "18.63/17.25",
+        "throwInsAverageHome": "17.50/16.25",
+        "throwInsAverageAway": "19.75/18.25",
+        "averageBallPossessionTotals": "375/425",
+        "averageBallPossessionTotalsHome": "198/202",
+        "averageBallPossessionTotalsAway": "177/223",
+        "averageBallPossessionAverage": "46.88/53.13",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "44.25/55.75",
+        "tacklesTotals": "145/117",
+        "tacklesTotalsHome": "76/59",
+        "tacklesTotalsAway": "69/58",
+        "tacklesAverage": "18.13/14.63",
+        "tacklesAverageHome": "19.00/14.75",
+        "tacklesAverageAway": "17.25/14.50",
+        "interceptionsTotals": "63/57",
+        "interceptionsTotalsHome": "29/25",
+        "interceptionsTotalsAway": "34/32",
+        "interceptionsAverage": "7.88/7.13",
+        "interceptionsAverageHome": "7.25/6.25",
+        "interceptionsAverageAway": "8.50/8.00",
+        "aerialDuelsTotals": "111/105",
+        "aerialDuelsTotalsHome": "55/53",
+        "aerialDuelsTotalsAway": "56/52",
+        "aerialDuelsAverage": "13.88/13.13",
+        "aerialDuelsAverageHome": "13.75/13.25",
+        "aerialDuelsAverageAway": "14.00/13.00",
+        "aerialDuelsAttemptedTotals": "216/216",
+        "aerialDuelsAttemptedTotalsHome": "108/108",
+        "aerialDuelsAttemptedTotalsAway": "108/108",
+        "aerialDuelsAttemptedAverage": "27.00/27.00",
+        "aerialDuelsAttemptedAverageHome": "27.00/27.00",
+        "aerialDuelsAttemptedAverageAway": "27.00/27.00",
+        "dribblesTotals": "61/61",
+        "dribblesTotalsHome": "37/37",
+        "dribblesTotalsAway": "24/24",
+        "dribblesAverage": "7.63/7.63",
+        "dribblesAverageHome": "9.25/9.25",
+        "dribblesAverageAway": "6.00/6.00",
+        "dribblesAttemptedTotals": "120/144",
+        "dribblesAttemptedTotalsHome": "70/78",
+        "dribblesAttemptedTotalsAway": "50/66",
+        "dribblesAttemptedAverage": "15.00/18.00",
+        "dribblesAttemptedAverageHome": "17.50/19.50",
+        "dribblesAttemptedAverageAway": "12.50/16.50"
+    }
+}

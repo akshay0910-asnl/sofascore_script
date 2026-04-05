@@ -1,21 +1,21 @@
 {
     "globalStatistics": {
-        "corners": "3.21",
-        "fouls": "12.79",
-        "goalKicks": "8.36",
-        "saves": "3.14",
-        "offsides": "2.29",
-        "shotsOnTarget": "2.64/4.36",
-        "yellowCards": "1.86/2.93",
-        "goals": "1.14/1.14",
-        "throwIns": "21.86",
-        "ballPossession": 40.357142857143,
-        "tackles": "14.21/14.00",
-        "interceptions": "9.93/6.64",
-        "aerialDuels": "21.43",
-        "aerialDuelsAttempted": "45.86",
-        "dribbles": "3.93/6.86",
-        "dribblesAttempted": "11.21/15.00"
+        "corners": "3.62",
+        "fouls": "12.00",
+        "goalKicks": "7.90",
+        "saves": "2.71",
+        "offsides": "1.90",
+        "shotsOnTarget": "3.19/4.00",
+        "yellowCards": "1.71/2.48",
+        "goals": "1.10/1.19",
+        "throwIns": "22.67",
+        "ballPossession": 43.666666666667,
+        "tackles": "14.19/14.57",
+        "interceptions": "9.90/7.24",
+        "aerialDuels": "21.81",
+        "aerialDuelsAttempted": "45.38",
+        "dribbles": "4.86/7.29",
+        "dribblesAttempted": "12.48/15.29"
     },
     "teamSlug": "petrojet",
     "teamId": "43567",
@@ -23,137 +23,277 @@
     "tournament": "Egyptian Premier League",
     "matchLinks": [
         {
+            "href": "https://www.sofascore.com/football/match/petrojet-arab-contractors-fc/pXqsrwr#id:15728185,tab:statistics",
+            "teams": [
+                "Arab Contractors FC",
+                "Petrojet"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                42365,
+                43567
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/petrojet-talaea-el-gaish/lwrsrwr#id:14321326,tab:statistics",
+            "teams": [
+                "Petrojet",
+                "Tala'ea El-Gaish"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                43567,
+                43561
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/modern-sport-fc-petrojet/rwrsFqgc#id:14324878,tab:statistics",
+            "teams": [
+                "Modern Sport FC",
+                "Petrojet"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                265830,
+                43567
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/petrojet-al-ittihad-alexandria/Mdosrwr#id:14321317,tab:statistics",
+            "teams": [
+                "Petrojet",
+                "Al-Ittihad Alexandria"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                43567,
+                35187
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pharco-fc-petrojet/rwrsdJWb#id:14324875,tab:statistics",
+            "teams": [
+                "Pharco FC",
+                "Petrojet"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                241703,
+                43567
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/petrojet-enppi/owrsrwr#id:14321300,tab:statistics",
+            "teams": [
+                "Petrojet",
+                "ENPPI"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                43567,
+                43564
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/petrojet-zamalek-sc/tXqsrwr#id:14321288,tab:statistics",
+            "teams": [
+                "Zamalek SC",
+                "Petrojet"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                42368,
+                43567
+            ],
+            "isHome": false
+        },
+        {
             "href": "https://www.sofascore.com/football/match/pyramids-fc-petrojet/rwrscavb#id:14519866,tab:statistics",
             "teams": [
                 "Petrojet",
-                "Pyramids"
+                "Pyramids FC"
             ],
             "goals": [
-                "2",
-                "2"
+                2,
+                2
             ],
             "teamIds": [
-                "43567",
-                "175002"
+                43567,
+                175002
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/petrojet-haras-el-hedoud/qwrsrwr#id:14321269,tab:statistics",
-            "teams": [
-                "Petrojet",
-                "Haras El Hodoud"
-            ],
-            "goals": [
-                "3",
-                "1"
-            ],
-            "teamIds": [
-                "43567",
-                "43566"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/ceramica-cleopatra-petrojet/rwrsxHYc#id:14321270,tab:statistics",
-            "teams": [
-                "Ceramica Cleopatra",
-                "Petrojet"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "371622",
-                "43567"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/petrojet-al-ahly-fc/kNcsrwr#id:14321254,tab:statistics",
-            "teams": [
-                "Petrojet",
-                "Al Ahly"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "43567",
-                "6910"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/zed-fc-petrojet/rwrstnZc#id:14324861,tab:statistics",
-            "teams": [
-                "ZED FC",
-                "Petrojet"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "373168",
-                "43567"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/petrojet-al-masry/kwrsrwr#id:14324836,tab:statistics",
-            "teams": [
-                "Al-Masry",
-                "Petrojet"
-            ],
-            "goals": [
-                "2",
-                "3"
-            ],
-            "teamIds": [
-                "43560",
-                "43567"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/ghazl-el-mahalla-petrojet/rwrsuqy#id:14324827,tab:statistics",
-            "teams": [
-                "Petrojet",
-                "Ghazl El Mahalla"
-            ],
-            "goals": [
-                "0",
-                "0"
-            ],
-            "teamIds": [
-                "43567",
-                "58319"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/petrojet-el-gouna-fc/pwrsrwr#id:14324818,tab:statistics",
-            "teams": [
-                "El Gouna",
-                "Petrojet"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "43565",
-                "43567"
-            ],
-            "isHome": false
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "4/1[A]",
+            "fouls": "9/14[A]",
+            "goalKicks": "6/8[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "30/17[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Petrojet,Arab Contractors FC,Away",
+            "tackles": "21/20[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "26/30[A]",
+            "aerialDuelsAttempted": "56/56[A]",
+            "dribbles": "12/7[A]",
+            "dribblesAttempted": "22/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "10/9[H]",
+            "goalKicks": "11/9[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "21/18[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Petrojet,Tala'ea El-Gaish,Home",
+            "tackles": "11/10[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "14/20[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "3/9[H]",
+            "dribblesAttempted": "8/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "9/22[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/25[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Petrojet,Modern Sport FC,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "15/6[A]",
+            "aerialDuels": "23/26[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "8/14[A]",
+            "dribblesAttempted": "17/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "3/8[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/24[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Petrojet,Al-Ittihad Alexandria,Home",
+            "tackles": "20/17[H]",
+            "interceptions": "13/10[H]",
+            "aerialDuels": "19/19[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "5/10[H]",
+            "dribblesAttempted": "15/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "13/16[A]",
+            "goalKicks": "3/11[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "20/20[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Petrojet,Pharco FC,Away",
+            "tackles": "7/13[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "32/25[A]",
+            "aerialDuelsAttempted": "57/57[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "11/5[H]",
+            "saves": "0/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "28/17[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Petrojet,ENPPI,Home",
+            "tackles": "23/21[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "26/16[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "18/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "6/18[A]",
+            "saves": "5/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "25/19[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Petrojet,Zamalek SC,Away",
+            "tackles": "7/12[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "18/17[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/1[A]",
+            "dribblesAttempted": "17/3[A]",
+            "isHome": false
+        },
         {
             "corners": "2/11[H]",
             "fouls": "12/8[H]",
@@ -165,7 +305,7 @@
             "goals": "2/2[H]",
             "throwIns": "22/27[H]",
             "averageBallPossession": "36/64[H]",
-            "teams": "Petrojet,Pyramids,Home",
+            "teams": "Petrojet,Pyramids FC,Home",
             "tackles": "15/13[H]",
             "interceptions": "5/4[H]",
             "aerialDuels": "24/20[H]",
@@ -173,266 +313,127 @@
             "dribbles": "1/4[H]",
             "dribblesAttempted": "8/14[H]",
             "isHome": true
-        },
-        {
-            "corners": "5/6[H]",
-            "fouls": "10/12[H]",
-            "goalKicks": "8/6[H]",
-            "saves": "3/2[H]",
-            "offsides": "4/4[H]",
-            "shotsOnTarget": "5/4[H]",
-            "yellowCards": "0/2[H]",
-            "goals": "3/1[H]",
-            "throwIns": "21/20[H]",
-            "averageBallPossession": "52/48[H]",
-            "teams": "Petrojet,Haras El Hodoud,Home",
-            "tackles": "7/7[H]",
-            "interceptions": "8/7[H]",
-            "aerialDuels": "27/21[H]",
-            "aerialDuelsAttempted": "48/48[H]",
-            "dribbles": "1/4[H]",
-            "dribblesAttempted": "4/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/5[A]",
-            "fouls": "9/10[A]",
-            "goalKicks": "6/12[A]",
-            "saves": "2/2[A]",
-            "offsides": "3/0[A]",
-            "shotsOnTarget": "4/5[A]",
-            "yellowCards": "0/4[A]",
-            "goals": "1/2[A]",
-            "throwIns": "23/24[A]",
-            "averageBallPossession": "31/69[A]",
-            "teams": "Petrojet,Ceramica Cleopatra,Away",
-            "tackles": "11/15[A]",
-            "interceptions": "13/11[A]",
-            "aerialDuels": "13/15[A]",
-            "aerialDuelsAttempted": "28/28[A]",
-            "dribbles": "3/10[A]",
-            "dribblesAttempted": "13/18[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/15[H]",
-            "fouls": "24/13[H]",
-            "goalKicks": "15/9[H]",
-            "saves": "4/0[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "1/5[H]",
-            "yellowCards": "7/2[H]",
-            "goals": "1/1[H]",
-            "throwIns": "16/29[H]",
-            "averageBallPossession": "21/79[H]",
-            "teams": "Petrojet,Al Ahly,Home",
-            "tackles": "14/15[H]",
-            "interceptions": "13/7[H]",
-            "aerialDuels": "13/22[H]",
-            "aerialDuelsAttempted": "35/35[H]",
-            "dribbles": "5/6[H]",
-            "dribblesAttempted": "11/14[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/6[A]",
-            "fouls": "15/17[A]",
-            "goalKicks": "7/7[A]",
-            "saves": "6/1[A]",
-            "offsides": "4/3[A]",
-            "shotsOnTarget": "2/8[A]",
-            "yellowCards": "1/7[A]",
-            "goals": "1/2[A]",
-            "throwIns": "26/18[A]",
-            "averageBallPossession": "45/55[A]",
-            "teams": "Petrojet,ZED FC,Away",
-            "tackles": "14/14[A]",
-            "interceptions": "10/4[A]",
-            "aerialDuels": "16/33[A]",
-            "aerialDuelsAttempted": "49/49[A]",
-            "dribbles": "6/7[A]",
-            "dribblesAttempted": "14/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/10[A]",
-            "fouls": "12/8[A]",
-            "goalKicks": "6/10[A]",
-            "saves": "4/0[A]",
-            "offsides": "3/2[A]",
-            "shotsOnTarget": "3/6[A]",
-            "yellowCards": "2/4[A]",
-            "goals": "3/2[A]",
-            "throwIns": "13/13[A]",
-            "averageBallPossession": "36/64[A]",
-            "teams": "Petrojet,Al-Masry,Away",
-            "tackles": "14/5[A]",
-            "interceptions": "11/4[A]",
-            "aerialDuels": "10/18[A]",
-            "aerialDuelsAttempted": "28/28[A]",
-            "dribbles": "1/2[A]",
-            "dribblesAttempted": "4/11[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/5[H]",
-            "fouls": "15/18[H]",
-            "goalKicks": "5/8[H]",
-            "saves": "1/0[H]",
-            "offsides": "0/3[H]",
-            "shotsOnTarget": "0/1[H]",
-            "yellowCards": "4/2[H]",
-            "goals": "0/0[H]",
-            "throwIns": "18/26[H]",
-            "averageBallPossession": "38/62[H]",
-            "teams": "Petrojet,Ghazl El Mahalla,Home",
-            "tackles": "12/15[H]",
-            "interceptions": "5/4[H]",
-            "aerialDuels": "25/24[H]",
-            "aerialDuelsAttempted": "49/49[H]",
-            "dribbles": "2/7[H]",
-            "dribblesAttempted": "6/13[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/4[A]",
-            "fouls": "12/14[A]",
-            "goalKicks": "7/13[A]",
-            "saves": "3/0[A]",
-            "offsides": "1/3[A]",
-            "shotsOnTarget": "0/4[A]",
-            "yellowCards": "1/3[A]",
-            "goals": "1/1[A]",
-            "throwIns": "17/21[A]",
-            "averageBallPossession": "50/50[A]",
-            "teams": "Petrojet,El Gouna,Away",
-            "tackles": "17/16[A]",
-            "interceptions": "5/12[A]",
-            "aerialDuels": "31/28[A]",
-            "aerialDuelsAttempted": "59/59[A]",
-            "dribbles": "6/4[A]",
-            "dribblesAttempted": "17/12[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-28T12:55:30.697Z",
-    "endTime": "2026-01-28T12:56:06.701Z",
-    "totalTimeSeconds": 36,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T19:51:22.551Z",
+    "endTime": "2026-04-05T19:51:58.863Z",
+    "totalTimeSeconds": 36.31,
     "combinedMatchStatistics": {
-        "corners": "2/11[H]+5/6[H]+4/5[A]+1/15[H]+4/6[A]+3/10[A]+1/5[H]+3/4[A]",
-        "fouls": "12/8[H]+10/12[H]+9/10[A]+24/13[H]+15/17[A]+12/8[A]+15/18[H]+12/14[A]",
-        "goalKicks": "11/5[H]+8/6[H]+6/12[A]+15/9[H]+7/7[A]+6/10[A]+5/8[H]+7/13[A]",
-        "saves": "6/0[H]+3/2[H]+2/2[A]+4/0[H]+6/1[A]+4/0[A]+1/0[H]+3/0[A]",
-        "offsides": "3/6[H]+4/4[H]+3/0[A]+3/1[H]+4/3[A]+3/2[A]+0/3[H]+1/3[A]",
-        "shotsOnTarget": "2/8[H]+5/4[H]+4/5[A]+1/5[H]+2/8[A]+3/6[A]+0/1[H]+0/4[A]",
-        "yellowCards": "5/2[H]+0/2[H]+0/4[A]+7/2[H]+1/7[A]+2/4[A]+4/2[H]+1/3[A]",
-        "goals": "2/2[H]+3/1[H]+1/2[A]+1/1[H]+1/2[A]+3/2[A]+0/0[H]+1/1[A]",
-        "throwIns": "22/27[H]+21/20[H]+23/24[A]+16/29[H]+26/18[A]+13/13[A]+18/26[H]+17/21[A]",
-        "averageBallPossession": "36/64[H]+52/48[H]+31/69[A]+21/79[H]+45/55[A]+36/64[A]+38/62[H]+50/50[A]",
-        "teams": "Petrojet,Pyramids,Home+Petrojet,Haras El Hodoud,Home+Petrojet,Ceramica Cleopatra,Away+Petrojet,Al Ahly,Home+Petrojet,ZED FC,Away+Petrojet,Al-Masry,Away+Petrojet,Ghazl El Mahalla,Home+Petrojet,El Gouna,Away",
-        "tackles": "15/13[H]+7/7[H]+11/15[A]+14/15[H]+14/14[A]+14/5[A]+12/15[H]+17/16[A]",
-        "interceptions": "5/4[H]+8/7[H]+13/11[A]+13/7[H]+10/4[A]+11/4[A]+5/4[H]+5/12[A]",
-        "aerialDuels": "24/20[H]+27/21[H]+13/15[A]+13/22[H]+16/33[A]+10/18[A]+25/24[H]+31/28[A]",
-        "aerialDuelsAttempted": "44/44[H]+48/48[H]+28/28[A]+35/35[H]+49/49[A]+28/28[A]+49/49[H]+59/59[A]",
-        "dribbles": "1/4[H]+1/4[H]+3/10[A]+5/6[H]+6/7[A]+1/2[A]+2/7[H]+6/4[A]",
-        "dribblesAttempted": "8/14[H]+4/9[H]+13/18[A]+11/14[H]+14/12[A]+4/11[A]+6/13[H]+17/12[A]",
-        "isHome": "true+true+false+true+false+false+true+false",
-        "cornersTotals": "23/62",
-        "cornersTotalsHome": "9/37",
-        "cornersTotalsAway": "14/25",
-        "cornersAverage": "2.88/7.75",
-        "cornersAverageHome": "2.25/9.25",
-        "cornersAverageAway": "3.50/6.25",
-        "foulsTotals": "109/100",
-        "foulsTotalsHome": "61/51",
-        "foulsTotalsAway": "48/49",
-        "foulsAverage": "13.63/12.50",
-        "foulsAverageHome": "15.25/12.75",
-        "foulsAverageAway": "12.00/12.25",
-        "goalKicksTotals": "65/70",
-        "goalKicksTotalsHome": "39/28",
-        "goalKicksTotalsAway": "26/42",
-        "goalKicksAverage": "8.13/8.75",
-        "goalKicksAverageHome": "9.75/7.00",
-        "goalKicksAverageAway": "6.50/10.50",
-        "savesTotals": "29/5",
-        "savesTotalsHome": "14/2",
-        "savesTotalsAway": "15/3",
-        "savesAverage": "3.63/0.63",
-        "savesAverageHome": "3.50/0.50",
-        "savesAverageAway": "3.75/0.75",
-        "offsidesTotals": "21/22",
-        "offsidesTotalsHome": "10/14",
-        "offsidesTotalsAway": "11/8",
-        "offsidesAverage": "2.63/2.75",
-        "offsidesAverageHome": "2.50/3.50",
-        "offsidesAverageAway": "2.75/2.00",
-        "shotsOnTargetTotals": "17/41",
-        "shotsOnTargetTotalsHome": "8/18",
-        "shotsOnTargetTotalsAway": "9/23",
-        "shotsOnTargetAverage": "2.13/5.13",
-        "shotsOnTargetAverageHome": "2.00/4.50",
-        "shotsOnTargetAverageAway": "2.25/5.75",
-        "yellowCardsTotals": "20/26",
-        "yellowCardsTotalsHome": "16/8",
-        "yellowCardsTotalsAway": "4/18",
-        "yellowCardsAverage": "2.50/3.25",
-        "yellowCardsAverageHome": "4.00/2.00",
-        "yellowCardsAverageAway": "1.00/4.50",
-        "goalsTotals": "12/11",
-        "goalsTotalsHome": "6/4",
-        "goalsTotalsAway": "6/7",
-        "goalsAverage": "1.50/1.38",
-        "goalsAverageHome": "1.50/1.00",
-        "goalsAverageAway": "1.50/1.75",
-        "throwInsTotals": "156/178",
-        "throwInsTotalsHome": "77/102",
-        "throwInsTotalsAway": "79/76",
-        "throwInsAverage": "19.50/22.25",
-        "throwInsAverageHome": "19.25/25.50",
-        "throwInsAverageAway": "19.75/19.00",
-        "averageBallPossessionTotals": "309/491",
-        "averageBallPossessionTotalsHome": "147/253",
-        "averageBallPossessionTotalsAway": "162/238",
-        "averageBallPossessionAverage": "38.63/61.38",
-        "averageBallPossessionAverageHome": "36.75/63.25",
-        "averageBallPossessionAverageAway": "40.50/59.50",
-        "tacklesTotals": "104/100",
-        "tacklesTotalsHome": "48/50",
-        "tacklesTotalsAway": "56/50",
-        "tacklesAverage": "13.00/12.50",
-        "tacklesAverageHome": "12.00/12.50",
-        "tacklesAverageAway": "14.00/12.50",
-        "interceptionsTotals": "70/53",
-        "interceptionsTotalsHome": "31/22",
-        "interceptionsTotalsAway": "39/31",
-        "interceptionsAverage": "8.75/6.63",
-        "interceptionsAverageHome": "7.75/5.50",
-        "interceptionsAverageAway": "9.75/7.75",
-        "aerialDuelsTotals": "159/181",
-        "aerialDuelsTotalsHome": "89/87",
-        "aerialDuelsTotalsAway": "70/94",
-        "aerialDuelsAverage": "19.88/22.63",
-        "aerialDuelsAverageHome": "22.25/21.75",
-        "aerialDuelsAverageAway": "17.50/23.50",
-        "aerialDuelsAttemptedTotals": "340/340",
-        "aerialDuelsAttemptedTotalsHome": "176/176",
-        "aerialDuelsAttemptedTotalsAway": "164/164",
-        "aerialDuelsAttemptedAverage": "42.50/42.50",
-        "aerialDuelsAttemptedAverageHome": "44.00/44.00",
-        "aerialDuelsAttemptedAverageAway": "41.00/41.00",
-        "dribblesTotals": "25/44",
-        "dribblesTotalsHome": "9/21",
-        "dribblesTotalsAway": "16/23",
-        "dribblesAverage": "3.13/5.50",
-        "dribblesAverageHome": "2.25/5.25",
-        "dribblesAverageAway": "4.00/5.75",
-        "dribblesAttemptedTotals": "77/103",
-        "dribblesAttemptedTotalsHome": "29/50",
-        "dribblesAttemptedTotalsAway": "48/53",
-        "dribblesAttemptedAverage": "9.63/12.88",
-        "dribblesAttemptedAverageHome": "7.25/12.50",
-        "dribblesAttemptedAverageAway": "12.00/13.25"
+        "corners": "4/1[A]+1/5[H]+7/5[A]+4/4[H]+4/2[A]+4/2[H]+7/3[A]+2/11[H]",
+        "fouls": "9/14[A]+10/9[H]+9/22[A]+10/16[H]+13/16[A]+11/13[H]+11/12[A]+12/8[H]",
+        "goalKicks": "6/8[A]+11/9[H]+6/9[A]+6/12[H]+3/11[A]+11/5[H]+6/18[A]+11/5[H]",
+        "saves": "2/1[A]+2/1[H]+1/4[A]+3/8[H]+1/4[A]+0/2[H]+5/4[A]+6/0[H]",
+        "offsides": "0/3[A]+0/3[H]+3/4[A]+0/4[H]+1/3[A]+3/2[H]+1/1[A]+3/6[H]",
+        "shotsOnTarget": "3/4[A]+2/4[H]+4/3[A]+9/3[H]+5/1[A]+3/1[H]+4/7[A]+2/8[H]",
+        "yellowCards": "2/3[A]+1/2[H]+1/0[A]+3/4[H]+0/2[A]+2/0[H]+1/2[A]+5/2[H]",
+        "goals": "2/2[A]+1/2[H]+1/1[A]+1/0[H]+1/1[A]+1/1[H]+0/2[A]+2/2[H]",
+        "throwIns": "30/17[A]+21/18[H]+24/25[A]+22/24[H]+20/20[A]+28/17[H]+25/19[A]+22/27[H]",
+        "averageBallPossession": "61/39[A]+51/49[H]+55/45[A]+47/53[H]+59/41[A]+34/66[H]+45/55[A]+36/64[H]",
+        "teams": "Petrojet,Arab Contractors FC,Away+Petrojet,Tala'ea El-Gaish,Home+Petrojet,Modern Sport FC,Away+Petrojet,Al-Ittihad Alexandria,Home+Petrojet,Pharco FC,Away+Petrojet,ENPPI,Home+Petrojet,Zamalek SC,Away+Petrojet,Pyramids FC,Home",
+        "tackles": "21/20[A]+11/10[H]+10/17[A]+20/17[H]+7/13[A]+23/21[H]+7/12[A]+15/13[H]",
+        "interceptions": "10/9[A]+6/4[H]+15/6[A]+13/10[H]+7/11[A]+10/10[H]+8/9[A]+5/4[H]",
+        "aerialDuels": "26/30[A]+14/20[H]+23/26[A]+19/19[H]+32/25[A]+26/16[H]+18/17[A]+24/20[H]",
+        "aerialDuelsAttempted": "56/56[A]+34/34[H]+49/49[A]+38/38[H]+57/57[A]+42/42[H]+35/35[A]+44/44[H]",
+        "dribbles": "12/7[A]+3/9[H]+8/14[A]+5/10[H]+3/7[A]+8/9[H]+8/1[A]+1/4[H]",
+        "dribblesAttempted": "22/18[A]+8/15[H]+17/19[A]+15/22[H]+8/9[A]+18/25[H]+17/3[A]+8/14[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "33/33",
+        "cornersTotalsHome": "11/22",
+        "cornersTotalsAway": "22/11",
+        "cornersAverage": "4.13/4.13",
+        "cornersAverageHome": "2.75/5.50",
+        "cornersAverageAway": "5.50/2.75",
+        "foulsTotals": "85/110",
+        "foulsTotalsHome": "43/46",
+        "foulsTotalsAway": "42/64",
+        "foulsAverage": "10.63/13.75",
+        "foulsAverageHome": "10.75/11.50",
+        "foulsAverageAway": "10.50/16.00",
+        "goalKicksTotals": "60/77",
+        "goalKicksTotalsHome": "39/31",
+        "goalKicksTotalsAway": "21/46",
+        "goalKicksAverage": "7.50/9.63",
+        "goalKicksAverageHome": "9.75/7.75",
+        "goalKicksAverageAway": "5.25/11.50",
+        "savesTotals": "20/24",
+        "savesTotalsHome": "11/11",
+        "savesTotalsAway": "9/13",
+        "savesAverage": "2.50/3.00",
+        "savesAverageHome": "2.75/2.75",
+        "savesAverageAway": "2.25/3.25",
+        "offsidesTotals": "11/26",
+        "offsidesTotalsHome": "6/15",
+        "offsidesTotalsAway": "5/11",
+        "offsidesAverage": "1.38/3.25",
+        "offsidesAverageHome": "1.50/3.75",
+        "offsidesAverageAway": "1.25/2.75",
+        "shotsOnTargetTotals": "32/31",
+        "shotsOnTargetTotalsHome": "16/16",
+        "shotsOnTargetTotalsAway": "16/15",
+        "shotsOnTargetAverage": "4.00/3.88",
+        "shotsOnTargetAverageHome": "4.00/4.00",
+        "shotsOnTargetAverageAway": "4.00/3.75",
+        "yellowCardsTotals": "15/15",
+        "yellowCardsTotalsHome": "11/8",
+        "yellowCardsTotalsAway": "4/7",
+        "yellowCardsAverage": "1.88/1.88",
+        "yellowCardsAverageHome": "2.75/2.00",
+        "yellowCardsAverageAway": "1.00/1.75",
+        "goalsTotals": "9/11",
+        "goalsTotalsHome": "5/5",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.13/1.38",
+        "goalsAverageHome": "1.25/1.25",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "192/167",
+        "throwInsTotalsHome": "93/86",
+        "throwInsTotalsAway": "99/81",
+        "throwInsAverage": "24.00/20.88",
+        "throwInsAverageHome": "23.25/21.50",
+        "throwInsAverageAway": "24.75/20.25",
+        "averageBallPossessionTotals": "388/412",
+        "averageBallPossessionTotalsHome": "168/232",
+        "averageBallPossessionTotalsAway": "220/180",
+        "averageBallPossessionAverage": "48.50/51.50",
+        "averageBallPossessionAverageHome": "42.00/58.00",
+        "averageBallPossessionAverageAway": "55.00/45.00",
+        "tacklesTotals": "114/123",
+        "tacklesTotalsHome": "69/61",
+        "tacklesTotalsAway": "45/62",
+        "tacklesAverage": "14.25/15.38",
+        "tacklesAverageHome": "17.25/15.25",
+        "tacklesAverageAway": "11.25/15.50",
+        "interceptionsTotals": "74/63",
+        "interceptionsTotalsHome": "34/28",
+        "interceptionsTotalsAway": "40/35",
+        "interceptionsAverage": "9.25/7.88",
+        "interceptionsAverageHome": "8.50/7.00",
+        "interceptionsAverageAway": "10.00/8.75",
+        "aerialDuelsTotals": "182/173",
+        "aerialDuelsTotalsHome": "83/75",
+        "aerialDuelsTotalsAway": "99/98",
+        "aerialDuelsAverage": "22.75/21.63",
+        "aerialDuelsAverageHome": "20.75/18.75",
+        "aerialDuelsAverageAway": "24.75/24.50",
+        "aerialDuelsAttemptedTotals": "355/355",
+        "aerialDuelsAttemptedTotalsHome": "158/158",
+        "aerialDuelsAttemptedTotalsAway": "197/197",
+        "aerialDuelsAttemptedAverage": "44.38/44.38",
+        "aerialDuelsAttemptedAverageHome": "39.50/39.50",
+        "aerialDuelsAttemptedAverageAway": "49.25/49.25",
+        "dribblesTotals": "48/61",
+        "dribblesTotalsHome": "17/32",
+        "dribblesTotalsAway": "31/29",
+        "dribblesAverage": "6.00/7.63",
+        "dribblesAverageHome": "4.25/8.00",
+        "dribblesAverageAway": "7.75/7.25",
+        "dribblesAttemptedTotals": "113/125",
+        "dribblesAttemptedTotalsHome": "49/76",
+        "dribblesAttemptedTotalsAway": "64/49",
+        "dribblesAttemptedAverage": "14.13/15.63",
+        "dribblesAttemptedAverageHome": "12.25/19.00",
+        "dribblesAttemptedAverageAway": "16.00/12.25"
     }
 }

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.82",
+        "fouls": "11.73",
+        "goalKicks": "9.27",
+        "saves": "3.91",
+        "offsides": "1.91",
+        "shotsOnTarget": "3.64/5.00",
+        "yellowCards": "2.55/3.09",
+        "goals": "1.09/1.18",
+        "throwIns": "23.45",
+        "ballPossession": 40.636363636364,
+        "tackles": "19.73/18.82",
+        "interceptions": "9.64/9.27",
+        "aerialDuels": "19.82",
+        "aerialDuelsAttempted": "39.36",
+        "dribbles": "7.64/6.55",
+        "dribblesAttempted": "15.82/16.27"
+    },
+    "teamSlug": "banfield",
+    "teamId": "3219",
+    "teamName": "Banfield",
+    "tournament": "Liga Profesional de Fútbol",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/tigre-banfield/uobsDcd#id:15270039,tab:statistics",
+            "teams": [
+                "Banfield",
+                "Tigre"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3219,
+                7628
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-rosario-central/robsuob#id:15270029,tab:statistics",
+            "teams": [
+                "Rosario Central",
+                "Banfield"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                3217,
+                3219
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-gimnasia-y-esgrima/fobsuob#id:15270010,tab:statistics",
+            "teams": [
+                "Banfield",
+                "Gimnasia y Esgrima"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                3219,
+                3205
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aldosivi-banfield/uobsLLo#id:15269952,tab:statistics",
+            "teams": [
+                "Banfield",
+                "Aldosivi"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3219,
+                36836
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-river-plate/lobsuob#id:15269927,tab:statistics",
+            "teams": [
+                "River Plate",
+                "Banfield"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                3211,
+                3219
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-newells-old-boys/mobsuob#id:15270132,tab:statistics",
+            "teams": [
+                "Banfield",
+                "Newell's Old Boys"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                3219,
+                3212
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/banfield-club-atletico-belgrano/dobsuob#id:15270098,tab:statistics",
+            "teams": [
+                "Club Atlético Belgrano",
+                "Banfield"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3203,
+                3219
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sarmiento-banfield/uobsNWq#id:15269920,tab:statistics",
+            "teams": [
+                "Sarmiento",
+                "Banfield"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                42338,
+                3219
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/7[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "16/9[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "13/16[H]",
+            "averageBallPossession": "27/73[H]",
+            "teams": "Banfield,Tigre,Home",
+            "tackles": "31/12[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "21/32[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "8/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/6[A]",
+            "fouls": "12/10[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "5/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "19/14[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Banfield,Rosario Central,Away",
+            "tackles": "24/27[A]",
+            "interceptions": "16/9[A]",
+            "aerialDuels": "8/12[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "6/12[A]",
+            "dribblesAttempted": "10/26[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "12/6[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "6/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "28/13[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Banfield,Gimnasia y Esgrima,Home",
+            "tackles": "10/25[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "11/12[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/6[H]",
+            "dribblesAttempted": "24/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "14/7[H]",
+            "goalKicks": "14/8[H]",
+            "saves": "0/0[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/0[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/26[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Banfield,Aldosivi,Home",
+            "tackles": "19/22[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "23/20[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "12/12[H]",
+            "dribblesAttempted": "25/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "12/9[A]",
+            "saves": "5/1[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "25/17[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Banfield,River Plate,Away",
+            "tackles": "22/22[A]",
+            "interceptions": "9/16[A]",
+            "aerialDuels": "19/13[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "15/18[H]",
+            "goalKicks": "11/10[H]",
+            "saves": "2/6[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "3/0[H]",
+            "throwIns": "30/26[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Banfield,Newell's Old Boys,Home",
+            "tackles": "27/24[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "30/23[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "20/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/11[A]",
+            "fouls": "9/16[A]",
+            "goalKicks": "6/3[A]",
+            "saves": "6/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "16/24[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Banfield,Club Atlético Belgrano,Away",
+            "tackles": "17/16[A]",
+            "interceptions": "10/3[A]",
+            "aerialDuels": "9/10[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "13/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "10/10[A]",
+            "saves": "8/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/9[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/20[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Banfield,Sarmiento,Away",
+            "tackles": "10/10[A]",
+            "interceptions": "9/13[A]",
+            "aerialDuels": "29/21[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "8/8[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T19:33:06.123Z",
+    "endTime": "2026-04-05T19:33:41.960Z",
+    "totalTimeSeconds": 35.84,
+    "combinedMatchStatistics": {
+        "corners": "3/7[H]+0/6[A]+8/3[H]+5/4[H]+3/6[A]+4/2[H]+1/11[A]+2/9[A]",
+        "fouls": "14/12[H]+12/10[A]+12/6[H]+14/7[H]+13/15[A]+15/18[H]+9/16[A]+18/14[A]",
+        "goalKicks": "16/9[H]+13/5[A]+5/8[H]+14/8[H]+12/9[A]+11/10[H]+6/3[A]+10/10[A]",
+        "saves": "4/4[H]+5/1[A]+4/4[H]+0/0[H]+5/1[A]+2/6[H]+6/2[A]+8/2[A]",
+        "offsides": "1/3[H]+2/0[A]+1/1[H]+0/1[H]+2/0[A]+2/2[H]+2/0[A]+0/1[A]",
+        "shotsOnTarget": "5/4[H]+2/6[A]+5/6[H]+2/0[H]+2/8[A]+9/2[H]+3/7[A]+2/9[A]",
+        "yellowCards": "4/3[H]+1/3[A]+6/4[H]+3/1[H]+2/1[A]+3/3[H]+2/4[A]+2/4[A]",
+        "goals": "1/0[H]+1/2[A]+1/2[H]+2/0[H]+1/3[A]+3/0[H]+0/1[A]+0/1[A]",
+        "throwIns": "13/16[H]+19/14[A]+28/13[H]+12/26[H]+25/17[A]+30/26[H]+16/24[A]+24/20[A]",
+        "averageBallPossession": "27/73[H]+29/71[A]+54/46[H]+35/65[H]+35/65[A]+53/47[H]+37/63[A]+39/61[A]",
+        "teams": "Banfield,Tigre,Home+Banfield,Rosario Central,Away+Banfield,Gimnasia y Esgrima,Home+Banfield,Aldosivi,Home+Banfield,River Plate,Away+Banfield,Newell's Old Boys,Home+Banfield,Club Atlético Belgrano,Away+Banfield,Sarmiento,Away",
+        "tackles": "31/12[H]+24/27[A]+10/25[H]+19/22[H]+22/22[A]+27/24[H]+17/16[A]+10/10[A]",
+        "interceptions": "5/8[H]+16/9[A]+5/8[H]+11/8[H]+9/16[A]+7/7[H]+10/3[A]+9/13[A]",
+        "aerialDuels": "21/32[H]+8/12[A]+11/12[H]+23/20[H]+19/13[A]+30/23[H]+9/10[A]+29/21[A]",
+        "aerialDuelsAttempted": "53/53[H]+20/20[A]+23/23[H]+43/43[H]+32/32[A]+53/53[H]+19/19[A]+50/50[A]",
+        "dribbles": "3/6[H]+6/12[A]+10/6[H]+12/12[H]+5/6[A]+11/5[H]+6/6[A]+4/3[A]",
+        "dribblesAttempted": "8/17[H]+10/26[A]+24/11[H]+25/22[H]+14/20[A]+20/19[H]+13/16[A]+8/8[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "26/48",
+        "cornersTotalsHome": "20/16",
+        "cornersTotalsAway": "6/32",
+        "cornersAverage": "3.25/6.00",
+        "cornersAverageHome": "5.00/4.00",
+        "cornersAverageAway": "1.50/8.00",
+        "foulsTotals": "107/98",
+        "foulsTotalsHome": "55/43",
+        "foulsTotalsAway": "52/55",
+        "foulsAverage": "13.38/12.25",
+        "foulsAverageHome": "13.75/10.75",
+        "foulsAverageAway": "13.00/13.75",
+        "goalKicksTotals": "87/62",
+        "goalKicksTotalsHome": "46/35",
+        "goalKicksTotalsAway": "41/27",
+        "goalKicksAverage": "10.88/7.75",
+        "goalKicksAverageHome": "11.50/8.75",
+        "goalKicksAverageAway": "10.25/6.75",
+        "savesTotals": "34/20",
+        "savesTotalsHome": "10/14",
+        "savesTotalsAway": "24/6",
+        "savesAverage": "4.25/2.50",
+        "savesAverageHome": "2.50/3.50",
+        "savesAverageAway": "6.00/1.50",
+        "offsidesTotals": "10/8",
+        "offsidesTotalsHome": "4/7",
+        "offsidesTotalsAway": "6/1",
+        "offsidesAverage": "1.25/1.00",
+        "offsidesAverageHome": "1.00/1.75",
+        "offsidesAverageAway": "1.50/0.25",
+        "shotsOnTargetTotals": "30/42",
+        "shotsOnTargetTotalsHome": "21/12",
+        "shotsOnTargetTotalsAway": "9/30",
+        "shotsOnTargetAverage": "3.75/5.25",
+        "shotsOnTargetAverageHome": "5.25/3.00",
+        "shotsOnTargetAverageAway": "2.25/7.50",
+        "yellowCardsTotals": "23/23",
+        "yellowCardsTotalsHome": "16/11",
+        "yellowCardsTotalsAway": "7/12",
+        "yellowCardsAverage": "2.88/2.88",
+        "yellowCardsAverageHome": "4.00/2.75",
+        "yellowCardsAverageAway": "1.75/3.00",
+        "goalsTotals": "9/9",
+        "goalsTotalsHome": "7/2",
+        "goalsTotalsAway": "2/7",
+        "goalsAverage": "1.13/1.13",
+        "goalsAverageHome": "1.75/0.50",
+        "goalsAverageAway": "0.50/1.75",
+        "throwInsTotals": "167/156",
+        "throwInsTotalsHome": "83/81",
+        "throwInsTotalsAway": "84/75",
+        "throwInsAverage": "20.88/19.50",
+        "throwInsAverageHome": "20.75/20.25",
+        "throwInsAverageAway": "21.00/18.75",
+        "averageBallPossessionTotals": "309/491",
+        "averageBallPossessionTotalsHome": "169/231",
+        "averageBallPossessionTotalsAway": "140/260",
+        "averageBallPossessionAverage": "38.63/61.38",
+        "averageBallPossessionAverageHome": "42.25/57.75",
+        "averageBallPossessionAverageAway": "35.00/65.00",
+        "tacklesTotals": "160/158",
+        "tacklesTotalsHome": "87/83",
+        "tacklesTotalsAway": "73/75",
+        "tacklesAverage": "20.00/19.75",
+        "tacklesAverageHome": "21.75/20.75",
+        "tacklesAverageAway": "18.25/18.75",
+        "interceptionsTotals": "72/72",
+        "interceptionsTotalsHome": "28/31",
+        "interceptionsTotalsAway": "44/41",
+        "interceptionsAverage": "9.00/9.00",
+        "interceptionsAverageHome": "7.00/7.75",
+        "interceptionsAverageAway": "11.00/10.25",
+        "aerialDuelsTotals": "150/143",
+        "aerialDuelsTotalsHome": "85/87",
+        "aerialDuelsTotalsAway": "65/56",
+        "aerialDuelsAverage": "18.75/17.88",
+        "aerialDuelsAverageHome": "21.25/21.75",
+        "aerialDuelsAverageAway": "16.25/14.00",
+        "aerialDuelsAttemptedTotals": "293/293",
+        "aerialDuelsAttemptedTotalsHome": "172/172",
+        "aerialDuelsAttemptedTotalsAway": "121/121",
+        "aerialDuelsAttemptedAverage": "36.63/36.63",
+        "aerialDuelsAttemptedAverageHome": "43.00/43.00",
+        "aerialDuelsAttemptedAverageAway": "30.25/30.25",
+        "dribblesTotals": "57/56",
+        "dribblesTotalsHome": "36/29",
+        "dribblesTotalsAway": "21/27",
+        "dribblesAverage": "7.13/7.00",
+        "dribblesAverageHome": "9.00/7.25",
+        "dribblesAverageAway": "5.25/6.75",
+        "dribblesAttemptedTotals": "122/139",
+        "dribblesAttemptedTotalsHome": "77/69",
+        "dribblesAttemptedTotalsAway": "45/70",
+        "dribblesAttemptedAverage": "15.25/17.38",
+        "dribblesAttemptedAverageHome": "19.25/17.25",
+        "dribblesAttemptedAverageAway": "11.25/17.50"
+    }
+}

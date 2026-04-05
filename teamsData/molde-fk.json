@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "7.00",
+        "fouls": "14.50",
+        "goalKicks": "4.50",
+        "saves": "1.50",
+        "offsides": "0.00",
+        "shotsOnTarget": "4.50/4.00",
+        "yellowCards": "1.00/3.50",
+        "goals": "1.50/2.00",
+        "throwIns": "17.00",
+        "ballPossession": 64,
+        "tackles": "20.50/14.00",
+        "interceptions": "9.00/9.00",
+        "aerialDuels": "7.50",
+        "aerialDuelsAttempted": "24.00",
+        "dribbles": "7.00/4.00",
+        "dribblesAttempted": "13.50/15.00"
+    },
+    "teamSlug": "molde-fk",
+    "teamId": "661",
+    "teamName": "Molde FK",
+    "tournament": "Eliteserien",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/viking-fk-molde-fk/lnsoy#id:15260746,tab:statistics",
+            "teams": [
+                "Viking FK",
+                "Molde FK"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                1164,
+                661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rosenborg-bk-molde-fk/lnsly#id:15260738,tab:statistics",
+            "teams": [
+                "Molde FK",
+                "Rosenborg BK"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                661,
+                1161
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sarpsborg-08-molde-fk/lnsxq#id:13265930,tab:statistics",
+            "teams": [
+                "Sarpsborg 08",
+                "Molde FK"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                822,
+                661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-molde-fk/lnsjy#id:13265939,tab:statistics",
+            "teams": [
+                "Molde FK",
+                "SK Brann"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                661,
+                1159
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/haugesund-molde-fk/lnsyn#id:13265909,tab:statistics",
+            "teams": [
+                "Haugesund",
+                "Molde FK"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                673,
+                661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rosenborg-bk-molde-fk/lnsly#id:13265906,tab:statistics",
+            "teams": [
+                "Molde FK",
+                "Rosenborg BK"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                661,
+                1161
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/molde-fk-bodoglimt/gnsln#id:13265892,tab:statistics",
+            "teams": [
+                "Bodø/Glimt",
+                "Molde FK"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                656,
+                661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sandefjord-fotball-molde-fk/lnsBn#id:13295728,tab:statistics",
+            "teams": [
+                "Molde FK",
+                "Sandefjord Fotball"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                661,
+                676
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "9/3[A]",
+            "fouls": "15/20[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "2/5[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/4[A]",
+            "throwIns": "19/16[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "Molde FK,Viking FK,Away",
+            "tackles": "13/15[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "6/19[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "7/2[A]",
+            "dribblesAttempted": "14/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "14/13[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "1/2[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "15/28[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Molde FK,Rosenborg BK,Home",
+            "tackles": "28/13[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "9/14[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "13/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/4[A]",
+            "fouls": "11/5[A]",
+            "goalKicks": "5/15[A]",
+            "saves": "3/9[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "9/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "25/17[A]",
+            "averageBallPossession": "78/22[A]",
+            "teams": "Molde FK,Sarpsborg 08,Away",
+            "tackles": "13/12[A]",
+            "interceptions": "3/4[A]",
+            "aerialDuels": "4/5[A]",
+            "aerialDuelsAttempted": "9/9[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "11/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/4[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "4/0[H]",
+            "goals": "4/0[H]",
+            "throwIns": "14/22[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Molde FK,SK Brann,Home",
+            "tackles": "20/16[H]",
+            "interceptions": "13/6[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "21/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "6/15[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "25/13[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Molde FK,Haugesund,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "12/13[A]",
+            "aerialDuels": "13/10[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "22/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/8[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "3/10[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "14/4[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "4/2[H]",
+            "throwIns": "19/27[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Molde FK,Rosenborg BK,Home",
+            "tackles": "26/10[H]",
+            "interceptions": "6/3[H]",
+            "aerialDuels": "10/9[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "11/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/2[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "18/22[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Molde FK,Bodø/Glimt,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "9/5[A]",
+            "aerialDuels": "3/2[A]",
+            "aerialDuelsAttempted": "5/5[A]",
+            "dribbles": "6/12[A]",
+            "dribblesAttempted": "11/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/4[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/3[H]",
+            "throwIns": "24/19[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Molde FK,Sandefjord Fotball,Home",
+            "tackles": "24/22[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "21/12[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "23/21[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-05T22:48:43.462Z",
+    "endTime": "2026-04-05T22:49:11.987Z",
+    "totalTimeSeconds": 28.52,
+    "combinedMatchStatistics": {
+        "corners": "9/3[A]+5/4[H]+11/4[A]+1/4[H]+4/5[A]+3/8[H]+1/2[A]+10/4[H]",
+        "fouls": "15/20[A]+14/13[H]+11/5[A]+11/10[H]+9/11[A]+13/11[H]+16/11[A]+8/13[H]",
+        "goalKicks": "3/10[A]+6/13[H]+5/15[A]+5/8[H]+6/15[A]+5/7[H]+6/5[A]+5/11[H]",
+        "saves": "2/5[A]+1/2[H]+3/9[A]+3/2[H]+2/1[A]+3/10[H]+2/1[A]+4/3[H]",
+        "offsides": "0/1[A]+0/3[H]+0/4[A]+1/2[H]+2/4[A]+1/1[H]+1/0[A]+1/2[H]",
+        "shotsOnTarget": "5/6[A]+4/2[H]+9/4[A]+5/2[H]+3/2[A]+14/4[H]+2/6[A]+4/7[H]",
+        "yellowCards": "2/3[A]+1/4[H]+1/0[A]+4/0[H]+2/0[A]+4/3[H]+2/1[A]+2/3[H]",
+        "goals": "1/4[A]+2/0[H]+0/1[A]+4/0[H]+2/0[A]+4/2[H]+1/4[A]+1/3[H]",
+        "throwIns": "19/16[A]+15/28[H]+25/17[A]+14/22[H]+25/13[A]+19/27[H]+18/22[A]+24/19[H]",
+        "averageBallPossession": "66/34[A]+62/38[H]+78/22[A]+42/58[H]+59/41[A]+45/55[H]+36/64[A]+60/40[H]",
+        "teams": "Molde FK,Viking FK,Away+Molde FK,Rosenborg BK,Home+Molde FK,Sarpsborg 08,Away+Molde FK,SK Brann,Home+Molde FK,Haugesund,Away+Molde FK,Rosenborg BK,Home+Molde FK,Bodø/Glimt,Away+Molde FK,Sandefjord Fotball,Home",
+        "tackles": "13/15[A]+28/13[H]+13/12[A]+20/16[H]+10/17[A]+26/10[H]+15/13[A]+24/22[H]",
+        "interceptions": "10/9[A]+8/9[H]+3/4[A]+13/6[H]+12/13[A]+6/3[H]+9/5[A]+10/8[H]",
+        "aerialDuels": "6/19[A]+9/14[H]+4/5[A]+12/11[H]+13/10[A]+10/9[H]+3/2[A]+21/12[H]",
+        "aerialDuelsAttempted": "25/25[A]+23/23[H]+9/9[A]+23/23[H]+23/23[A]+19/19[H]+5/5[A]+33/33[H]",
+        "dribbles": "7/2[A]+7/6[H]+5/9[A]+9/7[H]+8/5[A]+5/3[H]+6/12[A]+8/11[H]",
+        "dribblesAttempted": "14/8[A]+13/22[H]+11/16[A]+21/14[H]+22/9[A]+11/16[H]+11/24[A]+23/21[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "44/34",
+        "cornersTotalsHome": "19/20",
+        "cornersTotalsAway": "25/14",
+        "cornersAverage": "5.50/4.25",
+        "cornersAverageHome": "4.75/5.00",
+        "cornersAverageAway": "6.25/3.50",
+        "foulsTotals": "97/94",
+        "foulsTotalsHome": "46/47",
+        "foulsTotalsAway": "51/47",
+        "foulsAverage": "12.13/11.75",
+        "foulsAverageHome": "11.50/11.75",
+        "foulsAverageAway": "12.75/11.75",
+        "goalKicksTotals": "41/84",
+        "goalKicksTotalsHome": "21/39",
+        "goalKicksTotalsAway": "20/45",
+        "goalKicksAverage": "5.13/10.50",
+        "goalKicksAverageHome": "5.25/9.75",
+        "goalKicksAverageAway": "5.00/11.25",
+        "savesTotals": "20/33",
+        "savesTotalsHome": "11/17",
+        "savesTotalsAway": "9/16",
+        "savesAverage": "2.50/4.13",
+        "savesAverageHome": "2.75/4.25",
+        "savesAverageAway": "2.25/4.00",
+        "offsidesTotals": "6/17",
+        "offsidesTotalsHome": "3/8",
+        "offsidesTotalsAway": "3/9",
+        "offsidesAverage": "0.75/2.13",
+        "offsidesAverageHome": "0.75/2.00",
+        "offsidesAverageAway": "0.75/2.25",
+        "shotsOnTargetTotals": "46/33",
+        "shotsOnTargetTotalsHome": "27/15",
+        "shotsOnTargetTotalsAway": "19/18",
+        "shotsOnTargetAverage": "5.75/4.13",
+        "shotsOnTargetAverageHome": "6.75/3.75",
+        "shotsOnTargetAverageAway": "4.75/4.50",
+        "yellowCardsTotals": "18/14",
+        "yellowCardsTotalsHome": "11/10",
+        "yellowCardsTotalsAway": "7/4",
+        "yellowCardsAverage": "2.25/1.75",
+        "yellowCardsAverageHome": "2.75/2.50",
+        "yellowCardsAverageAway": "1.75/1.00",
+        "goalsTotals": "15/14",
+        "goalsTotalsHome": "11/5",
+        "goalsTotalsAway": "4/9",
+        "goalsAverage": "1.88/1.75",
+        "goalsAverageHome": "2.75/1.25",
+        "goalsAverageAway": "1.00/2.25",
+        "throwInsTotals": "159/164",
+        "throwInsTotalsHome": "72/96",
+        "throwInsTotalsAway": "87/68",
+        "throwInsAverage": "19.88/20.50",
+        "throwInsAverageHome": "18.00/24.00",
+        "throwInsAverageAway": "21.75/17.00",
+        "averageBallPossessionTotals": "448/352",
+        "averageBallPossessionTotalsHome": "209/191",
+        "averageBallPossessionTotalsAway": "239/161",
+        "averageBallPossessionAverage": "56.00/44.00",
+        "averageBallPossessionAverageHome": "52.25/47.75",
+        "averageBallPossessionAverageAway": "59.75/40.25",
+        "tacklesTotals": "149/118",
+        "tacklesTotalsHome": "98/61",
+        "tacklesTotalsAway": "51/57",
+        "tacklesAverage": "18.63/14.75",
+        "tacklesAverageHome": "24.50/15.25",
+        "tacklesAverageAway": "12.75/14.25",
+        "interceptionsTotals": "71/57",
+        "interceptionsTotalsHome": "37/26",
+        "interceptionsTotalsAway": "34/31",
+        "interceptionsAverage": "8.88/7.13",
+        "interceptionsAverageHome": "9.25/6.50",
+        "interceptionsAverageAway": "8.50/7.75",
+        "aerialDuelsTotals": "78/82",
+        "aerialDuelsTotalsHome": "52/46",
+        "aerialDuelsTotalsAway": "26/36",
+        "aerialDuelsAverage": "9.75/10.25",
+        "aerialDuelsAverageHome": "13.00/11.50",
+        "aerialDuelsAverageAway": "6.50/9.00",
+        "aerialDuelsAttemptedTotals": "160/160",
+        "aerialDuelsAttemptedTotalsHome": "98/98",
+        "aerialDuelsAttemptedTotalsAway": "62/62",
+        "aerialDuelsAttemptedAverage": "20.00/20.00",
+        "aerialDuelsAttemptedAverageHome": "24.50/24.50",
+        "aerialDuelsAttemptedAverageAway": "15.50/15.50",
+        "dribblesTotals": "55/55",
+        "dribblesTotalsHome": "29/27",
+        "dribblesTotalsAway": "26/28",
+        "dribblesAverage": "6.88/6.88",
+        "dribblesAverageHome": "7.25/6.75",
+        "dribblesAverageAway": "6.50/7.00",
+        "dribblesAttemptedTotals": "126/130",
+        "dribblesAttemptedTotalsHome": "68/73",
+        "dribblesAttemptedTotalsAway": "58/57",
+        "dribblesAttemptedAverage": "15.75/16.25",
+        "dribblesAttemptedAverageHome": "17.00/18.25",
+        "dribblesAttemptedAverageAway": "14.50/14.25"
+    }
+}

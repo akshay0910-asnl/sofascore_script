@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.80",
+        "fouls": "13.90",
+        "goalKicks": "7.50",
+        "saves": "2.55",
+        "offsides": "2.05",
+        "shotsOnTarget": "3.50/3.25",
+        "yellowCards": "2.15/1.75",
+        "goals": "1.05/0.65",
+        "throwIns": "18.95",
+        "ballPossession": 45.95,
+        "tackles": "15.25/9.70",
+        "interceptions": "7.20/7.45",
+        "aerialDuels": "17.25",
+        "aerialDuelsAttempted": "32.85",
+        "dribbles": "4.35/3.95",
+        "dribblesAttempted": "9.70/11.00"
+    },
+    "teamSlug": "smouha",
+    "teamId": "43563",
+    "teamName": "Smouha",
+    "tournament": "Egyptian Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/modern-sport-fc-smouha/nwrsFqgc#id:14321339,tab:statistics",
+            "teams": [
+                "Smouha",
+                "Modern Sport FC"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                43563,
+                265830
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/national-bank-of-egypt-smouha/nwrsBHgc#id:14321325,tab:statistics",
+            "teams": [
+                "National Bank of Egypt",
+                "Smouha"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                266626,
+                43563
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/smouha-al-ahly-fc/kNcsnwr#id:14321311,tab:statistics",
+            "teams": [
+                "Smouha",
+                "Al Ahly FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                43563,
+                6910
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/smouha-al-ittihad-alexandria/Mdosnwr#id:14321302,tab:statistics",
+            "teams": [
+                "Al-Ittihad Alexandria",
+                "Smouha"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                35187,
+                43563
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/smouha-zamalek-sc/tXqsnwr#id:15106487,tab:statistics",
+            "teams": [
+                "Zamalek SC",
+                "Smouha"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                42368,
+                43563
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pyramids-fc-smouha/nwrscavb#id:14321294,tab:statistics",
+            "teams": [
+                "Smouha",
+                "Pyramids FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                43563,
+                175002
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/enppi-smouha/nwrsowr#id:14321291,tab:statistics",
+            "teams": [
+                "ENPPI",
+                "Smouha"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                43564,
+                43563
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pharco-fc-smouha/nwrsdJWb#id:14321282,tab:statistics",
+            "teams": [
+                "Smouha",
+                "Pharco FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                43563,
+                241703
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/5[H]",
+            "fouls": "9/10[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "7/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/8[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "13/24[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Smouha,Modern Sport FC,Home",
+            "tackles": "12/6[H]",
+            "interceptions": "8/3[H]",
+            "aerialDuels": "10/13[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "7/4[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/10[A]",
+            "fouls": "18/15[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "3/1[A]",
+            "throwIns": "17/22[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Smouha,National Bank of Egypt,Away",
+            "tackles": "17/9[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "15/15[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "2/8[A]",
+            "dribblesAttempted": "8/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/1[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "1/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "25/18[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Smouha,Al Ahly FC,Home",
+            "tackles": "14/7[H]",
+            "interceptions": "8/13[H]",
+            "aerialDuels": "13/19[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "17/16[A]",
+            "goalKicks": "4/8[A]",
+            "saves": "1/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/22[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Smouha,Al-Ittihad Alexandria,Away",
+            "tackles": "22/10[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "19/22[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "10/5[A]",
+            "goalKicks": "11/6[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "18/15[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Smouha,Zamalek SC,Away",
+            "tackles": "12/9[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "16/13[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "2/3[A]",
+            "dribblesAttempted": "6/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/10[H]",
+            "fouls": "9/10[H]",
+            "goalKicks": "12/2[H]",
+            "saves": "6/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/8[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "11/26[H]",
+            "averageBallPossession": "30/70[H]",
+            "teams": "Smouha,Pyramids FC,Home",
+            "tackles": "14/11[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "9/16[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "10/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/7[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "16/19[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Smouha,ENPPI,Away",
+            "tackles": "18/12[A]",
+            "interceptions": "11/7[A]",
+            "aerialDuels": "20/18[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "11/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "13/16[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "2/5[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "22/34[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Smouha,Pharco FC,Home",
+            "tackles": "14/9[H]",
+            "interceptions": "3/7[H]",
+            "aerialDuels": "22/18[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "11/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-05T23:08:02.153Z",
+    "endTime": "2026-04-05T23:08:27.223Z",
+    "totalTimeSeconds": 25.07,
+    "combinedMatchStatistics": {
+        "corners": "2/5[H]+6/10[A]+4/3[H]+3/6[A]+3/6[A]+3/10[H]+0/7[A]+7/5[H]",
+        "fouls": "9/10[H]+18/15[A]+8/14[H]+17/16[A]+10/5[A]+9/10[H]+16/10[A]+13/16[H]",
+        "goalKicks": "5/8[H]+10/4[A]+5/10[H]+4/8[A]+11/6[A]+12/2[H]+13/4[A]+8/4[H]",
+        "saves": "7/2[H]+3/1[A]+2/1[H]+1/2[A]+4/2[A]+6/3[H]+3/1[A]+2/5[H]",
+        "offsides": "2/1[H]+1/2[A]+5/1[H]+3/0[A]+1/2[A]+2/1[H]+0/1[A]+4/0[H]",
+        "shotsOnTarget": "5/8[H]+4/3[A]+1/3[H]+2/2[A]+2/5[A]+5/8[H]+3/4[A]+7/2[H]",
+        "yellowCards": "0/1[H]+2/3[A]+3/2[H]+1/4[A]+1/1[A]+2/0[H]+1/2[A]+2/4[H]",
+        "goals": "3/0[H]+3/1[A]+0/1[H]+0/1[A]+0/1[A]+2/1[H]+2/1[A]+2/0[H]",
+        "throwIns": "13/24[H]+17/22[A]+25/18[H]+23/22[A]+18/15[A]+11/26[H]+16/19[A]+22/34[H]",
+        "averageBallPossession": "57/43[H]+32/68[A]+49/51[H]+48/52[A]+41/59[A]+30/70[H]+35/65[A]+55/45[H]",
+        "teams": "Smouha,Modern Sport FC,Home+Smouha,National Bank of Egypt,Away+Smouha,Al Ahly FC,Home+Smouha,Al-Ittihad Alexandria,Away+Smouha,Zamalek SC,Away+Smouha,Pyramids FC,Home+Smouha,ENPPI,Away+Smouha,Pharco FC,Home",
+        "tackles": "12/6[H]+17/9[A]+14/7[H]+22/10[A]+12/9[A]+14/11[H]+18/12[A]+14/9[H]",
+        "interceptions": "8/3[H]+7/7[A]+8/13[H]+6/10[A]+4/8[A]+9/6[H]+11/7[A]+3/7[H]",
+        "aerialDuels": "10/13[H]+15/15[A]+13/19[H]+19/22[A]+16/13[A]+9/16[H]+20/18[A]+22/18[H]",
+        "aerialDuelsAttempted": "23/23[H]+30/30[A]+32/32[H]+41/41[A]+29/29[A]+25/25[H]+38/38[A]+40/40[H]",
+        "dribbles": "4/2[H]+2/8[A]+6/3[H]+3/3[A]+2/3[A]+4/5[H]+4/3[A]+4/3[H]",
+        "dribblesAttempted": "7/4[H]+8/12[A]+8/11[H]+10/13[A]+6/8[A]+10/14[H]+11/15[A]+11/11[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "28/52",
+        "cornersTotalsHome": "16/23",
+        "cornersTotalsAway": "12/29",
+        "cornersAverage": "3.50/6.50",
+        "cornersAverageHome": "4.00/5.75",
+        "cornersAverageAway": "3.00/7.25",
+        "foulsTotals": "100/96",
+        "foulsTotalsHome": "39/50",
+        "foulsTotalsAway": "61/46",
+        "foulsAverage": "12.50/12.00",
+        "foulsAverageHome": "9.75/12.50",
+        "foulsAverageAway": "15.25/11.50",
+        "goalKicksTotals": "68/46",
+        "goalKicksTotalsHome": "30/24",
+        "goalKicksTotalsAway": "38/22",
+        "goalKicksAverage": "8.50/5.75",
+        "goalKicksAverageHome": "7.50/6.00",
+        "goalKicksAverageAway": "9.50/5.50",
+        "savesTotals": "28/17",
+        "savesTotalsHome": "17/11",
+        "savesTotalsAway": "11/6",
+        "savesAverage": "3.50/2.13",
+        "savesAverageHome": "4.25/2.75",
+        "savesAverageAway": "2.75/1.50",
+        "offsidesTotals": "18/8",
+        "offsidesTotalsHome": "13/3",
+        "offsidesTotalsAway": "5/5",
+        "offsidesAverage": "2.25/1.00",
+        "offsidesAverageHome": "3.25/0.75",
+        "offsidesAverageAway": "1.25/1.25",
+        "shotsOnTargetTotals": "29/35",
+        "shotsOnTargetTotalsHome": "18/21",
+        "shotsOnTargetTotalsAway": "11/14",
+        "shotsOnTargetAverage": "3.63/4.38",
+        "shotsOnTargetAverageHome": "4.50/5.25",
+        "shotsOnTargetAverageAway": "2.75/3.50",
+        "yellowCardsTotals": "12/17",
+        "yellowCardsTotalsHome": "7/7",
+        "yellowCardsTotalsAway": "5/10",
+        "yellowCardsAverage": "1.50/2.13",
+        "yellowCardsAverageHome": "1.75/1.75",
+        "yellowCardsAverageAway": "1.25/2.50",
+        "goalsTotals": "12/6",
+        "goalsTotalsHome": "7/2",
+        "goalsTotalsAway": "5/4",
+        "goalsAverage": "1.50/0.75",
+        "goalsAverageHome": "1.75/0.50",
+        "goalsAverageAway": "1.25/1.00",
+        "throwInsTotals": "145/180",
+        "throwInsTotalsHome": "71/102",
+        "throwInsTotalsAway": "74/78",
+        "throwInsAverage": "18.13/22.50",
+        "throwInsAverageHome": "17.75/25.50",
+        "throwInsAverageAway": "18.50/19.50",
+        "averageBallPossessionTotals": "347/453",
+        "averageBallPossessionTotalsHome": "191/209",
+        "averageBallPossessionTotalsAway": "156/244",
+        "averageBallPossessionAverage": "43.38/56.63",
+        "averageBallPossessionAverageHome": "47.75/52.25",
+        "averageBallPossessionAverageAway": "39.00/61.00",
+        "tacklesTotals": "123/73",
+        "tacklesTotalsHome": "54/33",
+        "tacklesTotalsAway": "69/40",
+        "tacklesAverage": "15.38/9.13",
+        "tacklesAverageHome": "13.50/8.25",
+        "tacklesAverageAway": "17.25/10.00",
+        "interceptionsTotals": "56/61",
+        "interceptionsTotalsHome": "28/29",
+        "interceptionsTotalsAway": "28/32",
+        "interceptionsAverage": "7.00/7.63",
+        "interceptionsAverageHome": "7.00/7.25",
+        "interceptionsAverageAway": "7.00/8.00",
+        "aerialDuelsTotals": "124/134",
+        "aerialDuelsTotalsHome": "54/66",
+        "aerialDuelsTotalsAway": "70/68",
+        "aerialDuelsAverage": "15.50/16.75",
+        "aerialDuelsAverageHome": "13.50/16.50",
+        "aerialDuelsAverageAway": "17.50/17.00",
+        "aerialDuelsAttemptedTotals": "258/258",
+        "aerialDuelsAttemptedTotalsHome": "120/120",
+        "aerialDuelsAttemptedTotalsAway": "138/138",
+        "aerialDuelsAttemptedAverage": "32.25/32.25",
+        "aerialDuelsAttemptedAverageHome": "30.00/30.00",
+        "aerialDuelsAttemptedAverageAway": "34.50/34.50",
+        "dribblesTotals": "29/30",
+        "dribblesTotalsHome": "18/13",
+        "dribblesTotalsAway": "11/17",
+        "dribblesAverage": "3.63/3.75",
+        "dribblesAverageHome": "4.50/3.25",
+        "dribblesAverageAway": "2.75/4.25",
+        "dribblesAttemptedTotals": "71/88",
+        "dribblesAttemptedTotalsHome": "36/40",
+        "dribblesAttemptedTotalsAway": "35/48",
+        "dribblesAttemptedAverage": "8.88/11.00",
+        "dribblesAttemptedAverageHome": "9.00/10.00",
+        "dribblesAttemptedAverageAway": "8.75/12.00"
+    }
+}
