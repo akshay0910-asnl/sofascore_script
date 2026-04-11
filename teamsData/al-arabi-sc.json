@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.95",
+        "fouls": "14.42",
+        "goalKicks": "8.16",
+        "saves": "3.32",
+        "offsides": "1.37",
+        "shotsOnTarget": "5.26/5.11",
+        "yellowCards": "2.11/2.63",
+        "goals": "1.84/1.79",
+        "throwIns": "18.11",
+        "ballPossession": 55.631578947368,
+        "tackles": "14.68/13.11",
+        "interceptions": "7.74/7.74",
+        "aerialDuels": "10.00",
+        "aerialDuelsAttempted": "22.89",
+        "dribbles": "7.89/7.05",
+        "dribblesAttempted": "14.53/13.47"
+    },
+    "teamSlug": "al-arabi-sc",
+    "teamId": "44444",
+    "teamName": "Al-Arabi SC",
+    "tournament": "Stars League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/al-shahaniya-al-arabi-sc/UNrsohtb#id:15603904,tab:statistics",
+            "teams": [
+                "Al-Shahaniya",
+                "Al-Arabi SC"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                170364,
+                44444
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-arabi-sc-al-sadd/IUpsUNr#id:15603899,tab:statistics",
+            "teams": [
+                "Al-Arabi SC",
+                "Al-Sadd"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                44444,
+                39733
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-arabi-sc-al-ahli-doha/TNrsUNr#id:15690005,tab:statistics",
+            "teams": [
+                "Al-Ahli Doha",
+                "Al-Arabi SC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                44443,
+                44444
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-arabi-sc-al-duhail/QNrsUNr#id:15211543,tab:statistics",
+            "teams": [
+                "Al Duhail",
+                "Al-Arabi SC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                44441,
+                44444
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-shamal-sc-al-arabi-sc/UNrsqhtb#id:15211521,tab:statistics",
+            "teams": [
+                "Al-Arabi SC",
+                "Al Shamal SC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                44444,
+                170366
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-arabi-sc-umm-salal-sc/PZmsUNr#id:15211535,tab:statistics",
+            "teams": [
+                "Umm-Salal SC",
+                "Al-Arabi SC"
+            ],
+            "goals": [
+                2,
+                4
+            ],
+            "teamIds": [
+                32490,
+                44444
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-arabi-sc-al-gharafa/mLnsUNr#id:15211545,tab:statistics",
+            "teams": [
+                "Al-Arabi SC",
+                "Al-Gharafa"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                44444,
+                34312
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/al-arabi-sc-al-rayyan/knqsUNr#id:14590254,tab:statistics",
+            "teams": [
+                "Al-Arabi SC",
+                "Al-Rayyan"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                44444,
+                40660
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/6[A]",
+            "fouls": "12/17[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "6/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/18[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Al-Arabi SC,Al-Shahaniya,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "11/9[A]",
+            "aerialDuels": "10/12[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "9/10[A]",
+            "dribblesAttempted": "17/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/4[H]",
+            "fouls": "18/15[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "2/6[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/15[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Al-Arabi SC,Al-Sadd,Home",
+            "tackles": "12/13[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "13/17[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "2/5[H]",
+            "dribblesAttempted": "8/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "2/5[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "18/8[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Al-Arabi SC,Al-Ahli Doha,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "8/5[A]",
+            "aerialDuels": "8/12[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "14/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "15/10[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/20[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Al-Arabi SC,Al Duhail,Away",
+            "tackles": "19/13[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "11/25[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "14/5[A]",
+            "dribblesAttempted": "19/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "14/7[H]",
+            "saves": "5/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "24/16[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Al-Arabi SC,Al Shamal SC,Home",
+            "tackles": "9/15[H]",
+            "interceptions": "9/1[H]",
+            "aerialDuels": "12/14[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "17/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[A]",
+            "fouls": "15/7[A]",
+            "goalKicks": "4/9[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/6[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "4/2[A]",
+            "throwIns": "13/17[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Al-Arabi SC,Umm-Salal SC,Away",
+            "tackles": "20/11[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "12/11[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "13/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "12/12[H]",
+            "goalKicks": "4/15[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "22/35[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Al-Arabi SC,Al-Gharafa,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "13/8[H]",
+            "aerialDuels": "9/14[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "11/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/4[H]",
+            "fouls": "19/21[H]",
+            "goalKicks": "11/8[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/2[H]",
+            "throwIns": "20/14[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Al-Arabi SC,Al-Rayyan,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "9/20[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "12/6[H]",
+            "dribblesAttempted": "20/13[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-08T05:04:52.414Z",
+    "endTime": "2026-04-08T05:05:21.918Z",
+    "totalTimeSeconds": 29.5,
+    "combinedMatchStatistics": {
+        "corners": "4/6[A]+8/4[H]+3/8[A]+2/3[A]+7/3[H]+8/1[A]+7/2[H]+8/4[H]",
+        "fouls": "12/17[A]+18/15[H]+13/12[A]+14/16[A]+9/12[H]+15/7[A]+12/12[H]+19/21[H]",
+        "goalKicks": "8/8[A]+7/8[H]+6/9[A]+15/10[A]+14/7[H]+4/9[A]+4/15[H]+11/8[H]",
+        "saves": "6/2[A]+2/6[H]+2/5[A]+4/3[A]+5/1[H]+4/3[A]+1/2[H]+5/2[H]",
+        "offsides": "2/1[A]+2/4[H]+1/4[A]+2/0[A]+2/1[H]+1/6[A]+1/0[H]+0/0[H]",
+        "shotsOnTarget": "4/6[A]+8/3[H]+6/3[A]+4/4[A]+2/7[H]+8/6[A]+3/3[H]+4/7[H]",
+        "yellowCards": "2/2[A]+2/3[H]+3/1[A]+3/3[A]+4/4[H]+2/1[A]+2/3[H]+2/4[H]",
+        "goals": "2/0[A]+2/1[H]+1/1[A]+1/1[A]+1/2[H]+4/2[A]+1/2[H]+2/2[H]",
+        "throwIns": "21/18[A]+16/15[H]+18/8[A]+17/20[A]+24/16[H]+13/17[A]+22/35[H]+20/14[H]",
+        "averageBallPossession": "59/41[A]+64/36[H]+56/44[A]+42/58[A]+64/36[H]+62/38[A]+67/33[H]+50/50[H]",
+        "teams": "Al-Arabi SC,Al-Shahaniya,Away+Al-Arabi SC,Al-Sadd,Home+Al-Arabi SC,Al-Ahli Doha,Away+Al-Arabi SC,Al Duhail,Away+Al-Arabi SC,Al Shamal SC,Home+Al-Arabi SC,Umm-Salal SC,Away+Al-Arabi SC,Al-Gharafa,Home+Al-Arabi SC,Al-Rayyan,Home",
+        "tackles": "14/14[A]+12/13[H]+15/13[A]+19/13[A]+9/15[H]+20/11[A]+15/14[H]+17/12[H]",
+        "interceptions": "11/9[A]+10/8[H]+8/5[A]+8/10[A]+9/1[H]+5/5[A]+13/8[H]+6/7[H]",
+        "aerialDuels": "10/12[A]+13/17[H]+8/12[A]+11/25[A]+12/14[H]+12/11[A]+9/14[H]+9/20[H]",
+        "aerialDuelsAttempted": "22/22[A]+30/30[H]+20/20[A]+36/36[A]+26/26[H]+23/23[A]+23/23[H]+29/29[H]",
+        "dribbles": "9/10[A]+2/5[H]+8/6[A]+14/5[A]+11/5[H]+6/4[A]+7/10[H]+12/6[H]",
+        "dribblesAttempted": "17/19[A]+8/12[H]+14/10[A]+19/16[A]+17/6[H]+13/16[A]+11/18[H]+20/13[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "47/31",
+        "cornersTotalsHome": "30/13",
+        "cornersTotalsAway": "17/18",
+        "cornersAverage": "5.88/3.88",
+        "cornersAverageHome": "7.50/3.25",
+        "cornersAverageAway": "4.25/4.50",
+        "foulsTotals": "112/112",
+        "foulsTotalsHome": "58/60",
+        "foulsTotalsAway": "54/52",
+        "foulsAverage": "14.00/14.00",
+        "foulsAverageHome": "14.50/15.00",
+        "foulsAverageAway": "13.50/13.00",
+        "goalKicksTotals": "69/74",
+        "goalKicksTotalsHome": "36/38",
+        "goalKicksTotalsAway": "33/36",
+        "goalKicksAverage": "8.63/9.25",
+        "goalKicksAverageHome": "9.00/9.50",
+        "goalKicksAverageAway": "8.25/9.00",
+        "savesTotals": "29/24",
+        "savesTotalsHome": "13/11",
+        "savesTotalsAway": "16/13",
+        "savesAverage": "3.63/3.00",
+        "savesAverageHome": "3.25/2.75",
+        "savesAverageAway": "4.00/3.25",
+        "offsidesTotals": "11/16",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "6/11",
+        "offsidesAverage": "1.38/2.00",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "1.50/2.75",
+        "shotsOnTargetTotals": "39/39",
+        "shotsOnTargetTotalsHome": "17/20",
+        "shotsOnTargetTotalsAway": "22/19",
+        "shotsOnTargetAverage": "4.88/4.88",
+        "shotsOnTargetAverageHome": "4.25/5.00",
+        "shotsOnTargetAverageAway": "5.50/4.75",
+        "yellowCardsTotals": "20/21",
+        "yellowCardsTotalsHome": "10/14",
+        "yellowCardsTotalsAway": "10/7",
+        "yellowCardsAverage": "2.50/2.63",
+        "yellowCardsAverageHome": "2.50/3.50",
+        "yellowCardsAverageAway": "2.50/1.75",
+        "goalsTotals": "14/11",
+        "goalsTotalsHome": "6/7",
+        "goalsTotalsAway": "8/4",
+        "goalsAverage": "1.75/1.38",
+        "goalsAverageHome": "1.50/1.75",
+        "goalsAverageAway": "2.00/1.00",
+        "throwInsTotals": "151/143",
+        "throwInsTotalsHome": "82/80",
+        "throwInsTotalsAway": "69/63",
+        "throwInsAverage": "18.88/17.88",
+        "throwInsAverageHome": "20.50/20.00",
+        "throwInsAverageAway": "17.25/15.75",
+        "averageBallPossessionTotals": "464/336",
+        "averageBallPossessionTotalsHome": "245/155",
+        "averageBallPossessionTotalsAway": "219/181",
+        "averageBallPossessionAverage": "58.00/42.00",
+        "averageBallPossessionAverageHome": "61.25/38.75",
+        "averageBallPossessionAverageAway": "54.75/45.25",
+        "tacklesTotals": "121/105",
+        "tacklesTotalsHome": "53/54",
+        "tacklesTotalsAway": "68/51",
+        "tacklesAverage": "15.13/13.13",
+        "tacklesAverageHome": "13.25/13.50",
+        "tacklesAverageAway": "17.00/12.75",
+        "interceptionsTotals": "70/53",
+        "interceptionsTotalsHome": "38/24",
+        "interceptionsTotalsAway": "32/29",
+        "interceptionsAverage": "8.75/6.63",
+        "interceptionsAverageHome": "9.50/6.00",
+        "interceptionsAverageAway": "8.00/7.25",
+        "aerialDuelsTotals": "84/125",
+        "aerialDuelsTotalsHome": "43/65",
+        "aerialDuelsTotalsAway": "41/60",
+        "aerialDuelsAverage": "10.50/15.63",
+        "aerialDuelsAverageHome": "10.75/16.25",
+        "aerialDuelsAverageAway": "10.25/15.00",
+        "aerialDuelsAttemptedTotals": "209/209",
+        "aerialDuelsAttemptedTotalsHome": "108/108",
+        "aerialDuelsAttemptedTotalsAway": "101/101",
+        "aerialDuelsAttemptedAverage": "26.13/26.13",
+        "aerialDuelsAttemptedAverageHome": "27.00/27.00",
+        "aerialDuelsAttemptedAverageAway": "25.25/25.25",
+        "dribblesTotals": "69/51",
+        "dribblesTotalsHome": "32/26",
+        "dribblesTotalsAway": "37/25",
+        "dribblesAverage": "8.63/6.38",
+        "dribblesAverageHome": "8.00/6.50",
+        "dribblesAverageAway": "9.25/6.25",
+        "dribblesAttemptedTotals": "119/110",
+        "dribblesAttemptedTotalsHome": "56/49",
+        "dribblesAttemptedTotalsAway": "63/61",
+        "dribblesAttemptedAverage": "14.88/13.75",
+        "dribblesAttemptedAverageHome": "14.00/12.25",
+        "dribblesAttemptedAverageAway": "15.75/15.25"
+    }
+}

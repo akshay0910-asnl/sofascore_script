@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.18",
+        "fouls": "12.18",
+        "goalKicks": "7.95",
+        "saves": "3.55",
+        "offsides": "2.05",
+        "shotsOnTarget": "2.86/4.68",
+        "yellowCards": "2.23/2.50",
+        "goals": "0.73/1.14",
+        "throwIns": "20.82",
+        "ballPossession": 50.636363636364,
+        "tackles": "11.77/14.50",
+        "interceptions": "7.64/8.50",
+        "aerialDuels": "18.05",
+        "aerialDuelsAttempted": "33.55",
+        "dribbles": "4.55/6.00",
+        "dribblesAttempted": "12.59/12.73"
+    },
+    "teamSlug": "al-ittihad-alexandria",
+    "teamId": "35187",
+    "teamName": "Al-Ittihad Alexandria",
+    "tournament": "Egyptian Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/el-gouna-fc-al-ittihad-alexandria/Mdospwr#id:15728192,tab:statistics",
+            "teams": [
+                "El Gouna FC",
+                "Al-Ittihad Alexandria"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                43565,
+                35187
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pharco-fc-al-ittihad-alexandria/MdosdJWb#id:15728189,tab:statistics",
+            "teams": [
+                "Al-Ittihad Alexandria",
+                "Pharco FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                35187,
+                241703
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/zamalek-sc-al-ittihad-alexandria/MdostXq#id:14321329,tab:statistics",
+            "teams": [
+                "Zamalek SC",
+                "Al-Ittihad Alexandria"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                42368,
+                35187
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ghazl-el-mahalla-al-ittihad-alexandria/Mdosuqy#id:14321324,tab:statistics",
+            "teams": [
+                "Al-Ittihad Alexandria",
+                "Ghazl El Mahalla FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                35187,
+                58319
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/petrojet-al-ittihad-alexandria/Mdosrwr#id:14321317,tab:statistics",
+            "teams": [
+                "Petrojet",
+                "Al-Ittihad Alexandria"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                43567,
+                35187
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/smouha-al-ittihad-alexandria/Mdosnwr#id:14321302,tab:statistics",
+            "teams": [
+                "Al-Ittihad Alexandria",
+                "Smouha"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                35187,
+                43563
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/talaea-el-gaish-al-ittihad-alexandria/Mdoslwr#id:14321299,tab:statistics",
+            "teams": [
+                "Tala'ea El-Gaish",
+                "Al-Ittihad Alexandria"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                43561,
+                35187
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/haras-el-hedoud-al-ittihad-alexandria/Mdosqwr#id:14321292,tab:statistics",
+            "teams": [
+                "Al-Ittihad Alexandria",
+                "Haras El Hodoud"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                35187,
+                43566
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "9/12[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "12/23[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Al-Ittihad Alexandria,El Gouna FC,Away",
+            "tackles": "8/14[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "18/14[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "9/2[A]",
+            "dribblesAttempted": "16/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/7[H]",
+            "fouls": "6/9[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "2/2[H]",
+            "offsides": "9/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "24/24[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Al-Ittihad Alexandria,Pharco FC,Home",
+            "tackles": "12/9[H]",
+            "interceptions": "4/5[H]",
+            "aerialDuels": "14/11[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "0/1[H]",
+            "dribblesAttempted": "3/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "6/3[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "13/19[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Al-Ittihad Alexandria,Zamalek SC,Away",
+            "tackles": "10/10[A]",
+            "interceptions": "3/4[A]",
+            "aerialDuels": "6/5[A]",
+            "aerialDuelsAttempted": "11/11[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "9/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "15/8[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "17/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Al-Ittihad Alexandria,Ghazl El Mahalla FC,Home",
+            "tackles": "17/18[H]",
+            "interceptions": "5/3[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "11/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "8/3[A]",
+            "offsides": "4/0[A]",
+            "shotsOnTarget": "3/9[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/22[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Al-Ittihad Alexandria,Petrojet,Away",
+            "tackles": "17/20[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "19/19[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "10/5[A]",
+            "dribblesAttempted": "22/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "16/17[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "2/1[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/23[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Al-Ittihad Alexandria,Smouha,Home",
+            "tackles": "10/22[H]",
+            "interceptions": "10/6[H]",
+            "aerialDuels": "22/19[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "3/3[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "15/19[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/0[A]",
+            "throwIns": "23/23[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Al-Ittihad Alexandria,Tala'ea El-Gaish,Away",
+            "tackles": "11/17[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "20/18[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "2/5[A]",
+            "dribblesAttempted": "13/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "13/7[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "20/25[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Al-Ittihad Alexandria,Haras El Hodoud,Home",
+            "tackles": "13/20[H]",
+            "interceptions": "16/16[H]",
+            "aerialDuels": "30/15[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "20/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-08T05:29:50.934Z",
+    "endTime": "2026-04-08T05:30:28.656Z",
+    "totalTimeSeconds": 37.72,
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+3/7[H]+6/4[A]+2/3[H]+4/4[A]+6/3[H]+1/9[A]+4/6[H]",
+        "fouls": "9/7[A]+6/9[H]+11/9[A]+15/8[H]+16/10[A]+16/17[H]+15/19[A]+13/7[H]",
+        "goalKicks": "9/12[A]+11/7[H]+8/5[A]+6/7[H]+12/6[A]+8/4[H]+12/6[A]+8/7[H]",
+        "saves": "4/1[A]+2/2[H]+6/3[A]+0/2[H]+8/3[A]+2/1[H]+2/1[A]+4/2[H]",
+        "offsides": "1/2[A]+9/2[H]+1/4[A]+1/3[H]+4/0[A]+0/3[H]+0/0[A]+3/3[H]",
+        "shotsOnTarget": "1/4[A]+4/3[H]+3/7[A]+4/1[H]+3/9[A]+2/2[H]+2/2[A]+4/4[H]",
+        "yellowCards": "0/0[A]+2/2[H]+2/1[A]+3/4[H]+4/3[A]+4/1[H]+3/4[A]+2/2[H]",
+        "goals": "0/0[A]+1/1[H]+0/1[A]+2/0[H]+0/1[A]+1/0[H]+1/0[A]+2/0[H]",
+        "throwIns": "12/23[A]+24/24[H]+13/19[A]+17/23[H]+24/22[A]+22/23[H]+23/23[A]+20/25[H]",
+        "averageBallPossession": "61/39[A]+62/38[H]+56/44[A]+54/46[H]+53/47[A]+52/48[H]+45/55[A]+55/45[H]",
+        "teams": "Al-Ittihad Alexandria,El Gouna FC,Away+Al-Ittihad Alexandria,Pharco FC,Home+Al-Ittihad Alexandria,Zamalek SC,Away+Al-Ittihad Alexandria,Ghazl El Mahalla FC,Home+Al-Ittihad Alexandria,Petrojet,Away+Al-Ittihad Alexandria,Smouha,Home+Al-Ittihad Alexandria,Tala'ea El-Gaish,Away+Al-Ittihad Alexandria,Haras El Hodoud,Home",
+        "tackles": "8/14[A]+12/9[H]+10/10[A]+17/18[H]+17/20[A]+10/22[H]+11/17[A]+13/20[H]",
+        "interceptions": "8/6[A]+4/5[H]+3/4[A]+5/3[H]+10/13[A]+10/6[H]+7/12[A]+16/16[H]",
+        "aerialDuels": "18/14[A]+14/11[H]+6/5[A]+15/15[H]+19/19[A]+22/19[H]+20/18[A]+30/15[H]",
+        "aerialDuelsAttempted": "32/32[A]+25/25[H]+11/11[A]+30/30[H]+38/38[A]+41/41[H]+38/38[A]+45/45[H]",
+        "dribbles": "9/2[A]+0/1[H]+5/6[A]+4/5[H]+10/5[A]+3/3[H]+2/5[A]+7/9[H]",
+        "dribblesAttempted": "16/5[A]+3/6[H]+9/10[A]+11/13[H]+22/15[A]+13/10[H]+13/12[A]+20/18[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "29/42",
+        "cornersTotalsHome": "15/19",
+        "cornersTotalsAway": "14/23",
+        "cornersAverage": "3.63/5.25",
+        "cornersAverageHome": "3.75/4.75",
+        "cornersAverageAway": "3.50/5.75",
+        "foulsTotals": "101/86",
+        "foulsTotalsHome": "50/41",
+        "foulsTotalsAway": "51/45",
+        "foulsAverage": "12.63/10.75",
+        "foulsAverageHome": "12.50/10.25",
+        "foulsAverageAway": "12.75/11.25",
+        "goalKicksTotals": "74/54",
+        "goalKicksTotalsHome": "33/25",
+        "goalKicksTotalsAway": "41/29",
+        "goalKicksAverage": "9.25/6.75",
+        "goalKicksAverageHome": "8.25/6.25",
+        "goalKicksAverageAway": "10.25/7.25",
+        "savesTotals": "28/15",
+        "savesTotalsHome": "8/7",
+        "savesTotalsAway": "20/8",
+        "savesAverage": "3.50/1.88",
+        "savesAverageHome": "2.00/1.75",
+        "savesAverageAway": "5.00/2.00",
+        "offsidesTotals": "19/17",
+        "offsidesTotalsHome": "13/11",
+        "offsidesTotalsAway": "6/6",
+        "offsidesAverage": "2.38/2.13",
+        "offsidesAverageHome": "3.25/2.75",
+        "offsidesAverageAway": "1.50/1.50",
+        "shotsOnTargetTotals": "23/32",
+        "shotsOnTargetTotalsHome": "14/10",
+        "shotsOnTargetTotalsAway": "9/22",
+        "shotsOnTargetAverage": "2.88/4.00",
+        "shotsOnTargetAverageHome": "3.50/2.50",
+        "shotsOnTargetAverageAway": "2.25/5.50",
+        "yellowCardsTotals": "20/17",
+        "yellowCardsTotalsHome": "11/9",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "2.50/2.13",
+        "yellowCardsAverageHome": "2.75/2.25",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "7/3",
+        "goalsTotalsHome": "6/1",
+        "goalsTotalsAway": "1/2",
+        "goalsAverage": "0.88/0.38",
+        "goalsAverageHome": "1.50/0.25",
+        "goalsAverageAway": "0.25/0.50",
+        "throwInsTotals": "155/182",
+        "throwInsTotalsHome": "83/95",
+        "throwInsTotalsAway": "72/87",
+        "throwInsAverage": "19.38/22.75",
+        "throwInsAverageHome": "20.75/23.75",
+        "throwInsAverageAway": "18.00/21.75",
+        "averageBallPossessionTotals": "438/362",
+        "averageBallPossessionTotalsHome": "223/177",
+        "averageBallPossessionTotalsAway": "215/185",
+        "averageBallPossessionAverage": "54.75/45.25",
+        "averageBallPossessionAverageHome": "55.75/44.25",
+        "averageBallPossessionAverageAway": "53.75/46.25",
+        "tacklesTotals": "98/130",
+        "tacklesTotalsHome": "52/69",
+        "tacklesTotalsAway": "46/61",
+        "tacklesAverage": "12.25/16.25",
+        "tacklesAverageHome": "13.00/17.25",
+        "tacklesAverageAway": "11.50/15.25",
+        "interceptionsTotals": "63/65",
+        "interceptionsTotalsHome": "35/30",
+        "interceptionsTotalsAway": "28/35",
+        "interceptionsAverage": "7.88/8.13",
+        "interceptionsAverageHome": "8.75/7.50",
+        "interceptionsAverageAway": "7.00/8.75",
+        "aerialDuelsTotals": "144/116",
+        "aerialDuelsTotalsHome": "81/60",
+        "aerialDuelsTotalsAway": "63/56",
+        "aerialDuelsAverage": "18.00/14.50",
+        "aerialDuelsAverageHome": "20.25/15.00",
+        "aerialDuelsAverageAway": "15.75/14.00",
+        "aerialDuelsAttemptedTotals": "260/260",
+        "aerialDuelsAttemptedTotalsHome": "141/141",
+        "aerialDuelsAttemptedTotalsAway": "119/119",
+        "aerialDuelsAttemptedAverage": "32.50/32.50",
+        "aerialDuelsAttemptedAverageHome": "35.25/35.25",
+        "aerialDuelsAttemptedAverageAway": "29.75/29.75",
+        "dribblesTotals": "40/36",
+        "dribblesTotalsHome": "14/18",
+        "dribblesTotalsAway": "26/18",
+        "dribblesAverage": "5.00/4.50",
+        "dribblesAverageHome": "3.50/4.50",
+        "dribblesAverageAway": "6.50/4.50",
+        "dribblesAttemptedTotals": "107/89",
+        "dribblesAttemptedTotalsHome": "47/47",
+        "dribblesAttemptedTotalsAway": "60/42",
+        "dribblesAttemptedAverage": "13.38/11.13",
+        "dribblesAttemptedAverageHome": "11.75/11.75",
+        "dribblesAttemptedAverageAway": "15.00/10.50"
+    }
+}
