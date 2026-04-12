@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.85",
+        "fouls": "11.21",
+        "goalKicks": "6.79",
+        "saves": "2.48",
+        "offsides": "2.55",
+        "shotsOnTarget": "5.42/3.39",
+        "yellowCards": "2.09/2.09",
+        "goals": "1.36/1.00",
+        "throwIns": "21.79",
+        "ballPossession": 60.242424242424,
+        "tackles": "16.36/17.67",
+        "interceptions": "8.97/8.52",
+        "aerialDuels": "16.27",
+        "aerialDuelsAttempted": "30.36",
+        "dribbles": "7.64/5.39",
+        "dribblesAttempted": "16.21/13.21"
+    },
+    "teamSlug": "fc-dinamo-bucuresti",
+    "teamId": "3292",
+    "teamName": "FC Dinamo București",
+    "tournament": "Romanian SuperLiga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-fc-dinamo-bucuresti/RpbswzW#id:15698591,tab:statistics",
+            "teams": [
+                "FC Argeș Pitești",
+                "FC Dinamo București"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                116221,
+                3292
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universitatea-craiova-fc-dinamo-bucuresti/RpbsyzW#id:15698594,tab:statistics",
+            "teams": [
+                "FC Dinamo București",
+                "Universitatea Craiova"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3292,
+                116223
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fc-dinamo-bucuresti/Rpbsditc#id:15698587,tab:statistics",
+            "teams": [
+                "FC Rapid București",
+                "FC Dinamo București"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                295403,
+                3292
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cfr-1907-cluj-fc-dinamo-bucuresti/RpbsMfc#id:14065049,tab:statistics",
+            "teams": [
+                "CFR 1907 Cluj",
+                "FC Dinamo București"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5287,
+                3292
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arges-pitesti-fc-dinamo-bucuresti/RpbswzW#id:14065043,tab:statistics",
+            "teams": [
+                "FC Dinamo București",
+                "FC Argeș Pitești"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3292,
+                116221
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-rapid-bucuresti-fc-dinamo-bucuresti/Rpbsditc#id:14065036,tab:statistics",
+            "teams": [
+                "FC Rapid București",
+                "FC Dinamo București"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                295403,
+                3292
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/afc-unirea-04-slobozia-fc-dinamo-bucuresti/RpbsjKr#id:14060364,tab:statistics",
+            "teams": [
+                "FC Dinamo București",
+                "AFC Unirea 04 Slobozia"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3292,
+                44259
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universitatea-craiova-fc-dinamo-bucuresti/RpbsyzW#id:14060358,tab:statistics",
+            "teams": [
+                "FC Dinamo București",
+                "Universitatea Craiova"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3292,
+                116223
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/6[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "5/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "28/27[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "FC Dinamo București,FC Argeș Pitești,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "19/20[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "12/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "16/15[H]",
+            "goalKicks": "5/14[H]",
+            "saves": "1/4[H]",
+            "offsides": "6/1[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "6/5[H]",
+            "goals": "0/1[H]",
+            "throwIns": "32/19[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "FC Dinamo București,Universitatea Craiova,Home",
+            "tackles": "10/21[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "15/18[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "16/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "7/3[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "5/6[A]",
+            "goals": "2/3[A]",
+            "throwIns": "20/18[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "FC Dinamo București,FC Rapid București,Away",
+            "tackles": "18/11[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "15/16[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "12/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "5/16[A]",
+            "goalKicks": "7/11[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/24[A]",
+            "averageBallPossession": "65/35[A]",
+            "teams": "FC Dinamo București,CFR 1907 Cluj,Away",
+            "tackles": "23/20[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "13/14[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "10/7[A]",
+            "dribblesAttempted": "20/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "4/4[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "26/17[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "FC Dinamo București,FC Argeș Pitești,Home",
+            "tackles": "14/6[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "13/19[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "11/13[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "1/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "27/19[A]",
+            "averageBallPossession": "74/26[A]",
+            "teams": "FC Dinamo București,FC Rapid București,Away",
+            "tackles": "18/21[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "11/9[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "13/3[A]",
+            "dribblesAttempted": "26/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "14/2[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "3/8[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "12/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "18/24[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "FC Dinamo București,AFC Unirea 04 Slobozia,Home",
+            "tackles": "12/19[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "21/18[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "5/3[H]",
+            "dribblesAttempted": "14/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/2[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "3/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "31/37[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "FC Dinamo București,Universitatea Craiova,Home",
+            "tackles": "19/23[H]",
+            "interceptions": "15/11[H]",
+            "aerialDuels": "17/27[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "4/14[H]",
+            "dribblesAttempted": "11/24[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T11:51:44.516Z",
+    "endTime": "2026-04-12T11:52:28.243Z",
+    "totalTimeSeconds": 43.73,
+    "combinedMatchStatistics": {
+        "corners": "7/6[A]+2/1[H]+2/7[A]+3/2[A]+4/3[H]+8/7[A]+14/2[H]+0/2[H]",
+        "fouls": "10/11[A]+16/15[H]+18/14[A]+5/16[A]+12/11[H]+11/13[A]+8/10[H]+15/14[H]",
+        "goalKicks": "6/10[A]+5/14[H]+7/3[A]+7/11[A]+6/12[H]+5/7[A]+3/6[H]+6/4[H]",
+        "saves": "5/5[A]+1/4[H]+1/2[A]+3/3[A]+4/4[H]+1/2[A]+3/8[H]+3/1[H]",
+        "offsides": "1/1[A]+6/1[H]+1/1[A]+1/0[A]+3/0[H]+3/0[A]+3/1[H]+2/2[H]",
+        "shotsOnTarget": "6/5[A]+4/3[H]+4/4[A]+3/5[A]+5/5[H]+3/3[A]+12/3[H]+2/4[H]",
+        "yellowCards": "5/2[A]+6/5[H]+5/6[A]+0/3[A]+1/3[H]+1/3[A]+1/2[H]+2/2[H]",
+        "goals": "1/1[A]+0/1[H]+2/3[A]+0/2[A]+0/1[H]+1/2[A]+1/0[H]+1/1[H]",
+        "throwIns": "28/27[A]+32/19[H]+20/18[A]+19/24[A]+26/17[H]+27/19[A]+18/24[H]+31/37[H]",
+        "averageBallPossession": "66/34[A]+63/37[H]+47/53[A]+65/35[A]+63/37[H]+74/26[A]+73/27[H]+43/57[H]",
+        "teams": "FC Dinamo București,FC Argeș Pitești,Away+FC Dinamo București,Universitatea Craiova,Home+FC Dinamo București,FC Rapid București,Away+FC Dinamo București,CFR 1907 Cluj,Away+FC Dinamo București,FC Argeș Pitești,Home+FC Dinamo București,FC Rapid București,Away+FC Dinamo București,AFC Unirea 04 Slobozia,Home+FC Dinamo București,Universitatea Craiova,Home",
+        "tackles": "15/14[A]+10/21[H]+18/11[A]+23/20[A]+14/6[H]+18/21[A]+12/19[H]+19/23[H]",
+        "interceptions": "6/4[A]+10/8[H]+10/8[A]+10/9[A]+8/8[H]+9/10[A]+8/10[H]+15/11[H]",
+        "aerialDuels": "19/20[A]+15/18[H]+15/16[A]+13/14[A]+13/19[H]+11/9[A]+21/18[H]+17/27[H]",
+        "aerialDuelsAttempted": "39/39[A]+33/33[H]+31/31[A]+27/27[A]+32/32[H]+20/20[A]+39/39[H]+44/44[H]",
+        "dribbles": "5/3[A]+6/3[H]+7/7[A]+10/7[A]+6/7[H]+13/3[A]+5/3[H]+4/14[H]",
+        "dribblesAttempted": "12/8[A]+16/8[H]+12/18[A]+20/18[A]+9/15[H]+26/14[A]+14/5[H]+11/24[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "40/30",
+        "cornersTotalsHome": "20/8",
+        "cornersTotalsAway": "20/22",
+        "cornersAverage": "5.00/3.75",
+        "cornersAverageHome": "5.00/2.00",
+        "cornersAverageAway": "5.00/5.50",
+        "foulsTotals": "95/104",
+        "foulsTotalsHome": "51/50",
+        "foulsTotalsAway": "44/54",
+        "foulsAverage": "11.88/13.00",
+        "foulsAverageHome": "12.75/12.50",
+        "foulsAverageAway": "11.00/13.50",
+        "goalKicksTotals": "45/67",
+        "goalKicksTotalsHome": "20/36",
+        "goalKicksTotalsAway": "25/31",
+        "goalKicksAverage": "5.63/8.38",
+        "goalKicksAverageHome": "5.00/9.00",
+        "goalKicksAverageAway": "6.25/7.75",
+        "savesTotals": "21/29",
+        "savesTotalsHome": "11/17",
+        "savesTotalsAway": "10/12",
+        "savesAverage": "2.63/3.63",
+        "savesAverageHome": "2.75/4.25",
+        "savesAverageAway": "2.50/3.00",
+        "offsidesTotals": "20/6",
+        "offsidesTotalsHome": "14/4",
+        "offsidesTotalsAway": "6/2",
+        "offsidesAverage": "2.50/0.75",
+        "offsidesAverageHome": "3.50/1.00",
+        "offsidesAverageAway": "1.50/0.50",
+        "shotsOnTargetTotals": "39/32",
+        "shotsOnTargetTotalsHome": "23/15",
+        "shotsOnTargetTotalsAway": "16/17",
+        "shotsOnTargetAverage": "4.88/4.00",
+        "shotsOnTargetAverageHome": "5.75/3.75",
+        "shotsOnTargetAverageAway": "4.00/4.25",
+        "yellowCardsTotals": "21/26",
+        "yellowCardsTotalsHome": "10/12",
+        "yellowCardsTotalsAway": "11/14",
+        "yellowCardsAverage": "2.63/3.25",
+        "yellowCardsAverageHome": "2.50/3.00",
+        "yellowCardsAverageAway": "2.75/3.50",
+        "goalsTotals": "6/11",
+        "goalsTotalsHome": "2/3",
+        "goalsTotalsAway": "4/8",
+        "goalsAverage": "0.75/1.38",
+        "goalsAverageHome": "0.50/0.75",
+        "goalsAverageAway": "1.00/2.00",
+        "throwInsTotals": "201/185",
+        "throwInsTotalsHome": "107/97",
+        "throwInsTotalsAway": "94/88",
+        "throwInsAverage": "25.13/23.13",
+        "throwInsAverageHome": "26.75/24.25",
+        "throwInsAverageAway": "23.50/22.00",
+        "averageBallPossessionTotals": "494/306",
+        "averageBallPossessionTotalsHome": "242/158",
+        "averageBallPossessionTotalsAway": "252/148",
+        "averageBallPossessionAverage": "61.75/38.25",
+        "averageBallPossessionAverageHome": "60.50/39.50",
+        "averageBallPossessionAverageAway": "63.00/37.00",
+        "tacklesTotals": "129/135",
+        "tacklesTotalsHome": "55/69",
+        "tacklesTotalsAway": "74/66",
+        "tacklesAverage": "16.13/16.88",
+        "tacklesAverageHome": "13.75/17.25",
+        "tacklesAverageAway": "18.50/16.50",
+        "interceptionsTotals": "76/68",
+        "interceptionsTotalsHome": "41/37",
+        "interceptionsTotalsAway": "35/31",
+        "interceptionsAverage": "9.50/8.50",
+        "interceptionsAverageHome": "10.25/9.25",
+        "interceptionsAverageAway": "8.75/7.75",
+        "aerialDuelsTotals": "124/141",
+        "aerialDuelsTotalsHome": "66/82",
+        "aerialDuelsTotalsAway": "58/59",
+        "aerialDuelsAverage": "15.50/17.63",
+        "aerialDuelsAverageHome": "16.50/20.50",
+        "aerialDuelsAverageAway": "14.50/14.75",
+        "aerialDuelsAttemptedTotals": "265/265",
+        "aerialDuelsAttemptedTotalsHome": "148/148",
+        "aerialDuelsAttemptedTotalsAway": "117/117",
+        "aerialDuelsAttemptedAverage": "33.13/33.13",
+        "aerialDuelsAttemptedAverageHome": "37.00/37.00",
+        "aerialDuelsAttemptedAverageAway": "29.25/29.25",
+        "dribblesTotals": "56/47",
+        "dribblesTotalsHome": "21/27",
+        "dribblesTotalsAway": "35/20",
+        "dribblesAverage": "7.00/5.88",
+        "dribblesAverageHome": "5.25/6.75",
+        "dribblesAverageAway": "8.75/5.00",
+        "dribblesAttemptedTotals": "120/110",
+        "dribblesAttemptedTotalsHome": "50/52",
+        "dribblesAttemptedTotalsAway": "70/58",
+        "dribblesAttemptedAverage": "15.00/13.75",
+        "dribblesAttemptedAverageHome": "12.50/13.00",
+        "dribblesAttemptedAverageAway": "17.50/14.50"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.00",
+        "fouls": "10.00",
+        "goalKicks": "6.00",
+        "saves": "1.00",
+        "offsides": "1.00",
+        "shotsOnTarget": "5.00/2.00",
+        "yellowCards": "3.00/3.00",
+        "goals": "0.00/1.00",
+        "throwIns": "22.00",
+        "ballPossession": 54,
+        "tackles": "18.00/16.00",
+        "interceptions": "11.00/2.00",
+        "aerialDuels": "11.00",
+        "aerialDuelsAttempted": "18.00",
+        "dribbles": "7.00/8.00",
+        "dribblesAttempted": "14.00/15.00"
+    },
+    "teamSlug": "vancouver-fc",
+    "teamId": "463097",
+    "teamName": "Vancouver FC",
+    "tournament": "Canadian Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-hfx-wanderers-fc/RXycsXlKd#id:15502791,tab:statistics",
+            "teams": [
+                "Vancouver FC",
+                "HFX Wanderers FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                463097,
+                309892
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-cavalry-fc/OXycsXlKd#id:13720685,tab:statistics",
+            "teams": [
+                "Vancouver FC",
+                "Cavalry FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                463097,
+                309889
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-atletico-ottawa/BQLcsXlKd#id:13720682,tab:statistics",
+            "teams": [
+                "Atlético Ottawa",
+                "Vancouver FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                342076,
+                463097
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-forge-fc/qzAcsXlKd#id:13720675,tab:statistics",
+            "teams": [
+                "Forge FC",
+                "Vancouver FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                313716,
+                463097
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-hfx-wanderers-fc/RXycsXlKd#id:13720673,tab:statistics",
+            "teams": [
+                "Vancouver FC",
+                "HFX Wanderers FC"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                463097,
+                309892
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-york-united-fc/PXycsXlKd#id:13720668,tab:statistics",
+            "teams": [
+                "Vancouver FC",
+                "Inter Toronto"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                463097,
+                309890
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-pacific-fc/NXycsXlKd#id:13720663,tab:statistics",
+            "teams": [
+                "Pacific FC",
+                "Vancouver FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                309888,
+                463097
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-fc-atletico-ottawa/BQLcsXlKd#id:13720652,tab:statistics",
+            "teams": [
+                "Atlético Ottawa",
+                "Vancouver FC"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                342076,
+                463097
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/1[H]",
+            "fouls": "10/13[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "1/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "22/22[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Vancouver FC,HFX Wanderers FC,Home",
+            "tackles": "18/16[H]",
+            "interceptions": "11/2[H]",
+            "aerialDuels": "11/7[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[H]",
+            "fouls": "0/0[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "15/29[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Vancouver FC,Cavalry FC,Home",
+            "tackles": "17/14[H]",
+            "interceptions": "14/9[H]",
+            "aerialDuels": "3/22[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "15/8[A]",
+            "goalKicks": "12/10[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "6/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Vancouver FC,Atlético Ottawa,Away",
+            "tackles": "22/14[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "7/13[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "14/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/8[A]",
+            "fouls": "11/7[A]",
+            "goalKicks": "10/11[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "15/23[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Vancouver FC,Forge FC,Away",
+            "tackles": "23/14[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "9/8[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "12/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "0/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "12/21[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Vancouver FC,HFX Wanderers FC,Home",
+            "tackles": "19/10[H]",
+            "interceptions": "14/6[H]",
+            "aerialDuels": "6/7[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "3/8[H]",
+            "dribblesAttempted": "6/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[H]",
+            "fouls": "13/9[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "12/30[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Vancouver FC,Inter Toronto,Home",
+            "tackles": "21/15[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "7/7[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/6[A]",
+            "fouls": "15/11[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "4/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "27/29[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Vancouver FC,Pacific FC,Away",
+            "tackles": "31/16[A]",
+            "interceptions": "17/8[A]",
+            "aerialDuels": "10/6[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "1/15[A]",
+            "dribblesAttempted": "8/32[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "8/23[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Vancouver FC,Atlético Ottawa,Away",
+            "tackles": "15/22[A]",
+            "interceptions": "9/14[A]",
+            "aerialDuels": "7/4[A]",
+            "aerialDuelsAttempted": "11/11[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "13/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T13:16:16.876Z",
+    "endTime": "2026-04-12T13:16:53.559Z",
+    "totalTimeSeconds": 36.68,
+    "combinedMatchStatistics": {
+        "corners": "5/1[H]+3/8[H]+5/3[A]+1/8[A]+2/6[H]+1/8[H]+0/6[A]+8/3[A]",
+        "fouls": "10/13[H]+0/0[H]+15/8[A]+11/7[A]+13/10[H]+13/9[H]+15/11[A]+9/10[A]",
+        "goalKicks": "6/10[H]+7/4[H]+12/10[A]+10/11[A]+7/4[H]+11/7[H]+8/8[A]+9/3[A]",
+        "saves": "1/5[H]+3/1[H]+3/2[A]+4/1[A]+0/1[H]+2/2[H]+4/0[A]+5/1[A]",
+        "offsides": "1/1[H]+1/1[H]+1/1[A]+0/4[A]+2/1[H]+2/0[H]+2/1[A]+1/1[A]",
+        "shotsOnTarget": "5/2[H]+3/5[H]+2/3[A]+2/5[A]+4/1[H]+4/3[H]+1/5[A]+2/8[A]",
+        "yellowCards": "3/3[H]+2/2[H]+6/1[A]+4/2[A]+3/2[H]+2/1[H]+2/2[A]+3/1[A]",
+        "goals": "0/1[H]+2/2[H]+0/0[A]+1/1[A]+3/1[H]+2/1[H]+1/1[A]+1/3[A]",
+        "throwIns": "22/22[H]+15/29[H]+17/15[A]+15/23[A]+12/21[H]+12/30[H]+27/29[A]+8/23[A]",
+        "averageBallPossession": "54/46[H]+43/57[H]+39/61[A]+40/60[A]+42/58[H]+37/63[H]+39/61[A]+38/62[A]",
+        "teams": "Vancouver FC,HFX Wanderers FC,Home+Vancouver FC,Cavalry FC,Home+Vancouver FC,Atlético Ottawa,Away+Vancouver FC,Forge FC,Away+Vancouver FC,HFX Wanderers FC,Home+Vancouver FC,Inter Toronto,Home+Vancouver FC,Pacific FC,Away+Vancouver FC,Atlético Ottawa,Away",
+        "tackles": "18/16[H]+17/14[H]+22/14[A]+23/14[A]+19/10[H]+21/15[H]+31/16[A]+15/22[A]",
+        "interceptions": "11/2[H]+14/9[H]+7/11[A]+4/9[A]+14/6[H]+6/7[H]+17/8[A]+9/14[A]",
+        "aerialDuels": "11/7[H]+3/22[H]+7/13[A]+9/8[A]+6/7[H]+7/7[H]+10/6[A]+7/4[A]",
+        "aerialDuelsAttempted": "18/18[H]+25/25[H]+20/20[A]+17/17[A]+13/13[H]+14/14[H]+16/16[A]+11/11[A]",
+        "dribbles": "7/8[H]+4/9[H]+7/8[A]+6/6[A]+3/8[H]+10/4[H]+1/15[A]+3/5[A]",
+        "dribblesAttempted": "14/15[H]+9/15[H]+14/18[A]+12/15[A]+6/15[H]+14/13[H]+8/32[A]+13/12[A]",
+        "isHome": "true+true+false+false+true+true+false+false",
+        "cornersTotals": "25/43",
+        "cornersTotalsHome": "11/23",
+        "cornersTotalsAway": "14/20",
+        "cornersAverage": "3.13/5.38",
+        "cornersAverageHome": "2.75/5.75",
+        "cornersAverageAway": "3.50/5.00",
+        "foulsTotals": "86/68",
+        "foulsTotalsHome": "36/32",
+        "foulsTotalsAway": "50/36",
+        "foulsAverage": "10.75/8.50",
+        "foulsAverageHome": "9.00/8.00",
+        "foulsAverageAway": "12.50/9.00",
+        "goalKicksTotals": "70/57",
+        "goalKicksTotalsHome": "31/25",
+        "goalKicksTotalsAway": "39/32",
+        "goalKicksAverage": "8.75/7.13",
+        "goalKicksAverageHome": "7.75/6.25",
+        "goalKicksAverageAway": "9.75/8.00",
+        "savesTotals": "22/13",
+        "savesTotalsHome": "6/9",
+        "savesTotalsAway": "16/4",
+        "savesAverage": "2.75/1.63",
+        "savesAverageHome": "1.50/2.25",
+        "savesAverageAway": "4.00/1.00",
+        "offsidesTotals": "10/10",
+        "offsidesTotalsHome": "6/3",
+        "offsidesTotalsAway": "4/7",
+        "offsidesAverage": "1.25/1.25",
+        "offsidesAverageHome": "1.50/0.75",
+        "offsidesAverageAway": "1.00/1.75",
+        "shotsOnTargetTotals": "23/32",
+        "shotsOnTargetTotalsHome": "16/11",
+        "shotsOnTargetTotalsAway": "7/21",
+        "shotsOnTargetAverage": "2.88/4.00",
+        "shotsOnTargetAverageHome": "4.00/2.75",
+        "shotsOnTargetAverageAway": "1.75/5.25",
+        "yellowCardsTotals": "25/14",
+        "yellowCardsTotalsHome": "10/8",
+        "yellowCardsTotalsAway": "15/6",
+        "yellowCardsAverage": "3.13/1.75",
+        "yellowCardsAverageHome": "2.50/2.00",
+        "yellowCardsAverageAway": "3.75/1.50",
+        "goalsTotals": "10/10",
+        "goalsTotalsHome": "7/5",
+        "goalsTotalsAway": "3/5",
+        "goalsAverage": "1.25/1.25",
+        "goalsAverageHome": "1.75/1.25",
+        "goalsAverageAway": "0.75/1.25",
+        "throwInsTotals": "128/192",
+        "throwInsTotalsHome": "61/102",
+        "throwInsTotalsAway": "67/90",
+        "throwInsAverage": "16.00/24.00",
+        "throwInsAverageHome": "15.25/25.50",
+        "throwInsAverageAway": "16.75/22.50",
+        "averageBallPossessionTotals": "332/468",
+        "averageBallPossessionTotalsHome": "176/224",
+        "averageBallPossessionTotalsAway": "156/244",
+        "averageBallPossessionAverage": "41.50/58.50",
+        "averageBallPossessionAverageHome": "44.00/56.00",
+        "averageBallPossessionAverageAway": "39.00/61.00",
+        "tacklesTotals": "166/121",
+        "tacklesTotalsHome": "75/55",
+        "tacklesTotalsAway": "91/66",
+        "tacklesAverage": "20.75/15.13",
+        "tacklesAverageHome": "18.75/13.75",
+        "tacklesAverageAway": "22.75/16.50",
+        "interceptionsTotals": "82/66",
+        "interceptionsTotalsHome": "45/24",
+        "interceptionsTotalsAway": "37/42",
+        "interceptionsAverage": "10.25/8.25",
+        "interceptionsAverageHome": "11.25/6.00",
+        "interceptionsAverageAway": "9.25/10.50",
+        "aerialDuelsTotals": "60/74",
+        "aerialDuelsTotalsHome": "27/43",
+        "aerialDuelsTotalsAway": "33/31",
+        "aerialDuelsAverage": "7.50/9.25",
+        "aerialDuelsAverageHome": "6.75/10.75",
+        "aerialDuelsAverageAway": "8.25/7.75",
+        "aerialDuelsAttemptedTotals": "134/134",
+        "aerialDuelsAttemptedTotalsHome": "70/70",
+        "aerialDuelsAttemptedTotalsAway": "64/64",
+        "aerialDuelsAttemptedAverage": "16.75/16.75",
+        "aerialDuelsAttemptedAverageHome": "17.50/17.50",
+        "aerialDuelsAttemptedAverageAway": "16.00/16.00",
+        "dribblesTotals": "41/63",
+        "dribblesTotalsHome": "24/29",
+        "dribblesTotalsAway": "17/34",
+        "dribblesAverage": "5.13/7.88",
+        "dribblesAverageHome": "6.00/7.25",
+        "dribblesAverageAway": "4.25/8.50",
+        "dribblesAttemptedTotals": "90/135",
+        "dribblesAttemptedTotalsHome": "43/58",
+        "dribblesAttemptedTotalsAway": "47/77",
+        "dribblesAttemptedAverage": "11.25/16.88",
+        "dribblesAttemptedAverageHome": "10.75/14.50",
+        "dribblesAttemptedAverageAway": "11.75/19.25"
+    }
+}

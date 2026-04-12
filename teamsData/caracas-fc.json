@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.90",
+        "fouls": "17.30",
+        "goalKicks": "9.20",
+        "saves": "2.70",
+        "offsides": "1.50",
+        "shotsOnTarget": "4.30/4.00",
+        "yellowCards": "3.50/3.40",
+        "goals": "1.10/1.20",
+        "throwIns": "19.30",
+        "ballPossession": 51.7,
+        "tackles": "16.00/18.30",
+        "interceptions": "9.30/10.10",
+        "aerialDuels": "9.80",
+        "aerialDuelsAttempted": "20.20",
+        "dribbles": "4.80/6.80",
+        "dribblesAttempted": "12.10/12.40"
+    },
+    "teamSlug": "caracas-fc",
+    "teamId": "6230",
+    "teamName": "Caracas F.C.",
+    "tournament": "Liga FUTVE",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/metropolitanos-caracasc/FzcsFZob#id:15362603,tab:statistics",
+            "teams": [
+                "Caracas F.C.",
+                "Metropolitanos"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6230,
+                162480
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/monagas-caracasc/FzcsIzc#id:15362602,tab:statistics",
+            "teams": [
+                "Monagas",
+                "Caracas F.C."
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6233,
+                6230
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/trujillanos-fc-caracasc/FzcsKzc#id:15362587,tab:statistics",
+            "teams": [
+                "Caracas F.C.",
+                "Trujillanos FC"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                6230,
+                6235
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portuguesa-fc-caracasc/FzcsJzc#id:15362581,tab:statistics",
+            "teams": [
+                "Portuguesa FC",
+                "Caracas F.C."
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6234,
+                6230
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-tachira-caracasc/FzcsGzc#id:15362573,tab:statistics",
+            "teams": [
+                "Caracas F.C.",
+                "Deportivo Táchira"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                6230,
+                6231
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/caracasc-carabobo/EzcsFzc#id:15362568,tab:statistics",
+            "teams": [
+                "Carabobo FC",
+                "Caracas F.C."
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                6229,
+                6230
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-central-caracasc/FzcscZZb#id:15362564,tab:statistics",
+            "teams": [
+                "Caracas F.C.",
+                "Universidad Central"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                6230,
+                249952
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-la-guaira-caracasc/FzcsMDo#id:15362555,tab:statistics",
+            "teams": [
+                "Deportivo La Guaira",
+                "Caracas F.C."
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                36437,
+                6230
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/8[H]",
+            "fouls": "24/16[H]",
+            "goalKicks": "8/2[H]",
+            "saves": "6/2[H]",
+            "offsides": "1/5[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "19/22[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Caracas F.C.,Metropolitanos,Home",
+            "tackles": "16/17[H]",
+            "interceptions": "13/14[H]",
+            "aerialDuels": "13/20[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "13/11[H]",
+            "dribblesAttempted": "22/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/0[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "5/13[A]",
+            "saves": "0/4[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "32/13[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Caracas F.C.,Monagas,Away",
+            "tackles": "13/24[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "22/8[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "12/9[A]",
+            "dribblesAttempted": "26/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "4/2[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Caracas F.C.,Trujillanos FC,Home",
+            "tackles": "23/23[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "11/13[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "25/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "27/13[A]",
+            "goalKicks": "18/12[A]",
+            "saves": "2/7[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "22/19[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Caracas F.C.,Portuguesa FC,Away",
+            "tackles": "12/11[A]",
+            "interceptions": "9/12[A]",
+            "aerialDuels": "6/4[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "1/5[A]",
+            "dribblesAttempted": "4/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/8[H]",
+            "fouls": "15/20[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "6/5[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "0/1[H]",
+            "throwIns": "14/21[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Caracas F.C.,Deportivo Táchira,Home",
+            "tackles": "21/21[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "6/10[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "5/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "14/13[A]",
+            "goalKicks": "13/8[A]",
+            "saves": "4/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "6/4[A]",
+            "goals": "0/0[A]",
+            "throwIns": "15/19[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Caracas F.C.,Carabobo FC,Away",
+            "tackles": "21/19[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "8/17[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "3/10[A]",
+            "dribblesAttempted": "5/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "1/4[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "3/5[H]",
+            "goals": "1/2[H]",
+            "throwIns": "24/18[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Caracas F.C.,Universidad Central,Home",
+            "tackles": "10/25[H]",
+            "interceptions": "3/11[H]",
+            "aerialDuels": "16/10[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "9/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/4[A]",
+            "fouls": "18/10[A]",
+            "goalKicks": "12/6[A]",
+            "saves": "2/0[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "0/4[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/2[A]",
+            "throwIns": "17/19[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Caracas F.C.,Deportivo La Guaira,Away",
+            "tackles": "14/16[A]",
+            "interceptions": "20/8[A]",
+            "aerialDuels": "6/7[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "1/7[A]",
+            "dribblesAttempted": "8/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T12:48:50.625Z",
+    "endTime": "2026-04-12T12:49:36.704Z",
+    "totalTimeSeconds": 46.08,
+    "combinedMatchStatistics": {
+        "corners": "3/8[H]+7/0[A]+5/6[H]+5/4[A]+6/8[H]+7/5[A]+4/2[H]+0/4[A]",
+        "fouls": "24/16[H]+13/12[A]+15/13[H]+27/13[A]+15/20[H]+14/13[A]+10/12[H]+18/10[A]",
+        "goalKicks": "8/2[H]+5/13[A]+6/9[H]+18/12[A]+10/9[H]+13/8[A]+8/10[H]+12/6[A]",
+        "saves": "6/2[H]+0/4[A]+4/1[H]+2/7[A]+6/5[H]+4/4[A]+1/4[H]+2/0[A]",
+        "offsides": "1/5[H]+2/3[A]+1/1[H]+0/3[A]+0/2[H]+0/1[A]+4/3[H]+2/0[A]",
+        "shotsOnTarget": "3/6[H]+5/1[A]+5/6[H]+8/3[A]+5/7[H]+4/4[A]+5/4[H]+0/4[A]",
+        "yellowCards": "3/3[H]+4/2[A]+3/4[H]+4/3[A]+4/5[H]+6/4[A]+3/5[H]+1/4[A]",
+        "goals": "1/0[H]+1/1[A]+4/2[H]+1/1[A]+0/1[H]+0/0[A]+1/2[H]+0/2[A]",
+        "throwIns": "19/22[H]+32/13[A]+17/25[H]+22/19[A]+14/21[H]+15/19[A]+24/18[H]+17/19[A]",
+        "averageBallPossession": "49/51[H]+64/36[A]+61/39[H]+37/63[A]+54/46[H]+44/56[A]+65/35[H]+43/57[A]",
+        "teams": "Caracas F.C.,Metropolitanos,Home+Caracas F.C.,Monagas,Away+Caracas F.C.,Trujillanos FC,Home+Caracas F.C.,Portuguesa FC,Away+Caracas F.C.,Deportivo Táchira,Home+Caracas F.C.,Carabobo FC,Away+Caracas F.C.,Universidad Central,Home+Caracas F.C.,Deportivo La Guaira,Away",
+        "tackles": "16/17[H]+13/24[A]+23/23[H]+12/11[A]+21/21[H]+21/19[A]+10/25[H]+14/16[A]",
+        "interceptions": "13/14[H]+11/12[A]+12/9[H]+9/12[A]+7/9[H]+6/4[A]+3/11[H]+20/8[A]",
+        "aerialDuels": "13/20[H]+22/8[A]+11/13[H]+6/4[A]+6/10[H]+8/17[A]+16/10[H]+6/7[A]",
+        "aerialDuelsAttempted": "33/33[H]+30/30[A]+24/24[H]+10/10[A]+16/16[H]+25/25[A]+26/26[H]+13/13[A]",
+        "dribbles": "13/11[H]+12/9[A]+5/5[H]+1/5[A]+4/7[H]+3/10[A]+3/6[H]+1/7[A]",
+        "dribblesAttempted": "22/20[H]+26/12[A]+25/7[H]+4/6[A]+5/25[H]+5/15[A]+9/11[H]+8/11[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "37/37",
+        "cornersTotalsHome": "18/24",
+        "cornersTotalsAway": "19/13",
+        "cornersAverage": "4.63/4.63",
+        "cornersAverageHome": "4.50/6.00",
+        "cornersAverageAway": "4.75/3.25",
+        "foulsTotals": "136/109",
+        "foulsTotalsHome": "64/61",
+        "foulsTotalsAway": "72/48",
+        "foulsAverage": "17.00/13.63",
+        "foulsAverageHome": "16.00/15.25",
+        "foulsAverageAway": "18.00/12.00",
+        "goalKicksTotals": "80/69",
+        "goalKicksTotalsHome": "32/30",
+        "goalKicksTotalsAway": "48/39",
+        "goalKicksAverage": "10.00/8.63",
+        "goalKicksAverageHome": "8.00/7.50",
+        "goalKicksAverageAway": "12.00/9.75",
+        "savesTotals": "25/27",
+        "savesTotalsHome": "17/12",
+        "savesTotalsAway": "8/15",
+        "savesAverage": "3.13/3.38",
+        "savesAverageHome": "4.25/3.00",
+        "savesAverageAway": "2.00/3.75",
+        "offsidesTotals": "10/18",
+        "offsidesTotalsHome": "6/11",
+        "offsidesTotalsAway": "4/7",
+        "offsidesAverage": "1.25/2.25",
+        "offsidesAverageHome": "1.50/2.75",
+        "offsidesAverageAway": "1.00/1.75",
+        "shotsOnTargetTotals": "35/35",
+        "shotsOnTargetTotalsHome": "18/23",
+        "shotsOnTargetTotalsAway": "17/12",
+        "shotsOnTargetAverage": "4.38/4.38",
+        "shotsOnTargetAverageHome": "4.50/5.75",
+        "shotsOnTargetAverageAway": "4.25/3.00",
+        "yellowCardsTotals": "28/30",
+        "yellowCardsTotalsHome": "13/17",
+        "yellowCardsTotalsAway": "15/13",
+        "yellowCardsAverage": "3.50/3.75",
+        "yellowCardsAverageHome": "3.25/4.25",
+        "yellowCardsAverageAway": "3.75/3.25",
+        "goalsTotals": "8/9",
+        "goalsTotalsHome": "6/5",
+        "goalsTotalsAway": "2/4",
+        "goalsAverage": "1.00/1.13",
+        "goalsAverageHome": "1.50/1.25",
+        "goalsAverageAway": "0.50/1.00",
+        "throwInsTotals": "160/156",
+        "throwInsTotalsHome": "74/86",
+        "throwInsTotalsAway": "86/70",
+        "throwInsAverage": "20.00/19.50",
+        "throwInsAverageHome": "18.50/21.50",
+        "throwInsAverageAway": "21.50/17.50",
+        "averageBallPossessionTotals": "417/383",
+        "averageBallPossessionTotalsHome": "229/171",
+        "averageBallPossessionTotalsAway": "188/212",
+        "averageBallPossessionAverage": "52.13/47.88",
+        "averageBallPossessionAverageHome": "57.25/42.75",
+        "averageBallPossessionAverageAway": "47.00/53.00",
+        "tacklesTotals": "130/156",
+        "tacklesTotalsHome": "70/86",
+        "tacklesTotalsAway": "60/70",
+        "tacklesAverage": "16.25/19.50",
+        "tacklesAverageHome": "17.50/21.50",
+        "tacklesAverageAway": "15.00/17.50",
+        "interceptionsTotals": "81/79",
+        "interceptionsTotalsHome": "35/43",
+        "interceptionsTotalsAway": "46/36",
+        "interceptionsAverage": "10.13/9.88",
+        "interceptionsAverageHome": "8.75/10.75",
+        "interceptionsAverageAway": "11.50/9.00",
+        "aerialDuelsTotals": "88/89",
+        "aerialDuelsTotalsHome": "46/53",
+        "aerialDuelsTotalsAway": "42/36",
+        "aerialDuelsAverage": "11.00/11.13",
+        "aerialDuelsAverageHome": "11.50/13.25",
+        "aerialDuelsAverageAway": "10.50/9.00",
+        "aerialDuelsAttemptedTotals": "177/177",
+        "aerialDuelsAttemptedTotalsHome": "99/99",
+        "aerialDuelsAttemptedTotalsAway": "78/78",
+        "aerialDuelsAttemptedAverage": "22.13/22.13",
+        "aerialDuelsAttemptedAverageHome": "24.75/24.75",
+        "aerialDuelsAttemptedAverageAway": "19.50/19.50",
+        "dribblesTotals": "42/60",
+        "dribblesTotalsHome": "25/29",
+        "dribblesTotalsAway": "17/31",
+        "dribblesAverage": "5.25/7.50",
+        "dribblesAverageHome": "6.25/7.25",
+        "dribblesAverageAway": "4.25/7.75",
+        "dribblesAttemptedTotals": "104/107",
+        "dribblesAttemptedTotalsHome": "61/63",
+        "dribblesAttemptedTotalsAway": "43/44",
+        "dribblesAttemptedAverage": "13.00/13.38",
+        "dribblesAttemptedAverageHome": "15.25/15.75",
+        "dribblesAttemptedAverageAway": "10.75/11.00"
+    }
+}

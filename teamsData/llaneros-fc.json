@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.67",
+        "fouls": "11.20",
+        "goalKicks": "7.53",
+        "saves": "2.80",
+        "offsides": "1.67",
+        "shotsOnTarget": "3.27/3.80",
+        "yellowCards": "2.60/2.53",
+        "goals": "1.07/0.93",
+        "throwIns": "18.00",
+        "ballPossession": 49,
+        "tackles": "12.67/10.20",
+        "interceptions": "7.60/6.60",
+        "aerialDuels": "12.47",
+        "aerialDuelsAttempted": "24.87",
+        "dribbles": "4.40/5.13",
+        "dribblesAttempted": "8.93/12.00"
+    },
+    "teamSlug": "llaneros-fc",
+    "teamId": "89374",
+    "teamName": "Llaneros FC",
+    "tournament": "Primera A, Apertura",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-independiente-santa-fe/qxcszMK#id:15367414,tab:statistics",
+            "teams": [
+                "Independiente Santa Fe",
+                "Llaneros FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                6116,
+                89374
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-once-caldas/txcszMK#id:15362226,tab:statistics",
+            "teams": [
+                "Llaneros FC",
+                "Once Caldas"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                89374,
+                6118
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-america-de-cali/cxcszMK#id:15367403,tab:statistics",
+            "teams": [
+                "América de Cali",
+                "Llaneros FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                6102,
+                89374
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-cucuta-deportivo/ixcszMK#id:15362225,tab:statistics",
+            "teams": [
+                "Llaneros FC",
+                "Cúcuta Deportivo"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                89374,
+                6108
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-atletico-nacional/gxcszMK#id:15367380,tab:statistics",
+            "teams": [
+                "Atlético Nacional",
+                "Llaneros FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                6106,
+                89374
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-jaguares-de-cordoba/vMKszMK#id:15362220,tab:statistics",
+            "teams": [
+                "Llaneros FC",
+                "Jaguares de Córdoba"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                89374,
+                89370
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/internacional-de-bogota-llaneros-fc/zMKsJPpj#id:15365058,tab:statistics",
+            "teams": [
+                "Llaneros FC",
+                "Internacional de Bogotá"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                89374,
+                1164534
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/llaneros-fc-millonarios/rxcszMK#id:15367347,tab:statistics",
+            "teams": [
+                "Millonarios",
+                "Llaneros FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                6117,
+                89374
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/12[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "11/9[A]",
+            "saves": "3/3[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "5/5[A]",
+            "goals": "1/0[A]",
+            "throwIns": "11/25[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Llaneros FC,Independiente Santa Fe,Away",
+            "tackles": "11/7[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "16/16[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "5/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "1/6[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/16[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Llaneros FC,Once Caldas,Home",
+            "tackles": "6/9[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "11/6[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "5/2[H]",
+            "dribblesAttempted": "10/4[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/12[A]",
+            "fouls": "10/7[A]",
+            "goalKicks": "15/8[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "16/27[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Llaneros FC,América de Cali,Away",
+            "tackles": "9/9[A]",
+            "interceptions": "2/3[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "13/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "17/12[H]",
+            "goalKicks": "6/12[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "12/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Llaneros FC,Cúcuta Deportivo,Home",
+            "tackles": "17/5[H]",
+            "interceptions": "9/3[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "7/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "10/8[A]",
+            "goalKicks": "7/12[A]",
+            "saves": "1/2[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "18/14[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Llaneros FC,Atlético Nacional,Away",
+            "tackles": "13/16[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "11/8[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "15/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "21/15[H]",
+            "goalKicks": "5/9[H]",
+            "saves": "4/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "24/17[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Llaneros FC,Jaguares de Córdoba,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "5/5[H]",
+            "aerialDuels": "10/13[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "3/5[H]",
+            "saves": "0/1[H]",
+            "offsides": "3/6[H]",
+            "shotsOnTarget": "2/1[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "23/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Llaneros FC,Internacional de Bogotá,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "14/8[H]",
+            "aerialDuels": "17/12[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "9/11[H]",
+            "dribblesAttempted": "14/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "10/17[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "5/4[A]",
+            "goals": "1/2[A]",
+            "throwIns": "14/24[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "Llaneros FC,Millonarios,Away",
+            "tackles": "20/16[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "11/5[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "13/18[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T12:52:48.006Z",
+    "endTime": "2026-04-12T12:53:27.084Z",
+    "totalTimeSeconds": 39.08,
+    "combinedMatchStatistics": {
+        "corners": "4/12[A]+8/1[H]+2/12[A]+3/6[H]+5/5[A]+2/7[H]+7/3[H]+4/7[A]",
+        "fouls": "10/13[A]+12/9[H]+10/7[A]+17/12[H]+10/8[A]+21/15[H]+12/13[H]+10/17[A]",
+        "goalKicks": "11/9[A]+6/11[H]+15/8[A]+6/12[H]+7/12[A]+5/9[H]+3/5[H]+7/7[A]",
+        "saves": "3/3[A]+1/6[H]+4/1[A]+1/2[H]+1/2[A]+4/1[H]+0/1[H]+4/3[A]",
+        "offsides": "2/4[A]+3/1[H]+0/2[A]+2/2[H]+4/3[A]+2/1[H]+3/6[H]+2/2[A]",
+        "shotsOnTarget": "4/3[A]+7/2[H]+1/4[A]+4/3[H]+2/3[A]+2/4[H]+2/1[H]+4/7[A]",
+        "yellowCards": "5/5[A]+4/3[H]+0/0[A]+3/1[H]+2/1[A]+2/4[H]+2/1[H]+5/4[A]",
+        "goals": "1/0[A]+1/1[H]+0/0[A]+2/2[H]+0/2[A]+2/0[H]+1/1[H]+1/2[A]",
+        "throwIns": "11/25[A]+18/16[H]+16/27[A]+12/23[H]+18/14[A]+24/17[H]+23/23[H]+14/24[A]",
+        "averageBallPossession": "48/52[A]+54/46[H]+36/64[A]+54/46[H]+44/56[A]+49/51[H]+54/46[H]+63/37[A]",
+        "teams": "Llaneros FC,Independiente Santa Fe,Away+Llaneros FC,Once Caldas,Home+Llaneros FC,América de Cali,Away+Llaneros FC,Cúcuta Deportivo,Home+Llaneros FC,Atlético Nacional,Away+Llaneros FC,Jaguares de Córdoba,Home+Llaneros FC,Internacional de Bogotá,Home+Llaneros FC,Millonarios,Away",
+        "tackles": "11/7[A]+6/9[H]+9/9[A]+17/5[H]+13/16[A]+13/12[H]+12/16[H]+20/16[A]",
+        "interceptions": "9/6[A]+6/6[H]+2/3[A]+9/3[H]+8/6[A]+5/5[H]+14/8[H]+9/7[A]",
+        "aerialDuels": "16/16[A]+11/6[H]+13/13[A]+14/14[H]+11/8[A]+10/13[H]+17/12[H]+11/5[A]",
+        "aerialDuelsAttempted": "32/32[A]+17/17[H]+26/26[A]+28/28[H]+19/19[A]+23/23[H]+29/29[H]+16/16[A]",
+        "dribbles": "3/8[A]+5/2[H]+7/6[A]+6/5[H]+7/5[A]+4/3[H]+9/11[H]+4/6[A]",
+        "dribblesAttempted": "5/17[A]+10/4[H]+13/11[A]+7/15[H]+15/12[A]+10/10[H]+14/19[H]+13/18[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "35/53",
+        "cornersTotalsHome": "20/17",
+        "cornersTotalsAway": "15/36",
+        "cornersAverage": "4.38/6.63",
+        "cornersAverageHome": "5.00/4.25",
+        "cornersAverageAway": "3.75/9.00",
+        "foulsTotals": "102/94",
+        "foulsTotalsHome": "62/49",
+        "foulsTotalsAway": "40/45",
+        "foulsAverage": "12.75/11.75",
+        "foulsAverageHome": "15.50/12.25",
+        "foulsAverageAway": "10.00/11.25",
+        "goalKicksTotals": "60/73",
+        "goalKicksTotalsHome": "20/37",
+        "goalKicksTotalsAway": "40/36",
+        "goalKicksAverage": "7.50/9.13",
+        "goalKicksAverageHome": "5.00/9.25",
+        "goalKicksAverageAway": "10.00/9.00",
+        "savesTotals": "18/19",
+        "savesTotalsHome": "6/10",
+        "savesTotalsAway": "12/9",
+        "savesAverage": "2.25/2.38",
+        "savesAverageHome": "1.50/2.50",
+        "savesAverageAway": "3.00/2.25",
+        "offsidesTotals": "18/21",
+        "offsidesTotalsHome": "10/10",
+        "offsidesTotalsAway": "8/11",
+        "offsidesAverage": "2.25/2.63",
+        "offsidesAverageHome": "2.50/2.50",
+        "offsidesAverageAway": "2.00/2.75",
+        "shotsOnTargetTotals": "26/27",
+        "shotsOnTargetTotalsHome": "15/10",
+        "shotsOnTargetTotalsAway": "11/17",
+        "shotsOnTargetAverage": "3.25/3.38",
+        "shotsOnTargetAverageHome": "3.75/2.50",
+        "shotsOnTargetAverageAway": "2.75/4.25",
+        "yellowCardsTotals": "23/19",
+        "yellowCardsTotalsHome": "11/9",
+        "yellowCardsTotalsAway": "12/10",
+        "yellowCardsAverage": "2.88/2.38",
+        "yellowCardsAverageHome": "2.75/2.25",
+        "yellowCardsAverageAway": "3.00/2.50",
+        "goalsTotals": "8/8",
+        "goalsTotalsHome": "6/4",
+        "goalsTotalsAway": "2/4",
+        "goalsAverage": "1.00/1.00",
+        "goalsAverageHome": "1.50/1.00",
+        "goalsAverageAway": "0.50/1.00",
+        "throwInsTotals": "136/169",
+        "throwInsTotalsHome": "77/79",
+        "throwInsTotalsAway": "59/90",
+        "throwInsAverage": "17.00/21.13",
+        "throwInsAverageHome": "19.25/19.75",
+        "throwInsAverageAway": "14.75/22.50",
+        "averageBallPossessionTotals": "402/398",
+        "averageBallPossessionTotalsHome": "211/189",
+        "averageBallPossessionTotalsAway": "191/209",
+        "averageBallPossessionAverage": "50.25/49.75",
+        "averageBallPossessionAverageHome": "52.75/47.25",
+        "averageBallPossessionAverageAway": "47.75/52.25",
+        "tacklesTotals": "101/90",
+        "tacklesTotalsHome": "48/42",
+        "tacklesTotalsAway": "53/48",
+        "tacklesAverage": "12.63/11.25",
+        "tacklesAverageHome": "12.00/10.50",
+        "tacklesAverageAway": "13.25/12.00",
+        "interceptionsTotals": "62/44",
+        "interceptionsTotalsHome": "34/22",
+        "interceptionsTotalsAway": "28/22",
+        "interceptionsAverage": "7.75/5.50",
+        "interceptionsAverageHome": "8.50/5.50",
+        "interceptionsAverageAway": "7.00/5.50",
+        "aerialDuelsTotals": "103/87",
+        "aerialDuelsTotalsHome": "52/45",
+        "aerialDuelsTotalsAway": "51/42",
+        "aerialDuelsAverage": "12.88/10.88",
+        "aerialDuelsAverageHome": "13.00/11.25",
+        "aerialDuelsAverageAway": "12.75/10.50",
+        "aerialDuelsAttemptedTotals": "190/190",
+        "aerialDuelsAttemptedTotalsHome": "97/97",
+        "aerialDuelsAttemptedTotalsAway": "93/93",
+        "aerialDuelsAttemptedAverage": "23.75/23.75",
+        "aerialDuelsAttemptedAverageHome": "24.25/24.25",
+        "aerialDuelsAttemptedAverageAway": "23.25/23.25",
+        "dribblesTotals": "45/46",
+        "dribblesTotalsHome": "24/21",
+        "dribblesTotalsAway": "21/25",
+        "dribblesAverage": "5.63/5.75",
+        "dribblesAverageHome": "6.00/5.25",
+        "dribblesAverageAway": "5.25/6.25",
+        "dribblesAttemptedTotals": "87/106",
+        "dribblesAttemptedTotalsHome": "41/48",
+        "dribblesAttemptedTotalsAway": "46/58",
+        "dribblesAttemptedAverage": "10.88/13.25",
+        "dribblesAttemptedAverageHome": "10.25/12.00",
+        "dribblesAttemptedAverageAway": "11.50/14.50"
+    }
+}

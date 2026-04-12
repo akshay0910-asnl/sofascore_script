@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "13.40",
+        "goalKicks": "7.00",
+        "saves": "3.10",
+        "offsides": "1.30",
+        "shotsOnTarget": "3.70/4.50",
+        "yellowCards": "3.10/3.10",
+        "goals": "1.60/1.40",
+        "throwIns": "18.50",
+        "ballPossession": 48.9,
+        "tackles": "14.20/13.60",
+        "interceptions": "9.40/8.40",
+        "aerialDuels": "9.90",
+        "aerialDuelsAttempted": "20.30",
+        "dribbles": "7.60/5.10",
+        "dribblesAttempted": "15.10/12.00"
+    },
+    "teamSlug": "estudiantes-de-merida",
+    "teamId": "7745",
+    "teamName": "Estudiantes de Mérida",
+    "tournament": "Liga FUTVE",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/estudiantes-de-merida-portuguesa-fc/JzcsVed#id:15362609,tab:statistics",
+            "teams": [
+                "Estudiantes de Mérida",
+                "Portuguesa FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                7745,
+                6234
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/estudiantes-de-merida-deportivo-tachira/GzcsVed#id:15362596,tab:statistics",
+            "teams": [
+                "Deportivo Táchira",
+                "Estudiantes de Mérida"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6231,
+                7745
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/estudiantes-de-merida-carabobo/EzcsVed#id:15362595,tab:statistics",
+            "teams": [
+                "Estudiantes de Mérida",
+                "Carabobo FC"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                7745,
+                6229
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-central-estudiantes-de-merida/VedscZZb#id:15362582,tab:statistics",
+            "teams": [
+                "Universidad Central",
+                "Estudiantes de Mérida"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                249952,
+                7745
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-la-guaira-estudiantes-de-merida/VedsMDo#id:15362574,tab:statistics",
+            "teams": [
+                "Estudiantes de Mérida",
+                "Deportivo La Guaira"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                7745,
+                36437
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/academia-puerto-cabello-estudiantes-de-merida/VedsAoRb#id:15362572,tab:statistics",
+            "teams": [
+                "Academia Puerto Cabello",
+                "Estudiantes de Mérida"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                230725,
+                7745
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/anzoategui-fc-estudiantes-de-merida/VedsTyrd#id:15588816,tab:statistics",
+            "teams": [
+                "Anzoátegui FC",
+                "Estudiantes de Mérida"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                418693,
+                7745
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rayo-zuliano-estudiantes-de-merida/VedskBed#id:15362553,tab:statistics",
+            "teams": [
+                "Estudiantes de Mérida",
+                "Rayo Zuliano"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                7745,
+                386310
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/5[H]",
+            "fouls": "16/15[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "4/1[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/14[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Estudiantes de Mérida,Portuguesa FC,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "5/7[H]",
+            "aerialDuels": "7/9[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "24/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "19/17[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "1/4[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "20/25[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Estudiantes de Mérida,Deportivo Táchira,Away",
+            "tackles": "19/14[A]",
+            "interceptions": "16/12[A]",
+            "aerialDuels": "7/17[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "8/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "3/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "5/4[H]",
+            "goals": "3/2[H]",
+            "throwIns": "16/20[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Estudiantes de Mérida,Carabobo FC,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "17/9[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "12/6[H]",
+            "dribblesAttempted": "18/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "16/16[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/25[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Estudiantes de Mérida,Universidad Central,Away",
+            "tackles": "12/11[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "7/12[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "6/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "9/13[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "23/7[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Estudiantes de Mérida,Deportivo La Guaira,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "9/12[H]",
+            "aerialDuels": "15/11[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "14/4[H]",
+            "dribblesAttempted": "23/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/12[A]",
+            "fouls": "12/17[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "4/0[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "18/18[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Estudiantes de Mérida,Academia Puerto Cabello,Away",
+            "tackles": "13/15[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "9/10[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "21/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "10/7[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "7/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "3/0[A]",
+            "throwIns": "16/19[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Estudiantes de Mérida,Anzoátegui FC,Away",
+            "tackles": "13/13[A]",
+            "interceptions": "11/9[A]",
+            "aerialDuels": "3/5[A]",
+            "aerialDuelsAttempted": "8/8[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "13/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "16/11[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "1/2[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "23/21[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Estudiantes de Mérida,Rayo Zuliano,Home",
+            "tackles": "17/15[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "12/12[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "11/4[H]",
+            "dribblesAttempted": "18/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T12:48:10.211Z",
+    "endTime": "2026-04-12T12:48:48.611Z",
+    "totalTimeSeconds": 38.4,
+    "combinedMatchStatistics": {
+        "corners": "8/5[H]+3/4[A]+6/4[H]+3/8[A]+4/5[H]+5/12[A]+2/9[A]+8/2[H]",
+        "fouls": "16/15[H]+19/17[A]+11/16[H]+16/16[A]+12/14[H]+12/17[A]+10/7[A]+16/11[H]",
+        "goalKicks": "9/10[H]+6/4[A]+9/6[H]+6/5[A]+9/13[H]+9/3[A]+9/6[A]+5/12[H]",
+        "saves": "4/1[H]+1/4[A]+3/4[H]+3/2[A]+1/2[H]+4/0[A]+7/1[A]+1/2[H]",
+        "offsides": "0/2[H]+0/2[A]+0/1[H]+1/0[A]+2/4[H]+1/0[A]+0/2[A]+3/1[H]",
+        "shotsOnTarget": "3/5[H]+4/2[A]+7/5[H]+3/4[A]+2/2[H]+2/5[A]+4/7[A]+3/3[H]",
+        "yellowCards": "5/2[H]+3/1[A]+5/4[H]+1/2[A]+4/3[H]+2/4[A]+2/3[A]+4/4[H]",
+        "goals": "2/1[H]+0/1[A]+3/2[H]+1/1[A]+0/1[H]+2/1[A]+3/0[A]+1/2[H]",
+        "throwIns": "15/14[H]+20/25[A]+16/20[H]+14/25[A]+23/7[H]+18/18[A]+16/19[A]+23/21[H]",
+        "averageBallPossession": "63/37[H]+48/52[A]+41/59[H]+46/54[A]+39/61[H]+34/66[A]+52/48[A]+64/36[H]",
+        "teams": "Estudiantes de Mérida,Portuguesa FC,Home+Estudiantes de Mérida,Deportivo Táchira,Away+Estudiantes de Mérida,Carabobo FC,Home+Estudiantes de Mérida,Universidad Central,Away+Estudiantes de Mérida,Deportivo La Guaira,Home+Estudiantes de Mérida,Academia Puerto Cabello,Away+Estudiantes de Mérida,Anzoátegui FC,Away+Estudiantes de Mérida,Rayo Zuliano,Home",
+        "tackles": "12/17[H]+19/14[A]+15/13[H]+12/11[A]+17/16[H]+13/15[A]+13/13[A]+17/15[H]",
+        "interceptions": "5/7[H]+16/12[A]+5/8[H]+7/8[A]+9/12[H]+10/8[A]+11/9[A]+12/9[H]",
+        "aerialDuels": "7/9[H]+7/17[A]+17/9[H]+7/12[A]+15/11[H]+9/10[A]+3/5[A]+12/12[H]",
+        "aerialDuelsAttempted": "16/16[H]+24/24[A]+26/26[H]+19/19[A]+26/26[H]+19/19[A]+8/8[A]+24/24[H]",
+        "dribbles": "9/3[H]+3/6[A]+12/6[H]+4/4[A]+14/4[H]+8/9[A]+6/3[A]+11/4[H]",
+        "dribblesAttempted": "24/7[H]+8/25[A]+18/14[H]+6/5[A]+23/17[H]+21/15[A]+13/6[A]+18/15[H]",
+        "isHome": "true+false+true+false+true+false+false+true",
+        "cornersTotals": "39/49",
+        "cornersTotalsHome": "26/16",
+        "cornersTotalsAway": "13/33",
+        "cornersAverage": "4.88/6.13",
+        "cornersAverageHome": "6.50/4.00",
+        "cornersAverageAway": "3.25/8.25",
+        "foulsTotals": "112/113",
+        "foulsTotalsHome": "55/56",
+        "foulsTotalsAway": "57/57",
+        "foulsAverage": "14.00/14.13",
+        "foulsAverageHome": "13.75/14.00",
+        "foulsAverageAway": "14.25/14.25",
+        "goalKicksTotals": "62/59",
+        "goalKicksTotalsHome": "32/41",
+        "goalKicksTotalsAway": "30/18",
+        "goalKicksAverage": "7.75/7.38",
+        "goalKicksAverageHome": "8.00/10.25",
+        "goalKicksAverageAway": "7.50/4.50",
+        "savesTotals": "24/16",
+        "savesTotalsHome": "9/9",
+        "savesTotalsAway": "15/7",
+        "savesAverage": "3.00/2.00",
+        "savesAverageHome": "2.25/2.25",
+        "savesAverageAway": "3.75/1.75",
+        "offsidesTotals": "7/12",
+        "offsidesTotalsHome": "5/8",
+        "offsidesTotalsAway": "2/4",
+        "offsidesAverage": "0.88/1.50",
+        "offsidesAverageHome": "1.25/2.00",
+        "offsidesAverageAway": "0.50/1.00",
+        "shotsOnTargetTotals": "28/33",
+        "shotsOnTargetTotalsHome": "15/15",
+        "shotsOnTargetTotalsAway": "13/18",
+        "shotsOnTargetAverage": "3.50/4.13",
+        "shotsOnTargetAverageHome": "3.75/3.75",
+        "shotsOnTargetAverageAway": "3.25/4.50",
+        "yellowCardsTotals": "26/23",
+        "yellowCardsTotalsHome": "18/13",
+        "yellowCardsTotalsAway": "8/10",
+        "yellowCardsAverage": "3.25/2.88",
+        "yellowCardsAverageHome": "4.50/3.25",
+        "yellowCardsAverageAway": "2.00/2.50",
+        "goalsTotals": "12/9",
+        "goalsTotalsHome": "6/6",
+        "goalsTotalsAway": "6/3",
+        "goalsAverage": "1.50/1.13",
+        "goalsAverageHome": "1.50/1.50",
+        "goalsAverageAway": "1.50/0.75",
+        "throwInsTotals": "145/149",
+        "throwInsTotalsHome": "77/62",
+        "throwInsTotalsAway": "68/87",
+        "throwInsAverage": "18.13/18.63",
+        "throwInsAverageHome": "19.25/15.50",
+        "throwInsAverageAway": "17.00/21.75",
+        "averageBallPossessionTotals": "387/413",
+        "averageBallPossessionTotalsHome": "207/193",
+        "averageBallPossessionTotalsAway": "180/220",
+        "averageBallPossessionAverage": "48.38/51.63",
+        "averageBallPossessionAverageHome": "51.75/48.25",
+        "averageBallPossessionAverageAway": "45.00/55.00",
+        "tacklesTotals": "118/114",
+        "tacklesTotalsHome": "61/61",
+        "tacklesTotalsAway": "57/53",
+        "tacklesAverage": "14.75/14.25",
+        "tacklesAverageHome": "15.25/15.25",
+        "tacklesAverageAway": "14.25/13.25",
+        "interceptionsTotals": "75/73",
+        "interceptionsTotalsHome": "31/36",
+        "interceptionsTotalsAway": "44/37",
+        "interceptionsAverage": "9.38/9.13",
+        "interceptionsAverageHome": "7.75/9.00",
+        "interceptionsAverageAway": "11.00/9.25",
+        "aerialDuelsTotals": "77/85",
+        "aerialDuelsTotalsHome": "51/41",
+        "aerialDuelsTotalsAway": "26/44",
+        "aerialDuelsAverage": "9.63/10.63",
+        "aerialDuelsAverageHome": "12.75/10.25",
+        "aerialDuelsAverageAway": "6.50/11.00",
+        "aerialDuelsAttemptedTotals": "162/162",
+        "aerialDuelsAttemptedTotalsHome": "92/92",
+        "aerialDuelsAttemptedTotalsAway": "70/70",
+        "aerialDuelsAttemptedAverage": "20.25/20.25",
+        "aerialDuelsAttemptedAverageHome": "23.00/23.00",
+        "aerialDuelsAttemptedAverageAway": "17.50/17.50",
+        "dribblesTotals": "67/39",
+        "dribblesTotalsHome": "46/17",
+        "dribblesTotalsAway": "21/22",
+        "dribblesAverage": "8.38/4.88",
+        "dribblesAverageHome": "11.50/4.25",
+        "dribblesAverageAway": "5.25/5.50",
+        "dribblesAttemptedTotals": "131/104",
+        "dribblesAttemptedTotalsHome": "83/53",
+        "dribblesAttemptedTotalsAway": "48/51",
+        "dribblesAttemptedAverage": "16.38/13.00",
+        "dribblesAttemptedAverageHome": "20.75/13.25",
+        "dribblesAttemptedAverageAway": "12.00/12.75"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.07",
+        "fouls": "14.50",
+        "goalKicks": "9.07",
+        "saves": "3.14",
+        "offsides": "1.43",
+        "shotsOnTarget": "2.93/4.64",
+        "yellowCards": "3.07/3.00",
+        "goals": "0.79/1.50",
+        "throwIns": "13.36",
+        "ballPossession": 45.642857142857,
+        "tackles": "8.79/8.64",
+        "interceptions": "6.36/6.36",
+        "aerialDuels": "7.14",
+        "aerialDuelsAttempted": "15.93",
+        "dribbles": "3.14/3.93",
+        "dribblesAttempted": "7.29/9.14"
+    },
+    "teamSlug": "boyaca-chico-fc",
+    "teamId": "6107",
+    "teamName": "Boyacá Chicó FC",
+    "tournament": "Primera A, Apertura",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-pereira-boyaca-chico-fc/hxcsjxc#id:15367416,tab:statistics",
+            "teams": [
+                "Boyacá Chicó FC",
+                "Deportivo Pereira"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6107,
+                6109
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cucuta-deportivo-boyaca-chico-fc/hxcsixc#id:15367406,tab:statistics",
+            "teams": [
+                "Cúcuta Deportivo",
+                "Boyacá Chicó FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6108,
+                6107
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-tolima-boyaca-chico-fc/hxcslxc#id:15367399,tab:statistics",
+            "teams": [
+                "Boyacá Chicó FC",
+                "Deportes Tolima"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6107,
+                6111
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-pasto-boyaca-chico-fc/hxcsnxc#id:15367390,tab:statistics",
+            "teams": [
+                "Deportivo Pasto",
+                "Boyacá Chicó FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                6113,
+                6107
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/millonarios-boyaca-chico-fc/hxcsrxc#id:15367382,tab:statistics",
+            "teams": [
+                "Boyacá Chicó FC",
+                "Millonarios"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                6107,
+                6117
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/once-caldas-boyaca-chico-fc/hxcstxc#id:15367364,tab:statistics",
+            "teams": [
+                "Once Caldas",
+                "Boyacá Chicó FC"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                6118,
+                6107
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rionegro-aguilas-doradas-boyaca-chico-fc/hxcsUou#id:15367360,tab:statistics",
+            "teams": [
+                "Boyacá Chicó FC",
+                "Rionegro Águilas Doradas"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                6107,
+                48244
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fortaleza-ceif-boyaca-chico-fc/hxcstMK#id:15362180,tab:statistics",
+            "teams": [
+                "Fortaleza FC",
+                "Boyacá Chicó FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                89368,
+                6107
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/0[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "6/19[H]",
+            "saves": "0/5[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "6/0[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "1/0[H]",
+            "throwIns": "16/14[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Boyacá Chicó FC,Deportivo Pereira,Home",
+            "tackles": "6/9[H]",
+            "interceptions": "3/6[H]",
+            "aerialDuels": "7/7[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "4/3[H]",
+            "dribblesAttempted": "11/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "24/10[A]",
+            "goalKicks": "8/16[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "4/6[A]",
+            "goals": "0/1[A]",
+            "throwIns": "12/8[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Boyacá Chicó FC,Cúcuta Deportivo,Away",
+            "tackles": "8/3[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "3/1[A]",
+            "dribblesAttempted": "4/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "12/6[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "1/1[H]",
+            "offsides": "4/4[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/24[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Boyacá Chicó FC,Deportes Tolima,Home",
+            "tackles": "11/13[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "8/7[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "9/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "11/2[A]",
+            "saves": "2/0[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "0/4[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "15/18[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Boyacá Chicó FC,Deportivo Pasto,Away",
+            "tackles": "5/5[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "5/16[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "5/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "14/13[H]",
+            "goalKicks": "16/6[H]",
+            "saves": "6/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "8/6[H]",
+            "goals": "2/1[H]",
+            "throwIns": "10/17[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Boyacá Chicó FC,Millonarios,Home",
+            "tackles": "6/4[H]",
+            "interceptions": "3/2[H]",
+            "aerialDuels": "0/3[H]",
+            "aerialDuelsAttempted": "3/3[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "5/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "5/16[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "7/3[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "3/10[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "9/19[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Boyacá Chicó FC,Once Caldas,Away",
+            "tackles": "7/12[A]",
+            "interceptions": "5/7[A]",
+            "aerialDuels": "4/3[A]",
+            "aerialDuelsAttempted": "7/7[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "8/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "14/10[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Boyacá Chicó FC,Rionegro Águilas Doradas,Home",
+            "tackles": "3/8[H]",
+            "interceptions": "4/2[H]",
+            "aerialDuels": "6/11[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "1/5[H]",
+            "dribblesAttempted": "4/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "15/8[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "7/24[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Boyacá Chicó FC,Fortaleza FC,Away",
+            "tackles": "8/5[A]",
+            "interceptions": "8/4[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "1/1[A]",
+            "dribblesAttempted": "1/3[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T12:54:10.946Z",
+    "endTime": "2026-04-12T12:54:40.328Z",
+    "totalTimeSeconds": 29.38,
+    "combinedMatchStatistics": {
+        "corners": "8/0[H]+3/2[A]+3/6[H]+2/4[A]+4/7[H]+1/7[A]+3/5[H]+3/4[A]",
+        "fouls": "15/13[H]+24/10[A]+12/6[H]+13/14[A]+14/13[H]+5/16[A]+14/12[H]+15/8[A]",
+        "goalKicks": "6/19[H]+8/16[A]+8/7[H]+11/2[A]+16/6[H]+9/7[A]+8/9[H]+11/4[A]",
+        "saves": "0/5[H]+1/4[A]+1/1[H]+2/0[A]+6/1[H]+7/3[A]+2/3[H]+5/1[A]",
+        "offsides": "0/2[H]+1/4[A]+4/4[H]+0/6[A]+1/1[H]+1/4[A]+1/4[H]+1/0[A]",
+        "shotsOnTarget": "6/0[H]+4/2[A]+2/2[H]+0/4[A]+3/7[H]+3/10[A]+3/3[H]+2/7[A]",
+        "yellowCards": "4/5[H]+4/6[A]+2/3[H]+1/2[A]+8/6[H]+4/2[A]+3/2[H]+3/2[A]",
+        "goals": "1/0[H]+0/1[A]+1/1[H]+0/2[A]+2/1[H]+0/3[A]+0/1[H]+1/2[A]",
+        "throwIns": "16/14[H]+12/8[A]+21/24[H]+15/18[A]+10/17[H]+9/19[A]+14/10[H]+7/24[A]",
+        "averageBallPossession": "55/45[H]+64/36[A]+40/60[H]+32/68[A]+47/53[H]+38/62[A]+55/45[H]+37/63[A]",
+        "teams": "Boyacá Chicó FC,Deportivo Pereira,Home+Boyacá Chicó FC,Cúcuta Deportivo,Away+Boyacá Chicó FC,Deportes Tolima,Home+Boyacá Chicó FC,Deportivo Pasto,Away+Boyacá Chicó FC,Millonarios,Home+Boyacá Chicó FC,Once Caldas,Away+Boyacá Chicó FC,Rionegro Águilas Doradas,Home+Boyacá Chicó FC,Fortaleza FC,Away",
+        "tackles": "6/9[H]+8/3[A]+11/13[H]+5/5[A]+6/4[H]+7/12[A]+3/8[H]+8/5[A]",
+        "interceptions": "3/6[H]+7/6[A]+9/6[H]+6/6[A]+3/2[H]+5/7[A]+4/2[H]+8/4[A]",
+        "aerialDuels": "7/7[H]+14/13[A]+8/7[H]+5/16[A]+0/3[H]+4/3[A]+6/11[H]+8/10[A]",
+        "aerialDuelsAttempted": "14/14[H]+27/27[A]+15/15[H]+21/21[A]+3/3[H]+7/7[A]+17/17[H]+18/18[A]",
+        "dribbles": "4/3[H]+3/1[A]+4/6[H]+3/3[A]+2/4[H]+3/7[A]+1/5[H]+1/1[A]",
+        "dribblesAttempted": "11/7[H]+4/4[A]+9/11[H]+5/7[A]+5/7[H]+8/13[A]+4/7[H]+1/3[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "27/35",
+        "cornersTotalsHome": "18/18",
+        "cornersTotalsAway": "9/17",
+        "cornersAverage": "3.38/4.38",
+        "cornersAverageHome": "4.50/4.50",
+        "cornersAverageAway": "2.25/4.25",
+        "foulsTotals": "112/92",
+        "foulsTotalsHome": "55/44",
+        "foulsTotalsAway": "57/48",
+        "foulsAverage": "14.00/11.50",
+        "foulsAverageHome": "13.75/11.00",
+        "foulsAverageAway": "14.25/12.00",
+        "goalKicksTotals": "77/70",
+        "goalKicksTotalsHome": "38/41",
+        "goalKicksTotalsAway": "39/29",
+        "goalKicksAverage": "9.63/8.75",
+        "goalKicksAverageHome": "9.50/10.25",
+        "goalKicksAverageAway": "9.75/7.25",
+        "savesTotals": "24/18",
+        "savesTotalsHome": "9/10",
+        "savesTotalsAway": "15/8",
+        "savesAverage": "3.00/2.25",
+        "savesAverageHome": "2.25/2.50",
+        "savesAverageAway": "3.75/2.00",
+        "offsidesTotals": "9/25",
+        "offsidesTotalsHome": "6/11",
+        "offsidesTotalsAway": "3/14",
+        "offsidesAverage": "1.13/3.13",
+        "offsidesAverageHome": "1.50/2.75",
+        "offsidesAverageAway": "0.75/3.50",
+        "shotsOnTargetTotals": "23/35",
+        "shotsOnTargetTotalsHome": "14/12",
+        "shotsOnTargetTotalsAway": "9/23",
+        "shotsOnTargetAverage": "2.88/4.38",
+        "shotsOnTargetAverageHome": "3.50/3.00",
+        "shotsOnTargetAverageAway": "2.25/5.75",
+        "yellowCardsTotals": "29/28",
+        "yellowCardsTotalsHome": "17/16",
+        "yellowCardsTotalsAway": "12/12",
+        "yellowCardsAverage": "3.63/3.50",
+        "yellowCardsAverageHome": "4.25/4.00",
+        "yellowCardsAverageAway": "3.00/3.00",
+        "goalsTotals": "5/11",
+        "goalsTotalsHome": "4/3",
+        "goalsTotalsAway": "1/8",
+        "goalsAverage": "0.63/1.38",
+        "goalsAverageHome": "1.00/0.75",
+        "goalsAverageAway": "0.25/2.00",
+        "throwInsTotals": "104/134",
+        "throwInsTotalsHome": "61/65",
+        "throwInsTotalsAway": "43/69",
+        "throwInsAverage": "13.00/16.75",
+        "throwInsAverageHome": "15.25/16.25",
+        "throwInsAverageAway": "10.75/17.25",
+        "averageBallPossessionTotals": "368/432",
+        "averageBallPossessionTotalsHome": "197/203",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "46.00/54.00",
+        "averageBallPossessionAverageHome": "49.25/50.75",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "54/59",
+        "tacklesTotalsHome": "26/34",
+        "tacklesTotalsAway": "28/25",
+        "tacklesAverage": "6.75/7.38",
+        "tacklesAverageHome": "6.50/8.50",
+        "tacklesAverageAway": "7.00/6.25",
+        "interceptionsTotals": "45/39",
+        "interceptionsTotalsHome": "19/16",
+        "interceptionsTotalsAway": "26/23",
+        "interceptionsAverage": "5.63/4.88",
+        "interceptionsAverageHome": "4.75/4.00",
+        "interceptionsAverageAway": "6.50/5.75",
+        "aerialDuelsTotals": "52/70",
+        "aerialDuelsTotalsHome": "21/28",
+        "aerialDuelsTotalsAway": "31/42",
+        "aerialDuelsAverage": "6.50/8.75",
+        "aerialDuelsAverageHome": "5.25/7.00",
+        "aerialDuelsAverageAway": "7.75/10.50",
+        "aerialDuelsAttemptedTotals": "122/122",
+        "aerialDuelsAttemptedTotalsHome": "49/49",
+        "aerialDuelsAttemptedTotalsAway": "73/73",
+        "aerialDuelsAttemptedAverage": "15.25/15.25",
+        "aerialDuelsAttemptedAverageHome": "12.25/12.25",
+        "aerialDuelsAttemptedAverageAway": "18.25/18.25",
+        "dribblesTotals": "21/30",
+        "dribblesTotalsHome": "11/18",
+        "dribblesTotalsAway": "10/12",
+        "dribblesAverage": "2.63/3.75",
+        "dribblesAverageHome": "2.75/4.50",
+        "dribblesAverageAway": "2.50/3.00",
+        "dribblesAttemptedTotals": "47/59",
+        "dribblesAttemptedTotalsHome": "29/32",
+        "dribblesAttemptedTotalsAway": "18/27",
+        "dribblesAttemptedAverage": "5.88/7.38",
+        "dribblesAttemptedAverageHome": "7.25/8.00",
+        "dribblesAttemptedAverageAway": "4.50/6.75"
+    }
+}

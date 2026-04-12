@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.27",
+        "fouls": "15.13",
+        "goalKicks": "7.20",
+        "saves": "2.47",
+        "offsides": "1.13",
+        "shotsOnTarget": "4.13/3.33",
+        "yellowCards": "3.13/3.53",
+        "goals": "1.13/0.87",
+        "throwIns": "18.00",
+        "ballPossession": 49.466666666667,
+        "tackles": "14.20/13.13",
+        "interceptions": "7.93/5.47",
+        "aerialDuels": "11.67",
+        "aerialDuelsAttempted": "22.33",
+        "dribbles": "4.27/4.60",
+        "dribblesAttempted": "11.80/9.87"
+    },
+    "teamSlug": "deportivo-cali",
+    "teamId": "6112",
+    "teamName": "Deportivo Cali",
+    "tournament": "Primera A, Apertura",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-cali-junior-barranquilla/fxcsmxc#id:15367420,tab:statistics",
+            "teams": [
+                "Junior Barranquilla",
+                "Deportivo Cali"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                6105,
+                6112
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-cali-deportivo-pereira/jxcsmxc#id:15367408,tab:statistics",
+            "teams": [
+                "Deportivo Cali",
+                "Deportivo Pereira"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6112,
+                6109
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/alianza-valledupar-fc-deportivo-cali/mxcsZXbe#id:15367397,tab:statistics",
+            "teams": [
+                "Alianza Valledupar FC",
+                "Deportivo Cali"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                504899,
+                6112
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-santa-fe-deportivo-cali/mxcsqxc#id:15367391,tab:statistics",
+            "teams": [
+                "Deportivo Cali",
+                "Independiente Santa Fe"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6112,
+                6116
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-cali-cucuta-deportivo/ixcsmxc#id:15367381,tab:statistics",
+            "teams": [
+                "Cúcuta Deportivo",
+                "Deportivo Cali"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                6108,
+                6112
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/once-caldas-deportivo-cali/mxcstxc#id:15367373,tab:statistics",
+            "teams": [
+                "Deportivo Cali",
+                "Once Caldas"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                6112,
+                6118
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fortaleza-ceif-deportivo-cali/mxcstMK#id:15367428,tab:statistics",
+            "teams": [
+                "Deportivo Cali",
+                "Fortaleza FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6112,
+                89368
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-cali-atletico-bucaramanga/dxcsmxc#id:15367357,tab:statistics",
+            "teams": [
+                "Atlético Bucaramanga",
+                "Deportivo Cali"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                6103,
+                6112
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/11[A]",
+            "fouls": "18/8[A]",
+            "goalKicks": "5/13[A]",
+            "saves": "3/2[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "6/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "11/26[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Deportivo Cali,Junior Barranquilla,Away",
+            "tackles": "20/7[A]",
+            "interceptions": "5/1[A]",
+            "aerialDuels": "8/5[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "2/1[A]",
+            "dribblesAttempted": "7/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/1[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "16/27[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Deportivo Cali,Deportivo Pereira,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "8/4[H]",
+            "aerialDuels": "9/6[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "0/6[H]",
+            "dribblesAttempted": "6/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "16/13[A]",
+            "goalKicks": "5/12[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "1/4[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "28/16[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Deportivo Cali,Alianza Valledupar FC,Away",
+            "tackles": "19/7[A]",
+            "interceptions": "7/14[A]",
+            "aerialDuels": "15/12[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "7/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/11[H]",
+            "fouls": "14/8[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "2/6[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/18[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Deportivo Cali,Independiente Santa Fe,Home",
+            "tackles": "10/13[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "1/1[H]",
+            "dribblesAttempted": "7/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/8[A]",
+            "fouls": "16/4[A]",
+            "goalKicks": "8/4[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "15/15[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Deportivo Cali,Cúcuta Deportivo,Away",
+            "tackles": "13/9[A]",
+            "interceptions": "3/5[A]",
+            "aerialDuels": "4/9[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "1/2[A]",
+            "dribblesAttempted": "5/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/2[H]",
+            "fouls": "15/9[H]",
+            "goalKicks": "4/5[H]",
+            "saves": "4/3[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "6/5[H]",
+            "goals": "0/2[H]",
+            "throwIns": "21/17[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Deportivo Cali,Once Caldas,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "13/4[H]",
+            "aerialDuels": "16/9[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "10/7[H]",
+            "dribblesAttempted": "19/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "20/10[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "2/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/20[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Deportivo Cali,Fortaleza FC,Home",
+            "tackles": "18/10[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "10/14[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "5/15[H]",
+            "dribblesAttempted": "12/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "9/16[A]",
+            "goalKicks": "17/4[A]",
+            "saves": "4/0[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "0/4[A]",
+            "yellowCards": "3/6[A]",
+            "goals": "0/0[A]",
+            "throwIns": "13/17[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Deportivo Cali,Atlético Bucaramanga,Away",
+            "tackles": "23/16[A]",
+            "interceptions": "10/4[A]",
+            "aerialDuels": "12/23[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "11/9[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T12:52:13.098Z",
+    "endTime": "2026-04-12T12:52:46.225Z",
+    "totalTimeSeconds": 33.13,
+    "combinedMatchStatistics": {
+        "corners": "4/11[A]+5/1[H]+6/2[A]+8/11[H]+4/8[A]+12/2[H]+6/5[H]+2/5[A]",
+        "fouls": "18/8[A]+12/9[H]+16/13[A]+14/8[H]+16/4[A]+15/9[H]+20/10[H]+9/16[A]",
+        "goalKicks": "5/13[A]+5/10[H]+5/12[A]+5/8[H]+8/4[A]+4/5[H]+9/6[H]+17/4[A]",
+        "saves": "3/2[A]+2/5[H]+3/1[A]+2/6[H]+3/3[A]+4/3[H]+2/1[H]+4/0[A]",
+        "offsides": "3/3[A]+1/1[H]+0/6[A]+0/2[H]+1/5[A]+3/2[H]+1/0[H]+1/1[A]",
+        "shotsOnTarget": "4/4[A]+6/2[H]+1/4[A]+7/3[H]+5/3[A]+3/6[H]+2/3[H]+0/4[A]",
+        "yellowCards": "6/3[A]+1/2[H]+1/2[A]+4/4[H]+3/1[A]+6/5[H]+1/4[H]+3/6[A]",
+        "goals": "2/1[A]+1/0[H]+0/1[A]+1/1[H]+2/0[A]+0/2[H]+1/1[H]+0/0[A]",
+        "throwIns": "11/26[A]+16/27[H]+28/16[A]+21/18[H]+15/15[A]+21/17[H]+26/20[H]+13/17[A]",
+        "averageBallPossession": "31/69[A]+50/50[H]+60/40[A]+49/51[H]+34/66[A]+59/41[H]+43/57[H]+39/61[A]",
+        "teams": "Deportivo Cali,Junior Barranquilla,Away+Deportivo Cali,Deportivo Pereira,Home+Deportivo Cali,Alianza Valledupar FC,Away+Deportivo Cali,Independiente Santa Fe,Home+Deportivo Cali,Cúcuta Deportivo,Away+Deportivo Cali,Once Caldas,Home+Deportivo Cali,Fortaleza FC,Home+Deportivo Cali,Atlético Bucaramanga,Away",
+        "tackles": "20/7[A]+15/13[H]+19/7[A]+10/13[H]+13/9[A]+15/17[H]+18/10[H]+23/16[A]",
+        "interceptions": "5/1[A]+8/4[H]+7/14[A]+6/4[H]+3/5[A]+13/4[H]+12/9[H]+10/4[A]",
+        "aerialDuels": "8/5[A]+9/6[H]+15/12[A]+12/11[H]+4/9[A]+16/9[H]+10/14[H]+12/23[A]",
+        "aerialDuelsAttempted": "13/13[A]+15/15[H]+27/27[A]+23/23[H]+13/13[A]+25/25[H]+24/24[H]+35/35[A]",
+        "dribbles": "2/1[A]+0/6[H]+3/6[A]+1/1[H]+1/2[A]+10/7[H]+5/15[H]+5/5[A]",
+        "dribblesAttempted": "7/12[A]+6/10[H]+7/14[A]+7/6[H]+5/8[A]+19/9[H]+12/22[H]+11/9[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "47/45",
+        "cornersTotalsHome": "31/19",
+        "cornersTotalsAway": "16/26",
+        "cornersAverage": "5.88/5.63",
+        "cornersAverageHome": "7.75/4.75",
+        "cornersAverageAway": "4.00/6.50",
+        "foulsTotals": "120/77",
+        "foulsTotalsHome": "61/36",
+        "foulsTotalsAway": "59/41",
+        "foulsAverage": "15.00/9.63",
+        "foulsAverageHome": "15.25/9.00",
+        "foulsAverageAway": "14.75/10.25",
+        "goalKicksTotals": "58/62",
+        "goalKicksTotalsHome": "23/29",
+        "goalKicksTotalsAway": "35/33",
+        "goalKicksAverage": "7.25/7.75",
+        "goalKicksAverageHome": "5.75/7.25",
+        "goalKicksAverageAway": "8.75/8.25",
+        "savesTotals": "23/21",
+        "savesTotalsHome": "10/15",
+        "savesTotalsAway": "13/6",
+        "savesAverage": "2.88/2.63",
+        "savesAverageHome": "2.50/3.75",
+        "savesAverageAway": "3.25/1.50",
+        "offsidesTotals": "10/20",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "5/15",
+        "offsidesAverage": "1.25/2.50",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "1.25/3.75",
+        "shotsOnTargetTotals": "28/29",
+        "shotsOnTargetTotalsHome": "18/14",
+        "shotsOnTargetTotalsAway": "10/15",
+        "shotsOnTargetAverage": "3.50/3.63",
+        "shotsOnTargetAverageHome": "4.50/3.50",
+        "shotsOnTargetAverageAway": "2.50/3.75",
+        "yellowCardsTotals": "25/27",
+        "yellowCardsTotalsHome": "12/15",
+        "yellowCardsTotalsAway": "13/12",
+        "yellowCardsAverage": "3.13/3.38",
+        "yellowCardsAverageHome": "3.00/3.75",
+        "yellowCardsAverageAway": "3.25/3.00",
+        "goalsTotals": "7/6",
+        "goalsTotalsHome": "3/4",
+        "goalsTotalsAway": "4/2",
+        "goalsAverage": "0.88/0.75",
+        "goalsAverageHome": "0.75/1.00",
+        "goalsAverageAway": "1.00/0.50",
+        "throwInsTotals": "151/156",
+        "throwInsTotalsHome": "84/82",
+        "throwInsTotalsAway": "67/74",
+        "throwInsAverage": "18.88/19.50",
+        "throwInsAverageHome": "21.00/20.50",
+        "throwInsAverageAway": "16.75/18.50",
+        "averageBallPossessionTotals": "365/435",
+        "averageBallPossessionTotalsHome": "201/199",
+        "averageBallPossessionTotalsAway": "164/236",
+        "averageBallPossessionAverage": "45.63/54.38",
+        "averageBallPossessionAverageHome": "50.25/49.75",
+        "averageBallPossessionAverageAway": "41.00/59.00",
+        "tacklesTotals": "133/92",
+        "tacklesTotalsHome": "58/53",
+        "tacklesTotalsAway": "75/39",
+        "tacklesAverage": "16.63/11.50",
+        "tacklesAverageHome": "14.50/13.25",
+        "tacklesAverageAway": "18.75/9.75",
+        "interceptionsTotals": "64/45",
+        "interceptionsTotalsHome": "39/21",
+        "interceptionsTotalsAway": "25/24",
+        "interceptionsAverage": "8.00/5.63",
+        "interceptionsAverageHome": "9.75/5.25",
+        "interceptionsAverageAway": "6.25/6.00",
+        "aerialDuelsTotals": "86/89",
+        "aerialDuelsTotalsHome": "47/40",
+        "aerialDuelsTotalsAway": "39/49",
+        "aerialDuelsAverage": "10.75/11.13",
+        "aerialDuelsAverageHome": "11.75/10.00",
+        "aerialDuelsAverageAway": "9.75/12.25",
+        "aerialDuelsAttemptedTotals": "175/175",
+        "aerialDuelsAttemptedTotalsHome": "87/87",
+        "aerialDuelsAttemptedTotalsAway": "88/88",
+        "aerialDuelsAttemptedAverage": "21.88/21.88",
+        "aerialDuelsAttemptedAverageHome": "21.75/21.75",
+        "aerialDuelsAttemptedAverageAway": "22.00/22.00",
+        "dribblesTotals": "27/43",
+        "dribblesTotalsHome": "16/29",
+        "dribblesTotalsAway": "11/14",
+        "dribblesAverage": "3.38/5.38",
+        "dribblesAverageHome": "4.00/7.25",
+        "dribblesAverageAway": "2.75/3.50",
+        "dribblesAttemptedTotals": "74/90",
+        "dribblesAttemptedTotalsHome": "44/47",
+        "dribblesAttemptedTotalsAway": "30/43",
+        "dribblesAttemptedAverage": "9.25/11.25",
+        "dribblesAttemptedAverageHome": "11.00/11.75",
+        "dribblesAttemptedAverageAway": "7.50/10.75"
+    }
+}

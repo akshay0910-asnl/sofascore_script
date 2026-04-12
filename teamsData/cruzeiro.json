@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.70",
+        "fouls": "13.50",
+        "goalKicks": "7.30",
+        "saves": "2.20",
+        "offsides": "1.70",
+        "shotsOnTarget": "4.30/4.50",
+        "yellowCards": "1.90/2.50",
+        "goals": "1.20/2.00",
+        "throwIns": "19.40",
+        "ballPossession": 56.5,
+        "tackles": "13.00/13.10",
+        "interceptions": "8.60/8.00",
+        "aerialDuels": "11.70",
+        "aerialDuelsAttempted": "23.40",
+        "dribbles": "6.70/6.20",
+        "dribblesAttempted": "13.90/11.90"
+    },
+    "teamSlug": "cruzeiro",
+    "teamId": "1954",
+    "teamName": "Cruzeiro",
+    "tournament": "Brasileirão Betano",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sao-paulo-cruzeiro/eOsGO#id:15235504,tab:statistics",
+            "teams": [
+                "São Paulo",
+                "Cruzeiro"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                1981,
+                1954
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vitoria-cruzeiro/eOsmO#id:15237970,tab:statistics",
+            "teams": [
+                "Cruzeiro",
+                "Vitória"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                1954,
+                1962
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/santos-cruzeiro/eOstO#id:15237960,tab:statistics",
+            "teams": [
+                "Cruzeiro",
+                "Santos"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1954,
+                1968
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletico-cruzeiro/eOsrO#id:15237952,tab:statistics",
+            "teams": [
+                "Athletico",
+                "Cruzeiro"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1967,
+                1954
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vasco-da-gama-cruzeiro/eOszO#id:15237940,tab:statistics",
+            "teams": [
+                "Cruzeiro",
+                "Vasco da Gama"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                1954,
+                1974
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/flamengo-cruzeiro/eOsGuc#id:15237925,tab:statistics",
+            "teams": [
+                "Flamengo",
+                "Cruzeiro"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5981,
+                1954
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/corinthians-cruzeiro/eOshO#id:15237919,tab:statistics",
+            "teams": [
+                "Cruzeiro",
+                "Corinthians"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1954,
+                1957
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mirassol-cruzeiro/eOsHOi#id:15237908,tab:statistics",
+            "teams": [
+                "Mirassol",
+                "Cruzeiro"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                21982,
+                1954
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/6[A]",
+            "fouls": "14/21[A]",
+            "goalKicks": "6/3[A]",
+            "saves": "1/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "1/4[A]",
+            "throwIns": "25/18[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Cruzeiro,São Paulo,Away",
+            "tackles": "14/26[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "10/18[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "9/6[A]",
+            "dribblesAttempted": "16/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "2/6[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "3/0[H]",
+            "throwIns": "15/17[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Cruzeiro,Vitória,Home",
+            "tackles": "14/10[H]",
+            "interceptions": "6/8[H]",
+            "aerialDuels": "14/11[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/0[H]",
+            "fouls": "18/16[H]",
+            "goalKicks": "7/10[H]",
+            "saves": "1/3[H]",
+            "offsides": "5/4[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "26/22[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Cruzeiro,Santos,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "14/16[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "17/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "20/26[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "13/20[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Cruzeiro,Athletico,Away",
+            "tackles": "12/12[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "12/12[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "7/3[A]",
+            "dribblesAttempted": "15/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/7[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "3/3[H]",
+            "throwIns": "10/21[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Cruzeiro,Vasco da Gama,Home",
+            "tackles": "14/5[H]",
+            "interceptions": "12/6[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "2/10[H]",
+            "dribblesAttempted": "7/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "13/19[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "23/7[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Cruzeiro,Flamengo,Away",
+            "tackles": "13/12[A]",
+            "interceptions": "8/12[A]",
+            "aerialDuels": "14/12[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "13/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "21/21[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Cruzeiro,Corinthians,Home",
+            "tackles": "9/14[H]",
+            "interceptions": "11/13[H]",
+            "aerialDuels": "8/13[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "13/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/9[A]",
+            "fouls": "10/12[A]",
+            "goalKicks": "7/3[A]",
+            "saves": "9/2[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/11[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "24/16[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Cruzeiro,Mirassol,Away",
+            "tackles": "16/15[A]",
+            "interceptions": "11/8[A]",
+            "aerialDuels": "6/10[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "18/9[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T12:14:14.048Z",
+    "endTime": "2026-04-12T12:14:38.696Z",
+    "totalTimeSeconds": 24.65,
+    "combinedMatchStatistics": {
+        "corners": "4/6[A]+5/6[H]+6/0[H]+6/4[A]+5/4[H]+7/4[A]+5/3[H]+0/9[A]",
+        "fouls": "14/21[A]+15/12[H]+18/16[H]+20/26[A]+9/11[H]+13/19[A]+15/14[H]+10/12[A]",
+        "goalKicks": "6/3[A]+2/6[H]+7/10[H]+10/9[A]+11/11[H]+9/5[A]+9/8[H]+7/3[A]",
+        "saves": "1/6[A]+1/2[H]+1/3[H]+2/1[A]+2/3[H]+4/4[A]+1/2[H]+9/2[A]",
+        "offsides": "0/1[A]+2/0[H]+5/4[H]+2/1[A]+0/1[H]+1/0[A]+1/3[H]+0/2[A]",
+        "shotsOnTarget": "7/5[A]+6/1[H]+3/1[H]+2/4[A]+6/7[H]+4/7[A]+3/2[H]+4/11[A]",
+        "yellowCards": "0/2[A]+1/3[H]+2/4[H]+3/2[A]+2/3[H]+2/2[A]+3/3[H]+2/3[A]",
+        "goals": "1/4[A]+3/0[H]+0/0[H]+1/2[A]+3/3[H]+0/2[A]+1/1[H]+2/2[A]",
+        "throwIns": "25/18[A]+15/17[H]+26/22[H]+13/20[A]+10/21[H]+23/7[A]+21/21[H]+24/16[A]",
+        "averageBallPossession": "64/36[A]+59/41[H]+60/40[H]+52/48[A]+60/40[H]+56/44[A]+48/52[H]+44/56[A]",
+        "teams": "Cruzeiro,São Paulo,Away+Cruzeiro,Vitória,Home+Cruzeiro,Santos,Home+Cruzeiro,Athletico,Away+Cruzeiro,Vasco da Gama,Home+Cruzeiro,Flamengo,Away+Cruzeiro,Corinthians,Home+Cruzeiro,Mirassol,Away",
+        "tackles": "14/26[A]+14/10[H]+15/16[H]+12/12[A]+14/5[H]+13/12[A]+9/14[H]+16/15[A]",
+        "interceptions": "5/5[A]+6/8[H]+7/6[H]+11/11[A]+12/6[H]+8/12[A]+11/13[H]+11/8[A]",
+        "aerialDuels": "10/18[A]+14/11[H]+14/16[H]+12/12[A]+14/14[H]+14/12[A]+8/13[H]+6/10[A]",
+        "aerialDuelsAttempted": "28/28[A]+25/25[H]+30/30[H]+24/24[A]+28/28[H]+26/26[A]+21/21[H]+16/16[A]",
+        "dribbles": "9/6[A]+3/6[H]+9/5[H]+7/3[A]+2/10[H]+7/6[A]+4/4[H]+7/5[A]",
+        "dribblesAttempted": "16/12[A]+10/10[H]+17/15[H]+15/10[A]+7/15[H]+13/10[A]+13/7[H]+18/9[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "38/36",
+        "cornersTotalsHome": "21/13",
+        "cornersTotalsAway": "17/23",
+        "cornersAverage": "4.75/4.50",
+        "cornersAverageHome": "5.25/3.25",
+        "cornersAverageAway": "4.25/5.75",
+        "foulsTotals": "114/131",
+        "foulsTotalsHome": "57/53",
+        "foulsTotalsAway": "57/78",
+        "foulsAverage": "14.25/16.38",
+        "foulsAverageHome": "14.25/13.25",
+        "foulsAverageAway": "14.25/19.50",
+        "goalKicksTotals": "61/55",
+        "goalKicksTotalsHome": "29/35",
+        "goalKicksTotalsAway": "32/20",
+        "goalKicksAverage": "7.63/6.88",
+        "goalKicksAverageHome": "7.25/8.75",
+        "goalKicksAverageAway": "8.00/5.00",
+        "savesTotals": "21/23",
+        "savesTotalsHome": "5/10",
+        "savesTotalsAway": "16/13",
+        "savesAverage": "2.63/2.88",
+        "savesAverageHome": "1.25/2.50",
+        "savesAverageAway": "4.00/3.25",
+        "offsidesTotals": "11/12",
+        "offsidesTotalsHome": "8/8",
+        "offsidesTotalsAway": "3/4",
+        "offsidesAverage": "1.38/1.50",
+        "offsidesAverageHome": "2.00/2.00",
+        "offsidesAverageAway": "0.75/1.00",
+        "shotsOnTargetTotals": "35/38",
+        "shotsOnTargetTotalsHome": "18/11",
+        "shotsOnTargetTotalsAway": "17/27",
+        "shotsOnTargetAverage": "4.38/4.75",
+        "shotsOnTargetAverageHome": "4.50/2.75",
+        "shotsOnTargetAverageAway": "4.25/6.75",
+        "yellowCardsTotals": "15/22",
+        "yellowCardsTotalsHome": "8/13",
+        "yellowCardsTotalsAway": "7/9",
+        "yellowCardsAverage": "1.88/2.75",
+        "yellowCardsAverageHome": "2.00/3.25",
+        "yellowCardsAverageAway": "1.75/2.25",
+        "goalsTotals": "11/14",
+        "goalsTotalsHome": "7/4",
+        "goalsTotalsAway": "4/10",
+        "goalsAverage": "1.38/1.75",
+        "goalsAverageHome": "1.75/1.00",
+        "goalsAverageAway": "1.00/2.50",
+        "throwInsTotals": "157/142",
+        "throwInsTotalsHome": "72/81",
+        "throwInsTotalsAway": "85/61",
+        "throwInsAverage": "19.63/17.75",
+        "throwInsAverageHome": "18.00/20.25",
+        "throwInsAverageAway": "21.25/15.25",
+        "averageBallPossessionTotals": "443/357",
+        "averageBallPossessionTotalsHome": "227/173",
+        "averageBallPossessionTotalsAway": "216/184",
+        "averageBallPossessionAverage": "55.38/44.63",
+        "averageBallPossessionAverageHome": "56.75/43.25",
+        "averageBallPossessionAverageAway": "54.00/46.00",
+        "tacklesTotals": "107/110",
+        "tacklesTotalsHome": "52/45",
+        "tacklesTotalsAway": "55/65",
+        "tacklesAverage": "13.38/13.75",
+        "tacklesAverageHome": "13.00/11.25",
+        "tacklesAverageAway": "13.75/16.25",
+        "interceptionsTotals": "71/69",
+        "interceptionsTotalsHome": "36/33",
+        "interceptionsTotalsAway": "35/36",
+        "interceptionsAverage": "8.88/8.63",
+        "interceptionsAverageHome": "9.00/8.25",
+        "interceptionsAverageAway": "8.75/9.00",
+        "aerialDuelsTotals": "92/106",
+        "aerialDuelsTotalsHome": "50/54",
+        "aerialDuelsTotalsAway": "42/52",
+        "aerialDuelsAverage": "11.50/13.25",
+        "aerialDuelsAverageHome": "12.50/13.50",
+        "aerialDuelsAverageAway": "10.50/13.00",
+        "aerialDuelsAttemptedTotals": "198/198",
+        "aerialDuelsAttemptedTotalsHome": "104/104",
+        "aerialDuelsAttemptedTotalsAway": "94/94",
+        "aerialDuelsAttemptedAverage": "24.75/24.75",
+        "aerialDuelsAttemptedAverageHome": "26.00/26.00",
+        "aerialDuelsAttemptedAverageAway": "23.50/23.50",
+        "dribblesTotals": "48/45",
+        "dribblesTotalsHome": "18/25",
+        "dribblesTotalsAway": "30/20",
+        "dribblesAverage": "6.00/5.63",
+        "dribblesAverageHome": "4.50/6.25",
+        "dribblesAverageAway": "7.50/5.00",
+        "dribblesAttemptedTotals": "109/88",
+        "dribblesAttemptedTotalsHome": "47/47",
+        "dribblesAttemptedTotalsAway": "62/41",
+        "dribblesAttemptedAverage": "13.63/11.00",
+        "dribblesAttemptedAverageHome": "11.75/11.75",
+        "dribblesAttemptedAverageAway": "15.50/10.25"
+    }
+}

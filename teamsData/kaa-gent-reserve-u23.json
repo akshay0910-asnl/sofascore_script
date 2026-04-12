@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.33",
+        "fouls": "12.63",
+        "goalKicks": "7.67",
+        "saves": "3.23",
+        "offsides": "2.37",
+        "shotsOnTarget": "4.33/4.73",
+        "yellowCards": "1.73/1.83",
+        "goals": "1.37/1.60",
+        "throwIns": "18.17",
+        "ballPossession": 57.433333333333,
+        "tackles": "15.67/17.23",
+        "interceptions": "7.13/11.47",
+        "aerialDuels": "14.20",
+        "aerialDuelsAttempted": "30.30",
+        "dribbles": "7.20/6.87",
+        "dribblesAttempted": "14.63/14.83"
+    },
+    "teamSlug": "kaa-gent-reserve-u23",
+    "teamId": "76451",
+    "teamName": "KAA Gent Reserve U23",
+    "tournament": "Challenger Pro League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-kv-kortrijk/iXbsbEF#id:14117892,tab:statistics",
+            "teams": [
+                "KV Kortrijk",
+                "KAA Gent Reserve U23"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                4858,
+                76451
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-club-nxt-u23/VDFsbEF#id:14117880,tab:statistics",
+            "teams": [
+                "KAA Gent Reserve U23",
+                "Club NXT U23"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                76451,
+                76445
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ksc-lokeren-kaa-gent-reserve-u23/bEFsJEYc#id:14117869,tab:statistics",
+            "teams": [
+                "KSC Lokeren",
+                "KAA Gent Reserve U23"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                371484,
+                76451
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-lommel-sk/WacsbEF#id:14117861,tab:statistics",
+            "teams": [
+                "KAA Gent Reserve U23",
+                "Lommel SK"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                76451,
+                5046
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-kas-eupen/BibsbEF#id:14117846,tab:statistics",
+            "teams": [
+                "KAS Eupen",
+                "KAA Gent Reserve U23"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                2926,
+                76451
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-patro-eisden-maasmechelen/BbosbEF#id:14117839,tab:statistics",
+            "teams": [
+                "KAA Gent Reserve U23",
+                "Patro Eisden Maasmechelen"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                76451,
+                35076
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-oc-charleroi/KedsbEF#id:14117818,tab:statistics",
+            "teams": [
+                "KAA Gent Reserve U23",
+                "OC Charleroi"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                76451,
+                7735
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/koninklijke-lierse-sportkring-kaa-gent-reserve-u23/bEFsAwW#id:14117827,tab:statistics",
+            "teams": [
+                "Koninklijke Lierse Sportkring",
+                "KAA Gent Reserve U23"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                116075,
+                76451
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/6[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/22[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "KAA Gent Reserve U23,KV Kortrijk,Away",
+            "tackles": "19/22[A]",
+            "interceptions": "4/17[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "16/12[A]",
+            "dribblesAttempted": "21/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/1[H]",
+            "fouls": "14/10[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "4/7[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "10/6[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "3/2[H]",
+            "throwIns": "17/14[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "KAA Gent Reserve U23,Club NXT U23,Home",
+            "tackles": "11/20[H]",
+            "interceptions": "12/7[H]",
+            "aerialDuels": "10/6[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "4/11[H]",
+            "dribblesAttempted": "11/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/13[A]",
+            "fouls": "12/23[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "4/0[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/4[A]",
+            "throwIns": "13/16[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "KAA Gent Reserve U23,KSC Lokeren,Away",
+            "tackles": "16/14[A]",
+            "interceptions": "8/15[A]",
+            "aerialDuels": "7/5[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "11/6[A]",
+            "dribblesAttempted": "16/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "12/6[H]",
+            "saves": "7/0[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "2/9[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "16/9[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "KAA Gent Reserve U23,Lommel SK,Home",
+            "tackles": "9/7[H]",
+            "interceptions": "7/17[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "14/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "9/10[A]",
+            "goalKicks": "5/1[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "15/31[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "KAA Gent Reserve U23,KAS Eupen,Away",
+            "tackles": "10/7[A]",
+            "interceptions": "6/14[A]",
+            "aerialDuels": "24/15[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "7/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "14/20[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "0/5[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "23/17[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "KAA Gent Reserve U23,Patro Eisden Maasmechelen,Home",
+            "tackles": "15/12[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "16/21[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "12/2[H]",
+            "dribblesAttempted": "18/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[H]",
+            "fouls": "14/8[H]",
+            "goalKicks": "6/2[H]",
+            "saves": "8/4[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "5/11[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/3[H]",
+            "throwIns": "10/14[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "KAA Gent Reserve U23,OC Charleroi,Home",
+            "tackles": "12/16[H]",
+            "interceptions": "6/16[H]",
+            "aerialDuels": "5/13[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "9/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/5[A]",
+            "fouls": "15/15[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "4/2[A]",
+            "offsides": "5/3[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "23/17[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "KAA Gent Reserve U23,Koninklijke Lierse Sportkring,Away",
+            "tackles": "22/20[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "14/11[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "14/11[A]",
+            "dribblesAttempted": "21/21[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T12:07:15.021Z",
+    "endTime": "2026-04-12T12:07:39.142Z",
+    "totalTimeSeconds": 24.12,
+    "combinedMatchStatistics": {
+        "corners": "2/6[A]+9/1[H]+1/13[A]+3/4[H]+4/7[A]+2/4[H]+6/8[H]+7/5[A]",
+        "fouls": "10/13[A]+14/10[H]+12/23[A]+10/12[H]+9/10[A]+14/20[H]+14/8[H]+15/15[A]",
+        "goalKicks": "10/5[A]+5/10[H]+10/5[A]+12/6[H]+5/1[A]+6/5[H]+6/2[H]+10/5[A]",
+        "saves": "3/2[A]+4/7[H]+4/0[A]+7/0[H]+4/2[A]+0/5[H]+8/4[H]+4/2[A]",
+        "offsides": "0/1[A]+1/1[H]+1/3[A]+4/2[H]+3/2[A]+3/2[H]+4/3[H]+5/3[A]",
+        "shotsOnTarget": "2/5[A]+10/6[H]+1/8[A]+2/9[H]+2/8[A]+7/1[H]+5/11[H]+6/5[A]",
+        "yellowCards": "2/0[A]+3/1[H]+2/3[A]+1/2[H]+0/0[A]+2/3[H]+2/1[H]+2/2[A]",
+        "goals": "0/2[A]+3/2[H]+1/4[A]+2/2[H]+0/4[A]+2/1[H]+1/3[H]+3/1[A]",
+        "throwIns": "19/22[A]+17/14[H]+13/16[A]+16/9[H]+15/31[A]+23/17[H]+10/14[H]+23/17[A]",
+        "averageBallPossession": "64/36[A]+53/47[H]+55/45[A]+52/48[H]+57/43[A]+69/31[H]+56/44[H]+64/36[A]",
+        "teams": "KAA Gent Reserve U23,KV Kortrijk,Away+KAA Gent Reserve U23,Club NXT U23,Home+KAA Gent Reserve U23,KSC Lokeren,Away+KAA Gent Reserve U23,Lommel SK,Home+KAA Gent Reserve U23,KAS Eupen,Away+KAA Gent Reserve U23,Patro Eisden Maasmechelen,Home+KAA Gent Reserve U23,OC Charleroi,Home+KAA Gent Reserve U23,Koninklijke Lierse Sportkring,Away",
+        "tackles": "19/22[A]+11/20[H]+16/14[A]+9/7[H]+10/7[A]+15/12[H]+12/16[H]+22/20[A]",
+        "interceptions": "4/17[A]+12/7[H]+8/15[A]+7/17[H]+6/14[A]+6/9[H]+6/16[H]+7/11[A]",
+        "aerialDuels": "11/14[A]+10/6[H]+7/5[A]+15/12[H]+24/15[A]+16/21[H]+5/13[H]+14/11[A]",
+        "aerialDuelsAttempted": "25/25[A]+16/16[H]+12/12[A]+27/27[H]+39/39[A]+37/37[H]+18/18[H]+25/25[A]",
+        "dribbles": "16/12[A]+4/11[H]+11/6[A]+9/3[H]+6/8[A]+12/2[H]+4/6[H]+14/11[A]",
+        "dribblesAttempted": "21/20[A]+11/15[H]+16/16[A]+14/7[H]+7/13[A]+18/11[H]+9/14[H]+21/21[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "34/48",
+        "cornersTotalsHome": "20/17",
+        "cornersTotalsAway": "14/31",
+        "cornersAverage": "4.25/6.00",
+        "cornersAverageHome": "5.00/4.25",
+        "cornersAverageAway": "3.50/7.75",
+        "foulsTotals": "98/111",
+        "foulsTotalsHome": "52/50",
+        "foulsTotalsAway": "46/61",
+        "foulsAverage": "12.25/13.88",
+        "foulsAverageHome": "13.00/12.50",
+        "foulsAverageAway": "11.50/15.25",
+        "goalKicksTotals": "64/39",
+        "goalKicksTotalsHome": "29/23",
+        "goalKicksTotalsAway": "35/16",
+        "goalKicksAverage": "8.00/4.88",
+        "goalKicksAverageHome": "7.25/5.75",
+        "goalKicksAverageAway": "8.75/4.00",
+        "savesTotals": "34/22",
+        "savesTotalsHome": "19/16",
+        "savesTotalsAway": "15/6",
+        "savesAverage": "4.25/2.75",
+        "savesAverageHome": "4.75/4.00",
+        "savesAverageAway": "3.75/1.50",
+        "offsidesTotals": "21/17",
+        "offsidesTotalsHome": "12/8",
+        "offsidesTotalsAway": "9/9",
+        "offsidesAverage": "2.63/2.13",
+        "offsidesAverageHome": "3.00/2.00",
+        "offsidesAverageAway": "2.25/2.25",
+        "shotsOnTargetTotals": "35/53",
+        "shotsOnTargetTotalsHome": "24/27",
+        "shotsOnTargetTotalsAway": "11/26",
+        "shotsOnTargetAverage": "4.38/6.63",
+        "shotsOnTargetAverageHome": "6.00/6.75",
+        "shotsOnTargetAverageAway": "2.75/6.50",
+        "yellowCardsTotals": "14/12",
+        "yellowCardsTotalsHome": "8/7",
+        "yellowCardsTotalsAway": "6/5",
+        "yellowCardsAverage": "1.75/1.50",
+        "yellowCardsAverageHome": "2.00/1.75",
+        "yellowCardsAverageAway": "1.50/1.25",
+        "goalsTotals": "12/19",
+        "goalsTotalsHome": "8/8",
+        "goalsTotalsAway": "4/11",
+        "goalsAverage": "1.50/2.38",
+        "goalsAverageHome": "2.00/2.00",
+        "goalsAverageAway": "1.00/2.75",
+        "throwInsTotals": "136/140",
+        "throwInsTotalsHome": "66/54",
+        "throwInsTotalsAway": "70/86",
+        "throwInsAverage": "17.00/17.50",
+        "throwInsAverageHome": "16.50/13.50",
+        "throwInsAverageAway": "17.50/21.50",
+        "averageBallPossessionTotals": "470/330",
+        "averageBallPossessionTotalsHome": "230/170",
+        "averageBallPossessionTotalsAway": "240/160",
+        "averageBallPossessionAverage": "58.75/41.25",
+        "averageBallPossessionAverageHome": "57.50/42.50",
+        "averageBallPossessionAverageAway": "60.00/40.00",
+        "tacklesTotals": "114/118",
+        "tacklesTotalsHome": "47/55",
+        "tacklesTotalsAway": "67/63",
+        "tacklesAverage": "14.25/14.75",
+        "tacklesAverageHome": "11.75/13.75",
+        "tacklesAverageAway": "16.75/15.75",
+        "interceptionsTotals": "56/106",
+        "interceptionsTotalsHome": "31/49",
+        "interceptionsTotalsAway": "25/57",
+        "interceptionsAverage": "7.00/13.25",
+        "interceptionsAverageHome": "7.75/12.25",
+        "interceptionsAverageAway": "6.25/14.25",
+        "aerialDuelsTotals": "102/97",
+        "aerialDuelsTotalsHome": "46/52",
+        "aerialDuelsTotalsAway": "56/45",
+        "aerialDuelsAverage": "12.75/12.13",
+        "aerialDuelsAverageHome": "11.50/13.00",
+        "aerialDuelsAverageAway": "14.00/11.25",
+        "aerialDuelsAttemptedTotals": "199/199",
+        "aerialDuelsAttemptedTotalsHome": "98/98",
+        "aerialDuelsAttemptedTotalsAway": "101/101",
+        "aerialDuelsAttemptedAverage": "24.88/24.88",
+        "aerialDuelsAttemptedAverageHome": "24.50/24.50",
+        "aerialDuelsAttemptedAverageAway": "25.25/25.25",
+        "dribblesTotals": "76/59",
+        "dribblesTotalsHome": "29/22",
+        "dribblesTotalsAway": "47/37",
+        "dribblesAverage": "9.50/7.38",
+        "dribblesAverageHome": "7.25/5.50",
+        "dribblesAverageAway": "11.75/9.25",
+        "dribblesAttemptedTotals": "117/117",
+        "dribblesAttemptedTotalsHome": "52/47",
+        "dribblesAttemptedTotalsAway": "65/70",
+        "dribblesAttemptedAverage": "14.63/14.63",
+        "dribblesAttemptedAverageHome": "13.00/11.75",
+        "dribblesAttemptedAverageAway": "16.25/17.50"
+    }
+}
