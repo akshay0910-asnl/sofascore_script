@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.00",
+        "fouls": "16.00",
+        "goalKicks": "11.00",
+        "saves": "2.00",
+        "offsides": "0.00",
+        "shotsOnTarget": "7.00/5.00",
+        "yellowCards": "4.00/2.00",
+        "goals": "0.00/3.00",
+        "throwIns": "12.00",
+        "ballPossession": 47,
+        "tackles": "23.00/16.00",
+        "interceptions": "8.00/8.00",
+        "aerialDuels": "11.00",
+        "aerialDuelsAttempted": "24.00",
+        "dribbles": "11.00/13.00",
+        "dribblesAttempted": "16.00/22.00"
+    },
+    "teamSlug": "mjallby-aif",
+    "teamId": "1783",
+    "teamName": "Mjällby AIF",
+    "tournament": "Allsvenskan",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-hammarby-if/iKsIK#id:15385887,tab:statistics",
+            "teams": [
+                "Hammarby IF",
+                "Mjällby AIF"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                1758,
+                1783
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-bk-hacken/kKsIK#id:13241317,tab:statistics",
+            "teams": [
+                "Mjällby AIF",
+                "BK Häcken"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1783,
+                1760
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ifk-varnamo-mjallby-aif/IKsRL#id:13241324,tab:statistics",
+            "teams": [
+                "IFK Värnamo",
+                "Mjällby AIF"
+            ],
+            "goals": [
+                0,
+                5
+            ],
+            "teamIds": [
+                1842,
+                1783
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-ifk-norrkoping/uKsIK#id:13241325,tab:statistics",
+            "teams": [
+                "Mjällby AIF",
+                "IFK Norrköping"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1783,
+                1769
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-ifk-goteborg/lKsIK#id:13241349,tab:statistics",
+            "teams": [
+                "IFK Göteborg",
+                "Mjällby AIF"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                1761,
+                1783
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-if-elfsborg/mKsIK#id:13292362,tab:statistics",
+            "teams": [
+                "Mjällby AIF",
+                "IF Elfsborg"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1783,
+                1762
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/if-brommapojkarna-mjallby-aif/IKsMK#id:13295626,tab:statistics",
+            "teams": [
+                "IF Brommapojkarna",
+                "Mjällby AIF"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                1787,
+                1783
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-osters-if/GKsIK#id:13295620,tab:statistics",
+            "teams": [
+                "Mjällby AIF",
+                "Östers IF"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1783,
+                1781
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/2[A]",
+            "fouls": "16/17[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "2/7[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/3[A]",
+            "throwIns": "12/11[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Mjällby AIF,Hammarby IF,Away",
+            "tackles": "23/16[A]",
+            "interceptions": "8/8[A]",
+            "aerialDuels": "11/13[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "11/13[A]",
+            "dribblesAttempted": "16/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[H]",
+            "fouls": "12/18[H]",
+            "goalKicks": "9/4[H]",
+            "saves": "4/8[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "9/4[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "8/26[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Mjällby AIF,BK Häcken,Home",
+            "tackles": "18/20[H]",
+            "interceptions": "5/13[H]",
+            "aerialDuels": "13/4[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "10/10[H]",
+            "dribblesAttempted": "17/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/7[A]",
+            "fouls": "9/7[A]",
+            "goalKicks": "3/13[A]",
+            "saves": "3/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "9/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "5/0[A]",
+            "throwIns": "20/20[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Mjällby AIF,IFK Värnamo,Away",
+            "tackles": "18/18[A]",
+            "interceptions": "17/18[A]",
+            "aerialDuels": "9/10[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "19/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "27/20[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "Mjällby AIF,IFK Norrköping,Home",
+            "tackles": "12/12[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "15/20[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "14/5[H]",
+            "dribblesAttempted": "21/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/7[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "7/10[A]",
+            "saves": "2/8[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "10/2[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "15/35[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Mjällby AIF,IFK Göteborg,Away",
+            "tackles": "24/18[A]",
+            "interceptions": "10/10[A]",
+            "aerialDuels": "9/8[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "14/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/6[H]",
+            "fouls": "8/18[H]",
+            "goalKicks": "8/11[H]",
+            "saves": "0/6[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "9/0[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/23[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Mjällby AIF,IF Elfsborg,Home",
+            "tackles": "13/17[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "15/4[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "18/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "16/11[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "20/16[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Mjällby AIF,IF Brommapojkarna,Away",
+            "tackles": "13/15[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "21/19[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "10/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/6[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "4/10[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/24[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Mjällby AIF,Östers IF,Home",
+            "tackles": "19/7[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "10/10[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "11/7[H]",
+            "dribblesAttempted": "15/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-11T13:00:37.994Z",
+    "endTime": "2026-04-11T13:01:08.434Z",
+    "totalTimeSeconds": 30.44,
+    "combinedMatchStatistics": {
+        "corners": "3/2[A]+3/9[H]+7/7[A]+4/3[H]+7/7[A]+12/6[H]+6/2[A]+9/6[H]",
+        "fouls": "16/17[A]+12/18[H]+9/7[A]+9/11[H]+10/14[A]+8/18[H]+16/11[A]+8/14[H]",
+        "goalKicks": "11/8[A]+9/4[H]+3/13[A]+9/7[H]+7/10[A]+8/11[H]+9/7[A]+4/10[H]",
+        "saves": "2/7[A]+4/8[H]+3/4[A]+4/2[H]+2/8[A]+0/6[H]+1/3[A]+2/3[H]",
+        "offsides": "0/6[A]+0/2[H]+0/1[A]+3/2[H]+3/4[A]+1/0[H]+1/2[A]+2/2[H]",
+        "shotsOnTarget": "7/5[A]+9/4[H]+9/3[A]+4/5[H]+10/2[A]+9/0[H]+4/1[A]+4/3[H]",
+        "yellowCards": "4/2[A]+0/3[H]+1/2[A]+1/2[H]+1/1[A]+1/2[H]+1/1[A]+0/1[H]",
+        "goals": "0/3[A]+1/0[H]+5/0[A]+2/1[H]+2/0[A]+2/0[H]+1/0[A]+1/1[H]",
+        "throwIns": "12/11[A]+8/26[H]+20/20[A]+27/20[H]+15/35[A]+21/23[H]+20/16[A]+20/24[H]",
+        "averageBallPossession": "47/53[A]+55/45[H]+57/43[A]+73/27[H]+48/52[A]+54/46[H]+55/45[A]+59/41[H]",
+        "teams": "Mjällby AIF,Hammarby IF,Away+Mjällby AIF,BK Häcken,Home+Mjällby AIF,IFK Värnamo,Away+Mjällby AIF,IFK Norrköping,Home+Mjällby AIF,IFK Göteborg,Away+Mjällby AIF,IF Elfsborg,Home+Mjällby AIF,IF Brommapojkarna,Away+Mjällby AIF,Östers IF,Home",
+        "tackles": "23/16[A]+18/20[H]+18/18[A]+12/12[H]+24/18[A]+13/17[H]+13/15[A]+19/7[H]",
+        "interceptions": "8/8[A]+5/13[H]+17/18[A]+6/10[H]+10/10[A]+7/6[H]+8/6[A]+9/6[H]",
+        "aerialDuels": "11/13[A]+13/4[H]+9/10[A]+15/20[H]+9/8[A]+15/4[H]+21/19[A]+10/10[H]",
+        "aerialDuelsAttempted": "24/24[A]+17/17[H]+19/19[A]+35/35[H]+17/17[A]+19/19[H]+40/40[A]+20/20[H]",
+        "dribbles": "11/13[A]+10/10[H]+7/8[A]+14/5[H]+5/7[A]+6/9[H]+5/6[A]+11/7[H]",
+        "dribblesAttempted": "16/22[A]+17/21[H]+19/16[A]+21/14[H]+14/16[A]+18/18[H]+10/15[A]+15/18[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "51/42",
+        "cornersTotalsHome": "28/24",
+        "cornersTotalsAway": "23/18",
+        "cornersAverage": "6.38/5.25",
+        "cornersAverageHome": "7.00/6.00",
+        "cornersAverageAway": "5.75/4.50",
+        "foulsTotals": "88/110",
+        "foulsTotalsHome": "37/61",
+        "foulsTotalsAway": "51/49",
+        "foulsAverage": "11.00/13.75",
+        "foulsAverageHome": "9.25/15.25",
+        "foulsAverageAway": "12.75/12.25",
+        "goalKicksTotals": "60/70",
+        "goalKicksTotalsHome": "30/32",
+        "goalKicksTotalsAway": "30/38",
+        "goalKicksAverage": "7.50/8.75",
+        "goalKicksAverageHome": "7.50/8.00",
+        "goalKicksAverageAway": "7.50/9.50",
+        "savesTotals": "18/41",
+        "savesTotalsHome": "10/19",
+        "savesTotalsAway": "8/22",
+        "savesAverage": "2.25/5.13",
+        "savesAverageHome": "2.50/4.75",
+        "savesAverageAway": "2.00/5.50",
+        "offsidesTotals": "10/19",
+        "offsidesTotalsHome": "6/6",
+        "offsidesTotalsAway": "4/13",
+        "offsidesAverage": "1.25/2.38",
+        "offsidesAverageHome": "1.50/1.50",
+        "offsidesAverageAway": "1.00/3.25",
+        "shotsOnTargetTotals": "56/23",
+        "shotsOnTargetTotalsHome": "26/12",
+        "shotsOnTargetTotalsAway": "30/11",
+        "shotsOnTargetAverage": "7.00/2.88",
+        "shotsOnTargetAverageHome": "6.50/3.00",
+        "shotsOnTargetAverageAway": "7.50/2.75",
+        "yellowCardsTotals": "9/14",
+        "yellowCardsTotalsHome": "2/8",
+        "yellowCardsTotalsAway": "7/6",
+        "yellowCardsAverage": "1.13/1.75",
+        "yellowCardsAverageHome": "0.50/2.00",
+        "yellowCardsAverageAway": "1.75/1.50",
+        "goalsTotals": "14/5",
+        "goalsTotalsHome": "6/2",
+        "goalsTotalsAway": "8/3",
+        "goalsAverage": "1.75/0.63",
+        "goalsAverageHome": "1.50/0.50",
+        "goalsAverageAway": "2.00/0.75",
+        "throwInsTotals": "143/175",
+        "throwInsTotalsHome": "76/93",
+        "throwInsTotalsAway": "67/82",
+        "throwInsAverage": "17.88/21.88",
+        "throwInsAverageHome": "19.00/23.25",
+        "throwInsAverageAway": "16.75/20.50",
+        "averageBallPossessionTotals": "448/352",
+        "averageBallPossessionTotalsHome": "241/159",
+        "averageBallPossessionTotalsAway": "207/193",
+        "averageBallPossessionAverage": "56.00/44.00",
+        "averageBallPossessionAverageHome": "60.25/39.75",
+        "averageBallPossessionAverageAway": "51.75/48.25",
+        "tacklesTotals": "140/123",
+        "tacklesTotalsHome": "62/56",
+        "tacklesTotalsAway": "78/67",
+        "tacklesAverage": "17.50/15.38",
+        "tacklesAverageHome": "15.50/14.00",
+        "tacklesAverageAway": "19.50/16.75",
+        "interceptionsTotals": "70/77",
+        "interceptionsTotalsHome": "27/35",
+        "interceptionsTotalsAway": "43/42",
+        "interceptionsAverage": "8.75/9.63",
+        "interceptionsAverageHome": "6.75/8.75",
+        "interceptionsAverageAway": "10.75/10.50",
+        "aerialDuelsTotals": "103/88",
+        "aerialDuelsTotalsHome": "53/38",
+        "aerialDuelsTotalsAway": "50/50",
+        "aerialDuelsAverage": "12.88/11.00",
+        "aerialDuelsAverageHome": "13.25/9.50",
+        "aerialDuelsAverageAway": "12.50/12.50",
+        "aerialDuelsAttemptedTotals": "191/191",
+        "aerialDuelsAttemptedTotalsHome": "91/91",
+        "aerialDuelsAttemptedTotalsAway": "100/100",
+        "aerialDuelsAttemptedAverage": "23.88/23.88",
+        "aerialDuelsAttemptedAverageHome": "22.75/22.75",
+        "aerialDuelsAttemptedAverageAway": "25.00/25.00",
+        "dribblesTotals": "69/65",
+        "dribblesTotalsHome": "41/31",
+        "dribblesTotalsAway": "28/34",
+        "dribblesAverage": "8.63/8.13",
+        "dribblesAverageHome": "10.25/7.75",
+        "dribblesAverageAway": "7.00/8.50",
+        "dribblesAttemptedTotals": "130/140",
+        "dribblesAttemptedTotalsHome": "71/71",
+        "dribblesAttemptedTotalsAway": "59/69",
+        "dribblesAttemptedAverage": "16.25/17.50",
+        "dribblesAttemptedAverageHome": "17.75/17.75",
+        "dribblesAttemptedAverageAway": "14.75/17.25"
+    }
+}

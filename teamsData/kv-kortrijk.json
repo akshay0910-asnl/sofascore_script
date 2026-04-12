@@ -1,0 +1,420 @@
+{
+    "globalStatistics": {
+        "corners": "6.62",
+        "fouls": "13.62",
+        "goalKicks": "6.93",
+        "saves": "2.93",
+        "offsides": "3.24",
+        "shotsOnTarget": "5.07/3.97",
+        "yellowCards": "1.83/2.14",
+        "goals": "1.83/1.07",
+        "throwIns": "23.48",
+        "ballPossession": 50.896551724138,
+        "tackles": "20.10/19.28",
+        "interceptions": "10.83/11.00",
+        "aerialDuels": "16.59",
+        "aerialDuelsAttempted": "32.14",
+        "dribbles": "8.28/9.14",
+        "dribblesAttempted": "17.97/19.03"
+    },
+    "teamSlug": "kv-kortrijk",
+    "teamId": "4858",
+    "teamName": "KV Kortrijk",
+    "tournament": "Challenger Pro League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/kaa-gent-reserve-u23-kv-kortrijk/iXbsbEF#id:14117892,tab:statistics",
+            "teams": [
+                "KV Kortrijk",
+                "KAA Gent Reserve U23"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                4858,
+                76451
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/royal-francs-borains-kv-kortrijk/iXbsYuGc#id:14117878,tab:statistics",
+            "teams": [
+                "Royal Francs Borains",
+                "KV Kortrijk"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                328498,
+                4858
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oc-charleroi-kv-kortrijk/iXbsKed#id:14117868,tab:statistics",
+            "teams": [
+                "KV Kortrijk",
+                "OC Charleroi"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                4858,
+                7735
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lommel-sk-kv-kortrijk/iXbsWac#id:14117851,tab:statistics",
+            "teams": [
+                "Lommel SK",
+                "KV Kortrijk"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5046,
+                4858
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rfc-liege-kv-kortrijk/iXbsBJfd#id:14117840,tab:statistics",
+            "teams": [
+                "KV Kortrijk",
+                "RFC Liège"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                4858,
+                389226
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rfc-seraing-kv-kortrijk/iXbsmUGb#id:14117832,tab:statistics",
+            "teams": [
+                "RFC Seraing",
+                "KV Kortrijk"
+            ],
+            "goals": [
+                null,
+                null
+            ],
+            "teamIds": [
+                204712,
+                4858
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/k-beerschota-kv-kortrijk/iXbskKrb#id:14117821,tab:statistics",
+            "teams": [
+                "KV Kortrijk",
+                "K. Beerschot V.A."
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                4858,
+                169260
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kv-kortrijk-kas-eupen/BibsiXb#id:14117803,tab:statistics",
+            "teams": [
+                "KAS Eupen",
+                "KV Kortrijk"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2926,
+                4858
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/2[H]",
+            "fouls": "13/10[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "KV Kortrijk,KAA Gent Reserve U23,Home",
+            "tackles": "22/19[H]",
+            "interceptions": "17/4[H]",
+            "aerialDuels": "14/11[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "12/16[H]",
+            "dribblesAttempted": "20/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/8[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "4/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/4[A]",
+            "throwIns": "34/24[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "KV Kortrijk,Royal Francs Borains,Away",
+            "tackles": "19/30[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "19/21[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "20/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "16/0[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "2/7[H]",
+            "saves": "4/5[H]",
+            "offsides": "6/1[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "34/20[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "KV Kortrijk,OC Charleroi,Home",
+            "tackles": "19/18[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "17/16[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "10/10[H]",
+            "dribblesAttempted": "21/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "6/0[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/29[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "KV Kortrijk,Lommel SK,Away",
+            "tackles": "21/24[A]",
+            "interceptions": "10/12[A]",
+            "aerialDuels": "22/18[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "19/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "12/10[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "0/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "26/26[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "KV Kortrijk,RFC Liège,Home",
+            "tackles": "19/21[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "10/17[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "17/22[H]",
+            "isHome": true
+        },
+        null,
+        {
+            "corners": "4/5[H]",
+            "fouls": "20/15[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "25/22[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "KV Kortrijk,K. Beerschot V.A.,Home",
+            "tackles": "15/29[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "28/16[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "19/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[A]",
+            "fouls": "16/18[A]",
+            "goalKicks": "2/17[A]",
+            "saves": "1/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "34/17[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "KV Kortrijk,KAS Eupen,Away",
+            "tackles": "11/22[A]",
+            "interceptions": "11/20[A]",
+            "aerialDuels": "22/21[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "18/8[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-11T13:20:42.205Z",
+    "endTime": "2026-04-11T13:21:49.819Z",
+    "totalTimeSeconds": 67.61,
+    "combinedMatchStatistics": {
+        "corners": "6/2[H]+4/8[A]+16/0[H]+6/7[A]+6/3[H]+4/5[H]+9/3[A]",
+        "fouls": "13/10[H]+13/12[A]+12/9[H]+12/16[A]+12/10[H]+20/15[H]+16/18[A]",
+        "goalKicks": "5/10[H]+6/10[A]+2/7[H]+6/7[A]+9/6[H]+5/6[H]+2/17[A]",
+        "saves": "2/3[H]+4/2[A]+4/5[H]+5/2[A]+0/2[H]+1/1[H]+1/3[A]",
+        "offsides": "1/0[H]+0/0[A]+6/1[H]+6/0[A]+2/1[H]+2/1[H]+2/2[A]",
+        "shotsOnTarget": "5/2[H]+3/8[A]+8/5[H]+3/6[A]+5/1[H]+1/1[H]+3/2[A]",
+        "yellowCards": "0/2[H]+1/2[A]+1/1[H]+2/3[A]+2/1[H]+4/2[H]+1/2[A]",
+        "goals": "2/0[H]+1/4[A]+3/1[H]+1/1[A]+3/1[H]+1/0[H]+0/1[A]",
+        "throwIns": "22/19[H]+34/24[A]+34/20[H]+24/29[A]+26/26[H]+25/22[H]+34/17[A]",
+        "averageBallPossession": "36/64[H]+58/42[A]+64/36[H]+49/51[A]+51/49[H]+48/52[H]+53/47[A]",
+        "teams": "KV Kortrijk,KAA Gent Reserve U23,Home+KV Kortrijk,Royal Francs Borains,Away+KV Kortrijk,OC Charleroi,Home+KV Kortrijk,Lommel SK,Away+KV Kortrijk,RFC Liège,Home+KV Kortrijk,K. Beerschot V.A.,Home+KV Kortrijk,KAS Eupen,Away",
+        "tackles": "22/19[H]+19/30[A]+19/18[H]+21/24[A]+19/21[H]+15/29[H]+11/22[A]",
+        "interceptions": "17/4[H]+9/9[A]+6/9[H]+10/12[A]+11/12[H]+8/7[H]+11/20[A]",
+        "aerialDuels": "14/11[H]+19/21[A]+17/16[H]+22/18[A]+10/17[H]+28/16[H]+22/21[A]",
+        "aerialDuelsAttempted": "25/25[H]+40/40[A]+33/33[H]+40/40[A]+27/27[H]+44/44[H]+43/43[A]",
+        "dribbles": "12/16[H]+7/9[A]+10/10[H]+8/7[A]+8/11[H]+5/7[H]+4/3[A]",
+        "dribblesAttempted": "20/21[H]+20/15[A]+21/20[H]+19/18[A]+17/22[H]+19/10[H]+18/8[A]",
+        "isHome": "true+false+true+false+true+true+false",
+        "cornersTotals": "51/28",
+        "cornersTotalsHome": "32/10",
+        "cornersTotalsAway": "19/18",
+        "cornersAverage": "7.29/4.00",
+        "cornersAverageHome": "8.00/2.50",
+        "cornersAverageAway": "6.33/6.00",
+        "foulsTotals": "98/90",
+        "foulsTotalsHome": "57/44",
+        "foulsTotalsAway": "41/46",
+        "foulsAverage": "14.00/12.86",
+        "foulsAverageHome": "14.25/11.00",
+        "foulsAverageAway": "13.67/15.33",
+        "goalKicksTotals": "35/63",
+        "goalKicksTotalsHome": "21/29",
+        "goalKicksTotalsAway": "14/34",
+        "goalKicksAverage": "5.00/9.00",
+        "goalKicksAverageHome": "5.25/7.25",
+        "goalKicksAverageAway": "4.67/11.33",
+        "savesTotals": "17/18",
+        "savesTotalsHome": "7/11",
+        "savesTotalsAway": "10/7",
+        "savesAverage": "2.43/2.57",
+        "savesAverageHome": "1.75/2.75",
+        "savesAverageAway": "3.33/2.33",
+        "offsidesTotals": "19/5",
+        "offsidesTotalsHome": "11/3",
+        "offsidesTotalsAway": "8/2",
+        "offsidesAverage": "2.71/0.71",
+        "offsidesAverageHome": "2.75/0.75",
+        "offsidesAverageAway": "2.67/0.67",
+        "shotsOnTargetTotals": "28/25",
+        "shotsOnTargetTotalsHome": "19/9",
+        "shotsOnTargetTotalsAway": "9/16",
+        "shotsOnTargetAverage": "4.00/3.57",
+        "shotsOnTargetAverageHome": "4.75/2.25",
+        "shotsOnTargetAverageAway": "3.00/5.33",
+        "yellowCardsTotals": "11/13",
+        "yellowCardsTotalsHome": "7/6",
+        "yellowCardsTotalsAway": "4/7",
+        "yellowCardsAverage": "1.57/1.86",
+        "yellowCardsAverageHome": "1.75/1.50",
+        "yellowCardsAverageAway": "1.33/2.33",
+        "goalsTotals": "11/8",
+        "goalsTotalsHome": "9/2",
+        "goalsTotalsAway": "2/6",
+        "goalsAverage": "1.57/1.14",
+        "goalsAverageHome": "2.25/0.50",
+        "goalsAverageAway": "0.67/2.00",
+        "throwInsTotals": "199/157",
+        "throwInsTotalsHome": "107/87",
+        "throwInsTotalsAway": "92/70",
+        "throwInsAverage": "28.43/22.43",
+        "throwInsAverageHome": "26.75/21.75",
+        "throwInsAverageAway": "30.67/23.33",
+        "averageBallPossessionTotals": "359/341",
+        "averageBallPossessionTotalsHome": "199/201",
+        "averageBallPossessionTotalsAway": "160/140",
+        "averageBallPossessionAverage": "51.29/48.71",
+        "averageBallPossessionAverageHome": "49.75/50.25",
+        "averageBallPossessionAverageAway": "53.33/46.67",
+        "tacklesTotals": "126/163",
+        "tacklesTotalsHome": "75/87",
+        "tacklesTotalsAway": "51/76",
+        "tacklesAverage": "18.00/23.29",
+        "tacklesAverageHome": "18.75/21.75",
+        "tacklesAverageAway": "17.00/25.33",
+        "interceptionsTotals": "72/73",
+        "interceptionsTotalsHome": "42/32",
+        "interceptionsTotalsAway": "30/41",
+        "interceptionsAverage": "10.29/10.43",
+        "interceptionsAverageHome": "10.50/8.00",
+        "interceptionsAverageAway": "10.00/13.67",
+        "aerialDuelsTotals": "132/120",
+        "aerialDuelsTotalsHome": "69/60",
+        "aerialDuelsTotalsAway": "63/60",
+        "aerialDuelsAverage": "18.86/17.14",
+        "aerialDuelsAverageHome": "17.25/15.00",
+        "aerialDuelsAverageAway": "21.00/20.00",
+        "aerialDuelsAttemptedTotals": "252/252",
+        "aerialDuelsAttemptedTotalsHome": "129/129",
+        "aerialDuelsAttemptedTotalsAway": "123/123",
+        "aerialDuelsAttemptedAverage": "36.00/36.00",
+        "aerialDuelsAttemptedAverageHome": "32.25/32.25",
+        "aerialDuelsAttemptedAverageAway": "41.00/41.00",
+        "dribblesTotals": "54/63",
+        "dribblesTotalsHome": "35/44",
+        "dribblesTotalsAway": "19/19",
+        "dribblesAverage": "7.71/9.00",
+        "dribblesAverageHome": "8.75/11.00",
+        "dribblesAverageAway": "6.33/6.33",
+        "dribblesAttemptedTotals": "134/114",
+        "dribblesAttemptedTotalsHome": "77/73",
+        "dribblesAttemptedTotalsAway": "57/41",
+        "dribblesAttemptedAverage": "19.14/16.29",
+        "dribblesAttemptedAverageHome": "19.25/18.25",
+        "dribblesAttemptedAverageAway": "19.00/13.67"
+    }
+}

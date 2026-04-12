@@ -1022,7 +1022,7 @@ async function keepBrowserOpenTillRequired(page, teamId) {
           console.log("\n⏳ Waiting for all data to be collected...");
           //console.log(JSON.stringify(result, null, 2));
         }
-      }, 2000); // 2 seconds
+      }, 1000); // 2 seconds
     } catch (err) {
       console.error("✗ Error in keep-alive mechanism:", err.message);
       reject(err);

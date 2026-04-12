@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.52",
+        "fouls": "16.48",
+        "goalKicks": "7.78",
+        "saves": "2.65",
+        "offsides": "1.87",
+        "shotsOnTarget": "4.09/4.26",
+        "yellowCards": "2.35/2.00",
+        "goals": "0.78/1.61",
+        "throwIns": "18.65",
+        "ballPossession": 43.739130434783,
+        "tackles": "17.13/19.00",
+        "interceptions": "9.43/9.57",
+        "aerialDuels": "16.65",
+        "aerialDuelsAttempted": "36.57",
+        "dribbles": "8.74/7.09",
+        "dribblesAttempted": "18.04/16.70"
+    },
+    "teamSlug": "pari-nizhny-novgorod",
+    "teamId": "201654",
+    "teamName": "Pari Nizhny Novgorod",
+    "tournament": "Russian Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/pari-nizhny-novgorod-fc-rostov/BWseIFb#id:14038639,tab:statistics",
+            "teams": [
+                "Pari Nizhny Novgorod",
+                "FC Rostov"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                201654,
+                2326
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pari-nizhny-novgorod-fk-krasnodar/ANnseIFb#id:14038628,tab:statistics",
+            "teams": [
+                "FC Krasnodar",
+                "Pari Nizhny Novgorod"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                34425,
+                201654
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pari-nizhny-novgorod-krylya-sovetov-samara/xWseIFb#id:14038622,tab:statistics",
+            "teams": [
+                "Pari Nizhny Novgorod",
+                "Krylya Sovetov Samara"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                201654,
+                2322
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pari-nizhny-novgorod-fc-sochi/JWseIFb#id:14038619,tab:statistics",
+            "teams": [
+                "Pari Nizhny Novgorod",
+                "FC Sochi"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                201654,
+                2334
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pari-nizhny-novgorod-lokomotiv-moscow/vWseIFb#id:14038610,tab:statistics",
+            "teams": [
+                "Lokomotiv Moscow",
+                "Pari Nizhny Novgorod"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2320,
+                201654
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dinamo-makhachkala-pari-nizhny-novgorod/eIFbsqPUc#id:14038596,tab:statistics",
+            "teams": [
+                "Dinamo Makhachkala",
+                "Pari Nizhny Novgorod"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                362016,
+                201654
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/akron-togliatti-pari-nizhny-novgorod/eIFbsOnoc#id:14038593,tab:statistics",
+            "teams": [
+                "Akron Togliatti",
+                "Pari Nizhny Novgorod"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                285689,
+                201654
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pari-nizhny-novgorod-zenit-st-petersburg/wWseIFb#id:14038585,tab:statistics",
+            "teams": [
+                "Pari Nizhny Novgorod",
+                "Zenit St. Petersburg"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                201654,
+                2321
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/7[H]",
+            "fouls": "18/14[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "23/25[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Pari Nizhny Novgorod,FC Rostov,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "11/5[H]",
+            "aerialDuels": "25/29[H]",
+            "aerialDuelsAttempted": "54/54[H]",
+            "dribbles": "6/5[H]",
+            "dribblesAttempted": "16/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "0/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/5[A]",
+            "throwIns": "16/22[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Pari Nizhny Novgorod,FC Krasnodar,Away",
+            "tackles": "16/21[A]",
+            "interceptions": "19/5[A]",
+            "aerialDuels": "10/7[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "19/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "7/20[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "3/5[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/0[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Pari Nizhny Novgorod,Krylya Sovetov Samara,Home",
+            "tackles": "22/12[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "20/14[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "10/7[H]",
+            "dribblesAttempted": "15/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "11/15[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "2/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "34/14[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Pari Nizhny Novgorod,FC Sochi,Home",
+            "tackles": "12/24[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "19/10[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "11/5[H]",
+            "dribblesAttempted": "21/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "16/15[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "18/22[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Pari Nizhny Novgorod,Lokomotiv Moscow,Away",
+            "tackles": "23/23[A]",
+            "interceptions": "15/10[A]",
+            "aerialDuels": "8/21[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "7/5[A]",
+            "dribblesAttempted": "22/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "25/15[A]",
+            "goalKicks": "3/2[A]",
+            "saves": "1/2[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "3/1[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "13/33[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Pari Nizhny Novgorod,Dinamo Makhachkala,Away",
+            "tackles": "17/20[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "15/22[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "8/10[A]",
+            "dribblesAttempted": "12/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/10[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "5/3[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "20/27[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Pari Nizhny Novgorod,Akron Togliatti,Away",
+            "tackles": "9/13[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "23/20[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "1/4[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "22/9[H]",
+            "goalKicks": "2/4[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "12/22[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Pari Nizhny Novgorod,Zenit St. Petersburg,Home",
+            "tackles": "17/17[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "17/11[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "13/5[H]",
+            "dribblesAttempted": "22/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-11T13:06:46.696Z",
+    "endTime": "2026-04-11T13:07:10.706Z",
+    "totalTimeSeconds": 24.01,
+    "combinedMatchStatistics": {
+        "corners": "8/7[H]+3/8[A]+7/2[H]+8/1[H]+5/3[A]+2/6[A]+3/10[A]+7/4[H]",
+        "fouls": "18/14[H]+12/12[A]+7/20[H]+11/15[H]+16/15[A]+25/15[A]+13/14[A]+22/9[H]",
+        "goalKicks": "6/7[H]+7/7[A]+6/4[H]+6/7[H]+7/6[A]+3/2[A]+9/7[A]+2/4[H]",
+        "saves": "3/1[H]+0/3[A]+3/5[H]+2/3[H]+4/4[A]+1/2[A]+5/3[A]+2/3[H]",
+        "offsides": "1/2[H]+2/1[A]+1/2[H]+4/1[H]+1/0[A]+3/4[A]+4/2[A]+3/2[H]",
+        "shotsOnTarget": "1/4[H]+3/6[A]+9/3[H]+5/3[H]+5/6[A]+3/1[A]+6/6[A]+3/4[H]",
+        "yellowCards": "2/3[H]+0/1[A]+1/2[H]+2/1[H]+2/2[A]+5/3[A]+2/1[A]+0/2[H]",
+        "goals": "0/1[H]+0/5[A]+3/0[H]+2/1[H]+1/2[A]+1/0[A]+2/1[A]+0/2[H]",
+        "throwIns": "23/25[H]+16/22[A]+17/17[H]+34/14[H]+18/22[A]+13/33[A]+20/27[A]+12/22[H]",
+        "averageBallPossession": "49/51[H]+35/65[A]+45/55[H]+50/50[H]+47/53[A]+43/57[A]+44/56[A]+35/65[H]",
+        "teams": "Pari Nizhny Novgorod,FC Rostov,Home+Pari Nizhny Novgorod,FC Krasnodar,Away+Pari Nizhny Novgorod,Krylya Sovetov Samara,Home+Pari Nizhny Novgorod,FC Sochi,Home+Pari Nizhny Novgorod,Lokomotiv Moscow,Away+Pari Nizhny Novgorod,Dinamo Makhachkala,Away+Pari Nizhny Novgorod,Akron Togliatti,Away+Pari Nizhny Novgorod,Zenit St. Petersburg,Home",
+        "tackles": "18/13[H]+16/21[A]+22/12[H]+12/24[H]+23/23[A]+17/20[A]+9/13[A]+17/17[H]",
+        "interceptions": "11/5[H]+19/5[A]+11/12[H]+8/10[H]+15/10[A]+6/8[A]+7/10[A]+10/8[H]",
+        "aerialDuels": "25/29[H]+10/7[A]+20/14[H]+19/10[H]+8/21[A]+15/22[A]+23/20[A]+17/11[H]",
+        "aerialDuelsAttempted": "54/54[H]+17/17[A]+34/34[H]+29/29[H]+29/29[A]+37/37[A]+43/43[A]+28/28[H]",
+        "dribbles": "6/5[H]+11/8[A]+10/7[H]+11/5[H]+7/5[A]+8/10[A]+1/4[A]+13/5[H]",
+        "dribblesAttempted": "16/14[H]+19/14[A]+15/14[H]+21/10[H]+22/19[A]+12/23[A]+8/9[A]+22/12[H]",
+        "isHome": "true+false+true+true+false+false+false+true",
+        "cornersTotals": "43/41",
+        "cornersTotalsHome": "30/14",
+        "cornersTotalsAway": "13/27",
+        "cornersAverage": "5.38/5.13",
+        "cornersAverageHome": "7.50/3.50",
+        "cornersAverageAway": "3.25/6.75",
+        "foulsTotals": "124/114",
+        "foulsTotalsHome": "58/58",
+        "foulsTotalsAway": "66/56",
+        "foulsAverage": "15.50/14.25",
+        "foulsAverageHome": "14.50/14.50",
+        "foulsAverageAway": "16.50/14.00",
+        "goalKicksTotals": "46/44",
+        "goalKicksTotalsHome": "20/22",
+        "goalKicksTotalsAway": "26/22",
+        "goalKicksAverage": "5.75/5.50",
+        "goalKicksAverageHome": "5.00/5.50",
+        "goalKicksAverageAway": "6.50/5.50",
+        "savesTotals": "20/24",
+        "savesTotalsHome": "10/12",
+        "savesTotalsAway": "10/12",
+        "savesAverage": "2.50/3.00",
+        "savesAverageHome": "2.50/3.00",
+        "savesAverageAway": "2.50/3.00",
+        "offsidesTotals": "19/14",
+        "offsidesTotalsHome": "9/7",
+        "offsidesTotalsAway": "10/7",
+        "offsidesAverage": "2.38/1.75",
+        "offsidesAverageHome": "2.25/1.75",
+        "offsidesAverageAway": "2.50/1.75",
+        "shotsOnTargetTotals": "35/33",
+        "shotsOnTargetTotalsHome": "18/14",
+        "shotsOnTargetTotalsAway": "17/19",
+        "shotsOnTargetAverage": "4.38/4.13",
+        "shotsOnTargetAverageHome": "4.50/3.50",
+        "shotsOnTargetAverageAway": "4.25/4.75",
+        "yellowCardsTotals": "14/15",
+        "yellowCardsTotalsHome": "5/8",
+        "yellowCardsTotalsAway": "9/7",
+        "yellowCardsAverage": "1.75/1.88",
+        "yellowCardsAverageHome": "1.25/2.00",
+        "yellowCardsAverageAway": "2.25/1.75",
+        "goalsTotals": "9/12",
+        "goalsTotalsHome": "5/4",
+        "goalsTotalsAway": "4/8",
+        "goalsAverage": "1.13/1.50",
+        "goalsAverageHome": "1.25/1.00",
+        "goalsAverageAway": "1.00/2.00",
+        "throwInsTotals": "153/182",
+        "throwInsTotalsHome": "86/78",
+        "throwInsTotalsAway": "67/104",
+        "throwInsAverage": "19.13/22.75",
+        "throwInsAverageHome": "21.50/19.50",
+        "throwInsAverageAway": "16.75/26.00",
+        "averageBallPossessionTotals": "348/452",
+        "averageBallPossessionTotalsHome": "179/221",
+        "averageBallPossessionTotalsAway": "169/231",
+        "averageBallPossessionAverage": "43.50/56.50",
+        "averageBallPossessionAverageHome": "44.75/55.25",
+        "averageBallPossessionAverageAway": "42.25/57.75",
+        "tacklesTotals": "134/143",
+        "tacklesTotalsHome": "69/66",
+        "tacklesTotalsAway": "65/77",
+        "tacklesAverage": "16.75/17.88",
+        "tacklesAverageHome": "17.25/16.50",
+        "tacklesAverageAway": "16.25/19.25",
+        "interceptionsTotals": "87/68",
+        "interceptionsTotalsHome": "40/35",
+        "interceptionsTotalsAway": "47/33",
+        "interceptionsAverage": "10.88/8.50",
+        "interceptionsAverageHome": "10.00/8.75",
+        "interceptionsAverageAway": "11.75/8.25",
+        "aerialDuelsTotals": "137/134",
+        "aerialDuelsTotalsHome": "81/64",
+        "aerialDuelsTotalsAway": "56/70",
+        "aerialDuelsAverage": "17.13/16.75",
+        "aerialDuelsAverageHome": "20.25/16.00",
+        "aerialDuelsAverageAway": "14.00/17.50",
+        "aerialDuelsAttemptedTotals": "271/271",
+        "aerialDuelsAttemptedTotalsHome": "145/145",
+        "aerialDuelsAttemptedTotalsAway": "126/126",
+        "aerialDuelsAttemptedAverage": "33.88/33.88",
+        "aerialDuelsAttemptedAverageHome": "36.25/36.25",
+        "aerialDuelsAttemptedAverageAway": "31.50/31.50",
+        "dribblesTotals": "67/49",
+        "dribblesTotalsHome": "40/22",
+        "dribblesTotalsAway": "27/27",
+        "dribblesAverage": "8.38/6.13",
+        "dribblesAverageHome": "10.00/5.50",
+        "dribblesAverageAway": "6.75/6.75",
+        "dribblesAttemptedTotals": "135/115",
+        "dribblesAttemptedTotalsHome": "74/50",
+        "dribblesAttemptedTotalsAway": "61/65",
+        "dribblesAttemptedAverage": "16.88/14.38",
+        "dribblesAttemptedAverageHome": "18.50/12.50",
+        "dribblesAttemptedAverageAway": "15.25/16.25"
+    }
+}

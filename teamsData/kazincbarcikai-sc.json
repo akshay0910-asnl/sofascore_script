@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "2.79",
+        "fouls": "14.46",
+        "goalKicks": "10.18",
+        "saves": "4.11",
+        "offsides": "1.82",
+        "shotsOnTarget": "3.11/6.18",
+        "yellowCards": "2.86/2.14",
+        "goals": "0.96/2.14",
+        "throwIns": "19.25",
+        "ballPossession": 41.642857142857,
+        "tackles": "15.18/16.68",
+        "interceptions": "8.93/8.61",
+        "aerialDuels": "16.25",
+        "aerialDuelsAttempted": "37.36",
+        "dribbles": "6.43/6.61",
+        "dribblesAttempted": "14.61/14.07"
+    },
+    "teamSlug": "kazincbarcikai-sc",
+    "teamId": "8059",
+    "teamName": "Kazincbarcikai SC",
+    "tournament": "Fizz Liga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-paksi-fc/jwcsjld#id:14019537,tab:statistics",
+            "teams": [
+                "Paksi FC",
+                "Kazincbarcikai SC"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                6059,
+                8059
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-eto-fc-gyor/yNsjld#id:14019528,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "ETO FC Győr"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                8059,
+                1923
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-diosgyori-vtk/wccsjld#id:14019523,tab:statistics",
+            "teams": [
+                "Diósgyőri VTK",
+                "Kazincbarcikai SC"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                5121,
+                8059
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-debreceni-vsc/wNsjld#id:14019516,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "Debreceni VSC"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                8059,
+                1921
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-ferencvaros-tc/ANsjld#id:14019514,tab:statistics",
+            "teams": [
+                "Ferencváros TC",
+                "Kazincbarcikai SC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1925,
+                8059
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/puskas-akademia-kazincbarcikai-sc/jldsWlk#id:14019504,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "Puskás Akadémia"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                8059,
+                25596
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kazincbarcikai-sc-nyiregyhaza-spartacus/zccsjld#id:14019493,tab:statistics",
+            "teams": [
+                "Kazincbarcikai SC",
+                "Nyiregyháza Spartacus"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                8059,
+                5124
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kisvarda-fc-kazincbarcikai-sc/jldsXhk#id:14019492,tab:statistics",
+            "teams": [
+                "Kisvárda FC",
+                "Kazincbarcikai SC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                25397,
+                8059
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "1/9[A]",
+            "fouls": "17/16[A]",
+            "goalKicks": "11/3[A]",
+            "saves": "5/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/10[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "1/5[A]",
+            "throwIns": "22/29[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Kazincbarcikai SC,Paksi FC,Away",
+            "tackles": "21/12[A]",
+            "interceptions": "16/11[A]",
+            "aerialDuels": "36/15[A]",
+            "aerialDuelsAttempted": "51/51[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "13/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/10[H]",
+            "fouls": "9/10[H]",
+            "goalKicks": "13/5[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/5[H]",
+            "shotsOnTarget": "3/8[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/3[H]",
+            "throwIns": "13/23[H]",
+            "averageBallPossession": "26/74[H]",
+            "teams": "Kazincbarcikai SC,ETO FC Győr,Home",
+            "tackles": "13/14[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "17/19[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "16/15[A]",
+            "goalKicks": "11/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "4/0[A]",
+            "throwIns": "26/20[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Kazincbarcikai SC,Diósgyőri VTK,Away",
+            "tackles": "14/16[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "19/17[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "1/7[A]",
+            "dribblesAttempted": "10/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "17/11[H]",
+            "goalKicks": "13/8[H]",
+            "saves": "2/5[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/3[H]",
+            "throwIns": "16/14[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Kazincbarcikai SC,Debreceni VSC,Home",
+            "tackles": "16/15[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "20/19[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "15/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/19[A]",
+            "fouls": "7/11[A]",
+            "goalKicks": "11/4[A]",
+            "saves": "6/0[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "11/32[A]",
+            "averageBallPossession": "19/81[A]",
+            "teams": "Kazincbarcikai SC,Ferencváros TC,Away",
+            "tackles": "15/7[A]",
+            "interceptions": "9/5[A]",
+            "aerialDuels": "19/15[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "4/10[A]",
+            "dribblesAttempted": "6/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "12/25[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "4/2[H]",
+            "offsides": "3/5[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "0/2[H]",
+            "throwIns": "24/14[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Kazincbarcikai SC,Puskás Akadémia,Home",
+            "tackles": "15/21[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "19/13[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "17/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "18/29[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "5/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/8[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/4[H]",
+            "throwIns": "31/26[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Kazincbarcikai SC,Nyiregyháza Spartacus,Home",
+            "tackles": "12/24[H]",
+            "interceptions": "10/14[H]",
+            "aerialDuels": "24/50[H]",
+            "aerialDuelsAttempted": "74/74[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "20/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "21/14[A]",
+            "goalKicks": "5/4[A]",
+            "saves": "5/3[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "19/24[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Kazincbarcikai SC,Kisvárda FC,Away",
+            "tackles": "10/15[A]",
+            "interceptions": "4/10[A]",
+            "aerialDuels": "15/27[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "13/8[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-11T13:14:05.180Z",
+    "endTime": "2026-04-11T13:14:38.110Z",
+    "totalTimeSeconds": 32.93,
+    "combinedMatchStatistics": {
+        "corners": "1/9[A]+2/10[H]+2/6[A]+1/6[H]+0/19[A]+5/6[H]+2/4[H]+2/6[A]",
+        "fouls": "17/16[A]+9/10[H]+16/15[A]+17/11[H]+7/11[A]+12/25[H]+18/29[H]+21/14[A]",
+        "goalKicks": "11/3[A]+13/5[H]+11/5[A]+13/8[H]+11/4[A]+6/4[H]+6/6[H]+5/4[A]",
+        "saves": "5/1[A]+5/2[H]+2/1[A]+2/5[H]+6/0[A]+4/2[H]+5/2[H]+5/3[A]",
+        "offsides": "1/1[A]+0/5[H]+1/1[A]+2/2[H]+3/4[A]+3/5[H]+1/2[H]+0/2[A]",
+        "shotsOnTarget": "2/10[A]+3/8[H]+5/3[A]+5/5[H]+1/8[A]+2/6[H]+2/8[H]+3/6[A]",
+        "yellowCards": "5/2[A]+1/3[H]+3/3[A]+2/3[H]+4/1[A]+3/4[H]+3/1[H]+3/2[A]",
+        "goals": "1/5[A]+1/3[H]+4/0[A]+0/3[H]+1/2[A]+0/2[H]+0/4[H]+0/1[A]",
+        "throwIns": "22/29[A]+13/23[H]+26/20[A]+16/14[H]+11/32[A]+24/14[H]+31/26[H]+19/24[A]",
+        "averageBallPossession": "42/58[A]+26/74[H]+39/61[A]+43/57[H]+19/81[A]+65/35[H]+52/48[H]+39/61[A]",
+        "teams": "Kazincbarcikai SC,Paksi FC,Away+Kazincbarcikai SC,ETO FC Győr,Home+Kazincbarcikai SC,Diósgyőri VTK,Away+Kazincbarcikai SC,Debreceni VSC,Home+Kazincbarcikai SC,Ferencváros TC,Away+Kazincbarcikai SC,Puskás Akadémia,Home+Kazincbarcikai SC,Nyiregyháza Spartacus,Home+Kazincbarcikai SC,Kisvárda FC,Away",
+        "tackles": "21/12[A]+13/14[H]+14/16[A]+16/15[H]+15/7[A]+15/21[H]+12/24[H]+10/15[A]",
+        "interceptions": "16/11[A]+6/6[H]+6/12[A]+8/5[H]+9/5[A]+7/6[H]+10/14[H]+4/10[A]",
+        "aerialDuels": "36/15[A]+17/19[H]+19/17[A]+20/19[H]+19/15[A]+19/13[H]+24/50[H]+15/27[A]",
+        "aerialDuelsAttempted": "51/51[A]+36/36[H]+36/36[A]+39/39[H]+34/34[A]+32/32[H]+74/74[H]+42/42[A]",
+        "dribbles": "8/7[A]+8/8[H]+1/7[A]+7/5[H]+4/10[A]+7/5[H]+7/6[H]+4/4[A]",
+        "dribblesAttempted": "13/14[A]+11/12[H]+10/16[A]+15/15[H]+6/19[A]+17/11[H]+20/11[H]+13/8[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "15/66",
+        "cornersTotalsHome": "10/26",
+        "cornersTotalsAway": "5/40",
+        "cornersAverage": "1.88/8.25",
+        "cornersAverageHome": "2.50/6.50",
+        "cornersAverageAway": "1.25/10.00",
+        "foulsTotals": "117/131",
+        "foulsTotalsHome": "56/75",
+        "foulsTotalsAway": "61/56",
+        "foulsAverage": "14.63/16.38",
+        "foulsAverageHome": "14.00/18.75",
+        "foulsAverageAway": "15.25/14.00",
+        "goalKicksTotals": "76/39",
+        "goalKicksTotalsHome": "38/23",
+        "goalKicksTotalsAway": "38/16",
+        "goalKicksAverage": "9.50/4.88",
+        "goalKicksAverageHome": "9.50/5.75",
+        "goalKicksAverageAway": "9.50/4.00",
+        "savesTotals": "34/16",
+        "savesTotalsHome": "16/11",
+        "savesTotalsAway": "18/5",
+        "savesAverage": "4.25/2.00",
+        "savesAverageHome": "4.00/2.75",
+        "savesAverageAway": "4.50/1.25",
+        "offsidesTotals": "11/22",
+        "offsidesTotalsHome": "6/14",
+        "offsidesTotalsAway": "5/8",
+        "offsidesAverage": "1.38/2.75",
+        "offsidesAverageHome": "1.50/3.50",
+        "offsidesAverageAway": "1.25/2.00",
+        "shotsOnTargetTotals": "23/54",
+        "shotsOnTargetTotalsHome": "12/27",
+        "shotsOnTargetTotalsAway": "11/27",
+        "shotsOnTargetAverage": "2.88/6.75",
+        "shotsOnTargetAverageHome": "3.00/6.75",
+        "shotsOnTargetAverageAway": "2.75/6.75",
+        "yellowCardsTotals": "24/19",
+        "yellowCardsTotalsHome": "9/11",
+        "yellowCardsTotalsAway": "15/8",
+        "yellowCardsAverage": "3.00/2.38",
+        "yellowCardsAverageHome": "2.25/2.75",
+        "yellowCardsAverageAway": "3.75/2.00",
+        "goalsTotals": "7/20",
+        "goalsTotalsHome": "1/12",
+        "goalsTotalsAway": "6/8",
+        "goalsAverage": "0.88/2.50",
+        "goalsAverageHome": "0.25/3.00",
+        "goalsAverageAway": "1.50/2.00",
+        "throwInsTotals": "162/182",
+        "throwInsTotalsHome": "84/77",
+        "throwInsTotalsAway": "78/105",
+        "throwInsAverage": "20.25/22.75",
+        "throwInsAverageHome": "21.00/19.25",
+        "throwInsAverageAway": "19.50/26.25",
+        "averageBallPossessionTotals": "325/475",
+        "averageBallPossessionTotalsHome": "186/214",
+        "averageBallPossessionTotalsAway": "139/261",
+        "averageBallPossessionAverage": "40.63/59.38",
+        "averageBallPossessionAverageHome": "46.50/53.50",
+        "averageBallPossessionAverageAway": "34.75/65.25",
+        "tacklesTotals": "116/124",
+        "tacklesTotalsHome": "56/74",
+        "tacklesTotalsAway": "60/50",
+        "tacklesAverage": "14.50/15.50",
+        "tacklesAverageHome": "14.00/18.50",
+        "tacklesAverageAway": "15.00/12.50",
+        "interceptionsTotals": "66/69",
+        "interceptionsTotalsHome": "31/31",
+        "interceptionsTotalsAway": "35/38",
+        "interceptionsAverage": "8.25/8.63",
+        "interceptionsAverageHome": "7.75/7.75",
+        "interceptionsAverageAway": "8.75/9.50",
+        "aerialDuelsTotals": "169/175",
+        "aerialDuelsTotalsHome": "80/101",
+        "aerialDuelsTotalsAway": "89/74",
+        "aerialDuelsAverage": "21.13/21.88",
+        "aerialDuelsAverageHome": "20.00/25.25",
+        "aerialDuelsAverageAway": "22.25/18.50",
+        "aerialDuelsAttemptedTotals": "344/344",
+        "aerialDuelsAttemptedTotalsHome": "181/181",
+        "aerialDuelsAttemptedTotalsAway": "163/163",
+        "aerialDuelsAttemptedAverage": "43.00/43.00",
+        "aerialDuelsAttemptedAverageHome": "45.25/45.25",
+        "aerialDuelsAttemptedAverageAway": "40.75/40.75",
+        "dribblesTotals": "46/52",
+        "dribblesTotalsHome": "29/24",
+        "dribblesTotalsAway": "17/28",
+        "dribblesAverage": "5.75/6.50",
+        "dribblesAverageHome": "7.25/6.00",
+        "dribblesAverageAway": "4.25/7.00",
+        "dribblesAttemptedTotals": "105/106",
+        "dribblesAttemptedTotalsHome": "63/49",
+        "dribblesAttemptedTotalsAway": "42/57",
+        "dribblesAttemptedAverage": "13.13/13.25",
+        "dribblesAttemptedAverageHome": "15.75/12.25",
+        "dribblesAttemptedAverageAway": "10.50/14.25"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.96",
+        "fouls": "12.32",
+        "goalKicks": "7.84",
+        "saves": "2.64",
+        "offsides": "1.36",
+        "shotsOnTarget": "3.40/4.24",
+        "yellowCards": "2.36/2.00",
+        "goals": "1.00/1.72",
+        "throwIns": "23.72",
+        "ballPossession": 49.28,
+        "tackles": "18.24/15.56",
+        "interceptions": "10.08/8.68",
+        "aerialDuels": "20.28",
+        "aerialDuelsAttempted": "41.40",
+        "dribbles": "5.68/7.56",
+        "dribblesAttempted": "13.08/16.56"
+    },
+    "teamSlug": "fc-blau-weiss-linz",
+    "teamId": "2113",
+    "teamName": "FC Blau Weiss Linz",
+    "tournament": "Austrian Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-grazer-ak-1902/cQsnR#id:15690647,tab:statistics",
+            "teams": [
+                "Grazer AK 1902",
+                "FC Blau Weiss Linz"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2052,
+                2113
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-sv-ried/ZPsnR#id:15690677,tab:statistics",
+            "teams": [
+                "FC Blau Weiss Linz",
+                "SV Ried"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                2113,
+                2049
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/scr-altach-fc-blau-weiss-linz/nRsgXb#id:15689975,tab:statistics",
+            "teams": [
+                "SCR Altach",
+                "FC Blau Weiss Linz"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                4856,
+                2113
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-tsv-hartberg/AQsnR#id:14065696,tab:statistics",
+            "teams": [
+                "TSV Hartberg",
+                "FC Blau Weiss Linz"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2075,
+                2113
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wsg-tirol-fc-blau-weiss-linz/nRsfic#id:14065682,tab:statistics",
+            "teams": [
+                "FC Blau Weiss Linz",
+                "WSG Tirol"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                2113,
+                5405
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-sk-sturm-graz/bQsnR#id:14065686,tab:statistics",
+            "teams": [
+                "SK Sturm Graz",
+                "FC Blau Weiss Linz"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2051,
+                2113
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-wolfsberger-ac/BQsnR#id:14065675,tab:statistics",
+            "teams": [
+                "FC Blau Weiss Linz",
+                "Wolfsberger AC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2113,
+                2076
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-sk-rapid-wien/fQsnR#id:14065664,tab:statistics",
+            "teams": [
+                "FC Blau Weiss Linz",
+                "SK Rapid Wien"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2113,
+                2055
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "0/4[A]",
+            "fouls": "13/9[A]",
+            "goalKicks": "10/11[A]",
+            "saves": "0/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "27/24[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "FC Blau Weiss Linz,Grazer AK 1902,Away",
+            "tackles": "21/20[A]",
+            "interceptions": "12/8[A]",
+            "aerialDuels": "16/13[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "3/8[A]",
+            "dribblesAttempted": "14/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/0[H]",
+            "fouls": "7/14[H]",
+            "goalKicks": "2/15[H]",
+            "saves": "0/5[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "3/2[H]",
+            "throwIns": "24/22[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "FC Blau Weiss Linz,SV Ried,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "10/12[H]",
+            "aerialDuels": "31/24[H]",
+            "aerialDuelsAttempted": "55/55[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "19/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "11/16[A]",
+            "goalKicks": "4/8[A]",
+            "saves": "2/5[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "23/28[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "FC Blau Weiss Linz,SCR Altach,Away",
+            "tackles": "21/15[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "16/19[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "12/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "11/10[A]",
+            "goalKicks": "9/12[A]",
+            "saves": "1/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "26/25[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "FC Blau Weiss Linz,TSV Hartberg,Away",
+            "tackles": "20/9[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "14/24[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "6/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "17/15[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "0/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/3[H]",
+            "throwIns": "25/28[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "FC Blau Weiss Linz,WSG Tirol,Home",
+            "tackles": "15/20[H]",
+            "interceptions": "13/5[H]",
+            "aerialDuels": "23/29[H]",
+            "aerialDuelsAttempted": "52/52[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "12/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/3[A]",
+            "fouls": "9/16[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "4/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/5[A]",
+            "goals": "0/1[A]",
+            "throwIns": "20/38[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "FC Blau Weiss Linz,SK Sturm Graz,Away",
+            "tackles": "9/16[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "19/25[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "2/4[A]",
+            "dribblesAttempted": "5/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/23[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "FC Blau Weiss Linz,Wolfsberger AC,Home",
+            "tackles": "13/16[H]",
+            "interceptions": "12/7[H]",
+            "aerialDuels": "22/10[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "6/11[H]",
+            "dribblesAttempted": "16/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/10[H]",
+            "fouls": "16/15[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "5/1[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "0/6[H]",
+            "goals": "1/1[H]",
+            "throwIns": "23/22[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "FC Blau Weiss Linz,SK Rapid Wien,Home",
+            "tackles": "19/13[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "17/28[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "6/14[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-11T12:31:16.435Z",
+    "endTime": "2026-04-11T12:31:50.213Z",
+    "totalTimeSeconds": 33.78,
+    "combinedMatchStatistics": {
+        "corners": "0/4[A]+12/0[H]+5/4[A]+5/3[A]+2/5[H]+10/3[A]+2/4[H]+2/10[H]",
+        "fouls": "13/9[A]+7/14[H]+11/16[A]+11/10[A]+17/15[H]+9/16[A]+13/11[H]+16/15[H]",
+        "goalKicks": "10/11[A]+2/15[H]+4/8[A]+9/12[A]+4/11[H]+11/11[A]+7/6[H]+6/10[H]",
+        "saves": "0/3[A]+0/5[H]+2/5[A]+1/3[A]+0/2[H]+4/4[A]+4/3[H]+5/1[H]",
+        "offsides": "1/0[A]+0/0[H]+2/1[A]+0/1[A]+0/1[H]+0/3[A]+2/0[H]+4/0[H]",
+        "shotsOnTarget": "4/2[A]+9/2[H]+7/4[A]+4/1[A]+4/3[H]+4/5[A]+5/5[H]+2/6[H]",
+        "yellowCards": "2/2[A]+1/3[H]+4/2[A]+0/0[A]+2/3[H]+3/5[A]+5/3[H]+0/6[H]",
+        "goals": "1/2[A]+3/2[H]+1/3[A]+1/1[A]+2/3[H]+0/1[A]+2/1[H]+1/1[H]",
+        "throwIns": "27/24[A]+24/22[H]+23/28[A]+26/25[A]+25/28[H]+20/38[A]+19/23[H]+23/22[H]",
+        "averageBallPossession": "41/59[A]+61/39[H]+50/50[A]+49/51[A]+59/41[H]+60/40[A]+35/65[H]+43/57[H]",
+        "teams": "FC Blau Weiss Linz,Grazer AK 1902,Away+FC Blau Weiss Linz,SV Ried,Home+FC Blau Weiss Linz,SCR Altach,Away+FC Blau Weiss Linz,TSV Hartberg,Away+FC Blau Weiss Linz,WSG Tirol,Home+FC Blau Weiss Linz,SK Sturm Graz,Away+FC Blau Weiss Linz,Wolfsberger AC,Home+FC Blau Weiss Linz,SK Rapid Wien,Home",
+        "tackles": "21/20[A]+12/15[H]+21/15[A]+20/9[A]+15/20[H]+9/16[A]+13/16[H]+19/13[H]",
+        "interceptions": "12/8[A]+10/12[H]+11/12[A]+10/8[A]+13/5[H]+6/7[A]+12/7[H]+11/9[H]",
+        "aerialDuels": "16/13[A]+31/24[H]+16/19[A]+14/24[A]+23/29[H]+19/25[A]+22/10[H]+17/28[H]",
+        "aerialDuelsAttempted": "29/29[A]+55/55[H]+35/35[A]+38/38[A]+52/52[H]+44/44[A]+32/32[H]+45/45[H]",
+        "dribbles": "3/8[A]+9/4[H]+5/7[A]+4/4[A]+2/4[H]+2/4[A]+6/11[H]+6/14[H]",
+        "dribblesAttempted": "14/18[A]+19/10[H]+12/15[A]+6/14[A]+12/10[H]+5/8[A]+16/20[H]+12/21[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "38/33",
+        "cornersTotalsHome": "18/19",
+        "cornersTotalsAway": "20/14",
+        "cornersAverage": "4.75/4.13",
+        "cornersAverageHome": "4.50/4.75",
+        "cornersAverageAway": "5.00/3.50",
+        "foulsTotals": "97/106",
+        "foulsTotalsHome": "53/55",
+        "foulsTotalsAway": "44/51",
+        "foulsAverage": "12.13/13.25",
+        "foulsAverageHome": "13.25/13.75",
+        "foulsAverageAway": "11.00/12.75",
+        "goalKicksTotals": "53/84",
+        "goalKicksTotalsHome": "19/42",
+        "goalKicksTotalsAway": "34/42",
+        "goalKicksAverage": "6.63/10.50",
+        "goalKicksAverageHome": "4.75/10.50",
+        "goalKicksAverageAway": "8.50/10.50",
+        "savesTotals": "16/26",
+        "savesTotalsHome": "9/11",
+        "savesTotalsAway": "7/15",
+        "savesAverage": "2.00/3.25",
+        "savesAverageHome": "2.25/2.75",
+        "savesAverageAway": "1.75/3.75",
+        "offsidesTotals": "9/6",
+        "offsidesTotalsHome": "6/1",
+        "offsidesTotalsAway": "3/5",
+        "offsidesAverage": "1.13/0.75",
+        "offsidesAverageHome": "1.50/0.25",
+        "offsidesAverageAway": "0.75/1.25",
+        "shotsOnTargetTotals": "39/28",
+        "shotsOnTargetTotalsHome": "20/16",
+        "shotsOnTargetTotalsAway": "19/12",
+        "shotsOnTargetAverage": "4.88/3.50",
+        "shotsOnTargetAverageHome": "5.00/4.00",
+        "shotsOnTargetAverageAway": "4.75/3.00",
+        "yellowCardsTotals": "17/24",
+        "yellowCardsTotalsHome": "8/15",
+        "yellowCardsTotalsAway": "9/9",
+        "yellowCardsAverage": "2.13/3.00",
+        "yellowCardsAverageHome": "2.00/3.75",
+        "yellowCardsAverageAway": "2.25/2.25",
+        "goalsTotals": "11/14",
+        "goalsTotalsHome": "8/7",
+        "goalsTotalsAway": "3/7",
+        "goalsAverage": "1.38/1.75",
+        "goalsAverageHome": "2.00/1.75",
+        "goalsAverageAway": "0.75/1.75",
+        "throwInsTotals": "187/210",
+        "throwInsTotalsHome": "91/95",
+        "throwInsTotalsAway": "96/115",
+        "throwInsAverage": "23.38/26.25",
+        "throwInsAverageHome": "22.75/23.75",
+        "throwInsAverageAway": "24.00/28.75",
+        "averageBallPossessionTotals": "398/402",
+        "averageBallPossessionTotalsHome": "198/202",
+        "averageBallPossessionTotalsAway": "200/200",
+        "averageBallPossessionAverage": "49.75/50.25",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "50.00/50.00",
+        "tacklesTotals": "130/124",
+        "tacklesTotalsHome": "59/64",
+        "tacklesTotalsAway": "71/60",
+        "tacklesAverage": "16.25/15.50",
+        "tacklesAverageHome": "14.75/16.00",
+        "tacklesAverageAway": "17.75/15.00",
+        "interceptionsTotals": "85/68",
+        "interceptionsTotalsHome": "46/33",
+        "interceptionsTotalsAway": "39/35",
+        "interceptionsAverage": "10.63/8.50",
+        "interceptionsAverageHome": "11.50/8.25",
+        "interceptionsAverageAway": "9.75/8.75",
+        "aerialDuelsTotals": "158/172",
+        "aerialDuelsTotalsHome": "93/91",
+        "aerialDuelsTotalsAway": "65/81",
+        "aerialDuelsAverage": "19.75/21.50",
+        "aerialDuelsAverageHome": "23.25/22.75",
+        "aerialDuelsAverageAway": "16.25/20.25",
+        "aerialDuelsAttemptedTotals": "330/330",
+        "aerialDuelsAttemptedTotalsHome": "184/184",
+        "aerialDuelsAttemptedTotalsAway": "146/146",
+        "aerialDuelsAttemptedAverage": "41.25/41.25",
+        "aerialDuelsAttemptedAverageHome": "46.00/46.00",
+        "aerialDuelsAttemptedAverageAway": "36.50/36.50",
+        "dribblesTotals": "37/56",
+        "dribblesTotalsHome": "23/33",
+        "dribblesTotalsAway": "14/23",
+        "dribblesAverage": "4.63/7.00",
+        "dribblesAverageHome": "5.75/8.25",
+        "dribblesAverageAway": "3.50/5.75",
+        "dribblesAttemptedTotals": "96/116",
+        "dribblesAttemptedTotalsHome": "59/61",
+        "dribblesAttemptedTotalsAway": "37/55",
+        "dribblesAttemptedAverage": "12.00/14.50",
+        "dribblesAttemptedAverageHome": "14.75/15.25",
+        "dribblesAttemptedAverageAway": "9.25/13.75"
+    }
+}

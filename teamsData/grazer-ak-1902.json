@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.72",
+        "fouls": "12.32",
+        "goalKicks": "9.44",
+        "saves": "2.16",
+        "offsides": "1.56",
+        "shotsOnTarget": "3.24/3.76",
+        "yellowCards": "1.96/2.16",
+        "goals": "1.24/1.52",
+        "throwIns": "20.32",
+        "ballPossession": 46.6,
+        "tackles": "14.92/15.68",
+        "interceptions": "9.52/7.64",
+        "aerialDuels": "18.44",
+        "aerialDuelsAttempted": "35.24",
+        "dribbles": "6.08/6.48",
+        "dribblesAttempted": "14.36/14.24"
+    },
+    "teamSlug": "grazer-ak-1902",
+    "teamId": "2052",
+    "teamName": "Grazer AK 1902",
+    "tournament": "Austrian Bundesliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-blau-weiss-linz-grazer-ak-1902/cQsnR#id:15690647,tab:statistics",
+            "teams": [
+                "Grazer AK 1902",
+                "FC Blau Weiss Linz"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2052,
+                2113
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wsg-tirol-grazer-ak-1902/cQsfic#id:15690678,tab:statistics",
+            "teams": [
+                "WSG Tirol",
+                "Grazer AK 1902"
+            ],
+            "goals": [
+                1,
+                5
+            ],
+            "teamIds": [
+                5405,
+                2052
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wolfsberger-ac-grazer-ak-1902/cQsBQ#id:15689969,tab:statistics",
+            "teams": [
+                "Grazer AK 1902",
+                "Wolfsberger AC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2052,
+                2076
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wsg-tirol-grazer-ak-1902/cQsfic#id:14065695,tab:statistics",
+            "teams": [
+                "WSG Tirol",
+                "Grazer AK 1902"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5405,
+                2052
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/grazer-ak-1902-sv-ried/ZPscQ#id:14065688,tab:statistics",
+            "teams": [
+                "Grazer AK 1902",
+                "SV Ried"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2052,
+                2049
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/tsv-hartberg-grazer-ak-1902/cQsAQ#id:14065676,tab:statistics",
+            "teams": [
+                "TSV Hartberg",
+                "Grazer AK 1902"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2075,
+                2052
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/grazer-ak-1902-red-bull-salzburg/WPscQ#id:14065684,tab:statistics",
+            "teams": [
+                "Grazer AK 1902",
+                "Red Bull Salzburg"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2052,
+                2046
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wolfsberger-ac-grazer-ak-1902/cQsBQ#id:14065672,tab:statistics",
+            "teams": [
+                "Wolfsberger AC",
+                "Grazer AK 1902"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2076,
+                2052
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/0[H]",
+            "fouls": "9/13[H]",
+            "goalKicks": "11/10[H]",
+            "saves": "3/0[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "24/27[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Grazer AK 1902,FC Blau Weiss Linz,Home",
+            "tackles": "20/21[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "13/16[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "18/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/0[A]",
+            "fouls": "7/13[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "0/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "9/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "5/1[A]",
+            "throwIns": "18/22[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Grazer AK 1902,WSG Tirol,Away",
+            "tackles": "19/14[A]",
+            "interceptions": "3/8[A]",
+            "aerialDuels": "16/13[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "10/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "14/13[H]",
+            "goalKicks": "12/9[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "0/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "19/23[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Grazer AK 1902,Wolfsberger AC,Home",
+            "tackles": "11/15[H]",
+            "interceptions": "17/7[H]",
+            "aerialDuels": "18/23[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/8[A]",
+            "fouls": "11/10[A]",
+            "goalKicks": "11/3[A]",
+            "saves": "1/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "16/24[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Grazer AK 1902,WSG Tirol,Away",
+            "tackles": "14/8[A]",
+            "interceptions": "4/2[A]",
+            "aerialDuels": "17/21[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "8/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "8/5[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "18/17[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "Grazer AK 1902,SV Ried,Home",
+            "tackles": "18/17[H]",
+            "interceptions": "10/3[H]",
+            "aerialDuels": "13/18[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "19/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "3/4[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "26/24[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Grazer AK 1902,TSV Hartberg,Away",
+            "tackles": "15/16[A]",
+            "interceptions": "11/6[A]",
+            "aerialDuels": "15/20[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "15/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/10[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "14/7[H]",
+            "saves": "5/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "1/1[H]",
+            "throwIns": "16/31[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "Grazer AK 1902,Red Bull Salzburg,Home",
+            "tackles": "14/14[H]",
+            "interceptions": "15/10[H]",
+            "aerialDuels": "22/4[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "8/15[H]",
+            "dribblesAttempted": "15/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "17/5[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "1/8[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "10/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "20/21[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Grazer AK 1902,Wolfsberger AC,Away",
+            "tackles": "8/5[A]",
+            "interceptions": "5/14[A]",
+            "aerialDuels": "17/16[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "8/6[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-11T12:29:40.682Z",
+    "endTime": "2026-04-11T12:30:15.691Z",
+    "totalTimeSeconds": 35.01,
+    "combinedMatchStatistics": {
+        "corners": "4/0[H]+4/0[A]+5/2[H]+4/8[A]+3/2[H]+5/5[A]+1/10[H]+6/4[A]",
+        "fouls": "9/13[H]+7/13[A]+14/13[H]+11/10[A]+13/13[H]+12/14[A]+9/8[H]+17/5[A]",
+        "goalKicks": "11/10[H]+7/6[A]+12/9[H]+11/3[A]+8/5[H]+3/4[A]+14/7[H]+10/7[A]",
+        "saves": "3/0[H]+0/4[A]+4/1[H]+1/3[A]+1/2[H]+4/2[A]+5/1[H]+1/8[A]",
+        "offsides": "0/1[H]+2/1[A]+1/1[H]+0/0[A]+2/3[H]+1/1[A]+2/2[H]+2/0[A]",
+        "shotsOnTarget": "2/4[H]+9/2[A]+3/5[H]+3/3[A]+4/2[H]+2/5[A]+2/6[H]+10/3[A]",
+        "yellowCards": "2/2[H]+3/2[A]+0/4[H]+1/3[A]+5/3[H]+1/2[A]+3/0[H]+2/2[A]",
+        "goals": "2/1[H]+5/1[A]+2/0[H]+0/2[A]+2/1[H]+0/1[A]+1/1[H]+2/2[A]",
+        "throwIns": "24/27[H]+18/22[A]+19/23[H]+16/24[A]+18/17[H]+26/24[A]+16/31[H]+20/21[A]",
+        "averageBallPossession": "59/41[H]+58/42[A]+44/56[H]+50/50[A]+43/57[H]+57/43[A]+34/66[H]+60/40[A]",
+        "teams": "Grazer AK 1902,FC Blau Weiss Linz,Home+Grazer AK 1902,WSG Tirol,Away+Grazer AK 1902,Wolfsberger AC,Home+Grazer AK 1902,WSG Tirol,Away+Grazer AK 1902,SV Ried,Home+Grazer AK 1902,TSV Hartberg,Away+Grazer AK 1902,Red Bull Salzburg,Home+Grazer AK 1902,Wolfsberger AC,Away",
+        "tackles": "20/21[H]+19/14[A]+11/15[H]+14/8[A]+18/17[H]+15/16[A]+14/14[H]+8/5[A]",
+        "interceptions": "8/12[H]+3/8[A]+17/7[H]+4/2[A]+10/3[H]+11/6[A]+15/10[H]+5/14[A]",
+        "aerialDuels": "13/16[H]+16/13[A]+18/23[H]+17/21[A]+13/18[H]+15/20[A]+22/4[H]+17/16[A]",
+        "aerialDuelsAttempted": "29/29[H]+29/29[A]+41/41[H]+38/38[A]+31/31[H]+35/35[A]+26/26[H]+33/33[A]",
+        "dribbles": "8/3[H]+3/6[A]+7/9[H]+4/3[A]+8/11[H]+6/3[A]+8/15[H]+5/6[A]",
+        "dribblesAttempted": "18/14[H]+10/15[A]+14/15[H]+8/12[A]+19/19[H]+15/9[A]+15/20[H]+8/6[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "32/31",
+        "cornersTotalsHome": "13/14",
+        "cornersTotalsAway": "19/17",
+        "cornersAverage": "4.00/3.88",
+        "cornersAverageHome": "3.25/3.50",
+        "cornersAverageAway": "4.75/4.25",
+        "foulsTotals": "92/89",
+        "foulsTotalsHome": "45/47",
+        "foulsTotalsAway": "47/42",
+        "foulsAverage": "11.50/11.13",
+        "foulsAverageHome": "11.25/11.75",
+        "foulsAverageAway": "11.75/10.50",
+        "goalKicksTotals": "76/51",
+        "goalKicksTotalsHome": "45/31",
+        "goalKicksTotalsAway": "31/20",
+        "goalKicksAverage": "9.50/6.38",
+        "goalKicksAverageHome": "11.25/7.75",
+        "goalKicksAverageAway": "7.75/5.00",
+        "savesTotals": "19/21",
+        "savesTotalsHome": "13/4",
+        "savesTotalsAway": "6/17",
+        "savesAverage": "2.38/2.63",
+        "savesAverageHome": "3.25/1.00",
+        "savesAverageAway": "1.50/4.25",
+        "offsidesTotals": "10/9",
+        "offsidesTotalsHome": "5/7",
+        "offsidesTotalsAway": "5/2",
+        "offsidesAverage": "1.25/1.13",
+        "offsidesAverageHome": "1.25/1.75",
+        "offsidesAverageAway": "1.25/0.50",
+        "shotsOnTargetTotals": "35/30",
+        "shotsOnTargetTotalsHome": "11/17",
+        "shotsOnTargetTotalsAway": "24/13",
+        "shotsOnTargetAverage": "4.38/3.75",
+        "shotsOnTargetAverageHome": "2.75/4.25",
+        "shotsOnTargetAverageAway": "6.00/3.25",
+        "yellowCardsTotals": "17/18",
+        "yellowCardsTotalsHome": "10/9",
+        "yellowCardsTotalsAway": "7/9",
+        "yellowCardsAverage": "2.13/2.25",
+        "yellowCardsAverageHome": "2.50/2.25",
+        "yellowCardsAverageAway": "1.75/2.25",
+        "goalsTotals": "14/9",
+        "goalsTotalsHome": "7/3",
+        "goalsTotalsAway": "7/6",
+        "goalsAverage": "1.75/1.13",
+        "goalsAverageHome": "1.75/0.75",
+        "goalsAverageAway": "1.75/1.50",
+        "throwInsTotals": "157/189",
+        "throwInsTotalsHome": "77/98",
+        "throwInsTotalsAway": "80/91",
+        "throwInsAverage": "19.63/23.63",
+        "throwInsAverageHome": "19.25/24.50",
+        "throwInsAverageAway": "20.00/22.75",
+        "averageBallPossessionTotals": "405/395",
+        "averageBallPossessionTotalsHome": "180/220",
+        "averageBallPossessionTotalsAway": "225/175",
+        "averageBallPossessionAverage": "50.63/49.38",
+        "averageBallPossessionAverageHome": "45.00/55.00",
+        "averageBallPossessionAverageAway": "56.25/43.75",
+        "tacklesTotals": "119/110",
+        "tacklesTotalsHome": "63/67",
+        "tacklesTotalsAway": "56/43",
+        "tacklesAverage": "14.88/13.75",
+        "tacklesAverageHome": "15.75/16.75",
+        "tacklesAverageAway": "14.00/10.75",
+        "interceptionsTotals": "73/62",
+        "interceptionsTotalsHome": "50/32",
+        "interceptionsTotalsAway": "23/30",
+        "interceptionsAverage": "9.13/7.75",
+        "interceptionsAverageHome": "12.50/8.00",
+        "interceptionsAverageAway": "5.75/7.50",
+        "aerialDuelsTotals": "131/131",
+        "aerialDuelsTotalsHome": "66/61",
+        "aerialDuelsTotalsAway": "65/70",
+        "aerialDuelsAverage": "16.38/16.38",
+        "aerialDuelsAverageHome": "16.50/15.25",
+        "aerialDuelsAverageAway": "16.25/17.50",
+        "aerialDuelsAttemptedTotals": "262/262",
+        "aerialDuelsAttemptedTotalsHome": "127/127",
+        "aerialDuelsAttemptedTotalsAway": "135/135",
+        "aerialDuelsAttemptedAverage": "32.75/32.75",
+        "aerialDuelsAttemptedAverageHome": "31.75/31.75",
+        "aerialDuelsAttemptedAverageAway": "33.75/33.75",
+        "dribblesTotals": "49/56",
+        "dribblesTotalsHome": "31/38",
+        "dribblesTotalsAway": "18/18",
+        "dribblesAverage": "6.13/7.00",
+        "dribblesAverageHome": "7.75/9.50",
+        "dribblesAverageAway": "4.50/4.50",
+        "dribblesAttemptedTotals": "107/110",
+        "dribblesAttemptedTotalsHome": "66/68",
+        "dribblesAttemptedTotalsAway": "41/42",
+        "dribblesAttemptedAverage": "13.38/13.75",
+        "dribblesAttemptedAverageHome": "16.50/17.00",
+        "dribblesAttemptedAverageAway": "10.25/10.50"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "13.75",
+        "goalKicks": "6.50",
+        "saves": "2.00",
+        "offsides": "2.00",
+        "shotsOnTarget": "3.50/3.25",
+        "yellowCards": "1.75/1.75",
+        "goals": "1.25/1.25",
+        "throwIns": "26.75",
+        "ballPossession": 57,
+        "tackles": "18.50/19.00",
+        "interceptions": "6.75/8.75",
+        "aerialDuels": "23.25",
+        "aerialDuelsAttempted": "41.75",
+        "dribbles": "9.00/9.00",
+        "dribblesAttempted": "17.75/18.50"
+    },
+    "teamSlug": "beijing-guoan",
+    "teamId": "3376",
+    "teamName": "Beijing Guoan",
+    "tournament": "Chinese Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/liaoning-tieren-fc-beijing-guoan/BrbsPzNb#id:15552476,tab:statistics",
+            "teams": [
+                "Liaoning Tieren FC",
+                "Beijing Guoan"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                221240,
+                3376
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:15551900,tab:statistics",
+            "teams": [
+                "Beijing Guoan",
+                "Shanghai Shenhua"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                3376,
+                3373
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/beijing-guoan-shandong-taishan/wrbsBrb#id:15551891,tab:statistics",
+            "teams": [
+                "Shandong Taishan",
+                "Beijing Guoan"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                3371,
+                3376
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wuhan-three-towns-beijing-guoan/Brbscdtc#id:15551889,tab:statistics",
+            "teams": [
+                "Wuhan Three Towns",
+                "Beijing Guoan"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                295152,
+                3376
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670,tab:statistics",
+            "teams": [
+                "Beijing Guoan",
+                "Meizhou Hakka"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                3376,
+                215186
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/changchun-yatai-beijing-guoan/BrbsUTn#id:13522665,tab:statistics",
+            "teams": [
+                "Changchun Yatai",
+                "Beijing Guoan"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                34694,
+                3376
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:13522660,tab:statistics",
+            "teams": [
+                "Beijing Guoan",
+                "Qingdao Hainiu"
+            ],
+            "goals": [
+                2,
+                4
+            ],
+            "teamIds": [
+                3376,
+                34695
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:13522637,tab:statistics",
+            "teams": [
+                "Beijing Guoan",
+                "Dalian Yingbo FC"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                3376,
+                474992
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "1/3[A]",
+            "fouls": "14/17[A]",
+            "goalKicks": "8/12[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "24/26[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Beijing Guoan,Liaoning Tieren FC,Away",
+            "tackles": "14/17[A]",
+            "interceptions": "5/13[A]",
+            "aerialDuels": "26/15[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "19/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/4[H]",
+            "fouls": "13/16[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "0/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "28/27[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Beijing Guoan,Shanghai Shenhua,Home",
+            "tackles": "17/21[H]",
+            "interceptions": "11/2[H]",
+            "aerialDuels": "27/22[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "15/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "14/17[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "3/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "29/29[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Beijing Guoan,Shandong Taishan,Away",
+            "tackles": "28/25[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "16/26[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "17/15[A]",
+            "dribblesAttempted": "29/30[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/5[A]",
+            "fouls": "14/11[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "2/3[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "5/2[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "26/33[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Beijing Guoan,Wuhan Three Towns,Away",
+            "tackles": "15/13[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "24/11[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "8/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "17/15[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "4/11[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "16/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "5/1[H]",
+            "throwIns": "8/35[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Beijing Guoan,Meizhou Hakka,Home",
+            "tackles": "24/19[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "9/9[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "7/2[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "4/0[A]",
+            "throwIns": "13/26[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Beijing Guoan,Changchun Yatai,Away",
+            "tackles": "23/12[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "12/7[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "3/6[A]",
+            "dribblesAttempted": "7/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "11/10[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "4/4[H]",
+            "offsides": "4/3[H]",
+            "shotsOnTarget": "6/8[H]",
+            "yellowCards": "0/5[H]",
+            "goals": "2/4[H]",
+            "throwIns": "18/12[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Beijing Guoan,Qingdao Hainiu,Home",
+            "tackles": "13/18[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "11/13[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "13/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[H]",
+            "fouls": "13/7[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "4/2[H]",
+            "throwIns": "22/25[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Beijing Guoan,Dalian Yingbo FC,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "10/14[H]",
+            "aerialDuels": "27/17[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "18/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T10:33:14.289Z",
+    "endTime": "2026-04-12T10:33:45.248Z",
+    "totalTimeSeconds": 30.96,
+    "combinedMatchStatistics": {
+        "corners": "1/3[A]+9/4[H]+4/5[A]+10/5[A]+6/6[H]+3/9[A]+5/8[H]+3/4[H]",
+        "fouls": "14/17[A]+13/16[H]+14/17[A]+14/11[A]+17/15[H]+18/14[A]+11/10[H]+13/7[H]",
+        "goalKicks": "8/12[A]+7/8[H]+5/8[A]+6/4[A]+7/9[H]+9/5[A]+6/11[H]+11/7[H]",
+        "saves": "3/3[A]+0/2[H]+3/1[A]+2/3[A]+4/11[H]+7/2[A]+4/4[H]+1/3[H]",
+        "offsides": "1/2[A]+3/0[H]+0/4[A]+4/1[A]+4/2[H]+2/3[A]+4/3[H]+2/1[H]",
+        "shotsOnTarget": "4/5[A]+3/1[H]+2/5[A]+5/2[A]+16/5[H]+6/7[A]+6/8[H]+7/2[H]",
+        "yellowCards": "2/1[A]+2/3[H]+1/3[A]+2/0[A]+1/2[H]+2/3[A]+0/5[H]+1/2[H]",
+        "goals": "1/2[A]+1/1[H]+1/2[A]+2/0[A]+5/1[H]+4/0[A]+2/4[H]+4/2[H]",
+        "throwIns": "24/26[A]+28/27[H]+29/29[A]+26/33[A]+8/35[H]+13/26[A]+18/12[H]+22/25[H]",
+        "averageBallPossession": "58/42[A]+48/52[H]+54/46[A]+68/32[A]+62/38[H]+53/47[A]+61/39[H]+64/36[H]",
+        "teams": "Beijing Guoan,Liaoning Tieren FC,Away+Beijing Guoan,Shanghai Shenhua,Home+Beijing Guoan,Shandong Taishan,Away+Beijing Guoan,Wuhan Three Towns,Away+Beijing Guoan,Meizhou Hakka,Home+Beijing Guoan,Changchun Yatai,Away+Beijing Guoan,Qingdao Hainiu,Home+Beijing Guoan,Dalian Yingbo FC,Home",
+        "tackles": "14/17[A]+17/21[H]+28/25[A]+15/13[A]+24/19[H]+23/12[A]+13/18[H]+15/16[H]",
+        "interceptions": "5/13[A]+11/2[H]+5/8[A]+6/12[A]+8/10[H]+11/11[A]+6/10[H]+10/14[H]",
+        "aerialDuels": "26/15[A]+27/22[H]+16/26[A]+24/11[A]+9/9[H]+12/7[A]+11/13[H]+27/17[H]",
+        "aerialDuelsAttempted": "41/41[A]+49/49[H]+42/42[A]+35/35[A]+18/18[H]+19/19[A]+24/24[H]+44/44[H]",
+        "dribbles": "8/9[A]+6/7[H]+17/15[A]+5/5[A]+7/10[H]+3/6[A]+7/8[H]+8/6[H]",
+        "dribblesAttempted": "19/14[A]+15/19[H]+29/30[A]+8/11[A]+12/21[H]+7/16[A]+13/14[H]+18/14[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "41/44",
+        "cornersTotalsHome": "23/22",
+        "cornersTotalsAway": "18/22",
+        "cornersAverage": "5.13/5.50",
+        "cornersAverageHome": "5.75/5.50",
+        "cornersAverageAway": "4.50/5.50",
+        "foulsTotals": "114/107",
+        "foulsTotalsHome": "54/48",
+        "foulsTotalsAway": "60/59",
+        "foulsAverage": "14.25/13.38",
+        "foulsAverageHome": "13.50/12.00",
+        "foulsAverageAway": "15.00/14.75",
+        "goalKicksTotals": "59/64",
+        "goalKicksTotalsHome": "31/35",
+        "goalKicksTotalsAway": "28/29",
+        "goalKicksAverage": "7.38/8.00",
+        "goalKicksAverageHome": "7.75/8.75",
+        "goalKicksAverageAway": "7.00/7.25",
+        "savesTotals": "24/29",
+        "savesTotalsHome": "9/20",
+        "savesTotalsAway": "15/9",
+        "savesAverage": "3.00/3.63",
+        "savesAverageHome": "2.25/5.00",
+        "savesAverageAway": "3.75/2.25",
+        "offsidesTotals": "20/16",
+        "offsidesTotalsHome": "13/6",
+        "offsidesTotalsAway": "7/10",
+        "offsidesAverage": "2.50/2.00",
+        "offsidesAverageHome": "3.25/1.50",
+        "offsidesAverageAway": "1.75/2.50",
+        "shotsOnTargetTotals": "49/35",
+        "shotsOnTargetTotalsHome": "32/16",
+        "shotsOnTargetTotalsAway": "17/19",
+        "shotsOnTargetAverage": "6.13/4.38",
+        "shotsOnTargetAverageHome": "8.00/4.00",
+        "shotsOnTargetAverageAway": "4.25/4.75",
+        "yellowCardsTotals": "11/19",
+        "yellowCardsTotalsHome": "4/12",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "1.38/2.38",
+        "yellowCardsAverageHome": "1.00/3.00",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "20/12",
+        "goalsTotalsHome": "12/8",
+        "goalsTotalsAway": "8/4",
+        "goalsAverage": "2.50/1.50",
+        "goalsAverageHome": "3.00/2.00",
+        "goalsAverageAway": "2.00/1.00",
+        "throwInsTotals": "168/213",
+        "throwInsTotalsHome": "76/99",
+        "throwInsTotalsAway": "92/114",
+        "throwInsAverage": "21.00/26.63",
+        "throwInsAverageHome": "19.00/24.75",
+        "throwInsAverageAway": "23.00/28.50",
+        "averageBallPossessionTotals": "468/332",
+        "averageBallPossessionTotalsHome": "235/165",
+        "averageBallPossessionTotalsAway": "233/167",
+        "averageBallPossessionAverage": "58.50/41.50",
+        "averageBallPossessionAverageHome": "58.75/41.25",
+        "averageBallPossessionAverageAway": "58.25/41.75",
+        "tacklesTotals": "149/141",
+        "tacklesTotalsHome": "69/74",
+        "tacklesTotalsAway": "80/67",
+        "tacklesAverage": "18.63/17.63",
+        "tacklesAverageHome": "17.25/18.50",
+        "tacklesAverageAway": "20.00/16.75",
+        "interceptionsTotals": "62/80",
+        "interceptionsTotalsHome": "35/36",
+        "interceptionsTotalsAway": "27/44",
+        "interceptionsAverage": "7.75/10.00",
+        "interceptionsAverageHome": "8.75/9.00",
+        "interceptionsAverageAway": "6.75/11.00",
+        "aerialDuelsTotals": "152/120",
+        "aerialDuelsTotalsHome": "74/61",
+        "aerialDuelsTotalsAway": "78/59",
+        "aerialDuelsAverage": "19.00/15.00",
+        "aerialDuelsAverageHome": "18.50/15.25",
+        "aerialDuelsAverageAway": "19.50/14.75",
+        "aerialDuelsAttemptedTotals": "272/272",
+        "aerialDuelsAttemptedTotalsHome": "135/135",
+        "aerialDuelsAttemptedTotalsAway": "137/137",
+        "aerialDuelsAttemptedAverage": "34.00/34.00",
+        "aerialDuelsAttemptedAverageHome": "33.75/33.75",
+        "aerialDuelsAttemptedAverageAway": "34.25/34.25",
+        "dribblesTotals": "61/66",
+        "dribblesTotalsHome": "28/31",
+        "dribblesTotalsAway": "33/35",
+        "dribblesAverage": "7.63/8.25",
+        "dribblesAverageHome": "7.00/7.75",
+        "dribblesAverageAway": "8.25/8.75",
+        "dribblesAttemptedTotals": "121/139",
+        "dribblesAttemptedTotalsHome": "58/68",
+        "dribblesAttemptedTotalsAway": "63/71",
+        "dribblesAttemptedAverage": "15.13/17.38",
+        "dribblesAttemptedAverageHome": "14.50/17.00",
+        "dribblesAttemptedAverageAway": "15.75/17.75"
+    }
+}

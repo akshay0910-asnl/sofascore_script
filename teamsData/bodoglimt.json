@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "6.00",
+        "goalKicks": "5.00",
+        "saves": "2.00",
+        "offsides": "0.00",
+        "shotsOnTarget": "9.00/3.00",
+        "yellowCards": "1.00/2.00",
+        "goals": "3.00/0.00",
+        "throwIns": "27.00",
+        "ballPossession": 73,
+        "tackles": "20.00/25.00",
+        "interceptions": "11.00/21.00",
+        "aerialDuels": "4.00",
+        "aerialDuelsAttempted": "18.00",
+        "dribbles": "9.00/10.00",
+        "dribblesAttempted": "17.00/17.00"
+    },
+    "teamSlug": "bodoglimt",
+    "teamId": "656",
+    "teamName": "Bodø/Glimt",
+    "tournament": "Eliteserien",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/kristiansund-bk-bodoglimt/gnshu#id:15260755,tab:statistics",
+            "teams": [
+                "Kristiansund BK",
+                "Bodø/Glimt"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                957,
+                656
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fredrikstad-fk-bodoglimt/gnsMn#id:13265929,tab:statistics",
+            "teams": [
+                "Bodø/Glimt",
+                "Fredrikstad FK"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                656,
+                687
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kfum-oslo-bodoglimt/gnsLp#id:13265920,tab:statistics",
+            "teams": [
+                "KFUM Oslo",
+                "Bodø/Glimt"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                786,
+                656
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bryne-fk-bodoglimt/gnsnn#id:13265905,tab:statistics",
+            "teams": [
+                "Bodø/Glimt",
+                "Bryne FK"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                656,
+                663
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valerenga-if-bodoglimt/gnspy#id:13265899,tab:statistics",
+            "teams": [
+                "Vålerenga IF",
+                "Bodø/Glimt"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1165,
+                656
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-brann-bodoglimt/gnsjy#id:13295708,tab:statistics",
+            "teams": [
+                "SK Brann",
+                "Bodø/Glimt"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1159,
+                656
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/molde-fk-bodoglimt/gnsln#id:13265892,tab:statistics",
+            "teams": [
+                "Bodø/Glimt",
+                "Molde FK"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                656,
+                661
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/haugesund-bodoglimt/gnsyn#id:13295716,tab:statistics",
+            "teams": [
+                "Bodø/Glimt",
+                "Haugesund"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                656,
+                673
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/0[A]",
+            "fouls": "6/9[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "2/6[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "9/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/0[A]",
+            "throwIns": "27/16[A]",
+            "averageBallPossession": "73/27[A]",
+            "teams": "Bodø/Glimt,Kristiansund BK,Away",
+            "tackles": "20/25[A]",
+            "interceptions": "11/21[A]",
+            "aerialDuels": "4/14[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "9/10[A]",
+            "dribblesAttempted": "17/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "8/5[H]",
+            "goalKicks": "4/12[H]",
+            "saves": "1/4[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "5/0[H]",
+            "throwIns": "18/22[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Bodø/Glimt,Fredrikstad FK,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "14/15[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "15/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "8/16[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "2/4[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "0/5[A]",
+            "goals": "2/1[A]",
+            "throwIns": "8/9[A]",
+            "averageBallPossession": "67/33[A]",
+            "teams": "Bodø/Glimt,KFUM Oslo,Away",
+            "tackles": "13/19[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "19/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "14/2[H]",
+            "fouls": "9/5[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "0/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "7/0[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "5/0[H]",
+            "throwIns": "21/14[H]",
+            "averageBallPossession": "80/20[H]",
+            "teams": "Bodø/Glimt,Bryne FK,Home",
+            "tackles": "20/15[H]",
+            "interceptions": "2/9[H]",
+            "aerialDuels": "14/10[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "11/3[H]",
+            "dribblesAttempted": "18/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/2[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "7/12[A]",
+            "saves": "1/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "1/3[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "71/29[A]",
+            "teams": "Bodø/Glimt,Vålerenga IF,Away",
+            "tackles": "10/22[A]",
+            "interceptions": "5/11[A]",
+            "aerialDuels": "17/8[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "8/9[A]",
+            "dribblesAttempted": "20/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/2[A]",
+            "fouls": "10/17[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "3/0[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "30/27[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Bodø/Glimt,SK Brann,Away",
+            "tackles": "24/19[A]",
+            "interceptions": "9/12[A]",
+            "aerialDuels": "11/9[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "7/15[A]",
+            "dribblesAttempted": "18/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "11/16[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "1/2[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "4/1[H]",
+            "throwIns": "22/18[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Bodø/Glimt,Molde FK,Home",
+            "tackles": "13/15[H]",
+            "interceptions": "5/9[H]",
+            "aerialDuels": "2/3[H]",
+            "aerialDuelsAttempted": "5/5[H]",
+            "dribbles": "12/6[H]",
+            "dribblesAttempted": "24/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "19/0[H]",
+            "fouls": "9/7[H]",
+            "goalKicks": "2/15[H]",
+            "saves": "1/10[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "13/1[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "25/12[H]",
+            "averageBallPossession": "69/31[H]",
+            "teams": "Bodø/Glimt,Haugesund,Home",
+            "tackles": "7/18[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "7/4[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "22/11[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-11T12:50:05.913Z",
+    "endTime": "2026-04-11T12:50:37.482Z",
+    "totalTimeSeconds": 31.57,
+    "combinedMatchStatistics": {
+        "corners": "6/0[A]+7/5[H]+6/4[A]+14/2[H]+12/2[A]+1/2[A]+2/1[H]+19/0[H]",
+        "fouls": "6/9[A]+8/5[H]+8/16[A]+9/5[H]+10/14[A]+10/17[A]+11/16[H]+9/7[H]",
+        "goalKicks": "5/10[A]+4/12[H]+5/8[A]+4/11[H]+7/12[A]+8/5[A]+5/6[H]+2/15[H]",
+        "saves": "2/6[A]+1/4[H]+2/4[A]+0/2[H]+1/6[A]+3/0[A]+1/2[H]+1/10[H]",
+        "offsides": "0/2[A]+0/0[H]+4/1[A]+1/2[H]+0/1[A]+0/0[A]+0/1[H]+1/1[H]",
+        "shotsOnTarget": "9/3[A]+9/1[H]+6/3[A]+7/0[H]+7/4[A]+2/4[A]+6/2[H]+13/1[H]",
+        "yellowCards": "1/2[A]+0/2[H]+0/5[A]+0/1[H]+1/0[A]+2/4[A]+1/2[H]+0/0[H]",
+        "goals": "3/0[A]+5/0[H]+2/1[A]+5/0[H]+1/3[A]+2/1[A]+4/1[H]+2/0[H]",
+        "throwIns": "27/16[A]+18/22[H]+8/9[A]+21/14[H]+17/15[A]+30/27[A]+22/18[H]+25/12[H]",
+        "averageBallPossession": "73/27[A]+60/40[H]+67/33[A]+80/20[H]+71/29[A]+46/54[A]+64/36[H]+69/31[H]",
+        "teams": "Bodø/Glimt,Kristiansund BK,Away+Bodø/Glimt,Fredrikstad FK,Home+Bodø/Glimt,KFUM Oslo,Away+Bodø/Glimt,Bryne FK,Home+Bodø/Glimt,Vålerenga IF,Away+Bodø/Glimt,SK Brann,Away+Bodø/Glimt,Molde FK,Home+Bodø/Glimt,Haugesund,Home",
+        "tackles": "20/25[A]+15/16[H]+13/19[A]+20/15[H]+10/22[A]+24/19[A]+13/15[H]+7/18[H]",
+        "interceptions": "11/21[A]+10/9[H]+9/7[A]+2/9[H]+5/11[A]+9/12[A]+5/9[H]+8/12[H]",
+        "aerialDuels": "4/14[A]+14/15[H]+12/9[A]+14/10[H]+17/8[A]+11/9[A]+2/3[H]+7/4[H]",
+        "aerialDuelsAttempted": "18/18[A]+29/29[H]+21/21[A]+24/24[H]+25/25[A]+20/20[A]+5/5[H]+11/11[H]",
+        "dribbles": "9/10[A]+9/6[H]+6/5[A]+11/3[H]+8/9[A]+7/15[A]+12/6[H]+9/6[H]",
+        "dribblesAttempted": "17/17[A]+15/16[H]+19/10[A]+18/17[H]+20/14[A]+18/23[A]+24/11[H]+22/11[H]",
+        "isHome": "false+true+false+true+false+false+true+true",
+        "cornersTotals": "67/16",
+        "cornersTotalsHome": "42/8",
+        "cornersTotalsAway": "25/8",
+        "cornersAverage": "8.38/2.00",
+        "cornersAverageHome": "10.50/2.00",
+        "cornersAverageAway": "6.25/2.00",
+        "foulsTotals": "71/89",
+        "foulsTotalsHome": "37/33",
+        "foulsTotalsAway": "34/56",
+        "foulsAverage": "8.88/11.13",
+        "foulsAverageHome": "9.25/8.25",
+        "foulsAverageAway": "8.50/14.00",
+        "goalKicksTotals": "40/79",
+        "goalKicksTotalsHome": "15/44",
+        "goalKicksTotalsAway": "25/35",
+        "goalKicksAverage": "5.00/9.88",
+        "goalKicksAverageHome": "3.75/11.00",
+        "goalKicksAverageAway": "6.25/8.75",
+        "savesTotals": "11/34",
+        "savesTotalsHome": "3/18",
+        "savesTotalsAway": "8/16",
+        "savesAverage": "1.38/4.25",
+        "savesAverageHome": "0.75/4.50",
+        "savesAverageAway": "2.00/4.00",
+        "offsidesTotals": "6/8",
+        "offsidesTotalsHome": "2/4",
+        "offsidesTotalsAway": "4/4",
+        "offsidesAverage": "0.75/1.00",
+        "offsidesAverageHome": "0.50/1.00",
+        "offsidesAverageAway": "1.00/1.00",
+        "shotsOnTargetTotals": "59/18",
+        "shotsOnTargetTotalsHome": "35/4",
+        "shotsOnTargetTotalsAway": "24/14",
+        "shotsOnTargetAverage": "7.38/2.25",
+        "shotsOnTargetAverageHome": "8.75/1.00",
+        "shotsOnTargetAverageAway": "6.00/3.50",
+        "yellowCardsTotals": "5/16",
+        "yellowCardsTotalsHome": "1/5",
+        "yellowCardsTotalsAway": "4/11",
+        "yellowCardsAverage": "0.63/2.00",
+        "yellowCardsAverageHome": "0.25/1.25",
+        "yellowCardsAverageAway": "1.00/2.75",
+        "goalsTotals": "24/6",
+        "goalsTotalsHome": "16/1",
+        "goalsTotalsAway": "8/5",
+        "goalsAverage": "3.00/0.75",
+        "goalsAverageHome": "4.00/0.25",
+        "goalsAverageAway": "2.00/1.25",
+        "throwInsTotals": "168/133",
+        "throwInsTotalsHome": "86/66",
+        "throwInsTotalsAway": "82/67",
+        "throwInsAverage": "21.00/16.63",
+        "throwInsAverageHome": "21.50/16.50",
+        "throwInsAverageAway": "20.50/16.75",
+        "averageBallPossessionTotals": "530/270",
+        "averageBallPossessionTotalsHome": "273/127",
+        "averageBallPossessionTotalsAway": "257/143",
+        "averageBallPossessionAverage": "66.25/33.75",
+        "averageBallPossessionAverageHome": "68.25/31.75",
+        "averageBallPossessionAverageAway": "64.25/35.75",
+        "tacklesTotals": "122/149",
+        "tacklesTotalsHome": "55/64",
+        "tacklesTotalsAway": "67/85",
+        "tacklesAverage": "15.25/18.63",
+        "tacklesAverageHome": "13.75/16.00",
+        "tacklesAverageAway": "16.75/21.25",
+        "interceptionsTotals": "59/90",
+        "interceptionsTotalsHome": "25/39",
+        "interceptionsTotalsAway": "34/51",
+        "interceptionsAverage": "7.38/11.25",
+        "interceptionsAverageHome": "6.25/9.75",
+        "interceptionsAverageAway": "8.50/12.75",
+        "aerialDuelsTotals": "81/72",
+        "aerialDuelsTotalsHome": "37/32",
+        "aerialDuelsTotalsAway": "44/40",
+        "aerialDuelsAverage": "10.13/9.00",
+        "aerialDuelsAverageHome": "9.25/8.00",
+        "aerialDuelsAverageAway": "11.00/10.00",
+        "aerialDuelsAttemptedTotals": "153/153",
+        "aerialDuelsAttemptedTotalsHome": "69/69",
+        "aerialDuelsAttemptedTotalsAway": "84/84",
+        "aerialDuelsAttemptedAverage": "19.13/19.13",
+        "aerialDuelsAttemptedAverageHome": "17.25/17.25",
+        "aerialDuelsAttemptedAverageAway": "21.00/21.00",
+        "dribblesTotals": "71/60",
+        "dribblesTotalsHome": "41/21",
+        "dribblesTotalsAway": "30/39",
+        "dribblesAverage": "8.88/7.50",
+        "dribblesAverageHome": "10.25/5.25",
+        "dribblesAverageAway": "7.50/9.75",
+        "dribblesAttemptedTotals": "153/119",
+        "dribblesAttemptedTotalsHome": "79/55",
+        "dribblesAttemptedTotalsAway": "74/64",
+        "dribblesAttemptedAverage": "19.13/14.88",
+        "dribblesAttemptedAverageHome": "19.75/13.75",
+        "dribblesAttemptedAverageAway": "18.50/16.00"
+    }
+}

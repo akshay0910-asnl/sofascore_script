@@ -1,21 +1,21 @@
 {
     "globalStatistics": {
-        "corners": "3.67",
-        "fouls": "10.87",
-        "goalKicks": "9.87",
-        "saves": "4.13",
-        "offsides": "1.40",
-        "shotsOnTarget": "2.40/6.20",
-        "yellowCards": "2.20/2.07",
-        "goals": "0.53/1.87",
-        "throwIns": "18.33",
-        "ballPossession": 39.666666666667,
-        "tackles": "13.93/12.27",
-        "interceptions": "7.27/7.67",
-        "aerialDuels": "9.40",
-        "aerialDuelsAttempted": "18.27",
-        "dribbles": "3.07/5.80",
-        "dribblesAttempted": "8.20/13.07"
+        "corners": "3.60",
+        "fouls": "11.44",
+        "goalKicks": "9.44",
+        "saves": "4.16",
+        "offsides": "1.28",
+        "shotsOnTarget": "2.72/5.88",
+        "yellowCards": "2.16/2.12",
+        "goals": "0.64/1.56",
+        "throwIns": "20.36",
+        "ballPossession": 40.68,
+        "tackles": "14.84/13.08",
+        "interceptions": "7.32/8.40",
+        "aerialDuels": "9.16",
+        "aerialDuelsAttempted": "19.40",
+        "dribbles": "3.68/6.44",
+        "dribblesAttempted": "9.76/14.20"
     },
     "teamSlug": "nakhon-ratchasima-mazda-fc",
     "teamId": "188874",
@@ -23,137 +23,277 @@
     "tournament": "Thai League 1",
     "matchLinks": [
         {
+            "href": "https://www.sofascore.com/football/match/uthai-thani-fc-nakhon-ratchasima-mazda-fc/zCAbskBKc#id:15217131,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima Mazda FC",
+                "Uthai Thani FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                188874,
+                338810
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ayutthaya-united-nakhon-ratchasima-mazda-fc/zCAbscNcc#id:15217113,tab:statistics",
+            "teams": [
+                "Ayutthaya United",
+                "Nakhon Ratchasima Mazda FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                256902,
+                188874
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-chiangrai-united/qGBszCAb#id:15217098,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima Mazda FC",
+                "Chiangrai United"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                188874,
+                66566
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-buriram-united/tJnszCAb#id:15213977,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima Mazda FC",
+                "Buriram United"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                188874,
+                34218
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/pt-prachuap-fc-nakhon-ratchasima-mazda-fc/zCAbspRac#id:15213965,tab:statistics",
+            "teams": [
+                "Nakhon Ratchasima Mazda FC",
+                "PT Prachuap FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                188874,
+                252115
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-port-fc/lnqszCAb#id:15213963,tab:statistics",
+            "teams": [
+                "Port FC",
+                "Nakhon Ratchasima Mazda FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                40661,
+                188874
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-ratchaburi/ToJszCAb#id:15213922,tab:statistics",
+            "teams": [
+                "Ratchaburi",
+                "Nakhon Ratchasima Mazda FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                85743,
+                188874
+            ],
+            "isHome": false
+        },
+        {
             "href": "https://www.sofascore.com/football/match/sukhothai-nakhon-ratchasima-mazda-fc/zCAbsYTJb#id:14514370,tab:statistics",
             "teams": [
                 "Sukhothai",
-                "Nakhon Ratchasima"
+                "Nakhon Ratchasima Mazda FC"
             ],
             "goals": [
-                "2",
-                "1"
+                2,
+                1
             ],
             "teamIds": [
-                "212198",
-                "188874"
+                212198,
+                188874
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-bg-pathum-united/hmoszCAb#id:14514367,tab:statistics",
-            "teams": [
-                "Nakhon Ratchasima",
-                "Pathum Utd"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "188874",
-                "35607"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/uthai-thani-fc-nakhon-ratchasima-mazda-fc/zCAbskBKc#id:14514358,tab:statistics",
-            "teams": [
-                "Uthai Thani",
-                "Nakhon Ratchasima"
-            ],
-            "goals": [
-                "7",
-                "0"
-            ],
-            "teamIds": [
-                "338810",
-                "188874"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/ayutthaya-united-nakhon-ratchasima-mazda-fc/zCAbscNcc#id:14514347,tab:statistics",
-            "teams": [
-                "Nakhon Ratchasima",
-                "Ayutthaya United"
-            ],
-            "goals": [
-                "0",
-                "1"
-            ],
-            "teamIds": [
-                "188874",
-                "256902"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-chiangrai-united/qGBszCAb#id:14514339,tab:statistics",
-            "teams": [
-                "Chiangrai Utd",
-                "Nakhon Ratchasima"
-            ],
-            "goals": [
-                "2",
-                "0"
-            ],
-            "teamIds": [
-                "66566",
-                "188874"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-buriram-united/tJnszCAb#id:14514329,tab:statistics",
-            "teams": [
-                "Buriram",
-                "Nakhon Ratchasima"
-            ],
-            "goals": [
-                "2",
-                "1"
-            ],
-            "teamIds": [
-                "34218",
-                "188874"
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-port-fc/lnqszCAb#id:14514312,tab:statistics",
-            "teams": [
-                "Nakhon Ratchasima",
-                "Port FC"
-            ],
-            "goals": [
-                "0",
-                "2"
-            ],
-            "teamIds": [
-                "188874",
-                "40661"
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nakhon-ratchasima-mazda-fc-muang-thong-united/WYpszCAb#id:14514300,tab:statistics",
-            "teams": [
-                "Nakhon Ratchasima",
-                "Muang Thong Utd"
-            ],
-            "goals": [
-                "1",
-                "1"
-            ],
-            "teamIds": [
-                "188874",
-                "39946"
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "2/4[H]",
+            "fouls": "18/10[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "22/17[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Nakhon Ratchasima Mazda FC,Uthai Thani FC,Home",
+            "tackles": "15/16[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "10/12[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "3/9[H]",
+            "dribblesAttempted": "14/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "3/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "23/32[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Nakhon Ratchasima Mazda FC,Ayutthaya United,Away",
+            "tackles": "18/16[A]",
+            "interceptions": "5/5[A]",
+            "aerialDuels": "8/12[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "2/2[A]",
+            "dribblesAttempted": "11/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "27/18[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Nakhon Ratchasima Mazda FC,Chiangrai United,Home",
+            "tackles": "23/14[H]",
+            "interceptions": "8/13[H]",
+            "aerialDuels": "11/9[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "13/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/3[H]",
+            "throwIns": "28/15[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Nakhon Ratchasima Mazda FC,Buriram United,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "5/8[H]",
+            "aerialDuels": "5/13[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "5/2[H]",
+            "dribblesAttempted": "10/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "3/0[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "1/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "15/21[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Nakhon Ratchasima Mazda FC,PT Prachuap FC,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "15/7[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "4/10[H]",
+            "dribblesAttempted": "16/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/10[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "12/8[A]",
+            "saves": "9/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/11[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "13/15[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Nakhon Ratchasima Mazda FC,Port FC,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "7/13[A]",
+            "aerialDuels": "4/12[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "8/14[A]",
+            "dribblesAttempted": "14/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "10/8[A]",
+            "goalKicks": "7/5[A]",
+            "saves": "7/4[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/8[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/24[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Nakhon Ratchasima Mazda FC,Ratchaburi,Away",
+            "tackles": "21/14[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "10/19[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "4/11[A]",
+            "dribblesAttempted": "6/19[A]",
+            "isHome": false
+        },
         {
             "corners": "3/3[A]",
             "fouls": "11/6[A]",
@@ -165,7 +305,7 @@
             "goals": "1/2[A]",
             "throwIns": "13/22[A]",
             "averageBallPossession": "40/60[A]",
-            "teams": "Nakhon Ratchasima,Sukhothai,Away",
+            "teams": "Nakhon Ratchasima Mazda FC,Sukhothai,Away",
             "tackles": "16/7[A]",
             "interceptions": "9/5[A]",
             "aerialDuels": "8/13[A]",
@@ -173,266 +313,127 @@
             "dribbles": "1/4[A]",
             "dribblesAttempted": "4/11[A]",
             "isHome": false
-        },
-        {
-            "corners": "2/6[H]",
-            "fouls": "9/11[H]",
-            "goalKicks": "8/6[H]",
-            "saves": "3/1[H]",
-            "offsides": "0/1[H]",
-            "shotsOnTarget": "1/4[H]",
-            "yellowCards": "1/2[H]",
-            "goals": "0/1[H]",
-            "throwIns": "18/13[H]",
-            "averageBallPossession": "30/70[H]",
-            "teams": "Nakhon Ratchasima,Pathum Utd,Home",
-            "tackles": "17/11[H]",
-            "interceptions": "5/8[H]",
-            "aerialDuels": "9/9[H]",
-            "aerialDuelsAttempted": "18/18[H]",
-            "dribbles": "5/5[H]",
-            "dribblesAttempted": "12/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/7[A]",
-            "fouls": "9/10[A]",
-            "goalKicks": "4/7[A]",
-            "saves": "8/4[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "4/15[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "0/7[A]",
-            "throwIns": "11/16[A]",
-            "averageBallPossession": "37/63[A]",
-            "teams": "Nakhon Ratchasima,Uthai Thani,Away",
-            "tackles": "13/6[A]",
-            "interceptions": "4/5[A]",
-            "aerialDuels": "8/11[A]",
-            "aerialDuelsAttempted": "19/19[A]",
-            "dribbles": "6/18[A]",
-            "dribblesAttempted": "7/28[A]",
-            "isHome": false
-        },
-        {
-            "corners": "10/9[H]",
-            "fouls": "14/14[H]",
-            "goalKicks": "7/13[H]",
-            "saves": "4/3[H]",
-            "offsides": "3/0[H]",
-            "shotsOnTarget": "3/6[H]",
-            "yellowCards": "3/3[H]",
-            "goals": "0/1[H]",
-            "throwIns": "21/18[H]",
-            "averageBallPossession": "43/57[H]",
-            "teams": "Nakhon Ratchasima,Ayutthaya United,Home",
-            "tackles": "19/18[H]",
-            "interceptions": "5/10[H]",
-            "aerialDuels": "13/14[H]",
-            "aerialDuelsAttempted": "27/27[H]",
-            "dribbles": "0/5[H]",
-            "dribblesAttempted": "13/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/6[A]",
-            "fouls": "11/20[A]",
-            "goalKicks": "6/7[A]",
-            "saves": "6/1[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "1/8[A]",
-            "yellowCards": "2/4[A]",
-            "goals": "0/2[A]",
-            "throwIns": "22/24[A]",
-            "averageBallPossession": "56/44[A]",
-            "teams": "Nakhon Ratchasima,Chiangrai Utd,Away",
-            "tackles": "13/15[A]",
-            "interceptions": "10/10[A]",
-            "aerialDuels": "4/10[A]",
-            "aerialDuelsAttempted": "14/14[A]",
-            "dribbles": "3/6[A]",
-            "dribblesAttempted": "9/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "0/4[A]",
-            "fouls": "14/10[A]",
-            "goalKicks": "13/7[A]",
-            "saves": "4/0[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "1/7[A]",
-            "yellowCards": "4/1[A]",
-            "goals": "1/2[A]",
-            "throwIns": "14/18[A]",
-            "averageBallPossession": "26/74[A]",
-            "teams": "Nakhon Ratchasima,Buriram,Away",
-            "tackles": "6/8[A]",
-            "interceptions": "5/11[A]",
-            "aerialDuels": "11/6[A]",
-            "aerialDuelsAttempted": "17/17[A]",
-            "dribbles": "4/4[A]",
-            "dribblesAttempted": "7/6[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/7[H]",
-            "fouls": "11/20[H]",
-            "goalKicks": "10/14[H]",
-            "saves": "4/3[H]",
-            "offsides": "1/1[H]",
-            "shotsOnTarget": "3/6[H]",
-            "yellowCards": "3/2[H]",
-            "goals": "0/2[H]",
-            "throwIns": "26/23[H]",
-            "averageBallPossession": "37/63[H]",
-            "teams": "Nakhon Ratchasima,Port FC,Home",
-            "tackles": "20/23[H]",
-            "interceptions": "6/4[H]",
-            "aerialDuels": "8/13[H]",
-            "aerialDuelsAttempted": "21/21[H]",
-            "dribbles": "1/6[H]",
-            "dribblesAttempted": "12/20[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/6[H]",
-            "fouls": "13/15[H]",
-            "goalKicks": "7/11[H]",
-            "saves": "3/0[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "1/5[H]",
-            "yellowCards": "3/3[H]",
-            "goals": "1/1[H]",
-            "throwIns": "21/20[H]",
-            "averageBallPossession": "43/57[H]",
-            "teams": "Nakhon Ratchasima,Muang Thong Utd,Home",
-            "tackles": "10/7[H]",
-            "interceptions": "8/10[H]",
-            "aerialDuels": "12/4[H]",
-            "aerialDuelsAttempted": "16/16[H]",
-            "dribbles": "0/4[H]",
-            "dribblesAttempted": "4/10[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "startTime": "2026-01-18T10:46:02.007Z",
-    "endTime": "2026-01-18T10:46:33.330Z",
-    "totalTimeSeconds": 31.32,
+    "currentIndex": 7,
+    "startTime": "2026-04-11T13:08:13.307Z",
+    "endTime": "2026-04-11T13:08:39.648Z",
+    "totalTimeSeconds": 26.34,
     "combinedMatchStatistics": {
-        "corners": "3/3[A]+2/6[H]+4/7[A]+10/9[H]+3/6[A]+0/4[A]+6/7[H]+2/6[H]",
-        "fouls": "11/6[A]+9/11[H]+9/10[A]+14/14[H]+11/20[A]+14/10[A]+11/20[H]+13/15[H]",
-        "goalKicks": "17/7[A]+8/6[H]+4/7[A]+7/13[H]+6/7[A]+13/7[A]+10/14[H]+7/11[H]",
-        "saves": "4/3[A]+3/1[H]+8/4[A]+4/3[H]+6/1[A]+4/0[A]+4/3[H]+3/0[H]",
-        "offsides": "1/0[A]+0/1[H]+1/1[A]+3/0[H]+2/0[A]+2/0[A]+1/1[H]+2/2[H]",
-        "shotsOnTarget": "4/6[A]+1/4[H]+4/15[A]+3/6[H]+1/8[A]+1/7[A]+3/6[H]+1/5[H]",
-        "yellowCards": "0/1[A]+1/2[H]+2/1[A]+3/3[H]+2/4[A]+4/1[A]+3/2[H]+3/3[H]",
-        "goals": "1/2[A]+0/1[H]+0/7[A]+0/1[H]+0/2[A]+1/2[A]+0/2[H]+1/1[H]",
-        "throwIns": "13/22[A]+18/13[H]+11/16[A]+21/18[H]+22/24[A]+14/18[A]+26/23[H]+21/20[H]",
-        "averageBallPossession": "40/60[A]+30/70[H]+37/63[A]+43/57[H]+56/44[A]+26/74[A]+37/63[H]+43/57[H]",
-        "teams": "Nakhon Ratchasima,Sukhothai,Away+Nakhon Ratchasima,Pathum Utd,Home+Nakhon Ratchasima,Uthai Thani,Away+Nakhon Ratchasima,Ayutthaya United,Home+Nakhon Ratchasima,Chiangrai Utd,Away+Nakhon Ratchasima,Buriram,Away+Nakhon Ratchasima,Port FC,Home+Nakhon Ratchasima,Muang Thong Utd,Home",
-        "tackles": "16/7[A]+17/11[H]+13/6[A]+19/18[H]+13/15[A]+6/8[A]+20/23[H]+10/7[H]",
-        "interceptions": "9/5[A]+5/8[H]+4/5[A]+5/10[H]+10/10[A]+5/11[A]+6/4[H]+8/10[H]",
-        "aerialDuels": "8/13[A]+9/9[H]+8/11[A]+13/14[H]+4/10[A]+11/6[A]+8/13[H]+12/4[H]",
-        "aerialDuelsAttempted": "21/21[A]+18/18[H]+19/19[A]+27/27[H]+14/14[A]+17/17[A]+21/21[H]+16/16[H]",
-        "dribbles": "1/4[A]+5/5[H]+6/18[A]+0/5[H]+3/6[A]+4/4[A]+1/6[H]+0/4[H]",
-        "dribblesAttempted": "4/11[A]+12/11[H]+7/28[A]+13/16[H]+9/13[A]+7/6[A]+12/20[H]+4/10[H]",
-        "isHome": "false+true+false+true+false+false+true+true",
-        "cornersTotals": "30/48",
-        "cornersTotalsHome": "20/28",
-        "cornersTotalsAway": "10/20",
-        "cornersAverage": "3.75/6.00",
-        "cornersAverageHome": "5.00/7.00",
-        "cornersAverageAway": "2.50/5.00",
-        "foulsTotals": "92/106",
-        "foulsTotalsHome": "47/60",
-        "foulsTotalsAway": "45/46",
-        "foulsAverage": "11.50/13.25",
-        "foulsAverageHome": "11.75/15.00",
-        "foulsAverageAway": "11.25/11.50",
-        "goalKicksTotals": "72/72",
-        "goalKicksTotalsHome": "32/44",
-        "goalKicksTotalsAway": "40/28",
-        "goalKicksAverage": "9.00/9.00",
-        "goalKicksAverageHome": "8.00/11.00",
-        "goalKicksAverageAway": "10.00/7.00",
-        "savesTotals": "36/15",
-        "savesTotalsHome": "14/7",
-        "savesTotalsAway": "22/8",
-        "savesAverage": "4.50/1.88",
-        "savesAverageHome": "3.50/1.75",
-        "savesAverageAway": "5.50/2.00",
-        "offsidesTotals": "12/5",
-        "offsidesTotalsHome": "6/4",
-        "offsidesTotalsAway": "6/1",
-        "offsidesAverage": "1.50/0.63",
-        "offsidesAverageHome": "1.50/1.00",
-        "offsidesAverageAway": "1.50/0.25",
-        "shotsOnTargetTotals": "18/57",
-        "shotsOnTargetTotalsHome": "8/21",
-        "shotsOnTargetTotalsAway": "10/36",
-        "shotsOnTargetAverage": "2.25/7.13",
-        "shotsOnTargetAverageHome": "2.00/5.25",
-        "shotsOnTargetAverageAway": "2.50/9.00",
-        "yellowCardsTotals": "18/17",
-        "yellowCardsTotalsHome": "10/10",
-        "yellowCardsTotalsAway": "8/7",
-        "yellowCardsAverage": "2.25/2.13",
-        "yellowCardsAverageHome": "2.50/2.50",
-        "yellowCardsAverageAway": "2.00/1.75",
-        "goalsTotals": "3/18",
-        "goalsTotalsHome": "1/5",
-        "goalsTotalsAway": "2/13",
-        "goalsAverage": "0.38/2.25",
-        "goalsAverageHome": "0.25/1.25",
-        "goalsAverageAway": "0.50/3.25",
-        "throwInsTotals": "146/154",
-        "throwInsTotalsHome": "86/74",
-        "throwInsTotalsAway": "60/80",
-        "throwInsAverage": "18.25/19.25",
-        "throwInsAverageHome": "21.50/18.50",
-        "throwInsAverageAway": "15.00/20.00",
-        "averageBallPossessionTotals": "312/488",
-        "averageBallPossessionTotalsHome": "153/247",
-        "averageBallPossessionTotalsAway": "159/241",
-        "averageBallPossessionAverage": "39.00/61.00",
-        "averageBallPossessionAverageHome": "38.25/61.75",
-        "averageBallPossessionAverageAway": "39.75/60.25",
-        "tacklesTotals": "114/95",
-        "tacklesTotalsHome": "66/59",
-        "tacklesTotalsAway": "48/36",
-        "tacklesAverage": "14.25/11.88",
-        "tacklesAverageHome": "16.50/14.75",
-        "tacklesAverageAway": "12.00/9.00",
-        "interceptionsTotals": "52/63",
-        "interceptionsTotalsHome": "24/32",
-        "interceptionsTotalsAway": "28/31",
-        "interceptionsAverage": "6.50/7.88",
-        "interceptionsAverageHome": "6.00/8.00",
-        "interceptionsAverageAway": "7.00/7.75",
-        "aerialDuelsTotals": "73/80",
-        "aerialDuelsTotalsHome": "42/40",
-        "aerialDuelsTotalsAway": "31/40",
-        "aerialDuelsAverage": "9.13/10.00",
-        "aerialDuelsAverageHome": "10.50/10.00",
-        "aerialDuelsAverageAway": "7.75/10.00",
-        "aerialDuelsAttemptedTotals": "153/153",
-        "aerialDuelsAttemptedTotalsHome": "82/82",
-        "aerialDuelsAttemptedTotalsAway": "71/71",
-        "aerialDuelsAttemptedAverage": "19.13/19.13",
-        "aerialDuelsAttemptedAverageHome": "20.50/20.50",
-        "aerialDuelsAttemptedAverageAway": "17.75/17.75",
-        "dribblesTotals": "20/52",
-        "dribblesTotalsHome": "6/20",
-        "dribblesTotalsAway": "14/32",
-        "dribblesAverage": "2.50/6.50",
-        "dribblesAverageHome": "1.50/5.00",
-        "dribblesAverageAway": "3.50/8.00",
-        "dribblesAttemptedTotals": "68/115",
-        "dribblesAttemptedTotalsHome": "41/57",
-        "dribblesAttemptedTotalsAway": "27/58",
-        "dribblesAttemptedAverage": "8.50/14.38",
-        "dribblesAttemptedAverageHome": "10.25/14.25",
-        "dribblesAttemptedAverageAway": "6.75/14.50"
+        "corners": "2/4[H]+3/5[A]+6/2[H]+4/7[H]+6/5[H]+3/10[A]+3/6[A]+3/3[A]",
+        "fouls": "18/10[H]+13/14[A]+13/13[H]+15/15[H]+12/14[H]+13/15[A]+10/8[A]+11/6[A]",
+        "goalKicks": "10/9[H]+13/4[A]+4/9[H]+8/8[H]+6/9[H]+12/8[A]+7/5[A]+17/7[A]",
+        "saves": "4/3[H]+3/4[A]+3/3[H]+1/1[H]+3/0[H]+9/2[A]+7/4[A]+4/3[A]",
+        "offsides": "0/4[H]+0/1[A]+0/0[H]+1/3[H]+2/1[H]+3/2[A]+0/0[A]+1/0[A]",
+        "shotsOnTarget": "3/4[H]+5/3[A]+4/4[H]+1/4[H]+1/5[H]+2/11[A]+4/8[A]+4/6[A]",
+        "yellowCards": "4/4[H]+2/3[A]+2/1[H]+1/2[H]+3/2[H]+2/1[A]+1/4[A]+0/1[A]",
+        "goals": "0/0[H]+1/0[A]+1/1[H]+0/3[H]+1/2[H]+0/2[A]+0/1[A]+1/2[A]",
+        "throwIns": "22/17[H]+23/32[A]+27/18[H]+28/15[H]+15/21[H]+13/15[A]+23/24[A]+13/22[A]",
+        "averageBallPossession": "45/55[H]+37/63[A]+49/51[H]+37/63[H]+47/53[H]+46/54[A]+37/63[A]+40/60[A]",
+        "teams": "Nakhon Ratchasima Mazda FC,Uthai Thani FC,Home+Nakhon Ratchasima Mazda FC,Ayutthaya United,Away+Nakhon Ratchasima Mazda FC,Chiangrai United,Home+Nakhon Ratchasima Mazda FC,Buriram United,Home+Nakhon Ratchasima Mazda FC,PT Prachuap FC,Home+Nakhon Ratchasima Mazda FC,Port FC,Away+Nakhon Ratchasima Mazda FC,Ratchaburi,Away+Nakhon Ratchasima Mazda FC,Sukhothai,Away",
+        "tackles": "15/16[H]+18/16[A]+23/14[H]+12/11[H]+15/15[H]+15/12[A]+21/14[A]+16/7[A]",
+        "interceptions": "7/6[H]+5/5[A]+8/13[H]+5/8[H]+15/7[H]+7/13[A]+9/8[A]+9/5[A]",
+        "aerialDuels": "10/12[H]+8/12[A]+11/9[H]+5/13[H]+11/8[H]+4/12[A]+10/19[A]+8/13[A]",
+        "aerialDuelsAttempted": "22/22[H]+20/20[A]+20/20[H]+18/18[H]+19/19[H]+16/16[A]+29/29[A]+21/21[A]",
+        "dribbles": "3/9[H]+2/2[A]+5/6[H]+5/2[H]+4/10[H]+8/14[A]+4/11[A]+1/4[A]",
+        "dribblesAttempted": "14/19[H]+11/14[A]+13/19[H]+10/5[H]+16/16[H]+14/22[A]+6/19[A]+4/11[A]",
+        "isHome": "true+false+true+true+true+false+false+false",
+        "cornersTotals": "30/42",
+        "cornersTotalsHome": "18/18",
+        "cornersTotalsAway": "12/24",
+        "cornersAverage": "3.75/5.25",
+        "cornersAverageHome": "4.50/4.50",
+        "cornersAverageAway": "3.00/6.00",
+        "foulsTotals": "105/95",
+        "foulsTotalsHome": "58/52",
+        "foulsTotalsAway": "47/43",
+        "foulsAverage": "13.13/11.88",
+        "foulsAverageHome": "14.50/13.00",
+        "foulsAverageAway": "11.75/10.75",
+        "goalKicksTotals": "77/59",
+        "goalKicksTotalsHome": "28/35",
+        "goalKicksTotalsAway": "49/24",
+        "goalKicksAverage": "9.63/7.38",
+        "goalKicksAverageHome": "7.00/8.75",
+        "goalKicksAverageAway": "12.25/6.00",
+        "savesTotals": "34/20",
+        "savesTotalsHome": "11/7",
+        "savesTotalsAway": "23/13",
+        "savesAverage": "4.25/2.50",
+        "savesAverageHome": "2.75/1.75",
+        "savesAverageAway": "5.75/3.25",
+        "offsidesTotals": "7/11",
+        "offsidesTotalsHome": "3/8",
+        "offsidesTotalsAway": "4/3",
+        "offsidesAverage": "0.88/1.38",
+        "offsidesAverageHome": "0.75/2.00",
+        "offsidesAverageAway": "1.00/0.75",
+        "shotsOnTargetTotals": "24/45",
+        "shotsOnTargetTotalsHome": "9/17",
+        "shotsOnTargetTotalsAway": "15/28",
+        "shotsOnTargetAverage": "3.00/5.63",
+        "shotsOnTargetAverageHome": "2.25/4.25",
+        "shotsOnTargetAverageAway": "3.75/7.00",
+        "yellowCardsTotals": "15/18",
+        "yellowCardsTotalsHome": "10/9",
+        "yellowCardsTotalsAway": "5/9",
+        "yellowCardsAverage": "1.88/2.25",
+        "yellowCardsAverageHome": "2.50/2.25",
+        "yellowCardsAverageAway": "1.25/2.25",
+        "goalsTotals": "4/11",
+        "goalsTotalsHome": "2/6",
+        "goalsTotalsAway": "2/5",
+        "goalsAverage": "0.50/1.38",
+        "goalsAverageHome": "0.50/1.50",
+        "goalsAverageAway": "0.50/1.25",
+        "throwInsTotals": "164/164",
+        "throwInsTotalsHome": "92/71",
+        "throwInsTotalsAway": "72/93",
+        "throwInsAverage": "20.50/20.50",
+        "throwInsAverageHome": "23.00/17.75",
+        "throwInsAverageAway": "18.00/23.25",
+        "averageBallPossessionTotals": "338/462",
+        "averageBallPossessionTotalsHome": "178/222",
+        "averageBallPossessionTotalsAway": "160/240",
+        "averageBallPossessionAverage": "42.25/57.75",
+        "averageBallPossessionAverageHome": "44.50/55.50",
+        "averageBallPossessionAverageAway": "40.00/60.00",
+        "tacklesTotals": "135/105",
+        "tacklesTotalsHome": "65/56",
+        "tacklesTotalsAway": "70/49",
+        "tacklesAverage": "16.88/13.13",
+        "tacklesAverageHome": "16.25/14.00",
+        "tacklesAverageAway": "17.50/12.25",
+        "interceptionsTotals": "65/65",
+        "interceptionsTotalsHome": "35/34",
+        "interceptionsTotalsAway": "30/31",
+        "interceptionsAverage": "8.13/8.13",
+        "interceptionsAverageHome": "8.75/8.50",
+        "interceptionsAverageAway": "7.50/7.75",
+        "aerialDuelsTotals": "67/98",
+        "aerialDuelsTotalsHome": "37/42",
+        "aerialDuelsTotalsAway": "30/56",
+        "aerialDuelsAverage": "8.38/12.25",
+        "aerialDuelsAverageHome": "9.25/10.50",
+        "aerialDuelsAverageAway": "7.50/14.00",
+        "aerialDuelsAttemptedTotals": "165/165",
+        "aerialDuelsAttemptedTotalsHome": "79/79",
+        "aerialDuelsAttemptedTotalsAway": "86/86",
+        "aerialDuelsAttemptedAverage": "20.63/20.63",
+        "aerialDuelsAttemptedAverageHome": "19.75/19.75",
+        "aerialDuelsAttemptedAverageAway": "21.50/21.50",
+        "dribblesTotals": "32/58",
+        "dribblesTotalsHome": "17/27",
+        "dribblesTotalsAway": "15/31",
+        "dribblesAverage": "4.00/7.25",
+        "dribblesAverageHome": "4.25/6.75",
+        "dribblesAverageAway": "3.75/7.75",
+        "dribblesAttemptedTotals": "88/125",
+        "dribblesAttemptedTotalsHome": "53/59",
+        "dribblesAttemptedTotalsAway": "35/66",
+        "dribblesAttemptedAverage": "11.00/15.63",
+        "dribblesAttemptedAverageHome": "13.25/14.75",
+        "dribblesAttemptedAverageAway": "8.75/16.50"
     }
 }

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "12.00",
+        "goalKicks": "11.00",
+        "saves": "1.00",
+        "offsides": "3.00",
+        "shotsOnTarget": "5.00/1.00",
+        "yellowCards": "1.00/4.00",
+        "goals": "2.00/0.00",
+        "throwIns": "21.00",
+        "ballPossession": 40,
+        "tackles": "9.00/11.00",
+        "interceptions": "10.00/12.00",
+        "aerialDuels": "13.00",
+        "aerialDuelsAttempted": "23.00",
+        "dribbles": "10.00/4.00",
+        "dribblesAttempted": "13.00/8.00"
+    },
+    "teamSlug": "if-elfsborg",
+    "teamId": "1762",
+    "teamName": "IF Elfsborg",
+    "tournament": "Allsvenskan",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/if-elfsborg-ifk-goteborg/lKsmK#id:15385891,tab:statistics",
+            "teams": [
+                "IF Elfsborg",
+                "IFK Göteborg"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1762,
+                1761
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/if-elfsborg-hammarby-if/iKsmK#id:13241342,tab:statistics",
+            "teams": [
+                "Hammarby IF",
+                "IF Elfsborg"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                1758,
+                1762
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/aik-if-elfsborg/mKsoK#id:13241344,tab:statistics",
+            "teams": [
+                "IF Elfsborg",
+                "AIK"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                1762,
+                1764
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ik-sirius-if-elfsborg/mKsTK#id:13241336,tab:statistics",
+            "teams": [
+                "IK Sirius",
+                "IF Elfsborg"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                1793,
+                1762
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/osters-if-if-elfsborg/mKsGK#id:13241348,tab:statistics",
+            "teams": [
+                "IF Elfsborg",
+                "Östers IF"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                1762,
+                1781
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mjallby-aif-if-elfsborg/mKsIK#id:13292362,tab:statistics",
+            "teams": [
+                "Mjällby AIF",
+                "IF Elfsborg"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1783,
+                1762
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/degerfors-if-if-elfsborg/mKshL#id:13295627,tab:statistics",
+            "teams": [
+                "IF Elfsborg",
+                "Degerfors IF"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                1762,
+                1807
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gais-goteborg-if-elfsborg/mKsLK#id:13295617,tab:statistics",
+            "teams": [
+                "GAIS",
+                "IF Elfsborg"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1786,
+                1762
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/7[H]",
+            "fouls": "12/7[H]",
+            "goalKicks": "11/11[H]",
+            "saves": "1/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "5/1[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/29[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "IF Elfsborg,IFK Göteborg,Home",
+            "tackles": "9/11[H]",
+            "interceptions": "10/12[H]",
+            "aerialDuels": "13/10[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "13/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "17/10[A]",
+            "goalKicks": "12/1[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "15/12[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "IF Elfsborg,Hammarby IF,Away",
+            "tackles": "16/16[A]",
+            "interceptions": "7/5[A]",
+            "aerialDuels": "12/17[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "4/15[A]",
+            "dribblesAttempted": "12/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[H]",
+            "fouls": "12/12[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/3[H]",
+            "throwIns": "33/21[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "IF Elfsborg,AIK,Home",
+            "tackles": "20/24[H]",
+            "interceptions": "7/16[H]",
+            "aerialDuels": "12/20[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "11/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "4/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/4[A]",
+            "throwIns": "22/21[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "IF Elfsborg,IK Sirius,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "5/6[A]",
+            "aerialDuels": "6/10[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "11/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "9/14[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "3/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "5/1[H]",
+            "throwIns": "11/21[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "IF Elfsborg,Östers IF,Home",
+            "tackles": "15/12[H]",
+            "interceptions": "13/4[H]",
+            "aerialDuels": "11/21[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "6/4[H]",
+            "dribblesAttempted": "11/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/12[A]",
+            "fouls": "18/8[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "6/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "0/9[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "23/21[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "IF Elfsborg,Mjällby AIF,Away",
+            "tackles": "17/13[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "4/15[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "9/6[A]",
+            "dribblesAttempted": "18/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/2[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "3/3[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "21/21[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "IF Elfsborg,Degerfors IF,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "15/18[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "8/7[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "3/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "25/22[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "IF Elfsborg,GAIS,Away",
+            "tackles": "19/14[A]",
+            "interceptions": "9/3[A]",
+            "aerialDuels": "14/19[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "11/13[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-11T13:01:32.569Z",
+    "endTime": "2026-04-11T13:02:03.191Z",
+    "totalTimeSeconds": 30.62,
+    "combinedMatchStatistics": {
+        "corners": "6/7[H]+3/8[A]+2/1[H]+5/5[A]+7/6[H]+6/12[A]+10/2[H]+4/4[A]",
+        "fouls": "12/7[H]+17/10[A]+12/12[H]+14/10[A]+9/14[H]+18/8[A]+11/13[H]+10/14[A]",
+        "goalKicks": "11/11[H]+12/1[A]+8/4[H]+6/7[A]+7/7[H]+11/8[A]+8/10[H]+8/9[A]",
+        "saves": "1/3[H]+5/2[A]+3/2[H]+4/1[A]+3/3[H]+6/0[A]+3/3[H]+3/5[A]",
+        "offsides": "3/1[H]+1/2[A]+2/0[H]+3/1[A]+1/0[H]+0/1[A]+3/1[H]+1/0[A]",
+        "shotsOnTarget": "5/1[H]+2/8[A]+3/6[H]+1/8[A]+8/4[H]+0/9[A]+4/5[H]+5/5[A]",
+        "yellowCards": "1/4[H]+2/1[A]+1/2[H]+1/2[A]+2/1[H]+2/1[A]+2/2[H]+2/1[A]",
+        "goals": "2/0[H]+0/3[A]+0/3[H]+0/4[A]+5/1[H]+0/2[A]+1/2[H]+0/2[A]",
+        "throwIns": "21/29[H]+15/12[A]+33/21[H]+22/21[A]+11/21[H]+23/21[A]+21/21[H]+25/22[A]",
+        "averageBallPossession": "40/60[H]+39/61[A]+60/40[H]+54/46[A]+44/56[H]+46/54[A]+59/41[H]+53/47[A]",
+        "teams": "IF Elfsborg,IFK Göteborg,Home+IF Elfsborg,Hammarby IF,Away+IF Elfsborg,AIK,Home+IF Elfsborg,IK Sirius,Away+IF Elfsborg,Östers IF,Home+IF Elfsborg,Mjällby AIF,Away+IF Elfsborg,Degerfors IF,Home+IF Elfsborg,GAIS,Away",
+        "tackles": "9/11[H]+16/16[A]+20/24[H]+10/14[A]+15/12[H]+17/13[A]+17/19[H]+19/14[A]",
+        "interceptions": "10/12[H]+7/5[A]+7/16[H]+5/6[A]+13/4[H]+6/7[A]+7/8[H]+9/3[A]",
+        "aerialDuels": "13/10[H]+12/17[A]+12/20[H]+6/10[A]+11/21[H]+4/15[A]+15/18[H]+14/19[A]",
+        "aerialDuelsAttempted": "23/23[H]+29/29[A]+32/32[H]+16/16[A]+32/32[H]+19/19[A]+33/33[H]+33/33[A]",
+        "dribbles": "10/4[H]+4/15[A]+2/7[H]+6/4[A]+6/4[H]+9/6[A]+8/7[H]+5/5[A]",
+        "dribblesAttempted": "13/8[H]+12/24[A]+11/17[H]+11/10[A]+11/11[H]+18/18[A]+17/13[H]+11/13[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "43/45",
+        "cornersTotalsHome": "25/16",
+        "cornersTotalsAway": "18/29",
+        "cornersAverage": "5.38/5.63",
+        "cornersAverageHome": "6.25/4.00",
+        "cornersAverageAway": "4.50/7.25",
+        "foulsTotals": "103/88",
+        "foulsTotalsHome": "44/46",
+        "foulsTotalsAway": "59/42",
+        "foulsAverage": "12.88/11.00",
+        "foulsAverageHome": "11.00/11.50",
+        "foulsAverageAway": "14.75/10.50",
+        "goalKicksTotals": "71/57",
+        "goalKicksTotalsHome": "34/32",
+        "goalKicksTotalsAway": "37/25",
+        "goalKicksAverage": "8.88/7.13",
+        "goalKicksAverageHome": "8.50/8.00",
+        "goalKicksAverageAway": "9.25/6.25",
+        "savesTotals": "28/19",
+        "savesTotalsHome": "10/11",
+        "savesTotalsAway": "18/8",
+        "savesAverage": "3.50/2.38",
+        "savesAverageHome": "2.50/2.75",
+        "savesAverageAway": "4.50/2.00",
+        "offsidesTotals": "14/6",
+        "offsidesTotalsHome": "9/2",
+        "offsidesTotalsAway": "5/4",
+        "offsidesAverage": "1.75/0.75",
+        "offsidesAverageHome": "2.25/0.50",
+        "offsidesAverageAway": "1.25/1.00",
+        "shotsOnTargetTotals": "28/46",
+        "shotsOnTargetTotalsHome": "20/16",
+        "shotsOnTargetTotalsAway": "8/30",
+        "shotsOnTargetAverage": "3.50/5.75",
+        "shotsOnTargetAverageHome": "5.00/4.00",
+        "shotsOnTargetAverageAway": "2.00/7.50",
+        "yellowCardsTotals": "13/14",
+        "yellowCardsTotalsHome": "6/9",
+        "yellowCardsTotalsAway": "7/5",
+        "yellowCardsAverage": "1.63/1.75",
+        "yellowCardsAverageHome": "1.50/2.25",
+        "yellowCardsAverageAway": "1.75/1.25",
+        "goalsTotals": "8/17",
+        "goalsTotalsHome": "8/6",
+        "goalsTotalsAway": "0/11",
+        "goalsAverage": "1.00/2.13",
+        "goalsAverageHome": "2.00/1.50",
+        "goalsAverageAway": "0.00/2.75",
+        "throwInsTotals": "171/168",
+        "throwInsTotalsHome": "86/92",
+        "throwInsTotalsAway": "85/76",
+        "throwInsAverage": "21.38/21.00",
+        "throwInsAverageHome": "21.50/23.00",
+        "throwInsAverageAway": "21.25/19.00",
+        "averageBallPossessionTotals": "395/405",
+        "averageBallPossessionTotalsHome": "203/197",
+        "averageBallPossessionTotalsAway": "192/208",
+        "averageBallPossessionAverage": "49.38/50.63",
+        "averageBallPossessionAverageHome": "50.75/49.25",
+        "averageBallPossessionAverageAway": "48.00/52.00",
+        "tacklesTotals": "123/123",
+        "tacklesTotalsHome": "61/66",
+        "tacklesTotalsAway": "62/57",
+        "tacklesAverage": "15.38/15.38",
+        "tacklesAverageHome": "15.25/16.50",
+        "tacklesAverageAway": "15.50/14.25",
+        "interceptionsTotals": "64/61",
+        "interceptionsTotalsHome": "37/40",
+        "interceptionsTotalsAway": "27/21",
+        "interceptionsAverage": "8.00/7.63",
+        "interceptionsAverageHome": "9.25/10.00",
+        "interceptionsAverageAway": "6.75/5.25",
+        "aerialDuelsTotals": "87/130",
+        "aerialDuelsTotalsHome": "51/69",
+        "aerialDuelsTotalsAway": "36/61",
+        "aerialDuelsAverage": "10.88/16.25",
+        "aerialDuelsAverageHome": "12.75/17.25",
+        "aerialDuelsAverageAway": "9.00/15.25",
+        "aerialDuelsAttemptedTotals": "217/217",
+        "aerialDuelsAttemptedTotalsHome": "120/120",
+        "aerialDuelsAttemptedTotalsAway": "97/97",
+        "aerialDuelsAttemptedAverage": "27.13/27.13",
+        "aerialDuelsAttemptedAverageHome": "30.00/30.00",
+        "aerialDuelsAttemptedAverageAway": "24.25/24.25",
+        "dribblesTotals": "50/52",
+        "dribblesTotalsHome": "26/22",
+        "dribblesTotalsAway": "24/30",
+        "dribblesAverage": "6.25/6.50",
+        "dribblesAverageHome": "6.50/5.50",
+        "dribblesAverageAway": "6.00/7.50",
+        "dribblesAttemptedTotals": "104/114",
+        "dribblesAttemptedTotalsHome": "52/49",
+        "dribblesAttemptedTotalsAway": "52/65",
+        "dribblesAttemptedAverage": "13.00/14.25",
+        "dribblesAttemptedAverageHome": "13.00/12.25",
+        "dribblesAttemptedAverageAway": "13.00/16.25"
+    }
+}

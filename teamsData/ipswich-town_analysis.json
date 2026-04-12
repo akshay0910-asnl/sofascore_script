@@ -63,14 +63,14 @@
         "scope": "total",
         ">=8": {
           "total": {
-            "hits": 5,
+            "hits": 6,
             "totalMatches": 8,
-            "probability": 0.625
+            "probability": 0.75
           },
           "home": {
-            "hits": 3,
+            "hits": 4,
             "totalMatches": 4,
-            "probability": 0.75
+            "probability": 1
           },
           "away": {
             "hits": 2,

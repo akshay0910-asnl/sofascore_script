@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.00",
+        "fouls": "12.67",
+        "goalKicks": "6.83",
+        "saves": "3.50",
+        "offsides": "2.50",
+        "shotsOnTarget": "5.33/6.00",
+        "yellowCards": "1.83/2.00",
+        "goals": "1.50/2.50",
+        "throwIns": "18.50",
+        "ballPossession": 50.833333333333,
+        "tackles": "16.67/18.83",
+        "interceptions": "9.00/11.00",
+        "aerialDuels": "18.33",
+        "aerialDuelsAttempted": "31.67",
+        "dribbles": "7.67/7.00",
+        "dribblesAttempted": "17.83/15.00"
+    },
+    "teamSlug": "fc-cincinnati",
+    "teamId": "215167",
+    "teamName": "FC Cincinnati",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-new-york-red-bulls/gabsrdLb#id:15171456,tab:statistics",
+            "teams": [
+                "New York Red Bulls",
+                "FC Cincinnati"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                2506,
+                215167
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-cf-montreal/gPisrdLb#id:15137920,tab:statistics",
+            "teams": [
+                "FC Cincinnati",
+                "CF Montréal"
+            ],
+            "goals": [
+                4,
+                3
+            ],
+            "teamIds": [
+                215167,
+                22006
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-new-england-revolution/labsrdLb#id:15137944,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "FC Cincinnati"
+            ],
+            "goals": [
+                6,
+                1
+            ],
+            "teamIds": [
+                2511,
+                215167
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-toronto-fc/FQcsrdLb#id:15137895,tab:statistics",
+            "teams": [
+                "FC Cincinnati",
+                "Toronto FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                215167,
+                7080
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-minnesota-united/tHqsrdLb#id:15137942,tab:statistics",
+            "teams": [
+                "Minnesota United",
+                "FC Cincinnati"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                41618,
+                215167
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-fc-cincinnati/rdLbsloXb#id:15289381,tab:statistics",
+            "teams": [
+                "FC Cincinnati",
+                "Atlanta United"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                215167,
+                243211
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-miami-cf-fc-cincinnati/rdLbsccKc#id:14924705,tab:statistics",
+            "teams": [
+                "FC Cincinnati",
+                "Inter Miami CF"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                215167,
+                337602
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-columbus-crew/eabsrdLb#id:14917332,tab:statistics",
+            "teams": [
+                "Columbus Crew",
+                "FC Cincinnati"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                2504,
+                215167
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/2[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "3/4[A]",
+            "offsides": "5/1[A]",
+            "shotsOnTarget": "6/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/4[A]",
+            "throwIns": "20/11[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "FC Cincinnati,New York Red Bulls,Away",
+            "tackles": "19/18[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "11/9[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "12/9[A]",
+            "dribblesAttempted": "24/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[H]",
+            "fouls": "20/11[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "8/7[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "4/3[H]",
+            "throwIns": "19/17[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "FC Cincinnati,CF Montréal,Home",
+            "tackles": "17/17[H]",
+            "interceptions": "11/12[H]",
+            "aerialDuels": "15/11[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "2/9[H]",
+            "dribblesAttempted": "10/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/1[A]",
+            "fouls": "14/15[A]",
+            "goalKicks": "4/3[A]",
+            "saves": "3/7[A]",
+            "offsides": "1/4[A]",
+            "shotsOnTarget": "9/10[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/6[A]",
+            "throwIns": "17/8[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "FC Cincinnati,New England Revolution,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "16/8[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "10/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/7[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "21/18[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "FC Cincinnati,Toronto FC,Home",
+            "tackles": "9/24[H]",
+            "interceptions": "8/11[H]",
+            "aerialDuels": "23/14[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "19/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/5[A]",
+            "fouls": "6/9[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "18/21[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "FC Cincinnati,Minnesota United,Away",
+            "tackles": "24/21[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "29/23[A]",
+            "aerialDuelsAttempted": "52/52[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "24/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "10/18[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/0[H]",
+            "offsides": "5/7[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "16/21[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "FC Cincinnati,Atlanta United,Home",
+            "tackles": "16/21[H]",
+            "interceptions": "10/14[H]",
+            "aerialDuels": "16/15[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "13/6[H]",
+            "dribblesAttempted": "20/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "8/11[H]",
+            "goalKicks": "7/12[H]",
+            "saves": "2/5[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "0/4[H]",
+            "throwIns": "12/13[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "FC Cincinnati,Inter Miami CF,Home",
+            "tackles": "12/18[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "3/8[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "16/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "10/15[A]",
+            "goalKicks": "11/1[A]",
+            "saves": "5/0[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "0/10[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/4[A]",
+            "throwIns": "12/12[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "FC Cincinnati,Columbus Crew,Away",
+            "tackles": "10/13[A]",
+            "interceptions": "9/3[A]",
+            "aerialDuels": "11/4[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "7/13[A]",
+            "dribblesAttempted": "11/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-11T11:44:39.669Z",
+    "endTime": "2026-04-11T11:45:09.010Z",
+    "totalTimeSeconds": 29.34,
+    "combinedMatchStatistics": {
+        "corners": "6/2[A]+2/2[H]+3/1[A]+8/7[H]+12/5[A]+5/2[H]+4/2[H]+3/8[A]",
+        "fouls": "12/12[A]+20/11[H]+14/15[A]+14/11[H]+6/9[A]+10/18[H]+8/11[H]+10/15[A]",
+        "goalKicks": "8/8[A]+10/6[H]+4/3[A]+6/6[H]+8/6[A]+5/8[H]+7/12[H]+11/1[A]",
+        "saves": "3/4[A]+4/4[H]+3/7[A]+4/2[H]+4/4[A]+3/0[H]+2/5[H]+5/0[A]",
+        "offsides": "5/1[A]+1/2[H]+1/4[A]+1/0[H]+2/1[A]+5/7[H]+1/1[H]+0/4[A]",
+        "shotsOnTarget": "6/6[A]+8/7[H]+9/10[A]+2/5[H]+4/5[A]+3/3[H]+5/6[H]+0/10[A]",
+        "yellowCards": "2/2[A]+4/1[H]+2/3[A]+2/2[H]+0/2[A]+1/2[H]+0/0[H]+3/0[A]",
+        "goals": "2/4[A]+4/3[H]+1/6[A]+0/1[H]+0/1[A]+2/0[H]+0/4[H]+0/4[A]",
+        "throwIns": "20/11[A]+19/17[H]+17/8[A]+21/18[H]+18/21[A]+16/21[H]+12/13[H]+12/12[A]",
+        "averageBallPossession": "48/52[A]+46/54[H]+45/55[A]+57/43[H]+55/45[A]+54/46[H]+49/51[H]+34/66[A]",
+        "teams": "FC Cincinnati,New York Red Bulls,Away+FC Cincinnati,CF Montréal,Home+FC Cincinnati,New England Revolution,Away+FC Cincinnati,Toronto FC,Home+FC Cincinnati,Minnesota United,Away+FC Cincinnati,Atlanta United,Home+FC Cincinnati,Inter Miami CF,Home+FC Cincinnati,Columbus Crew,Away",
+        "tackles": "19/18[A]+17/17[H]+15/12[A]+9/24[H]+24/21[A]+16/21[H]+12/18[H]+10/13[A]",
+        "interceptions": "11/10[A]+11/12[H]+6/8[A]+8/11[H]+8/11[A]+10/14[H]+8/7[H]+9/3[A]",
+        "aerialDuels": "11/9[A]+15/11[H]+16/8[A]+23/14[H]+29/23[A]+16/15[H]+3/8[H]+11/4[A]",
+        "aerialDuelsAttempted": "20/20[A]+26/26[H]+24/24[A]+37/37[H]+52/52[A]+31/31[H]+11/11[H]+15/15[A]",
+        "dribbles": "12/9[A]+2/9[H]+5/7[A]+7/4[H]+7/7[A]+13/6[H]+8/5[H]+7/13[A]",
+        "dribblesAttempted": "24/18[A]+10/16[H]+10/15[A]+19/9[H]+24/18[A]+20/14[H]+16/10[H]+11/14[A]",
+        "isHome": "false+true+false+true+false+true+true+false",
+        "cornersTotals": "43/29",
+        "cornersTotalsHome": "19/13",
+        "cornersTotalsAway": "24/16",
+        "cornersAverage": "5.38/3.63",
+        "cornersAverageHome": "4.75/3.25",
+        "cornersAverageAway": "6.00/4.00",
+        "foulsTotals": "94/102",
+        "foulsTotalsHome": "52/51",
+        "foulsTotalsAway": "42/51",
+        "foulsAverage": "11.75/12.75",
+        "foulsAverageHome": "13.00/12.75",
+        "foulsAverageAway": "10.50/12.75",
+        "goalKicksTotals": "59/50",
+        "goalKicksTotalsHome": "28/32",
+        "goalKicksTotalsAway": "31/18",
+        "goalKicksAverage": "7.38/6.25",
+        "goalKicksAverageHome": "7.00/8.00",
+        "goalKicksAverageAway": "7.75/4.50",
+        "savesTotals": "28/26",
+        "savesTotalsHome": "13/11",
+        "savesTotalsAway": "15/15",
+        "savesAverage": "3.50/3.25",
+        "savesAverageHome": "3.25/2.75",
+        "savesAverageAway": "3.75/3.75",
+        "offsidesTotals": "16/20",
+        "offsidesTotalsHome": "8/10",
+        "offsidesTotalsAway": "8/10",
+        "offsidesAverage": "2.00/2.50",
+        "offsidesAverageHome": "2.00/2.50",
+        "offsidesAverageAway": "2.00/2.50",
+        "shotsOnTargetTotals": "37/52",
+        "shotsOnTargetTotalsHome": "18/21",
+        "shotsOnTargetTotalsAway": "19/31",
+        "shotsOnTargetAverage": "4.63/6.50",
+        "shotsOnTargetAverageHome": "4.50/5.25",
+        "shotsOnTargetAverageAway": "4.75/7.75",
+        "yellowCardsTotals": "14/12",
+        "yellowCardsTotalsHome": "7/5",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "1.75/1.50",
+        "yellowCardsAverageHome": "1.75/1.25",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "9/23",
+        "goalsTotalsHome": "6/8",
+        "goalsTotalsAway": "3/15",
+        "goalsAverage": "1.13/2.88",
+        "goalsAverageHome": "1.50/2.00",
+        "goalsAverageAway": "0.75/3.75",
+        "throwInsTotals": "135/121",
+        "throwInsTotalsHome": "68/69",
+        "throwInsTotalsAway": "67/52",
+        "throwInsAverage": "16.88/15.13",
+        "throwInsAverageHome": "17.00/17.25",
+        "throwInsAverageAway": "16.75/13.00",
+        "averageBallPossessionTotals": "388/412",
+        "averageBallPossessionTotalsHome": "206/194",
+        "averageBallPossessionTotalsAway": "182/218",
+        "averageBallPossessionAverage": "48.50/51.50",
+        "averageBallPossessionAverageHome": "51.50/48.50",
+        "averageBallPossessionAverageAway": "45.50/54.50",
+        "tacklesTotals": "122/144",
+        "tacklesTotalsHome": "54/80",
+        "tacklesTotalsAway": "68/64",
+        "tacklesAverage": "15.25/18.00",
+        "tacklesAverageHome": "13.50/20.00",
+        "tacklesAverageAway": "17.00/16.00",
+        "interceptionsTotals": "71/76",
+        "interceptionsTotalsHome": "37/44",
+        "interceptionsTotalsAway": "34/32",
+        "interceptionsAverage": "8.88/9.50",
+        "interceptionsAverageHome": "9.25/11.00",
+        "interceptionsAverageAway": "8.50/8.00",
+        "aerialDuelsTotals": "124/92",
+        "aerialDuelsTotalsHome": "57/48",
+        "aerialDuelsTotalsAway": "67/44",
+        "aerialDuelsAverage": "15.50/11.50",
+        "aerialDuelsAverageHome": "14.25/12.00",
+        "aerialDuelsAverageAway": "16.75/11.00",
+        "aerialDuelsAttemptedTotals": "216/216",
+        "aerialDuelsAttemptedTotalsHome": "105/105",
+        "aerialDuelsAttemptedTotalsAway": "111/111",
+        "aerialDuelsAttemptedAverage": "27.00/27.00",
+        "aerialDuelsAttemptedAverageHome": "26.25/26.25",
+        "aerialDuelsAttemptedAverageAway": "27.75/27.75",
+        "dribblesTotals": "61/60",
+        "dribblesTotalsHome": "30/24",
+        "dribblesTotalsAway": "31/36",
+        "dribblesAverage": "7.63/7.50",
+        "dribblesAverageHome": "7.50/6.00",
+        "dribblesAverageAway": "7.75/9.00",
+        "dribblesAttemptedTotals": "134/114",
+        "dribblesAttemptedTotalsHome": "65/49",
+        "dribblesAttemptedTotalsAway": "69/65",
+        "dribblesAttemptedAverage": "16.75/14.25",
+        "dribblesAttemptedAverageHome": "16.25/12.25",
+        "dribblesAttemptedAverageAway": "17.25/16.25"
+    }
+}

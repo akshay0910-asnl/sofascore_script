@@ -63,9 +63,9 @@
         "scope": "total",
         ">=8": {
           "total": {
-            "hits": 7,
+            "hits": 8,
             "totalMatches": 8,
-            "probability": 0.875
+            "probability": 1
           },
           "home": {
             "hits": 4,
@@ -73,16 +73,16 @@
             "probability": 1
           },
           "away": {
-            "hits": 3,
+            "hits": 4,
             "totalMatches": 4,
-            "probability": 0.75
+            "probability": 1
           }
         },
         "<11": {
           "total": {
-            "hits": 2,
+            "hits": 1,
             "totalMatches": 8,
-            "probability": 0.25
+            "probability": 0.125
           },
           "home": {
             "hits": 0,
@@ -90,9 +90,9 @@
             "probability": 0
           },
           "away": {
-            "hits": 2,
+            "hits": 1,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.25
           }
         }
       },
@@ -270,9 +270,9 @@
         "scope": "team",
         ">=6": {
           "total": {
-            "hits": 2,
+            "hits": 1,
             "totalMatches": 8,
-            "probability": 0.25
+            "probability": 0.125
           },
           "home": {
             "hits": 1,
@@ -280,9 +280,9 @@
             "probability": 0.25
           },
           "away": {
-            "hits": 1,
+            "hits": 0,
             "totalMatches": 4,
-            "probability": 0.25
+            "probability": 0
           }
         }
       },

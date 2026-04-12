@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.81",
+        "fouls": "12.89",
+        "goalKicks": "6.70",
+        "saves": "2.96",
+        "offsides": "1.41",
+        "shotsOnTarget": "6.00/4.19",
+        "yellowCards": "1.96/2.30",
+        "goals": "1.81/1.22",
+        "throwIns": "22.33",
+        "ballPossession": 55.925925925926,
+        "tackles": "15.19/14.78",
+        "interceptions": "8.85/8.56",
+        "aerialDuels": "21.48",
+        "aerialDuelsAttempted": "39.30",
+        "dribbles": "6.67/5.70",
+        "dribblesAttempted": "13.85/12.93"
+    },
+    "teamSlug": "viktoria-plzen",
+    "teamId": "4502",
+    "teamName": "FC Viktoria Plzeň",
+    "tournament": "Czech First League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/viktoria-plzen-fk-teplice/iUscPb#id:14036471,tab:statistics",
+            "teams": [
+                "FC Viktoria Plzeň",
+                "FK Teplice"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                4502,
+                2208
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bohemians-praha-1905-viktoria-plzen/cPbsowc#id:14036448,tab:statistics",
+            "teams": [
+                "FC Viktoria Plzeň",
+                "Bohemians Praha 1905"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                4502,
+                6064
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viktoria-plzen-fc-hradec-kralove/rUscPb#id:14036588,tab:statistics",
+            "teams": [
+                "FC Hradec Králové",
+                "FC Viktoria Plzeň"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                2217,
+                4502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viktoria-plzen-fc-zlin/vUscPb#id:14036579,tab:statistics",
+            "teams": [
+                "FC Zlín",
+                "FC Viktoria Plzeň"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                2220,
+                4502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viktoria-plzen-ac-sparta-praha/tUscPb#id:14036567,tab:statistics",
+            "teams": [
+                "FC Viktoria Plzeň",
+                "AC Sparta Praha"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                4502,
+                2218
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viktoria-plzen-sk-sigma-olomouc/hUscPb#id:14036551,tab:statistics",
+            "teams": [
+                "SK Sigma Olomouc",
+                "FC Viktoria Plzeň"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2207,
+                4502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/viktoria-plzen-fc-slovan-liberec/uUscPb#id:14036561,tab:statistics",
+            "teams": [
+                "FC Viktoria Plzeň",
+                "FC Slovan Liberec"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                4502,
+                2219
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/mfk-karvina-viktoria-plzen/cPbsbEj#id:14036544,tab:statistics",
+            "teams": [
+                "MFK Karviná",
+                "FC Viktoria Plzeň"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                23951,
+                4502
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "9/1[H]",
+            "fouls": "8/17[H]",
+            "goalKicks": "3/14[H]",
+            "saves": "1/9[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "11/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "19/21[H]",
+            "averageBallPossession": "70/30[H]",
+            "teams": "FC Viktoria Plzeň,FK Teplice,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "25/12[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "18/5[H]",
+            "dribblesAttempted": "25/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/4[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "1/10[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "11/1[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "18/15[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "FC Viktoria Plzeň,Bohemians Praha 1905,Home",
+            "tackles": "16/10[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "18/28[H]",
+            "aerialDuelsAttempted": "46/46[H]",
+            "dribbles": "8/4[H]",
+            "dribblesAttempted": "11/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[A]",
+            "fouls": "7/5[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "5/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "3/0[A]",
+            "throwIns": "27/19[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "FC Viktoria Plzeň,FC Hradec Králové,Away",
+            "tackles": "17/17[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "22/16[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "5/2[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "12/16[A]",
+            "goalKicks": "5/13[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "26/23[A]",
+            "averageBallPossession": "73/27[A]",
+            "teams": "FC Viktoria Plzeň,FC Zlín,Away",
+            "tackles": "16/18[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "18/20[A]",
+            "aerialDuelsAttempted": "38/38[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "13/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/6[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "5/6[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "23/17[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "FC Viktoria Plzeň,AC Sparta Praha,Home",
+            "tackles": "9/9[H]",
+            "interceptions": "13/6[H]",
+            "aerialDuels": "25/17[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "6/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "14/16[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "FC Viktoria Plzeň,SK Sigma Olomouc,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "25/21[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "11/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "1/3[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "15/21[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "FC Viktoria Plzeň,FC Slovan Liberec,Home",
+            "tackles": "16/12[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "20/15[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "15/5[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "16/8[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "6/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "17/15[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "FC Viktoria Plzeň,MFK Karviná,Away",
+            "tackles": "18/24[A]",
+            "interceptions": "11/17[A]",
+            "aerialDuels": "16/13[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "6/15[A]",
+            "dribblesAttempted": "16/24[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T10:41:11.200Z",
+    "endTime": "2026-04-12T10:41:37.374Z",
+    "totalTimeSeconds": 26.17,
+    "combinedMatchStatistics": {
+        "corners": "9/1[H]+8/4[H]+6/8[A]+4/3[A]+10/6[H]+5/6[A]+4/5[H]+3/4[A]",
+        "fouls": "8/17[H]+9/12[H]+7/5[A]+12/16[A]+15/13[H]+15/14[A]+11/14[H]+16/8[A]",
+        "goalKicks": "3/14[H]+7/8[H]+8/10[A]+5/13[A]+5/5[H]+6/6[A]+11/7[H]+10/5[A]",
+        "saves": "1/9[H]+1/10[H]+5/4[A]+1/4[A]+5/6[H]+1/2[A]+1/3[H]+6/3[A]",
+        "offsides": "2/0[H]+2/1[H]+2/1[A]+1/0[A]+0/0[H]+1/0[A]+2/2[H]+2/2[A]",
+        "shotsOnTarget": "11/3[H]+11/1[H]+7/5[A]+3/4[A]+7/5[H]+4/2[A]+6/2[H]+5/6[A]",
+        "yellowCards": "0/2[H]+0/3[H]+0/0[A]+0/0[A]+1/4[H]+3/4[A]+1/1[H]+3/1[A]",
+        "goals": "2/2[H]+2/0[H]+3/0[A]+0/3[A]+0/0[H]+2/1[A]+3/1[H]+2/0[A]",
+        "throwIns": "19/21[H]+18/15[H]+27/19[A]+26/23[A]+23/17[H]+14/16[A]+15/21[H]+17/15[A]",
+        "averageBallPossession": "70/30[H]+59/41[H]+51/49[A]+73/27[A]+45/55[H]+54/46[A]+61/39[H]+43/57[A]",
+        "teams": "FC Viktoria Plzeň,FK Teplice,Home+FC Viktoria Plzeň,Bohemians Praha 1905,Home+FC Viktoria Plzeň,FC Hradec Králové,Away+FC Viktoria Plzeň,FC Zlín,Away+FC Viktoria Plzeň,AC Sparta Praha,Home+FC Viktoria Plzeň,SK Sigma Olomouc,Away+FC Viktoria Plzeň,FC Slovan Liberec,Home+FC Viktoria Plzeň,MFK Karviná,Away",
+        "tackles": "13/12[H]+16/10[H]+17/17[A]+16/18[A]+9/9[H]+15/14[A]+16/12[H]+18/24[A]",
+        "interceptions": "7/6[H]+8/8[H]+8/7[A]+7/7[A]+13/6[H]+7/8[A]+5/6[H]+11/17[A]",
+        "aerialDuels": "25/12[H]+18/28[H]+22/16[A]+18/20[A]+25/17[H]+25/21[A]+20/15[H]+16/13[A]",
+        "aerialDuelsAttempted": "37/37[H]+46/46[H]+38/38[A]+38/38[A]+42/42[H]+46/46[A]+35/35[H]+29/29[A]",
+        "dribbles": "18/5[H]+8/4[H]+5/2[A]+5/5[A]+2/4[H]+6/7[A]+15/5[H]+6/15[A]",
+        "dribblesAttempted": "25/12[H]+11/10[H]+11/11[A]+13/16[A]+6/10[H]+11/12[A]+20/12[H]+16/24[A]",
+        "isHome": "true+true+false+false+true+false+true+false",
+        "cornersTotals": "49/37",
+        "cornersTotalsHome": "31/16",
+        "cornersTotalsAway": "18/21",
+        "cornersAverage": "6.13/4.63",
+        "cornersAverageHome": "7.75/4.00",
+        "cornersAverageAway": "4.50/5.25",
+        "foulsTotals": "93/99",
+        "foulsTotalsHome": "43/56",
+        "foulsTotalsAway": "50/43",
+        "foulsAverage": "11.63/12.38",
+        "foulsAverageHome": "10.75/14.00",
+        "foulsAverageAway": "12.50/10.75",
+        "goalKicksTotals": "55/68",
+        "goalKicksTotalsHome": "26/34",
+        "goalKicksTotalsAway": "29/34",
+        "goalKicksAverage": "6.88/8.50",
+        "goalKicksAverageHome": "6.50/8.50",
+        "goalKicksAverageAway": "7.25/8.50",
+        "savesTotals": "21/41",
+        "savesTotalsHome": "8/28",
+        "savesTotalsAway": "13/13",
+        "savesAverage": "2.63/5.13",
+        "savesAverageHome": "2.00/7.00",
+        "savesAverageAway": "3.25/3.25",
+        "offsidesTotals": "12/6",
+        "offsidesTotalsHome": "6/3",
+        "offsidesTotalsAway": "6/3",
+        "offsidesAverage": "1.50/0.75",
+        "offsidesAverageHome": "1.50/0.75",
+        "offsidesAverageAway": "1.50/0.75",
+        "shotsOnTargetTotals": "54/28",
+        "shotsOnTargetTotalsHome": "35/11",
+        "shotsOnTargetTotalsAway": "19/17",
+        "shotsOnTargetAverage": "6.75/3.50",
+        "shotsOnTargetAverageHome": "8.75/2.75",
+        "shotsOnTargetAverageAway": "4.75/4.25",
+        "yellowCardsTotals": "8/15",
+        "yellowCardsTotalsHome": "2/10",
+        "yellowCardsTotalsAway": "6/5",
+        "yellowCardsAverage": "1.00/1.88",
+        "yellowCardsAverageHome": "0.50/2.50",
+        "yellowCardsAverageAway": "1.50/1.25",
+        "goalsTotals": "14/7",
+        "goalsTotalsHome": "7/3",
+        "goalsTotalsAway": "7/4",
+        "goalsAverage": "1.75/0.88",
+        "goalsAverageHome": "1.75/0.75",
+        "goalsAverageAway": "1.75/1.00",
+        "throwInsTotals": "159/147",
+        "throwInsTotalsHome": "75/74",
+        "throwInsTotalsAway": "84/73",
+        "throwInsAverage": "19.88/18.38",
+        "throwInsAverageHome": "18.75/18.50",
+        "throwInsAverageAway": "21.00/18.25",
+        "averageBallPossessionTotals": "456/344",
+        "averageBallPossessionTotalsHome": "235/165",
+        "averageBallPossessionTotalsAway": "221/179",
+        "averageBallPossessionAverage": "57.00/43.00",
+        "averageBallPossessionAverageHome": "58.75/41.25",
+        "averageBallPossessionAverageAway": "55.25/44.75",
+        "tacklesTotals": "120/116",
+        "tacklesTotalsHome": "54/43",
+        "tacklesTotalsAway": "66/73",
+        "tacklesAverage": "15.00/14.50",
+        "tacklesAverageHome": "13.50/10.75",
+        "tacklesAverageAway": "16.50/18.25",
+        "interceptionsTotals": "66/65",
+        "interceptionsTotalsHome": "33/26",
+        "interceptionsTotalsAway": "33/39",
+        "interceptionsAverage": "8.25/8.13",
+        "interceptionsAverageHome": "8.25/6.50",
+        "interceptionsAverageAway": "8.25/9.75",
+        "aerialDuelsTotals": "169/142",
+        "aerialDuelsTotalsHome": "88/72",
+        "aerialDuelsTotalsAway": "81/70",
+        "aerialDuelsAverage": "21.13/17.75",
+        "aerialDuelsAverageHome": "22.00/18.00",
+        "aerialDuelsAverageAway": "20.25/17.50",
+        "aerialDuelsAttemptedTotals": "311/311",
+        "aerialDuelsAttemptedTotalsHome": "160/160",
+        "aerialDuelsAttemptedTotalsAway": "151/151",
+        "aerialDuelsAttemptedAverage": "38.88/38.88",
+        "aerialDuelsAttemptedAverageHome": "40.00/40.00",
+        "aerialDuelsAttemptedAverageAway": "37.75/37.75",
+        "dribblesTotals": "65/47",
+        "dribblesTotalsHome": "43/18",
+        "dribblesTotalsAway": "22/29",
+        "dribblesAverage": "8.13/5.88",
+        "dribblesAverageHome": "10.75/4.50",
+        "dribblesAverageAway": "5.50/7.25",
+        "dribblesAttemptedTotals": "113/107",
+        "dribblesAttemptedTotalsHome": "62/44",
+        "dribblesAttemptedTotalsAway": "51/63",
+        "dribblesAttemptedAverage": "14.13/13.38",
+        "dribblesAttemptedAverageHome": "15.50/11.00",
+        "dribblesAttemptedAverageAway": "12.75/15.75"
+    }
+}

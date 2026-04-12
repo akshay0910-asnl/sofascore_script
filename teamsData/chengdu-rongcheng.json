@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "8.00",
+        "fouls": "10.50",
+        "goalKicks": "5.25",
+        "saves": "1.25",
+        "offsides": "1.25",
+        "shotsOnTarget": "7.25/2.50",
+        "yellowCards": "1.25/1.25",
+        "goals": "3.50/1.25",
+        "throwIns": "17.50",
+        "ballPossession": 58,
+        "tackles": "17.50/14.50",
+        "interceptions": "5.75/8.00",
+        "aerialDuels": "14.50",
+        "aerialDuelsAttempted": "27.75",
+        "dribbles": "6.25/9.25",
+        "dribblesAttempted": "12.50/17.50"
+    },
+    "teamSlug": "chengdu-rongcheng",
+    "teamId": "221241",
+    "teamName": "Chengdu Rongcheng",
+    "tournament": "Chinese Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/qingdao-west-coast-chengdu-rongcheng/QzNbsHPXc#id:15551905,tab:statistics",
+            "teams": [
+                "Chengdu Rongcheng",
+                "Qingdao West Coast"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                221241,
+                369532
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chongqing-tonglianglong-fc-chengdu-rongcheng/QzNbsOZOd#id:15551902,tab:statistics",
+            "teams": [
+                "Chongqing Tonglianglong FC",
+                "Chengdu Rongcheng"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                474989,
+                221241
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chengdu-rongcheng-qingdao-hainiu/VTnsQzNb#id:15551897,tab:statistics",
+            "teams": [
+                "Chengdu Rongcheng",
+                "Qingdao Hainiu"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                221241,
+                34695
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:15551883,tab:statistics",
+            "teams": [
+                "Chengdu Rongcheng",
+                "Shenzhen Peng City"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                221241,
+                281331
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:13522677,tab:statistics",
+            "teams": [
+                "Shenzhen Peng City",
+                "Chengdu Rongcheng"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                281331,
+                221241
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chengdu-rongcheng-henan-fc-jiuzu-dukang/RTnsQzNb#id:13522663,tab:statistics",
+            "teams": [
+                "Chengdu Rongcheng",
+                "Henan FC Jiuzu Dukang"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                221241,
+                34692
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/qingdao-west-coast-chengdu-rongcheng/QzNbsHPXc#id:13522659,tab:statistics",
+            "teams": [
+                "Qingdao West Coast",
+                "Chengdu Rongcheng"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                369532,
+                221241
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chengdu-rongcheng-zhejiang/XTnsQzNb#id:13522638,tab:statistics",
+            "teams": [
+                "Zhejiang",
+                "Chengdu Rongcheng"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                34697,
+                221241
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/3[H]",
+            "fouls": "14/18[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "0/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "8/1[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "5/1[H]",
+            "throwIns": "21/23[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Chengdu Rongcheng,Qingdao West Coast,Home",
+            "tackles": "22/16[H]",
+            "interceptions": "6/5[H]",
+            "aerialDuels": "17/12[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "7/9[H]",
+            "dribblesAttempted": "12/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "3/3[A]",
+            "throwIns": "16/21[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Chengdu Rongcheng,Chongqing Tonglianglong FC,Away",
+            "tackles": "18/16[A]",
+            "interceptions": "5/3[A]",
+            "aerialDuels": "12/17[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/8[H]",
+            "fouls": "11/18[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "1/7[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "8/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "17/23[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Chengdu Rongcheng,Qingdao Hainiu,Home",
+            "tackles": "17/15[H]",
+            "interceptions": "7/14[H]",
+            "aerialDuels": "17/13[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "6/16[H]",
+            "dribblesAttempted": "15/27[H]",
+            "isHome": true
+        },
+        {
+            "corners": "14/4[H]",
+            "fouls": "7/6[H]",
+            "goalKicks": "4/19[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "5/1[H]",
+            "throwIns": "16/12[H]",
+            "averageBallPossession": "79/21[H]",
+            "teams": "Chengdu Rongcheng,Shenzhen Peng City,Home",
+            "tackles": "13/11[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "13/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/2[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "3/7[A]",
+            "saves": "1/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "14/20[A]",
+            "averageBallPossession": "71/29[A]",
+            "teams": "Chengdu Rongcheng,Shenzhen Peng City,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "4/7[A]",
+            "aerialDuels": "24/13[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "5/12[A]",
+            "dribblesAttempted": "10/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/5[H]",
+            "fouls": "20/23[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "1/6[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "1/5[H]",
+            "goals": "1/2[H]",
+            "throwIns": "23/26[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Chengdu Rongcheng,Henan FC Jiuzu Dukang,Home",
+            "tackles": "30/19[H]",
+            "interceptions": "14/8[H]",
+            "aerialDuels": "43/26[H]",
+            "aerialDuelsAttempted": "69/69[H]",
+            "dribbles": "13/8[H]",
+            "dribblesAttempted": "20/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/0[A]",
+            "fouls": "19/18[A]",
+            "goalKicks": "3/10[A]",
+            "saves": "0/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "3/5[A]",
+            "goals": "2/2[A]",
+            "throwIns": "40/12[A]",
+            "averageBallPossession": "69/31[A]",
+            "teams": "Chengdu Rongcheng,Qingdao West Coast,Away",
+            "tackles": "27/34[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "21/19[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "21/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "22/19[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "3/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "7/6[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "3/3[A]",
+            "throwIns": "6/13[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Chengdu Rongcheng,Zhejiang,Away",
+            "tackles": "19/11[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "10/13[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T10:33:47.189Z",
+    "endTime": "2026-04-12T10:34:16.100Z",
+    "totalTimeSeconds": 28.91,
+    "combinedMatchStatistics": {
+        "corners": "6/3[H]+8/7[A]+4/8[H]+14/4[H]+8/2[A]+11/5[H]+7/0[A]+4/4[A]",
+        "fouls": "14/18[H]+10/14[A]+11/18[H]+7/6[H]+11/12[A]+20/23[H]+19/18[A]+22/19[A]",
+        "goalKicks": "5/6[H]+4/6[A]+8/7[H]+4/19[H]+3/7[A]+4/9[H]+3/10[A]+7/7[A]",
+        "saves": "0/3[H]+2/2[A]+1/7[H]+2/3[H]+1/6[A]+1/6[H]+0/4[A]+3/3[A]",
+        "offsides": "1/1[H]+3/1[A]+1/0[H]+0/0[H]+0/1[A]+2/2[H]+1/2[A]+2/2[A]",
+        "shotsOnTarget": "8/1[H]+5/5[A]+8/1[H]+8/3[H]+7/2[A]+7/3[H]+6/2[A]+7/6[A]",
+        "yellowCards": "1/2[H]+2/2[A]+1/1[H]+1/0[H]+2/2[A]+1/5[H]+3/5[A]+4/2[A]",
+        "goals": "5/1[H]+3/3[A]+1/0[H]+5/1[H]+1/1[A]+1/2[H]+2/2[A]+3/3[A]",
+        "throwIns": "21/23[H]+16/21[A]+17/23[H]+16/12[H]+14/20[A]+23/26[H]+40/12[A]+6/13[A]",
+        "averageBallPossession": "52/48[H]+41/59[A]+60/40[H]+79/21[H]+71/29[A]+57/43[H]+69/31[A]+40/60[A]",
+        "teams": "Chengdu Rongcheng,Qingdao West Coast,Home+Chengdu Rongcheng,Chongqing Tonglianglong FC,Away+Chengdu Rongcheng,Qingdao Hainiu,Home+Chengdu Rongcheng,Shenzhen Peng City,Home+Chengdu Rongcheng,Shenzhen Peng City,Away+Chengdu Rongcheng,Henan FC Jiuzu Dukang,Home+Chengdu Rongcheng,Qingdao West Coast,Away+Chengdu Rongcheng,Zhejiang,Away",
+        "tackles": "22/16[H]+18/16[A]+17/15[H]+13/11[H]+10/12[A]+30/19[H]+27/34[A]+19/11[A]",
+        "interceptions": "6/5[H]+5/3[A]+7/14[H]+5/10[H]+4/7[A]+14/8[H]+8/10[A]+4/6[A]",
+        "aerialDuels": "17/12[H]+12/17[A]+17/13[H]+12/11[H]+24/13[A]+43/26[H]+21/19[A]+10/13[A]",
+        "aerialDuelsAttempted": "29/29[H]+29/29[A]+30/30[H]+23/23[H]+37/37[A]+69/69[H]+40/40[A]+23/23[A]",
+        "dribbles": "7/9[H]+5/4[A]+6/16[H]+7/8[H]+5/12[A]+13/8[H]+5/6[A]+7/6[A]",
+        "dribblesAttempted": "12/20[H]+10/10[A]+15/27[H]+13/13[H]+10/19[A]+20/21[H]+21/14[A]+11/11[A]",
+        "isHome": "true+false+true+true+false+true+false+false",
+        "cornersTotals": "62/33",
+        "cornersTotalsHome": "35/20",
+        "cornersTotalsAway": "27/13",
+        "cornersAverage": "7.75/4.13",
+        "cornersAverageHome": "8.75/5.00",
+        "cornersAverageAway": "6.75/3.25",
+        "foulsTotals": "114/128",
+        "foulsTotalsHome": "52/65",
+        "foulsTotalsAway": "62/63",
+        "foulsAverage": "14.25/16.00",
+        "foulsAverageHome": "13.00/16.25",
+        "foulsAverageAway": "15.50/15.75",
+        "goalKicksTotals": "38/71",
+        "goalKicksTotalsHome": "21/41",
+        "goalKicksTotalsAway": "17/30",
+        "goalKicksAverage": "4.75/8.88",
+        "goalKicksAverageHome": "5.25/10.25",
+        "goalKicksAverageAway": "4.25/7.50",
+        "savesTotals": "10/34",
+        "savesTotalsHome": "4/19",
+        "savesTotalsAway": "6/15",
+        "savesAverage": "1.25/4.25",
+        "savesAverageHome": "1.00/4.75",
+        "savesAverageAway": "1.50/3.75",
+        "offsidesTotals": "10/9",
+        "offsidesTotalsHome": "4/3",
+        "offsidesTotalsAway": "6/6",
+        "offsidesAverage": "1.25/1.13",
+        "offsidesAverageHome": "1.00/0.75",
+        "offsidesAverageAway": "1.50/1.50",
+        "shotsOnTargetTotals": "56/23",
+        "shotsOnTargetTotalsHome": "31/8",
+        "shotsOnTargetTotalsAway": "25/15",
+        "shotsOnTargetAverage": "7.00/2.88",
+        "shotsOnTargetAverageHome": "7.75/2.00",
+        "shotsOnTargetAverageAway": "6.25/3.75",
+        "yellowCardsTotals": "15/19",
+        "yellowCardsTotalsHome": "4/8",
+        "yellowCardsTotalsAway": "11/11",
+        "yellowCardsAverage": "1.88/2.38",
+        "yellowCardsAverageHome": "1.00/2.00",
+        "yellowCardsAverageAway": "2.75/2.75",
+        "goalsTotals": "21/13",
+        "goalsTotalsHome": "12/4",
+        "goalsTotalsAway": "9/9",
+        "goalsAverage": "2.63/1.63",
+        "goalsAverageHome": "3.00/1.00",
+        "goalsAverageAway": "2.25/2.25",
+        "throwInsTotals": "153/150",
+        "throwInsTotalsHome": "77/84",
+        "throwInsTotalsAway": "76/66",
+        "throwInsAverage": "19.13/18.75",
+        "throwInsAverageHome": "19.25/21.00",
+        "throwInsAverageAway": "19.00/16.50",
+        "averageBallPossessionTotals": "469/331",
+        "averageBallPossessionTotalsHome": "248/152",
+        "averageBallPossessionTotalsAway": "221/179",
+        "averageBallPossessionAverage": "58.63/41.38",
+        "averageBallPossessionAverageHome": "62.00/38.00",
+        "averageBallPossessionAverageAway": "55.25/44.75",
+        "tacklesTotals": "156/134",
+        "tacklesTotalsHome": "82/61",
+        "tacklesTotalsAway": "74/73",
+        "tacklesAverage": "19.50/16.75",
+        "tacklesAverageHome": "20.50/15.25",
+        "tacklesAverageAway": "18.50/18.25",
+        "interceptionsTotals": "53/63",
+        "interceptionsTotalsHome": "32/37",
+        "interceptionsTotalsAway": "21/26",
+        "interceptionsAverage": "6.63/7.88",
+        "interceptionsAverageHome": "8.00/9.25",
+        "interceptionsAverageAway": "5.25/6.50",
+        "aerialDuelsTotals": "156/124",
+        "aerialDuelsTotalsHome": "89/62",
+        "aerialDuelsTotalsAway": "67/62",
+        "aerialDuelsAverage": "19.50/15.50",
+        "aerialDuelsAverageHome": "22.25/15.50",
+        "aerialDuelsAverageAway": "16.75/15.50",
+        "aerialDuelsAttemptedTotals": "280/280",
+        "aerialDuelsAttemptedTotalsHome": "151/151",
+        "aerialDuelsAttemptedTotalsAway": "129/129",
+        "aerialDuelsAttemptedAverage": "35.00/35.00",
+        "aerialDuelsAttemptedAverageHome": "37.75/37.75",
+        "aerialDuelsAttemptedAverageAway": "32.25/32.25",
+        "dribblesTotals": "55/69",
+        "dribblesTotalsHome": "33/41",
+        "dribblesTotalsAway": "22/28",
+        "dribblesAverage": "6.88/8.63",
+        "dribblesAverageHome": "8.25/10.25",
+        "dribblesAverageAway": "5.50/7.00",
+        "dribblesAttemptedTotals": "112/135",
+        "dribblesAttemptedTotalsHome": "60/81",
+        "dribblesAttemptedTotalsAway": "52/54",
+        "dribblesAttemptedAverage": "14.00/16.88",
+        "dribblesAttemptedAverageHome": "15.00/20.25",
+        "dribblesAttemptedAverageAway": "13.00/13.50"
+    }
+}

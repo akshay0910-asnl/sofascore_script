@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "13.00",
+        "goalKicks": "10.25",
+        "saves": "3.00",
+        "offsides": "1.00",
+        "shotsOnTarget": "4.75/5.00",
+        "yellowCards": "2.00/2.00",
+        "goals": "1.75/2.00",
+        "throwIns": "18.50",
+        "ballPossession": 41.5,
+        "tackles": "15.25/16.00",
+        "interceptions": "8.75/5.75",
+        "aerialDuels": "16.75",
+        "aerialDuelsAttempted": "34.50",
+        "dribbles": "8.50/5.25",
+        "dribblesAttempted": "16.25/14.00"
+    },
+    "teamSlug": "shenzhen-city",
+    "teamId": "281331",
+    "teamName": "Shenzhen Peng City",
+    "tournament": "Chinese Super League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/wuhan-three-towns-shenzhen-peng-city/GBmcscdtc#id:15552482,tab:statistics",
+            "teams": [
+                "Shenzhen Peng City",
+                "Wuhan Three Towns"
+            ],
+            "goals": [
+                5,
+                2
+            ],
+            "teamIds": [
+                281331,
+                295152
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/qingdao-west-coast-shenzhen-peng-city/GBmcsHPXc#id:15551903,tab:statistics",
+            "teams": [
+                "Qingdao West Coast",
+                "Shenzhen Peng City"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                369532,
+                281331
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-tianjin-jinmen-tiger/rrbsGBmc#id:15551894,tab:statistics",
+            "teams": [
+                "Shenzhen Peng City",
+                "Tianjin Jinmen Tiger"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                281331,
+                3367
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:15551883,tab:statistics",
+            "teams": [
+                "Chengdu Rongcheng",
+                "Shenzhen Peng City"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                221241,
+                281331
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:13522677,tab:statistics",
+            "teams": [
+                "Shenzhen Peng City",
+                "Chengdu Rongcheng"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                281331,
+                221241
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-shenhua/yrbsGBmc#id:13522664,tab:statistics",
+            "teams": [
+                "Shanghai Shenhua",
+                "Shenzhen Peng City"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3373,
+                281331
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/wuhan-three-towns-shenzhen-peng-city/GBmcscdtc#id:13522657,tab:statistics",
+            "teams": [
+                "Wuhan Three Towns",
+                "Shenzhen Peng City"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                295152,
+                281331
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-beijing-guoan/BrbsGBmc#id:13522649,tab:statistics",
+            "teams": [
+                "Shenzhen Peng City",
+                "Beijing Guoan"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                281331,
+                3376
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/6[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "7/4[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "5/2[H]",
+            "throwIns": "14/24[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Shenzhen Peng City,Wuhan Three Towns,Home",
+            "tackles": "21/22[H]",
+            "interceptions": "7/8[H]",
+            "aerialDuels": "13/13[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "22/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/8[A]",
+            "fouls": "21/12[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "22/23[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Shenzhen Peng City,Qingdao West Coast,Away",
+            "tackles": "14/14[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "16/19[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/4[A]",
+            "dribblesAttempted": "11/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "15/8[H]",
+            "goalKicks": "7/11[H]",
+            "saves": "3/4[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "26/24[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Shenzhen Peng City,Tianjin Jinmen Tiger,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "8/4[H]",
+            "aerialDuels": "27/27[H]",
+            "aerialDuelsAttempted": "54/54[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "19/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/14[A]",
+            "fouls": "6/7[A]",
+            "goalKicks": "19/4[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "3/8[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/5[A]",
+            "throwIns": "12/16[A]",
+            "averageBallPossession": "21/79[A]",
+            "teams": "Shenzhen Peng City,Chengdu Rongcheng,Away",
+            "tackles": "11/13[A]",
+            "interceptions": "10/5[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "13/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/8[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "7/3[H]",
+            "saves": "6/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/14[H]",
+            "averageBallPossession": "29/71[H]",
+            "teams": "Shenzhen Peng City,Chengdu Rongcheng,Home",
+            "tackles": "12/10[H]",
+            "interceptions": "7/4[H]",
+            "aerialDuels": "13/24[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "12/5[H]",
+            "dribblesAttempted": "19/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "10/1[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/21[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Shenzhen Peng City,Shanghai Shenhua,Away",
+            "tackles": "16/12[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "33/17[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "4/12[A]",
+            "dribblesAttempted": "11/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "9/3[A]",
+            "saves": "0/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/0[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "18/24[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Shenzhen Peng City,Wuhan Three Towns,Away",
+            "tackles": "19/9[A]",
+            "interceptions": "9/2[A]",
+            "aerialDuels": "19/18[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "3/10[A]",
+            "dribblesAttempted": "8/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/14[H]",
+            "fouls": "11/7[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/10[H]",
+            "averageBallPossession": "26/74[H]",
+            "teams": "Shenzhen Peng City,Beijing Guoan,Home",
+            "tackles": "10/10[H]",
+            "interceptions": "5/2[H]",
+            "aerialDuels": "21/20[H]",
+            "aerialDuelsAttempted": "41/41[H]",
+            "dribbles": "2/14[H]",
+            "dribblesAttempted": "7/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-04-12T10:34:17.908Z",
+    "endTime": "2026-04-12T10:34:42.800Z",
+    "totalTimeSeconds": 24.89,
+    "combinedMatchStatistics": {
+        "corners": "4/6[H]+6/8[A]+4/5[H]+4/14[A]+2/8[H]+3/9[A]+1/6[A]+5/14[H]",
+        "fouls": "10/16[H]+21/12[A]+15/8[H]+6/7[A]+12/11[H]+13/12[A]+11/14[A]+11/7[H]",
+        "goalKicks": "6/13[H]+9/6[A]+7/11[H]+19/4[A]+7/3[H]+10/1[A]+9/3[A]+8/4[H]",
+        "saves": "2/2[H]+4/4[A]+3/4[H]+3/2[A]+6/1[H]+3/2[A]+0/3[A]+4/1[H]",
+        "offsides": "2/0[H]+0/3[A]+2/2[H]+0/0[A]+1/0[H]+2/1[A]+0/1[A]+1/4[H]",
+        "shotsOnTarget": "7/4[H]+4/5[A]+5/3[H]+3/8[A]+2/7[H]+2/4[A]+5/0[A]+3/5[H]",
+        "yellowCards": "2/4[H]+3/2[A]+3/2[H]+0/1[A]+2/2[H]+2/1[A]+1/3[A]+2/0[H]",
+        "goals": "5/2[H]+0/1[A]+1/0[H]+1/5[A]+1/1[H]+0/1[A]+2/1[A]+2/1[H]",
+        "throwIns": "14/24[H]+22/23[A]+26/24[H]+12/16[A]+20/14[H]+21/21[A]+18/24[A]+15/10[H]",
+        "averageBallPossession": "45/55[H]+52/48[A]+48/52[H]+21/79[A]+29/71[H]+38/62[A]+36/64[A]+26/74[H]",
+        "teams": "Shenzhen Peng City,Wuhan Three Towns,Home+Shenzhen Peng City,Qingdao West Coast,Away+Shenzhen Peng City,Tianjin Jinmen Tiger,Home+Shenzhen Peng City,Chengdu Rongcheng,Away+Shenzhen Peng City,Chengdu Rongcheng,Home+Shenzhen Peng City,Shanghai Shenhua,Away+Shenzhen Peng City,Wuhan Three Towns,Away+Shenzhen Peng City,Beijing Guoan,Home",
+        "tackles": "21/22[H]+14/14[A]+15/15[H]+11/13[A]+12/10[H]+16/12[A]+19/9[A]+10/10[H]",
+        "interceptions": "7/8[H]+10/6[A]+8/4[H]+10/5[A]+7/4[H]+12/5[A]+9/2[A]+5/2[H]",
+        "aerialDuels": "13/13[H]+16/19[A]+27/27[H]+11/12[A]+13/24[H]+33/17[A]+19/18[A]+21/20[H]",
+        "aerialDuelsAttempted": "26/26[H]+35/35[A]+54/54[H]+23/23[A]+37/37[H]+50/50[A]+37/37[A]+41/41[H]",
+        "dribbles": "9/6[H]+8/4[A]+9/4[H]+8/7[A]+12/5[H]+4/12[A]+3/10[A]+2/14[H]",
+        "dribblesAttempted": "22/21[H]+11/9[A]+19/13[H]+13/13[A]+19/10[H]+11/17[A]+8/18[A]+7/18[H]",
+        "isHome": "true+false+true+false+true+false+false+true",
+        "cornersTotals": "29/70",
+        "cornersTotalsHome": "15/33",
+        "cornersTotalsAway": "14/37",
+        "cornersAverage": "3.63/8.75",
+        "cornersAverageHome": "3.75/8.25",
+        "cornersAverageAway": "3.50/9.25",
+        "foulsTotals": "99/87",
+        "foulsTotalsHome": "48/42",
+        "foulsTotalsAway": "51/45",
+        "foulsAverage": "12.38/10.88",
+        "foulsAverageHome": "12.00/10.50",
+        "foulsAverageAway": "12.75/11.25",
+        "goalKicksTotals": "75/45",
+        "goalKicksTotalsHome": "28/31",
+        "goalKicksTotalsAway": "47/14",
+        "goalKicksAverage": "9.38/5.63",
+        "goalKicksAverageHome": "7.00/7.75",
+        "goalKicksAverageAway": "11.75/3.50",
+        "savesTotals": "25/19",
+        "savesTotalsHome": "15/8",
+        "savesTotalsAway": "10/11",
+        "savesAverage": "3.13/2.38",
+        "savesAverageHome": "3.75/2.00",
+        "savesAverageAway": "2.50/2.75",
+        "offsidesTotals": "8/11",
+        "offsidesTotalsHome": "6/6",
+        "offsidesTotalsAway": "2/5",
+        "offsidesAverage": "1.00/1.38",
+        "offsidesAverageHome": "1.50/1.50",
+        "offsidesAverageAway": "0.50/1.25",
+        "shotsOnTargetTotals": "31/36",
+        "shotsOnTargetTotalsHome": "17/19",
+        "shotsOnTargetTotalsAway": "14/17",
+        "shotsOnTargetAverage": "3.88/4.50",
+        "shotsOnTargetAverageHome": "4.25/4.75",
+        "shotsOnTargetAverageAway": "3.50/4.25",
+        "yellowCardsTotals": "15/15",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "6/7",
+        "yellowCardsAverage": "1.88/1.88",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "1.50/1.75",
+        "goalsTotals": "12/12",
+        "goalsTotalsHome": "9/4",
+        "goalsTotalsAway": "3/8",
+        "goalsAverage": "1.50/1.50",
+        "goalsAverageHome": "2.25/1.00",
+        "goalsAverageAway": "0.75/2.00",
+        "throwInsTotals": "148/156",
+        "throwInsTotalsHome": "75/72",
+        "throwInsTotalsAway": "73/84",
+        "throwInsAverage": "18.50/19.50",
+        "throwInsAverageHome": "18.75/18.00",
+        "throwInsAverageAway": "18.25/21.00",
+        "averageBallPossessionTotals": "295/505",
+        "averageBallPossessionTotalsHome": "148/252",
+        "averageBallPossessionTotalsAway": "147/253",
+        "averageBallPossessionAverage": "36.88/63.13",
+        "averageBallPossessionAverageHome": "37.00/63.00",
+        "averageBallPossessionAverageAway": "36.75/63.25",
+        "tacklesTotals": "118/105",
+        "tacklesTotalsHome": "58/57",
+        "tacklesTotalsAway": "60/48",
+        "tacklesAverage": "14.75/13.13",
+        "tacklesAverageHome": "14.50/14.25",
+        "tacklesAverageAway": "15.00/12.00",
+        "interceptionsTotals": "68/36",
+        "interceptionsTotalsHome": "27/18",
+        "interceptionsTotalsAway": "41/18",
+        "interceptionsAverage": "8.50/4.50",
+        "interceptionsAverageHome": "6.75/4.50",
+        "interceptionsAverageAway": "10.25/4.50",
+        "aerialDuelsTotals": "153/150",
+        "aerialDuelsTotalsHome": "74/84",
+        "aerialDuelsTotalsAway": "79/66",
+        "aerialDuelsAverage": "19.13/18.75",
+        "aerialDuelsAverageHome": "18.50/21.00",
+        "aerialDuelsAverageAway": "19.75/16.50",
+        "aerialDuelsAttemptedTotals": "303/303",
+        "aerialDuelsAttemptedTotalsHome": "158/158",
+        "aerialDuelsAttemptedTotalsAway": "145/145",
+        "aerialDuelsAttemptedAverage": "37.88/37.88",
+        "aerialDuelsAttemptedAverageHome": "39.50/39.50",
+        "aerialDuelsAttemptedAverageAway": "36.25/36.25",
+        "dribblesTotals": "55/62",
+        "dribblesTotalsHome": "32/29",
+        "dribblesTotalsAway": "23/33",
+        "dribblesAverage": "6.88/7.75",
+        "dribblesAverageHome": "8.00/7.25",
+        "dribblesAverageAway": "5.75/8.25",
+        "dribblesAttemptedTotals": "110/119",
+        "dribblesAttemptedTotalsHome": "67/62",
+        "dribblesAttemptedTotalsAway": "43/57",
+        "dribblesAttemptedAverage": "13.75/14.88",
+        "dribblesAttemptedAverageHome": "16.75/15.50",
+        "dribblesAttemptedAverageAway": "10.75/14.25"
+    }
+}

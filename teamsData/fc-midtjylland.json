@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.44",
+        "fouls": "12.24",
+        "goalKicks": "6.92",
+        "saves": "2.88",
+        "offsides": "2.12",
+        "shotsOnTarget": "6.04/3.96",
+        "yellowCards": "2.04/2.08",
+        "goals": "2.44/1.08",
+        "throwIns": "20.20",
+        "ballPossession": 54.64,
+        "tackles": "17.28/19.80",
+        "interceptions": "9.28/7.76",
+        "aerialDuels": "16.84",
+        "aerialDuelsAttempted": "31.72",
+        "dribbles": "9.36/6.48",
+        "dribblesAttempted": "19.76/13.92"
+    },
+    "teamSlug": "fc-midtjylland",
+    "teamId": "1289",
+    "teamName": "FC Midtjylland",
+    "tournament": "Danish Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/sonderjyske-fodbold-fc-midtjylland/OAsVA#id:15676226,tab:statistics",
+            "teams": [
+                "FC Midtjylland",
+                "Sønderjyske Fodbold"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                1289,
+                1295
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-midtjylland-viborg-ff/NAsOA#id:15676224,tab:statistics",
+            "teams": [
+                "Viborg FF",
+                "FC Midtjylland"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1288,
+                1289
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-nordsjaelland-fc-midtjylland/OAsRA#id:15676221,tab:statistics",
+            "teams": [
+                "FC Midtjylland",
+                "FC Nordsjælland"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                1289,
+                1292
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-midtjylland-brondby-if/GAsOA#id:13984686,tab:statistics",
+            "teams": [
+                "FC Midtjylland",
+                "Brøndby IF"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1289,
+                1281
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-midtjylland-silkeborg-if/KAsOA#id:13984682,tab:statistics",
+            "teams": [
+                "Silkeborg IF",
+                "FC Midtjylland"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                1285,
+                1289
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-midtjylland-odense-bk/LAsOA#id:13984671,tab:statistics",
+            "teams": [
+                "Odense Boldklub",
+                "FC Midtjylland"
+            ],
+            "goals": [
+                1,
+                4
+            ],
+            "teamIds": [
+                1286,
+                1289
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-midtjylland-fc-kobenhavn/JAsOA#id:13984668,tab:statistics",
+            "teams": [
+                "FC Midtjylland",
+                "FC København"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1289,
+                1284
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-midtjylland-viborg-ff/NAsOA#id:13984660,tab:statistics",
+            "teams": [
+                "Viborg FF",
+                "FC Midtjylland"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                1288,
+                1289
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "9/5[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "5/14[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "16/15[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "FC Midtjylland,Sønderjyske Fodbold,Home",
+            "tackles": "12/18[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "16/28[H]",
+            "aerialDuelsAttempted": "44/44[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "20/13[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/6[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/24[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "FC Midtjylland,Viborg FF,Away",
+            "tackles": "27/27[A]",
+            "interceptions": "9/3[A]",
+            "aerialDuels": "37/30[A]",
+            "aerialDuelsAttempted": "67/67[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "20/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "0/1[H]",
+            "throwIns": "30/12[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "FC Midtjylland,FC Nordsjælland,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "21/22[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "8/9[H]",
+            "dribblesAttempted": "14/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "16/20[H]",
+            "goalKicks": "6/11[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "0/0[H]",
+            "throwIns": "21/18[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "FC Midtjylland,Brøndby IF,Home",
+            "tackles": "12/19[H]",
+            "interceptions": "4/4[H]",
+            "aerialDuels": "22/18[H]",
+            "aerialDuelsAttempted": "40/40[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "18/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "11/8[A]",
+            "goalKicks": "6/11[A]",
+            "saves": "1/5[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "9/1[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "4/0[A]",
+            "throwIns": "13/11[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "FC Midtjylland,Silkeborg IF,Away",
+            "tackles": "18/9[A]",
+            "interceptions": "8/3[A]",
+            "aerialDuels": "6/9[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "6/2[A]",
+            "dribblesAttempted": "11/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "5/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "10/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "4/1[A]",
+            "throwIns": "20/17[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "FC Midtjylland,Odense Boldklub,Away",
+            "tackles": "25/24[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "10/16[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "19/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "18/19[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "2/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "11/29[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "FC Midtjylland,FC København,Home",
+            "tackles": "9/26[H]",
+            "interceptions": "16/10[H]",
+            "aerialDuels": "32/21[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "12/4[H]",
+            "dribblesAttempted": "26/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/2[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "0/2[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "3/3[A]",
+            "throwIns": "22/13[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "FC Midtjylland,Viborg FF,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "27/24[A]",
+            "aerialDuelsAttempted": "51/51[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "15/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-04-12T10:47:33.897Z",
+    "endTime": "2026-04-12T10:48:19.343Z",
+    "totalTimeSeconds": 45.45,
+    "combinedMatchStatistics": {
+        "corners": "9/5[H]+6/5[A]+5/2[H]+6/2[H]+6/6[A]+6/4[A]+4/7[H]+9/2[A]",
+        "fouls": "15/15[H]+20/13[A]+13/13[H]+16/20[H]+11/8[A]+10/10[A]+18/19[H]+14/16[A]",
+        "goalKicks": "5/14[H]+4/10[A]+11/7[H]+6/11[H]+6/11[A]+6/5[A]+9/5[H]+6/10[A]",
+        "saves": "2/3[H]+1/3[A]+2/4[H]+4/4[H]+1/5[A]+5/5[A]+2/2[H]+0/2[A]",
+        "offsides": "3/3[H]+1/6[A]+1/3[H]+1/1[H]+3/1[A]+1/0[A]+3/0[H]+2/4[A]",
+        "shotsOnTarget": "4/4[H]+4/2[A]+4/3[H]+4/4[H]+9/1[A]+10/6[A]+4/3[H]+5/3[A]",
+        "yellowCards": "2/3[H]+2/2[A]+4/3[H]+2/5[H]+1/3[A]+2/2[A]+0/2[H]+4/2[A]",
+        "goals": "2/2[H]+1/1[A]+0/1[H]+0/0[H]+4/0[A]+4/1[A]+2/1[H]+3/3[A]",
+        "throwIns": "16/15[H]+24/24[A]+30/12[H]+21/18[H]+13/11[A]+20/17[A]+11/29[H]+22/13[A]",
+        "averageBallPossession": "55/45[H]+51/49[A]+60/40[H]+66/34[H]+60/40[A]+54/46[A]+57/43[H]+61/39[A]",
+        "teams": "FC Midtjylland,Sønderjyske Fodbold,Home+FC Midtjylland,Viborg FF,Away+FC Midtjylland,FC Nordsjælland,Home+FC Midtjylland,Brøndby IF,Home+FC Midtjylland,Silkeborg IF,Away+FC Midtjylland,Odense Boldklub,Away+FC Midtjylland,FC København,Home+FC Midtjylland,Viborg FF,Away",
+        "tackles": "12/18[H]+27/27[A]+16/16[H]+12/19[H]+18/9[A]+25/24[A]+9/26[H]+12/14[A]",
+        "interceptions": "8/8[H]+9/3[A]+11/9[H]+4/4[H]+8/3[A]+13/7[A]+16/10[H]+9/8[A]",
+        "aerialDuels": "16/28[H]+37/30[A]+21/22[H]+22/18[H]+6/9[A]+10/16[A]+32/21[H]+27/24[A]",
+        "aerialDuelsAttempted": "44/44[H]+67/67[A]+43/43[H]+40/40[H]+15/15[A]+26/26[A]+53/53[H]+51/51[A]",
+        "dribbles": "5/5[H]+7/9[A]+8/9[H]+5/7[H]+6/2[A]+8/5[A]+12/4[H]+5/5[A]",
+        "dribblesAttempted": "11/12[H]+20/16[A]+14/14[H]+18/14[H]+11/10[A]+19/13[A]+26/9[H]+15/11[A]",
+        "isHome": "true+false+true+true+false+false+true+false",
+        "cornersTotals": "51/33",
+        "cornersTotalsHome": "24/16",
+        "cornersTotalsAway": "27/17",
+        "cornersAverage": "6.38/4.13",
+        "cornersAverageHome": "6.00/4.00",
+        "cornersAverageAway": "6.75/4.25",
+        "foulsTotals": "117/114",
+        "foulsTotalsHome": "62/67",
+        "foulsTotalsAway": "55/47",
+        "foulsAverage": "14.63/14.25",
+        "foulsAverageHome": "15.50/16.75",
+        "foulsAverageAway": "13.75/11.75",
+        "goalKicksTotals": "53/73",
+        "goalKicksTotalsHome": "31/37",
+        "goalKicksTotalsAway": "22/36",
+        "goalKicksAverage": "6.63/9.13",
+        "goalKicksAverageHome": "7.75/9.25",
+        "goalKicksAverageAway": "5.50/9.00",
+        "savesTotals": "17/28",
+        "savesTotalsHome": "10/13",
+        "savesTotalsAway": "7/15",
+        "savesAverage": "2.13/3.50",
+        "savesAverageHome": "2.50/3.25",
+        "savesAverageAway": "1.75/3.75",
+        "offsidesTotals": "15/18",
+        "offsidesTotalsHome": "8/7",
+        "offsidesTotalsAway": "7/11",
+        "offsidesAverage": "1.88/2.25",
+        "offsidesAverageHome": "2.00/1.75",
+        "offsidesAverageAway": "1.75/2.75",
+        "shotsOnTargetTotals": "44/26",
+        "shotsOnTargetTotalsHome": "16/14",
+        "shotsOnTargetTotalsAway": "28/12",
+        "shotsOnTargetAverage": "5.50/3.25",
+        "shotsOnTargetAverageHome": "4.00/3.50",
+        "shotsOnTargetAverageAway": "7.00/3.00",
+        "yellowCardsTotals": "17/22",
+        "yellowCardsTotalsHome": "8/13",
+        "yellowCardsTotalsAway": "9/9",
+        "yellowCardsAverage": "2.13/2.75",
+        "yellowCardsAverageHome": "2.00/3.25",
+        "yellowCardsAverageAway": "2.25/2.25",
+        "goalsTotals": "16/9",
+        "goalsTotalsHome": "4/4",
+        "goalsTotalsAway": "12/5",
+        "goalsAverage": "2.00/1.13",
+        "goalsAverageHome": "1.00/1.00",
+        "goalsAverageAway": "3.00/1.25",
+        "throwInsTotals": "157/139",
+        "throwInsTotalsHome": "78/74",
+        "throwInsTotalsAway": "79/65",
+        "throwInsAverage": "19.63/17.38",
+        "throwInsAverageHome": "19.50/18.50",
+        "throwInsAverageAway": "19.75/16.25",
+        "averageBallPossessionTotals": "464/336",
+        "averageBallPossessionTotalsHome": "238/162",
+        "averageBallPossessionTotalsAway": "226/174",
+        "averageBallPossessionAverage": "58.00/42.00",
+        "averageBallPossessionAverageHome": "59.50/40.50",
+        "averageBallPossessionAverageAway": "56.50/43.50",
+        "tacklesTotals": "131/153",
+        "tacklesTotalsHome": "49/79",
+        "tacklesTotalsAway": "82/74",
+        "tacklesAverage": "16.38/19.13",
+        "tacklesAverageHome": "12.25/19.75",
+        "tacklesAverageAway": "20.50/18.50",
+        "interceptionsTotals": "78/52",
+        "interceptionsTotalsHome": "39/31",
+        "interceptionsTotalsAway": "39/21",
+        "interceptionsAverage": "9.75/6.50",
+        "interceptionsAverageHome": "9.75/7.75",
+        "interceptionsAverageAway": "9.75/5.25",
+        "aerialDuelsTotals": "171/168",
+        "aerialDuelsTotalsHome": "91/89",
+        "aerialDuelsTotalsAway": "80/79",
+        "aerialDuelsAverage": "21.38/21.00",
+        "aerialDuelsAverageHome": "22.75/22.25",
+        "aerialDuelsAverageAway": "20.00/19.75",
+        "aerialDuelsAttemptedTotals": "339/339",
+        "aerialDuelsAttemptedTotalsHome": "180/180",
+        "aerialDuelsAttemptedTotalsAway": "159/159",
+        "aerialDuelsAttemptedAverage": "42.38/42.38",
+        "aerialDuelsAttemptedAverageHome": "45.00/45.00",
+        "aerialDuelsAttemptedAverageAway": "39.75/39.75",
+        "dribblesTotals": "56/46",
+        "dribblesTotalsHome": "30/25",
+        "dribblesTotalsAway": "26/21",
+        "dribblesAverage": "7.00/5.75",
+        "dribblesAverageHome": "7.50/6.25",
+        "dribblesAverageAway": "6.50/5.25",
+        "dribblesAttemptedTotals": "134/99",
+        "dribblesAttemptedTotalsHome": "69/49",
+        "dribblesAttemptedTotalsAway": "65/50",
+        "dribblesAttemptedAverage": "16.75/12.38",
+        "dribblesAttemptedAverageHome": "17.25/12.25",
+        "dribblesAttemptedAverageAway": "16.25/12.50"
+    }
+}
