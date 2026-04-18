@@ -402,7 +402,7 @@ const batch3 = [
   "44439",
 ];
 
-processBatches([...batch2, ...batch3]);
+processBatches([35, 34, 2693, 2699, 2849, 2859, 38396, 3010]);
 
 // WITH PROXIES - Auto rotate every 10-15 teams
 // processBatches(["11", "27"], true);
