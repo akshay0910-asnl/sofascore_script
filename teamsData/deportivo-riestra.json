@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.13",
+        "fouls": "17.00",
+        "goalKicks": "8.27",
+        "saves": "3.20",
+        "offsides": "2.20",
+        "shotsOnTarget": "3.33/4.00",
+        "yellowCards": "3.67/2.40",
+        "goals": "0.33/0.80",
+        "throwIns": "22.20",
+        "ballPossession": 39.266666666667,
+        "tackles": "17.40/12.60",
+        "interceptions": "10.13/8.20",
+        "aerialDuels": "20.33",
+        "aerialDuelsAttempted": "42.80",
+        "dribbles": "3.80/7.27",
+        "dribblesAttempted": "9.93/17.53"
+    },
+    "teamSlug": "deportivo-riestra",
+    "teamId": "189723",
+    "teamName": "Deportivo Riestra",
+    "tournament": "Liga Profesional de Fútbol",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-ca-independiente/jobsyUAb#id:15269993,tab:statistics",
+            "teams": [
+                "Deportivo Riestra",
+                "CA Independiente"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                189723,
+                3209
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-talleres/kobsyUAb#id:15269955,tab:statistics",
+            "teams": [
+                "CA Talleres",
+                "Deportivo Riestra"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3210,
+                189723
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-instituto-de-cordoba/MYbsyUAb#id:15269929,tab:statistics",
+            "teams": [
+                "Deportivo Riestra",
+                "Instituto De Córdoba"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                189723,
+                4937
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-club-atletico-union-de-santa-fe/eobsyUAb#id:15270049,tab:statistics",
+            "teams": [
+                "Club Atlético Unión de Santa Fe",
+                "Deportivo Riestra"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3204,
+                189723
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-san-lorenzo/bobsyUAb#id:15270035,tab:statistics",
+            "teams": [
+                "Deportivo Riestra",
+                "San Lorenzo"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                189723,
+                3201
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-central-cordoba/BnBsyUAb#id:15270020,tab:statistics",
+            "teams": [
+                "Central Córdoba",
+                "Deportivo Riestra"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                65676,
+                189723
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-gimnasia-y-esgrima-mendoza/QtAbsyUAb#id:15269999,tab:statistics",
+            "teams": [
+                "Deportivo Riestra",
+                "Gimnasia y Esgrima Mendoza"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                189723,
+                188441
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-riestra-velez-sarsfield/iobsyUAb#id:15270139,tab:statistics",
+            "teams": [
+                "Vélez Sarsfield",
+                "Deportivo Riestra"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3208,
+                189723
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/3[H]",
+            "fouls": "16/13[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "15/39[H]",
+            "averageBallPossession": "31/69[H]",
+            "teams": "Deportivo Riestra,CA Independiente,Home",
+            "tackles": "22/10[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "16/11[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "3/11[H]",
+            "dribblesAttempted": "9/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "6/1[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "27/14[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Deportivo Riestra,CA Talleres,Away",
+            "tackles": "13/8[A]",
+            "interceptions": "14/7[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "1/5[A]",
+            "dribblesAttempted": "6/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/5[H]",
+            "fouls": "12/15[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "5/4[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "33/17[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Deportivo Riestra,Instituto De Córdoba,Home",
+            "tackles": "16/14[H]",
+            "interceptions": "10/12[H]",
+            "aerialDuels": "25/31[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "3/6[H]",
+            "dribblesAttempted": "9/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/9[A]",
+            "fouls": "17/10[A]",
+            "goalKicks": "13/3[A]",
+            "saves": "7/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/9[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "12/17[A]",
+            "averageBallPossession": "28/72[A]",
+            "teams": "Deportivo Riestra,Club Atlético Unión de Santa Fe,Away",
+            "tackles": "13/6[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "20/21[A]",
+            "aerialDuelsAttempted": "41/41[A]",
+            "dribbles": "2/11[A]",
+            "dribblesAttempted": "3/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "14/14[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "1/1[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "26/30[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Deportivo Riestra,San Lorenzo,Home",
+            "tackles": "22/11[H]",
+            "interceptions": "2/10[H]",
+            "aerialDuels": "13/18[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "8/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "14/7[A]",
+            "goalKicks": "3/5[A]",
+            "saves": "1/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "0/1[A]",
+            "throwIns": "30/21[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Deportivo Riestra,Central Córdoba,Away",
+            "tackles": "15/21[A]",
+            "interceptions": "13/7[A]",
+            "aerialDuels": "24/39[A]",
+            "aerialDuelsAttempted": "63/63[A]",
+            "dribbles": "9/9[A]",
+            "dribblesAttempted": "19/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "20/13[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "2/7[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "29/22[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Deportivo Riestra,Gimnasia y Esgrima Mendoza,Home",
+            "tackles": "33/13[H]",
+            "interceptions": "11/17[H]",
+            "aerialDuels": "17/26[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "12/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "18/11[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "13/23[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Deportivo Riestra,Vélez Sarsfield,Away",
+            "tackles": "23/22[A]",
+            "interceptions": "13/8[A]",
+            "aerialDuels": "17/16[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "2/9[A]",
+            "dribblesAttempted": "13/25[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-02T12:07:19.177Z",
+    "endTime": "2026-05-02T12:07:49.538Z",
+    "totalTimeSeconds": 30.36,
+    "combinedMatchStatistics": {
+        "corners": "3/3[H]+7/4[A]+7/5[H]+0/9[A]+2/4[H]+3/2[A]+7/2[H]+3/4[A]",
+        "fouls": "16/13[H]+13/10[A]+12/15[H]+17/10[A]+14/14[H]+14/7[A]+20/13[H]+18/11[A]",
+        "goalKicks": "5/6[H]+6/10[A]+8/8[H]+13/3[A]+4/9[H]+3/5[A]+5/8[H]+10/5[A]",
+        "saves": "2/2[H]+6/1[A]+5/4[H]+7/5[A]+1/1[H]+1/4[A]+2/7[H]+3/4[A]",
+        "offsides": "1/2[H]+4/1[A]+4/1[H]+1/0[A]+5/1[H]+2/1[A]+1/1[H]+3/1[A]",
+        "shotsOnTarget": "4/2[H]+1/8[A]+4/6[H]+5/9[A]+2/2[H]+4/2[A]+7/2[H]+4/3[A]",
+        "yellowCards": "5/3[H]+2/2[A]+1/4[H]+3/2[A]+2/1[H]+4/0[A]+3/3[H]+3/3[A]",
+        "goals": "2/0[H]+0/2[A]+0/1[H]+0/2[A]+1/1[H]+0/1[A]+0/0[H]+0/0[A]",
+        "throwIns": "15/39[H]+27/14[A]+33/17[H]+12/17[A]+26/30[H]+30/21[A]+29/22[H]+13/23[A]",
+        "averageBallPossession": "31/69[H]+29/71[A]+53/47[H]+28/72[A]+35/65[H]+48/52[A]+55/45[H]+29/71[A]",
+        "teams": "Deportivo Riestra,CA Independiente,Home+Deportivo Riestra,CA Talleres,Away+Deportivo Riestra,Instituto De Córdoba,Home+Deportivo Riestra,Club Atlético Unión de Santa Fe,Away+Deportivo Riestra,San Lorenzo,Home+Deportivo Riestra,Central Córdoba,Away+Deportivo Riestra,Gimnasia y Esgrima Mendoza,Home+Deportivo Riestra,Vélez Sarsfield,Away",
+        "tackles": "22/10[H]+13/8[A]+16/14[H]+13/6[A]+22/11[H]+15/21[A]+33/13[H]+23/22[A]",
+        "interceptions": "8/8[H]+14/7[A]+10/12[H]+10/7[A]+2/10[H]+13/7[A]+11/17[H]+13/8[A]",
+        "aerialDuels": "16/11[H]+14/13[A]+25/31[H]+20/21[A]+13/18[H]+24/39[A]+17/26[H]+17/16[A]",
+        "aerialDuelsAttempted": "27/27[H]+27/27[A]+56/56[H]+41/41[A]+31/31[H]+63/63[A]+43/43[H]+33/33[A]",
+        "dribbles": "3/11[H]+1/5[A]+3/6[H]+2/11[A]+3/7[H]+9/9[A]+6/7[H]+2/9[A]",
+        "dribblesAttempted": "9/24[H]+6/15[A]+9/11[H]+3/19[A]+8/19[H]+19/16[A]+12/25[H]+13/25[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "32/33",
+        "cornersTotalsHome": "19/14",
+        "cornersTotalsAway": "13/19",
+        "cornersAverage": "4.00/4.13",
+        "cornersAverageHome": "4.75/3.50",
+        "cornersAverageAway": "3.25/4.75",
+        "foulsTotals": "124/93",
+        "foulsTotalsHome": "62/55",
+        "foulsTotalsAway": "62/38",
+        "foulsAverage": "15.50/11.63",
+        "foulsAverageHome": "15.50/13.75",
+        "foulsAverageAway": "15.50/9.50",
+        "goalKicksTotals": "54/54",
+        "goalKicksTotalsHome": "22/31",
+        "goalKicksTotalsAway": "32/23",
+        "goalKicksAverage": "6.75/6.75",
+        "goalKicksAverageHome": "5.50/7.75",
+        "goalKicksAverageAway": "8.00/5.75",
+        "savesTotals": "27/28",
+        "savesTotalsHome": "10/14",
+        "savesTotalsAway": "17/14",
+        "savesAverage": "3.38/3.50",
+        "savesAverageHome": "2.50/3.50",
+        "savesAverageAway": "4.25/3.50",
+        "offsidesTotals": "21/8",
+        "offsidesTotalsHome": "11/5",
+        "offsidesTotalsAway": "10/3",
+        "offsidesAverage": "2.63/1.00",
+        "offsidesAverageHome": "2.75/1.25",
+        "offsidesAverageAway": "2.50/0.75",
+        "shotsOnTargetTotals": "31/34",
+        "shotsOnTargetTotalsHome": "17/12",
+        "shotsOnTargetTotalsAway": "14/22",
+        "shotsOnTargetAverage": "3.88/4.25",
+        "shotsOnTargetAverageHome": "4.25/3.00",
+        "shotsOnTargetAverageAway": "3.50/5.50",
+        "yellowCardsTotals": "23/18",
+        "yellowCardsTotalsHome": "11/11",
+        "yellowCardsTotalsAway": "12/7",
+        "yellowCardsAverage": "2.88/2.25",
+        "yellowCardsAverageHome": "2.75/2.75",
+        "yellowCardsAverageAway": "3.00/1.75",
+        "goalsTotals": "3/7",
+        "goalsTotalsHome": "3/2",
+        "goalsTotalsAway": "0/5",
+        "goalsAverage": "0.38/0.88",
+        "goalsAverageHome": "0.75/0.50",
+        "goalsAverageAway": "0.00/1.25",
+        "throwInsTotals": "185/183",
+        "throwInsTotalsHome": "103/108",
+        "throwInsTotalsAway": "82/75",
+        "throwInsAverage": "23.13/22.88",
+        "throwInsAverageHome": "25.75/27.00",
+        "throwInsAverageAway": "20.50/18.75",
+        "averageBallPossessionTotals": "308/492",
+        "averageBallPossessionTotalsHome": "174/226",
+        "averageBallPossessionTotalsAway": "134/266",
+        "averageBallPossessionAverage": "38.50/61.50",
+        "averageBallPossessionAverageHome": "43.50/56.50",
+        "averageBallPossessionAverageAway": "33.50/66.50",
+        "tacklesTotals": "157/105",
+        "tacklesTotalsHome": "93/48",
+        "tacklesTotalsAway": "64/57",
+        "tacklesAverage": "19.63/13.13",
+        "tacklesAverageHome": "23.25/12.00",
+        "tacklesAverageAway": "16.00/14.25",
+        "interceptionsTotals": "81/76",
+        "interceptionsTotalsHome": "31/47",
+        "interceptionsTotalsAway": "50/29",
+        "interceptionsAverage": "10.13/9.50",
+        "interceptionsAverageHome": "7.75/11.75",
+        "interceptionsAverageAway": "12.50/7.25",
+        "aerialDuelsTotals": "146/175",
+        "aerialDuelsTotalsHome": "71/86",
+        "aerialDuelsTotalsAway": "75/89",
+        "aerialDuelsAverage": "18.25/21.88",
+        "aerialDuelsAverageHome": "17.75/21.50",
+        "aerialDuelsAverageAway": "18.75/22.25",
+        "aerialDuelsAttemptedTotals": "321/321",
+        "aerialDuelsAttemptedTotalsHome": "157/157",
+        "aerialDuelsAttemptedTotalsAway": "164/164",
+        "aerialDuelsAttemptedAverage": "40.13/40.13",
+        "aerialDuelsAttemptedAverageHome": "39.25/39.25",
+        "aerialDuelsAttemptedAverageAway": "41.00/41.00",
+        "dribblesTotals": "29/65",
+        "dribblesTotalsHome": "15/31",
+        "dribblesTotalsAway": "14/34",
+        "dribblesAverage": "3.63/8.13",
+        "dribblesAverageHome": "3.75/7.75",
+        "dribblesAverageAway": "3.50/8.50",
+        "dribblesAttemptedTotals": "79/154",
+        "dribblesAttemptedTotalsHome": "38/79",
+        "dribblesAttemptedTotalsAway": "41/75",
+        "dribblesAttemptedAverage": "9.88/19.25",
+        "dribblesAttemptedAverageHome": "9.50/19.75",
+        "dribblesAttemptedAverageAway": "10.25/18.75"
+    }
+}

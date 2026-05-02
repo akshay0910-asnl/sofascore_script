@@ -457,10 +457,10 @@ async function navigateToPage(page, url, teamId) {
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       await page.goto(url, {
-        waitUntil: "load",
+        waitUntil: "domcontentloaded",
         timeout: CONFIG.timeouts.pageLoad,
       });
-      console.log("✓ Page loaded:", await page.title());
+      console.log("✓ Team page reached:", await page.title());
       return; // Success - exit the function
     } catch (err) {
       console.error(
@@ -507,7 +507,7 @@ async function navigateToMatchPage(page, match, index, teamId, parentPage) {
     );
     console.log("Processing match index:", index);
     await page.goto(match.href, {
-      waitUntil: "load",
+      waitUntil: "domcontentloaded",
       timeout: CONFIG.timeouts.pageLoad,
     });
     console.log("Navigated to index:", index);
@@ -518,7 +518,7 @@ async function navigateToMatchPage(page, match, index, teamId, parentPage) {
       cache[teamId]["timeouts"][match.href] = setTimeout(async () => {
         await page.click(CONFIG.selectors.statisticsTab);
         console.log("✓ Statistics tab clicked");
-      }, 3000); // 5 seconds timeout
+      }, 3000); // 3 seconds timeout
     }
 
     // await page.waitForSelector(CONFIG.selectors.statisticsTab, {
