@@ -1,0 +1,420 @@
+{
+    "globalStatistics": {
+        "corners": "7.21",
+        "fouls": "11.17",
+        "goalKicks": "4.14",
+        "saves": "2.07",
+        "offsides": "1.34",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "1.38/NaN",
+        "goals": "2.10/0.69",
+        "throwIns": "NaN",
+        "ballPossession": 65.5,
+        "tackles": "NaN/NaN",
+        "interceptions": "26.21/NaN",
+        "aerialDuels": "10.07",
+        "aerialDuelsAttempted": "19.17",
+        "dribbles": "18.66/NaN",
+        "dribblesAttempted": "24.97/NaN"
+    },
+    "teamSlug": "qarabag",
+    "teamId": "5962",
+    "teamName": "Qarabağ FK",
+    "tournament": "Misli Premier League",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/qarabag-fk-neftci-pfk/pecsmuc#id:15839267,tab:statistics",
+            "teams": [
+                "Neftçi PFK",
+                "Qarabağ FK"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                5215,
+                5962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/qarabag-neftci-baku-pfk/pecsmuc#id:14530124,tab:statistics",
+            "teams": [
+                "Neftçi PFK",
+                "Qarabağ FK"
+            ],
+            "goals": [
+                1,
+                5
+            ],
+            "teamIds": [
+                5215,
+                5962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sabah-fk-qarabag/mucsDghc#id:14530122,tab:statistics",
+            "teams": [
+                "Qarabağ FK",
+                "Sabah FK"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                5962,
+                267828
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/samaxi-fk-qarabag/mucsLFj#id:14530116,tab:statistics",
+            "teams": [
+                "Şamaxı FK",
+                "Qarabağ FK"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                24036,
+                5962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-karvan-yevlax-qarabag/mucsjBZd#id:14530108,tab:statistics",
+            "teams": [
+                "Qarabağ FK",
+                "FK Karvan Yevlax"
+            ],
+            "goals": [
+                7,
+                0
+            ],
+            "teamIds": [
+                5962,
+                498809
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kepez-pfk-qarabag/mucsafp#id:14742449,tab:statistics",
+            "teams": [
+                "Kəpəz PFK",
+                "Qarabağ FK"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                37750,
+                5962
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/araz-naxcivan-pfk-qarabag/mucsqGX#id:14530085,tab:statistics",
+            "teams": [
+                "Qarabağ FK",
+                "Araz Naxçıvan"
+            ],
+            "goals": [
+                6,
+                0
+            ],
+            "teamIds": [
+                5962,
+                119066
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sabah-fk-qarabag/mucsDghc#id:14530076,tab:statistics",
+            "teams": [
+                "Qarabağ FK",
+                "Sabah FK"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                5962,
+                267828
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        null,
+        {
+            "corners": "3/4[A]",
+            "fouls": "14/18[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "8/5[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "5/1[A]",
+            "throwIns": "21/9[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Qarabağ FK,Neftçi PFK,Away",
+            "tackles": "5/3[A]",
+            "interceptions": "8/13[A]",
+            "aerialDuels": "6/14[A]",
+            "aerialDuelsAttempted": "18/20[A]",
+            "dribbles": "15/20[A]",
+            "dribblesAttempted": "18/30[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/0[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "2/6[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "21/23[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "Qarabağ FK,Sabah FK,Home",
+            "tackles": "2/5[H]",
+            "interceptions": "16/21[H]",
+            "aerialDuels": "10/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "23/13[H]",
+            "dribblesAttempted": "33/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "13/2[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "9/13[A]",
+            "saves": "0/7[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "7/0[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "29/9[A]",
+            "averageBallPossession": "72/28[A]",
+            "teams": "Qarabağ FK,Şamaxı FK,Away",
+            "tackles": "0/4[A]",
+            "interceptions": "8/19[A]",
+            "aerialDuels": "10/11[A]",
+            "aerialDuelsAttempted": "17/24[A]",
+            "dribbles": "23/5[A]",
+            "dribblesAttempted": "36/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "7/13[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "2/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "7/0[H]",
+            "throwIns": "16/13[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Qarabağ FK,FK Karvan Yevlax,Home",
+            "tackles": "1/3[H]",
+            "interceptions": "17/16[H]",
+            "aerialDuels": "17/6[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/6[H]",
+            "dribblesAttempted": "12/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/4[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "6/13[A]",
+            "saves": "4/13[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "12/5[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "26/19[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Qarabağ FK,Kəpəz PFK,Away",
+            "tackles": "1/2[A]",
+            "interceptions": "14/31[A]",
+            "aerialDuels": "11/10[A]",
+            "aerialDuelsAttempted": "19/20[A]",
+            "dribbles": "35/13[A]",
+            "dribblesAttempted": "43/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/0[H]",
+            "fouls": "10/6[H]",
+            "goalKicks": "3/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "9/1[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "6/0[H]",
+            "throwIns": "12/16[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Qarabağ FK,Araz Naxçıvan,Home",
+            "tackles": "1/2[H]",
+            "interceptions": "22/17[H]",
+            "aerialDuels": "6/3[H]",
+            "aerialDuelsAttempted": "9/3[H]",
+            "dribbles": "33/19[H]",
+            "dribblesAttempted": "39/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "3/3[H]",
+            "throwIns": "13/13[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Qarabağ FK,Sabah FK,Home",
+            "tackles": "1/3[H]",
+            "interceptions": "20/18[H]",
+            "aerialDuels": "7/10[H]",
+            "aerialDuelsAttempted": "13/18[H]",
+            "dribbles": "30/10[H]",
+            "dribblesAttempted": "36/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-04T04:49:25.150Z",
+    "endTime": "2026-05-04T04:50:20.979Z",
+    "totalTimeSeconds": 55.83,
+    "combinedMatchStatistics": {
+        "corners": "3/4[A]+5/0[H]+13/2[A]+5/4[H]+9/4[A]+10/0[H]+6/3[H]",
+        "fouls": "14/18[A]+11/13[H]+11/14[A]+7/13[H]+12/13[A]+10/6[H]+11/11[H]",
+        "goalKicks": "10/7[A]+6/13[H]+9/13[A]+7/8[H]+6/13[A]+3/9[H]+6/10[H]",
+        "saves": "4/3[A]+2/6[H]+0/7[A]+2/3[H]+4/13[A]+2/3[H]+2/4[H]",
+        "offsides": "1/3[A]+1/2[H]+0/0[A]+4/1[H]+2/0[A]+4/1[H]+1/0[H]",
+        "shotsOnTarget": "8/5[A]+6/3[H]+7/0[A]+9/2[H]+12/5[A]+9/1[H]+6/5[H]",
+        "yellowCards": "1/2[A]+2/4[H]+4/2[A]+1/0[H]+2/3[A]+0/2[H]+3/2[H]",
+        "goals": "5/1[A]+0/1[H]+0/0[A]+7/0[H]+0/1[A]+6/0[H]+3/3[H]",
+        "throwIns": "21/9[A]+21/23[H]+29/9[A]+16/13[H]+26/19[A]+12/16[H]+13/13[H]",
+        "averageBallPossession": "64/36[A]+66/34[H]+72/28[A]+71/29[H]+62/38[A]+56/44[H]+58/42[H]",
+        "teams": "Qarabağ FK,Neftçi PFK,Away+Qarabağ FK,Sabah FK,Home+Qarabağ FK,Şamaxı FK,Away+Qarabağ FK,FK Karvan Yevlax,Home+Qarabağ FK,Kəpəz PFK,Away+Qarabağ FK,Araz Naxçıvan,Home+Qarabağ FK,Sabah FK,Home",
+        "tackles": "5/3[A]+2/5[H]+0/4[A]+1/3[H]+1/2[A]+1/2[H]+1/3[H]",
+        "interceptions": "8/13[A]+16/21[H]+8/19[A]+17/16[H]+14/31[A]+22/17[H]+20/18[H]",
+        "aerialDuels": "6/14[A]+10/8[H]+10/11[A]+17/6[H]+11/10[A]+6/3[H]+7/10[H]",
+        "aerialDuelsAttempted": "18/20[A]+19/19[H]+17/24[A]+23/23[H]+19/20[A]+9/3[H]+13/18[H]",
+        "dribbles": "15/20[A]+23/13[H]+23/5[A]+10/6[H]+35/13[A]+33/19[H]+30/10[H]",
+        "dribblesAttempted": "18/30[A]+33/23[H]+36/9[A]+12/8[H]+43/17[A]+39/25[H]+36/15[H]",
+        "isHome": "false+true+false+true+false+true+true",
+        "cornersTotals": "51/17",
+        "cornersTotalsHome": "26/7",
+        "cornersTotalsAway": "25/10",
+        "cornersAverage": "7.29/2.43",
+        "cornersAverageHome": "6.50/1.75",
+        "cornersAverageAway": "8.33/3.33",
+        "foulsTotals": "76/88",
+        "foulsTotalsHome": "39/43",
+        "foulsTotalsAway": "37/45",
+        "foulsAverage": "10.86/12.57",
+        "foulsAverageHome": "9.75/10.75",
+        "foulsAverageAway": "12.33/15.00",
+        "goalKicksTotals": "47/73",
+        "goalKicksTotalsHome": "22/40",
+        "goalKicksTotalsAway": "25/33",
+        "goalKicksAverage": "6.71/10.43",
+        "goalKicksAverageHome": "5.50/10.00",
+        "goalKicksAverageAway": "8.33/11.00",
+        "savesTotals": "16/39",
+        "savesTotalsHome": "8/16",
+        "savesTotalsAway": "8/23",
+        "savesAverage": "2.29/5.57",
+        "savesAverageHome": "2.00/4.00",
+        "savesAverageAway": "2.67/7.67",
+        "offsidesTotals": "13/7",
+        "offsidesTotalsHome": "10/4",
+        "offsidesTotalsAway": "3/3",
+        "offsidesAverage": "1.86/1.00",
+        "offsidesAverageHome": "2.50/1.00",
+        "offsidesAverageAway": "1.00/1.00",
+        "shotsOnTargetTotals": "57/21",
+        "shotsOnTargetTotalsHome": "30/11",
+        "shotsOnTargetTotalsAway": "27/10",
+        "shotsOnTargetAverage": "8.14/3.00",
+        "shotsOnTargetAverageHome": "7.50/2.75",
+        "shotsOnTargetAverageAway": "9.00/3.33",
+        "yellowCardsTotals": "13/15",
+        "yellowCardsTotalsHome": "6/8",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "1.86/2.14",
+        "yellowCardsAverageHome": "1.50/2.00",
+        "yellowCardsAverageAway": "2.33/2.33",
+        "goalsTotals": "21/6",
+        "goalsTotalsHome": "16/4",
+        "goalsTotalsAway": "5/2",
+        "goalsAverage": "3.00/0.86",
+        "goalsAverageHome": "4.00/1.00",
+        "goalsAverageAway": "1.67/0.67",
+        "throwInsTotals": "138/102",
+        "throwInsTotalsHome": "62/65",
+        "throwInsTotalsAway": "76/37",
+        "throwInsAverage": "19.71/14.57",
+        "throwInsAverageHome": "15.50/16.25",
+        "throwInsAverageAway": "25.33/12.33",
+        "averageBallPossessionTotals": "449/251",
+        "averageBallPossessionTotalsHome": "251/149",
+        "averageBallPossessionTotalsAway": "198/102",
+        "averageBallPossessionAverage": "64.14/35.86",
+        "averageBallPossessionAverageHome": "62.75/37.25",
+        "averageBallPossessionAverageAway": "66.00/34.00",
+        "tacklesTotals": "11/22",
+        "tacklesTotalsHome": "5/13",
+        "tacklesTotalsAway": "6/9",
+        "tacklesAverage": "1.57/3.14",
+        "tacklesAverageHome": "1.25/3.25",
+        "tacklesAverageAway": "2.00/3.00",
+        "interceptionsTotals": "105/135",
+        "interceptionsTotalsHome": "75/72",
+        "interceptionsTotalsAway": "30/63",
+        "interceptionsAverage": "15.00/19.29",
+        "interceptionsAverageHome": "18.75/18.00",
+        "interceptionsAverageAway": "10.00/21.00",
+        "aerialDuelsTotals": "67/62",
+        "aerialDuelsTotalsHome": "40/27",
+        "aerialDuelsTotalsAway": "27/35",
+        "aerialDuelsAverage": "9.57/8.86",
+        "aerialDuelsAverageHome": "10.00/6.75",
+        "aerialDuelsAverageAway": "9.00/11.67",
+        "aerialDuelsAttemptedTotals": "118/127",
+        "aerialDuelsAttemptedTotalsHome": "64/63",
+        "aerialDuelsAttemptedTotalsAway": "54/64",
+        "aerialDuelsAttemptedAverage": "16.86/18.14",
+        "aerialDuelsAttemptedAverageHome": "16.00/15.75",
+        "aerialDuelsAttemptedAverageAway": "18.00/21.33",
+        "dribblesTotals": "169/86",
+        "dribblesTotalsHome": "96/48",
+        "dribblesTotalsAway": "73/38",
+        "dribblesAverage": "24.14/12.29",
+        "dribblesAverageHome": "24.00/12.00",
+        "dribblesAverageAway": "24.33/12.67",
+        "dribblesAttemptedTotals": "217/127",
+        "dribblesAttemptedTotalsHome": "120/71",
+        "dribblesAttemptedTotalsAway": "97/56",
+        "dribblesAttemptedAverage": "31.00/18.14",
+        "dribblesAttemptedAverageHome": "30.00/17.75",
+        "dribblesAttemptedAverageAway": "32.33/18.67"
+    }
+}

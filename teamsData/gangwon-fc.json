@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.91",
+        "fouls": "16.36",
+        "goalKicks": "4.18",
+        "saves": "2.64",
+        "offsides": "2.55",
+        "shotsOnTarget": "4.09/3.36",
+        "yellowCards": "3.00/1.45",
+        "goals": "1.27/0.82",
+        "throwIns": "21.82",
+        "ballPossession": 51.454545454545,
+        "tackles": "17.82/12.82",
+        "interceptions": "11.55/11.00",
+        "aerialDuels": "20.64",
+        "aerialDuelsAttempted": "41.45",
+        "dribbles": "4.91/6.73",
+        "dribblesAttempted": "10.64/15.45"
+    },
+    "teamSlug": "gangwon-fc",
+    "teamId": "34220",
+    "teamName": "Gangwon FC",
+    "tournament": "K League 1",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-incheon-united/YcdsvJn#id:15372987,tab:statistics",
+            "teams": [
+                "Incheon United",
+                "Gangwon FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                7648,
+                34220
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-fc-seoul/WcdsvJn#id:15372966,tab:statistics",
+            "teams": [
+                "Gangwon FC",
+                "FC Seoul"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                34220,
+                7646
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-gimcheon-sangmu-fc/XcdsvJn#id:15372959,tab:statistics",
+            "teams": [
+                "Gimcheon Sangmu FC",
+                "Gangwon FC"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                7647,
+                34220
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-jeonbuk-hyundai-motors/iNcsvJn#id:15372952,tab:statistics",
+            "teams": [
+                "Gangwon FC",
+                "Jeonbuk Hyundai Motors"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                34220,
+                6908
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-daejeon-hana-citizen/VcdsvJn#id:15372950,tab:statistics",
+            "teams": [
+                "Daejeon Hana Citizen",
+                "Gangwon FC"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                7645,
+                34220
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gwangju-fc-gangwon-fc/vJnsmDu#id:15372939,tab:statistics",
+            "teams": [
+                "Gangwon FC",
+                "Gwangju FC"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                34220,
+                48912
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-pohang-steelers/addsvJn#id:15743817,tab:statistics",
+            "teams": [
+                "Pohang Steelers",
+                "Gangwon FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                7650,
+                34220
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gangwon-fc-jeju-sk/ZcdsvJn#id:15372934,tab:statistics",
+            "teams": [
+                "Gangwon FC",
+                "Jeju SK"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                34220,
+                7649
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "5/3[A]",
+            "fouls": "12/12[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "0/3[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "4/0[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "27/26[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Gangwon FC,Incheon United,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "15/18[A]",
+            "aerialDuels": "30/17[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "9/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "23/11[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "0/3[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "5/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "23/14[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Gangwon FC,FC Seoul,Home",
+            "tackles": "21/12[H]",
+            "interceptions": "6/8[H]",
+            "aerialDuels": "16/16[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "8/16[H]",
+            "dribblesAttempted": "15/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/4[A]",
+            "fouls": "18/8[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "3/0[A]",
+            "throwIns": "26/32[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Gangwon FC,Gimcheon Sangmu FC,Away",
+            "tackles": "28/20[A]",
+            "interceptions": "8/13[A]",
+            "aerialDuels": "24/22[A]",
+            "aerialDuelsAttempted": "46/46[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "13/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "19/13[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "6/6[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "7/7[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "15/18[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Gangwon FC,Jeonbuk Hyundai Motors,Home",
+            "tackles": "15/12[H]",
+            "interceptions": "14/5[H]",
+            "aerialDuels": "16/20[H]",
+            "aerialDuelsAttempted": "36/36[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "6/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "18/9[A]",
+            "goalKicks": "2/8[A]",
+            "saves": "2/3[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "14/25[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Gangwon FC,Daejeon Hana Citizen,Away",
+            "tackles": "19/16[A]",
+            "interceptions": "20/11[A]",
+            "aerialDuels": "20/30[A]",
+            "aerialDuelsAttempted": "50/50[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "12/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "23/16[H]",
+            "goalKicks": "0/16[H]",
+            "saves": "0/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "6/0[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "3/0[H]",
+            "throwIns": "22/24[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Gangwon FC,Gwangju FC,Home",
+            "tackles": "16/11[H]",
+            "interceptions": "21/15[H]",
+            "aerialDuels": "17/18[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "5/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/8[A]",
+            "fouls": "17/8[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "5/1[A]",
+            "offsides": "5/2[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "23/19[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Gangwon FC,Pohang Steelers,Away",
+            "tackles": "19/7[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "17/14[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "10/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/3[H]",
+            "fouls": "6/17[H]",
+            "goalKicks": "3/15[H]",
+            "saves": "1/4[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "36/13[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "Gangwon FC,Jeju SK,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "24/22[H]",
+            "aerialDuelsAttempted": "46/46[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "12/10[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-04T05:46:06.292Z",
+    "endTime": "2026-05-04T05:46:37.124Z",
+    "totalTimeSeconds": 30.83,
+    "combinedMatchStatistics": {
+        "corners": "5/3[A]+7/3[H]+1/4[A]+5/5[H]+2/3[A]+8/2[H]+7/8[A]+11/3[H]",
+        "fouls": "12/12[A]+23/11[H]+18/8[A]+19/13[H]+18/9[A]+23/16[H]+17/8[A]+6/17[H]",
+        "goalKicks": "4/6[A]+7/8[H]+10/7[A]+6/8[H]+2/8[A]+0/16[H]+5/8[A]+3/15[H]",
+        "saves": "0/3[A]+0/3[H]+5/2[A]+6/6[H]+2/3[A]+0/3[H]+5/1[A]+1/4[H]",
+        "offsides": "4/2[A]+3/0[H]+1/1[A]+2/1[H]+4/1[A]+2/0[H]+5/2[A]+3/0[H]",
+        "shotsOnTarget": "4/0[A]+4/2[H]+5/5[A]+7/7[H]+4/2[A]+6/0[H]+1/6[A]+5/2[H]",
+        "yellowCards": "3/2[A]+5/0[H]+4/3[A]+4/3[H]+3/0[A]+3/3[H]+2/1[A]+2/1[H]",
+        "goals": "1/0[A]+1/2[H]+3/0[A]+1/1[H]+2/0[A]+3/0[H]+0/1[A]+1/1[H]",
+        "throwIns": "27/26[A]+23/14[H]+26/32[A]+15/18[H]+14/25[A]+22/24[H]+23/19[A]+36/13[H]",
+        "averageBallPossession": "48/52[A]+48/52[H]+38/62[A]+41/59[H]+46/54[A]+44/56[H]+44/56[A]+73/27[H]",
+        "teams": "Gangwon FC,Incheon United,Away+Gangwon FC,FC Seoul,Home+Gangwon FC,Gimcheon Sangmu FC,Away+Gangwon FC,Jeonbuk Hyundai Motors,Home+Gangwon FC,Daejeon Hana Citizen,Away+Gangwon FC,Gwangju FC,Home+Gangwon FC,Pohang Steelers,Away+Gangwon FC,Jeju SK,Home",
+        "tackles": "12/14[A]+21/12[H]+28/20[A]+15/12[H]+19/16[A]+16/11[H]+19/7[A]+12/17[H]",
+        "interceptions": "15/18[A]+6/8[H]+8/13[A]+14/5[H]+20/11[A]+21/15[H]+9/9[A]+8/9[H]",
+        "aerialDuels": "30/17[A]+16/16[H]+24/22[A]+16/20[H]+20/30[A]+17/18[H]+17/14[A]+24/22[H]",
+        "aerialDuelsAttempted": "47/47[A]+32/32[H]+46/46[A]+36/36[H]+50/50[A]+35/35[H]+31/31[A]+46/46[H]",
+        "dribbles": "2/7[A]+8/16[H]+5/7[A]+4/2[H]+5/5[A]+2/7[H]+4/8[A]+7/4[H]",
+        "dribblesAttempted": "9/15[A]+15/25[H]+13/19[A]+6/9[H]+12/14[A]+5/17[H]+10/16[A]+12/10[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "46/31",
+        "cornersTotalsHome": "31/13",
+        "cornersTotalsAway": "15/18",
+        "cornersAverage": "5.75/3.88",
+        "cornersAverageHome": "7.75/3.25",
+        "cornersAverageAway": "3.75/4.50",
+        "foulsTotals": "136/94",
+        "foulsTotalsHome": "71/57",
+        "foulsTotalsAway": "65/37",
+        "foulsAverage": "17.00/11.75",
+        "foulsAverageHome": "17.75/14.25",
+        "foulsAverageAway": "16.25/9.25",
+        "goalKicksTotals": "37/76",
+        "goalKicksTotalsHome": "16/47",
+        "goalKicksTotalsAway": "21/29",
+        "goalKicksAverage": "4.63/9.50",
+        "goalKicksAverageHome": "4.00/11.75",
+        "goalKicksAverageAway": "5.25/7.25",
+        "savesTotals": "19/25",
+        "savesTotalsHome": "7/16",
+        "savesTotalsAway": "12/9",
+        "savesAverage": "2.38/3.13",
+        "savesAverageHome": "1.75/4.00",
+        "savesAverageAway": "3.00/2.25",
+        "offsidesTotals": "24/7",
+        "offsidesTotalsHome": "10/1",
+        "offsidesTotalsAway": "14/6",
+        "offsidesAverage": "3.00/0.88",
+        "offsidesAverageHome": "2.50/0.25",
+        "offsidesAverageAway": "3.50/1.50",
+        "shotsOnTargetTotals": "36/24",
+        "shotsOnTargetTotalsHome": "22/11",
+        "shotsOnTargetTotalsAway": "14/13",
+        "shotsOnTargetAverage": "4.50/3.00",
+        "shotsOnTargetAverageHome": "5.50/2.75",
+        "shotsOnTargetAverageAway": "3.50/3.25",
+        "yellowCardsTotals": "26/13",
+        "yellowCardsTotalsHome": "14/7",
+        "yellowCardsTotalsAway": "12/6",
+        "yellowCardsAverage": "3.25/1.63",
+        "yellowCardsAverageHome": "3.50/1.75",
+        "yellowCardsAverageAway": "3.00/1.50",
+        "goalsTotals": "12/5",
+        "goalsTotalsHome": "6/4",
+        "goalsTotalsAway": "6/1",
+        "goalsAverage": "1.50/0.63",
+        "goalsAverageHome": "1.50/1.00",
+        "goalsAverageAway": "1.50/0.25",
+        "throwInsTotals": "186/171",
+        "throwInsTotalsHome": "96/69",
+        "throwInsTotalsAway": "90/102",
+        "throwInsAverage": "23.25/21.38",
+        "throwInsAverageHome": "24.00/17.25",
+        "throwInsAverageAway": "22.50/25.50",
+        "averageBallPossessionTotals": "382/418",
+        "averageBallPossessionTotalsHome": "206/194",
+        "averageBallPossessionTotalsAway": "176/224",
+        "averageBallPossessionAverage": "47.75/52.25",
+        "averageBallPossessionAverageHome": "51.50/48.50",
+        "averageBallPossessionAverageAway": "44.00/56.00",
+        "tacklesTotals": "142/109",
+        "tacklesTotalsHome": "64/52",
+        "tacklesTotalsAway": "78/57",
+        "tacklesAverage": "17.75/13.63",
+        "tacklesAverageHome": "16.00/13.00",
+        "tacklesAverageAway": "19.50/14.25",
+        "interceptionsTotals": "101/88",
+        "interceptionsTotalsHome": "49/37",
+        "interceptionsTotalsAway": "52/51",
+        "interceptionsAverage": "12.63/11.00",
+        "interceptionsAverageHome": "12.25/9.25",
+        "interceptionsAverageAway": "13.00/12.75",
+        "aerialDuelsTotals": "164/159",
+        "aerialDuelsTotalsHome": "73/76",
+        "aerialDuelsTotalsAway": "91/83",
+        "aerialDuelsAverage": "20.50/19.88",
+        "aerialDuelsAverageHome": "18.25/19.00",
+        "aerialDuelsAverageAway": "22.75/20.75",
+        "aerialDuelsAttemptedTotals": "323/323",
+        "aerialDuelsAttemptedTotalsHome": "149/149",
+        "aerialDuelsAttemptedTotalsAway": "174/174",
+        "aerialDuelsAttemptedAverage": "40.38/40.38",
+        "aerialDuelsAttemptedAverageHome": "37.25/37.25",
+        "aerialDuelsAttemptedAverageAway": "43.50/43.50",
+        "dribblesTotals": "37/56",
+        "dribblesTotalsHome": "21/29",
+        "dribblesTotalsAway": "16/27",
+        "dribblesAverage": "4.63/7.00",
+        "dribblesAverageHome": "5.25/7.25",
+        "dribblesAverageAway": "4.00/6.75",
+        "dribblesAttemptedTotals": "82/125",
+        "dribblesAttemptedTotalsHome": "38/61",
+        "dribblesAttemptedTotalsAway": "44/64",
+        "dribblesAttemptedAverage": "10.25/15.63",
+        "dribblesAttemptedAverageHome": "9.50/15.25",
+        "dribblesAttemptedAverageAway": "11.00/16.00"
+    }
+}
