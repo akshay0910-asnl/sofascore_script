@@ -1,0 +1,420 @@
+{
+    "globalStatistics": {
+        "corners": "2.78",
+        "fouls": "12.78",
+        "goalKicks": "6.89",
+        "saves": "3.78",
+        "offsides": "1.67",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "2.11/NaN",
+        "goals": "1.22/1.00",
+        "throwIns": "NaN",
+        "ballPossession": 48.4,
+        "tackles": "NaN/NaN",
+        "interceptions": "45.11/NaN",
+        "aerialDuels": "23.33",
+        "aerialDuelsAttempted": "47.33",
+        "dribbles": "11.67/NaN",
+        "dribblesAttempted": "15.11/NaN"
+    },
+    "teamSlug": "cheonan-city-fc",
+    "teamId": "41263",
+    "teamName": "Cheonan City FC",
+    "tournament": "K League 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/cheonan-city-fc-busanpark/RcdsnAq#id:15403866,tab:statistics",
+            "teams": [
+                "Busan I Park",
+                "Cheonan City FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                7642,
+                41263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-cheonan-city-fc/nAqsCWKc#id:15403863,tab:statistics",
+            "teams": [
+                "Cheonan City FC",
+                "Chungnam Asan FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                41263,
+                339827
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheonan-city-fc-seongnam-fc/bddsnAq#id:15403847,tab:statistics",
+            "teams": [
+                "Cheonan City FC",
+                "Seongnam FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                41263,
+                7651
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheonan-city-fc-daegu-fc/UcdsnAq#id:15403840,tab:statistics",
+            "teams": [
+                "Daegu FC",
+                "Cheonan City FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                7644,
+                41263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheongju-fc-cheonan-city-fc/nAqsTKAc#id:15403835,tab:statistics",
+            "teams": [
+                "Cheonan City FC",
+                "Cheongju FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                41263,
+                314293
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheonan-city-fc-jeonnam-dragons/TcdsnAq#id:15403811,tab:statistics",
+            "teams": [
+                "Cheonan City FC",
+                "Jeonnam Dragons"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                41263,
+                7643
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/hwaseong-fc-cheonan-city-fc/nAqszdDb#id:15403798,tab:statistics",
+            "teams": [
+                "Hwaseong FC",
+                "Cheonan City FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                195174,
+                41263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/yongin-city-fc-cheonan-city-fc/nAqsqAq#id:15403987,tab:statistics",
+            "teams": [
+                "Yongin City FC",
+                "Cheonan City FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                41266,
+                41263
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        null,
+        {
+            "corners": "4/4[H]",
+            "fouls": "21/10[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "4/5[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "20/21[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Cheonan City FC,Chungnam Asan FC,Home",
+            "tackles": "5/3[H]",
+            "interceptions": "17/19[H]",
+            "aerialDuels": "32/24[H]",
+            "aerialDuelsAttempted": "66/56[H]",
+            "dribbles": "10/17[H]",
+            "dribblesAttempted": "12/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "7/16[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "4/5[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "13/19[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Cheonan City FC,Seongnam FC,Home",
+            "tackles": "0/1[H]",
+            "interceptions": "16/21[H]",
+            "aerialDuels": "15/12[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "13/15[H]",
+            "dribblesAttempted": "14/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/11[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "7/16[A]",
+            "saves": "6/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "7/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "14/10[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Cheonan City FC,Daegu FC,Away",
+            "tackles": "1/3[A]",
+            "interceptions": "16/13[A]",
+            "aerialDuels": "19/12[A]",
+            "aerialDuelsAttempted": "33/37[A]",
+            "dribbles": "17/14[A]",
+            "dribblesAttempted": "18/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/4[H]",
+            "fouls": "11/13[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "24/15[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Cheonan City FC,Cheongju FC,Home",
+            "tackles": "2/3[H]",
+            "interceptions": "10/22[H]",
+            "aerialDuels": "34/21[H]",
+            "aerialDuelsAttempted": "62/62[H]",
+            "dribbles": "13/21[H]",
+            "dribblesAttempted": "16/28[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/11[H]",
+            "fouls": "14/13[H]",
+            "goalKicks": "11/7[H]",
+            "saves": "3/1[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "18/23[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Cheonan City FC,Jeonnam Dragons,Home",
+            "tackles": "2/7[H]",
+            "interceptions": "15/21[H]",
+            "aerialDuels": "24/38[H]",
+            "aerialDuelsAttempted": "67/66[H]",
+            "dribbles": "12/20[H]",
+            "dribblesAttempted": "18/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "8/11[A]",
+            "goalKicks": "13/4[A]",
+            "saves": "4/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "17/22[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Cheonan City FC,Hwaseong FC,Away",
+            "tackles": "4/2[A]",
+            "interceptions": "19/35[A]",
+            "aerialDuels": "25/12[A]",
+            "aerialDuelsAttempted": "40/39[A]",
+            "dribbles": "13/17[A]",
+            "dribblesAttempted": "20/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/0[A]",
+            "fouls": "19/18[A]",
+            "goalKicks": "5/6[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "10/16[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Cheonan City FC,Yongin City FC,Away",
+            "tackles": "2/6[A]",
+            "interceptions": "16/27[A]",
+            "aerialDuels": "15/5[A]",
+            "aerialDuelsAttempted": "28/21[A]",
+            "dribbles": "9/3[A]",
+            "dribblesAttempted": "15/9[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-10T09:59:51.157Z",
+    "endTime": "2026-05-10T10:00:39.224Z",
+    "totalTimeSeconds": 48.07,
+    "combinedMatchStatistics": {
+        "corners": "4/4[H]+4/2[H]+2/11[A]+0/4[H]+2/11[H]+3/3[A]+5/0[A]",
+        "fouls": "21/10[H]+7/16[H]+13/10[A]+11/13[H]+14/13[H]+8/11[A]+19/18[A]",
+        "goalKicks": "9/6[H]+12/8[H]+7/16[A]+10/7[H]+11/7[H]+13/4[A]+5/6[A]",
+        "saves": "4/5[H]+4/5[H]+6/5[A]+5/2[H]+3/1[H]+4/2[A]+1/4[A]",
+        "offsides": "2/1[H]+2/0[H]+1/0[A]+0/0[H]+1/0[H]+2/0[A]+1/1[A]",
+        "shotsOnTarget": "6/4[H]+6/5[H]+7/7[A]+4/7[H]+2/3[H]+4/6[A]+6/3[A]",
+        "yellowCards": "2/1[H]+1/1[H]+1/2[A]+2/1[H]+4/1[H]+1/1[A]+2/2[A]",
+        "goals": "1/0[H]+1/1[H]+2/1[A]+2/2[H]+1/0[H]+2/2[A]+2/2[A]",
+        "throwIns": "20/21[H]+13/19[H]+14/10[A]+24/15[H]+18/23[H]+17/22[A]+10/16[A]",
+        "averageBallPossession": "45/55[H]+58/42[H]+54/46[A]+50/50[H]+44/56[H]+55/45[A]+39/61[A]",
+        "teams": "Cheonan City FC,Chungnam Asan FC,Home+Cheonan City FC,Seongnam FC,Home+Cheonan City FC,Daegu FC,Away+Cheonan City FC,Cheongju FC,Home+Cheonan City FC,Jeonnam Dragons,Home+Cheonan City FC,Hwaseong FC,Away+Cheonan City FC,Yongin City FC,Away",
+        "tackles": "5/3[H]+0/1[H]+1/3[A]+2/3[H]+2/7[H]+4/2[A]+2/6[A]",
+        "interceptions": "17/19[H]+16/21[H]+16/13[A]+10/22[H]+15/21[H]+19/35[A]+16/27[A]",
+        "aerialDuels": "32/24[H]+15/12[H]+19/12[A]+34/21[H]+24/38[H]+25/12[A]+15/5[A]",
+        "aerialDuelsAttempted": "66/56[H]+27/27[H]+33/37[A]+62/62[H]+67/66[H]+40/39[A]+28/21[A]",
+        "dribbles": "10/17[H]+13/15[H]+17/14[A]+13/21[H]+12/20[H]+13/17[A]+9/3[A]",
+        "dribblesAttempted": "12/20[H]+14/21[H]+18/16[A]+16/28[H]+18/22[H]+20/25[A]+15/9[A]",
+        "isHome": "true+true+false+true+true+false+false",
+        "cornersTotals": "20/35",
+        "cornersTotalsHome": "10/21",
+        "cornersTotalsAway": "10/14",
+        "cornersAverage": "2.86/5.00",
+        "cornersAverageHome": "2.50/5.25",
+        "cornersAverageAway": "3.33/4.67",
+        "foulsTotals": "93/91",
+        "foulsTotalsHome": "53/52",
+        "foulsTotalsAway": "40/39",
+        "foulsAverage": "13.29/13.00",
+        "foulsAverageHome": "13.25/13.00",
+        "foulsAverageAway": "13.33/13.00",
+        "goalKicksTotals": "67/54",
+        "goalKicksTotalsHome": "42/28",
+        "goalKicksTotalsAway": "25/26",
+        "goalKicksAverage": "9.57/7.71",
+        "goalKicksAverageHome": "10.50/7.00",
+        "goalKicksAverageAway": "8.33/8.67",
+        "savesTotals": "27/24",
+        "savesTotalsHome": "16/13",
+        "savesTotalsAway": "11/11",
+        "savesAverage": "3.86/3.43",
+        "savesAverageHome": "4.00/3.25",
+        "savesAverageAway": "3.67/3.67",
+        "offsidesTotals": "9/2",
+        "offsidesTotalsHome": "5/1",
+        "offsidesTotalsAway": "4/1",
+        "offsidesAverage": "1.29/0.29",
+        "offsidesAverageHome": "1.25/0.25",
+        "offsidesAverageAway": "1.33/0.33",
+        "shotsOnTargetTotals": "35/35",
+        "shotsOnTargetTotalsHome": "18/19",
+        "shotsOnTargetTotalsAway": "17/16",
+        "shotsOnTargetAverage": "5.00/5.00",
+        "shotsOnTargetAverageHome": "4.50/4.75",
+        "shotsOnTargetAverageAway": "5.67/5.33",
+        "yellowCardsTotals": "13/9",
+        "yellowCardsTotalsHome": "9/4",
+        "yellowCardsTotalsAway": "4/5",
+        "yellowCardsAverage": "1.86/1.29",
+        "yellowCardsAverageHome": "2.25/1.00",
+        "yellowCardsAverageAway": "1.33/1.67",
+        "goalsTotals": "11/8",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "6/5",
+        "goalsAverage": "1.57/1.14",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "2.00/1.67",
+        "throwInsTotals": "116/126",
+        "throwInsTotalsHome": "75/78",
+        "throwInsTotalsAway": "41/48",
+        "throwInsAverage": "16.57/18.00",
+        "throwInsAverageHome": "18.75/19.50",
+        "throwInsAverageAway": "13.67/16.00",
+        "averageBallPossessionTotals": "345/355",
+        "averageBallPossessionTotalsHome": "197/203",
+        "averageBallPossessionTotalsAway": "148/152",
+        "averageBallPossessionAverage": "49.29/50.71",
+        "averageBallPossessionAverageHome": "49.25/50.75",
+        "averageBallPossessionAverageAway": "49.33/50.67",
+        "tacklesTotals": "16/25",
+        "tacklesTotalsHome": "9/14",
+        "tacklesTotalsAway": "7/11",
+        "tacklesAverage": "2.29/3.57",
+        "tacklesAverageHome": "2.25/3.50",
+        "tacklesAverageAway": "2.33/3.67",
+        "interceptionsTotals": "109/158",
+        "interceptionsTotalsHome": "58/83",
+        "interceptionsTotalsAway": "51/75",
+        "interceptionsAverage": "15.57/22.57",
+        "interceptionsAverageHome": "14.50/20.75",
+        "interceptionsAverageAway": "17.00/25.00",
+        "aerialDuelsTotals": "164/124",
+        "aerialDuelsTotalsHome": "105/95",
+        "aerialDuelsTotalsAway": "59/29",
+        "aerialDuelsAverage": "23.43/17.71",
+        "aerialDuelsAverageHome": "26.25/23.75",
+        "aerialDuelsAverageAway": "19.67/9.67",
+        "aerialDuelsAttemptedTotals": "323/308",
+        "aerialDuelsAttemptedTotalsHome": "222/211",
+        "aerialDuelsAttemptedTotalsAway": "101/97",
+        "aerialDuelsAttemptedAverage": "46.14/44.00",
+        "aerialDuelsAttemptedAverageHome": "55.50/52.75",
+        "aerialDuelsAttemptedAverageAway": "33.67/32.33",
+        "dribblesTotals": "87/107",
+        "dribblesTotalsHome": "48/73",
+        "dribblesTotalsAway": "39/34",
+        "dribblesAverage": "12.43/15.29",
+        "dribblesAverageHome": "12.00/18.25",
+        "dribblesAverageAway": "13.00/11.33",
+        "dribblesAttemptedTotals": "113/141",
+        "dribblesAttemptedTotalsHome": "60/91",
+        "dribblesAttemptedTotalsAway": "53/50",
+        "dribblesAttemptedAverage": "16.14/20.14",
+        "dribblesAttemptedAverageHome": "15.00/22.75",
+        "dribblesAttemptedAverageAway": "17.67/16.67"
+    }
+}

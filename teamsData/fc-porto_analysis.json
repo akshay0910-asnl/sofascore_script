@@ -429,14 +429,14 @@
         "scope": "opponent",
         ">=3": {
           "total": {
-            "hits": 4,
+            "hits": 5,
             "totalMatches": 8,
-            "probability": 0.5
+            "probability": 0.625
           },
           "home": {
-            "hits": 2,
+            "hits": 3,
             "totalMatches": 4,
-            "probability": 0.5
+            "probability": 0.75
           },
           "away": {
             "hits": 2,

@@ -1,0 +1,420 @@
+{
+    "globalStatistics": {
+        "corners": "2.10",
+        "fouls": "12.20",
+        "goalKicks": "6.50",
+        "saves": "4.50",
+        "offsides": "1.60",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "1.70/NaN",
+        "goals": "1.20/1.60",
+        "throwIns": "NaN",
+        "ballPossession": 46.1,
+        "tackles": "NaN/NaN",
+        "interceptions": "44.10/NaN",
+        "aerialDuels": "15.40",
+        "aerialDuelsAttempted": "36.10",
+        "dribbles": "13.10/NaN",
+        "dribblesAttempted": "18.70/NaN"
+    },
+    "teamSlug": "ansan-greeners-fc",
+    "teamId": "248375",
+    "teamName": "Ansan Greeners FC",
+    "tournament": "K League 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/ansan-greeners-fc-yongin-city-fc/qAqsArZb#id:15403864,tab:statistics",
+            "teams": [
+                "Ansan Greeners FC",
+                "Yongin City FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                248375,
+                41266
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ansan-greeners-fc-hwaseong-fc/zdDbsArZb#id:15403853,tab:statistics",
+            "teams": [
+                "Hwaseong FC",
+                "Ansan Greeners FC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                195174,
+                248375
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ansan-greeners-fc-jeonnam-dragons/TcdsArZb#id:15403849,tab:statistics",
+            "teams": [
+                "Ansan Greeners FC",
+                "Jeonnam Dragons"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                248375,
+                7643
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ansan-greeners-fc-seoul-e-land-fc/xNAbsArZb#id:15403842,tab:statistics",
+            "teams": [
+                "Ansan Greeners FC",
+                "Seoul E-Land FC"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                248375,
+                189422
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ansan-greeners-fc-seongnam-fc/bddsArZb#id:15403834,tab:statistics",
+            "teams": [
+                "Seongnam FC",
+                "Ansan Greeners FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                7651,
+                248375
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-ansan-greeners-fc/ArZbsCWKc#id:15403828,tab:statistics",
+            "teams": [
+                "Ansan Greeners FC",
+                "Chungnam Asan FC"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                248375,
+                339827
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cheongju-fc-ansan-greeners-fc/ArZbsTKAc#id:15403817,tab:statistics",
+            "teams": [
+                "Cheongju FC",
+                "Ansan Greeners FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                314293,
+                248375
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ansan-greeners-fc-gimhae-city-fc/kAqsArZb#id:15403804,tab:statistics",
+            "teams": [
+                "Gimhae City FC",
+                "Ansan Greeners FC"
+            ],
+            "goals": [
+                1,
+                4
+            ],
+            "teamIds": [
+                41260,
+                248375
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        null,
+        {
+            "corners": "4/4[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "8/2[A]",
+            "saves": "5/2[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/19[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Ansan Greeners FC,Hwaseong FC,Away",
+            "tackles": "4/6[A]",
+            "interceptions": "18/15[A]",
+            "aerialDuels": "6/5[A]",
+            "aerialDuelsAttempted": "11/13[A]",
+            "dribbles": "14/19[A]",
+            "dribblesAttempted": "15/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/3[H]",
+            "fouls": "8/13[H]",
+            "goalKicks": "7/8[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/14[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Ansan Greeners FC,Jeonnam Dragons,Home",
+            "tackles": "1/3[H]",
+            "interceptions": "20/13[H]",
+            "aerialDuels": "12/16[H]",
+            "aerialDuelsAttempted": "37/38[H]",
+            "dribbles": "11/7[H]",
+            "dribblesAttempted": "13/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/2[H]",
+            "fouls": "6/14[H]",
+            "goalKicks": "12/5[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "0/5[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "0/2[H]",
+            "throwIns": "16/20[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Ansan Greeners FC,Seoul E-Land FC,Home",
+            "tackles": "3/6[H]",
+            "interceptions": "21/19[H]",
+            "aerialDuels": "5/19[H]",
+            "aerialDuelsAttempted": "25/30[H]",
+            "dribbles": "11/16[H]",
+            "dribblesAttempted": "17/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/10[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "13/2[A]",
+            "saves": "8/0[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "16/29[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "Ansan Greeners FC,Seongnam FC,Away",
+            "tackles": "2/2[A]",
+            "interceptions": "19/13[A]",
+            "aerialDuels": "16/18[A]",
+            "aerialDuelsAttempted": "37/35[A]",
+            "dribbles": "5/26[A]",
+            "dribblesAttempted": "5/35[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "17/11[H]",
+            "goalKicks": "14/2[H]",
+            "saves": "4/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "23/20[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Ansan Greeners FC,Chungnam Asan FC,Home",
+            "tackles": "3/0[H]",
+            "interceptions": "35/14[H]",
+            "aerialDuels": "19/29[H]",
+            "aerialDuelsAttempted": "54/51[H]",
+            "dribbles": "7/13[H]",
+            "dribblesAttempted": "18/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "13/7[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "19/20[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Ansan Greeners FC,Cheongju FC,Away",
+            "tackles": "5/2[A]",
+            "interceptions": "18/11[A]",
+            "aerialDuels": "19/11[A]",
+            "aerialDuelsAttempted": "33/30[A]",
+            "dribbles": "14/21[A]",
+            "dribblesAttempted": "23/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "14/12[A]",
+            "goalKicks": "3/6[A]",
+            "saves": "2/7[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "11/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "4/1[A]",
+            "throwIns": "27/15[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Ansan Greeners FC,Gimhae City FC,Away",
+            "tackles": "1/3[A]",
+            "interceptions": "16/14[A]",
+            "aerialDuels": "19/13[A]",
+            "aerialDuelsAttempted": "39/29[A]",
+            "dribbles": "17/6[A]",
+            "dribblesAttempted": "23/8[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-10T09:57:19.556Z",
+    "endTime": "2026-05-10T09:58:06.271Z",
+    "totalTimeSeconds": 46.72,
+    "combinedMatchStatistics": {
+        "corners": "4/4[A]+1/3[H]+1/2[H]+0/10[A]+4/1[H]+1/8[A]+4/4[A]",
+        "fouls": "10/13[A]+8/13[H]+6/14[H]+9/11[A]+17/11[H]+11/15[A]+14/12[A]",
+        "goalKicks": "8/2[A]+7/8[H]+12/5[H]+13/2[A]+14/2[H]+13/7[A]+3/6[A]",
+        "saves": "5/2[A]+2/3[H]+4/0[H]+8/0[A]+4/4[H]+4/2[A]+2/7[A]",
+        "offsides": "4/3[A]+1/0[H]+1/4[H]+1/1[A]+1/2[H]+1/1[A]+2/4[A]",
+        "shotsOnTarget": "1/7[A]+5/3[H]+0/5[H]+1/8[A]+5/7[H]+3/5[A]+11/3[A]",
+        "yellowCards": "1/3[A]+2/1[H]+1/4[H]+1/2[A]+2/2[H]+2/0[A]+2/1[A]",
+        "goals": "0/2[A]+2/1[H]+0/2[H]+1/0[A]+1/3[H]+1/1[A]+4/1[A]",
+        "throwIns": "19/19[A]+19/14[H]+16/20[H]+16/29[A]+23/20[H]+19/20[A]+27/15[A]",
+        "averageBallPossession": "57/43[A]+65/35[H]+39/61[H]+30/70[A]+39/61[H]+36/64[A]+50/50[A]",
+        "teams": "Ansan Greeners FC,Hwaseong FC,Away+Ansan Greeners FC,Jeonnam Dragons,Home+Ansan Greeners FC,Seoul E-Land FC,Home+Ansan Greeners FC,Seongnam FC,Away+Ansan Greeners FC,Chungnam Asan FC,Home+Ansan Greeners FC,Cheongju FC,Away+Ansan Greeners FC,Gimhae City FC,Away",
+        "tackles": "4/6[A]+1/3[H]+3/6[H]+2/2[A]+3/0[H]+5/2[A]+1/3[A]",
+        "interceptions": "18/15[A]+20/13[H]+21/19[H]+19/13[A]+35/14[H]+18/11[A]+16/14[A]",
+        "aerialDuels": "6/5[A]+12/16[H]+5/19[H]+16/18[A]+19/29[H]+19/11[A]+19/13[A]",
+        "aerialDuelsAttempted": "11/13[A]+37/38[H]+25/30[H]+37/35[A]+54/51[H]+33/30[A]+39/29[A]",
+        "dribbles": "14/19[A]+11/7[H]+11/16[H]+5/26[A]+7/13[H]+14/21[A]+17/6[A]",
+        "dribblesAttempted": "15/21[A]+13/15[H]+17/19[H]+5/35[A]+18/18[H]+23/25[A]+23/8[A]",
+        "isHome": "false+true+true+false+true+false+false",
+        "cornersTotals": "15/32",
+        "cornersTotalsHome": "6/6",
+        "cornersTotalsAway": "9/26",
+        "cornersAverage": "2.14/4.57",
+        "cornersAverageHome": "2.00/2.00",
+        "cornersAverageAway": "2.25/6.50",
+        "foulsTotals": "75/89",
+        "foulsTotalsHome": "31/38",
+        "foulsTotalsAway": "44/51",
+        "foulsAverage": "10.71/12.71",
+        "foulsAverageHome": "10.33/12.67",
+        "foulsAverageAway": "11.00/12.75",
+        "goalKicksTotals": "70/32",
+        "goalKicksTotalsHome": "33/15",
+        "goalKicksTotalsAway": "37/17",
+        "goalKicksAverage": "10.00/4.57",
+        "goalKicksAverageHome": "11.00/5.00",
+        "goalKicksAverageAway": "9.25/4.25",
+        "savesTotals": "29/18",
+        "savesTotalsHome": "10/7",
+        "savesTotalsAway": "19/11",
+        "savesAverage": "4.14/2.57",
+        "savesAverageHome": "3.33/2.33",
+        "savesAverageAway": "4.75/2.75",
+        "offsidesTotals": "11/15",
+        "offsidesTotalsHome": "3/6",
+        "offsidesTotalsAway": "8/9",
+        "offsidesAverage": "1.57/2.14",
+        "offsidesAverageHome": "1.00/2.00",
+        "offsidesAverageAway": "2.00/2.25",
+        "shotsOnTargetTotals": "26/38",
+        "shotsOnTargetTotalsHome": "10/15",
+        "shotsOnTargetTotalsAway": "16/23",
+        "shotsOnTargetAverage": "3.71/5.43",
+        "shotsOnTargetAverageHome": "3.33/5.00",
+        "shotsOnTargetAverageAway": "4.00/5.75",
+        "yellowCardsTotals": "11/13",
+        "yellowCardsTotalsHome": "5/7",
+        "yellowCardsTotalsAway": "6/6",
+        "yellowCardsAverage": "1.57/1.86",
+        "yellowCardsAverageHome": "1.67/2.33",
+        "yellowCardsAverageAway": "1.50/1.50",
+        "goalsTotals": "9/10",
+        "goalsTotalsHome": "3/6",
+        "goalsTotalsAway": "6/4",
+        "goalsAverage": "1.29/1.43",
+        "goalsAverageHome": "1.00/2.00",
+        "goalsAverageAway": "1.50/1.00",
+        "throwInsTotals": "139/137",
+        "throwInsTotalsHome": "58/54",
+        "throwInsTotalsAway": "81/83",
+        "throwInsAverage": "19.86/19.57",
+        "throwInsAverageHome": "19.33/18.00",
+        "throwInsAverageAway": "20.25/20.75",
+        "averageBallPossessionTotals": "316/384",
+        "averageBallPossessionTotalsHome": "143/157",
+        "averageBallPossessionTotalsAway": "173/227",
+        "averageBallPossessionAverage": "45.14/54.86",
+        "averageBallPossessionAverageHome": "47.67/52.33",
+        "averageBallPossessionAverageAway": "43.25/56.75",
+        "tacklesTotals": "19/22",
+        "tacklesTotalsHome": "7/9",
+        "tacklesTotalsAway": "12/13",
+        "tacklesAverage": "2.71/3.14",
+        "tacklesAverageHome": "2.33/3.00",
+        "tacklesAverageAway": "3.00/3.25",
+        "interceptionsTotals": "147/99",
+        "interceptionsTotalsHome": "76/46",
+        "interceptionsTotalsAway": "71/53",
+        "interceptionsAverage": "21.00/14.14",
+        "interceptionsAverageHome": "25.33/15.33",
+        "interceptionsAverageAway": "17.75/13.25",
+        "aerialDuelsTotals": "96/111",
+        "aerialDuelsTotalsHome": "36/64",
+        "aerialDuelsTotalsAway": "60/47",
+        "aerialDuelsAverage": "13.71/15.86",
+        "aerialDuelsAverageHome": "12.00/21.33",
+        "aerialDuelsAverageAway": "15.00/11.75",
+        "aerialDuelsAttemptedTotals": "236/226",
+        "aerialDuelsAttemptedTotalsHome": "116/119",
+        "aerialDuelsAttemptedTotalsAway": "120/107",
+        "aerialDuelsAttemptedAverage": "33.71/32.29",
+        "aerialDuelsAttemptedAverageHome": "38.67/39.67",
+        "aerialDuelsAttemptedAverageAway": "30.00/26.75",
+        "dribblesTotals": "79/108",
+        "dribblesTotalsHome": "29/36",
+        "dribblesTotalsAway": "50/72",
+        "dribblesAverage": "11.29/15.43",
+        "dribblesAverageHome": "9.67/12.00",
+        "dribblesAverageAway": "12.50/18.00",
+        "dribblesAttemptedTotals": "114/141",
+        "dribblesAttemptedTotalsHome": "48/52",
+        "dribblesAttemptedTotalsAway": "66/89",
+        "dribblesAttemptedAverage": "16.29/20.14",
+        "dribblesAttemptedAverageHome": "16.00/17.33",
+        "dribblesAttemptedAverageAway": "16.50/22.25"
+    }
+}

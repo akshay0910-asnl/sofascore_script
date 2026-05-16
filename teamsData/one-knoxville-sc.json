@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.13",
+        "fouls": "14.50",
+        "goalKicks": "9.38",
+        "saves": "3.13",
+        "offsides": "1.25",
+        "shotsOnTarget": "5.50/3.75",
+        "yellowCards": "2.25/3.38",
+        "goals": "1.50/0.75",
+        "throwIns": "25.00",
+        "ballPossession": 51.375,
+        "tackles": "16.13/15.88",
+        "interceptions": "8.25/6.38",
+        "aerialDuels": "19.25",
+        "aerialDuelsAttempted": "39.63",
+        "dribbles": "5.75/8.38",
+        "dribblesAttempted": "13.50/18.00"
+    },
+    "teamSlug": "one-knoxville-sc",
+    "teamId": "407748",
+    "teamName": "One Knoxville SC",
+    "tournament": "USL League One",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fc-naples-one-knoxville-sc/YendsQLri#id:15285414,tab:statistics",
+            "teams": [
+                "FC Naples",
+                "One Knoxville SC"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                1044341,
+                407748
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/one-knoxville-sc-charlotte-independence/xQDbsYend#id:15285401,tab:statistics",
+            "teams": [
+                "One Knoxville SC",
+                "Charlotte Independence"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                407748,
+                197072
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portland-hearts-of-pine-one-knoxville-sc/YendsVLri#id:15227332,tab:statistics",
+            "teams": [
+                "Portland Hearts of Pine",
+                "One Knoxville SC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1044345,
+                407748
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sarasota-paradise-one-knoxville-sc/YendsymLd#id:15285394,tab:statistics",
+            "teams": [
+                "Sarasota Paradise",
+                "One Knoxville SC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                465623,
+                407748
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/one-knoxville-sc-richmond-kickers/QBjsYend#id:15285391,tab:statistics",
+            "teams": [
+                "One Knoxville SC",
+                "Richmond Kickers"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                407748,
+                23841
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/one-knoxville-sc-corpus-christi-fc/nHncsYend#id:15779806,tab:statistics",
+            "teams": [
+                "One Knoxville SC",
+                "Corpus Christi FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                407748,
+                284113
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/one-knoxville-sc-forward-madison-fc/HcAcsYend#id:15227329,tab:statistics",
+            "teams": [
+                "One Knoxville SC",
+                "Forward Madison FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                407748,
+                312632
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/westchester-sc-one-knoxville-sc/YendsRLri#id:15227370,tab:statistics",
+            "teams": [
+                "Westchester SC",
+                "One Knoxville SC"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                1044342,
+                407748
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "1/8[A]",
+            "fouls": "17/10[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "2/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "3/0[A]",
+            "throwIns": "23/16[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "One Knoxville SC,FC Naples,Away",
+            "tackles": "11/11[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "15/17[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "11/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/7[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "13/8[H]",
+            "saves": "6/6[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "24/15[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "One Knoxville SC,Charlotte Independence,Home",
+            "tackles": "17/19[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "8/15[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "8/7[H]",
+            "dribblesAttempted": "19/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "11/21[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "5/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "2/6[A]",
+            "goals": "0/0[A]",
+            "throwIns": "31/20[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "One Knoxville SC,Portland Hearts of Pine,Away",
+            "tackles": "25/20[A]",
+            "interceptions": "9/3[A]",
+            "aerialDuels": "12/20[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "12/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/11[A]",
+            "fouls": "12/13[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "6/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "2/1[A]",
+            "throwIns": "16/27[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "One Knoxville SC,Sarasota Paradise,Away",
+            "tackles": "16/11[A]",
+            "interceptions": "6/4[A]",
+            "aerialDuels": "14/14[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "3/11[A]",
+            "dribblesAttempted": "7/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "14/15[H]",
+            "goalKicks": "17/15[H]",
+            "saves": "2/7[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "8/2[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "28/25[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "One Knoxville SC,Richmond Kickers,Home",
+            "tackles": "10/19[H]",
+            "interceptions": "6/11[H]",
+            "aerialDuels": "25/13[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "11/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/2[H]",
+            "fouls": "19/18[H]",
+            "goalKicks": "4/14[H]",
+            "saves": "1/6[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/0[H]",
+            "throwIns": "20/16[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "One Knoxville SC,Corpus Christi FC,Home",
+            "tackles": "14/16[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "35/29[H]",
+            "aerialDuelsAttempted": "64/64[H]",
+            "dribbles": "7/10[H]",
+            "dribblesAttempted": "19/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/4[H]",
+            "fouls": "13/14[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "1/2[H]",
+            "throwIns": "27/34[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "One Knoxville SC,Forward Madison FC,Home",
+            "tackles": "19/21[H]",
+            "interceptions": "5/3[H]",
+            "aerialDuels": "33/24[H]",
+            "aerialDuelsAttempted": "57/57[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "18/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/1[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "8/3[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "3/2[A]",
+            "throwIns": "31/30[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "One Knoxville SC,Westchester SC,Away",
+            "tackles": "17/10[A]",
+            "interceptions": "13/8[A]",
+            "aerialDuels": "12/31[A]",
+            "aerialDuelsAttempted": "43/43[A]",
+            "dribbles": "5/8[A]",
+            "dribblesAttempted": "11/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-10T09:47:44.943Z",
+    "endTime": "2026-05-10T09:48:31.434Z",
+    "totalTimeSeconds": 46.49,
+    "combinedMatchStatistics": {
+        "corners": "1/8[A]+3/7[H]+3/4[A]+3/11[A]+6/4[H]+9/2[H]+10/4[H]+6/1[A]",
+        "fouls": "17/10[A]+13/12[H]+11/21[A]+12/13[A]+14/15[H]+19/18[H]+13/14[H]+17/13[A]",
+        "goalKicks": "11/7[A]+13/8[H]+6/7[A]+9/6[A]+17/15[H]+4/14[H]+9/10[H]+6/7[A]",
+        "saves": "2/3[A]+6/6[H]+5/3[A]+6/2[A]+2/7[H]+1/6[H]+2/2[H]+1/5[A]",
+        "offsides": "0/0[A]+2/1[H]+1/0[A]+1/1[A]+2/3[H]+0/1[H]+3/2[H]+1/0[A]",
+        "shotsOnTarget": "6/2[A]+7/6[H]+3/5[A]+4/7[A]+8/2[H]+6/1[H]+2/4[H]+8/3[A]",
+        "yellowCards": "3/1[A]+2/2[H]+2/6[A]+1/3[A]+5/3[H]+2/4[H]+2/5[H]+1/3[A]",
+        "goals": "3/0[A]+2/1[H]+0/0[A]+2/1[A]+1/0[H]+0/0[H]+1/2[H]+3/2[A]",
+        "throwIns": "23/16[A]+24/15[H]+31/20[A]+16/27[A]+28/25[H]+20/16[H]+27/34[H]+31/30[A]",
+        "averageBallPossession": "36/64[A]+48/52[H]+52/48[A]+57/43[A]+63/37[H]+61/39[H]+60/40[H]+34/66[A]",
+        "teams": "One Knoxville SC,FC Naples,Away+One Knoxville SC,Charlotte Independence,Home+One Knoxville SC,Portland Hearts of Pine,Away+One Knoxville SC,Sarasota Paradise,Away+One Knoxville SC,Richmond Kickers,Home+One Knoxville SC,Corpus Christi FC,Home+One Knoxville SC,Forward Madison FC,Home+One Knoxville SC,Westchester SC,Away",
+        "tackles": "11/11[A]+17/19[H]+25/20[A]+16/11[A]+10/19[H]+14/16[H]+19/21[H]+17/10[A]",
+        "interceptions": "10/9[A]+10/8[H]+9/3[A]+6/4[A]+6/11[H]+7/5[H]+5/3[H]+13/8[A]",
+        "aerialDuels": "15/17[A]+8/15[H]+12/20[A]+14/14[A]+25/13[H]+35/29[H]+33/24[H]+12/31[A]",
+        "aerialDuelsAttempted": "32/32[A]+23/23[H]+32/32[A]+28/28[A]+38/38[H]+64/64[H]+57/57[H]+43/43[A]",
+        "dribbles": "5/10[A]+8/7[H]+7/10[A]+3/11[A]+4/4[H]+7/10[H]+7/7[H]+5/8[A]",
+        "dribblesAttempted": "11/17[A]+19/18[H]+12/23[A]+7/19[A]+11/9[H]+19/18[H]+18/21[H]+11/19[A]",
+        "isHome": "false+true+false+false+true+true+true+false",
+        "cornersTotals": "41/41",
+        "cornersTotalsHome": "28/17",
+        "cornersTotalsAway": "13/24",
+        "cornersAverage": "5.13/5.13",
+        "cornersAverageHome": "7.00/4.25",
+        "cornersAverageAway": "3.25/6.00",
+        "foulsTotals": "116/116",
+        "foulsTotalsHome": "59/59",
+        "foulsTotalsAway": "57/57",
+        "foulsAverage": "14.50/14.50",
+        "foulsAverageHome": "14.75/14.75",
+        "foulsAverageAway": "14.25/14.25",
+        "goalKicksTotals": "75/74",
+        "goalKicksTotalsHome": "43/47",
+        "goalKicksTotalsAway": "32/27",
+        "goalKicksAverage": "9.38/9.25",
+        "goalKicksAverageHome": "10.75/11.75",
+        "goalKicksAverageAway": "8.00/6.75",
+        "savesTotals": "25/34",
+        "savesTotalsHome": "11/21",
+        "savesTotalsAway": "14/13",
+        "savesAverage": "3.13/4.25",
+        "savesAverageHome": "2.75/5.25",
+        "savesAverageAway": "3.50/3.25",
+        "offsidesTotals": "10/8",
+        "offsidesTotalsHome": "7/7",
+        "offsidesTotalsAway": "3/1",
+        "offsidesAverage": "1.25/1.00",
+        "offsidesAverageHome": "1.75/1.75",
+        "offsidesAverageAway": "0.75/0.25",
+        "shotsOnTargetTotals": "44/30",
+        "shotsOnTargetTotalsHome": "23/13",
+        "shotsOnTargetTotalsAway": "21/17",
+        "shotsOnTargetAverage": "5.50/3.75",
+        "shotsOnTargetAverageHome": "5.75/3.25",
+        "shotsOnTargetAverageAway": "5.25/4.25",
+        "yellowCardsTotals": "18/27",
+        "yellowCardsTotalsHome": "11/14",
+        "yellowCardsTotalsAway": "7/13",
+        "yellowCardsAverage": "2.25/3.38",
+        "yellowCardsAverageHome": "2.75/3.50",
+        "yellowCardsAverageAway": "1.75/3.25",
+        "goalsTotals": "12/6",
+        "goalsTotalsHome": "4/3",
+        "goalsTotalsAway": "8/3",
+        "goalsAverage": "1.50/0.75",
+        "goalsAverageHome": "1.00/0.75",
+        "goalsAverageAway": "2.00/0.75",
+        "throwInsTotals": "200/183",
+        "throwInsTotalsHome": "99/90",
+        "throwInsTotalsAway": "101/93",
+        "throwInsAverage": "25.00/22.88",
+        "throwInsAverageHome": "24.75/22.50",
+        "throwInsAverageAway": "25.25/23.25",
+        "averageBallPossessionTotals": "411/389",
+        "averageBallPossessionTotalsHome": "232/168",
+        "averageBallPossessionTotalsAway": "179/221",
+        "averageBallPossessionAverage": "51.38/48.63",
+        "averageBallPossessionAverageHome": "58.00/42.00",
+        "averageBallPossessionAverageAway": "44.75/55.25",
+        "tacklesTotals": "129/127",
+        "tacklesTotalsHome": "60/75",
+        "tacklesTotalsAway": "69/52",
+        "tacklesAverage": "16.13/15.88",
+        "tacklesAverageHome": "15.00/18.75",
+        "tacklesAverageAway": "17.25/13.00",
+        "interceptionsTotals": "66/51",
+        "interceptionsTotalsHome": "28/27",
+        "interceptionsTotalsAway": "38/24",
+        "interceptionsAverage": "8.25/6.38",
+        "interceptionsAverageHome": "7.00/6.75",
+        "interceptionsAverageAway": "9.50/6.00",
+        "aerialDuelsTotals": "154/163",
+        "aerialDuelsTotalsHome": "101/81",
+        "aerialDuelsTotalsAway": "53/82",
+        "aerialDuelsAverage": "19.25/20.38",
+        "aerialDuelsAverageHome": "25.25/20.25",
+        "aerialDuelsAverageAway": "13.25/20.50",
+        "aerialDuelsAttemptedTotals": "317/317",
+        "aerialDuelsAttemptedTotalsHome": "182/182",
+        "aerialDuelsAttemptedTotalsAway": "135/135",
+        "aerialDuelsAttemptedAverage": "39.63/39.63",
+        "aerialDuelsAttemptedAverageHome": "45.50/45.50",
+        "aerialDuelsAttemptedAverageAway": "33.75/33.75",
+        "dribblesTotals": "46/67",
+        "dribblesTotalsHome": "26/28",
+        "dribblesTotalsAway": "20/39",
+        "dribblesAverage": "5.75/8.38",
+        "dribblesAverageHome": "6.50/7.00",
+        "dribblesAverageAway": "5.00/9.75",
+        "dribblesAttemptedTotals": "108/144",
+        "dribblesAttemptedTotalsHome": "67/66",
+        "dribblesAttemptedTotalsAway": "41/78",
+        "dribblesAttemptedAverage": "13.50/18.00",
+        "dribblesAttemptedAverageHome": "16.75/16.50",
+        "dribblesAttemptedAverageAway": "10.25/19.50"
+    }
+}

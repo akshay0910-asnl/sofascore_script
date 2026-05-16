@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.71",
+        "fouls": "12.00",
+        "goalKicks": "6.29",
+        "saves": "3.57",
+        "offsides": "2.14",
+        "shotsOnTarget": "3.86/4.86",
+        "yellowCards": "1.86/1.86",
+        "goals": "0.86/1.57",
+        "throwIns": "24.86",
+        "ballPossession": 53.714285714286,
+        "tackles": "21.43/23.86",
+        "interceptions": "10.86/13.29",
+        "aerialDuels": "8.57",
+        "aerialDuelsAttempted": "16.86",
+        "dribbles": "6.00/7.14",
+        "dribblesAttempted": "14.00/15.86"
+    },
+    "teamSlug": "new-york-city-fc-ii",
+    "teamId": "411368",
+    "teamName": "New York City FC II",
+    "tournament": "MLS Next Pro",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-chicago-fire-fc-ii/nCodstCod#id:15420940,tab:statistics",
+            "teams": [
+                "New York City FC II",
+                "Chicago Fire FC II"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                411368,
+                411363
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-toronto-fc-ii/JfMbstCod#id:15420914,tab:statistics",
+            "teams": [
+                "Toronto FC II",
+                "New York City FC II"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                217784,
+                411368
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/connecticut-united-new-york-city-fc-ii/tCodsoHqj#id:15420905,tab:statistics",
+            "teams": [
+                "New York City FC II",
+                "Connecticut United"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                411368,
+                1166614
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-fc-cincinnati-2/rCodstCod#id:15420896,tab:statistics",
+            "teams": [
+                "FC Cincinnati 2",
+                "New York City FC II"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                411367,
+                411368
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-toronto-fc-ii/JfMbstCod#id:15420858,tab:statistics",
+            "teams": [
+                "New York City FC II",
+                "Toronto FC II"
+            ],
+            "goals": [
+                0,
+                5
+            ],
+            "teamIds": [
+                411368,
+                217784
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-philadelphia-union-ii/KLNbstCod#id:13430717,tab:statistics",
+            "teams": [
+                "Philadelphia Union II",
+                "New York City FC II"
+            ],
+            "goals": [
+                4,
+                3
+            ],
+            "teamIds": [
+                221835,
+                411368
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-chattanooga-fc/LulbstCod#id:13430707,tab:statistics",
+            "teams": [
+                "New York City FC II",
+                "Chattanooga FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                411368,
+                153486
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-ii-chicago-fire-fc-ii/nCodstCod#id:13430678,tab:statistics",
+            "teams": [
+                "Chicago Fire FC II",
+                "New York City FC II"
+            ],
+            "goals": [
+                4,
+                5
+            ],
+            "teamIds": [
+                411363,
+                411368
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/3[H]",
+            "fouls": "15/14[H]",
+            "goalKicks": "7/6[H]",
+            "saves": "2/1[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/18[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "New York City FC II,Chicago Fire FC II,Home",
+            "tackles": "27/31[H]",
+            "interceptions": "16/16[H]",
+            "aerialDuels": "7/5[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "15/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/3[A]",
+            "fouls": "5/6[A]",
+            "goalKicks": "8/13[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "27/21[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "New York City FC II,Toronto FC II,Away",
+            "tackles": "24/23[A]",
+            "interceptions": "9/15[A]",
+            "aerialDuels": "11/6[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "13/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/12[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "5/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "5/6[H]",
+            "yellowCards": "5/5[H]",
+            "goals": "2/1[H]",
+            "throwIns": "38/24[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "New York City FC II,Connecticut United,Home",
+            "tackles": "20/24[H]",
+            "interceptions": "11/16[H]",
+            "aerialDuels": "12/7[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "11/18[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "5/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "24/19[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "New York City FC II,FC Cincinnati 2,Away",
+            "tackles": "17/16[A]",
+            "interceptions": "2/14[A]",
+            "aerialDuels": "9/20[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "16/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "15/7[H]",
+            "goalKicks": "3/9[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/5[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "New York City FC II,Toronto FC II,Home",
+            "tackles": "16/23[H]",
+            "interceptions": "12/16[H]",
+            "aerialDuels": "13/9[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "10/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/10[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "8/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/12[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "3/4[A]",
+            "throwIns": "12/20[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "New York City FC II,Philadelphia Union II,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "12/3[A]",
+            "dribblesAttempted": "16/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "16/3[H]",
+            "fouls": "10/6[H]",
+            "goalKicks": "3/16[H]",
+            "saves": "1/8[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/1[H]",
+            "throwIns": "26/10[H]",
+            "averageBallPossession": "70/30[H]",
+            "teams": "New York City FC II,Chattanooga FC,Home",
+            "tackles": "8/12[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "8/10[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "10/2[H]",
+            "dribblesAttempted": "17/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/1[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "5/3[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "7/9[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "5/4[A]",
+            "throwIns": "20/10[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "New York City FC II,Chicago Fire FC II,Away",
+            "tackles": "17/7[A]",
+            "interceptions": "9/12[A]",
+            "aerialDuels": "8/9[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "11/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-10T09:46:25.267Z",
+    "endTime": "2026-05-10T09:47:00.012Z",
+    "totalTimeSeconds": 34.74,
+    "combinedMatchStatistics": {
+        "corners": "8/3[H]+8/3[A]+7/12[H]+6/5[A]+4/3[H]+3/10[A]+16/3[H]+1/1[A]",
+        "fouls": "15/14[H]+5/6[A]+15/11[H]+11/18[A]+15/7[H]+10/14[A]+10/6[H]+15/14[A]",
+        "goalKicks": "7/6[H]+8/13[A]+7/7[H]+6/10[A]+3/9[H]+10/5[A]+3/16[H]+5/10[A]",
+        "saves": "2/1[H]+3/3[A]+5/3[H]+5/4[A]+2/3[H]+8/2[A]+1/8[H]+5/3[A]",
+        "offsides": "2/2[H]+1/0[A]+2/0[H]+3/1[A]+1/1[H]+1/2[A]+0/3[H]+0/4[A]",
+        "shotsOnTarget": "3/3[H]+4/4[A]+5/6[H]+4/5[A]+3/7[H]+5/12[A]+9/2[H]+7/9[A]",
+        "yellowCards": "1/2[H]+0/1[A]+5/5[H]+2/4[A]+2/0[H]+1/1[A]+1/1[H]+2/3[A]",
+        "goals": "2/1[H]+1/2[A]+2/1[H]+0/1[A]+0/5[H]+3/4[A]+0/1[H]+5/4[A]",
+        "throwIns": "17/18[H]+27/21[A]+38/24[H]+24/19[A]+22/19[H]+12/20[A]+26/10[H]+20/10[A]",
+        "averageBallPossession": "51/49[H]+58/42[A]+43/57[H]+61/39[A]+61/39[H]+60/40[A]+70/30[H]+49/51[A]",
+        "teams": "New York City FC II,Chicago Fire FC II,Home+New York City FC II,Toronto FC II,Away+New York City FC II,Connecticut United,Home+New York City FC II,FC Cincinnati 2,Away+New York City FC II,Toronto FC II,Home+New York City FC II,Philadelphia Union II,Away+New York City FC II,Chattanooga FC,Home+New York City FC II,Chicago Fire FC II,Away",
+        "tackles": "27/31[H]+24/23[A]+20/24[H]+17/16[A]+16/23[H]+12/14[A]+8/12[H]+17/7[A]",
+        "interceptions": "16/16[H]+9/15[A]+11/16[H]+2/14[A]+12/16[H]+8/9[A]+6/10[H]+9/12[A]",
+        "aerialDuels": "7/5[H]+11/6[A]+12/7[H]+9/20[A]+13/9[H]+11/14[A]+8/10[H]+8/9[A]",
+        "aerialDuelsAttempted": "12/12[H]+17/17[A]+19/19[H]+29/29[A]+22/22[H]+25/25[A]+18/18[H]+17/17[A]",
+        "dribbles": "7/7[H]+4/7[A]+9/5[H]+6/8[A]+3/5[H]+12/3[A]+10/2[H]+7/6[A]",
+        "dribblesAttempted": "15/15[H]+13/19[A]+17/13[H]+16/18[A]+10/15[H]+16/11[A]+17/5[H]+11/19[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "53/40",
+        "cornersTotalsHome": "35/21",
+        "cornersTotalsAway": "18/19",
+        "cornersAverage": "6.63/5.00",
+        "cornersAverageHome": "8.75/5.25",
+        "cornersAverageAway": "4.50/4.75",
+        "foulsTotals": "96/90",
+        "foulsTotalsHome": "55/38",
+        "foulsTotalsAway": "41/52",
+        "foulsAverage": "12.00/11.25",
+        "foulsAverageHome": "13.75/9.50",
+        "foulsAverageAway": "10.25/13.00",
+        "goalKicksTotals": "49/76",
+        "goalKicksTotalsHome": "20/38",
+        "goalKicksTotalsAway": "29/38",
+        "goalKicksAverage": "6.13/9.50",
+        "goalKicksAverageHome": "5.00/9.50",
+        "goalKicksAverageAway": "7.25/9.50",
+        "savesTotals": "31/27",
+        "savesTotalsHome": "10/15",
+        "savesTotalsAway": "21/12",
+        "savesAverage": "3.88/3.38",
+        "savesAverageHome": "2.50/3.75",
+        "savesAverageAway": "5.25/3.00",
+        "offsidesTotals": "10/13",
+        "offsidesTotalsHome": "5/6",
+        "offsidesTotalsAway": "5/7",
+        "offsidesAverage": "1.25/1.63",
+        "offsidesAverageHome": "1.25/1.50",
+        "offsidesAverageAway": "1.25/1.75",
+        "shotsOnTargetTotals": "40/48",
+        "shotsOnTargetTotalsHome": "20/18",
+        "shotsOnTargetTotalsAway": "20/30",
+        "shotsOnTargetAverage": "5.00/6.00",
+        "shotsOnTargetAverageHome": "5.00/4.50",
+        "shotsOnTargetAverageAway": "5.00/7.50",
+        "yellowCardsTotals": "14/17",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "5/9",
+        "yellowCardsAverage": "1.75/2.13",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "1.25/2.25",
+        "goalsTotals": "13/19",
+        "goalsTotalsHome": "4/8",
+        "goalsTotalsAway": "9/11",
+        "goalsAverage": "1.63/2.38",
+        "goalsAverageHome": "1.00/2.00",
+        "goalsAverageAway": "2.25/2.75",
+        "throwInsTotals": "186/141",
+        "throwInsTotalsHome": "103/71",
+        "throwInsTotalsAway": "83/70",
+        "throwInsAverage": "23.25/17.63",
+        "throwInsAverageHome": "25.75/17.75",
+        "throwInsAverageAway": "20.75/17.50",
+        "averageBallPossessionTotals": "453/347",
+        "averageBallPossessionTotalsHome": "225/175",
+        "averageBallPossessionTotalsAway": "228/172",
+        "averageBallPossessionAverage": "56.63/43.38",
+        "averageBallPossessionAverageHome": "56.25/43.75",
+        "averageBallPossessionAverageAway": "57.00/43.00",
+        "tacklesTotals": "141/150",
+        "tacklesTotalsHome": "71/90",
+        "tacklesTotalsAway": "70/60",
+        "tacklesAverage": "17.63/18.75",
+        "tacklesAverageHome": "17.75/22.50",
+        "tacklesAverageAway": "17.50/15.00",
+        "interceptionsTotals": "73/108",
+        "interceptionsTotalsHome": "45/58",
+        "interceptionsTotalsAway": "28/50",
+        "interceptionsAverage": "9.13/13.50",
+        "interceptionsAverageHome": "11.25/14.50",
+        "interceptionsAverageAway": "7.00/12.50",
+        "aerialDuelsTotals": "79/80",
+        "aerialDuelsTotalsHome": "40/31",
+        "aerialDuelsTotalsAway": "39/49",
+        "aerialDuelsAverage": "9.88/10.00",
+        "aerialDuelsAverageHome": "10.00/7.75",
+        "aerialDuelsAverageAway": "9.75/12.25",
+        "aerialDuelsAttemptedTotals": "159/159",
+        "aerialDuelsAttemptedTotalsHome": "71/71",
+        "aerialDuelsAttemptedTotalsAway": "88/88",
+        "aerialDuelsAttemptedAverage": "19.88/19.88",
+        "aerialDuelsAttemptedAverageHome": "17.75/17.75",
+        "aerialDuelsAttemptedAverageAway": "22.00/22.00",
+        "dribblesTotals": "58/43",
+        "dribblesTotalsHome": "29/19",
+        "dribblesTotalsAway": "29/24",
+        "dribblesAverage": "7.25/5.38",
+        "dribblesAverageHome": "7.25/4.75",
+        "dribblesAverageAway": "7.25/6.00",
+        "dribblesAttemptedTotals": "115/115",
+        "dribblesAttemptedTotalsHome": "59/48",
+        "dribblesAttemptedTotalsAway": "56/67",
+        "dribblesAttemptedAverage": "14.38/14.38",
+        "dribblesAttemptedAverageHome": "14.75/12.00",
+        "dribblesAttemptedAverageAway": "14.00/16.75"
+    }
+}
