@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.62",
+        "fouls": "10.38",
+        "goalKicks": "7.69",
+        "saves": "3.92",
+        "offsides": "1.23",
+        "shotsOnTarget": "4.54/5.54",
+        "yellowCards": "2.46/2.77",
+        "goals": "1.54/1.69",
+        "throwIns": "17.15",
+        "ballPossession": 47.769230769231,
+        "tackles": "11.23/14.69",
+        "interceptions": "7.54/8.00",
+        "aerialDuels": "9.23",
+        "aerialDuelsAttempted": "18.62",
+        "dribbles": "5.77/5.54",
+        "dribblesAttempted": "13.31/10.62"
+    },
+    "teamSlug": "charlotte-fc",
+    "teamId": "404108",
+    "teamName": "Charlotte FC",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-new-york-city-fc/TcAbsiHld#id:15171541,tab:statistics",
+            "teams": [
+                "Charlotte FC",
+                "New York City FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                404108,
+                187643
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-fc-cincinnati/rdLbsiHld#id:15171531,tab:statistics",
+            "teams": [
+                "Charlotte FC",
+                "FC Cincinnati"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                404108,
+                215167
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-new-england-revolution/labsiHld#id:15171516,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "Charlotte FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2511,
+                404108
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-nashville-sc/mcKcsiHld#id:15171515,tab:statistics",
+            "teams": [
+                "Nashville SC",
+                "Charlotte FC"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                337612,
+                404108
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-orlando-city-sc/MUvsiHld#id:15171491,tab:statistics",
+            "teams": [
+                "Orlando City SC",
+                "Charlotte FC"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                52237,
+                404108
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-new-york-city-fc/TcAbsiHld#id:15171476,tab:statistics",
+            "teams": [
+                "New York City FC",
+                "Charlotte FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                187643,
+                404108
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-nashville-sc/mcKcsiHld#id:15171468,tab:statistics",
+            "teams": [
+                "Charlotte FC",
+                "Nashville SC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                404108,
+                337612
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-philadelphia-union/IWpsiHld#id:15171453,tab:statistics",
+            "teams": [
+                "Charlotte FC",
+                "Philadelphia Union"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                404108,
+                39833
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/2[H]",
+            "fouls": "14/19[H]",
+            "goalKicks": "4/4[H]",
+            "saves": "0/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/1[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "0/1[H]",
+            "throwIns": "19/17[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Charlotte FC,New York City FC,Home",
+            "tackles": "10/14[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "6/5[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "3/4[H]",
+            "dribblesAttempted": "7/8[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "9/15[H]",
+            "goalKicks": "5/7[H]",
+            "saves": "3/2[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "2/2[H]",
+            "throwIns": "13/10[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Charlotte FC,FC Cincinnati,Home",
+            "tackles": "13/10[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "11/10[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "10/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "8/6[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "16/12[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Charlotte FC,New England Revolution,Away",
+            "tackles": "11/16[A]",
+            "interceptions": "10/12[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "3/2[A]",
+            "dribblesAttempted": "9/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "8/13[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "3/0[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/4[A]",
+            "throwIns": "15/17[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Charlotte FC,Nashville SC,Away",
+            "tackles": "14/16[A]",
+            "interceptions": "6/5[A]",
+            "aerialDuels": "6/10[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "10/13[A]",
+            "dribblesAttempted": "17/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "10/12[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "1/4[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Charlotte FC,Orlando City SC,Away",
+            "tackles": "9/17[A]",
+            "interceptions": "4/10[A]",
+            "aerialDuels": "6/7[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "8/3[A]",
+            "dribblesAttempted": "18/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "7/7[A]",
+            "goalKicks": "16/2[A]",
+            "saves": "6/2[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "5/7[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "9/10[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Charlotte FC,New York City FC,Away",
+            "tackles": "8/17[A]",
+            "interceptions": "11/5[A]",
+            "aerialDuels": "9/16[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "13/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "9/15[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "4/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "20/12[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Charlotte FC,Nashville SC,Home",
+            "tackles": "13/10[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "4/9[H]",
+            "dribblesAttempted": "9/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "10/22[H]",
+            "goalKicks": "11/3[H]",
+            "saves": "2/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "4/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/19[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Charlotte FC,Philadelphia Union,Home",
+            "tackles": "7/20[H]",
+            "interceptions": "4/11[H]",
+            "aerialDuels": "16/11[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "14/7[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T13:57:59.871Z",
+    "endTime": "2026-05-16T13:58:31.580Z",
+    "totalTimeSeconds": 31.71,
+    "combinedMatchStatistics": {
+        "corners": "8/2[H]+7/4[H]+5/3[A]+4/6[A]+4/2[A]+1/6[A]+2/4[H]+6/7[H]",
+        "fouls": "14/19[H]+9/15[H]+16/10[A]+8/13[A]+10/12[A]+7/7[A]+9/15[H]+10/22[H]",
+        "goalKicks": "4/4[H]+5/7[H]+8/6[A]+9/8[A]+8/9[A]+16/2[A]+5/10[H]+11/3[H]",
+        "saves": "0/2[H]+3/2[H]+3/3[A]+3/0[A]+2/4[A]+6/2[A]+4/2[H]+2/3[H]",
+        "offsides": "2/1[H]+2/1[H]+0/0[A]+0/2[A]+1/2[A]+0/4[A]+0/0[H]+1/1[H]",
+        "shotsOnTarget": "2/1[H]+3/5[H]+4/4[A]+2/7[A]+5/6[A]+5/7[A]+3/6[H]+5/3[H]",
+        "yellowCards": "4/5[H]+1/4[H]+4/3[A]+1/2[A]+2/5[A]+4/2[A]+0/3[H]+4/4[H]",
+        "goals": "0/1[H]+2/2[H]+0/1[A]+2/4[A]+1/4[A]+2/1[A]+1/2[H]+2/1[H]",
+        "throwIns": "19/17[H]+13/10[H]+16/12[A]+15/17[A]+17/14[A]+9/10[A]+20/12[H]+19/19[H]",
+        "averageBallPossession": "47/53[H]+47/53[H]+45/55[A]+39/61[A]+57/43[A]+36/64[A]+45/55[H]+58/42[H]",
+        "teams": "Charlotte FC,New York City FC,Home+Charlotte FC,FC Cincinnati,Home+Charlotte FC,New England Revolution,Away+Charlotte FC,Nashville SC,Away+Charlotte FC,Orlando City SC,Away+Charlotte FC,New York City FC,Away+Charlotte FC,Nashville SC,Home+Charlotte FC,Philadelphia Union,Home",
+        "tackles": "10/14[H]+13/10[H]+11/16[A]+14/16[A]+9/17[A]+8/17[A]+13/10[H]+7/20[H]",
+        "interceptions": "9/7[H]+5/6[H]+10/12[A]+6/5[A]+4/10[A]+11/5[A]+13/7[H]+4/11[H]",
+        "aerialDuels": "6/5[H]+11/10[H]+12/9[A]+6/10[A]+6/7[A]+9/16[A]+9/10[H]+16/11[H]",
+        "aerialDuelsAttempted": "11/11[H]+21/21[H]+21/21[A]+16/16[A]+13/13[A]+25/25[A]+19/19[H]+27/27[H]",
+        "dribbles": "3/4[H]+4/6[H]+3/2[A]+10/13[A]+8/3[A]+4/5[A]+4/9[H]+7/5[H]",
+        "dribblesAttempted": "7/8[H]+10/12[H]+9/8[A]+17/17[A]+18/9[A]+13/8[A]+9/17[H]+14/7[H]",
+        "isHome": "true+true+false+false+false+false+true+true",
+        "cornersTotals": "37/34",
+        "cornersTotalsHome": "23/17",
+        "cornersTotalsAway": "14/17",
+        "cornersAverage": "4.63/4.25",
+        "cornersAverageHome": "5.75/4.25",
+        "cornersAverageAway": "3.50/4.25",
+        "foulsTotals": "83/113",
+        "foulsTotalsHome": "42/71",
+        "foulsTotalsAway": "41/42",
+        "foulsAverage": "10.38/14.13",
+        "foulsAverageHome": "10.50/17.75",
+        "foulsAverageAway": "10.25/10.50",
+        "goalKicksTotals": "66/49",
+        "goalKicksTotalsHome": "25/24",
+        "goalKicksTotalsAway": "41/25",
+        "goalKicksAverage": "8.25/6.13",
+        "goalKicksAverageHome": "6.25/6.00",
+        "goalKicksAverageAway": "10.25/6.25",
+        "savesTotals": "23/18",
+        "savesTotalsHome": "9/9",
+        "savesTotalsAway": "14/9",
+        "savesAverage": "2.88/2.25",
+        "savesAverageHome": "2.25/2.25",
+        "savesAverageAway": "3.50/2.25",
+        "offsidesTotals": "6/11",
+        "offsidesTotalsHome": "5/3",
+        "offsidesTotalsAway": "1/8",
+        "offsidesAverage": "0.75/1.38",
+        "offsidesAverageHome": "1.25/0.75",
+        "offsidesAverageAway": "0.25/2.00",
+        "shotsOnTargetTotals": "29/39",
+        "shotsOnTargetTotalsHome": "13/15",
+        "shotsOnTargetTotalsAway": "16/24",
+        "shotsOnTargetAverage": "3.63/4.88",
+        "shotsOnTargetAverageHome": "3.25/3.75",
+        "shotsOnTargetAverageAway": "4.00/6.00",
+        "yellowCardsTotals": "20/28",
+        "yellowCardsTotalsHome": "9/16",
+        "yellowCardsTotalsAway": "11/12",
+        "yellowCardsAverage": "2.50/3.50",
+        "yellowCardsAverageHome": "2.25/4.00",
+        "yellowCardsAverageAway": "2.75/3.00",
+        "goalsTotals": "10/16",
+        "goalsTotalsHome": "5/6",
+        "goalsTotalsAway": "5/10",
+        "goalsAverage": "1.25/2.00",
+        "goalsAverageHome": "1.25/1.50",
+        "goalsAverageAway": "1.25/2.50",
+        "throwInsTotals": "128/111",
+        "throwInsTotalsHome": "71/58",
+        "throwInsTotalsAway": "57/53",
+        "throwInsAverage": "16.00/13.88",
+        "throwInsAverageHome": "17.75/14.50",
+        "throwInsAverageAway": "14.25/13.25",
+        "averageBallPossessionTotals": "374/426",
+        "averageBallPossessionTotalsHome": "197/203",
+        "averageBallPossessionTotalsAway": "177/223",
+        "averageBallPossessionAverage": "46.75/53.25",
+        "averageBallPossessionAverageHome": "49.25/50.75",
+        "averageBallPossessionAverageAway": "44.25/55.75",
+        "tacklesTotals": "85/120",
+        "tacklesTotalsHome": "43/54",
+        "tacklesTotalsAway": "42/66",
+        "tacklesAverage": "10.63/15.00",
+        "tacklesAverageHome": "10.75/13.50",
+        "tacklesAverageAway": "10.50/16.50",
+        "interceptionsTotals": "62/63",
+        "interceptionsTotalsHome": "31/31",
+        "interceptionsTotalsAway": "31/32",
+        "interceptionsAverage": "7.75/7.88",
+        "interceptionsAverageHome": "7.75/7.75",
+        "interceptionsAverageAway": "7.75/8.00",
+        "aerialDuelsTotals": "75/78",
+        "aerialDuelsTotalsHome": "42/36",
+        "aerialDuelsTotalsAway": "33/42",
+        "aerialDuelsAverage": "9.38/9.75",
+        "aerialDuelsAverageHome": "10.50/9.00",
+        "aerialDuelsAverageAway": "8.25/10.50",
+        "aerialDuelsAttemptedTotals": "153/153",
+        "aerialDuelsAttemptedTotalsHome": "78/78",
+        "aerialDuelsAttemptedTotalsAway": "75/75",
+        "aerialDuelsAttemptedAverage": "19.13/19.13",
+        "aerialDuelsAttemptedAverageHome": "19.50/19.50",
+        "aerialDuelsAttemptedAverageAway": "18.75/18.75",
+        "dribblesTotals": "43/47",
+        "dribblesTotalsHome": "18/24",
+        "dribblesTotalsAway": "25/23",
+        "dribblesAverage": "5.38/5.88",
+        "dribblesAverageHome": "4.50/6.00",
+        "dribblesAverageAway": "6.25/5.75",
+        "dribblesAttemptedTotals": "97/86",
+        "dribblesAttemptedTotalsHome": "40/44",
+        "dribblesAttemptedTotalsAway": "57/42",
+        "dribblesAttemptedAverage": "12.13/10.75",
+        "dribblesAttemptedAverageHome": "10.00/11.00",
+        "dribblesAttemptedAverageAway": "14.25/10.50"
+    }
+}

@@ -1,27 +1,123 @@
 {
     "globalStatistics": {
         "corners": "3.83",
-        "fouls": "16.26",
-        "goalKicks": "8.35",
-        "saves": "2.00",
-        "offsides": "1.52",
-        "shotsOnTarget": "2.96/3.26",
-        "yellowCards": "2.35/2.09",
-        "goals": "1.00/1.09",
-        "throwIns": "20.04",
-        "ballPossession": 42.173913043478,
-        "tackles": "14.09/14.70",
-        "interceptions": "11.26/9.48",
-        "aerialDuels": "19.65",
-        "aerialDuelsAttempted": "36.78",
-        "dribbles": "6.00/5.17",
-        "dribblesAttempted": "13.52/12.61"
+        "fouls": "15.55",
+        "goalKicks": "8.62",
+        "saves": "2.38",
+        "offsides": "1.59",
+        "shotsOnTarget": "3.10/3.45",
+        "yellowCards": "2.38/2.14",
+        "goals": "0.93/0.97",
+        "throwIns": "19.69",
+        "ballPossession": 43.241379310345,
+        "tackles": "14.03/14.45",
+        "interceptions": "10.55/9.21",
+        "aerialDuels": "20.07",
+        "aerialDuelsAttempted": "37.93",
+        "dribbles": "5.93/5.10",
+        "dribblesAttempted": "13.31/12.66"
     },
     "teamSlug": "rubin-kazan",
     "teamId": "2333",
     "teamName": "Rubin Kazan",
     "tournament": "Russian Premier League",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/rubin-kazan-fc-spartak-moscow/yWsIW#id:14036750,tab:statistics",
+            "teams": [
+                "FC Spartak Moscow",
+                "Rubin Kazan"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2323,
+                2333
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/baltika-kaliningrad-rubin-kazan/IWsrad#id:14036735,tab:statistics",
+            "teams": [
+                "Baltika Kaliningrad",
+                "Rubin Kazan"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                7517,
+                2333
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rubin-kazan-cska-moscow/AWsIW#id:14036727,tab:statistics",
+            "teams": [
+                "Rubin Kazan",
+                "CSKA Moscow"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                2333,
+                2325
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/rubin-kazan-dynamo-moscow/pWsIW#id:14036723,tab:statistics",
+            "teams": [
+                "Dynamo Moscow",
+                "Rubin Kazan"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                2315,
+                2333
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/akron-togliatti-rubin-kazan/IWsOnoc#id:14036766,tab:statistics",
+            "teams": [
+                "Rubin Kazan",
+                "Akron Togliatti"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2333,
+                285689
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orenburg-rubin-kazan/IWstHj#id:14167192,tab:statistics",
+            "teams": [
+                "Rubin Kazan",
+                "Orenburg"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                2333,
+                24118
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/fc-sochi-rubin-kazan/IWsJW#id:14038642,tab:statistics",
             "teams": [
@@ -34,22 +130,6 @@
             ],
             "teamIds": [
                 2334,
-                2333
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rubin-kazan-krylya-sovetov-samara/xWsIW#id:14038627,tab:statistics",
-            "teams": [
-                "Krylya Sovetov Samara",
-                "Rubin Kazan"
-            ],
-            "goals": [
-                0,
-                0
-            ],
-            "teamIds": [
-                2322,
                 2333
             ],
             "isHome": false
@@ -69,91 +149,131 @@
                 2320
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/fk-krasnodar-rubin-kazan/IWsANn#id:14038617,tab:statistics",
-            "teams": [
-                "Rubin Kazan",
-                "FC Krasnodar"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2333,
-                34425
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dinamo-makhachkala-rubin-kazan/IWsqPUc#id:14038607,tab:statistics",
-            "teams": [
-                "Dinamo Makhachkala",
-                "Rubin Kazan"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                362016,
-                2333
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rubin-kazan-fc-rostov/BWsIW#id:14038600,tab:statistics",
-            "teams": [
-                "FC Rostov",
-                "Rubin Kazan"
-            ],
-            "goals": [
-                2,
-                0
-            ],
-            "teamIds": [
-                2326,
-                2333
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/akhmat-grozny-rubin-kazan/IWsGcc#id:14038584,tab:statistics",
-            "teams": [
-                "Rubin Kazan",
-                "Akhmat Grozny"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                2333,
-                5131
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rubin-kazan-dynamo-moscow/pWsIW#id:14038568,tab:statistics",
-            "teams": [
-                "Rubin Kazan",
-                "Dynamo Moscow"
-            ],
-            "goals": [
-                0,
-                0
-            ],
-            "teamIds": [
-                2333,
-                2315
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "10/16[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "5/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "16/17[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Rubin Kazan,FC Spartak Moscow,Away",
+            "tackles": "14/9[A]",
+            "interceptions": "13/15[A]",
+            "aerialDuels": "11/13[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "7/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[A]",
+            "fouls": "12/20[A]",
+            "goalKicks": "9/0[A]",
+            "saves": "2/2[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "29/24[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Rubin Kazan,Baltika Kaliningrad,Away",
+            "tackles": "16/13[A]",
+            "interceptions": "7/4[A]",
+            "aerialDuels": "36/29[A]",
+            "aerialDuelsAttempted": "65/65[A]",
+            "dribbles": "2/5[A]",
+            "dribblesAttempted": "10/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "15/10[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "8/4[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "12/20[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Rubin Kazan,CSKA Moscow,Home",
+            "tackles": "18/12[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "20/17[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "7/3[H]",
+            "dribblesAttempted": "14/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/8[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "14/20[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Rubin Kazan,Dynamo Moscow,Away",
+            "tackles": "8/16[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "19/14[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "14/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[H]",
+            "fouls": "10/13[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "1/6[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/18[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Rubin Kazan,Akron Togliatti,Home",
+            "tackles": "14/11[H]",
+            "interceptions": "4/3[H]",
+            "aerialDuels": "18/24[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "10/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "12/18[H]",
+            "goalKicks": "14/4[H]",
+            "saves": "4/1[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "1/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "21/24[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Rubin Kazan,Orenburg,Home",
+            "tackles": "13/20[H]",
+            "interceptions": "6/8[H]",
+            "aerialDuels": "26/27[H]",
+            "aerialDuelsAttempted": "53/53[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "20/8[H]",
+            "isHome": true
+        },
         {
             "corners": "1/6[A]",
             "fouls": "18/17[A]",
@@ -175,26 +295,6 @@
             "isHome": false
         },
         {
-            "corners": "1/7[A]",
-            "fouls": "10/18[A]",
-            "goalKicks": "10/7[A]",
-            "saves": "1/2[A]",
-            "offsides": "0/2[A]",
-            "shotsOnTarget": "2/1[A]",
-            "yellowCards": "0/1[A]",
-            "goals": "0/0[A]",
-            "throwIns": "31/20[A]",
-            "averageBallPossession": "55/45[A]",
-            "teams": "Rubin Kazan,Krylya Sovetov Samara,Away",
-            "tackles": "8/16[A]",
-            "interceptions": "6/10[A]",
-            "aerialDuels": "13/13[A]",
-            "aerialDuelsAttempted": "26/26[A]",
-            "dribbles": "11/2[A]",
-            "dribblesAttempted": "22/6[A]",
-            "isHome": false
-        },
-        {
             "corners": "4/4[H]",
             "fouls": "14/20[H]",
             "goalKicks": "9/5[H]",
@@ -213,227 +313,127 @@
             "dribbles": "12/7[H]",
             "dribblesAttempted": "15/19[H]",
             "isHome": true
-        },
-        {
-            "corners": "1/2[H]",
-            "fouls": "18/21[H]",
-            "goalKicks": "2/4[H]",
-            "saves": "2/3[H]",
-            "offsides": "1/4[H]",
-            "shotsOnTarget": "5/3[H]",
-            "yellowCards": "3/0[H]",
-            "goals": "2/1[H]",
-            "throwIns": "17/15[H]",
-            "averageBallPossession": "37/63[H]",
-            "teams": "Rubin Kazan,FC Krasnodar,Home",
-            "tackles": "13/20[H]",
-            "interceptions": "11/15[H]",
-            "aerialDuels": "16/16[H]",
-            "aerialDuelsAttempted": "32/32[H]",
-            "dribbles": "9/6[H]",
-            "dribblesAttempted": "19/13[H]",
-            "isHome": true
-        },
-        {
-            "corners": "1/6[A]",
-            "fouls": "14/12[A]",
-            "goalKicks": "6/5[A]",
-            "saves": "1/0[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "1/3[A]",
-            "yellowCards": "4/0[A]",
-            "goals": "1/2[A]",
-            "throwIns": "30/35[A]",
-            "averageBallPossession": "40/60[A]",
-            "teams": "Rubin Kazan,Dinamo Makhachkala,Away",
-            "tackles": "17/14[A]",
-            "interceptions": "7/6[A]",
-            "aerialDuels": "30/22[A]",
-            "aerialDuelsAttempted": "52/52[A]",
-            "dribbles": "6/12[A]",
-            "dribblesAttempted": "13/26[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/8[A]",
-            "fouls": "19/17[A]",
-            "goalKicks": "17/8[A]",
-            "saves": "0/1[A]",
-            "offsides": "4/2[A]",
-            "shotsOnTarget": "1/2[A]",
-            "yellowCards": "4/3[A]",
-            "goals": "0/2[A]",
-            "throwIns": "15/19[A]",
-            "averageBallPossession": "45/55[A]",
-            "teams": "Rubin Kazan,FC Rostov,Away",
-            "tackles": "20/9[A]",
-            "interceptions": "4/9[A]",
-            "aerialDuels": "28/30[A]",
-            "aerialDuelsAttempted": "58/58[A]",
-            "dribbles": "4/7[A]",
-            "dribblesAttempted": "5/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/3[H]",
-            "fouls": "14/13[H]",
-            "goalKicks": "6/8[H]",
-            "saves": "0/1[H]",
-            "offsides": "2/3[H]",
-            "shotsOnTarget": "3/0[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "1/0[H]",
-            "throwIns": "25/16[H]",
-            "averageBallPossession": "49/51[H]",
-            "teams": "Rubin Kazan,Akhmat Grozny,Home",
-            "tackles": "13/17[H]",
-            "interceptions": "11/17[H]",
-            "aerialDuels": "24/15[H]",
-            "aerialDuelsAttempted": "39/39[H]",
-            "dribbles": "7/4[H]",
-            "dribblesAttempted": "17/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/5[H]",
-            "fouls": "16/14[H]",
-            "goalKicks": "10/9[H]",
-            "saves": "3/2[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "2/4[H]",
-            "yellowCards": "4/3[H]",
-            "goals": "0/0[H]",
-            "throwIns": "18/15[H]",
-            "averageBallPossession": "33/67[H]",
-            "teams": "Rubin Kazan,Dynamo Moscow,Home",
-            "tackles": "7/16[H]",
-            "interceptions": "13/4[H]",
-            "aerialDuels": "15/14[H]",
-            "aerialDuelsAttempted": "29/29[H]",
-            "dribbles": "9/3[H]",
-            "dribblesAttempted": "14/3[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 7,
-    "startTime": "2026-04-11T13:05:35.134Z",
-    "endTime": "2026-04-11T13:05:57.680Z",
-    "totalTimeSeconds": 22.55,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T17:43:12.383Z",
+    "endTime": "2026-05-16T17:43:42.111Z",
+    "totalTimeSeconds": 29.73,
     "combinedMatchStatistics": {
-        "corners": "1/6[A]+1/7[A]+4/4[H]+1/2[H]+1/6[A]+3/8[A]+3/3[H]+3/5[H]",
-        "fouls": "18/17[A]+10/18[A]+14/20[H]+18/21[H]+14/12[A]+19/17[A]+14/13[H]+16/14[H]",
-        "goalKicks": "10/5[A]+10/7[A]+9/5[H]+2/4[H]+6/5[A]+17/8[A]+6/8[H]+10/9[H]",
-        "saves": "5/0[A]+1/2[A]+2/2[H]+2/3[H]+1/0[A]+0/1[A]+0/1[H]+3/2[H]",
-        "offsides": "3/4[A]+0/2[A]+1/3[H]+1/4[H]+1/0[A]+4/2[A]+2/3[H]+2/1[H]",
-        "shotsOnTarget": "1/5[A]+2/1[A]+4/2[H]+5/3[H]+1/3[A]+1/2[A]+3/0[H]+2/4[H]",
-        "yellowCards": "2/2[A]+0/1[A]+1/6[H]+3/0[H]+4/0[A]+4/3[A]+2/1[H]+4/3[H]",
-        "goals": "1/0[A]+0/0[A]+3/0[H]+2/1[H]+1/2[A]+0/2[A]+1/0[H]+0/0[H]",
-        "throwIns": "22/20[A]+31/20[A]+22/24[H]+17/15[H]+30/35[A]+15/19[A]+25/16[H]+18/15[H]",
-        "averageBallPossession": "48/52[A]+55/45[A]+49/51[H]+37/63[H]+40/60[A]+45/55[A]+49/51[H]+33/67[H]",
-        "teams": "Rubin Kazan,FC Sochi,Away+Rubin Kazan,Krylya Sovetov Samara,Away+Rubin Kazan,Lokomotiv Moscow,Home+Rubin Kazan,FC Krasnodar,Home+Rubin Kazan,Dinamo Makhachkala,Away+Rubin Kazan,FC Rostov,Away+Rubin Kazan,Akhmat Grozny,Home+Rubin Kazan,Dynamo Moscow,Home",
-        "tackles": "11/12[A]+8/16[A]+18/7[H]+13/20[H]+17/14[A]+20/9[A]+13/17[H]+7/16[H]",
-        "interceptions": "20/14[A]+6/10[A]+11/8[H]+11/15[H]+7/6[A]+4/9[A]+11/17[H]+13/4[H]",
-        "aerialDuels": "19/20[A]+13/13[A]+27/20[H]+16/16[H]+30/22[A]+28/30[A]+24/15[H]+15/14[H]",
-        "aerialDuelsAttempted": "39/39[A]+26/26[A]+47/47[H]+32/32[H]+52/52[A]+58/58[A]+39/39[H]+29/29[H]",
-        "dribbles": "4/9[A]+11/2[A]+12/7[H]+9/6[H]+6/12[A]+4/7[A]+7/4[H]+9/3[H]",
-        "dribblesAttempted": "10/16[A]+22/6[A]+15/19[H]+19/13[H]+13/26[A]+5/17[A]+17/9[H]+14/3[H]",
-        "isHome": "false+false+true+true+false+false+true+true",
-        "cornersTotals": "17/41",
-        "cornersTotalsHome": "11/14",
-        "cornersTotalsAway": "6/27",
-        "cornersAverage": "2.13/5.13",
-        "cornersAverageHome": "2.75/3.50",
-        "cornersAverageAway": "1.50/6.75",
-        "foulsTotals": "123/132",
-        "foulsTotalsHome": "62/68",
-        "foulsTotalsAway": "61/64",
-        "foulsAverage": "15.38/16.50",
-        "foulsAverageHome": "15.50/17.00",
-        "foulsAverageAway": "15.25/16.00",
-        "goalKicksTotals": "70/51",
-        "goalKicksTotalsHome": "27/26",
-        "goalKicksTotalsAway": "43/25",
-        "goalKicksAverage": "8.75/6.38",
-        "goalKicksAverageHome": "6.75/6.50",
-        "goalKicksAverageAway": "10.75/6.25",
-        "savesTotals": "14/11",
-        "savesTotalsHome": "7/8",
-        "savesTotalsAway": "7/3",
-        "savesAverage": "1.75/1.38",
-        "savesAverageHome": "1.75/2.00",
-        "savesAverageAway": "1.75/0.75",
-        "offsidesTotals": "14/19",
-        "offsidesTotalsHome": "6/11",
-        "offsidesTotalsAway": "8/8",
-        "offsidesAverage": "1.75/2.38",
-        "offsidesAverageHome": "1.50/2.75",
-        "offsidesAverageAway": "2.00/2.00",
-        "shotsOnTargetTotals": "19/20",
-        "shotsOnTargetTotalsHome": "14/9",
-        "shotsOnTargetTotalsAway": "5/11",
-        "shotsOnTargetAverage": "2.38/2.50",
-        "shotsOnTargetAverageHome": "3.50/2.25",
-        "shotsOnTargetAverageAway": "1.25/2.75",
-        "yellowCardsTotals": "20/16",
-        "yellowCardsTotalsHome": "10/10",
-        "yellowCardsTotalsAway": "10/6",
-        "yellowCardsAverage": "2.50/2.00",
-        "yellowCardsAverageHome": "2.50/2.50",
-        "yellowCardsAverageAway": "2.50/1.50",
-        "goalsTotals": "8/5",
-        "goalsTotalsHome": "6/1",
-        "goalsTotalsAway": "2/4",
-        "goalsAverage": "1.00/0.63",
-        "goalsAverageHome": "1.50/0.25",
-        "goalsAverageAway": "0.50/1.00",
-        "throwInsTotals": "180/164",
-        "throwInsTotalsHome": "82/70",
-        "throwInsTotalsAway": "98/94",
-        "throwInsAverage": "22.50/20.50",
-        "throwInsAverageHome": "20.50/17.50",
-        "throwInsAverageAway": "24.50/23.50",
-        "averageBallPossessionTotals": "356/444",
-        "averageBallPossessionTotalsHome": "168/232",
-        "averageBallPossessionTotalsAway": "188/212",
-        "averageBallPossessionAverage": "44.50/55.50",
-        "averageBallPossessionAverageHome": "42.00/58.00",
-        "averageBallPossessionAverageAway": "47.00/53.00",
-        "tacklesTotals": "107/111",
-        "tacklesTotalsHome": "51/60",
-        "tacklesTotalsAway": "56/51",
-        "tacklesAverage": "13.38/13.88",
-        "tacklesAverageHome": "12.75/15.00",
-        "tacklesAverageAway": "14.00/12.75",
-        "interceptionsTotals": "83/83",
-        "interceptionsTotalsHome": "46/44",
-        "interceptionsTotalsAway": "37/39",
-        "interceptionsAverage": "10.38/10.38",
-        "interceptionsAverageHome": "11.50/11.00",
-        "interceptionsAverageAway": "9.25/9.75",
-        "aerialDuelsTotals": "172/150",
-        "aerialDuelsTotalsHome": "82/65",
-        "aerialDuelsTotalsAway": "90/85",
-        "aerialDuelsAverage": "21.50/18.75",
-        "aerialDuelsAverageHome": "20.50/16.25",
-        "aerialDuelsAverageAway": "22.50/21.25",
-        "aerialDuelsAttemptedTotals": "322/322",
-        "aerialDuelsAttemptedTotalsHome": "147/147",
-        "aerialDuelsAttemptedTotalsAway": "175/175",
-        "aerialDuelsAttemptedAverage": "40.25/40.25",
-        "aerialDuelsAttemptedAverageHome": "36.75/36.75",
-        "aerialDuelsAttemptedAverageAway": "43.75/43.75",
-        "dribblesTotals": "62/50",
-        "dribblesTotalsHome": "37/20",
-        "dribblesTotalsAway": "25/30",
-        "dribblesAverage": "7.75/6.25",
-        "dribblesAverageHome": "9.25/5.00",
-        "dribblesAverageAway": "6.25/7.50",
-        "dribblesAttemptedTotals": "115/109",
-        "dribblesAttemptedTotalsHome": "65/44",
-        "dribblesAttemptedTotalsAway": "50/65",
-        "dribblesAttemptedAverage": "14.38/13.63",
-        "dribblesAttemptedAverageHome": "16.25/11.00",
-        "dribblesAttemptedAverageAway": "12.50/16.25"
+        "corners": "3/6[A]+4/6[A]+5/4[H]+7/8[A]+2/3[H]+2/5[H]+1/6[A]+4/4[H]",
+        "fouls": "10/16[A]+12/20[A]+15/10[H]+18/14[A]+10/13[H]+12/18[H]+18/17[A]+14/20[H]",
+        "goalKicks": "10/4[A]+9/0[A]+9/9[H]+9/7[A]+7/9[H]+14/4[H]+10/5[A]+9/5[H]",
+        "saves": "4/1[A]+2/2[A]+8/4[H]+4/3[A]+1/6[H]+4/1[H]+5/0[A]+2/2[H]",
+        "offsides": "0/4[A]+2/0[A]+1/2[H]+2/0[A]+3/0[H]+3/1[H]+3/4[A]+1/3[H]",
+        "shotsOnTarget": "2/6[A]+3/2[A]+4/8[H]+5/4[A]+7/1[H]+1/4[H]+1/5[A]+4/2[H]",
+        "yellowCards": "5/2[A]+2/2[A]+3/2[H]+1/1[A]+3/4[H]+1/3[H]+2/2[A]+1/6[H]",
+        "goals": "1/2[A]+1/0[A]+0/0[H]+1/0[A]+1/1[H]+0/0[H]+1/0[A]+3/0[H]",
+        "throwIns": "16/17[A]+29/24[A]+12/20[H]+14/20[A]+18/18[H]+21/24[H]+22/20[A]+22/24[H]",
+        "averageBallPossession": "34/66[A]+46/54[A]+47/53[H]+37/63[A]+62/38[H]+58/42[H]+48/52[A]+49/51[H]",
+        "teams": "Rubin Kazan,FC Spartak Moscow,Away+Rubin Kazan,Baltika Kaliningrad,Away+Rubin Kazan,CSKA Moscow,Home+Rubin Kazan,Dynamo Moscow,Away+Rubin Kazan,Akron Togliatti,Home+Rubin Kazan,Orenburg,Home+Rubin Kazan,FC Sochi,Away+Rubin Kazan,Lokomotiv Moscow,Home",
+        "tackles": "14/9[A]+16/13[A]+18/12[H]+8/16[A]+14/11[H]+13/20[H]+11/12[A]+18/7[H]",
+        "interceptions": "13/15[A]+7/4[A]+8/12[H]+9/7[A]+4/3[H]+6/8[H]+20/14[A]+11/8[H]",
+        "aerialDuels": "11/13[A]+36/29[A]+20/17[H]+19/14[A]+18/24[H]+26/27[H]+19/20[A]+27/20[H]",
+        "aerialDuelsAttempted": "24/24[A]+65/65[A]+37/37[H]+33/33[A]+42/42[H]+53/53[H]+39/39[A]+47/47[H]",
+        "dribbles": "5/3[A]+2/5[A]+7/3[H]+6/8[A]+5/7[H]+9/3[H]+4/9[A]+12/7[H]",
+        "dribblesAttempted": "7/16[A]+10/14[A]+14/11[H]+14/13[A]+10/15[H]+20/8[H]+10/16[A]+15/19[H]",
+        "isHome": "false+false+true+false+true+true+false+true",
+        "cornersTotals": "28/42",
+        "cornersTotalsHome": "13/16",
+        "cornersTotalsAway": "15/26",
+        "cornersAverage": "3.50/5.25",
+        "cornersAverageHome": "3.25/4.00",
+        "cornersAverageAway": "3.75/6.50",
+        "foulsTotals": "109/128",
+        "foulsTotalsHome": "51/61",
+        "foulsTotalsAway": "58/67",
+        "foulsAverage": "13.63/16.00",
+        "foulsAverageHome": "12.75/15.25",
+        "foulsAverageAway": "14.50/16.75",
+        "goalKicksTotals": "77/43",
+        "goalKicksTotalsHome": "39/27",
+        "goalKicksTotalsAway": "38/16",
+        "goalKicksAverage": "9.63/5.38",
+        "goalKicksAverageHome": "9.75/6.75",
+        "goalKicksAverageAway": "9.50/4.00",
+        "savesTotals": "30/19",
+        "savesTotalsHome": "15/13",
+        "savesTotalsAway": "15/6",
+        "savesAverage": "3.75/2.38",
+        "savesAverageHome": "3.75/3.25",
+        "savesAverageAway": "3.75/1.50",
+        "offsidesTotals": "15/14",
+        "offsidesTotalsHome": "8/6",
+        "offsidesTotalsAway": "7/8",
+        "offsidesAverage": "1.88/1.75",
+        "offsidesAverageHome": "2.00/1.50",
+        "offsidesAverageAway": "1.75/2.00",
+        "shotsOnTargetTotals": "27/32",
+        "shotsOnTargetTotalsHome": "16/15",
+        "shotsOnTargetTotalsAway": "11/17",
+        "shotsOnTargetAverage": "3.38/4.00",
+        "shotsOnTargetAverageHome": "4.00/3.75",
+        "shotsOnTargetAverageAway": "2.75/4.25",
+        "yellowCardsTotals": "18/22",
+        "yellowCardsTotalsHome": "8/15",
+        "yellowCardsTotalsAway": "10/7",
+        "yellowCardsAverage": "2.25/2.75",
+        "yellowCardsAverageHome": "2.00/3.75",
+        "yellowCardsAverageAway": "2.50/1.75",
+        "goalsTotals": "8/3",
+        "goalsTotalsHome": "4/1",
+        "goalsTotalsAway": "4/2",
+        "goalsAverage": "1.00/0.38",
+        "goalsAverageHome": "1.00/0.25",
+        "goalsAverageAway": "1.00/0.50",
+        "throwInsTotals": "154/167",
+        "throwInsTotalsHome": "73/86",
+        "throwInsTotalsAway": "81/81",
+        "throwInsAverage": "19.25/20.88",
+        "throwInsAverageHome": "18.25/21.50",
+        "throwInsAverageAway": "20.25/20.25",
+        "averageBallPossessionTotals": "381/419",
+        "averageBallPossessionTotalsHome": "216/184",
+        "averageBallPossessionTotalsAway": "165/235",
+        "averageBallPossessionAverage": "47.63/52.38",
+        "averageBallPossessionAverageHome": "54.00/46.00",
+        "averageBallPossessionAverageAway": "41.25/58.75",
+        "tacklesTotals": "112/100",
+        "tacklesTotalsHome": "63/50",
+        "tacklesTotalsAway": "49/50",
+        "tacklesAverage": "14.00/12.50",
+        "tacklesAverageHome": "15.75/12.50",
+        "tacklesAverageAway": "12.25/12.50",
+        "interceptionsTotals": "78/71",
+        "interceptionsTotalsHome": "29/31",
+        "interceptionsTotalsAway": "49/40",
+        "interceptionsAverage": "9.75/8.88",
+        "interceptionsAverageHome": "7.25/7.75",
+        "interceptionsAverageAway": "12.25/10.00",
+        "aerialDuelsTotals": "176/164",
+        "aerialDuelsTotalsHome": "91/88",
+        "aerialDuelsTotalsAway": "85/76",
+        "aerialDuelsAverage": "22.00/20.50",
+        "aerialDuelsAverageHome": "22.75/22.00",
+        "aerialDuelsAverageAway": "21.25/19.00",
+        "aerialDuelsAttemptedTotals": "340/340",
+        "aerialDuelsAttemptedTotalsHome": "179/179",
+        "aerialDuelsAttemptedTotalsAway": "161/161",
+        "aerialDuelsAttemptedAverage": "42.50/42.50",
+        "aerialDuelsAttemptedAverageHome": "44.75/44.75",
+        "aerialDuelsAttemptedAverageAway": "40.25/40.25",
+        "dribblesTotals": "50/45",
+        "dribblesTotalsHome": "33/20",
+        "dribblesTotalsAway": "17/25",
+        "dribblesAverage": "6.25/5.63",
+        "dribblesAverageHome": "8.25/5.00",
+        "dribblesAverageAway": "4.25/6.25",
+        "dribblesAttemptedTotals": "100/112",
+        "dribblesAttemptedTotalsHome": "59/53",
+        "dribblesAttemptedTotalsAway": "41/59",
+        "dribblesAttemptedAverage": "12.50/14.00",
+        "dribblesAttemptedAverageHome": "14.75/13.25",
+        "dribblesAttemptedAverageAway": "10.25/14.75"
     }
 }

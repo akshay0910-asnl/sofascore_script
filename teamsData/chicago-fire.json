@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.92",
+        "fouls": "12.92",
+        "goalKicks": "6.67",
+        "saves": "2.83",
+        "offsides": "1.58",
+        "shotsOnTarget": "5.25/4.33",
+        "yellowCards": "2.33/1.83",
+        "goals": "1.92/1.25",
+        "throwIns": "21.42",
+        "ballPossession": 54.166666666667,
+        "tackles": "15.67/17.00",
+        "interceptions": "7.83/13.00",
+        "aerialDuels": "11.50",
+        "aerialDuelsAttempted": "24.92",
+        "dribbles": "7.67/5.67",
+        "dribblesAttempted": "15.67/13.33"
+    },
+    "teamSlug": "chicago-fire",
+    "teamId": "2505",
+    "teamName": "Chicago Fire",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/chicago-fire-dc-united/cabsfab#id:15171543,tab:statistics",
+            "teams": [
+                "DC United",
+                "Chicago Fire"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                2502,
+                2505
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-red-bulls-chicago-fire/fabsgab#id:15171528,tab:statistics",
+            "teams": [
+                "Chicago Fire",
+                "New York Red Bulls"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                2505,
+                2506
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-chicago-fire/fabsrdLb#id:15171520,tab:statistics",
+            "teams": [
+                "Chicago Fire",
+                "FC Cincinnati"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                2505,
+                215167
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sporting-kansas-city-chicago-fire/fabsjab#id:15171498,tab:statistics",
+            "teams": [
+                "Chicago Fire",
+                "Sporting Kansas City"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                2505,
+                2509
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-cincinnati-chicago-fire/fabsrdLb#id:15171473,tab:statistics",
+            "teams": [
+                "FC Cincinnati",
+                "Chicago Fire"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                215167,
+                2505
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-chicago-fire/fabsloXb#id:15171443,tab:statistics",
+            "teams": [
+                "Chicago Fire",
+                "Atlanta United"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2505,
+                243211
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-chicago-fire/fabsIWp#id:15137921,tab:statistics",
+            "teams": [
+                "Philadelphia Union",
+                "Chicago Fire"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                39833,
+                2505
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chicago-fire-columbus-crew/eabsfab#id:15137933,tab:statistics",
+            "teams": [
+                "Columbus Crew",
+                "Chicago Fire"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                2504,
+                2505
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "8/7[A]",
+            "fouls": "12/14[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "5/5[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "5/0[A]",
+            "goals": "3/1[A]",
+            "throwIns": "19/29[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Chicago Fire,DC United,Away",
+            "tackles": "8/21[A]",
+            "interceptions": "7/11[A]",
+            "aerialDuels": "13/14[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "16/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "7/10[H]",
+            "goalKicks": "7/13[H]",
+            "saves": "1/2[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/3[H]",
+            "throwIns": "27/22[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Chicago Fire,New York Red Bulls,Home",
+            "tackles": "21/13[H]",
+            "interceptions": "6/14[H]",
+            "aerialDuels": "8/10[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "14/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "10/1[H]",
+            "fouls": "12/5[H]",
+            "goalKicks": "5/16[H]",
+            "saves": "1/8[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "10/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/3[H]",
+            "throwIns": "22/15[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Chicago Fire,FC Cincinnati,Home",
+            "tackles": "17/9[H]",
+            "interceptions": "5/16[H]",
+            "aerialDuels": "18/16[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "10/8[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[H]",
+            "fouls": "15/17[H]",
+            "goalKicks": "5/13[H]",
+            "saves": "0/1[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "5/0[H]",
+            "throwIns": "24/18[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Chicago Fire,Sporting Kansas City,Home",
+            "tackles": "9/21[H]",
+            "interceptions": "13/9[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "9/5[H]",
+            "dribblesAttempted": "17/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/9[A]",
+            "fouls": "9/11[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "7/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/9[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "3/3[A]",
+            "throwIns": "16/22[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Chicago Fire,FC Cincinnati,Away",
+            "tackles": "19/13[A]",
+            "interceptions": "5/7[A]",
+            "aerialDuels": "13/23[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "4/12[A]",
+            "dribblesAttempted": "9/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/11[H]",
+            "fouls": "12/5[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "5/2[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "16/15[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Chicago Fire,Atlanta United,Home",
+            "tackles": "12/15[H]",
+            "interceptions": "5/13[H]",
+            "aerialDuels": "12/12[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "15/11[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "24/31[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Chicago Fire,Philadelphia Union,Away",
+            "tackles": "26/19[A]",
+            "interceptions": "7/13[A]",
+            "aerialDuels": "16/33[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "10/4[A]",
+            "dribblesAttempted": "19/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/7[A]",
+            "fouls": "10/11[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "4/2[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "11/13[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Chicago Fire,Columbus Crew,Away",
+            "tackles": "20/16[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "12/3[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "11/19[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T13:57:19.499Z",
+    "endTime": "2026-05-16T13:57:57.878Z",
+    "totalTimeSeconds": 38.38,
+    "combinedMatchStatistics": {
+        "corners": "8/7[A]+6/3[H]+10/1[H]+4/2[H]+1/9[A]+6/11[H]+2/6[A]+3/7[A]",
+        "fouls": "12/14[A]+7/10[H]+12/5[H]+15/17[H]+9/11[A]+12/5[H]+15/11[A]+10/11[A]",
+        "goalKicks": "7/7[A]+7/13[H]+5/16[H]+5/13[H]+12/7[A]+8/9[H]+6/6[A]+5/8[A]",
+        "saves": "5/5[A]+1/2[H]+1/8[H]+0/1[H]+7/3[A]+5/2[H]+2/2[A]+4/2[A]",
+        "offsides": "4/1[A]+4/1[H]+1/0[H]+0/0[H]+0/1[A]+2/2[H]+0/0[A]+4/1[A]",
+        "shotsOnTarget": "8/6[A]+4/4[H]+10/4[H]+6/1[H]+6/9[A]+3/6[H]+4/3[A]+3/5[A]",
+        "yellowCards": "5/0[A]+1/3[H]+1/3[H]+1/0[H]+3/4[A]+2/1[H]+3/1[A]+4/2[A]",
+        "goals": "3/1[A]+1/3[H]+2/3[H]+5/0[H]+3/3[A]+1/0[H]+2/1[A]+0/0[A]",
+        "throwIns": "19/29[A]+27/22[H]+22/15[H]+24/18[H]+16/22[A]+16/15[H]+24/31[A]+11/13[A]",
+        "averageBallPossession": "60/40[A]+64/36[H]+56/44[H]+71/29[H]+45/55[A]+45/55[H]+53/47[A]+49/51[A]",
+        "teams": "Chicago Fire,DC United,Away+Chicago Fire,New York Red Bulls,Home+Chicago Fire,FC Cincinnati,Home+Chicago Fire,Sporting Kansas City,Home+Chicago Fire,FC Cincinnati,Away+Chicago Fire,Atlanta United,Home+Chicago Fire,Philadelphia Union,Away+Chicago Fire,Columbus Crew,Away",
+        "tackles": "8/21[A]+21/13[H]+17/9[H]+9/21[H]+19/13[A]+12/15[H]+26/19[A]+20/16[A]",
+        "interceptions": "7/11[A]+6/14[H]+5/16[H]+13/9[H]+5/7[A]+5/13[H]+7/13[A]+8/9[A]",
+        "aerialDuels": "13/14[A]+8/10[H]+18/16[H]+12/11[H]+13/23[A]+12/12[H]+16/33[A]+12/3[A]",
+        "aerialDuelsAttempted": "27/27[A]+18/18[H]+34/34[H]+23/23[H]+36/36[A]+24/24[H]+49/49[A]+15/15[A]",
+        "dribbles": "6/5[A]+9/4[H]+10/8[H]+9/5[H]+4/12[A]+7/5[H]+10/4[A]+3/7[A]",
+        "dribblesAttempted": "16/9[A]+14/14[H]+14/15[H]+17/9[H]+9/24[A]+18/10[H]+19/16[A]+11/19[A]",
+        "isHome": "false+true+true+true+false+true+false+false",
+        "cornersTotals": "40/46",
+        "cornersTotalsHome": "26/17",
+        "cornersTotalsAway": "14/29",
+        "cornersAverage": "5.00/5.75",
+        "cornersAverageHome": "6.50/4.25",
+        "cornersAverageAway": "3.50/7.25",
+        "foulsTotals": "92/84",
+        "foulsTotalsHome": "46/37",
+        "foulsTotalsAway": "46/47",
+        "foulsAverage": "11.50/10.50",
+        "foulsAverageHome": "11.50/9.25",
+        "foulsAverageAway": "11.50/11.75",
+        "goalKicksTotals": "55/79",
+        "goalKicksTotalsHome": "25/51",
+        "goalKicksTotalsAway": "30/28",
+        "goalKicksAverage": "6.88/9.88",
+        "goalKicksAverageHome": "6.25/12.75",
+        "goalKicksAverageAway": "7.50/7.00",
+        "savesTotals": "25/25",
+        "savesTotalsHome": "7/13",
+        "savesTotalsAway": "18/12",
+        "savesAverage": "3.13/3.13",
+        "savesAverageHome": "1.75/3.25",
+        "savesAverageAway": "4.50/3.00",
+        "offsidesTotals": "15/6",
+        "offsidesTotalsHome": "7/3",
+        "offsidesTotalsAway": "8/3",
+        "offsidesAverage": "1.88/0.75",
+        "offsidesAverageHome": "1.75/0.75",
+        "offsidesAverageAway": "2.00/0.75",
+        "shotsOnTargetTotals": "44/38",
+        "shotsOnTargetTotalsHome": "23/15",
+        "shotsOnTargetTotalsAway": "21/23",
+        "shotsOnTargetAverage": "5.50/4.75",
+        "shotsOnTargetAverageHome": "5.75/3.75",
+        "shotsOnTargetAverageAway": "5.25/5.75",
+        "yellowCardsTotals": "20/14",
+        "yellowCardsTotalsHome": "5/7",
+        "yellowCardsTotalsAway": "15/7",
+        "yellowCardsAverage": "2.50/1.75",
+        "yellowCardsAverageHome": "1.25/1.75",
+        "yellowCardsAverageAway": "3.75/1.75",
+        "goalsTotals": "17/11",
+        "goalsTotalsHome": "9/6",
+        "goalsTotalsAway": "8/5",
+        "goalsAverage": "2.13/1.38",
+        "goalsAverageHome": "2.25/1.50",
+        "goalsAverageAway": "2.00/1.25",
+        "throwInsTotals": "159/165",
+        "throwInsTotalsHome": "89/70",
+        "throwInsTotalsAway": "70/95",
+        "throwInsAverage": "19.88/20.63",
+        "throwInsAverageHome": "22.25/17.50",
+        "throwInsAverageAway": "17.50/23.75",
+        "averageBallPossessionTotals": "443/357",
+        "averageBallPossessionTotalsHome": "236/164",
+        "averageBallPossessionTotalsAway": "207/193",
+        "averageBallPossessionAverage": "55.38/44.63",
+        "averageBallPossessionAverageHome": "59.00/41.00",
+        "averageBallPossessionAverageAway": "51.75/48.25",
+        "tacklesTotals": "132/127",
+        "tacklesTotalsHome": "59/58",
+        "tacklesTotalsAway": "73/69",
+        "tacklesAverage": "16.50/15.88",
+        "tacklesAverageHome": "14.75/14.50",
+        "tacklesAverageAway": "18.25/17.25",
+        "interceptionsTotals": "56/92",
+        "interceptionsTotalsHome": "29/52",
+        "interceptionsTotalsAway": "27/40",
+        "interceptionsAverage": "7.00/11.50",
+        "interceptionsAverageHome": "7.25/13.00",
+        "interceptionsAverageAway": "6.75/10.00",
+        "aerialDuelsTotals": "104/122",
+        "aerialDuelsTotalsHome": "50/49",
+        "aerialDuelsTotalsAway": "54/73",
+        "aerialDuelsAverage": "13.00/15.25",
+        "aerialDuelsAverageHome": "12.50/12.25",
+        "aerialDuelsAverageAway": "13.50/18.25",
+        "aerialDuelsAttemptedTotals": "226/226",
+        "aerialDuelsAttemptedTotalsHome": "99/99",
+        "aerialDuelsAttemptedTotalsAway": "127/127",
+        "aerialDuelsAttemptedAverage": "28.25/28.25",
+        "aerialDuelsAttemptedAverageHome": "24.75/24.75",
+        "aerialDuelsAttemptedAverageAway": "31.75/31.75",
+        "dribblesTotals": "58/50",
+        "dribblesTotalsHome": "35/22",
+        "dribblesTotalsAway": "23/28",
+        "dribblesAverage": "7.25/6.25",
+        "dribblesAverageHome": "8.75/5.50",
+        "dribblesAverageAway": "5.75/7.00",
+        "dribblesAttemptedTotals": "118/116",
+        "dribblesAttemptedTotalsHome": "63/48",
+        "dribblesAttemptedTotalsAway": "55/68",
+        "dribblesAttemptedAverage": "14.75/14.50",
+        "dribblesAttemptedAverageHome": "15.75/12.00",
+        "dribblesAttemptedAverageAway": "13.75/17.00"
+    }
+}

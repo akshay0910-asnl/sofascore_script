@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.73",
+        "fouls": "7.73",
+        "goalKicks": "10.55",
+        "saves": "2.45",
+        "offsides": "1.36",
+        "shotsOnTarget": "4.91/3.45",
+        "yellowCards": "1.27/1.73",
+        "goals": "2.27/1.00",
+        "throwIns": "20.64",
+        "ballPossession": 44.545454545455,
+        "tackles": "13.36/13.09",
+        "interceptions": "10.18/8.45",
+        "aerialDuels": "13.91",
+        "aerialDuelsAttempted": "30.36",
+        "dribbles": "7.27/5.45",
+        "dribblesAttempted": "15.00/11.45"
+    },
+    "teamSlug": "deportes-limache",
+    "teamId": "331131",
+    "teamName": "Deportes Limache",
+    "tournament": "Liga de Primera",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-audax-italiano/mnbsGxHc#id:15353031,tab:statistics",
+            "teams": [
+                "Audax Italiano",
+                "Deportes Limache"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                3162,
+                331131
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-universidad-de-concepcion/JacsGxHc#id:15353027,tab:statistics",
+            "teams": [
+                "Deportes Limache",
+                "Universidad de Concepción"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                331131,
+                5034
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-palestino/hnbsGxHc#id:15353011,tab:statistics",
+            "teams": [
+                "Palestino",
+                "Deportes Limache"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3157,
+                331131
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-union-la-calera/RousGxHc#id:15352999,tab:statistics",
+            "teams": [
+                "Deportes Limache",
+                "Unión La Calera"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                331131,
+                48242
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-cobresal/rnbsGxHc#id:15353005,tab:statistics",
+            "teams": [
+                "Cobresal",
+                "Deportes Limache"
+            ],
+            "goals": [
+                2,
+                5
+            ],
+            "teamIds": [
+                3167,
+                331131
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-everton-de-vina-del-mar/HacsGxHc#id:15352990,tab:statistics",
+            "teams": [
+                "Everton de Viña del Mar",
+                "Deportes Limache"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5032,
+                331131
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-huachipato/onbsGxHc#id:15352985,tab:statistics",
+            "teams": [
+                "Deportes Limache",
+                "Huachipato"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                331131,
+                3164
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-limache-ohiggins/nnbsGxHc#id:15352950,tab:statistics",
+            "teams": [
+                "Deportes Limache",
+                "O'Higgins"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                331131,
+                3163
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/1[A]",
+            "fouls": "6/12[A]",
+            "goalKicks": "12/11[A]",
+            "saves": "1/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "27/18[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Deportes Limache,Audax Italiano,Away",
+            "tackles": "10/16[A]",
+            "interceptions": "10/11[A]",
+            "aerialDuels": "12/6[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "2/2[A]",
+            "dribblesAttempted": "15/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/9[H]",
+            "fouls": "7/9[H]",
+            "goalKicks": "9/11[H]",
+            "saves": "5/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "3/0[H]",
+            "throwIns": "18/14[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Deportes Limache,Universidad de Concepción,Home",
+            "tackles": "24/15[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "8/14[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "6/8[H]",
+            "dribblesAttempted": "14/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "9/9[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "28/18[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "Deportes Limache,Palestino,Away",
+            "tackles": "8/9[A]",
+            "interceptions": "4/6[A]",
+            "aerialDuels": "16/20[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "10/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/12[H]",
+            "fouls": "7/4[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "8/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "4/0[H]",
+            "throwIns": "16/19[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Deportes Limache,Unión La Calera,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "12/11[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "10/5[H]",
+            "dribblesAttempted": "17/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "7/7[A]",
+            "goalKicks": "15/5[A]",
+            "saves": "2/4[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "9/4[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "5/2[A]",
+            "throwIns": "29/28[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Deportes Limache,Cobresal,Away",
+            "tackles": "14/8[A]",
+            "interceptions": "9/14[A]",
+            "aerialDuels": "9/15[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "9/5[A]",
+            "dribblesAttempted": "15/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "7/11[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "12/25[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Deportes Limache,Everton de Viña del Mar,Away",
+            "tackles": "8/16[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "9/16[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "10/6[A]",
+            "dribblesAttempted": "19/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/1[H]",
+            "fouls": "9/10[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "7/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "12/31[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Deportes Limache,Huachipato,Home",
+            "tackles": "12/5[H]",
+            "interceptions": "14/5[H]",
+            "aerialDuels": "16/29[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "15/6[H]",
+            "dribblesAttempted": "17/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/5[H]",
+            "fouls": "11/8[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "22/32[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Deportes Limache,O'Higgins,Home",
+            "tackles": "14/16[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "15/17[H]",
+            "aerialDuelsAttempted": "32/32[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "13/14[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T16:34:42.164Z",
+    "endTime": "2026-05-16T16:35:17.524Z",
+    "totalTimeSeconds": 35.36,
+    "combinedMatchStatistics": {
+        "corners": "4/1[A]+8/9[H]+3/6[A]+1/12[H]+5/6[A]+5/5[A]+4/1[H]+1/5[H]",
+        "fouls": "6/12[A]+7/9[H]+9/9[A]+7/4[H]+7/7[A]+7/11[A]+9/10[H]+11/8[H]",
+        "goalKicks": "12/11[A]+9/11[H]+4/10[A]+9/5[H]+15/5[A]+9/6[A]+10/9[H]+10/6[H]",
+        "saves": "1/1[A]+5/4[H]+1/2[A]+1/4[H]+2/4[A]+3/2[A]+1/4[H]+2/3[H]",
+        "offsides": "0/4[A]+1/3[H]+2/2[A]+2/1[H]+0/1[A]+2/1[A]+1/0[H]+0/3[H]",
+        "shotsOnTarget": "3/2[A]+7/5[H]+2/2[A]+8/1[H]+9/4[A]+2/4[A]+7/1[H]+6/4[H]",
+        "yellowCards": "1/2[A]+0/3[H]+1/4[A]+1/1[H]+0/1[A]+4/2[A]+1/1[H]+1/2[H]",
+        "goals": "2/2[A]+3/0[H]+0/1[A]+4/0[H]+5/2[A]+0/1[A]+3/0[H]+2/1[H]",
+        "throwIns": "27/18[A]+18/14[H]+28/18[A]+16/19[H]+29/28[A]+12/25[A]+12/31[H]+22/32[H]",
+        "averageBallPossession": "53/47[A]+48/52[H]+66/34[A]+40/60[H]+48/52[A]+53/47[A]+46/54[H]+36/64[H]",
+        "teams": "Deportes Limache,Audax Italiano,Away+Deportes Limache,Universidad de Concepción,Home+Deportes Limache,Palestino,Away+Deportes Limache,Unión La Calera,Home+Deportes Limache,Cobresal,Away+Deportes Limache,Everton de Viña del Mar,Away+Deportes Limache,Huachipato,Home+Deportes Limache,O'Higgins,Home",
+        "tackles": "10/16[A]+24/15[H]+8/9[A]+14/12[H]+14/8[A]+8/16[A]+12/5[H]+14/16[H]",
+        "interceptions": "10/11[A]+7/11[H]+4/6[A]+10/8[H]+9/14[A]+10/8[A]+14/5[H]+7/9[H]",
+        "aerialDuels": "12/6[A]+8/14[H]+16/20[A]+12/11[H]+9/15[A]+9/16[A]+16/29[H]+15/17[H]",
+        "aerialDuelsAttempted": "18/18[A]+22/22[H]+36/36[A]+23/23[H]+24/24[A]+25/25[A]+45/45[H]+32/32[H]",
+        "dribbles": "2/2[A]+6/8[H]+5/4[A]+10/5[H]+9/5[A]+10/6[A]+15/6[H]+5/6[H]",
+        "dribblesAttempted": "15/4[A]+14/21[H]+10/9[A]+17/10[H]+15/11[A]+19/9[A]+17/10[H]+13/14[H]",
+        "isHome": "false+true+false+true+false+false+true+true",
+        "cornersTotals": "31/45",
+        "cornersTotalsHome": "14/27",
+        "cornersTotalsAway": "17/18",
+        "cornersAverage": "3.88/5.63",
+        "cornersAverageHome": "3.50/6.75",
+        "cornersAverageAway": "4.25/4.50",
+        "foulsTotals": "63/70",
+        "foulsTotalsHome": "34/31",
+        "foulsTotalsAway": "29/39",
+        "foulsAverage": "7.88/8.75",
+        "foulsAverageHome": "8.50/7.75",
+        "foulsAverageAway": "7.25/9.75",
+        "goalKicksTotals": "78/63",
+        "goalKicksTotalsHome": "38/31",
+        "goalKicksTotalsAway": "40/32",
+        "goalKicksAverage": "9.75/7.88",
+        "goalKicksAverageHome": "9.50/7.75",
+        "goalKicksAverageAway": "10.00/8.00",
+        "savesTotals": "16/24",
+        "savesTotalsHome": "9/15",
+        "savesTotalsAway": "7/9",
+        "savesAverage": "2.00/3.00",
+        "savesAverageHome": "2.25/3.75",
+        "savesAverageAway": "1.75/2.25",
+        "offsidesTotals": "8/15",
+        "offsidesTotalsHome": "4/7",
+        "offsidesTotalsAway": "4/8",
+        "offsidesAverage": "1.00/1.88",
+        "offsidesAverageHome": "1.00/1.75",
+        "offsidesAverageAway": "1.00/2.00",
+        "shotsOnTargetTotals": "44/23",
+        "shotsOnTargetTotalsHome": "28/11",
+        "shotsOnTargetTotalsAway": "16/12",
+        "shotsOnTargetAverage": "5.50/2.88",
+        "shotsOnTargetAverageHome": "7.00/2.75",
+        "shotsOnTargetAverageAway": "4.00/3.00",
+        "yellowCardsTotals": "9/16",
+        "yellowCardsTotalsHome": "3/7",
+        "yellowCardsTotalsAway": "6/9",
+        "yellowCardsAverage": "1.13/2.00",
+        "yellowCardsAverageHome": "0.75/1.75",
+        "yellowCardsAverageAway": "1.50/2.25",
+        "goalsTotals": "19/7",
+        "goalsTotalsHome": "12/1",
+        "goalsTotalsAway": "7/6",
+        "goalsAverage": "2.38/0.88",
+        "goalsAverageHome": "3.00/0.25",
+        "goalsAverageAway": "1.75/1.50",
+        "throwInsTotals": "164/185",
+        "throwInsTotalsHome": "68/96",
+        "throwInsTotalsAway": "96/89",
+        "throwInsAverage": "20.50/23.13",
+        "throwInsAverageHome": "17.00/24.00",
+        "throwInsAverageAway": "24.00/22.25",
+        "averageBallPossessionTotals": "390/410",
+        "averageBallPossessionTotalsHome": "170/230",
+        "averageBallPossessionTotalsAway": "220/180",
+        "averageBallPossessionAverage": "48.75/51.25",
+        "averageBallPossessionAverageHome": "42.50/57.50",
+        "averageBallPossessionAverageAway": "55.00/45.00",
+        "tacklesTotals": "104/97",
+        "tacklesTotalsHome": "64/48",
+        "tacklesTotalsAway": "40/49",
+        "tacklesAverage": "13.00/12.13",
+        "tacklesAverageHome": "16.00/12.00",
+        "tacklesAverageAway": "10.00/12.25",
+        "interceptionsTotals": "71/72",
+        "interceptionsTotalsHome": "38/33",
+        "interceptionsTotalsAway": "33/39",
+        "interceptionsAverage": "8.88/9.00",
+        "interceptionsAverageHome": "9.50/8.25",
+        "interceptionsAverageAway": "8.25/9.75",
+        "aerialDuelsTotals": "97/128",
+        "aerialDuelsTotalsHome": "51/71",
+        "aerialDuelsTotalsAway": "46/57",
+        "aerialDuelsAverage": "12.13/16.00",
+        "aerialDuelsAverageHome": "12.75/17.75",
+        "aerialDuelsAverageAway": "11.50/14.25",
+        "aerialDuelsAttemptedTotals": "225/225",
+        "aerialDuelsAttemptedTotalsHome": "122/122",
+        "aerialDuelsAttemptedTotalsAway": "103/103",
+        "aerialDuelsAttemptedAverage": "28.13/28.13",
+        "aerialDuelsAttemptedAverageHome": "30.50/30.50",
+        "aerialDuelsAttemptedAverageAway": "25.75/25.75",
+        "dribblesTotals": "62/42",
+        "dribblesTotalsHome": "36/25",
+        "dribblesTotalsAway": "26/17",
+        "dribblesAverage": "7.75/5.25",
+        "dribblesAverageHome": "9.00/6.25",
+        "dribblesAverageAway": "6.50/4.25",
+        "dribblesAttemptedTotals": "120/88",
+        "dribblesAttemptedTotalsHome": "61/55",
+        "dribblesAttemptedTotalsAway": "59/33",
+        "dribblesAttemptedAverage": "15.00/11.00",
+        "dribblesAttemptedAverageHome": "15.25/13.75",
+        "dribblesAttemptedAverageAway": "14.75/8.25"
+    }
+}

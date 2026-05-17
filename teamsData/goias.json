@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.88",
+        "fouls": "14.50",
+        "goalKicks": "9.13",
+        "saves": "3.75",
+        "offsides": "0.88",
+        "shotsOnTarget": "2.88/5.13",
+        "yellowCards": "2.25/2.00",
+        "goals": "1.00/1.50",
+        "throwIns": "23.50",
+        "ballPossession": 52,
+        "tackles": "13.75/15.38",
+        "interceptions": "8.25/9.88",
+        "aerialDuels": "9.63",
+        "aerialDuelsAttempted": "22.38",
+        "dribbles": "7.38/4.13",
+        "dribblesAttempted": "14.38/11.00"
+    },
+    "teamSlug": "goias",
+    "teamId": "1960",
+    "teamName": "Goiás",
+    "tournament": "Brasileirão Série B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/vila-nova-fc-goias/kOswP#id:15526081,tab:statistics",
+            "teams": [
+                "Goiás",
+                "Vila Nova FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1960,
+                2021
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fortaleza-goias/kOsvP#id:15526051,tab:statistics",
+            "teams": [
+                "Fortaleza",
+                "Goiás"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                2020,
+                1960
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sao-bernardo-goias/kOseau#id:15526037,tab:statistics",
+            "teams": [
+                "São Bernardo",
+                "Goiás"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                47504,
+                1960
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cuiaba-goias/kOscJu#id:15526030,tab:statistics",
+            "teams": [
+                "Goiás",
+                "Cuiabá"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                1960,
+                49202
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/juventude-goias/kOsFO#id:15526024,tab:statistics",
+            "teams": [
+                "Juventude",
+                "Goiás"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1980,
+                1960
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/criciuma-goias/kOsJO#id:15526010,tab:statistics",
+            "teams": [
+                "Goiás",
+                "Criciúma"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1960,
+                1984
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/londrina-goias/kOsxP#id:15525998,tab:statistics",
+            "teams": [
+                "Londrina",
+                "Goiás"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2022,
+                1960
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/america-mineiro-goias/kOsyO#id:15525989,tab:statistics",
+            "teams": [
+                "Goiás",
+                "América Mineiro"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1960,
+                1973
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/5[H]",
+            "fouls": "15/10[H]",
+            "goalKicks": "10/12[H]",
+            "saves": "1/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "6/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "24/13[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "Goiás,Vila Nova FC,Home",
+            "tackles": "21/8[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "10/14[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "6/3[H]",
+            "dribblesAttempted": "10/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "17/11[A]",
+            "goalKicks": "9/4[A]",
+            "saves": "5/1[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/9[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/4[A]",
+            "throwIns": "22/15[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Goiás,Fortaleza,Away",
+            "tackles": "23/19[A]",
+            "interceptions": "12/15[A]",
+            "aerialDuels": "7/8[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "13/27[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "16/8[A]",
+            "goalKicks": "9/13[A]",
+            "saves": "4/6[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/5[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "20/19[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Goiás,São Bernardo,Away",
+            "tackles": "13/17[A]",
+            "interceptions": "6/6[A]",
+            "aerialDuels": "8/18[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "9/2[A]",
+            "dribblesAttempted": "17/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "15/26[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "2/0[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "0/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "28/18[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "Goiás,Cuiabá,Home",
+            "tackles": "11/14[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "12/10[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "10/3[H]",
+            "dribblesAttempted": "17/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/6[A]",
+            "fouls": "16/19[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "6/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/2[A]",
+            "throwIns": "19/14[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Goiás,Juventude,Away",
+            "tackles": "9/14[A]",
+            "interceptions": "1/10[A]",
+            "aerialDuels": "9/4[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "16/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "8/11[H]",
+            "saves": "1/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "28/20[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Goiás,Criciúma,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "8/17[H]",
+            "aerialDuelsAttempted": "25/25[H]",
+            "dribbles": "5/8[H]",
+            "dribblesAttempted": "14/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "18/16[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "5/4[A]",
+            "goals": "2/2[A]",
+            "throwIns": "34/15[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Goiás,Londrina,Away",
+            "tackles": "3/21[A]",
+            "interceptions": "12/14[A]",
+            "aerialDuels": "14/18[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "10/2[A]",
+            "dribblesAttempted": "22/3[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/8[H]",
+            "fouls": "10/6[H]",
+            "goalKicks": "14/5[H]",
+            "saves": "8/0[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/9[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "3/1[H]",
+            "throwIns": "13/12[H]",
+            "averageBallPossession": "33/67[H]",
+            "teams": "Goiás,América Mineiro,Home",
+            "tackles": "14/14[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "9/13[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "2/4[H]",
+            "dribblesAttempted": "6/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T16:27:37.674Z",
+    "endTime": "2026-05-16T16:28:03.342Z",
+    "totalTimeSeconds": 25.67,
+    "combinedMatchStatistics": {
+        "corners": "4/5[H]+3/3[A]+4/4[A]+4/4[H]+1/6[A]+6/7[H]+6/6[A]+3/8[H]",
+        "fouls": "15/10[H]+17/11[A]+16/8[A]+15/26[H]+16/19[A]+9/11[H]+18/16[A]+10/6[H]",
+        "goalKicks": "10/12[H]+9/4[A]+9/13[A]+9/6[H]+10/5[A]+8/11[H]+4/6[A]+14/5[H]",
+        "saves": "1/2[H]+5/1[A]+4/6[A]+2/0[H]+6/1[A]+1/2[H]+3/2[A]+8/0[H]",
+        "offsides": "2/0[H]+0/0[A]+0/1[A]+2/0[H]+0/2[A]+3/0[H]+0/1[A]+0/1[H]",
+        "shotsOnTarget": "3/1[H]+4/9[A]+6/5[A]+0/4[H]+1/7[A]+3/1[H]+3/5[A]+3/9[H]",
+        "yellowCards": "6/2[H]+3/4[A]+1/3[A]+2/2[H]+1/0[A]+1/0[H]+5/4[A]+1/1[H]",
+        "goals": "1/0[H]+1/4[A]+0/1[A]+0/2[H]+0/2[A]+1/0[H]+2/2[A]+3/1[H]",
+        "throwIns": "24/13[H]+22/15[A]+20/19[A]+28/18[H]+19/14[A]+28/20[H]+34/15[A]+13/12[H]",
+        "averageBallPossession": "36/64[H]+56/44[A]+55/45[A]+66/34[H]+57/43[A]+54/46[H]+59/41[A]+33/67[H]",
+        "teams": "Goiás,Vila Nova FC,Home+Goiás,Fortaleza,Away+Goiás,São Bernardo,Away+Goiás,Cuiabá,Home+Goiás,Juventude,Away+Goiás,Criciúma,Home+Goiás,Londrina,Away+Goiás,América Mineiro,Home",
+        "tackles": "21/8[H]+23/19[A]+13/17[A]+11/14[H]+9/14[A]+16/16[H]+3/21[A]+14/14[H]",
+        "interceptions": "8/7[H]+12/15[A]+6/6[A]+7/11[H]+1/10[A]+10/8[H]+12/14[A]+10/8[H]",
+        "aerialDuels": "10/14[H]+7/8[A]+8/18[A]+12/10[H]+9/4[A]+8/17[H]+14/18[A]+9/13[H]",
+        "aerialDuelsAttempted": "24/24[H]+15/15[A]+26/26[A]+22/22[H]+13/13[A]+25/25[H]+32/32[A]+22/22[H]",
+        "dribbles": "6/3[H]+11/8[A]+9/2[A]+10/3[H]+6/3[A]+5/8[H]+10/2[A]+2/4[H]",
+        "dribblesAttempted": "10/10[H]+13/27[A]+17/6[A]+17/7[H]+16/7[A]+14/16[H]+22/3[A]+6/12[H]",
+        "isHome": "true+false+false+true+false+true+false+true",
+        "cornersTotals": "31/43",
+        "cornersTotalsHome": "17/24",
+        "cornersTotalsAway": "14/19",
+        "cornersAverage": "3.88/5.38",
+        "cornersAverageHome": "4.25/6.00",
+        "cornersAverageAway": "3.50/4.75",
+        "foulsTotals": "116/107",
+        "foulsTotalsHome": "49/53",
+        "foulsTotalsAway": "67/54",
+        "foulsAverage": "14.50/13.38",
+        "foulsAverageHome": "12.25/13.25",
+        "foulsAverageAway": "16.75/13.50",
+        "goalKicksTotals": "73/62",
+        "goalKicksTotalsHome": "41/34",
+        "goalKicksTotalsAway": "32/28",
+        "goalKicksAverage": "9.13/7.75",
+        "goalKicksAverageHome": "10.25/8.50",
+        "goalKicksAverageAway": "8.00/7.00",
+        "savesTotals": "30/14",
+        "savesTotalsHome": "12/4",
+        "savesTotalsAway": "18/10",
+        "savesAverage": "3.75/1.75",
+        "savesAverageHome": "3.00/1.00",
+        "savesAverageAway": "4.50/2.50",
+        "offsidesTotals": "7/5",
+        "offsidesTotalsHome": "7/1",
+        "offsidesTotalsAway": "0/4",
+        "offsidesAverage": "0.88/0.63",
+        "offsidesAverageHome": "1.75/0.25",
+        "offsidesAverageAway": "0.00/1.00",
+        "shotsOnTargetTotals": "23/41",
+        "shotsOnTargetTotalsHome": "9/15",
+        "shotsOnTargetTotalsAway": "14/26",
+        "shotsOnTargetAverage": "2.88/5.13",
+        "shotsOnTargetAverageHome": "2.25/3.75",
+        "shotsOnTargetAverageAway": "3.50/6.50",
+        "yellowCardsTotals": "20/16",
+        "yellowCardsTotalsHome": "10/5",
+        "yellowCardsTotalsAway": "10/11",
+        "yellowCardsAverage": "2.50/2.00",
+        "yellowCardsAverageHome": "2.50/1.25",
+        "yellowCardsAverageAway": "2.50/2.75",
+        "goalsTotals": "8/12",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "3/9",
+        "goalsAverage": "1.00/1.50",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "0.75/2.25",
+        "throwInsTotals": "188/126",
+        "throwInsTotalsHome": "93/63",
+        "throwInsTotalsAway": "95/63",
+        "throwInsAverage": "23.50/15.75",
+        "throwInsAverageHome": "23.25/15.75",
+        "throwInsAverageAway": "23.75/15.75",
+        "averageBallPossessionTotals": "416/384",
+        "averageBallPossessionTotalsHome": "189/211",
+        "averageBallPossessionTotalsAway": "227/173",
+        "averageBallPossessionAverage": "52.00/48.00",
+        "averageBallPossessionAverageHome": "47.25/52.75",
+        "averageBallPossessionAverageAway": "56.75/43.25",
+        "tacklesTotals": "110/123",
+        "tacklesTotalsHome": "62/52",
+        "tacklesTotalsAway": "48/71",
+        "tacklesAverage": "13.75/15.38",
+        "tacklesAverageHome": "15.50/13.00",
+        "tacklesAverageAway": "12.00/17.75",
+        "interceptionsTotals": "66/79",
+        "interceptionsTotalsHome": "35/34",
+        "interceptionsTotalsAway": "31/45",
+        "interceptionsAverage": "8.25/9.88",
+        "interceptionsAverageHome": "8.75/8.50",
+        "interceptionsAverageAway": "7.75/11.25",
+        "aerialDuelsTotals": "77/102",
+        "aerialDuelsTotalsHome": "39/54",
+        "aerialDuelsTotalsAway": "38/48",
+        "aerialDuelsAverage": "9.63/12.75",
+        "aerialDuelsAverageHome": "9.75/13.50",
+        "aerialDuelsAverageAway": "9.50/12.00",
+        "aerialDuelsAttemptedTotals": "179/179",
+        "aerialDuelsAttemptedTotalsHome": "93/93",
+        "aerialDuelsAttemptedTotalsAway": "86/86",
+        "aerialDuelsAttemptedAverage": "22.38/22.38",
+        "aerialDuelsAttemptedAverageHome": "23.25/23.25",
+        "aerialDuelsAttemptedAverageAway": "21.50/21.50",
+        "dribblesTotals": "59/33",
+        "dribblesTotalsHome": "23/18",
+        "dribblesTotalsAway": "36/15",
+        "dribblesAverage": "7.38/4.13",
+        "dribblesAverageHome": "5.75/4.50",
+        "dribblesAverageAway": "9.00/3.75",
+        "dribblesAttemptedTotals": "115/88",
+        "dribblesAttemptedTotalsHome": "47/45",
+        "dribblesAttemptedTotalsAway": "68/43",
+        "dribblesAttemptedAverage": "14.38/11.00",
+        "dribblesAttemptedAverageHome": "11.75/11.25",
+        "dribblesAttemptedAverageAway": "17.00/10.75"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "7.00",
+        "fouls": "14.00",
+        "goalKicks": "7.38",
+        "saves": "2.63",
+        "offsides": "1.50",
+        "shotsOnTarget": "3.50/3.25",
+        "yellowCards": "2.13/2.38",
+        "goals": "1.13/0.88",
+        "throwIns": "20.25",
+        "ballPossession": 50.375,
+        "tackles": "14.13/14.00",
+        "interceptions": "10.00/9.38",
+        "aerialDuels": "19.13",
+        "aerialDuelsAttempted": "35.38",
+        "dribbles": "5.25/7.38",
+        "dribblesAttempted": "11.13/13.75"
+    },
+    "teamSlug": "criciuma",
+    "teamId": "1984",
+    "teamName": "Criciúma",
+    "tournament": "Brasileirão Série B",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/criciuma-juventude/FOsJO#id:15526085,tab:statistics",
+            "teams": [
+                "Juventude",
+                "Criciúma"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1980,
+                1984
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cuiaba-criciuma/JOscJu#id:15526073,tab:statistics",
+            "teams": [
+                "Cuiabá",
+                "Criciúma"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                49202,
+                1984
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/crb-criciuma/JOsHPi#id:15526042,tab:statistics",
+            "teams": [
+                "Criciúma",
+                "CRB"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                1984,
+                22032
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fortaleza-criciuma/JOsvP#id:15526029,tab:statistics",
+            "teams": [
+                "Fortaleza",
+                "Criciúma"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                2020,
+                1984
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/criciuma-botafogo-sp/EOsJO#id:15526021,tab:statistics",
+            "teams": [
+                "Criciúma",
+                "Botafogo-SP"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1984,
+                1979
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/criciuma-goias/kOsJO#id:15526010,tab:statistics",
+            "teams": [
+                "Goiás",
+                "Criciúma"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1960,
+                1984
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-criciuma/JOsAfMc#id:15526001,tab:statistics",
+            "teams": [
+                "Criciúma",
+                "Athletic Club"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1984,
+                342775
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/criciuma-botafogo-sp/EOsJO#id:13638751,tab:statistics",
+            "teams": [
+                "Criciúma",
+                "Botafogo-SP"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                1984,
+                1979
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "9/7[A]",
+            "fouls": "18/14[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "16/22[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Criciúma,Juventude,Away",
+            "tackles": "15/10[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "16/29[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "8/13[A]",
+            "dribblesAttempted": "12/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/3[A]",
+            "fouls": "10/17[A]",
+            "goalKicks": "3/6[A]",
+            "saves": "4/3[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "23/25[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Criciúma,Cuiabá,Away",
+            "tackles": "16/14[A]",
+            "interceptions": "4/11[A]",
+            "aerialDuels": "19/17[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "1/1[A]",
+            "dribblesAttempted": "6/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/5[H]",
+            "fouls": "13/12[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "4/5[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "7/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "10/18[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Criciúma,CRB,Home",
+            "tackles": "12/13[H]",
+            "interceptions": "12/7[H]",
+            "aerialDuels": "19/19[H]",
+            "aerialDuelsAttempted": "38/38[H]",
+            "dribbles": "8/10[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/4[A]",
+            "fouls": "16/18[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "3/0[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/3[A]",
+            "throwIns": "26/28[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Criciúma,Fortaleza,Away",
+            "tackles": "9/13[A]",
+            "interceptions": "14/9[A]",
+            "aerialDuels": "10/18[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "5/8[A]",
+            "dribblesAttempted": "10/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/6[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "29/24[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Criciúma,Botafogo-SP,Home",
+            "tackles": "11/14[H]",
+            "interceptions": "11/14[H]",
+            "aerialDuels": "30/15[H]",
+            "aerialDuelsAttempted": "45/45[H]",
+            "dribbles": "2/12[H]",
+            "dribblesAttempted": "7/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/6[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "2/1[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "20/28[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Criciúma,Goiás,Away",
+            "tackles": "16/16[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "17/8[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "16/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/2[H]",
+            "fouls": "10/21[H]",
+            "goalKicks": "5/20[H]",
+            "saves": "1/6[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "3/5[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/22[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Criciúma,Athletic Club,Home",
+            "tackles": "17/22[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "26/13[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "7/3[H]",
+            "dribblesAttempted": "17/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "7/8[H]",
+            "goalKicks": "10/15[H]",
+            "saves": "2/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/28[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Criciúma,Botafogo-SP,Home",
+            "tackles": "14/11[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "18/24[H]",
+            "aerialDuelsAttempted": "42/42[H]",
+            "dribbles": "3/8[H]",
+            "dribblesAttempted": "7/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-17T01:38:54.899Z",
+    "endTime": "2026-05-17T01:39:38.964Z",
+    "totalTimeSeconds": 44.06,
+    "combinedMatchStatistics": {
+        "corners": "9/7[A]+2/3[A]+9/5[H]+3/4[A]+9/6[H]+7/6[A]+9/2[H]+5/3[H]",
+        "fouls": "18/14[A]+10/17[A]+13/12[H]+16/18[A]+15/15[H]+11/9[A]+10/21[H]+7/8[H]",
+        "goalKicks": "9/9[A]+3/6[A]+8/9[H]+10/4[A]+9/5[H]+11/8[A]+5/20[H]+10/15[H]",
+        "saves": "5/2[A]+4/3[A]+4/5[H]+3/0[A]+1/2[H]+2/1[A]+1/6[H]+2/2[H]",
+        "offsides": "1/1[A]+3/0[A]+1/2[H]+3/1[A]+1/2[H]+0/3[A]+1/0[H]+0/0[H]",
+        "shotsOnTarget": "2/5[A]+3/5[A]+7/5[H]+3/4[A]+3/1[H]+1/3[A]+7/2[H]+4/2[H]",
+        "yellowCards": "4/2[A]+0/1[A]+1/2[H]+2/3[A]+4/2[H]+0/1[A]+3/5[H]+0/3[H]",
+        "goals": "0/0[A]+1/1[A]+3/1[H]+2/3[A]+1/0[H]+0/1[A]+1/1[H]+2/0[H]",
+        "throwIns": "16/22[A]+23/25[A]+10/18[H]+26/28[A]+29/24[H]+20/28[A]+18/22[H]+21/28[H]",
+        "averageBallPossession": "45/55[A]+53/47[A]+42/58[H]+55/45[A]+51/49[H]+46/54[A]+71/29[H]+48/52[H]",
+        "teams": "Criciúma,Juventude,Away+Criciúma,Cuiabá,Away+Criciúma,CRB,Home+Criciúma,Fortaleza,Away+Criciúma,Botafogo-SP,Home+Criciúma,Goiás,Away+Criciúma,Athletic Club,Home+Criciúma,Botafogo-SP,Home",
+        "tackles": "15/10[A]+16/14[A]+12/13[H]+9/13[A]+11/14[H]+16/16[A]+17/22[H]+14/11[H]",
+        "interceptions": "10/13[A]+4/11[A]+12/7[H]+14/9[A]+11/14[H]+8/10[A]+10/8[H]+11/8[H]",
+        "aerialDuels": "16/29[A]+19/17[A]+19/19[H]+10/18[A]+30/15[H]+17/8[A]+26/13[H]+18/24[H]",
+        "aerialDuelsAttempted": "45/45[A]+36/36[A]+38/38[H]+28/28[A]+45/45[H]+25/25[A]+39/39[H]+42/42[H]",
+        "dribbles": "8/13[A]+1/1[A]+8/10[H]+5/8[A]+2/12[H]+8/5[A]+7/3[H]+3/8[H]",
+        "dribblesAttempted": "12/18[A]+6/11[A]+14/15[H]+10/12[A]+7/15[H]+16/14[A]+17/10[H]+7/12[H]",
+        "isHome": "false+false+true+false+true+false+true+true",
+        "cornersTotals": "53/36",
+        "cornersTotalsHome": "32/16",
+        "cornersTotalsAway": "21/20",
+        "cornersAverage": "6.63/4.50",
+        "cornersAverageHome": "8.00/4.00",
+        "cornersAverageAway": "5.25/5.00",
+        "foulsTotals": "100/114",
+        "foulsTotalsHome": "45/56",
+        "foulsTotalsAway": "55/58",
+        "foulsAverage": "12.50/14.25",
+        "foulsAverageHome": "11.25/14.00",
+        "foulsAverageAway": "13.75/14.50",
+        "goalKicksTotals": "65/76",
+        "goalKicksTotalsHome": "32/49",
+        "goalKicksTotalsAway": "33/27",
+        "goalKicksAverage": "8.13/9.50",
+        "goalKicksAverageHome": "8.00/12.25",
+        "goalKicksAverageAway": "8.25/6.75",
+        "savesTotals": "22/21",
+        "savesTotalsHome": "8/15",
+        "savesTotalsAway": "14/6",
+        "savesAverage": "2.75/2.63",
+        "savesAverageHome": "2.00/3.75",
+        "savesAverageAway": "3.50/1.50",
+        "offsidesTotals": "10/9",
+        "offsidesTotalsHome": "3/4",
+        "offsidesTotalsAway": "7/5",
+        "offsidesAverage": "1.25/1.13",
+        "offsidesAverageHome": "0.75/1.00",
+        "offsidesAverageAway": "1.75/1.25",
+        "shotsOnTargetTotals": "30/27",
+        "shotsOnTargetTotalsHome": "21/10",
+        "shotsOnTargetTotalsAway": "9/17",
+        "shotsOnTargetAverage": "3.75/3.38",
+        "shotsOnTargetAverageHome": "5.25/2.50",
+        "shotsOnTargetAverageAway": "2.25/4.25",
+        "yellowCardsTotals": "14/19",
+        "yellowCardsTotalsHome": "8/12",
+        "yellowCardsTotalsAway": "6/7",
+        "yellowCardsAverage": "1.75/2.38",
+        "yellowCardsAverageHome": "2.00/3.00",
+        "yellowCardsAverageAway": "1.50/1.75",
+        "goalsTotals": "10/7",
+        "goalsTotalsHome": "7/2",
+        "goalsTotalsAway": "3/5",
+        "goalsAverage": "1.25/0.88",
+        "goalsAverageHome": "1.75/0.50",
+        "goalsAverageAway": "0.75/1.25",
+        "throwInsTotals": "163/195",
+        "throwInsTotalsHome": "78/92",
+        "throwInsTotalsAway": "85/103",
+        "throwInsAverage": "20.38/24.38",
+        "throwInsAverageHome": "19.50/23.00",
+        "throwInsAverageAway": "21.25/25.75",
+        "averageBallPossessionTotals": "411/389",
+        "averageBallPossessionTotalsHome": "212/188",
+        "averageBallPossessionTotalsAway": "199/201",
+        "averageBallPossessionAverage": "51.38/48.63",
+        "averageBallPossessionAverageHome": "53.00/47.00",
+        "averageBallPossessionAverageAway": "49.75/50.25",
+        "tacklesTotals": "110/113",
+        "tacklesTotalsHome": "54/60",
+        "tacklesTotalsAway": "56/53",
+        "tacklesAverage": "13.75/14.13",
+        "tacklesAverageHome": "13.50/15.00",
+        "tacklesAverageAway": "14.00/13.25",
+        "interceptionsTotals": "80/80",
+        "interceptionsTotalsHome": "44/37",
+        "interceptionsTotalsAway": "36/43",
+        "interceptionsAverage": "10.00/10.00",
+        "interceptionsAverageHome": "11.00/9.25",
+        "interceptionsAverageAway": "9.00/10.75",
+        "aerialDuelsTotals": "155/143",
+        "aerialDuelsTotalsHome": "93/71",
+        "aerialDuelsTotalsAway": "62/72",
+        "aerialDuelsAverage": "19.38/17.88",
+        "aerialDuelsAverageHome": "23.25/17.75",
+        "aerialDuelsAverageAway": "15.50/18.00",
+        "aerialDuelsAttemptedTotals": "298/298",
+        "aerialDuelsAttemptedTotalsHome": "164/164",
+        "aerialDuelsAttemptedTotalsAway": "134/134",
+        "aerialDuelsAttemptedAverage": "37.25/37.25",
+        "aerialDuelsAttemptedAverageHome": "41.00/41.00",
+        "aerialDuelsAttemptedAverageAway": "33.50/33.50",
+        "dribblesTotals": "42/60",
+        "dribblesTotalsHome": "20/33",
+        "dribblesTotalsAway": "22/27",
+        "dribblesAverage": "5.25/7.50",
+        "dribblesAverageHome": "5.00/8.25",
+        "dribblesAverageAway": "5.50/6.75",
+        "dribblesAttemptedTotals": "89/107",
+        "dribblesAttemptedTotalsHome": "45/52",
+        "dribblesAttemptedTotalsAway": "44/55",
+        "dribblesAttemptedAverage": "11.13/13.38",
+        "dribblesAttemptedAverageHome": "11.25/13.00",
+        "dribblesAttemptedAverageAway": "11.00/13.75"
+    }
+}

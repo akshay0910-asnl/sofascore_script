@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.23",
+        "fouls": "15.46",
+        "goalKicks": "4.92",
+        "saves": "2.00",
+        "offsides": "1.00",
+        "shotsOnTarget": "3.85/3.62",
+        "yellowCards": "2.31/2.31",
+        "goals": "1.00/1.77",
+        "throwIns": "24.69",
+        "ballPossession": 47.615384615385,
+        "tackles": "18.23/15.69",
+        "interceptions": "12.15/9.92",
+        "aerialDuels": "22.54",
+        "aerialDuelsAttempted": "38.38",
+        "dribbles": "4.85/8.92",
+        "dribblesAttempted": "11.15/17.31"
+    },
+    "teamSlug": "philadelphia-union",
+    "teamId": "39833",
+    "teamName": "Philadelphia Union",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-city-sc-philadelphia-union/IWpsMUv#id:15171550,tab:statistics",
+            "teams": [
+                "Orlando City SC",
+                "Philadelphia Union"
+            ],
+            "goals": [
+                4,
+                3
+            ],
+            "teamIds": [
+                52237,
+                39833
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-new-england-revolution/labsIWp#id:15171529,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "Philadelphia Union"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2511,
+                39833
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nashville-sc-philadelphia-union/IWpsmcKc#id:15171518,tab:statistics",
+            "teams": [
+                "Philadelphia Union",
+                "Nashville SC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                39833,
+                337612
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-columbus-crew/eabsIWp#id:15171499,tab:statistics",
+            "teams": [
+                "Columbus Crew",
+                "Philadelphia Union"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2504,
+                39833
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-toronto-fc/FQcsIWp#id:15171490,tab:statistics",
+            "teams": [
+                "Toronto FC",
+                "Philadelphia Union"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                7080,
+                39833
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-dc-united/cabsIWp#id:15171479,tab:statistics",
+            "teams": [
+                "Philadelphia Union",
+                "DC United"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                39833,
+                2502
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-chicago-fire/fabsIWp#id:15137921,tab:statistics",
+            "teams": [
+                "Philadelphia Union",
+                "Chicago Fire"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                39833,
+                2505
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-san-jose-earthquakes/ALisIWp#id:15137912,tab:statistics",
+            "teams": [
+                "Philadelphia Union",
+                "San Jose Earthquakes"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                39833,
+                21825
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "10/2[A]",
+            "fouls": "12/9[A]",
+            "goalKicks": "6/11[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "7/6[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "3/4[A]",
+            "throwIns": "16/16[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Philadelphia Union,Orlando City SC,Away",
+            "tackles": "19/19[A]",
+            "interceptions": "18/8[A]",
+            "aerialDuels": "14/10[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "4/13[A]",
+            "dribblesAttempted": "10/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "16/8[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "0/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "1/2[A]",
+            "throwIns": "17/16[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Philadelphia Union,New England Revolution,Away",
+            "tackles": "25/12[A]",
+            "interceptions": "10/6[A]",
+            "aerialDuels": "16/8[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "6/9[A]",
+            "dribblesAttempted": "12/24[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "4/12[H]",
+            "saves": "1/4[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "4/1[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "25/20[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Philadelphia Union,Nashville SC,Home",
+            "tackles": "17/16[H]",
+            "interceptions": "7/4[H]",
+            "aerialDuels": "23/12[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "6/12[H]",
+            "dribblesAttempted": "10/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "18/11[A]",
+            "goalKicks": "1/7[A]",
+            "saves": "4/2[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "24/24[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Philadelphia Union,Columbus Crew,Away",
+            "tackles": "21/16[A]",
+            "interceptions": "17/19[A]",
+            "aerialDuels": "18/16[A]",
+            "aerialDuelsAttempted": "34/34[A]",
+            "dribbles": "6/10[A]",
+            "dribblesAttempted": "11/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "18/12[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "0/2[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "3/3[A]",
+            "throwIns": "23/27[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Philadelphia Union,Toronto FC,Away",
+            "tackles": "12/9[A]",
+            "interceptions": "14/5[A]",
+            "aerialDuels": "25/11[A]",
+            "aerialDuelsAttempted": "36/36[A]",
+            "dribbles": "1/14[A]",
+            "dribblesAttempted": "5/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/1[H]",
+            "fouls": "11/11[H]",
+            "goalKicks": "5/11[H]",
+            "saves": "0/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/0[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "27/25[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Philadelphia Union,DC United,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "10/18[H]",
+            "aerialDuels": "42/25[H]",
+            "aerialDuelsAttempted": "67/67[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "13/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "11/15[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "2/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "1/2[H]",
+            "throwIns": "31/24[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Philadelphia Union,Chicago Fire,Home",
+            "tackles": "19/26[H]",
+            "interceptions": "13/7[H]",
+            "aerialDuels": "33/16[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "4/10[H]",
+            "dribblesAttempted": "16/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/1[H]",
+            "fouls": "20/16[H]",
+            "goalKicks": "4/8[H]",
+            "saves": "2/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "29/27[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Philadelphia Union,San Jose Earthquakes,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "14/14[H]",
+            "aerialDuels": "32/17[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "3/5[H]",
+            "dribblesAttempted": "10/16[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T14:04:46.404Z",
+    "endTime": "2026-05-16T14:05:27.723Z",
+    "totalTimeSeconds": 41.32,
+    "combinedMatchStatistics": {
+        "corners": "10/2[A]+3/9[A]+5/2[H]+4/2[A]+2/2[A]+13/1[H]+6/2[H]+11/1[H]",
+        "fouls": "12/9[A]+16/8[A]+14/11[H]+18/11[A]+18/12[A]+11/11[H]+11/15[H]+20/16[H]",
+        "goalKicks": "6/11[A]+9/9[A]+4/12[H]+1/7[A]+7/7[A]+5/11[H]+6/6[H]+4/8[H]",
+        "saves": "2/4[A]+0/1[A]+1/4[H]+4/2[A]+0/2[A]+0/4[H]+2/2[H]+2/3[H]",
+        "offsides": "1/0[A]+0/2[A]+2/0[H]+3/2[A]+0/4[A]+1/0[H]+0/0[H]+2/1[H]",
+        "shotsOnTarget": "7/6[A]+2/2[A]+4/1[H]+2/4[A]+5/4[A]+4/0[H]+3/4[H]+3/3[H]",
+        "yellowCards": "3/1[A]+3/0[A]+1/1[H]+1/1[A]+4/4[A]+0/3[H]+1/3[H]+3/2[H]",
+        "goals": "3/4[A]+1/2[A]+0/0[H]+0/2[A]+3/3[A]+0/0[H]+1/2[H]+0/1[H]",
+        "throwIns": "16/16[A]+17/16[A]+25/20[H]+24/24[A]+23/27[A]+27/25[H]+31/24[H]+29/27[H]",
+        "averageBallPossession": "46/54[A]+39/61[A]+46/54[H]+44/56[A]+36/64[A]+62/38[H]+47/53[H]+50/50[H]",
+        "teams": "Philadelphia Union,Orlando City SC,Away+Philadelphia Union,New England Revolution,Away+Philadelphia Union,Nashville SC,Home+Philadelphia Union,Columbus Crew,Away+Philadelphia Union,Toronto FC,Away+Philadelphia Union,DC United,Home+Philadelphia Union,Chicago Fire,Home+Philadelphia Union,San Jose Earthquakes,Home",
+        "tackles": "19/19[A]+25/12[A]+17/16[H]+21/16[A]+12/9[A]+11/12[H]+19/26[H]+18/13[H]",
+        "interceptions": "18/8[A]+10/6[A]+7/4[H]+17/19[A]+14/5[A]+10/18[H]+13/7[H]+14/14[H]",
+        "aerialDuels": "14/10[A]+16/8[A]+23/12[H]+18/16[A]+25/11[A]+42/25[H]+33/16[H]+32/17[H]",
+        "aerialDuelsAttempted": "24/24[A]+24/24[A]+35/35[H]+34/34[A]+36/36[A]+67/67[H]+49/49[H]+49/49[H]",
+        "dribbles": "4/13[A]+6/9[A]+6/12[H]+6/10[A]+1/14[A]+5/5[H]+4/10[H]+3/5[H]",
+        "dribblesAttempted": "10/22[A]+12/24[A]+10/21[H]+11/20[A]+5/18[A]+13/7[H]+16/19[H]+10/16[H]",
+        "isHome": "false+false+true+false+false+true+true+true",
+        "cornersTotals": "54/21",
+        "cornersTotalsHome": "35/6",
+        "cornersTotalsAway": "19/15",
+        "cornersAverage": "6.75/2.63",
+        "cornersAverageHome": "8.75/1.50",
+        "cornersAverageAway": "4.75/3.75",
+        "foulsTotals": "120/93",
+        "foulsTotalsHome": "56/53",
+        "foulsTotalsAway": "64/40",
+        "foulsAverage": "15.00/11.63",
+        "foulsAverageHome": "14.00/13.25",
+        "foulsAverageAway": "16.00/10.00",
+        "goalKicksTotals": "42/71",
+        "goalKicksTotalsHome": "19/37",
+        "goalKicksTotalsAway": "23/34",
+        "goalKicksAverage": "5.25/8.88",
+        "goalKicksAverageHome": "4.75/9.25",
+        "goalKicksAverageAway": "5.75/8.50",
+        "savesTotals": "11/22",
+        "savesTotalsHome": "5/13",
+        "savesTotalsAway": "6/9",
+        "savesAverage": "1.38/2.75",
+        "savesAverageHome": "1.25/3.25",
+        "savesAverageAway": "1.50/2.25",
+        "offsidesTotals": "9/9",
+        "offsidesTotalsHome": "5/1",
+        "offsidesTotalsAway": "4/8",
+        "offsidesAverage": "1.13/1.13",
+        "offsidesAverageHome": "1.25/0.25",
+        "offsidesAverageAway": "1.00/2.00",
+        "shotsOnTargetTotals": "30/24",
+        "shotsOnTargetTotalsHome": "14/8",
+        "shotsOnTargetTotalsAway": "16/16",
+        "shotsOnTargetAverage": "3.75/3.00",
+        "shotsOnTargetAverageHome": "3.50/2.00",
+        "shotsOnTargetAverageAway": "4.00/4.00",
+        "yellowCardsTotals": "16/15",
+        "yellowCardsTotalsHome": "5/9",
+        "yellowCardsTotalsAway": "11/6",
+        "yellowCardsAverage": "2.00/1.88",
+        "yellowCardsAverageHome": "1.25/2.25",
+        "yellowCardsAverageAway": "2.75/1.50",
+        "goalsTotals": "8/14",
+        "goalsTotalsHome": "1/3",
+        "goalsTotalsAway": "7/11",
+        "goalsAverage": "1.00/1.75",
+        "goalsAverageHome": "0.25/0.75",
+        "goalsAverageAway": "1.75/2.75",
+        "throwInsTotals": "192/179",
+        "throwInsTotalsHome": "112/96",
+        "throwInsTotalsAway": "80/83",
+        "throwInsAverage": "24.00/22.38",
+        "throwInsAverageHome": "28.00/24.00",
+        "throwInsAverageAway": "20.00/20.75",
+        "averageBallPossessionTotals": "370/430",
+        "averageBallPossessionTotalsHome": "205/195",
+        "averageBallPossessionTotalsAway": "165/235",
+        "averageBallPossessionAverage": "46.25/53.75",
+        "averageBallPossessionAverageHome": "51.25/48.75",
+        "averageBallPossessionAverageAway": "41.25/58.75",
+        "tacklesTotals": "142/123",
+        "tacklesTotalsHome": "65/67",
+        "tacklesTotalsAway": "77/56",
+        "tacklesAverage": "17.75/15.38",
+        "tacklesAverageHome": "16.25/16.75",
+        "tacklesAverageAway": "19.25/14.00",
+        "interceptionsTotals": "103/81",
+        "interceptionsTotalsHome": "44/43",
+        "interceptionsTotalsAway": "59/38",
+        "interceptionsAverage": "12.88/10.13",
+        "interceptionsAverageHome": "11.00/10.75",
+        "interceptionsAverageAway": "14.75/9.50",
+        "aerialDuelsTotals": "203/115",
+        "aerialDuelsTotalsHome": "130/70",
+        "aerialDuelsTotalsAway": "73/45",
+        "aerialDuelsAverage": "25.38/14.38",
+        "aerialDuelsAverageHome": "32.50/17.50",
+        "aerialDuelsAverageAway": "18.25/11.25",
+        "aerialDuelsAttemptedTotals": "318/318",
+        "aerialDuelsAttemptedTotalsHome": "200/200",
+        "aerialDuelsAttemptedTotalsAway": "118/118",
+        "aerialDuelsAttemptedAverage": "39.75/39.75",
+        "aerialDuelsAttemptedAverageHome": "50.00/50.00",
+        "aerialDuelsAttemptedAverageAway": "29.50/29.50",
+        "dribblesTotals": "35/78",
+        "dribblesTotalsHome": "18/32",
+        "dribblesTotalsAway": "17/46",
+        "dribblesAverage": "4.38/9.75",
+        "dribblesAverageHome": "4.50/8.00",
+        "dribblesAverageAway": "4.25/11.50",
+        "dribblesAttemptedTotals": "87/147",
+        "dribblesAttemptedTotalsHome": "49/63",
+        "dribblesAttemptedTotalsAway": "38/84",
+        "dribblesAttemptedAverage": "10.88/18.38",
+        "dribblesAttemptedAverageHome": "12.25/15.75",
+        "dribblesAttemptedAverageAway": "9.50/21.00"
+    }
+}

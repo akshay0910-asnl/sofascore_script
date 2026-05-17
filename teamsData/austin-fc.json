@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.54",
+        "fouls": "11.62",
+        "goalKicks": "9.08",
+        "saves": "5.23",
+        "offsides": "1.08",
+        "shotsOnTarget": "4.08/7.15",
+        "yellowCards": "1.92/2.69",
+        "goals": "1.38/2.00",
+        "throwIns": "15.00",
+        "ballPossession": 46.769230769231,
+        "tackles": "12.54/12.77",
+        "interceptions": "8.08/7.46",
+        "aerialDuels": "10.00",
+        "aerialDuelsAttempted": "22.85",
+        "dribbles": "5.77/5.54",
+        "dribblesAttempted": "12.31/11.38"
+    },
+    "teamSlug": "austin-fc",
+    "teamId": "377973",
+    "teamName": "Austin FC",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/san-diego-fc-austin-fc/yjbdslEri#id:15171552,tab:statistics",
+            "teams": [
+                "San Diego FC",
+                "Austin FC"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                1043961,
+                377973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-minnesota-united/tHqsyjbd#id:15171537,tab:statistics",
+            "teams": [
+                "Minnesota United",
+                "Austin FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                41618,
+                377973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stlouis-city-austin-fc/yjbdsdgnd#id:15171525,tab:statistics",
+            "teams": [
+                "Austin FC",
+                "St.Louis City"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                377973,
+                407803
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-houston-dynamo/iabsyjbd#id:15171497,tab:statistics",
+            "teams": [
+                "Austin FC",
+                "Houston Dynamo"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                377973,
+                2508
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-san-jose-earthquakes/ALisyjbd#id:15171495,tab:statistics",
+            "teams": [
+                "San Jose Earthquakes",
+                "Austin FC"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                21825,
+                377973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-toronto-fc/FQcsyjbd#id:15171474,tab:statistics",
+            "teams": [
+                "Toronto FC",
+                "Austin FC"
+            ],
+            "goals": [
+                3,
+                3
+            ],
+            "teamIds": [
+                7080,
+                377973
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-la-galaxy/nabsyjbd#id:15171445,tab:statistics",
+            "teams": [
+                "Austin FC",
+                "LA Galaxy"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                377973,
+                2513
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-los-angeles-fc/aTjcsyjbd#id:15137924,tab:statistics",
+            "teams": [
+                "Austin FC",
+                "Los Angeles FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                377973,
+                274650
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/6[A]",
+            "fouls": "7/9[A]",
+            "goalKicks": "13/6[A]",
+            "saves": "5/3[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "3/10[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/5[A]",
+            "throwIns": "13/10[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Austin FC,San Diego FC,Away",
+            "tackles": "13/10[A]",
+            "interceptions": "10/9[A]",
+            "aerialDuels": "2/4[A]",
+            "aerialDuelsAttempted": "6/6[A]",
+            "dribbles": "3/5[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "10/4[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "2/2[A]",
+            "throwIns": "13/17[A]",
+            "averageBallPossession": "45/55[A]",
+            "teams": "Austin FC,Minnesota United,Away",
+            "tackles": "15/15[A]",
+            "interceptions": "7/10[A]",
+            "aerialDuels": "12/20[A]",
+            "aerialDuelsAttempted": "32/32[A]",
+            "dribbles": "6/1[A]",
+            "dribblesAttempted": "17/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "14/20[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "5/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "16/12[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Austin FC,St.Louis City,Home",
+            "tackles": "8/12[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "10/10[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "4/2[H]",
+            "dribblesAttempted": "8/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "8/9[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "15/11[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Austin FC,Houston Dynamo,Home",
+            "tackles": "10/6[H]",
+            "interceptions": "11/11[H]",
+            "aerialDuels": "7/11[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "3/2[H]",
+            "dribblesAttempted": "7/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/13[A]",
+            "fouls": "21/16[A]",
+            "goalKicks": "14/2[A]",
+            "saves": "11/1[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/16[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "1/5[A]",
+            "throwIns": "14/21[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Austin FC,San Jose Earthquakes,Away",
+            "tackles": "17/14[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "14/12[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "2/7[A]",
+            "dribblesAttempted": "9/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "11/18[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "8/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/11[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "3/3[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Austin FC,Toronto FC,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "12/7[A]",
+            "aerialDuels": "8/21[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "12/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/5[H]",
+            "fouls": "9/9[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "5/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "1/2[H]",
+            "throwIns": "9/9[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "Austin FC,LA Galaxy,Home",
+            "tackles": "8/7[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "9/8[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "3/2[H]",
+            "dribblesAttempted": "6/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "11/7[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "1/1[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "1/1[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "15/14[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Austin FC,Los Angeles FC,Home",
+            "tackles": "17/17[H]",
+            "interceptions": "6/13[H]",
+            "aerialDuels": "6/7[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "11/7[H]",
+            "dribblesAttempted": "20/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T14:06:31.470Z",
+    "endTime": "2026-05-16T14:07:16.123Z",
+    "totalTimeSeconds": 44.65,
+    "combinedMatchStatistics": {
+        "corners": "4/6[A]+4/3[A]+4/6[H]+3/5[H]+1/13[A]+5/6[A]+6/5[H]+5/4[H]",
+        "fouls": "7/9[A]+11/15[A]+14/20[H]+14/12[H]+21/16[A]+11/18[A]+9/9[H]+11/7[H]",
+        "goalKicks": "13/6[A]+10/4[A]+9/8[H]+8/9[H]+14/2[A]+6/7[A]+4/9[H]+8/7[H]",
+        "saves": "5/3[A]+3/3[A]+5/4[H]+5/2[H]+11/1[A]+8/3[A]+5/4[H]+1/1[H]",
+        "offsides": "3/2[A]+0/1[A]+2/1[H]+0/2[H]+0/1[A]+1/3[A]+2/1[H]+2/0[H]",
+        "shotsOnTarget": "3/10[A]+5/5[A]+6/5[H]+4/5[H]+2/16[A]+6/11[A]+5/7[H]+1/1[H]",
+        "yellowCards": "0/1[A]+2/5[A]+2/3[H]+4/2[H]+1/4[A]+2/5[A]+2/4[H]+3/2[H]",
+        "goals": "0/5[A]+2/2[A]+2/0[H]+2/0[H]+1/5[A]+3/3[A]+1/2[H]+0/0[H]",
+        "throwIns": "13/10[A]+13/17[A]+16/12[H]+15/11[H]+14/21[A]+21/20[A]+9/9[H]+15/14[H]",
+        "averageBallPossession": "41/59[A]+45/55[A]+56/44[H]+45/55[H]+31/69[A]+54/46[A]+61/39[H]+62/38[H]",
+        "teams": "Austin FC,San Diego FC,Away+Austin FC,Minnesota United,Away+Austin FC,St.Louis City,Home+Austin FC,Houston Dynamo,Home+Austin FC,San Jose Earthquakes,Away+Austin FC,Toronto FC,Away+Austin FC,LA Galaxy,Home+Austin FC,Los Angeles FC,Home",
+        "tackles": "13/10[A]+15/15[A]+8/12[H]+10/6[H]+17/14[A]+10/17[A]+8/7[H]+17/17[H]",
+        "interceptions": "10/9[A]+7/10[A]+8/5[H]+11/11[H]+5/8[A]+12/7[A]+7/7[H]+6/13[H]",
+        "aerialDuels": "2/4[A]+12/20[A]+10/10[H]+7/11[H]+14/12[A]+8/21[A]+9/8[H]+6/7[H]",
+        "aerialDuelsAttempted": "6/6[A]+32/32[A]+20/20[H]+18/18[H]+26/26[A]+29/29[A]+17/17[H]+13/13[H]",
+        "dribbles": "3/5[A]+6/1[A]+4/2[H]+3/2[H]+2/7[A]+5/5[A]+3/2[H]+11/7[H]",
+        "dribblesAttempted": "11/11[A]+17/7[A]+8/5[H]+7/7[H]+9/14[A]+12/8[A]+6/5[H]+20/12[H]",
+        "isHome": "false+false+true+true+false+false+true+true",
+        "cornersTotals": "32/48",
+        "cornersTotalsHome": "18/20",
+        "cornersTotalsAway": "14/28",
+        "cornersAverage": "4.00/6.00",
+        "cornersAverageHome": "4.50/5.00",
+        "cornersAverageAway": "3.50/7.00",
+        "foulsTotals": "98/106",
+        "foulsTotalsHome": "48/48",
+        "foulsTotalsAway": "50/58",
+        "foulsAverage": "12.25/13.25",
+        "foulsAverageHome": "12.00/12.00",
+        "foulsAverageAway": "12.50/14.50",
+        "goalKicksTotals": "72/52",
+        "goalKicksTotalsHome": "29/33",
+        "goalKicksTotalsAway": "43/19",
+        "goalKicksAverage": "9.00/6.50",
+        "goalKicksAverageHome": "7.25/8.25",
+        "goalKicksAverageAway": "10.75/4.75",
+        "savesTotals": "43/21",
+        "savesTotalsHome": "16/11",
+        "savesTotalsAway": "27/10",
+        "savesAverage": "5.38/2.63",
+        "savesAverageHome": "4.00/2.75",
+        "savesAverageAway": "6.75/2.50",
+        "offsidesTotals": "10/11",
+        "offsidesTotalsHome": "6/4",
+        "offsidesTotalsAway": "4/7",
+        "offsidesAverage": "1.25/1.38",
+        "offsidesAverageHome": "1.50/1.00",
+        "offsidesAverageAway": "1.00/1.75",
+        "shotsOnTargetTotals": "32/60",
+        "shotsOnTargetTotalsHome": "16/18",
+        "shotsOnTargetTotalsAway": "16/42",
+        "shotsOnTargetAverage": "4.00/7.50",
+        "shotsOnTargetAverageHome": "4.00/4.50",
+        "shotsOnTargetAverageAway": "4.00/10.50",
+        "yellowCardsTotals": "16/26",
+        "yellowCardsTotalsHome": "11/11",
+        "yellowCardsTotalsAway": "5/15",
+        "yellowCardsAverage": "2.00/3.25",
+        "yellowCardsAverageHome": "2.75/2.75",
+        "yellowCardsAverageAway": "1.25/3.75",
+        "goalsTotals": "11/17",
+        "goalsTotalsHome": "5/2",
+        "goalsTotalsAway": "6/15",
+        "goalsAverage": "1.38/2.13",
+        "goalsAverageHome": "1.25/0.50",
+        "goalsAverageAway": "1.50/3.75",
+        "throwInsTotals": "116/114",
+        "throwInsTotalsHome": "55/46",
+        "throwInsTotalsAway": "61/68",
+        "throwInsAverage": "14.50/14.25",
+        "throwInsAverageHome": "13.75/11.50",
+        "throwInsAverageAway": "15.25/17.00",
+        "averageBallPossessionTotals": "395/405",
+        "averageBallPossessionTotalsHome": "224/176",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "49.38/50.63",
+        "averageBallPossessionAverageHome": "56.00/44.00",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "98/98",
+        "tacklesTotalsHome": "43/42",
+        "tacklesTotalsAway": "55/56",
+        "tacklesAverage": "12.25/12.25",
+        "tacklesAverageHome": "10.75/10.50",
+        "tacklesAverageAway": "13.75/14.00",
+        "interceptionsTotals": "66/70",
+        "interceptionsTotalsHome": "32/36",
+        "interceptionsTotalsAway": "34/34",
+        "interceptionsAverage": "8.25/8.75",
+        "interceptionsAverageHome": "8.00/9.00",
+        "interceptionsAverageAway": "8.50/8.50",
+        "aerialDuelsTotals": "68/93",
+        "aerialDuelsTotalsHome": "32/36",
+        "aerialDuelsTotalsAway": "36/57",
+        "aerialDuelsAverage": "8.50/11.63",
+        "aerialDuelsAverageHome": "8.00/9.00",
+        "aerialDuelsAverageAway": "9.00/14.25",
+        "aerialDuelsAttemptedTotals": "161/161",
+        "aerialDuelsAttemptedTotalsHome": "68/68",
+        "aerialDuelsAttemptedTotalsAway": "93/93",
+        "aerialDuelsAttemptedAverage": "20.13/20.13",
+        "aerialDuelsAttemptedAverageHome": "17.00/17.00",
+        "aerialDuelsAttemptedAverageAway": "23.25/23.25",
+        "dribblesTotals": "37/31",
+        "dribblesTotalsHome": "21/13",
+        "dribblesTotalsAway": "16/18",
+        "dribblesAverage": "4.63/3.88",
+        "dribblesAverageHome": "5.25/3.25",
+        "dribblesAverageAway": "4.00/4.50",
+        "dribblesAttemptedTotals": "90/69",
+        "dribblesAttemptedTotalsHome": "41/29",
+        "dribblesAttemptedTotalsAway": "49/40",
+        "dribblesAttemptedAverage": "11.25/8.63",
+        "dribblesAttemptedAverageHome": "10.25/7.25",
+        "dribblesAttemptedAverageAway": "12.25/10.00"
+    }
+}

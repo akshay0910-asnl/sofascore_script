@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "6.33",
-        "fouls": "13.83",
-        "goalKicks": "7.83",
-        "saves": "2.00",
-        "offsides": "1.50",
-        "shotsOnTarget": "4.83/3.33",
-        "yellowCards": "2.67/2.17",
-        "goals": "1.17/1.33",
-        "throwIns": "19.00",
-        "ballPossession": 55.333333333333,
-        "tackles": "15.17/18.33",
-        "interceptions": "8.17/7.83",
-        "aerialDuels": "10.33",
-        "aerialDuelsAttempted": "18.50",
-        "dribbles": "6.67/5.17",
-        "dribblesAttempted": "16.67/12.17"
+        "corners": "5.77",
+        "fouls": "12.46",
+        "goalKicks": "8.69",
+        "saves": "1.85",
+        "offsides": "1.77",
+        "shotsOnTarget": "5.23/2.77",
+        "yellowCards": "2.46/1.77",
+        "goals": "1.23/0.92",
+        "throwIns": "19.15",
+        "ballPossession": 58.307692307692,
+        "tackles": "15.00/16.15",
+        "interceptions": "7.92/8.08",
+        "aerialDuels": "11.54",
+        "aerialDuelsAttempted": "22.15",
+        "dribbles": "6.23/5.08",
+        "dribblesAttempted": "14.46/12.54"
     },
     "teamSlug": "aucas",
     "teamId": "5249",
     "teamName": "Aucas",
     "tournament": "LigaPro Serie A",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-catolica-del-ecuador-aucas/ZecsRNi#id:15502546,tab:statistics",
+            "teams": [
+                "Aucas",
+                "Universidad Católica del Ecuador"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                5249,
+                21942
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/libertad-aucas/ZecsCHhd#id:15502538,tab:statistics",
+            "teams": [
+                "Libertad",
+                "Aucas"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                394127,
+                5249
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/delfin-aucas/ZecsNxKb#id:15502532,tab:statistics",
+            "teams": [
+                "Aucas",
+                "Delfín"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5249,
+                213638
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/ldu-aucas/Zecshfc#id:15502522,tab:statistics",
+            "teams": [
+                "LDU",
+                "Aucas"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                5257,
+                5249
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leones-del-norte-aucas/ZecsJofd#id:15502514,tab:statistics",
+            "teams": [
+                "Leones del Norte",
+                "Aucas"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                388234,
+                5249
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/emelec-aucas/Zecsffc#id:15502503,tab:statistics",
+            "teams": [
+                "Aucas",
+                "Emelec"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5249,
+                5255
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/macara-aucas/Zecsbvc#id:15502497,tab:statistics",
+            "teams": [
+                "Macará",
+                "Aucas"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                6001,
+                5249
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/orense-sc-aucas/ZecsAalc#id:15502492,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 277525
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/tecnico-universitario-aucas/ZecsQNi#id:15502483,tab:statistics",
-            "teams": [
-                "Aucas",
-                "Técnico Universitario"
-            ],
-            "goals": [
-                0,
-                1
-            ],
-            "teamIds": [
-                5249,
-                21941
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/independiente-del-valle-aucas/ZecsyUp#id:15502473,tab:statistics",
-            "teams": [
-                "Independiente del Valle",
-                "Aucas"
-            ],
-            "goals": [
-                2,
-                2
-            ],
-            "teamIds": [
-                39723,
-                5249
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/deportivo-cuenca-aucas/Zecsbfc#id:15502469,tab:statistics",
-            "teams": [
-                "Aucas",
-                "Deportivo Cuenca"
-            ],
-            "goals": [
-                0,
-                1
-            ],
-            "teamIds": [
-                5249,
-                5251
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/guayaquil-city-aucas/ZecsaCAb#id:15502457,tab:statistics",
-            "teams": [
-                "Guayaquil City",
-                "Aucas"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                188850,
-                5249
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/mushuc-runa-sc-aucas/ZecsBZdb#id:15502451,tab:statistics",
-            "teams": [
-                "Aucas",
-                "Mushuc Runa SC"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                5249,
-                134976
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/delfin-aucas/ZecsNxKb#id:15195599,tab:statistics",
-            "teams": [
-                "Delfín",
-                "Aucas"
-            ],
-            "goals": [
-                0,
-                1
-            ],
-            "teamIds": [
-                213638,
-                5249
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/el-nacional-aucas/Zecsefc#id:15141480,tab:statistics",
-            "teams": [
-                "El Nacional",
-                "Aucas"
-            ],
-            "goals": [
-                3,
-                1
-            ],
-            "teamIds": [
-                5254,
-                5249
-            ],
-            "isHome": false
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/3[H]",
+            "fouls": "17/8[H]",
+            "goalKicks": "3/13[H]",
+            "saves": "1/4[H]",
+            "offsides": "4/0[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "21/14[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Aucas,Universidad Católica del Ecuador,Home",
+            "tackles": "24/15[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "10/10[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "10/6[H]",
+            "dribblesAttempted": "19/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/4[A]",
+            "fouls": "14/12[A]",
+            "goalKicks": "11/10[A]",
+            "saves": "3/6[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/3[A]",
+            "throwIns": "23/16[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Aucas,Libertad,Away",
+            "tackles": "13/11[A]",
+            "interceptions": "9/8[A]",
+            "aerialDuels": "17/8[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "2/9[A]",
+            "dribblesAttempted": "4/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/1[H]",
+            "fouls": "10/6[H]",
+            "goalKicks": "8/12[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "21/19[H]",
+            "averageBallPossession": "73/27[H]",
+            "teams": "Aucas,Delfín,Home",
+            "tackles": "14/12[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "16/12[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "6/1[H]",
+            "dribblesAttempted": "16/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "6/11[A]",
+            "goalKicks": "14/14[A]",
+            "saves": "0/5[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "5/0[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "17/20[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Aucas,LDU,Away",
+            "tackles": "16/12[A]",
+            "interceptions": "6/10[A]",
+            "aerialDuels": "12/8[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "0/0[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/0[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "20/20[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Aucas,Leones del Norte,Away",
+            "tackles": "13/20[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "9/19[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "6/5[A]",
+            "dribblesAttempted": "15/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/4[H]",
+            "fouls": "13/4[H]",
+            "goalKicks": "8/13[H]",
+            "saves": "2/8[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "10/2[H]",
+            "yellowCards": "4/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "12/11[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Aucas,Emelec,Home",
+            "tackles": "11/18[H]",
+            "interceptions": "0/5[H]",
+            "aerialDuels": "7/14[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "6/8[H]",
+            "dribblesAttempted": "13/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "5/6[A]",
+            "goalKicks": "15/6[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "21/32[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Aucas,Macará,Away",
+            "tackles": "13/12[A]",
+            "interceptions": "12/9[A]",
+            "aerialDuels": "17/18[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "5/2[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
         {
             "corners": "3/3[H]",
             "fouls": "12/13[H]",
@@ -173,267 +313,127 @@
             "dribbles": "6/6[H]",
             "dribblesAttempted": "12/15[H]",
             "isHome": true
-        },
-        {
-            "corners": "3/3[H]",
-            "fouls": "14/9[H]",
-            "goalKicks": "4/9[H]",
-            "saves": "2/2[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "2/3[H]",
-            "yellowCards": "1/2[H]",
-            "goals": "0/1[H]",
-            "throwIns": "34/18[H]",
-            "averageBallPossession": "69/31[H]",
-            "teams": "Aucas,Técnico Universitario,Home",
-            "tackles": "18/21[H]",
-            "interceptions": "5/6[H]",
-            "aerialDuels": "9/5[H]",
-            "aerialDuelsAttempted": "14/14[H]",
-            "dribbles": "8/9[H]",
-            "dribblesAttempted": "18/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/5[A]",
-            "fouls": "10/5[A]",
-            "goalKicks": "14/3[A]",
-            "saves": "3/5[A]",
-            "offsides": "3/0[A]",
-            "shotsOnTarget": "7/5[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "2/2[A]",
-            "throwIns": "17/16[A]",
-            "averageBallPossession": "46/54[A]",
-            "teams": "Aucas,Independiente del Valle,Away",
-            "tackles": "17/22[A]",
-            "interceptions": "13/5[A]",
-            "aerialDuels": "8/6[A]",
-            "aerialDuelsAttempted": "14/14[A]",
-            "dribbles": "5/5[A]",
-            "dribblesAttempted": "19/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "9/2[H]",
-            "fouls": "12/12[H]",
-            "goalKicks": "8/9[H]",
-            "saves": "0/4[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "4/1[H]",
-            "yellowCards": "3/1[H]",
-            "goals": "0/1[H]",
-            "throwIns": "23/16[H]",
-            "averageBallPossession": "63/37[H]",
-            "teams": "Aucas,Deportivo Cuenca,Home",
-            "tackles": "9/22[H]",
-            "interceptions": "8/11[H]",
-            "aerialDuels": "11/13[H]",
-            "aerialDuelsAttempted": "24/24[H]",
-            "dribbles": "9/2[H]",
-            "dribblesAttempted": "23/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "9/3[A]",
-            "fouls": "20/11[A]",
-            "goalKicks": "3/6[A]",
-            "saves": "1/5[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "7/2[A]",
-            "yellowCards": "2/3[A]",
-            "goals": "1/1[A]",
-            "throwIns": "13/21[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "Aucas,Guayaquil City,Away",
-            "tackles": "17/14[A]",
-            "interceptions": "9/10[A]",
-            "aerialDuels": "15/9[A]",
-            "aerialDuelsAttempted": "24/24[A]",
-            "dribbles": "8/4[A]",
-            "dribblesAttempted": "15/10[A]",
-            "isHome": false
-        },
-        {
-            "corners": "7/5[H]",
-            "fouls": "15/14[H]",
-            "goalKicks": "9/10[H]",
-            "saves": "4/2[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "3/5[H]",
-            "yellowCards": "4/2[H]",
-            "goals": "1/1[H]",
-            "throwIns": "11/14[H]",
-            "averageBallPossession": "59/41[H]",
-            "teams": "Aucas,Mushuc Runa SC,Home",
-            "tackles": "16/18[H]",
-            "interceptions": "5/6[H]",
-            "aerialDuels": "9/6[H]",
-            "aerialDuelsAttempted": "15/15[H]",
-            "dribbles": "4/5[H]",
-            "dribblesAttempted": "13/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/1[A]",
-            "fouls": "0/0[A]",
-            "goalKicks": "4/8[A]",
-            "saves": "1/1[A]",
-            "offsides": "4/1[A]",
-            "shotsOnTarget": "2/1[A]",
-            "yellowCards": "3/4[A]",
-            "goals": "1/0[A]",
-            "throwIns": "19/14[A]",
-            "averageBallPossession": "56/44[A]",
-            "teams": "Aucas,Delfín,Away",
-            "tackles": "15/6[A]",
-            "interceptions": "10/7[A]",
-            "aerialDuels": "22/21[A]",
-            "aerialDuelsAttempted": "43/43[A]",
-            "dribbles": "2/11[A]",
-            "dribblesAttempted": "4/20[A]",
-            "isHome": false
-        },
-        {
-            "corners": "8/0[A]",
-            "fouls": "14/9[A]",
-            "goalKicks": "5/9[A]",
-            "saves": "2/6[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "7/5[A]",
-            "yellowCards": "2/3[A]",
-            "goals": "1/3[A]",
-            "throwIns": "23/19[A]",
-            "averageBallPossession": "60/40[A]",
-            "teams": "Aucas,El Nacional,Away",
-            "tackles": "14/13[A]",
-            "interceptions": "10/7[A]",
-            "aerialDuels": "20/9[A]",
-            "aerialDuelsAttempted": "29/29[A]",
-            "dribbles": "6/9[A]",
-            "dribblesAttempted": "15/10[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
     "currentIndex": 7,
-    "startTime": "2026-04-05T19:49:54.844Z",
-    "endTime": "2026-04-05T19:50:28.065Z",
-    "totalTimeSeconds": 33.22,
+    "startTime": "2026-05-16T17:01:06.056Z",
+    "endTime": "2026-05-16T17:01:41.774Z",
+    "totalTimeSeconds": 35.72,
     "combinedMatchStatistics": {
-        "corners": "3/3[H]+3/3[H]+7/5[A]+9/2[H]+9/3[A]+7/5[H]+5/1[A]+8/0[A]",
-        "fouls": "12/13[H]+14/9[H]+10/5[A]+12/12[H]+20/11[A]+15/14[H]+0/0[A]+14/9[A]",
-        "goalKicks": "9/10[H]+4/9[H]+14/3[A]+8/9[H]+3/6[A]+9/10[H]+4/8[A]+5/9[A]",
-        "saves": "2/3[H]+2/2[H]+3/5[A]+0/4[H]+1/5[A]+4/2[H]+1/1[A]+2/6[A]",
-        "offsides": "1/1[H]+2/1[H]+3/0[A]+2/1[H]+1/1[A]+0/0[H]+4/1[A]+2/1[A]",
-        "shotsOnTarget": "6/4[H]+2/3[H]+7/5[A]+4/1[H]+7/2[A]+3/5[H]+2/1[A]+7/5[A]",
-        "yellowCards": "5/4[H]+1/2[H]+2/1[A]+3/1[H]+2/3[A]+4/2[H]+3/4[A]+2/3[A]",
-        "goals": "3/2[H]+0/1[H]+2/2[A]+0/1[H]+1/1[A]+1/1[H]+1/0[A]+1/3[A]",
-        "throwIns": "16/19[H]+34/18[H]+17/16[A]+23/16[H]+13/21[A]+11/14[H]+19/14[A]+23/19[A]",
-        "averageBallPossession": "46/54[H]+69/31[H]+46/54[A]+63/37[H]+49/51[A]+59/41[H]+56/44[A]+60/40[A]",
-        "teams": "Aucas,Orense SC,Home+Aucas,Técnico Universitario,Home+Aucas,Independiente del Valle,Away+Aucas,Deportivo Cuenca,Home+Aucas,Guayaquil City,Away+Aucas,Mushuc Runa SC,Home+Aucas,Delfín,Away+Aucas,El Nacional,Away",
-        "tackles": "14/13[H]+18/21[H]+17/22[A]+9/22[H]+17/14[A]+16/18[H]+15/6[A]+14/13[A]",
-        "interceptions": "9/9[H]+5/6[H]+13/5[A]+8/11[H]+9/10[A]+5/6[H]+10/7[A]+10/7[A]",
-        "aerialDuels": "10/10[H]+9/5[H]+8/6[A]+11/13[H]+15/9[A]+9/6[H]+22/21[A]+20/9[A]",
-        "aerialDuelsAttempted": "20/20[H]+14/14[H]+14/14[A]+24/24[H]+24/24[A]+15/15[H]+43/43[A]+29/29[A]",
-        "dribbles": "6/6[H]+8/9[H]+5/5[A]+9/2[H]+8/4[A]+4/5[H]+2/11[A]+6/9[A]",
-        "dribblesAttempted": "12/15[H]+18/16[H]+19/12[A]+23/9[H]+15/10[A]+13/11[H]+4/20[A]+15/10[A]",
-        "isHome": "true+true+false+true+false+true+false+false",
-        "cornersTotals": "51/22",
-        "cornersTotalsHome": "22/13",
-        "cornersTotalsAway": "29/9",
-        "cornersAverage": "6.38/2.75",
-        "cornersAverageHome": "5.50/3.25",
-        "cornersAverageAway": "7.25/2.25",
-        "foulsTotals": "97/73",
-        "foulsTotalsHome": "53/48",
-        "foulsTotalsAway": "44/25",
-        "foulsAverage": "12.13/9.13",
-        "foulsAverageHome": "13.25/12.00",
-        "foulsAverageAway": "11.00/6.25",
-        "goalKicksTotals": "56/64",
-        "goalKicksTotalsHome": "30/38",
-        "goalKicksTotalsAway": "26/26",
-        "goalKicksAverage": "7.00/8.00",
-        "goalKicksAverageHome": "7.50/9.50",
-        "goalKicksAverageAway": "6.50/6.50",
-        "savesTotals": "15/28",
-        "savesTotalsHome": "8/11",
-        "savesTotalsAway": "7/17",
-        "savesAverage": "1.88/3.50",
-        "savesAverageHome": "2.00/2.75",
-        "savesAverageAway": "1.75/4.25",
-        "offsidesTotals": "15/6",
-        "offsidesTotalsHome": "5/3",
-        "offsidesTotalsAway": "10/3",
-        "offsidesAverage": "1.88/0.75",
-        "offsidesAverageHome": "1.25/0.75",
-        "offsidesAverageAway": "2.50/0.75",
-        "shotsOnTargetTotals": "38/26",
-        "shotsOnTargetTotalsHome": "15/13",
-        "shotsOnTargetTotalsAway": "23/13",
-        "shotsOnTargetAverage": "4.75/3.25",
-        "shotsOnTargetAverageHome": "3.75/3.25",
-        "shotsOnTargetAverageAway": "5.75/3.25",
-        "yellowCardsTotals": "22/20",
-        "yellowCardsTotalsHome": "13/9",
-        "yellowCardsTotalsAway": "9/11",
-        "yellowCardsAverage": "2.75/2.50",
-        "yellowCardsAverageHome": "3.25/2.25",
-        "yellowCardsAverageAway": "2.25/2.75",
-        "goalsTotals": "9/11",
-        "goalsTotalsHome": "4/5",
-        "goalsTotalsAway": "5/6",
-        "goalsAverage": "1.13/1.38",
-        "goalsAverageHome": "1.00/1.25",
-        "goalsAverageAway": "1.25/1.50",
-        "throwInsTotals": "156/137",
-        "throwInsTotalsHome": "84/67",
-        "throwInsTotalsAway": "72/70",
-        "throwInsAverage": "19.50/17.13",
-        "throwInsAverageHome": "21.00/16.75",
-        "throwInsAverageAway": "18.00/17.50",
-        "averageBallPossessionTotals": "448/352",
-        "averageBallPossessionTotalsHome": "237/163",
-        "averageBallPossessionTotalsAway": "211/189",
-        "averageBallPossessionAverage": "56.00/44.00",
-        "averageBallPossessionAverageHome": "59.25/40.75",
-        "averageBallPossessionAverageAway": "52.75/47.25",
-        "tacklesTotals": "120/129",
-        "tacklesTotalsHome": "57/74",
-        "tacklesTotalsAway": "63/55",
-        "tacklesAverage": "15.00/16.13",
-        "tacklesAverageHome": "14.25/18.50",
-        "tacklesAverageAway": "15.75/13.75",
-        "interceptionsTotals": "69/61",
-        "interceptionsTotalsHome": "27/32",
-        "interceptionsTotalsAway": "42/29",
-        "interceptionsAverage": "8.63/7.63",
-        "interceptionsAverageHome": "6.75/8.00",
-        "interceptionsAverageAway": "10.50/7.25",
-        "aerialDuelsTotals": "104/79",
-        "aerialDuelsTotalsHome": "39/34",
-        "aerialDuelsTotalsAway": "65/45",
-        "aerialDuelsAverage": "13.00/9.88",
-        "aerialDuelsAverageHome": "9.75/8.50",
-        "aerialDuelsAverageAway": "16.25/11.25",
-        "aerialDuelsAttemptedTotals": "183/183",
-        "aerialDuelsAttemptedTotalsHome": "73/73",
-        "aerialDuelsAttemptedTotalsAway": "110/110",
-        "aerialDuelsAttemptedAverage": "22.88/22.88",
-        "aerialDuelsAttemptedAverageHome": "18.25/18.25",
-        "aerialDuelsAttemptedAverageAway": "27.50/27.50",
-        "dribblesTotals": "48/51",
-        "dribblesTotalsHome": "27/22",
-        "dribblesTotalsAway": "21/29",
-        "dribblesAverage": "6.00/6.38",
-        "dribblesAverageHome": "6.75/5.50",
-        "dribblesAverageAway": "5.25/7.25",
-        "dribblesAttemptedTotals": "119/103",
-        "dribblesAttemptedTotalsHome": "66/51",
-        "dribblesAttemptedTotalsAway": "53/52",
-        "dribblesAttemptedAverage": "14.88/12.88",
-        "dribblesAttemptedAverageHome": "16.50/12.75",
-        "dribblesAttemptedAverageAway": "13.25/13.00"
+        "corners": "5/3[H]+5/4[A]+5/1[H]+4/4[A]+3/5[A]+11/4[H]+4/7[A]+3/3[H]",
+        "fouls": "17/8[H]+14/12[A]+10/6[H]+6/11[A]+14/10[A]+13/4[H]+5/6[A]+12/13[H]",
+        "goalKicks": "3/13[H]+11/10[A]+8/12[H]+14/14[A]+7/6[A]+8/13[H]+15/6[A]+9/10[H]",
+        "saves": "1/4[H]+3/6[A]+3/4[H]+0/5[A]+0/0[A]+2/8[H]+3/4[A]+2/3[H]",
+        "offsides": "4/0[H]+1/0[A]+1/0[H]+2/1[A]+1/1[A]+2/0[H]+3/0[A]+1/1[H]",
+        "shotsOnTarget": "6/2[H]+8/6[A]+4/3[H]+5/0[A]+1/0[A]+10/2[H]+5/3[A]+6/4[H]",
+        "yellowCards": "1/0[H]+2/2[A]+4/3[H]+2/1[A]+2/3[A]+4/0[H]+1/1[A]+5/4[H]",
+        "goals": "2/1[H]+2/3[A]+1/0[H]+0/0[A]+1/0[A]+2/0[H]+1/0[A]+3/2[H]",
+        "throwIns": "21/14[H]+23/16[A]+21/19[H]+17/20[A]+20/20[A]+12/11[H]+21/32[A]+16/19[H]",
+        "averageBallPossession": "71/29[H]+62/38[A]+73/27[H]+50/50[A]+52/48[A]+67/33[H]+51/49[A]+46/54[H]",
+        "teams": "Aucas,Universidad Católica del Ecuador,Home+Aucas,Libertad,Away+Aucas,Delfín,Home+Aucas,LDU,Away+Aucas,Leones del Norte,Away+Aucas,Emelec,Home+Aucas,Macará,Away+Aucas,Orense SC,Home",
+        "tackles": "24/15[H]+13/11[A]+14/12[H]+16/12[A]+13/20[A]+11/18[H]+13/12[A]+14/13[H]",
+        "interceptions": "5/10[H]+9/8[A]+12/8[H]+6/10[A]+10/8[A]+0/5[H]+12/9[A]+9/9[H]",
+        "aerialDuels": "10/10[H]+17/8[A]+16/12[H]+12/8[A]+9/19[A]+7/14[H]+17/18[A]+10/10[H]",
+        "aerialDuelsAttempted": "20/20[H]+25/25[A]+28/28[H]+20/20[A]+28/28[A]+21/21[H]+35/35[A]+20/20[H]",
+        "dribbles": "10/6[H]+2/9[A]+6/1[H]+6/4[A]+6/5[A]+6/8[H]+5/2[A]+6/6[H]",
+        "dribblesAttempted": "19/20[H]+4/17[A]+16/6[H]+11/11[A]+15/12[A]+13/14[H]+10/10[A]+12/15[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "40/31",
+        "cornersTotalsHome": "24/11",
+        "cornersTotalsAway": "16/20",
+        "cornersAverage": "5.00/3.88",
+        "cornersAverageHome": "6.00/2.75",
+        "cornersAverageAway": "4.00/5.00",
+        "foulsTotals": "91/70",
+        "foulsTotalsHome": "52/31",
+        "foulsTotalsAway": "39/39",
+        "foulsAverage": "11.38/8.75",
+        "foulsAverageHome": "13.00/7.75",
+        "foulsAverageAway": "9.75/9.75",
+        "goalKicksTotals": "75/84",
+        "goalKicksTotalsHome": "28/48",
+        "goalKicksTotalsAway": "47/36",
+        "goalKicksAverage": "9.38/10.50",
+        "goalKicksAverageHome": "7.00/12.00",
+        "goalKicksAverageAway": "11.75/9.00",
+        "savesTotals": "14/34",
+        "savesTotalsHome": "8/19",
+        "savesTotalsAway": "6/15",
+        "savesAverage": "1.75/4.25",
+        "savesAverageHome": "2.00/4.75",
+        "savesAverageAway": "1.50/3.75",
+        "offsidesTotals": "15/3",
+        "offsidesTotalsHome": "8/1",
+        "offsidesTotalsAway": "7/2",
+        "offsidesAverage": "1.88/0.38",
+        "offsidesAverageHome": "2.00/0.25",
+        "offsidesAverageAway": "1.75/0.50",
+        "shotsOnTargetTotals": "45/20",
+        "shotsOnTargetTotalsHome": "26/11",
+        "shotsOnTargetTotalsAway": "19/9",
+        "shotsOnTargetAverage": "5.63/2.50",
+        "shotsOnTargetAverageHome": "6.50/2.75",
+        "shotsOnTargetAverageAway": "4.75/2.25",
+        "yellowCardsTotals": "21/14",
+        "yellowCardsTotalsHome": "14/7",
+        "yellowCardsTotalsAway": "7/7",
+        "yellowCardsAverage": "2.63/1.75",
+        "yellowCardsAverageHome": "3.50/1.75",
+        "yellowCardsAverageAway": "1.75/1.75",
+        "goalsTotals": "12/6",
+        "goalsTotalsHome": "8/3",
+        "goalsTotalsAway": "4/3",
+        "goalsAverage": "1.50/0.75",
+        "goalsAverageHome": "2.00/0.75",
+        "goalsAverageAway": "1.00/0.75",
+        "throwInsTotals": "151/151",
+        "throwInsTotalsHome": "70/63",
+        "throwInsTotalsAway": "81/88",
+        "throwInsAverage": "18.88/18.88",
+        "throwInsAverageHome": "17.50/15.75",
+        "throwInsAverageAway": "20.25/22.00",
+        "averageBallPossessionTotals": "472/328",
+        "averageBallPossessionTotalsHome": "257/143",
+        "averageBallPossessionTotalsAway": "215/185",
+        "averageBallPossessionAverage": "59.00/41.00",
+        "averageBallPossessionAverageHome": "64.25/35.75",
+        "averageBallPossessionAverageAway": "53.75/46.25",
+        "tacklesTotals": "118/113",
+        "tacklesTotalsHome": "63/58",
+        "tacklesTotalsAway": "55/55",
+        "tacklesAverage": "14.75/14.13",
+        "tacklesAverageHome": "15.75/14.50",
+        "tacklesAverageAway": "13.75/13.75",
+        "interceptionsTotals": "63/67",
+        "interceptionsTotalsHome": "26/32",
+        "interceptionsTotalsAway": "37/35",
+        "interceptionsAverage": "7.88/8.38",
+        "interceptionsAverageHome": "6.50/8.00",
+        "interceptionsAverageAway": "9.25/8.75",
+        "aerialDuelsTotals": "98/99",
+        "aerialDuelsTotalsHome": "43/46",
+        "aerialDuelsTotalsAway": "55/53",
+        "aerialDuelsAverage": "12.25/12.38",
+        "aerialDuelsAverageHome": "10.75/11.50",
+        "aerialDuelsAverageAway": "13.75/13.25",
+        "aerialDuelsAttemptedTotals": "197/197",
+        "aerialDuelsAttemptedTotalsHome": "89/89",
+        "aerialDuelsAttemptedTotalsAway": "108/108",
+        "aerialDuelsAttemptedAverage": "24.63/24.63",
+        "aerialDuelsAttemptedAverageHome": "22.25/22.25",
+        "aerialDuelsAttemptedAverageAway": "27.00/27.00",
+        "dribblesTotals": "47/41",
+        "dribblesTotalsHome": "28/21",
+        "dribblesTotalsAway": "19/20",
+        "dribblesAverage": "5.88/5.13",
+        "dribblesAverageHome": "7.00/5.25",
+        "dribblesAverageAway": "4.75/5.00",
+        "dribblesAttemptedTotals": "100/105",
+        "dribblesAttemptedTotalsHome": "60/55",
+        "dribblesAttemptedTotalsAway": "40/50",
+        "dribblesAttemptedAverage": "12.50/13.13",
+        "dribblesAttemptedAverageHome": "15.00/13.75",
+        "dribblesAttemptedAverageAway": "10.00/12.50"
     }
 }

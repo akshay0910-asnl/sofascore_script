@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.56",
+        "fouls": "12.11",
+        "goalKicks": "8.78",
+        "saves": "2.11",
+        "offsides": "2.11",
+        "shotsOnTarget": "6.33/3.56",
+        "yellowCards": "1.33/2.22",
+        "goals": "1.44/1.44",
+        "throwIns": "22.89",
+        "ballPossession": 46.111111111111,
+        "tackles": "19.67/17.67",
+        "interceptions": "12.33/8.78",
+        "aerialDuels": "8.89",
+        "aerialDuelsAttempted": "18.67",
+        "dribbles": "5.44/7.11",
+        "dribblesAttempted": "14.11/15.78"
+    },
+    "teamSlug": "orlando-pride",
+    "teamId": "215083",
+    "teamName": "Orlando Pride",
+    "tournament": "NWSL",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/boston-legacy-fc-orlando-pride/IbLbstcqj#id:15388474,tab:statistics",
+            "teams": [
+                "Boston Legacy FC",
+                "Orlando Pride"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                1165118,
+                215083
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-pride-north-carolina-courage/MVusIbLb#id:15388465,tab:statistics",
+            "teams": [
+                "Orlando Pride",
+                "North Carolina Courage"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                215083,
+                49787
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-pride-washington-spirit/mvkbsIbLb#id:15385508,tab:statistics",
+            "teams": [
+                "Orlando Pride",
+                "Washington Spirit"
+            ],
+            "goals": [
+                2,
+                4
+            ],
+            "teamIds": [
+                215083,
+                151012
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/racing-louisville-orlando-pride/IbLbsAgbd#id:15388456,tab:statistics",
+            "teams": [
+                "Racing Louisville",
+                "Orlando Pride"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                377825,
+                215083
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/angel-city-fc-orlando-pride/IbLbsunnd#id:15388447,tab:statistics",
+            "teams": [
+                "Orlando Pride",
+                "Angel City FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                215083,
+                408169
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-pride-njny-gotham-fc/tUnsIbLb#id:15388446,tab:statistics",
+            "teams": [
+                "NJ/NY Gotham FC",
+                "Orlando Pride"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                34718,
+                215083
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-pride-chicago-stars-fc/oUnsIbLb#id:15388432,tab:statistics",
+            "teams": [
+                "Chicago Stars FC",
+                "Orlando Pride"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                34714,
+                215083
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/denver-summit-fc-orlando-pride/IbLbsrcqj#id:15388431,tab:statistics",
+            "teams": [
+                "Orlando Pride",
+                "Denver Summit FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                215083,
+                1165117
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/11[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "12/7[A]",
+            "saves": "5/3[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "24/27[A]",
+            "averageBallPossession": "40/60[A]",
+            "teams": "Orlando Pride,Boston Legacy FC,Away",
+            "tackles": "25/23[A]",
+            "interceptions": "22/14[A]",
+            "aerialDuels": "5/6[A]",
+            "aerialDuelsAttempted": "11/11[A]",
+            "dribbles": "8/5[A]",
+            "dribblesAttempted": "18/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "15/15[H]",
+            "goalKicks": "17/10[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/1[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "15/26[H]",
+            "averageBallPossession": "44/56[H]",
+            "teams": "Orlando Pride,North Carolina Courage,Home",
+            "tackles": "19/16[H]",
+            "interceptions": "10/5[H]",
+            "aerialDuels": "4/13[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "4/6[H]",
+            "dribblesAttempted": "13/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "3/7[H]",
+            "saves": "3/7[H]",
+            "offsides": "1/5[H]",
+            "shotsOnTarget": "8/7[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/4[H]",
+            "throwIns": "29/28[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "Orlando Pride,Washington Spirit,Home",
+            "tackles": "31/21[H]",
+            "interceptions": "14/10[H]",
+            "aerialDuels": "10/9[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "3/8[H]",
+            "dribblesAttempted": "10/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "7/9[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "2/8[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "11/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "2/3[A]",
+            "throwIns": "34/13[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Orlando Pride,Racing Louisville,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "13/13[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "14/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "0/4[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "4/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "24/16[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Orlando Pride,Angel City FC,Home",
+            "tackles": "10/17[H]",
+            "interceptions": "5/3[H]",
+            "aerialDuels": "17/6[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "3/8[H]",
+            "dribblesAttempted": "10/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/11[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "5/5[A]",
+            "saves": "2/4[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/0[A]",
+            "throwIns": "19/23[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Orlando Pride,NJ/NY Gotham FC,Away",
+            "tackles": "19/11[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "10/8[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "18/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "19/16[A]",
+            "goalKicks": "9/13[A]",
+            "saves": "2/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "3/0[A]",
+            "throwIns": "14/25[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Orlando Pride,Chicago Stars FC,Away",
+            "tackles": "24/15[A]",
+            "interceptions": "14/7[A]",
+            "aerialDuels": "4/2[A]",
+            "aerialDuelsAttempted": "6/6[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "14/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "12/4[H]",
+            "fouls": "12/12[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "1/9[H]",
+            "offsides": "7/1[H]",
+            "shotsOnTarget": "10/2[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "19/23[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Orlando Pride,Denver Summit FC,Home",
+            "tackles": "24/15[H]",
+            "interceptions": "15/6[H]",
+            "aerialDuels": "9/17[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "2/6[H]",
+            "dribblesAttempted": "12/19[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T17:45:43.461Z",
+    "endTime": "2026-05-16T17:46:13.202Z",
+    "totalTimeSeconds": 29.74,
+    "combinedMatchStatistics": {
+        "corners": "4/11[A]+5/4[H]+5/2[H]+9/5[A]+5/3[H]+1/11[A]+4/4[A]+12/4[H]",
+        "fouls": "11/12[A]+15/15[H]+10/7[H]+7/9[A]+12/9[H]+11/15[A]+19/16[A]+12/12[H]",
+        "goalKicks": "12/7[A]+17/10[H]+3/7[H]+6/10[A]+12/8[H]+5/5[A]+9/13[A]+8/10[H]",
+        "saves": "5/3[A]+1/1[H]+3/7[H]+2/8[A]+0/4[H]+2/4[A]+2/1[A]+1/9[H]",
+        "offsides": "0/0[A]+1/2[H]+1/5[H]+2/2[A]+3/1[H]+2/3[A]+1/0[A]+7/1[H]",
+        "shotsOnTarget": "4/7[A]+2/1[H]+8/7[H]+11/5[A]+6/1[H]+4/2[A]+4/2[A]+10/2[H]",
+        "yellowCards": "2/2[A]+4/1[H]+0/3[H]+1/1[A]+4/1[H]+1/3[A]+0/2[A]+0/3[H]",
+        "goals": "1/2[A]+1/0[H]+2/4[H]+2/3[A]+2/1[H]+0/0[A]+3/0[A]+1/1[H]",
+        "throwIns": "24/27[A]+15/26[H]+29/28[H]+34/13[A]+24/16[H]+19/23[A]+14/25[A]+19/23[H]",
+        "averageBallPossession": "40/60[A]+44/56[H]+46/54[H]+62/38[A]+37/63[H]+39/61[A]+48/52[A]+51/49[H]",
+        "teams": "Orlando Pride,Boston Legacy FC,Away+Orlando Pride,North Carolina Courage,Home+Orlando Pride,Washington Spirit,Home+Orlando Pride,Racing Louisville,Away+Orlando Pride,Angel City FC,Home+Orlando Pride,NJ/NY Gotham FC,Away+Orlando Pride,Chicago Stars FC,Away+Orlando Pride,Denver Summit FC,Home",
+        "tackles": "25/23[A]+19/16[H]+31/21[H]+12/15[A]+10/17[H]+19/11[A]+24/15[A]+24/15[H]",
+        "interceptions": "22/14[A]+10/5[H]+14/10[H]+7/12[A]+5/3[H]+5/10[A]+14/7[A]+15/6[H]",
+        "aerialDuels": "5/6[A]+4/13[H]+10/9[H]+13/13[A]+17/6[H]+10/8[A]+4/2[A]+9/17[H]",
+        "aerialDuelsAttempted": "11/11[A]+17/17[H]+19/19[H]+26/26[A]+23/23[H]+18/18[A]+6/6[A]+26/26[H]",
+        "dribbles": "8/5[A]+4/6[H]+3/8[H]+8/8[A]+3/8[H]+8/7[A]+7/10[A]+2/6[H]",
+        "dribblesAttempted": "18/17[A]+13/17[H]+10/15[H]+14/15[A]+10/12[H]+18/15[A]+14/21[A]+12/19[H]",
+        "isHome": "false+true+true+false+true+false+false+true",
+        "cornersTotals": "45/44",
+        "cornersTotalsHome": "27/13",
+        "cornersTotalsAway": "18/31",
+        "cornersAverage": "5.63/5.50",
+        "cornersAverageHome": "6.75/3.25",
+        "cornersAverageAway": "4.50/7.75",
+        "foulsTotals": "97/95",
+        "foulsTotalsHome": "49/43",
+        "foulsTotalsAway": "48/52",
+        "foulsAverage": "12.13/11.88",
+        "foulsAverageHome": "12.25/10.75",
+        "foulsAverageAway": "12.00/13.00",
+        "goalKicksTotals": "72/70",
+        "goalKicksTotalsHome": "40/35",
+        "goalKicksTotalsAway": "32/35",
+        "goalKicksAverage": "9.00/8.75",
+        "goalKicksAverageHome": "10.00/8.75",
+        "goalKicksAverageAway": "8.00/8.75",
+        "savesTotals": "16/37",
+        "savesTotalsHome": "5/21",
+        "savesTotalsAway": "11/16",
+        "savesAverage": "2.00/4.63",
+        "savesAverageHome": "1.25/5.25",
+        "savesAverageAway": "2.75/4.00",
+        "offsidesTotals": "17/14",
+        "offsidesTotalsHome": "12/9",
+        "offsidesTotalsAway": "5/5",
+        "offsidesAverage": "2.13/1.75",
+        "offsidesAverageHome": "3.00/2.25",
+        "offsidesAverageAway": "1.25/1.25",
+        "shotsOnTargetTotals": "49/27",
+        "shotsOnTargetTotalsHome": "26/11",
+        "shotsOnTargetTotalsAway": "23/16",
+        "shotsOnTargetAverage": "6.13/3.38",
+        "shotsOnTargetAverageHome": "6.50/2.75",
+        "shotsOnTargetAverageAway": "5.75/4.00",
+        "yellowCardsTotals": "12/16",
+        "yellowCardsTotalsHome": "8/8",
+        "yellowCardsTotalsAway": "4/8",
+        "yellowCardsAverage": "1.50/2.00",
+        "yellowCardsAverageHome": "2.00/2.00",
+        "yellowCardsAverageAway": "1.00/2.00",
+        "goalsTotals": "12/11",
+        "goalsTotalsHome": "6/6",
+        "goalsTotalsAway": "6/5",
+        "goalsAverage": "1.50/1.38",
+        "goalsAverageHome": "1.50/1.50",
+        "goalsAverageAway": "1.50/1.25",
+        "throwInsTotals": "178/181",
+        "throwInsTotalsHome": "87/93",
+        "throwInsTotalsAway": "91/88",
+        "throwInsAverage": "22.25/22.63",
+        "throwInsAverageHome": "21.75/23.25",
+        "throwInsAverageAway": "22.75/22.00",
+        "averageBallPossessionTotals": "367/433",
+        "averageBallPossessionTotalsHome": "178/222",
+        "averageBallPossessionTotalsAway": "189/211",
+        "averageBallPossessionAverage": "45.88/54.13",
+        "averageBallPossessionAverageHome": "44.50/55.50",
+        "averageBallPossessionAverageAway": "47.25/52.75",
+        "tacklesTotals": "164/133",
+        "tacklesTotalsHome": "84/69",
+        "tacklesTotalsAway": "80/64",
+        "tacklesAverage": "20.50/16.63",
+        "tacklesAverageHome": "21.00/17.25",
+        "tacklesAverageAway": "20.00/16.00",
+        "interceptionsTotals": "92/67",
+        "interceptionsTotalsHome": "44/24",
+        "interceptionsTotalsAway": "48/43",
+        "interceptionsAverage": "11.50/8.38",
+        "interceptionsAverageHome": "11.00/6.00",
+        "interceptionsAverageAway": "12.00/10.75",
+        "aerialDuelsTotals": "72/74",
+        "aerialDuelsTotalsHome": "40/45",
+        "aerialDuelsTotalsAway": "32/29",
+        "aerialDuelsAverage": "9.00/9.25",
+        "aerialDuelsAverageHome": "10.00/11.25",
+        "aerialDuelsAverageAway": "8.00/7.25",
+        "aerialDuelsAttemptedTotals": "146/146",
+        "aerialDuelsAttemptedTotalsHome": "85/85",
+        "aerialDuelsAttemptedTotalsAway": "61/61",
+        "aerialDuelsAttemptedAverage": "18.25/18.25",
+        "aerialDuelsAttemptedAverageHome": "21.25/21.25",
+        "aerialDuelsAttemptedAverageAway": "15.25/15.25",
+        "dribblesTotals": "43/58",
+        "dribblesTotalsHome": "12/28",
+        "dribblesTotalsAway": "31/30",
+        "dribblesAverage": "5.38/7.25",
+        "dribblesAverageHome": "3.00/7.00",
+        "dribblesAverageAway": "7.75/7.50",
+        "dribblesAttemptedTotals": "109/131",
+        "dribblesAttemptedTotalsHome": "45/63",
+        "dribblesAttemptedTotalsAway": "64/68",
+        "dribblesAttemptedAverage": "13.63/16.38",
+        "dribblesAttemptedAverageHome": "11.25/15.75",
+        "dribblesAttemptedAverageAway": "16.00/17.00"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.85",
+        "fouls": "10.85",
+        "goalKicks": "9.77",
+        "saves": "2.31",
+        "offsides": "0.92",
+        "shotsOnTarget": "4.69/2.92",
+        "yellowCards": "1.23/2.31",
+        "goals": "1.69/0.77",
+        "throwIns": "20.23",
+        "ballPossession": 57.230769230769,
+        "tackles": "13.77/13.00",
+        "interceptions": "7.15/9.38",
+        "aerialDuels": "10.31",
+        "aerialDuelsAttempted": "18.62",
+        "dribbles": "6.15/6.38",
+        "dribblesAttempted": "12.54/13.23"
+    },
+    "teamSlug": "universidad-catolica-del-ecuador",
+    "teamId": "21942",
+    "teamName": "Universidad Católica del Ecuador",
+    "tournament": "LigaPro Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-catolica-del-ecuador-aucas/ZecsRNi#id:15502546,tab:statistics",
+            "teams": [
+                "Aucas",
+                "Universidad Católica del Ecuador"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                5249,
+                21942
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-del-valle-universidad-catolica-del-ecuador/RNisyUp#id:15502539,tab:statistics",
+            "teams": [
+                "Universidad Católica del Ecuador",
+                "Independiente del Valle"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                21942,
+                39723
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/manta-fc-universidad-catolica-del-ecuador/RNislwn#id:15502530,tab:statistics",
+            "teams": [
+                "Manta FC",
+                "Universidad Católica del Ecuador"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                33561,
+                21942
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-catolica-del-ecuador-macara/bvcsRNi#id:15502524,tab:statistics",
+            "teams": [
+                "Universidad Católica del Ecuador",
+                "Macará"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                21942,
+                6001
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/libertad-universidad-catolica-del-ecuador/RNisCHhd#id:15502519,tab:statistics",
+            "teams": [
+                "Universidad Católica del Ecuador",
+                "Libertad"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                21942,
+                394127
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-catolica-del-ecuador-tecnico-universitario/QNisRNi#id:15502505,tab:statistics",
+            "teams": [
+                "Técnico Universitario",
+                "Universidad Católica del Ecuador"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                21941,
+                21942
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-catolica-del-ecuador-emelec/ffcsRNi#id:15815945,tab:statistics",
+            "teams": [
+                "Universidad Católica del Ecuador",
+                "Emelec"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                21942,
+                5255
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/universidad-catolica-del-ecuador-barcelona-sc-guayaquil/afcsRNi#id:15502488,tab:statistics",
+            "teams": [
+                "Barcelona SC Guayaquil",
+                "Universidad Católica del Ecuador"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5250,
+                21942
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/5[A]",
+            "fouls": "8/17[A]",
+            "goalKicks": "13/3[A]",
+            "saves": "4/1[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "14/21[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Universidad Católica del Ecuador,Aucas,Away",
+            "tackles": "15/24[A]",
+            "interceptions": "10/5[A]",
+            "aerialDuels": "10/10[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "6/10[A]",
+            "dribblesAttempted": "20/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "11/3[H]",
+            "fouls": "10/10[H]",
+            "goalKicks": "7/20[H]",
+            "saves": "1/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "2/7[H]",
+            "goals": "2/3[H]",
+            "throwIns": "20/8[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Universidad Católica del Ecuador,Independiente del Valle,Home",
+            "tackles": "5/15[H]",
+            "interceptions": "3/9[H]",
+            "aerialDuels": "8/9[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[A]",
+            "fouls": "8/26[A]",
+            "goalKicks": "3/12[A]",
+            "saves": "2/0[A]",
+            "offsides": "0/6[A]",
+            "shotsOnTarget": "0/3[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "0/1[A]",
+            "throwIns": "31/12[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Universidad Católica del Ecuador,Manta FC,Away",
+            "tackles": "16/18[A]",
+            "interceptions": "6/13[A]",
+            "aerialDuels": "21/16[A]",
+            "aerialDuelsAttempted": "37/37[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "16/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "11/18[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "1/5[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "8/1[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "4/0[H]",
+            "throwIns": "17/18[H]",
+            "averageBallPossession": "57/43[H]",
+            "teams": "Universidad Católica del Ecuador,Macará,Home",
+            "tackles": "18/14[H]",
+            "interceptions": "6/3[H]",
+            "aerialDuels": "9/3[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "13/7[H]",
+            "dribblesAttempted": "19/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "11/9[H]",
+            "goalKicks": "8/13[H]",
+            "saves": "2/4[H]",
+            "offsides": "3/5[H]",
+            "shotsOnTarget": "7/2[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "10/13[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "Universidad Católica del Ecuador,Libertad,Home",
+            "tackles": "9/10[H]",
+            "interceptions": "4/8[H]",
+            "aerialDuels": "8/5[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "7/6[H]",
+            "dribblesAttempted": "11/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/5[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "10/13[A]",
+            "saves": "4/2[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "22/17[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Universidad Católica del Ecuador,Técnico Universitario,Away",
+            "tackles": "13/14[A]",
+            "interceptions": "15/9[A]",
+            "aerialDuels": "8/8[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "13/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "1/4[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/13[H]",
+            "averageBallPossession": "71/29[H]",
+            "teams": "Universidad Católica del Ecuador,Emelec,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "6/6[H]",
+            "aerialDuels": "12/12[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "7/1[H]",
+            "dribblesAttempted": "13/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/5[A]",
+            "fouls": "16/10[A]",
+            "goalKicks": "14/9[A]",
+            "saves": "1/3[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/1[A]",
+            "throwIns": "13/20[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Universidad Católica del Ecuador,Barcelona SC Guayaquil,Away",
+            "tackles": "19/9[A]",
+            "interceptions": "9/9[A]",
+            "aerialDuels": "12/11[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "9/11[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T16:59:11.354Z",
+    "endTime": "2026-05-16T16:59:48.934Z",
+    "totalTimeSeconds": 37.58,
+    "combinedMatchStatistics": {
+        "corners": "3/5[A]+11/3[H]+2/7[A]+3/6[H]+6/2[H]+4/5[A]+5/3[H]+6/5[A]",
+        "fouls": "8/17[A]+10/10[H]+8/26[A]+11/18[H]+11/9[H]+9/13[A]+10/12[H]+16/10[A]",
+        "goalKicks": "13/3[A]+7/20[H]+3/12[A]+9/9[H]+8/13[H]+10/13[A]+4/11[H]+14/9[A]",
+        "saves": "4/1[A]+1/4[H]+2/0[A]+1/5[H]+2/4[H]+4/2[A]+1/4[H]+1/3[A]",
+        "offsides": "0/4[A]+0/1[H]+0/6[A]+0/2[H]+3/5[H]+0/3[A]+1/1[H]+0/2[A]",
+        "shotsOnTarget": "2/6[A]+6/3[H]+0/3[A]+8/1[H]+7/2[H]+4/4[A]+5/2[H]+4/1[A]",
+        "yellowCards": "0/1[A]+2/7[H]+1/5[A]+1/2[H]+0/2[H]+1/4[A]+1/1[H]+2/1[A]",
+        "goals": "1/2[A]+2/3[H]+0/1[A]+4/0[H]+2/0[H]+2/0[A]+1/1[H]+1/1[A]",
+        "throwIns": "14/21[A]+20/8[H]+31/12[A]+17/18[H]+10/13[H]+22/17[A]+17/13[H]+13/20[A]",
+        "averageBallPossession": "29/71[A]+62/38[H]+59/41[A]+57/43[H]+59/41[H]+55/45[A]+71/29[H]+53/47[A]",
+        "teams": "Universidad Católica del Ecuador,Aucas,Away+Universidad Católica del Ecuador,Independiente del Valle,Home+Universidad Católica del Ecuador,Manta FC,Away+Universidad Católica del Ecuador,Macará,Home+Universidad Católica del Ecuador,Libertad,Home+Universidad Católica del Ecuador,Técnico Universitario,Away+Universidad Católica del Ecuador,Emelec,Home+Universidad Católica del Ecuador,Barcelona SC Guayaquil,Away",
+        "tackles": "15/24[A]+5/15[H]+16/18[A]+18/14[H]+9/10[H]+13/14[A]+11/12[H]+19/9[A]",
+        "interceptions": "10/5[A]+3/9[H]+6/13[A]+6/3[H]+4/8[H]+15/9[A]+6/6[H]+9/9[A]",
+        "aerialDuels": "10/10[A]+8/9[H]+21/16[A]+9/3[H]+8/5[H]+8/8[A]+12/12[H]+12/11[A]",
+        "aerialDuelsAttempted": "20/20[A]+17/17[H]+37/37[A]+12/12[H]+13/13[H]+16/16[A]+24/24[H]+23/23[A]",
+        "dribbles": "6/10[A]+9/7[H]+7/8[A]+13/7[H]+7/6[H]+6/6[A]+7/1[H]+5/6[A]",
+        "dribblesAttempted": "20/19[A]+13/10[H]+16/17[A]+19/15[H]+11/13[H]+13/10[A]+13/7[H]+9/11[A]",
+        "isHome": "false+true+false+true+true+false+true+false",
+        "cornersTotals": "40/36",
+        "cornersTotalsHome": "25/14",
+        "cornersTotalsAway": "15/22",
+        "cornersAverage": "5.00/4.50",
+        "cornersAverageHome": "6.25/3.50",
+        "cornersAverageAway": "3.75/5.50",
+        "foulsTotals": "83/115",
+        "foulsTotalsHome": "42/49",
+        "foulsTotalsAway": "41/66",
+        "foulsAverage": "10.38/14.38",
+        "foulsAverageHome": "10.50/12.25",
+        "foulsAverageAway": "10.25/16.50",
+        "goalKicksTotals": "68/90",
+        "goalKicksTotalsHome": "28/53",
+        "goalKicksTotalsAway": "40/37",
+        "goalKicksAverage": "8.50/11.25",
+        "goalKicksAverageHome": "7.00/13.25",
+        "goalKicksAverageAway": "10.00/9.25",
+        "savesTotals": "16/23",
+        "savesTotalsHome": "5/17",
+        "savesTotalsAway": "11/6",
+        "savesAverage": "2.00/2.88",
+        "savesAverageHome": "1.25/4.25",
+        "savesAverageAway": "2.75/1.50",
+        "offsidesTotals": "4/24",
+        "offsidesTotalsHome": "4/9",
+        "offsidesTotalsAway": "0/15",
+        "offsidesAverage": "0.50/3.00",
+        "offsidesAverageHome": "1.00/2.25",
+        "offsidesAverageAway": "0.00/3.75",
+        "shotsOnTargetTotals": "36/22",
+        "shotsOnTargetTotalsHome": "26/8",
+        "shotsOnTargetTotalsAway": "10/14",
+        "shotsOnTargetAverage": "4.50/2.75",
+        "shotsOnTargetAverageHome": "6.50/2.00",
+        "shotsOnTargetAverageAway": "2.50/3.50",
+        "yellowCardsTotals": "8/23",
+        "yellowCardsTotalsHome": "4/12",
+        "yellowCardsTotalsAway": "4/11",
+        "yellowCardsAverage": "1.00/2.88",
+        "yellowCardsAverageHome": "1.00/3.00",
+        "yellowCardsAverageAway": "1.00/2.75",
+        "goalsTotals": "13/8",
+        "goalsTotalsHome": "9/4",
+        "goalsTotalsAway": "4/4",
+        "goalsAverage": "1.63/1.00",
+        "goalsAverageHome": "2.25/1.00",
+        "goalsAverageAway": "1.00/1.00",
+        "throwInsTotals": "144/122",
+        "throwInsTotalsHome": "64/52",
+        "throwInsTotalsAway": "80/70",
+        "throwInsAverage": "18.00/15.25",
+        "throwInsAverageHome": "16.00/13.00",
+        "throwInsAverageAway": "20.00/17.50",
+        "averageBallPossessionTotals": "445/355",
+        "averageBallPossessionTotalsHome": "249/151",
+        "averageBallPossessionTotalsAway": "196/204",
+        "averageBallPossessionAverage": "55.63/44.38",
+        "averageBallPossessionAverageHome": "62.25/37.75",
+        "averageBallPossessionAverageAway": "49.00/51.00",
+        "tacklesTotals": "106/116",
+        "tacklesTotalsHome": "43/51",
+        "tacklesTotalsAway": "63/65",
+        "tacklesAverage": "13.25/14.50",
+        "tacklesAverageHome": "10.75/12.75",
+        "tacklesAverageAway": "15.75/16.25",
+        "interceptionsTotals": "59/62",
+        "interceptionsTotalsHome": "19/26",
+        "interceptionsTotalsAway": "40/36",
+        "interceptionsAverage": "7.38/7.75",
+        "interceptionsAverageHome": "4.75/6.50",
+        "interceptionsAverageAway": "10.00/9.00",
+        "aerialDuelsTotals": "88/74",
+        "aerialDuelsTotalsHome": "37/29",
+        "aerialDuelsTotalsAway": "51/45",
+        "aerialDuelsAverage": "11.00/9.25",
+        "aerialDuelsAverageHome": "9.25/7.25",
+        "aerialDuelsAverageAway": "12.75/11.25",
+        "aerialDuelsAttemptedTotals": "162/162",
+        "aerialDuelsAttemptedTotalsHome": "66/66",
+        "aerialDuelsAttemptedTotalsAway": "96/96",
+        "aerialDuelsAttemptedAverage": "20.25/20.25",
+        "aerialDuelsAttemptedAverageHome": "16.50/16.50",
+        "aerialDuelsAttemptedAverageAway": "24.00/24.00",
+        "dribblesTotals": "60/51",
+        "dribblesTotalsHome": "36/21",
+        "dribblesTotalsAway": "24/30",
+        "dribblesAverage": "7.50/6.38",
+        "dribblesAverageHome": "9.00/5.25",
+        "dribblesAverageAway": "6.00/7.50",
+        "dribblesAttemptedTotals": "114/102",
+        "dribblesAttemptedTotalsHome": "56/45",
+        "dribblesAttemptedTotalsAway": "58/57",
+        "dribblesAttemptedAverage": "14.25/12.75",
+        "dribblesAttemptedAverageHome": "14.00/11.25",
+        "dribblesAttemptedAverageAway": "14.50/14.25"
+    }
+}

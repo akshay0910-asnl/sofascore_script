@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.60",
+        "fouls": "13.10",
+        "goalKicks": "6.20",
+        "saves": "2.80",
+        "offsides": "1.50",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "2.00/NaN",
+        "goals": "1.90/1.40",
+        "throwIns": "NaN",
+        "ballPossession": 52.2,
+        "tackles": "NaN/NaN",
+        "interceptions": "34.60/NaN",
+        "aerialDuels": "15.80",
+        "aerialDuelsAttempted": "34.30",
+        "dribbles": "11.70/NaN",
+        "dribblesAttempted": "15.00/NaN"
+    },
+    "teamSlug": "suwon-fc",
+    "teamId": "41261",
+    "teamName": "Suwon FC",
+    "tournament": "K League 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/hwaseong-fc-suwon-fc/lAqszdDb#id:15403862,tab:statistics",
+            "teams": [
+                "Hwaseong FC",
+                "Suwon FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                195174,
+                41261
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/suwon-fc-suwon-samsung-bluewings/cddslAq#id:15403860,tab:statistics",
+            "teams": [
+                "Suwon FC",
+                "Suwon Samsung Bluewings"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                41261,
+                7652
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/gimpo-fc-suwon-fc/lAqsxdDb#id:15403852,tab:statistics",
+            "teams": [
+                "Suwon FC",
+                "Gimpo FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                41261,
+                195172
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/suwon-fc-busanpark/RcdslAq#id:15403837,tab:statistics",
+            "teams": [
+                "Busan I Park",
+                "Suwon FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                7642,
+                41261
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/suwon-fc-daegu-fc/UcdslAq#id:15403830,tab:statistics",
+            "teams": [
+                "Suwon FC",
+                "Daegu FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                41261,
+                7644
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/seoul-e-land-fc-suwon-fc/lAqsxNAb#id:15403822,tab:statistics",
+            "teams": [
+                "Seoul E-Land FC",
+                "Suwon FC"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                189422,
+                41261
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/paju-frontier-fc-suwon-fc/lAqsUKAc#id:15403818,tab:statistics",
+            "teams": [
+                "Suwon FC",
+                "Paju Frontier FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                41261,
+                314294
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/suwon-fc-gimhae-city-fc/kAqslAq#id:15403787,tab:statistics",
+            "teams": [
+                "Gimhae City FC",
+                "Suwon FC"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                41260,
+                41261
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/3[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Suwon FC,Hwaseong FC,Away",
+            "tackles": "4/4[A]",
+            "interceptions": "7/19[A]",
+            "aerialDuels": "13/16[A]",
+            "aerialDuelsAttempted": "28/33[A]",
+            "dribbles": "17/11[A]",
+            "dribblesAttempted": "22/21[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "11/3[H]",
+            "saves": "4/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "13/23[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Suwon FC,Suwon Samsung Bluewings,Home",
+            "tackles": "5/1[H]",
+            "interceptions": "17/16[H]",
+            "aerialDuels": "17/17[H]",
+            "aerialDuelsAttempted": "41/40[H]",
+            "dribbles": "4/5[H]",
+            "dribblesAttempted": "10/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/7[H]",
+            "fouls": "11/20[H]",
+            "goalKicks": "9/3[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/23[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "Suwon FC,Gimpo FC,Home",
+            "tackles": "1/0[H]",
+            "interceptions": "15/17[H]",
+            "aerialDuels": "19/24[H]",
+            "aerialDuelsAttempted": "39/40[H]",
+            "dribbles": "10/10[H]",
+            "dribblesAttempted": "12/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/8[A]",
+            "fouls": "10/6[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/5[A]",
+            "yellowCards": "0/4[A]",
+            "goals": "1/2[A]",
+            "throwIns": "24/10[A]",
+            "averageBallPossession": "64/36[A]",
+            "teams": "Suwon FC,Busan I Park,Away",
+            "tackles": "2/1[A]",
+            "interceptions": "8/15[A]",
+            "aerialDuels": "14/15[A]",
+            "aerialDuelsAttempted": "28/32[A]",
+            "dribbles": "11/5[A]",
+            "dribblesAttempted": "13/5[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/6[H]",
+            "fouls": "17/24[H]",
+            "goalKicks": "6/6[H]",
+            "saves": "5/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/2[H]",
+            "throwIns": "13/15[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Suwon FC,Daegu FC,Home",
+            "tackles": "5/3[H]",
+            "interceptions": "20/10[H]",
+            "aerialDuels": "10/17[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "10/18[H]",
+            "dribblesAttempted": "13/22[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[A]",
+            "fouls": "15/13[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "19/17[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Suwon FC,Seoul E-Land FC,Away",
+            "tackles": "1/1[A]",
+            "interceptions": "6/17[A]",
+            "aerialDuels": "8/13[A]",
+            "aerialDuelsAttempted": "24/25[A]",
+            "dribbles": "10/11[A]",
+            "dribblesAttempted": "11/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "12/19[H]",
+            "goalKicks": "5/12[H]",
+            "saves": "1/1[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/23[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Suwon FC,Paju Frontier FC,Home",
+            "tackles": "4/3[H]",
+            "interceptions": "14/8[H]",
+            "aerialDuels": "26/13[H]",
+            "aerialDuelsAttempted": "37/40[H]",
+            "dribbles": "14/14[H]",
+            "dribblesAttempted": "19/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/1[A]",
+            "fouls": "12/19[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "1/5[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "7/2[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "9/19[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Suwon FC,Gimhae City FC,Away",
+            "tackles": "1/6[A]",
+            "interceptions": "11/15[A]",
+            "aerialDuels": "15/16[A]",
+            "aerialDuelsAttempted": "32/33[A]",
+            "dribbles": "13/5[A]",
+            "dribblesAttempted": "14/7[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T17:53:53.095Z",
+    "endTime": "2026-05-16T17:54:28.010Z",
+    "totalTimeSeconds": 34.91,
+    "combinedMatchStatistics": {
+        "corners": "6/3[A]+5/2[H]+2/7[H]+5/8[A]+4/6[H]+6/4[A]+9/3[H]+5/1[A]",
+        "fouls": "13/15[A]+10/8[H]+11/20[H]+10/6[A]+17/24[H]+15/13[A]+12/19[H]+12/19[A]",
+        "goalKicks": "11/7[A]+11/3[H]+9/3[H]+8/10[A]+6/6[H]+8/9[A]+5/12[H]+5/7[A]",
+        "saves": "3/3[A]+4/0[H]+4/3[H]+3/2[A]+5/2[H]+4/2[A]+1/1[H]+1/5[A]",
+        "offsides": "1/2[A]+1/1[H]+1/0[H]+1/2[A]+0/0[H]+1/2[A]+4/1[H]+2/2[A]",
+        "shotsOnTarget": "4/4[A]+3/5[H]+4/5[H]+3/5[A]+4/7[H]+2/7[A]+3/2[H]+7/2[A]",
+        "yellowCards": "2/3[A]+2/3[H]+1/2[H]+0/4[A]+3/3[H]+3/0[A]+3/3[H]+2/4[A]",
+        "goals": "1/1[A]+3/1[H]+1/1[H]+1/2[A]+2/2[H]+0/3[A]+2/1[H]+2/1[A]",
+        "throwIns": "17/14[A]+13/23[H]+20/23[H]+24/10[A]+13/15[H]+19/17[A]+19/23[H]+9/19[A]",
+        "averageBallPossession": "60/40[A]+40/60[H]+42/58[H]+64/36[A]+51/49[H]+59/41[A]+52/48[H]+59/41[A]",
+        "teams": "Suwon FC,Hwaseong FC,Away+Suwon FC,Suwon Samsung Bluewings,Home+Suwon FC,Gimpo FC,Home+Suwon FC,Busan I Park,Away+Suwon FC,Daegu FC,Home+Suwon FC,Seoul E-Land FC,Away+Suwon FC,Paju Frontier FC,Home+Suwon FC,Gimhae City FC,Away",
+        "tackles": "4/4[A]+5/1[H]+1/0[H]+2/1[A]+5/3[H]+1/1[A]+4/3[H]+1/6[A]",
+        "interceptions": "7/19[A]+17/16[H]+15/17[H]+8/15[A]+20/10[H]+6/17[A]+14/8[H]+11/15[A]",
+        "aerialDuels": "13/16[A]+17/17[H]+19/24[H]+14/15[A]+10/17[H]+8/13[A]+26/13[H]+15/16[A]",
+        "aerialDuelsAttempted": "28/33[A]+41/40[H]+39/40[H]+28/32[A]+29/29[H]+24/25[A]+37/40[H]+32/33[A]",
+        "dribbles": "17/11[A]+4/5[H]+10/10[H]+11/5[A]+10/18[H]+10/11[A]+14/14[H]+13/5[A]",
+        "dribblesAttempted": "22/21[A]+10/11[H]+12/12[H]+13/5[A]+13/22[H]+11/12[A]+19/18[H]+14/7[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "42/34",
+        "cornersTotalsHome": "20/18",
+        "cornersTotalsAway": "22/16",
+        "cornersAverage": "5.25/4.25",
+        "cornersAverageHome": "5.00/4.50",
+        "cornersAverageAway": "5.50/4.00",
+        "foulsTotals": "100/124",
+        "foulsTotalsHome": "50/71",
+        "foulsTotalsAway": "50/53",
+        "foulsAverage": "12.50/15.50",
+        "foulsAverageHome": "12.50/17.75",
+        "foulsAverageAway": "12.50/13.25",
+        "goalKicksTotals": "63/57",
+        "goalKicksTotalsHome": "31/24",
+        "goalKicksTotalsAway": "32/33",
+        "goalKicksAverage": "7.88/7.13",
+        "goalKicksAverageHome": "7.75/6.00",
+        "goalKicksAverageAway": "8.00/8.25",
+        "savesTotals": "25/18",
+        "savesTotalsHome": "14/6",
+        "savesTotalsAway": "11/12",
+        "savesAverage": "3.13/2.25",
+        "savesAverageHome": "3.50/1.50",
+        "savesAverageAway": "2.75/3.00",
+        "offsidesTotals": "11/10",
+        "offsidesTotalsHome": "6/2",
+        "offsidesTotalsAway": "5/8",
+        "offsidesAverage": "1.38/1.25",
+        "offsidesAverageHome": "1.50/0.50",
+        "offsidesAverageAway": "1.25/2.00",
+        "shotsOnTargetTotals": "30/37",
+        "shotsOnTargetTotalsHome": "14/19",
+        "shotsOnTargetTotalsAway": "16/18",
+        "shotsOnTargetAverage": "3.75/4.63",
+        "shotsOnTargetAverageHome": "3.50/4.75",
+        "shotsOnTargetAverageAway": "4.00/4.50",
+        "yellowCardsTotals": "16/22",
+        "yellowCardsTotalsHome": "9/11",
+        "yellowCardsTotalsAway": "7/11",
+        "yellowCardsAverage": "2.00/2.75",
+        "yellowCardsAverageHome": "2.25/2.75",
+        "yellowCardsAverageAway": "1.75/2.75",
+        "goalsTotals": "12/12",
+        "goalsTotalsHome": "8/5",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "1.50/1.50",
+        "goalsAverageHome": "2.00/1.25",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "134/144",
+        "throwInsTotalsHome": "65/84",
+        "throwInsTotalsAway": "69/60",
+        "throwInsAverage": "16.75/18.00",
+        "throwInsAverageHome": "16.25/21.00",
+        "throwInsAverageAway": "17.25/15.00",
+        "averageBallPossessionTotals": "427/373",
+        "averageBallPossessionTotalsHome": "185/215",
+        "averageBallPossessionTotalsAway": "242/158",
+        "averageBallPossessionAverage": "53.38/46.63",
+        "averageBallPossessionAverageHome": "46.25/53.75",
+        "averageBallPossessionAverageAway": "60.50/39.50",
+        "tacklesTotals": "23/19",
+        "tacklesTotalsHome": "15/7",
+        "tacklesTotalsAway": "8/12",
+        "tacklesAverage": "2.88/2.38",
+        "tacklesAverageHome": "3.75/1.75",
+        "tacklesAverageAway": "2.00/3.00",
+        "interceptionsTotals": "98/117",
+        "interceptionsTotalsHome": "66/51",
+        "interceptionsTotalsAway": "32/66",
+        "interceptionsAverage": "12.25/14.63",
+        "interceptionsAverageHome": "16.50/12.75",
+        "interceptionsAverageAway": "8.00/16.50",
+        "aerialDuelsTotals": "122/131",
+        "aerialDuelsTotalsHome": "72/71",
+        "aerialDuelsTotalsAway": "50/60",
+        "aerialDuelsAverage": "15.25/16.38",
+        "aerialDuelsAverageHome": "18.00/17.75",
+        "aerialDuelsAverageAway": "12.50/15.00",
+        "aerialDuelsAttemptedTotals": "258/272",
+        "aerialDuelsAttemptedTotalsHome": "146/149",
+        "aerialDuelsAttemptedTotalsAway": "112/123",
+        "aerialDuelsAttemptedAverage": "32.25/34.00",
+        "aerialDuelsAttemptedAverageHome": "36.50/37.25",
+        "aerialDuelsAttemptedAverageAway": "28.00/30.75",
+        "dribblesTotals": "89/79",
+        "dribblesTotalsHome": "38/47",
+        "dribblesTotalsAway": "51/32",
+        "dribblesAverage": "11.13/9.88",
+        "dribblesAverageHome": "9.50/11.75",
+        "dribblesAverageAway": "12.75/8.00",
+        "dribblesAttemptedTotals": "114/108",
+        "dribblesAttemptedTotalsHome": "54/63",
+        "dribblesAttemptedTotalsAway": "60/45",
+        "dribblesAttemptedAverage": "14.25/13.50",
+        "dribblesAttemptedAverageHome": "13.50/15.75",
+        "dribblesAttemptedAverageAway": "15.00/11.25"
+    }
+}

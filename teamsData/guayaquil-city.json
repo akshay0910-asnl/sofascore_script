@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "2.92",
+        "fouls": "7.54",
+        "goalKicks": "9.23",
+        "saves": "4.08",
+        "offsides": "1.08",
+        "shotsOnTarget": "3.00/4.92",
+        "yellowCards": "1.85/2.38",
+        "goals": "0.77/0.92",
+        "throwIns": "15.46",
+        "ballPossession": 55,
+        "tackles": "11.15/16.31",
+        "interceptions": "6.69/9.46",
+        "aerialDuels": "8.77",
+        "aerialDuelsAttempted": "19.85",
+        "dribbles": "4.92/5.92",
+        "dribblesAttempted": "12.46/11.77"
+    },
+    "teamSlug": "guayaquil-city",
+    "teamId": "188850",
+    "teamName": "Guayaquil City",
+    "tournament": "LigaPro Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/guayaquil-city-deportivo-cuenca/bfcsaCAb#id:15502549,tab:statistics",
+            "teams": [
+                "Guayaquil City",
+                "Deportivo Cuenca"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                188850,
+                5251
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/guayaquil-city-ldu/hfcsaCAb#id:15502537,tab:statistics",
+            "teams": [
+                "LDU",
+                "Guayaquil City"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5257,
+                188850
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/guayaquil-city-tecnico-universitario/QNisaCAb#id:15502531,tab:statistics",
+            "teams": [
+                "Guayaquil City",
+                "Técnico Universitario"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                188850,
+                21941
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/libertad-guayaquil-city/aCAbsCHhd#id:15502521,tab:statistics",
+            "teams": [
+                "Libertad",
+                "Guayaquil City"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                394127,
+                188850
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/guayaquil-city-emelec/ffcsaCAb#id:15502512,tab:statistics",
+            "teams": [
+                "Emelec",
+                "Guayaquil City"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                5255,
+                188850
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/guayaquil-city-macara/bvcsaCAb#id:15502507,tab:statistics",
+            "teams": [
+                "Guayaquil City",
+                "Macará"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                188850,
+                6001
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/guayaquil-city-universidad-catolica-del-ecuador/RNisaCAb#id:15502496,tab:statistics",
+            "teams": [
+                "Universidad Católica del Ecuador",
+                "Guayaquil City"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                21942,
+                188850
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leones-del-norte-guayaquil-city/aCAbsJofd#id:15502494,tab:statistics",
+            "teams": [
+                "Guayaquil City",
+                "Leones del Norte"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                188850,
+                388234
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/2[H]",
+            "fouls": "7/12[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "17/4[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Guayaquil City,Deportivo Cuenca,Home",
+            "tackles": "9/16[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "7/11[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "7/1[H]",
+            "dribblesAttempted": "13/5[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "4/21[A]",
+            "goalKicks": "14/6[A]",
+            "saves": "7/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/8[A]",
+            "yellowCards": "1/6[A]",
+            "goals": "0/1[A]",
+            "throwIns": "7/18[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Guayaquil City,LDU,Away",
+            "tackles": "9/11[A]",
+            "interceptions": "2/6[A]",
+            "aerialDuels": "5/7[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "10/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "10/15[H]",
+            "goalKicks": "10/3[H]",
+            "saves": "6/1[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "12/20[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Guayaquil City,Técnico Universitario,Home",
+            "tackles": "6/15[H]",
+            "interceptions": "9/7[H]",
+            "aerialDuels": "8/11[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "2/7[H]",
+            "dribblesAttempted": "11/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "11/11[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/1[A]",
+            "yellowCards": "4/0[A]",
+            "goals": "1/0[A]",
+            "throwIns": "10/12[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Guayaquil City,Libertad,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "10/10[A]",
+            "aerialDuels": "7/8[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "11/9[A]",
+            "dribblesAttempted": "18/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "7/14[A]",
+            "goalKicks": "10/3[A]",
+            "saves": "5/4[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "0/5[A]",
+            "goals": "3/1[A]",
+            "throwIns": "8/4[A]",
+            "averageBallPossession": "62/38[A]",
+            "teams": "Guayaquil City,Emelec,Away",
+            "tackles": "11/12[A]",
+            "interceptions": "6/11[A]",
+            "aerialDuels": "3/7[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "4/6[A]",
+            "dribblesAttempted": "8/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "10/12[H]",
+            "goalKicks": "4/4[H]",
+            "saves": "5/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/15[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Guayaquil City,Macará,Home",
+            "tackles": "10/8[H]",
+            "interceptions": "5/11[H]",
+            "aerialDuels": "6/9[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "5/12[H]",
+            "dribblesAttempted": "8/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "8/12[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "6/1[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/8[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/4[A]",
+            "throwIns": "22/19[A]",
+            "averageBallPossession": "36/64[A]",
+            "teams": "Guayaquil City,Universidad Católica del Ecuador,Away",
+            "tackles": "10/15[A]",
+            "interceptions": "12/13[A]",
+            "aerialDuels": "2/7[A]",
+            "aerialDuelsAttempted": "9/9[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "15/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/1[H]",
+            "fouls": "6/12[H]",
+            "goalKicks": "5/6[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "3/1[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "15/9[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Guayaquil City,Leones del Norte,Home",
+            "tackles": "17/23[H]",
+            "interceptions": "4/12[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "3/7[H]",
+            "dribblesAttempted": "11/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-17T02:31:58.556Z",
+    "endTime": "2026-05-17T02:32:45.089Z",
+    "totalTimeSeconds": 46.53,
+    "combinedMatchStatistics": {
+        "corners": "3/2[H]+2/6[A]+1/7[H]+3/5[A]+2/2[A]+4/7[H]+3/5[A]+6/1[H]",
+        "fouls": "7/12[H]+4/21[A]+10/15[H]+10/14[A]+7/14[A]+10/12[H]+8/12[A]+6/12[H]",
+        "goalKicks": "6/8[H]+14/6[A]+10/3[H]+11/11[A]+10/3[A]+4/4[H]+10/5[A]+5/6[H]",
+        "saves": "4/3[H]+7/1[A]+6/1[H]+1/4[A]+5/4[A]+5/1[H]+6/1[A]+1/3[H]",
+        "offsides": "1/2[H]+1/1[A]+0/2[H]+1/0[A]+0/0[A]+1/1[H]+1/1[A]+1/4[H]",
+        "shotsOnTarget": "3/5[H]+1/8[A]+2/7[H]+5/1[A]+7/5[A]+3/6[H]+2/8[A]+3/1[H]",
+        "yellowCards": "1/2[H]+1/6[A]+2/2[H]+4/0[A]+0/5[A]+1/1[H]+1/1[A]+2/3[H]",
+        "goals": "0/1[H]+0/1[A]+1/0[H]+1/0[A]+3/1[A]+2/1[H]+1/4[A]+0/0[H]",
+        "throwIns": "17/4[H]+7/18[A]+12/20[H]+10/12[A]+8/4[A]+17/15[H]+22/19[A]+15/9[H]",
+        "averageBallPossession": "56/44[H]+53/47[A]+53/47[H]+60/40[A]+62/38[A]+53/47[H]+36/64[A]+67/33[H]",
+        "teams": "Guayaquil City,Deportivo Cuenca,Home+Guayaquil City,LDU,Away+Guayaquil City,Técnico Universitario,Home+Guayaquil City,Libertad,Away+Guayaquil City,Emelec,Away+Guayaquil City,Macará,Home+Guayaquil City,Universidad Católica del Ecuador,Away+Guayaquil City,Leones del Norte,Home",
+        "tackles": "9/16[H]+9/11[A]+6/15[H]+10/12[A]+11/12[A]+10/8[H]+10/15[A]+17/23[H]",
+        "interceptions": "7/7[H]+2/6[A]+9/7[H]+10/10[A]+6/11[A]+5/11[H]+12/13[A]+4/12[H]",
+        "aerialDuels": "7/11[H]+5/7[A]+8/11[H]+7/8[A]+3/7[A]+6/9[H]+2/7[A]+14/14[H]",
+        "aerialDuelsAttempted": "18/18[H]+12/12[A]+19/19[H]+15/15[A]+10/10[A]+15/15[H]+9/9[A]+28/28[H]",
+        "dribbles": "7/1[H]+3/4[A]+2/7[H]+11/9[A]+4/6[A]+5/12[H]+6/3[A]+3/7[H]",
+        "dribblesAttempted": "13/5[H]+10/10[A]+11/10[H]+18/15[A]+8/9[A]+8/15[H]+15/8[A]+11/15[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "24/35",
+        "cornersTotalsHome": "14/17",
+        "cornersTotalsAway": "10/18",
+        "cornersAverage": "3.00/4.38",
+        "cornersAverageHome": "3.50/4.25",
+        "cornersAverageAway": "2.50/4.50",
+        "foulsTotals": "62/112",
+        "foulsTotalsHome": "33/51",
+        "foulsTotalsAway": "29/61",
+        "foulsAverage": "7.75/14.00",
+        "foulsAverageHome": "8.25/12.75",
+        "foulsAverageAway": "7.25/15.25",
+        "goalKicksTotals": "70/46",
+        "goalKicksTotalsHome": "25/21",
+        "goalKicksTotalsAway": "45/25",
+        "goalKicksAverage": "8.75/5.75",
+        "goalKicksAverageHome": "6.25/5.25",
+        "goalKicksAverageAway": "11.25/6.25",
+        "savesTotals": "35/18",
+        "savesTotalsHome": "16/8",
+        "savesTotalsAway": "19/10",
+        "savesAverage": "4.38/2.25",
+        "savesAverageHome": "4.00/2.00",
+        "savesAverageAway": "4.75/2.50",
+        "offsidesTotals": "6/11",
+        "offsidesTotalsHome": "3/9",
+        "offsidesTotalsAway": "3/2",
+        "offsidesAverage": "0.75/1.38",
+        "offsidesAverageHome": "0.75/2.25",
+        "offsidesAverageAway": "0.75/0.50",
+        "shotsOnTargetTotals": "26/41",
+        "shotsOnTargetTotalsHome": "11/19",
+        "shotsOnTargetTotalsAway": "15/22",
+        "shotsOnTargetAverage": "3.25/5.13",
+        "shotsOnTargetAverageHome": "2.75/4.75",
+        "shotsOnTargetAverageAway": "3.75/5.50",
+        "yellowCardsTotals": "12/20",
+        "yellowCardsTotalsHome": "6/8",
+        "yellowCardsTotalsAway": "6/12",
+        "yellowCardsAverage": "1.50/2.50",
+        "yellowCardsAverageHome": "1.50/2.00",
+        "yellowCardsAverageAway": "1.50/3.00",
+        "goalsTotals": "8/8",
+        "goalsTotalsHome": "3/2",
+        "goalsTotalsAway": "5/6",
+        "goalsAverage": "1.00/1.00",
+        "goalsAverageHome": "0.75/0.50",
+        "goalsAverageAway": "1.25/1.50",
+        "throwInsTotals": "108/101",
+        "throwInsTotalsHome": "61/48",
+        "throwInsTotalsAway": "47/53",
+        "throwInsAverage": "13.50/12.63",
+        "throwInsAverageHome": "15.25/12.00",
+        "throwInsAverageAway": "11.75/13.25",
+        "averageBallPossessionTotals": "440/360",
+        "averageBallPossessionTotalsHome": "229/171",
+        "averageBallPossessionTotalsAway": "211/189",
+        "averageBallPossessionAverage": "55.00/45.00",
+        "averageBallPossessionAverageHome": "57.25/42.75",
+        "averageBallPossessionAverageAway": "52.75/47.25",
+        "tacklesTotals": "82/112",
+        "tacklesTotalsHome": "42/62",
+        "tacklesTotalsAway": "40/50",
+        "tacklesAverage": "10.25/14.00",
+        "tacklesAverageHome": "10.50/15.50",
+        "tacklesAverageAway": "10.00/12.50",
+        "interceptionsTotals": "55/77",
+        "interceptionsTotalsHome": "25/37",
+        "interceptionsTotalsAway": "30/40",
+        "interceptionsAverage": "6.88/9.63",
+        "interceptionsAverageHome": "6.25/9.25",
+        "interceptionsAverageAway": "7.50/10.00",
+        "aerialDuelsTotals": "52/74",
+        "aerialDuelsTotalsHome": "35/45",
+        "aerialDuelsTotalsAway": "17/29",
+        "aerialDuelsAverage": "6.50/9.25",
+        "aerialDuelsAverageHome": "8.75/11.25",
+        "aerialDuelsAverageAway": "4.25/7.25",
+        "aerialDuelsAttemptedTotals": "126/126",
+        "aerialDuelsAttemptedTotalsHome": "80/80",
+        "aerialDuelsAttemptedTotalsAway": "46/46",
+        "aerialDuelsAttemptedAverage": "15.75/15.75",
+        "aerialDuelsAttemptedAverageHome": "20.00/20.00",
+        "aerialDuelsAttemptedAverageAway": "11.50/11.50",
+        "dribblesTotals": "41/49",
+        "dribblesTotalsHome": "17/27",
+        "dribblesTotalsAway": "24/22",
+        "dribblesAverage": "5.13/6.13",
+        "dribblesAverageHome": "4.25/6.75",
+        "dribblesAverageAway": "6.00/5.50",
+        "dribblesAttemptedTotals": "94/87",
+        "dribblesAttemptedTotalsHome": "43/45",
+        "dribblesAttemptedTotalsAway": "51/42",
+        "dribblesAttemptedAverage": "11.75/10.88",
+        "dribblesAttemptedAverageHome": "10.75/11.25",
+        "dribblesAttemptedAverageAway": "12.75/10.50"
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.17",
+        "fouls": "13.58",
+        "goalKicks": "9.83",
+        "saves": "3.50",
+        "offsides": "1.42",
+        "shotsOnTarget": "3.33/6.17",
+        "yellowCards": "1.50/1.58",
+        "goals": "0.92/2.75",
+        "throwIns": "15.17",
+        "ballPossession": 42.583333333333,
+        "tackles": "16.17/13.42",
+        "interceptions": "8.42/9.75",
+        "aerialDuels": "8.50",
+        "aerialDuelsAttempted": "19.42",
+        "dribbles": "6.17/6.92",
+        "dribblesAttempted": "12.08/13.75"
+    },
+    "teamSlug": "sporting-kansas-city",
+    "teamId": "2509",
+    "teamName": "Sporting Kansas City",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/la-galaxy-sporting-kansas-city/jabsnab#id:15171554,tab:statistics",
+            "teams": [
+                "Sporting Kansas City",
+                "LA Galaxy"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                2509,
+                2513
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portland-timbers-sporting-kansas-city/jabshPi#id:15171534,tab:statistics",
+            "teams": [
+                "Portland Timbers",
+                "Sporting Kansas City"
+            ],
+            "goals": [
+                6,
+                0
+            ],
+            "teamIds": [
+                22007,
+                2509
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/seattle-sounders-fc-sporting-kansas-city/jabsjPi#id:15171504,tab:statistics",
+            "teams": [
+                "Sporting Kansas City",
+                "Seattle Sounders FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2509,
+                22009
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sporting-kansas-city-chicago-fire/fabsjab#id:15171498,tab:statistics",
+            "teams": [
+                "Chicago Fire",
+                "Sporting Kansas City"
+            ],
+            "goals": [
+                5,
+                0
+            ],
+            "teamIds": [
+                2505,
+                2509
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vancouver-whitecaps-sporting-kansas-city/jabskPi#id:15171469,tab:statistics",
+            "teams": [
+                "Vancouver Whitecaps",
+                "Sporting Kansas City"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                22010,
+                2509
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/san-jose-earthquakes-sporting-kansas-city/jabsALi#id:15171450,tab:statistics",
+            "teams": [
+                "Sporting Kansas City",
+                "San Jose Earthquakes"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                2509,
+                21825
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-salt-lake-sporting-kansas-city/jabsIcc#id:15171466,tab:statistics",
+            "teams": [
+                "Real Salt Lake",
+                "Sporting Kansas City"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                5133,
+                2509
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/colorado-rapids-sporting-kansas-city/jabskab#id:15137931,tab:statistics",
+            "teams": [
+                "Sporting Kansas City",
+                "Colorado Rapids"
+            ],
+            "goals": [
+                1,
+                4
+            ],
+            "teamIds": [
+                2509,
+                2510
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/8[H]",
+            "fouls": "19/6[H]",
+            "goalKicks": "8/8[H]",
+            "saves": "6/4[H]",
+            "offsides": "3/2[H]",
+            "shotsOnTarget": "7/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "14/19[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Sporting Kansas City,LA Galaxy,Home",
+            "tackles": "16/23[H]",
+            "interceptions": "13/9[H]",
+            "aerialDuels": "6/6[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "11/11[H]",
+            "dribblesAttempted": "22/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "20/11[A]",
+            "goalKicks": "5/7[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "5/1[A]",
+            "goals": "0/6[A]",
+            "throwIns": "15/10[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Sporting Kansas City,Portland Timbers,Away",
+            "tackles": "10/8[A]",
+            "interceptions": "4/5[A]",
+            "aerialDuels": "5/11[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "7/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/9[H]",
+            "fouls": "10/7[H]",
+            "goalKicks": "17/1[H]",
+            "saves": "7/6[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "7/9[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "13/12[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Sporting Kansas City,Seattle Sounders FC,Home",
+            "tackles": "8/13[H]",
+            "interceptions": "6/7[H]",
+            "aerialDuels": "11/18[H]",
+            "aerialDuelsAttempted": "29/29[H]",
+            "dribbles": "1/8[H]",
+            "dribblesAttempted": "4/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "17/15[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "1/0[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/5[A]",
+            "throwIns": "18/24[A]",
+            "averageBallPossession": "29/71[A]",
+            "teams": "Sporting Kansas City,Chicago Fire,Away",
+            "tackles": "21/9[A]",
+            "interceptions": "9/13[A]",
+            "aerialDuels": "11/12[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "9/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "16/15[A]",
+            "goalKicks": "11/5[A]",
+            "saves": "4/0[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "0/6[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "12/19[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Sporting Kansas City,Vancouver Whitecaps,Away",
+            "tackles": "10/19[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "7/11[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "13/5[A]",
+            "dribblesAttempted": "24/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "9/6[H]",
+            "goalKicks": "14/7[H]",
+            "saves": "0/3[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "1/3[H]",
+            "throwIns": "20/22[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Sporting Kansas City,San Jose Earthquakes,Home",
+            "tackles": "23/15[H]",
+            "interceptions": "7/5[H]",
+            "aerialDuels": "9/8[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "5/9[H]",
+            "dribblesAttempted": "15/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "9/10[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "3/7[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/3[A]",
+            "throwIns": "26/23[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Sporting Kansas City,Real Salt Lake,Away",
+            "tackles": "11/11[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "8/15[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "12/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "17/21[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "4/2[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "3/9[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "1/4[H]",
+            "throwIns": "9/20[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Sporting Kansas City,Colorado Rapids,Home",
+            "tackles": "25/12[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "7/8[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "12/15[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T14:07:17.586Z",
+    "endTime": "2026-05-16T14:08:02.282Z",
+    "totalTimeSeconds": 44.7,
+    "combinedMatchStatistics": {
+        "corners": "4/8[H]+4/4[A]+4/9[H]+2/4[A]+3/6[A]+2/4[H]+1/7[A]+6/4[H]",
+        "fouls": "19/6[H]+20/11[A]+10/7[H]+17/15[A]+16/15[A]+9/6[H]+11/15[A]+17/21[H]",
+        "goalKicks": "8/8[H]+5/7[A]+17/1[H]+13/5[A]+11/5[A]+14/7[H]+9/10[A]+8/7[H]",
+        "saves": "6/4[H]+2/3[A]+7/6[H]+1/0[A]+4/0[A]+0/3[H]+4/2[A]+4/2[H]",
+        "offsides": "3/2[H]+2/1[A]+0/3[H]+0/0[A]+1/2[A]+1/0[H]+1/2[A]+2/0[H]",
+        "shotsOnTarget": "7/7[H]+3/6[A]+7/9[H]+1/6[A]+0/6[A]+4/3[H]+3/7[A]+3/9[H]",
+        "yellowCards": "1/2[H]+5/1[A]+0/2[H]+0/1[A]+2/1[A]+2/0[H]+0/1[A]+3/3[H]",
+        "goals": "3/1[H]+0/6[A]+1/1[H]+0/5[A]+0/3[A]+1/3[H]+1/3[A]+1/4[H]",
+        "throwIns": "14/19[H]+15/10[A]+13/12[H]+18/24[A]+12/19[A]+20/22[H]+26/23[A]+9/20[H]",
+        "averageBallPossession": "40/60[H]+37/63[A]+35/65[H]+29/71[A]+50/50[A]+49/51[H]+51/49[A]+50/50[H]",
+        "teams": "Sporting Kansas City,LA Galaxy,Home+Sporting Kansas City,Portland Timbers,Away+Sporting Kansas City,Seattle Sounders FC,Home+Sporting Kansas City,Chicago Fire,Away+Sporting Kansas City,Vancouver Whitecaps,Away+Sporting Kansas City,San Jose Earthquakes,Home+Sporting Kansas City,Real Salt Lake,Away+Sporting Kansas City,Colorado Rapids,Home",
+        "tackles": "16/23[H]+10/8[A]+8/13[H]+21/9[A]+10/19[A]+23/15[H]+11/11[A]+25/12[H]",
+        "interceptions": "13/9[H]+4/5[A]+6/7[H]+9/13[A]+8/9[A]+7/5[H]+8/11[A]+7/11[H]",
+        "aerialDuels": "6/6[H]+5/11[A]+11/18[H]+11/12[A]+7/11[A]+9/8[H]+8/15[A]+7/8[H]",
+        "aerialDuelsAttempted": "12/12[H]+16/16[A]+29/29[H]+23/23[A]+18/18[A]+17/17[H]+23/23[A]+15/15[H]",
+        "dribbles": "11/11[H]+4/4[A]+1/8[H]+5/9[A]+13/5[A]+5/9[H]+6/6[A]+8/3[H]",
+        "dribblesAttempted": "22/19[H]+7/8[A]+4/13[H]+9/17[A]+24/12[A]+15/17[H]+12/9[A]+12/15[H]",
+        "isHome": "true+false+true+false+false+true+false+true",
+        "cornersTotals": "26/46",
+        "cornersTotalsHome": "16/25",
+        "cornersTotalsAway": "10/21",
+        "cornersAverage": "3.25/5.75",
+        "cornersAverageHome": "4.00/6.25",
+        "cornersAverageAway": "2.50/5.25",
+        "foulsTotals": "119/96",
+        "foulsTotalsHome": "55/40",
+        "foulsTotalsAway": "64/56",
+        "foulsAverage": "14.88/12.00",
+        "foulsAverageHome": "13.75/10.00",
+        "foulsAverageAway": "16.00/14.00",
+        "goalKicksTotals": "85/50",
+        "goalKicksTotalsHome": "47/23",
+        "goalKicksTotalsAway": "38/27",
+        "goalKicksAverage": "10.63/6.25",
+        "goalKicksAverageHome": "11.75/5.75",
+        "goalKicksAverageAway": "9.50/6.75",
+        "savesTotals": "28/20",
+        "savesTotalsHome": "17/15",
+        "savesTotalsAway": "11/5",
+        "savesAverage": "3.50/2.50",
+        "savesAverageHome": "4.25/3.75",
+        "savesAverageAway": "2.75/1.25",
+        "offsidesTotals": "10/10",
+        "offsidesTotalsHome": "6/5",
+        "offsidesTotalsAway": "4/5",
+        "offsidesAverage": "1.25/1.25",
+        "offsidesAverageHome": "1.50/1.25",
+        "offsidesAverageAway": "1.00/1.25",
+        "shotsOnTargetTotals": "28/53",
+        "shotsOnTargetTotalsHome": "21/28",
+        "shotsOnTargetTotalsAway": "7/25",
+        "shotsOnTargetAverage": "3.50/6.63",
+        "shotsOnTargetAverageHome": "5.25/7.00",
+        "shotsOnTargetAverageAway": "1.75/6.25",
+        "yellowCardsTotals": "13/11",
+        "yellowCardsTotalsHome": "6/7",
+        "yellowCardsTotalsAway": "7/4",
+        "yellowCardsAverage": "1.63/1.38",
+        "yellowCardsAverageHome": "1.50/1.75",
+        "yellowCardsAverageAway": "1.75/1.00",
+        "goalsTotals": "7/26",
+        "goalsTotalsHome": "6/9",
+        "goalsTotalsAway": "1/17",
+        "goalsAverage": "0.88/3.25",
+        "goalsAverageHome": "1.50/2.25",
+        "goalsAverageAway": "0.25/4.25",
+        "throwInsTotals": "127/149",
+        "throwInsTotalsHome": "56/73",
+        "throwInsTotalsAway": "71/76",
+        "throwInsAverage": "15.88/18.63",
+        "throwInsAverageHome": "14.00/18.25",
+        "throwInsAverageAway": "17.75/19.00",
+        "averageBallPossessionTotals": "341/459",
+        "averageBallPossessionTotalsHome": "174/226",
+        "averageBallPossessionTotalsAway": "167/233",
+        "averageBallPossessionAverage": "42.63/57.38",
+        "averageBallPossessionAverageHome": "43.50/56.50",
+        "averageBallPossessionAverageAway": "41.75/58.25",
+        "tacklesTotals": "124/110",
+        "tacklesTotalsHome": "72/63",
+        "tacklesTotalsAway": "52/47",
+        "tacklesAverage": "15.50/13.75",
+        "tacklesAverageHome": "18.00/15.75",
+        "tacklesAverageAway": "13.00/11.75",
+        "interceptionsTotals": "62/70",
+        "interceptionsTotalsHome": "33/32",
+        "interceptionsTotalsAway": "29/38",
+        "interceptionsAverage": "7.75/8.75",
+        "interceptionsAverageHome": "8.25/8.00",
+        "interceptionsAverageAway": "7.25/9.50",
+        "aerialDuelsTotals": "64/89",
+        "aerialDuelsTotalsHome": "33/40",
+        "aerialDuelsTotalsAway": "31/49",
+        "aerialDuelsAverage": "8.00/11.13",
+        "aerialDuelsAverageHome": "8.25/10.00",
+        "aerialDuelsAverageAway": "7.75/12.25",
+        "aerialDuelsAttemptedTotals": "153/153",
+        "aerialDuelsAttemptedTotalsHome": "73/73",
+        "aerialDuelsAttemptedTotalsAway": "80/80",
+        "aerialDuelsAttemptedAverage": "19.13/19.13",
+        "aerialDuelsAttemptedAverageHome": "18.25/18.25",
+        "aerialDuelsAttemptedAverageAway": "20.00/20.00",
+        "dribblesTotals": "53/55",
+        "dribblesTotalsHome": "25/31",
+        "dribblesTotalsAway": "28/24",
+        "dribblesAverage": "6.63/6.88",
+        "dribblesAverageHome": "6.25/7.75",
+        "dribblesAverageAway": "7.00/6.00",
+        "dribblesAttemptedTotals": "105/110",
+        "dribblesAttemptedTotalsHome": "53/64",
+        "dribblesAttemptedTotalsAway": "52/46",
+        "dribblesAttemptedAverage": "13.13/13.75",
+        "dribblesAttemptedAverageHome": "13.25/16.00",
+        "dribblesAttemptedAverageAway": "13.00/11.50"
+    }
+}

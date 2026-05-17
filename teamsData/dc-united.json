@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.54",
+        "fouls": "13.92",
+        "goalKicks": "7.08",
+        "saves": "3.54",
+        "offsides": "1.08",
+        "shotsOnTarget": "3.92/5.08",
+        "yellowCards": "1.92/2.00",
+        "goals": "1.23/1.54",
+        "throwIns": "21.46",
+        "ballPossession": 39.153846153846,
+        "tackles": "20.77/14.69",
+        "interceptions": "11.85/8.69",
+        "aerialDuels": "14.31",
+        "aerialDuelsAttempted": "32.69",
+        "dribbles": "4.77/7.69",
+        "dribblesAttempted": "11.46/17.92"
+    },
+    "teamSlug": "dc-united",
+    "teamId": "2502",
+    "teamName": "DC United",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/chicago-fire-dc-united/cabsfab#id:15171543,tab:statistics",
+            "teams": [
+                "DC United",
+                "Chicago Fire"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                2502,
+                2505
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nashville-sc-dc-united/cabsmcKc#id:15171535,tab:statistics",
+            "teams": [
+                "Nashville SC",
+                "DC United"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                337612,
+                2502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-city-fc-dc-united/cabsTcAb#id:15171524,tab:statistics",
+            "teams": [
+                "New York City FC",
+                "DC United"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                187643,
+                2502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-city-sc-dc-united/cabsMUv#id:15171505,tab:statistics",
+            "teams": [
+                "DC United",
+                "Orlando City SC"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                2502,
+                52237
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-york-red-bulls-dc-united/cabsgab#id:15171487,tab:statistics",
+            "teams": [
+                "New York Red Bulls",
+                "DC United"
+            ],
+            "goals": [
+                4,
+                4
+            ],
+            "teamIds": [
+                2506,
+                2502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-dc-united/cabsIWp#id:15171479,tab:statistics",
+            "teams": [
+                "Philadelphia Union",
+                "DC United"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                39833,
+                2502
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-dallas-dc-united/cabsmab#id:15171451,tab:statistics",
+            "teams": [
+                "DC United",
+                "FC Dallas"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                2502,
+                2512
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-miami-cf-dc-united/cabsccKc#id:15137927,tab:statistics",
+            "teams": [
+                "DC United",
+                "Inter Miami CF"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2502,
+                337602
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "7/8[H]",
+            "fouls": "14/12[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "5/5[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "6/8[H]",
+            "yellowCards": "0/5[H]",
+            "goals": "1/3[H]",
+            "throwIns": "29/19[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "DC United,Chicago Fire,Home",
+            "tackles": "21/8[H]",
+            "interceptions": "11/7[H]",
+            "aerialDuels": "14/13[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "9/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/8[A]",
+            "fouls": "15/9[A]",
+            "goalKicks": "10/6[A]",
+            "saves": "5/4[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/7[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "14/26[A]",
+            "averageBallPossession": "26/74[A]",
+            "teams": "DC United,Nashville SC,Away",
+            "tackles": "10/9[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "15/24[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "1/10[A]",
+            "dribblesAttempted": "4/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "17/10[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "4/5[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "26/24[A]",
+            "averageBallPossession": "27/73[A]",
+            "teams": "DC United,New York City FC,Away",
+            "tackles": "34/16[A]",
+            "interceptions": "11/7[A]",
+            "aerialDuels": "17/23[A]",
+            "aerialDuelsAttempted": "40/40[A]",
+            "dribbles": "2/12[A]",
+            "dribblesAttempted": "11/29[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/8[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "6/7[H]",
+            "saves": "3/5[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "3/2[H]",
+            "throwIns": "15/24[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "DC United,Orlando City SC,Home",
+            "tackles": "19/16[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "13/11[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "9/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/3[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "2/1[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "4/4[A]",
+            "throwIns": "17/23[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "DC United,New York Red Bulls,Away",
+            "tackles": "28/13[A]",
+            "interceptions": "12/5[A]",
+            "aerialDuels": "17/16[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "6/8[A]",
+            "dribblesAttempted": "12/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/13[A]",
+            "fouls": "11/11[A]",
+            "goalKicks": "11/5[A]",
+            "saves": "4/0[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "0/4[A]",
+            "yellowCards": "3/0[A]",
+            "goals": "0/0[A]",
+            "throwIns": "25/27[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "DC United,Philadelphia Union,Away",
+            "tackles": "12/11[A]",
+            "interceptions": "18/10[A]",
+            "aerialDuels": "25/42[A]",
+            "aerialDuelsAttempted": "67/67[A]",
+            "dribbles": "5/5[A]",
+            "dribblesAttempted": "7/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/3[H]",
+            "fouls": "15/11[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "3/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/4[H]",
+            "throwIns": "25/22[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "DC United,FC Dallas,Home",
+            "tackles": "13/7[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "12/22[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "2/3[H]",
+            "dribblesAttempted": "8/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/1[H]",
+            "fouls": "16/8[H]",
+            "goalKicks": "4/9[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "22/23[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "DC United,Inter Miami CF,Home",
+            "tackles": "25/23[H]",
+            "interceptions": "10/15[H]",
+            "aerialDuels": "8/10[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "4/7[H]",
+            "dribblesAttempted": "18/18[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T13:59:08.730Z",
+    "endTime": "2026-05-16T13:59:47.612Z",
+    "totalTimeSeconds": 38.88,
+    "combinedMatchStatistics": {
+        "corners": "7/8[H]+7/8[A]+3/6[A]+7/8[H]+3/3[A]+1/13[A]+6/3[H]+8/1[H]",
+        "fouls": "14/12[H]+15/9[A]+17/10[A]+11/14[H]+13/14[A]+11/11[A]+15/11[H]+16/8[H]",
+        "goalKicks": "7/7[H]+10/6[A]+9/6[A]+6/7[H]+6/10[A]+11/5[A]+6/8[H]+4/9[H]",
+        "saves": "5/5[H]+5/4[A]+4/5[A]+3/5[H]+2/1[A]+4/0[A]+3/4[H]+2/2[H]",
+        "offsides": "1/4[H]+1/3[A]+0/4[A]+1/2[H]+4/1[A]+0/1[A]+1/0[H]+1/0[H]",
+        "shotsOnTarget": "6/8[H]+6/7[A]+7/4[A]+8/5[H]+5/5[A]+0/4[A]+4/8[H]+3/4[H]",
+        "yellowCards": "0/5[H]+2/3[A]+4/1[A]+5/3[H]+2/1[A]+3/0[A]+2/1[H]+1/1[H]",
+        "goals": "1/3[H]+2/2[A]+2/0[A]+3/2[H]+4/4[A]+0/0[A]+0/4[H]+1/2[H]",
+        "throwIns": "29/19[H]+14/26[A]+26/24[A]+15/24[H]+17/23[A]+25/27[A]+25/22[H]+22/23[H]",
+        "averageBallPossession": "40/60[H]+26/74[A]+27/73[A]+39/61[H]+49/51[A]+38/62[A]+51/49[H]+36/64[H]",
+        "teams": "DC United,Chicago Fire,Home+DC United,Nashville SC,Away+DC United,New York City FC,Away+DC United,Orlando City SC,Home+DC United,New York Red Bulls,Away+DC United,Philadelphia Union,Away+DC United,FC Dallas,Home+DC United,Inter Miami CF,Home",
+        "tackles": "21/8[H]+10/9[A]+34/16[A]+19/16[H]+28/13[A]+12/11[A]+13/7[H]+25/23[H]",
+        "interceptions": "11/7[H]+9/4[A]+11/7[A]+9/11[H]+12/5[A]+18/10[A]+9/9[H]+10/15[H]",
+        "aerialDuels": "14/13[H]+15/24[A]+17/23[A]+13/11[H]+17/16[A]+25/42[A]+12/22[H]+8/10[H]",
+        "aerialDuelsAttempted": "27/27[H]+39/39[A]+40/40[A]+24/24[H]+33/33[A]+67/67[A]+34/34[H]+18/18[H]",
+        "dribbles": "5/6[H]+1/10[A]+2/12[A]+2/8[H]+6/8[A]+5/5[A]+2/3[H]+4/7[H]",
+        "dribblesAttempted": "9/16[H]+4/17[A]+11/29[A]+9/18[H]+12/22[A]+7/13[A]+8/7[H]+18/18[H]",
+        "isHome": "true+false+false+true+false+false+true+true",
+        "cornersTotals": "42/50",
+        "cornersTotalsHome": "28/20",
+        "cornersTotalsAway": "14/30",
+        "cornersAverage": "5.25/6.25",
+        "cornersAverageHome": "7.00/5.00",
+        "cornersAverageAway": "3.50/7.50",
+        "foulsTotals": "112/89",
+        "foulsTotalsHome": "56/45",
+        "foulsTotalsAway": "56/44",
+        "foulsAverage": "14.00/11.13",
+        "foulsAverageHome": "14.00/11.25",
+        "foulsAverageAway": "14.00/11.00",
+        "goalKicksTotals": "59/58",
+        "goalKicksTotalsHome": "23/31",
+        "goalKicksTotalsAway": "36/27",
+        "goalKicksAverage": "7.38/7.25",
+        "goalKicksAverageHome": "5.75/7.75",
+        "goalKicksAverageAway": "9.00/6.75",
+        "savesTotals": "28/26",
+        "savesTotalsHome": "13/16",
+        "savesTotalsAway": "15/10",
+        "savesAverage": "3.50/3.25",
+        "savesAverageHome": "3.25/4.00",
+        "savesAverageAway": "3.75/2.50",
+        "offsidesTotals": "9/15",
+        "offsidesTotalsHome": "4/6",
+        "offsidesTotalsAway": "5/9",
+        "offsidesAverage": "1.13/1.88",
+        "offsidesAverageHome": "1.00/1.50",
+        "offsidesAverageAway": "1.25/2.25",
+        "shotsOnTargetTotals": "39/45",
+        "shotsOnTargetTotalsHome": "21/25",
+        "shotsOnTargetTotalsAway": "18/20",
+        "shotsOnTargetAverage": "4.88/5.63",
+        "shotsOnTargetAverageHome": "5.25/6.25",
+        "shotsOnTargetAverageAway": "4.50/5.00",
+        "yellowCardsTotals": "19/15",
+        "yellowCardsTotalsHome": "8/10",
+        "yellowCardsTotalsAway": "11/5",
+        "yellowCardsAverage": "2.38/1.88",
+        "yellowCardsAverageHome": "2.00/2.50",
+        "yellowCardsAverageAway": "2.75/1.25",
+        "goalsTotals": "13/17",
+        "goalsTotalsHome": "5/11",
+        "goalsTotalsAway": "8/6",
+        "goalsAverage": "1.63/2.13",
+        "goalsAverageHome": "1.25/2.75",
+        "goalsAverageAway": "2.00/1.50",
+        "throwInsTotals": "173/188",
+        "throwInsTotalsHome": "91/88",
+        "throwInsTotalsAway": "82/100",
+        "throwInsAverage": "21.63/23.50",
+        "throwInsAverageHome": "22.75/22.00",
+        "throwInsAverageAway": "20.50/25.00",
+        "averageBallPossessionTotals": "306/494",
+        "averageBallPossessionTotalsHome": "166/234",
+        "averageBallPossessionTotalsAway": "140/260",
+        "averageBallPossessionAverage": "38.25/61.75",
+        "averageBallPossessionAverageHome": "41.50/58.50",
+        "averageBallPossessionAverageAway": "35.00/65.00",
+        "tacklesTotals": "162/103",
+        "tacklesTotalsHome": "78/54",
+        "tacklesTotalsAway": "84/49",
+        "tacklesAverage": "20.25/12.88",
+        "tacklesAverageHome": "19.50/13.50",
+        "tacklesAverageAway": "21.00/12.25",
+        "interceptionsTotals": "89/68",
+        "interceptionsTotalsHome": "39/42",
+        "interceptionsTotalsAway": "50/26",
+        "interceptionsAverage": "11.13/8.50",
+        "interceptionsAverageHome": "9.75/10.50",
+        "interceptionsAverageAway": "12.50/6.50",
+        "aerialDuelsTotals": "121/161",
+        "aerialDuelsTotalsHome": "47/56",
+        "aerialDuelsTotalsAway": "74/105",
+        "aerialDuelsAverage": "15.13/20.13",
+        "aerialDuelsAverageHome": "11.75/14.00",
+        "aerialDuelsAverageAway": "18.50/26.25",
+        "aerialDuelsAttemptedTotals": "282/282",
+        "aerialDuelsAttemptedTotalsHome": "103/103",
+        "aerialDuelsAttemptedTotalsAway": "179/179",
+        "aerialDuelsAttemptedAverage": "35.25/35.25",
+        "aerialDuelsAttemptedAverageHome": "25.75/25.75",
+        "aerialDuelsAttemptedAverageAway": "44.75/44.75",
+        "dribblesTotals": "27/59",
+        "dribblesTotalsHome": "13/24",
+        "dribblesTotalsAway": "14/35",
+        "dribblesAverage": "3.38/7.38",
+        "dribblesAverageHome": "3.25/6.00",
+        "dribblesAverageAway": "3.50/8.75",
+        "dribblesAttemptedTotals": "78/140",
+        "dribblesAttemptedTotalsHome": "44/59",
+        "dribblesAttemptedTotalsAway": "34/81",
+        "dribblesAttemptedAverage": "9.75/17.50",
+        "dribblesAttemptedAverageHome": "11.00/14.75",
+        "dribblesAttemptedAverageAway": "8.50/20.25"
+    }
+}

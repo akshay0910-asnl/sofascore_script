@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.20",
+        "fouls": "10.90",
+        "goalKicks": "4.70",
+        "saves": "2.40",
+        "offsides": "1.90",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "1.40/NaN",
+        "goals": "1.60/1.20",
+        "throwIns": "NaN",
+        "ballPossession": 52.7,
+        "tackles": "NaN/NaN",
+        "interceptions": "37.50/NaN",
+        "aerialDuels": "21.80",
+        "aerialDuelsAttempted": "51.60",
+        "dribbles": "14.90/NaN",
+        "dribblesAttempted": "19.90/NaN"
+    },
+    "teamSlug": "chungnam-asan-fc",
+    "teamId": "339827",
+    "teamName": "Chungnam Asan FC",
+    "tournament": "K League 2",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-seoul-e-land-fc/xNAbsCWKc#id:15403859,tab:statistics",
+            "teams": [
+                "Chungnam Asan FC",
+                "Seoul E-Land FC"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                339827,
+                189422
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-cheonan-city-fc/nAqsCWKc#id:15403863,tab:statistics",
+            "teams": [
+                "Cheonan City FC",
+                "Chungnam Asan FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                41263,
+                339827
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-cheongju-fc/TKAcsCWKc#id:15403850,tab:statistics",
+            "teams": [
+                "Cheongju FC",
+                "Chungnam Asan FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                314293,
+                339827
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-jeonnam-dragons/TcdsCWKc#id:15403843,tab:statistics",
+            "teams": [
+                "Chungnam Asan FC",
+                "Jeonnam Dragons"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                339827,
+                7643
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-gimhae-city-fc/kAqsCWKc#id:15403836,tab:statistics",
+            "teams": [
+                "Chungnam Asan FC",
+                "Gimhae City FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                339827,
+                41260
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-ansan-greeners-fc/ArZbsCWKc#id:15403828,tab:statistics",
+            "teams": [
+                "Ansan Greeners FC",
+                "Chungnam Asan FC"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                248375,
+                339827
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-hwaseong-fc/zdDbsCWKc#id:15403813,tab:statistics",
+            "teams": [
+                "Chungnam Asan FC",
+                "Hwaseong FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                339827,
+                195174
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/chungnam-asan-fc-seongnam-fc/bddsCWKc#id:15403801,tab:statistics",
+            "teams": [
+                "Seongnam FC",
+                "Chungnam Asan FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                7651,
+                339827
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/8[H]",
+            "fouls": "15/13[H]",
+            "goalKicks": "11/3[H]",
+            "saves": "3/0[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "3/0[H]",
+            "throwIns": "14/17[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Chungnam Asan FC,Seoul E-Land FC,Home",
+            "tackles": "5/2[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "11/26[H]",
+            "aerialDuelsAttempted": "35/40[H]",
+            "dribbles": "9/13[H]",
+            "dribblesAttempted": "9/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "10/21[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "5/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/20[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Chungnam Asan FC,Cheonan City FC,Away",
+            "tackles": "3/5[A]",
+            "interceptions": "19/17[A]",
+            "aerialDuels": "24/32[A]",
+            "aerialDuelsAttempted": "56/66[A]",
+            "dribbles": "17/10[A]",
+            "dribblesAttempted": "20/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "8/7[A]",
+            "saves": "1/4[A]",
+            "offsides": "3/3[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "27/23[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "Chungnam Asan FC,Cheongju FC,Away",
+            "tackles": "8/4[A]",
+            "interceptions": "14/12[A]",
+            "aerialDuels": "24/30[A]",
+            "aerialDuelsAttempted": "56/60[A]",
+            "dribbles": "18/17[A]",
+            "dribblesAttempted": "21/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/3[H]",
+            "fouls": "7/9[H]",
+            "goalKicks": "9/15[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "23/9[H]",
+            "averageBallPossession": "67/33[H]",
+            "teams": "Chungnam Asan FC,Jeonnam Dragons,Home",
+            "tackles": "3/4[H]",
+            "interceptions": "10/21[H]",
+            "aerialDuels": "28/31[H]",
+            "aerialDuelsAttempted": "72/69[H]",
+            "dribbles": "23/13[H]",
+            "dribblesAttempted": "28/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/5[H]",
+            "fouls": "7/8[H]",
+            "goalKicks": "8/4[H]",
+            "saves": "1/2[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/19[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Chungnam Asan FC,Gimhae City FC,Home",
+            "tackles": "5/5[H]",
+            "interceptions": "11/16[H]",
+            "aerialDuels": "25/19[H]",
+            "aerialDuelsAttempted": "50/36[H]",
+            "dribbles": "16/8[H]",
+            "dribblesAttempted": "24/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/4[A]",
+            "fouls": "11/17[A]",
+            "goalKicks": "2/14[A]",
+            "saves": "4/4[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "20/23[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Chungnam Asan FC,Ansan Greeners FC,Away",
+            "tackles": "0/3[A]",
+            "interceptions": "14/35[A]",
+            "aerialDuels": "29/19[A]",
+            "aerialDuelsAttempted": "51/54[A]",
+            "dribbles": "13/7[A]",
+            "dribblesAttempted": "18/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "13/15[H]",
+            "goalKicks": "8/10[H]",
+            "saves": "2/2[H]",
+            "offsides": "2/5[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/0[H]",
+            "throwIns": "18/18[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Chungnam Asan FC,Hwaseong FC,Home",
+            "tackles": "1/1[H]",
+            "interceptions": "17/16[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "35/36[H]",
+            "dribbles": "11/16[H]",
+            "dribblesAttempted": "20/25[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/7[A]",
+            "fouls": "11/12[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "13/19[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Chungnam Asan FC,Seongnam FC,Away",
+            "tackles": "1/4[A]",
+            "interceptions": "8/10[A]",
+            "aerialDuels": "16/16[A]",
+            "aerialDuelsAttempted": "29/35[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "14/7[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T17:53:21.319Z",
+    "endTime": "2026-05-16T17:53:51.602Z",
+    "totalTimeSeconds": 30.28,
+    "combinedMatchStatistics": {
+        "corners": "4/8[H]+4/4[A]+6/6[A]+10/3[H]+8/5[H]+1/4[A]+4/3[H]+7/7[A]",
+        "fouls": "15/13[H]+10/21[A]+13/13[A]+7/9[H]+7/8[H]+11/17[A]+13/15[H]+11/12[A]",
+        "goalKicks": "11/3[H]+6/9[A]+8/7[A]+9/15[H]+8/4[H]+2/14[A]+8/10[H]+5/9[A]",
+        "saves": "3/0[H]+5/4[A]+1/4[A]+2/3[H]+1/2[H]+4/4[A]+2/2[H]+1/1[A]",
+        "offsides": "1/1[H]+1/2[A]+3/3[A]+0/0[H]+4/1[H]+2/1[A]+2/5[H]+2/2[A]",
+        "shotsOnTarget": "3/2[H]+4/6[A]+4/1[A]+4/4[H]+3/2[H]+7/5[A]+3/2[H]+1/3[A]",
+        "yellowCards": "0/0[H]+1/2[A]+4/2[A]+0/1[H]+1/1[H]+2/2[A]+1/2[H]+2/2[A]",
+        "goals": "3/0[H]+0/1[A]+0/0[A]+2/2[H]+1/1[H]+3/1[A]+1/0[H]+1/2[A]",
+        "throwIns": "14/17[H]+21/20[A]+27/23[A]+23/9[H]+17/19[H]+20/23[A]+18/18[H]+13/19[A]",
+        "averageBallPossession": "47/53[H]+55/45[A]+43/57[A]+67/33[H]+55/45[H]+61/39[A]+41/59[H]+51/49[A]",
+        "teams": "Chungnam Asan FC,Seoul E-Land FC,Home+Chungnam Asan FC,Cheonan City FC,Away+Chungnam Asan FC,Cheongju FC,Away+Chungnam Asan FC,Jeonnam Dragons,Home+Chungnam Asan FC,Gimhae City FC,Home+Chungnam Asan FC,Ansan Greeners FC,Away+Chungnam Asan FC,Hwaseong FC,Home+Chungnam Asan FC,Seongnam FC,Away",
+        "tackles": "5/2[H]+3/5[A]+8/4[A]+3/4[H]+5/5[H]+0/3[A]+1/1[H]+1/4[A]",
+        "interceptions": "11/9[H]+19/17[A]+14/12[A]+10/21[H]+11/16[H]+14/35[A]+17/16[H]+8/10[A]",
+        "aerialDuels": "11/26[H]+24/32[A]+24/30[A]+28/31[H]+25/19[H]+29/19[A]+14/14[H]+16/16[A]",
+        "aerialDuelsAttempted": "35/40[H]+56/66[A]+56/60[A]+72/69[H]+50/36[H]+51/54[A]+35/36[H]+29/35[A]",
+        "dribbles": "9/13[H]+17/10[A]+18/17[A]+23/13[H]+16/8[H]+13/7[A]+11/16[H]+8/6[A]",
+        "dribblesAttempted": "9/21[H]+20/12[A]+21/28[A]+28/15[H]+24/15[H]+18/18[A]+20/25[H]+14/7[A]",
+        "isHome": "true+false+false+true+true+false+true+false",
+        "cornersTotals": "44/40",
+        "cornersTotalsHome": "26/19",
+        "cornersTotalsAway": "18/21",
+        "cornersAverage": "5.50/5.00",
+        "cornersAverageHome": "6.50/4.75",
+        "cornersAverageAway": "4.50/5.25",
+        "foulsTotals": "87/108",
+        "foulsTotalsHome": "42/45",
+        "foulsTotalsAway": "45/63",
+        "foulsAverage": "10.88/13.50",
+        "foulsAverageHome": "10.50/11.25",
+        "foulsAverageAway": "11.25/15.75",
+        "goalKicksTotals": "57/71",
+        "goalKicksTotalsHome": "36/32",
+        "goalKicksTotalsAway": "21/39",
+        "goalKicksAverage": "7.13/8.88",
+        "goalKicksAverageHome": "9.00/8.00",
+        "goalKicksAverageAway": "5.25/9.75",
+        "savesTotals": "19/20",
+        "savesTotalsHome": "8/7",
+        "savesTotalsAway": "11/13",
+        "savesAverage": "2.38/2.50",
+        "savesAverageHome": "2.00/1.75",
+        "savesAverageAway": "2.75/3.25",
+        "offsidesTotals": "15/15",
+        "offsidesTotalsHome": "7/7",
+        "offsidesTotalsAway": "8/8",
+        "offsidesAverage": "1.88/1.88",
+        "offsidesAverageHome": "1.75/1.75",
+        "offsidesAverageAway": "2.00/2.00",
+        "shotsOnTargetTotals": "29/25",
+        "shotsOnTargetTotalsHome": "13/10",
+        "shotsOnTargetTotalsAway": "16/15",
+        "shotsOnTargetAverage": "3.63/3.13",
+        "shotsOnTargetAverageHome": "3.25/2.50",
+        "shotsOnTargetAverageAway": "4.00/3.75",
+        "yellowCardsTotals": "11/12",
+        "yellowCardsTotalsHome": "2/4",
+        "yellowCardsTotalsAway": "9/8",
+        "yellowCardsAverage": "1.38/1.50",
+        "yellowCardsAverageHome": "0.50/1.00",
+        "yellowCardsAverageAway": "2.25/2.00",
+        "goalsTotals": "11/7",
+        "goalsTotalsHome": "7/3",
+        "goalsTotalsAway": "4/4",
+        "goalsAverage": "1.38/0.88",
+        "goalsAverageHome": "1.75/0.75",
+        "goalsAverageAway": "1.00/1.00",
+        "throwInsTotals": "153/148",
+        "throwInsTotalsHome": "72/63",
+        "throwInsTotalsAway": "81/85",
+        "throwInsAverage": "19.13/18.50",
+        "throwInsAverageHome": "18.00/15.75",
+        "throwInsAverageAway": "20.25/21.25",
+        "averageBallPossessionTotals": "420/380",
+        "averageBallPossessionTotalsHome": "210/190",
+        "averageBallPossessionTotalsAway": "210/190",
+        "averageBallPossessionAverage": "52.50/47.50",
+        "averageBallPossessionAverageHome": "52.50/47.50",
+        "averageBallPossessionAverageAway": "52.50/47.50",
+        "tacklesTotals": "26/28",
+        "tacklesTotalsHome": "14/12",
+        "tacklesTotalsAway": "12/16",
+        "tacklesAverage": "3.25/3.50",
+        "tacklesAverageHome": "3.50/3.00",
+        "tacklesAverageAway": "3.00/4.00",
+        "interceptionsTotals": "104/136",
+        "interceptionsTotalsHome": "49/62",
+        "interceptionsTotalsAway": "55/74",
+        "interceptionsAverage": "13.00/17.00",
+        "interceptionsAverageHome": "12.25/15.50",
+        "interceptionsAverageAway": "13.75/18.50",
+        "aerialDuelsTotals": "171/187",
+        "aerialDuelsTotalsHome": "78/90",
+        "aerialDuelsTotalsAway": "93/97",
+        "aerialDuelsAverage": "21.38/23.38",
+        "aerialDuelsAverageHome": "19.50/22.50",
+        "aerialDuelsAverageAway": "23.25/24.25",
+        "aerialDuelsAttemptedTotals": "384/396",
+        "aerialDuelsAttemptedTotalsHome": "192/181",
+        "aerialDuelsAttemptedTotalsAway": "192/215",
+        "aerialDuelsAttemptedAverage": "48.00/49.50",
+        "aerialDuelsAttemptedAverageHome": "48.00/45.25",
+        "aerialDuelsAttemptedAverageAway": "48.00/53.75",
+        "dribblesTotals": "115/90",
+        "dribblesTotalsHome": "59/50",
+        "dribblesTotalsAway": "56/40",
+        "dribblesAverage": "14.38/11.25",
+        "dribblesAverageHome": "14.75/12.50",
+        "dribblesAverageAway": "14.00/10.00",
+        "dribblesAttemptedTotals": "154/141",
+        "dribblesAttemptedTotalsHome": "81/76",
+        "dribblesAttemptedTotalsAway": "73/65",
+        "dribblesAttemptedAverage": "19.25/17.63",
+        "dribblesAttemptedAverageHome": "20.25/19.00",
+        "dribblesAttemptedAverageAway": "18.25/16.25"
+    }
+}

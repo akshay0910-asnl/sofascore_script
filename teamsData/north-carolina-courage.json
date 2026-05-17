@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.75",
+        "fouls": "10.88",
+        "goalKicks": "7.38",
+        "saves": "1.88",
+        "offsides": "1.75",
+        "shotsOnTarget": "4.13/3.25",
+        "yellowCards": "1.25/1.38",
+        "goals": "1.13/1.38",
+        "throwIns": "21.00",
+        "ballPossession": 53.5,
+        "tackles": "18.25/18.63",
+        "interceptions": "9.13/13.25",
+        "aerialDuels": "10.25",
+        "aerialDuelsAttempted": "19.00",
+        "dribbles": "5.38/5.38",
+        "dribblesAttempted": "16.75/15.38"
+    },
+    "teamSlug": "north-carolina-courage",
+    "teamId": "49787",
+    "teamName": "North Carolina Courage",
+    "tournament": "NWSL",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/orlando-pride-north-carolina-courage/MVusIbLb#id:15388465,tab:statistics",
+            "teams": [
+                "Orlando Pride",
+                "North Carolina Courage"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                215083,
+                49787
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kansas-city-current-north-carolina-courage/MVusBgbd#id:15385520,tab:statistics",
+            "teams": [
+                "North Carolina Courage",
+                "Kansas City Current"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                49787,
+                377826
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/boston-legacy-fc-north-carolina-courage/MVustcqj#id:15388462,tab:statistics",
+            "teams": [
+                "Boston Legacy FC",
+                "North Carolina Courage"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                1165118,
+                49787
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/houston-dash-north-carolina-courage/MVusgvkb#id:15388457,tab:statistics",
+            "teams": [
+                "Houston Dash",
+                "North Carolina Courage"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                151006,
+                49787
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portland-thorns-fc-north-carolina-courage/MVusivkb#id:15388454,tab:statistics",
+            "teams": [
+                "North Carolina Courage",
+                "Portland Thorns FC"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                49787,
+                151008
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/bay-fc-north-carolina-courage/MVusfnce#id:15388443,tab:statistics",
+            "teams": [
+                "North Carolina Courage",
+                "Bay FC"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                49787,
+                505655
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/north-carolina-courage-njny-gotham-fc/tUnsMVu#id:15388428,tab:statistics",
+            "teams": [
+                "NJ/NY Gotham FC",
+                "North Carolina Courage"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                34718,
+                49787
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/racing-louisville-north-carolina-courage/MVusAgbd#id:15388426,tab:statistics",
+            "teams": [
+                "North Carolina Courage",
+                "Racing Louisville"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                49787,
+                377825
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/5[A]",
+            "fouls": "15/15[A]",
+            "goalKicks": "10/17[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/2[A]",
+            "yellowCards": "1/4[A]",
+            "goals": "0/1[A]",
+            "throwIns": "26/15[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "North Carolina Courage,Orlando Pride,Away",
+            "tackles": "16/19[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "13/4[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "17/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "12/8[H]",
+            "goalKicks": "6/15[H]",
+            "saves": "0/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "28/17[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "North Carolina Courage,Kansas City Current,Home",
+            "tackles": "15/26[H]",
+            "interceptions": "5/14[H]",
+            "aerialDuels": "6/14[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "25/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[A]",
+            "fouls": "10/9[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "0/1[A]",
+            "offsides": "3/4[A]",
+            "shotsOnTarget": "4/2[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "22/22[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "North Carolina Courage,Boston Legacy FC,Away",
+            "tackles": "16/19[A]",
+            "interceptions": "16/20[A]",
+            "aerialDuels": "16/9[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "24/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/9[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "10/8[A]",
+            "saves": "2/7[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "8/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "1/0[A]",
+            "throwIns": "10/30[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "North Carolina Courage,Houston Dash,Away",
+            "tackles": "32/16[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "13/12[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "1/5[A]",
+            "dribblesAttempted": "14/30[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "4/5[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "18/26[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "North Carolina Courage,Portland Thorns FC,Home",
+            "tackles": "12/17[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "4/12[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "8/11[H]",
+            "dribblesAttempted": "14/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "5/8[H]",
+            "saves": "3/1[H]",
+            "offsides": "4/1[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "1/3[H]",
+            "throwIns": "24/21[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "North Carolina Courage,Bay FC,Home",
+            "tackles": "20/20[H]",
+            "interceptions": "14/21[H]",
+            "aerialDuels": "14/8[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "19/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "9/9[A]",
+            "saves": "1/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "17/16[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "North Carolina Courage,NJ/NY Gotham FC,Away",
+            "tackles": "17/19[A]",
+            "interceptions": "9/16[A]",
+            "aerialDuels": "6/5[A]",
+            "aerialDuelsAttempted": "11/11[A]",
+            "dribbles": "2/4[A]",
+            "dribblesAttempted": "12/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/6[H]",
+            "fouls": "10/8[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "23/29[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "North Carolina Courage,Racing Louisville,Home",
+            "tackles": "18/13[H]",
+            "interceptions": "9/11[H]",
+            "aerialDuels": "10/6[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "2/1[H]",
+            "dribblesAttempted": "9/7[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T17:44:17.307Z",
+    "endTime": "2026-05-16T17:44:46.536Z",
+    "totalTimeSeconds": 29.23,
+    "combinedMatchStatistics": {
+        "corners": "4/5[A]+7/4[H]+7/3[A]+2/9[A]+7/4[H]+4/4[H]+2/4[A]+5/6[H]",
+        "fouls": "15/15[A]+12/8[H]+10/9[A]+9/8[A]+9/8[H]+12/11[H]+10/10[A]+10/8[H]",
+        "goalKicks": "10/17[A]+6/15[H]+4/10[A]+10/8[A]+7/5[H]+5/8[H]+9/9[A]+8/7[H]",
+        "saves": "1/1[A]+0/3[H]+0/1[A]+2/7[A]+4/5[H]+3/1[H]+1/2[A]+4/3[H]",
+        "offsides": "2/1[A]+1/2[H]+3/4[A]+1/1[A]+0/1[H]+4/1[H]+1/1[A]+2/1[H]",
+        "shotsOnTarget": "1/2[A]+4/2[H]+4/2[A]+8/2[A]+7/6[H]+2/6[H]+2/1[A]+5/5[H]",
+        "yellowCards": "1/4[A]+1/0[H]+3/1[A]+1/2[A]+1/1[H]+1/2[H]+1/1[A]+1/0[H]",
+        "goals": "0/1[A]+1/2[H]+2/2[A]+1/0[A]+2/2[H]+1/3[H]+0/0[A]+2/1[H]",
+        "throwIns": "26/15[A]+28/17[H]+22/22[A]+10/30[A]+18/26[H]+24/21[H]+17/16[A]+23/29[H]",
+        "averageBallPossession": "56/44[A]+58/42[H]+51/49[A]+48/52[A]+60/40[H]+51/49[H]+41/59[A]+63/37[H]",
+        "teams": "North Carolina Courage,Orlando Pride,Away+North Carolina Courage,Kansas City Current,Home+North Carolina Courage,Boston Legacy FC,Away+North Carolina Courage,Houston Dash,Away+North Carolina Courage,Portland Thorns FC,Home+North Carolina Courage,Bay FC,Home+North Carolina Courage,NJ/NY Gotham FC,Away+North Carolina Courage,Racing Louisville,Home",
+        "tackles": "16/19[A]+15/26[H]+16/19[A]+32/16[A]+12/17[H]+20/20[H]+17/19[A]+18/13[H]",
+        "interceptions": "5/10[A]+5/14[H]+16/20[A]+7/7[A]+8/7[H]+14/21[H]+9/16[A]+9/11[H]",
+        "aerialDuels": "13/4[A]+6/14[H]+16/9[A]+13/12[A]+4/12[H]+14/8[H]+6/5[A]+10/6[H]",
+        "aerialDuelsAttempted": "17/17[A]+20/20[H]+25/25[A]+25/25[A]+16/16[H]+22/22[H]+11/11[A]+16/16[H]",
+        "dribbles": "6/4[A]+7/7[H]+9/8[A]+1/5[A]+8/11[H]+8/3[H]+2/4[A]+2/1[H]",
+        "dribblesAttempted": "17/13[A]+25/16[H]+24/18[A]+14/30[A]+14/17[H]+19/12[H]+12/10[A]+9/7[H]",
+        "isHome": "false+true+false+false+true+true+false+true",
+        "cornersTotals": "38/39",
+        "cornersTotalsHome": "23/18",
+        "cornersTotalsAway": "15/21",
+        "cornersAverage": "4.75/4.88",
+        "cornersAverageHome": "5.75/4.50",
+        "cornersAverageAway": "3.75/5.25",
+        "foulsTotals": "87/77",
+        "foulsTotalsHome": "43/35",
+        "foulsTotalsAway": "44/42",
+        "foulsAverage": "10.88/9.63",
+        "foulsAverageHome": "10.75/8.75",
+        "foulsAverageAway": "11.00/10.50",
+        "goalKicksTotals": "59/79",
+        "goalKicksTotalsHome": "26/35",
+        "goalKicksTotalsAway": "33/44",
+        "goalKicksAverage": "7.38/9.88",
+        "goalKicksAverageHome": "6.50/8.75",
+        "goalKicksAverageAway": "8.25/11.00",
+        "savesTotals": "15/23",
+        "savesTotalsHome": "11/12",
+        "savesTotalsAway": "4/11",
+        "savesAverage": "1.88/2.88",
+        "savesAverageHome": "2.75/3.00",
+        "savesAverageAway": "1.00/2.75",
+        "offsidesTotals": "14/12",
+        "offsidesTotalsHome": "7/5",
+        "offsidesTotalsAway": "7/7",
+        "offsidesAverage": "1.75/1.50",
+        "offsidesAverageHome": "1.75/1.25",
+        "offsidesAverageAway": "1.75/1.75",
+        "shotsOnTargetTotals": "33/26",
+        "shotsOnTargetTotalsHome": "18/19",
+        "shotsOnTargetTotalsAway": "15/7",
+        "shotsOnTargetAverage": "4.13/3.25",
+        "shotsOnTargetAverageHome": "4.50/4.75",
+        "shotsOnTargetAverageAway": "3.75/1.75",
+        "yellowCardsTotals": "10/11",
+        "yellowCardsTotalsHome": "4/3",
+        "yellowCardsTotalsAway": "6/8",
+        "yellowCardsAverage": "1.25/1.38",
+        "yellowCardsAverageHome": "1.00/0.75",
+        "yellowCardsAverageAway": "1.50/2.00",
+        "goalsTotals": "9/11",
+        "goalsTotalsHome": "6/8",
+        "goalsTotalsAway": "3/3",
+        "goalsAverage": "1.13/1.38",
+        "goalsAverageHome": "1.50/2.00",
+        "goalsAverageAway": "0.75/0.75",
+        "throwInsTotals": "168/176",
+        "throwInsTotalsHome": "93/93",
+        "throwInsTotalsAway": "75/83",
+        "throwInsAverage": "21.00/22.00",
+        "throwInsAverageHome": "23.25/23.25",
+        "throwInsAverageAway": "18.75/20.75",
+        "averageBallPossessionTotals": "428/372",
+        "averageBallPossessionTotalsHome": "232/168",
+        "averageBallPossessionTotalsAway": "196/204",
+        "averageBallPossessionAverage": "53.50/46.50",
+        "averageBallPossessionAverageHome": "58.00/42.00",
+        "averageBallPossessionAverageAway": "49.00/51.00",
+        "tacklesTotals": "146/149",
+        "tacklesTotalsHome": "65/76",
+        "tacklesTotalsAway": "81/73",
+        "tacklesAverage": "18.25/18.63",
+        "tacklesAverageHome": "16.25/19.00",
+        "tacklesAverageAway": "20.25/18.25",
+        "interceptionsTotals": "73/106",
+        "interceptionsTotalsHome": "36/53",
+        "interceptionsTotalsAway": "37/53",
+        "interceptionsAverage": "9.13/13.25",
+        "interceptionsAverageHome": "9.00/13.25",
+        "interceptionsAverageAway": "9.25/13.25",
+        "aerialDuelsTotals": "82/70",
+        "aerialDuelsTotalsHome": "34/40",
+        "aerialDuelsTotalsAway": "48/30",
+        "aerialDuelsAverage": "10.25/8.75",
+        "aerialDuelsAverageHome": "8.50/10.00",
+        "aerialDuelsAverageAway": "12.00/7.50",
+        "aerialDuelsAttemptedTotals": "152/152",
+        "aerialDuelsAttemptedTotalsHome": "74/74",
+        "aerialDuelsAttemptedTotalsAway": "78/78",
+        "aerialDuelsAttemptedAverage": "19.00/19.00",
+        "aerialDuelsAttemptedAverageHome": "18.50/18.50",
+        "aerialDuelsAttemptedAverageAway": "19.50/19.50",
+        "dribblesTotals": "43/43",
+        "dribblesTotalsHome": "25/22",
+        "dribblesTotalsAway": "18/21",
+        "dribblesAverage": "5.38/5.38",
+        "dribblesAverageHome": "6.25/5.50",
+        "dribblesAverageAway": "4.50/5.25",
+        "dribblesAttemptedTotals": "134/123",
+        "dribblesAttemptedTotalsHome": "67/52",
+        "dribblesAttemptedTotalsAway": "67/71",
+        "dribblesAttemptedAverage": "16.75/15.38",
+        "dribblesAttemptedAverageHome": "16.75/13.00",
+        "dribblesAttemptedAverageAway": "16.75/17.75"
+    }
+}

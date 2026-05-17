@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.50",
+        "fouls": "12.00",
+        "goalKicks": "7.75",
+        "saves": "3.33",
+        "offsides": "2.00",
+        "shotsOnTarget": "6.17/4.83",
+        "yellowCards": "2.08/2.00",
+        "goals": "1.92/1.42",
+        "throwIns": "17.58",
+        "ballPossession": 50.416666666667,
+        "tackles": "14.67/15.00",
+        "interceptions": "7.50/9.17",
+        "aerialDuels": "10.75",
+        "aerialDuelsAttempted": "20.33",
+        "dribbles": "5.92/5.58",
+        "dribblesAttempted": "13.17/12.75"
+    },
+    "teamSlug": "real-salt-lake",
+    "teamId": "5133",
+    "teamName": "Real Salt Lake",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/real-salt-lake-houston-dynamo/iabsIcc#id:15171551,tab:statistics",
+            "teams": [
+                "Real Salt Lake",
+                "Houston Dynamo"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                5133,
+                2508
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-salt-lake-fc-dallas/mabsIcc#id:15171532,tab:statistics",
+            "teams": [
+                "FC Dallas",
+                "Real Salt Lake"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                2512,
+                5133
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/portland-timbers-real-salt-lake/IccshPi#id:15171512,tab:statistics",
+            "teams": [
+                "Real Salt Lake",
+                "Portland Timbers"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5133,
+                22007
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-salt-lake-la-galaxy/nabsIcc#id:15171501,tab:statistics",
+            "teams": [
+                "LA Galaxy",
+                "Real Salt Lake"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2513,
+                5133
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-miami-cf-real-salt-lake/IccsccKc#id:15171508,tab:statistics",
+            "teams": [
+                "Real Salt Lake",
+                "Inter Miami CF"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                5133,
+                337602
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/san-diego-fc-real-salt-lake/IccslEri#id:15171480,tab:statistics",
+            "teams": [
+                "Real Salt Lake",
+                "San Diego FC"
+            ],
+            "goals": [
+                4,
+                2
+            ],
+            "teamIds": [
+                5133,
+                1043961
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/san-diego-fc-real-salt-lake/IccslEri#id:15137937,tab:statistics",
+            "teams": [
+                "San Diego FC",
+                "Real Salt Lake"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                1043961,
+                5133
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-real-salt-lake/IccsloXb#id:15137892,tab:statistics",
+            "teams": [
+                "Atlanta United",
+                "Real Salt Lake"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                243211,
+                5133
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "4/1[H]",
+            "fouls": "8/11[H]",
+            "goalKicks": "13/10[H]",
+            "saves": "4/0[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "3/0[H]",
+            "throwIns": "12/17[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Real Salt Lake,Houston Dynamo,Home",
+            "tackles": "18/12[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "4/10[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "13/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "13/15[A]",
+            "goalKicks": "4/9[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "32/9[A]",
+            "averageBallPossession": "73/27[A]",
+            "teams": "Real Salt Lake,FC Dallas,Away",
+            "tackles": "17/20[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "12/21[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/1[A]",
+            "dribblesAttempted": "17/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "15/12[H]",
+            "goalKicks": "6/10[H]",
+            "saves": "2/13[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "15/2[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/18[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Real Salt Lake,Portland Timbers,Home",
+            "tackles": "9/17[H]",
+            "interceptions": "10/8[H]",
+            "aerialDuels": "8/12[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "12/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/7[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "4/8[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "8/7[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "1/2[A]",
+            "throwIns": "27/9[A]",
+            "averageBallPossession": "61/39[A]",
+            "teams": "Real Salt Lake,LA Galaxy,Away",
+            "tackles": "15/23[A]",
+            "interceptions": "5/12[A]",
+            "aerialDuels": "13/4[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "5/6[A]",
+            "dribblesAttempted": "14/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[H]",
+            "fouls": "15/9[H]",
+            "goalKicks": "4/11[H]",
+            "saves": "5/4[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "4/7[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "18/13[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Real Salt Lake,Inter Miami CF,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "4/13[H]",
+            "aerialDuels": "3/9[H]",
+            "aerialDuelsAttempted": "12/12[H]",
+            "dribbles": "5/7[H]",
+            "dribblesAttempted": "14/18[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/8[H]",
+            "fouls": "12/13[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "3/5[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "9/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "4/2[H]",
+            "throwIns": "10/21[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Real Salt Lake,San Diego FC,Home",
+            "tackles": "11/7[H]",
+            "interceptions": "7/7[H]",
+            "aerialDuels": "10/6[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "8/2[H]",
+            "dribblesAttempted": "12/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/7[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "4/4[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "8/23[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Real Salt Lake,San Diego FC,Away",
+            "tackles": "20/9[A]",
+            "interceptions": "11/10[A]",
+            "aerialDuels": "11/4[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "7/1[A]",
+            "dribblesAttempted": "12/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/4[A]",
+            "fouls": "4/12[A]",
+            "goalKicks": "12/4[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/2[A]",
+            "throwIns": "6/19[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Real Salt Lake,Atlanta United,Away",
+            "tackles": "15/15[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "9/9[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "12/14[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T14:10:49.055Z",
+    "endTime": "2026-05-16T14:11:32.250Z",
+    "totalTimeSeconds": 43.2,
+    "combinedMatchStatistics": {
+        "corners": "4/1[H]+7/4[A]+6/2[H]+0/7[A]+2/4[H]+1/8[H]+8/7[A]+2/4[A]",
+        "fouls": "8/11[H]+13/15[A]+15/12[H]+14/16[A]+15/9[H]+12/13[H]+12/15[A]+4/12[A]",
+        "goalKicks": "13/10[H]+4/9[A]+6/10[H]+9/5[A]+4/11[H]+5/5[H]+6/6[A]+12/4[A]",
+        "saves": "4/0[H]+1/3[A]+2/13[H]+4/8[A]+5/4[H]+3/5[H]+4/4[A]+3/1[A]",
+        "offsides": "4/2[H]+1/2[A]+0/1[H]+1/3[A]+3/0[H]+2/2[H]+2/2[A]+3/1[A]",
+        "shotsOnTarget": "2/4[H]+2/4[A]+15/2[H]+8/7[A]+4/7[H]+9/5[H]+8/6[A]+4/5[A]",
+        "yellowCards": "0/1[H]+3/2[A]+1/2[H]+4/4[A]+3/3[H]+1/1[H]+2/3[A]+3/2[A]",
+        "goals": "3/0[H]+1/3[A]+2/0[H]+1/2[A]+0/2[H]+4/2[H]+2/2[A]+3/2[A]",
+        "throwIns": "12/17[H]+32/9[A]+21/18[H]+27/9[A]+18/13[H]+10/21[H]+8/23[A]+6/19[A]",
+        "averageBallPossession": "53/47[H]+73/27[A]+53/47[H]+61/39[A]+49/51[H]+48/52[H]+41/59[A]+38/62[A]",
+        "teams": "Real Salt Lake,Houston Dynamo,Home+Real Salt Lake,FC Dallas,Away+Real Salt Lake,Portland Timbers,Home+Real Salt Lake,LA Galaxy,Away+Real Salt Lake,Inter Miami CF,Home+Real Salt Lake,San Diego FC,Home+Real Salt Lake,San Diego FC,Away+Real Salt Lake,Atlanta United,Away",
+        "tackles": "18/12[H]+17/20[A]+9/17[H]+15/23[A]+15/13[H]+11/7[H]+20/9[A]+15/15[A]",
+        "interceptions": "7/9[H]+6/8[A]+10/8[H]+5/12[A]+4/13[H]+7/7[H]+11/10[A]+11/11[A]",
+        "aerialDuels": "4/10[H]+12/21[A]+8/12[H]+13/4[A]+3/9[H]+10/6[H]+11/4[A]+9/9[A]",
+        "aerialDuelsAttempted": "14/14[H]+33/33[A]+20/20[H]+17/17[A]+12/12[H]+16/16[H]+15/15[A]+18/18[A]",
+        "dribbles": "6/6[H]+7/1[A]+5/6[H]+5/6[A]+5/7[H]+8/2[H]+7/1[A]+3/7[A]",
+        "dribblesAttempted": "13/18[H]+17/11[A]+12/10[H]+14/13[A]+14/18[H]+12/6[H]+12/8[A]+12/14[A]",
+        "isHome": "true+false+true+false+true+true+false+false",
+        "cornersTotals": "30/37",
+        "cornersTotalsHome": "13/15",
+        "cornersTotalsAway": "17/22",
+        "cornersAverage": "3.75/4.63",
+        "cornersAverageHome": "3.25/3.75",
+        "cornersAverageAway": "4.25/5.50",
+        "foulsTotals": "93/103",
+        "foulsTotalsHome": "50/45",
+        "foulsTotalsAway": "43/58",
+        "foulsAverage": "11.63/12.88",
+        "foulsAverageHome": "12.50/11.25",
+        "foulsAverageAway": "10.75/14.50",
+        "goalKicksTotals": "59/60",
+        "goalKicksTotalsHome": "28/36",
+        "goalKicksTotalsAway": "31/24",
+        "goalKicksAverage": "7.38/7.50",
+        "goalKicksAverageHome": "7.00/9.00",
+        "goalKicksAverageAway": "7.75/6.00",
+        "savesTotals": "26/38",
+        "savesTotalsHome": "14/22",
+        "savesTotalsAway": "12/16",
+        "savesAverage": "3.25/4.75",
+        "savesAverageHome": "3.50/5.50",
+        "savesAverageAway": "3.00/4.00",
+        "offsidesTotals": "16/13",
+        "offsidesTotalsHome": "9/5",
+        "offsidesTotalsAway": "7/8",
+        "offsidesAverage": "2.00/1.63",
+        "offsidesAverageHome": "2.25/1.25",
+        "offsidesAverageAway": "1.75/2.00",
+        "shotsOnTargetTotals": "52/40",
+        "shotsOnTargetTotalsHome": "30/18",
+        "shotsOnTargetTotalsAway": "22/22",
+        "shotsOnTargetAverage": "6.50/5.00",
+        "shotsOnTargetAverageHome": "7.50/4.50",
+        "shotsOnTargetAverageAway": "5.50/5.50",
+        "yellowCardsTotals": "17/18",
+        "yellowCardsTotalsHome": "5/7",
+        "yellowCardsTotalsAway": "12/11",
+        "yellowCardsAverage": "2.13/2.25",
+        "yellowCardsAverageHome": "1.25/1.75",
+        "yellowCardsAverageAway": "3.00/2.75",
+        "goalsTotals": "16/13",
+        "goalsTotalsHome": "9/4",
+        "goalsTotalsAway": "7/9",
+        "goalsAverage": "2.00/1.63",
+        "goalsAverageHome": "2.25/1.00",
+        "goalsAverageAway": "1.75/2.25",
+        "throwInsTotals": "134/129",
+        "throwInsTotalsHome": "61/69",
+        "throwInsTotalsAway": "73/60",
+        "throwInsAverage": "16.75/16.13",
+        "throwInsAverageHome": "15.25/17.25",
+        "throwInsAverageAway": "18.25/15.00",
+        "averageBallPossessionTotals": "416/384",
+        "averageBallPossessionTotalsHome": "203/197",
+        "averageBallPossessionTotalsAway": "213/187",
+        "averageBallPossessionAverage": "52.00/48.00",
+        "averageBallPossessionAverageHome": "50.75/49.25",
+        "averageBallPossessionAverageAway": "53.25/46.75",
+        "tacklesTotals": "120/116",
+        "tacklesTotalsHome": "53/49",
+        "tacklesTotalsAway": "67/67",
+        "tacklesAverage": "15.00/14.50",
+        "tacklesAverageHome": "13.25/12.25",
+        "tacklesAverageAway": "16.75/16.75",
+        "interceptionsTotals": "61/78",
+        "interceptionsTotalsHome": "28/37",
+        "interceptionsTotalsAway": "33/41",
+        "interceptionsAverage": "7.63/9.75",
+        "interceptionsAverageHome": "7.00/9.25",
+        "interceptionsAverageAway": "8.25/10.25",
+        "aerialDuelsTotals": "70/75",
+        "aerialDuelsTotalsHome": "25/37",
+        "aerialDuelsTotalsAway": "45/38",
+        "aerialDuelsAverage": "8.75/9.38",
+        "aerialDuelsAverageHome": "6.25/9.25",
+        "aerialDuelsAverageAway": "11.25/9.50",
+        "aerialDuelsAttemptedTotals": "145/145",
+        "aerialDuelsAttemptedTotalsHome": "62/62",
+        "aerialDuelsAttemptedTotalsAway": "83/83",
+        "aerialDuelsAttemptedAverage": "18.13/18.13",
+        "aerialDuelsAttemptedAverageHome": "15.50/15.50",
+        "aerialDuelsAttemptedAverageAway": "20.75/20.75",
+        "dribblesTotals": "46/36",
+        "dribblesTotalsHome": "24/21",
+        "dribblesTotalsAway": "22/15",
+        "dribblesAverage": "5.75/4.50",
+        "dribblesAverageHome": "6.00/5.25",
+        "dribblesAverageAway": "5.50/3.75",
+        "dribblesAttemptedTotals": "106/98",
+        "dribblesAttemptedTotalsHome": "51/52",
+        "dribblesAttemptedTotalsAway": "55/46",
+        "dribblesAttemptedAverage": "13.25/12.25",
+        "dribblesAttemptedAverageHome": "12.75/13.00",
+        "dribblesAttemptedAverageAway": "13.75/11.50"
+    }
+}

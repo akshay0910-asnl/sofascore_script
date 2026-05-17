@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.82",
+        "fouls": "9.45",
+        "goalKicks": "5.91",
+        "saves": "3.55",
+        "offsides": "1.82",
+        "shotsOnTarget": "5.64/4.45",
+        "yellowCards": "1.91/1.73",
+        "goals": "1.55/0.73",
+        "throwIns": "17.64",
+        "ballPossession": 53.181818181818,
+        "tackles": "15.45/15.00",
+        "interceptions": "9.55/8.36",
+        "aerialDuels": "12.82",
+        "aerialDuelsAttempted": "24.55",
+        "dribbles": "7.09/5.91",
+        "dribblesAttempted": "13.64/13.18"
+    },
+    "teamSlug": "seattle-sounders-fc",
+    "teamId": "22009",
+    "teamName": "Seattle Sounders FC",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/seattle-sounders-fc-san-jose-earthquakes/ALisjPi#id:15171559,tab:statistics",
+            "teams": [
+                "Seattle Sounders FC",
+                "San Jose Earthquakes"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                22009,
+                21825
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/san-diego-fc-seattle-sounders-fc/jPislEri#id:15171538,tab:statistics",
+            "teams": [
+                "Seattle Sounders FC",
+                "San Diego FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                22009,
+                1043961
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/seattle-sounders-fc-sporting-kansas-city/jabsjPi#id:15171504,tab:statistics",
+            "teams": [
+                "Sporting Kansas City",
+                "Seattle Sounders FC"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2509,
+                22009
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/seattle-sounders-fc-fc-dallas/mabsjPi#id:15171502,tab:statistics",
+            "teams": [
+                "Seattle Sounders FC",
+                "FC Dallas"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                22009,
+                2512
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stlouis-city-seattle-sounders-fc/jPisdgnd#id:15171482,tab:statistics",
+            "teams": [
+                "Seattle Sounders FC",
+                "St.Louis City"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                22009,
+                407803
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/seattle-sounders-fc-houston-dynamo/iabsjPi#id:15171455,tab:statistics",
+            "teams": [
+                "Houston Dynamo",
+                "Seattle Sounders FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                2508,
+                22009
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/minnesota-united-seattle-sounders-fc/jPistHq#id:15137950,tab:statistics",
+            "teams": [
+                "Minnesota United",
+                "Seattle Sounders FC"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                41618,
+                22009
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/seattle-sounders-fc-san-jose-earthquakes/ALisjPi#id:15137945,tab:statistics",
+            "teams": [
+                "San Jose Earthquakes",
+                "Seattle Sounders FC"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                21825,
+                22009
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "9/6[H]",
+            "fouls": "12/11[H]",
+            "goalKicks": "6/9[H]",
+            "saves": "1/6[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "9/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "3/2[H]",
+            "throwIns": "21/22[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Seattle Sounders FC,San Jose Earthquakes,Home",
+            "tackles": "18/4[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "17/11[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "6/6[H]",
+            "dribblesAttempted": "9/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "7/13[H]",
+            "saves": "4/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "3/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "14/13[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Seattle Sounders FC,San Diego FC,Home",
+            "tackles": "11/12[H]",
+            "interceptions": "15/7[H]",
+            "aerialDuels": "15/5[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "7/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/4[A]",
+            "fouls": "7/10[A]",
+            "goalKicks": "1/17[A]",
+            "saves": "6/7[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "9/7[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "12/13[A]",
+            "averageBallPossession": "65/35[A]",
+            "teams": "Seattle Sounders FC,Sporting Kansas City,Away",
+            "tackles": "13/8[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "18/11[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "8/1[A]",
+            "dribblesAttempted": "13/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "6/13[H]",
+            "goalKicks": "7/3[H]",
+            "saves": "5/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "28/15[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Seattle Sounders FC,FC Dallas,Home",
+            "tackles": "14/19[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "13/21[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "11/12[H]",
+            "dribblesAttempted": "23/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/8[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "3/6[H]",
+            "saves": "1/5[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "9/2[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "4/1[H]",
+            "throwIns": "12/8[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Seattle Sounders FC,St.Louis City,Home",
+            "tackles": "9/17[H]",
+            "interceptions": "14/13[H]",
+            "aerialDuels": "6/12[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "16/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/9[A]",
+            "fouls": "13/5[A]",
+            "goalKicks": "6/4[A]",
+            "saves": "3/1[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "20/7[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Seattle Sounders FC,Houston Dynamo,Away",
+            "tackles": "14/19[A]",
+            "interceptions": "5/10[A]",
+            "aerialDuels": "8/10[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "12/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/4[A]",
+            "fouls": "13/9[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "2/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "16/19[A]",
+            "averageBallPossession": "68/32[A]",
+            "teams": "Seattle Sounders FC,Minnesota United,Away",
+            "tackles": "13/16[A]",
+            "interceptions": "12/7[A]",
+            "aerialDuels": "9/11[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "7/7[A]",
+            "dribblesAttempted": "15/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/17[A]",
+            "fouls": "11/6[A]",
+            "goalKicks": "13/5[A]",
+            "saves": "6/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "12/22[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Seattle Sounders FC,San Jose Earthquakes,Away",
+            "tackles": "19/18[A]",
+            "interceptions": "9/5[A]",
+            "aerialDuels": "13/3[A]",
+            "aerialDuelsAttempted": "16/16[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "18/7[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T14:09:30.475Z",
+    "endTime": "2026-05-16T14:10:08.989Z",
+    "totalTimeSeconds": 38.51,
+    "combinedMatchStatistics": {
+        "corners": "9/6[H]+8/2[H]+9/4[A]+4/7[H]+5/8[H]+3/9[A]+7/4[A]+0/17[A]",
+        "fouls": "12/11[H]+9/8[H]+7/10[A]+6/13[H]+9/12[H]+13/5[A]+13/9[A]+11/6[A]",
+        "goalKicks": "6/9[H]+7/13[H]+1/17[A]+7/3[H]+3/6[H]+6/4[A]+7/6[A]+13/5[A]",
+        "saves": "1/6[H]+4/3[H]+6/7[A]+5/4[H]+1/5[H]+3/1[A]+2/2[A]+6/3[A]",
+        "offsides": "1/1[H]+2/1[H]+3/0[A]+2/1[H]+1/2[H]+2/2[A]+0/1[A]+1/0[A]",
+        "shotsOnTarget": "9/3[H]+5/5[H]+9/7[A]+6/6[H]+9/2[H]+2/3[A]+2/3[A]+4/7[A]",
+        "yellowCards": "0/2[H]+3/2[H]+2/0[A]+1/4[H]+0/0[H]+2/1[A]+3/1[A]+4/1[A]",
+        "goals": "3/2[H]+1/1[H]+1/1[A]+2/1[H]+4/1[H]+1/0[A]+0/0[A]+1/0[A]",
+        "throwIns": "21/22[H]+14/13[H]+12/13[A]+28/15[H]+12/8[H]+20/7[A]+16/19[A]+12/22[A]",
+        "averageBallPossession": "63/37[H]+47/53[H]+65/35[A]+58/42[H]+50/50[H]+55/45[A]+68/32[A]+37/63[A]",
+        "teams": "Seattle Sounders FC,San Jose Earthquakes,Home+Seattle Sounders FC,San Diego FC,Home+Seattle Sounders FC,Sporting Kansas City,Away+Seattle Sounders FC,FC Dallas,Home+Seattle Sounders FC,St.Louis City,Home+Seattle Sounders FC,Houston Dynamo,Away+Seattle Sounders FC,Minnesota United,Away+Seattle Sounders FC,San Jose Earthquakes,Away",
+        "tackles": "18/4[H]+11/12[H]+13/8[A]+14/19[H]+9/17[H]+14/19[A]+13/16[A]+19/18[A]",
+        "interceptions": "8/10[H]+15/7[H]+7/6[A]+12/9[H]+14/13[H]+5/10[A]+12/7[A]+9/5[A]",
+        "aerialDuels": "17/11[H]+15/5[H]+18/11[A]+13/21[H]+6/12[H]+8/10[A]+9/11[A]+13/3[A]",
+        "aerialDuelsAttempted": "28/28[H]+20/20[H]+29/29[A]+34/34[H]+18/18[H]+18/18[A]+20/20[A]+16/16[A]",
+        "dribbles": "6/6[H]+5/4[H]+8/1[A]+11/12[H]+8/8[H]+3/7[A]+7/7[A]+8/2[A]",
+        "dribblesAttempted": "9/13[H]+7/7[H]+13/4[A]+23/19[H]+16/15[H]+12/15[A]+15/13[A]+18/7[A]",
+        "isHome": "true+true+false+true+true+false+false+false",
+        "cornersTotals": "45/57",
+        "cornersTotalsHome": "26/23",
+        "cornersTotalsAway": "19/34",
+        "cornersAverage": "5.63/7.13",
+        "cornersAverageHome": "6.50/5.75",
+        "cornersAverageAway": "4.75/8.50",
+        "foulsTotals": "80/74",
+        "foulsTotalsHome": "36/44",
+        "foulsTotalsAway": "44/30",
+        "foulsAverage": "10.00/9.25",
+        "foulsAverageHome": "9.00/11.00",
+        "foulsAverageAway": "11.00/7.50",
+        "goalKicksTotals": "50/63",
+        "goalKicksTotalsHome": "23/31",
+        "goalKicksTotalsAway": "27/32",
+        "goalKicksAverage": "6.25/7.88",
+        "goalKicksAverageHome": "5.75/7.75",
+        "goalKicksAverageAway": "6.75/8.00",
+        "savesTotals": "28/31",
+        "savesTotalsHome": "11/18",
+        "savesTotalsAway": "17/13",
+        "savesAverage": "3.50/3.88",
+        "savesAverageHome": "2.75/4.50",
+        "savesAverageAway": "4.25/3.25",
+        "offsidesTotals": "12/8",
+        "offsidesTotalsHome": "6/5",
+        "offsidesTotalsAway": "6/3",
+        "offsidesAverage": "1.50/1.00",
+        "offsidesAverageHome": "1.50/1.25",
+        "offsidesAverageAway": "1.50/0.75",
+        "shotsOnTargetTotals": "46/36",
+        "shotsOnTargetTotalsHome": "29/16",
+        "shotsOnTargetTotalsAway": "17/20",
+        "shotsOnTargetAverage": "5.75/4.50",
+        "shotsOnTargetAverageHome": "7.25/4.00",
+        "shotsOnTargetAverageAway": "4.25/5.00",
+        "yellowCardsTotals": "15/11",
+        "yellowCardsTotalsHome": "4/8",
+        "yellowCardsTotalsAway": "11/3",
+        "yellowCardsAverage": "1.88/1.38",
+        "yellowCardsAverageHome": "1.00/2.00",
+        "yellowCardsAverageAway": "2.75/0.75",
+        "goalsTotals": "13/6",
+        "goalsTotalsHome": "10/5",
+        "goalsTotalsAway": "3/1",
+        "goalsAverage": "1.63/0.75",
+        "goalsAverageHome": "2.50/1.25",
+        "goalsAverageAway": "0.75/0.25",
+        "throwInsTotals": "135/119",
+        "throwInsTotalsHome": "75/58",
+        "throwInsTotalsAway": "60/61",
+        "throwInsAverage": "16.88/14.88",
+        "throwInsAverageHome": "18.75/14.50",
+        "throwInsAverageAway": "15.00/15.25",
+        "averageBallPossessionTotals": "443/357",
+        "averageBallPossessionTotalsHome": "218/182",
+        "averageBallPossessionTotalsAway": "225/175",
+        "averageBallPossessionAverage": "55.38/44.63",
+        "averageBallPossessionAverageHome": "54.50/45.50",
+        "averageBallPossessionAverageAway": "56.25/43.75",
+        "tacklesTotals": "111/113",
+        "tacklesTotalsHome": "52/52",
+        "tacklesTotalsAway": "59/61",
+        "tacklesAverage": "13.88/14.13",
+        "tacklesAverageHome": "13.00/13.00",
+        "tacklesAverageAway": "14.75/15.25",
+        "interceptionsTotals": "82/67",
+        "interceptionsTotalsHome": "49/39",
+        "interceptionsTotalsAway": "33/28",
+        "interceptionsAverage": "10.25/8.38",
+        "interceptionsAverageHome": "12.25/9.75",
+        "interceptionsAverageAway": "8.25/7.00",
+        "aerialDuelsTotals": "99/84",
+        "aerialDuelsTotalsHome": "51/49",
+        "aerialDuelsTotalsAway": "48/35",
+        "aerialDuelsAverage": "12.38/10.50",
+        "aerialDuelsAverageHome": "12.75/12.25",
+        "aerialDuelsAverageAway": "12.00/8.75",
+        "aerialDuelsAttemptedTotals": "183/183",
+        "aerialDuelsAttemptedTotalsHome": "100/100",
+        "aerialDuelsAttemptedTotalsAway": "83/83",
+        "aerialDuelsAttemptedAverage": "22.88/22.88",
+        "aerialDuelsAttemptedAverageHome": "25.00/25.00",
+        "aerialDuelsAttemptedAverageAway": "20.75/20.75",
+        "dribblesTotals": "56/47",
+        "dribblesTotalsHome": "30/30",
+        "dribblesTotalsAway": "26/17",
+        "dribblesAverage": "7.00/5.88",
+        "dribblesAverageHome": "7.50/7.50",
+        "dribblesAverageAway": "6.50/4.25",
+        "dribblesAttemptedTotals": "113/93",
+        "dribblesAttemptedTotalsHome": "55/54",
+        "dribblesAttemptedTotalsAway": "58/39",
+        "dribblesAttemptedAverage": "14.13/11.63",
+        "dribblesAttemptedAverageHome": "13.75/13.50",
+        "dribblesAttemptedAverageAway": "14.50/9.75"
+    }
+}

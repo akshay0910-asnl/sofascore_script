@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "6.38",
+        "fouls": "9.69",
+        "goalKicks": "6.69",
+        "saves": "2.54",
+        "offsides": "0.92",
+        "shotsOnTarget": "5.15/3.54",
+        "yellowCards": "2.31/3.15",
+        "goals": "1.77/1.00",
+        "throwIns": "17.54",
+        "ballPossession": 59.153846153846,
+        "tackles": "13.77/13.92",
+        "interceptions": "6.15/8.08",
+        "aerialDuels": "12.69",
+        "aerialDuelsAttempted": "22.31",
+        "dribbles": "6.08/5.08",
+        "dribblesAttempted": "13.15/12.38"
+    },
+    "teamSlug": "independiente-del-valle",
+    "teamId": "39723",
+    "teamName": "Independiente del Valle",
+    "tournament": "LigaPro Serie A",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-del-valle-barcelona-sc-guayaquil/afcsyUp#id:15502544,tab:statistics",
+            "teams": [
+                "Independiente del Valle",
+                "Barcelona SC Guayaquil"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                39723,
+                5250
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-del-valle-universidad-catolica-del-ecuador/RNisyUp#id:15502539,tab:statistics",
+            "teams": [
+                "Universidad Católica del Ecuador",
+                "Independiente del Valle"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                21942,
+                39723
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/leones-del-norte-independiente-del-valle/yUpsJofd#id:15502535,tab:statistics",
+            "teams": [
+                "Independiente del Valle",
+                "Leones del Norte"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                39723,
+                388234
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/delfin-independiente-del-valle/yUpsNxKb#id:15502523,tab:statistics",
+            "teams": [
+                "Delfín",
+                "Independiente del Valle"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                213638,
+                39723
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-del-valle-ldu/hfcsyUp#id:15502513,tab:statistics",
+            "teams": [
+                "Independiente del Valle",
+                "LDU"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                39723,
+                5257
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-del-valle-deportivo-cuenca/bfcsyUp#id:15502506,tab:statistics",
+            "teams": [
+                "Deportivo Cuenca",
+                "Independiente del Valle"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                5251,
+                39723
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/orense-sc-independiente-del-valle/yUpsAalc#id:15502501,tab:statistics",
+            "teams": [
+                "Independiente del Valle",
+                "Orense SC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                39723,
+                277525
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-del-valle-tecnico-universitario/QNisyUp#id:15502489,tab:statistics",
+            "teams": [
+                "Técnico Universitario",
+                "Independiente del Valle"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                21941,
+                39723
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/3[H]",
+            "fouls": "17/7[H]",
+            "goalKicks": "11/12[H]",
+            "saves": "2/3[H]",
+            "offsides": "3/3[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "14/22[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Independiente del Valle,Barcelona SC Guayaquil,Home",
+            "tackles": "13/13[H]",
+            "interceptions": "2/13[H]",
+            "aerialDuels": "20/14[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "9/1[H]",
+            "dribblesAttempted": "15/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/11[A]",
+            "fouls": "10/10[A]",
+            "goalKicks": "20/7[A]",
+            "saves": "4/1[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "7/2[A]",
+            "goals": "3/2[A]",
+            "throwIns": "8/20[A]",
+            "averageBallPossession": "38/62[A]",
+            "teams": "Independiente del Valle,Universidad Católica del Ecuador,Away",
+            "tackles": "15/5[A]",
+            "interceptions": "9/3[A]",
+            "aerialDuels": "9/8[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "7/9[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "11/12[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "4/6[H]",
+            "offsides": "1/5[H]",
+            "shotsOnTarget": "8/5[H]",
+            "yellowCards": "1/4[H]",
+            "goals": "2/1[H]",
+            "throwIns": "15/11[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "Independiente del Valle,Leones del Norte,Home",
+            "tackles": "10/8[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "10/7[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "8/1[H]",
+            "dribblesAttempted": "12/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "13/13[A]",
+            "goalKicks": "10/9[A]",
+            "saves": "1/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "1/0[A]",
+            "throwIns": "19/18[A]",
+            "averageBallPossession": "58/42[A]",
+            "teams": "Independiente del Valle,Delfín,Away",
+            "tackles": "14/9[A]",
+            "interceptions": "6/12[A]",
+            "aerialDuels": "17/13[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "2/5[A]",
+            "dribblesAttempted": "6/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "18/1[H]",
+            "fouls": "6/16[H]",
+            "goalKicks": "3/16[H]",
+            "saves": "3/6[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "6/5[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "0/2[H]",
+            "throwIns": "26/11[H]",
+            "averageBallPossession": "70/30[H]",
+            "teams": "Independiente del Valle,LDU,Home",
+            "tackles": "12/13[H]",
+            "interceptions": "7/9[H]",
+            "aerialDuels": "17/17[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "5/4[H]",
+            "dribblesAttempted": "12/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[A]",
+            "fouls": "7/12[A]",
+            "goalKicks": "7/13[A]",
+            "saves": "2/6[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "9/4[A]",
+            "yellowCards": "4/3[A]",
+            "goals": "3/2[A]",
+            "throwIns": "17/14[A]",
+            "averageBallPossession": "57/43[A]",
+            "teams": "Independiente del Valle,Deportivo Cuenca,Away",
+            "tackles": "9/9[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "12/13[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "8/6[A]",
+            "dribblesAttempted": "12/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "2/18[H]",
+            "saves": "1/4[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "6/1[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "2/0[H]",
+            "throwIns": "16/14[H]",
+            "averageBallPossession": "66/34[H]",
+            "teams": "Independiente del Valle,Orense SC,Home",
+            "tackles": "15/17[H]",
+            "interceptions": "6/8[H]",
+            "aerialDuels": "11/8[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "3/8[H]",
+            "dribblesAttempted": "9/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/3[A]",
+            "fouls": "11/18[A]",
+            "goalKicks": "10/11[A]",
+            "saves": "3/3[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "2/1[A]",
+            "throwIns": "18/15[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Independiente del Valle,Técnico Universitario,Away",
+            "tackles": "17/12[A]",
+            "interceptions": "3/4[A]",
+            "aerialDuels": "14/8[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "6/3[A]",
+            "dribblesAttempted": "12/12[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T16:58:36.401Z",
+    "endTime": "2026-05-16T16:59:09.643Z",
+    "totalTimeSeconds": 33.24,
+    "combinedMatchStatistics": {
+        "corners": "6/3[H]+3/11[A]+5/5[H]+3/6[A]+18/1[H]+9/3[A]+7/2[H]+4/3[A]",
+        "fouls": "17/7[H]+10/10[A]+11/12[H]+13/13[A]+6/16[H]+7/12[A]+8/10[H]+11/18[A]",
+        "goalKicks": "11/12[H]+20/7[A]+5/10[H]+10/9[A]+3/16[H]+7/13[A]+2/18[H]+10/11[A]",
+        "saves": "2/3[H]+4/1[A]+4/6[H]+1/1[A]+3/6[H]+2/6[A]+1/4[H]+3/3[A]",
+        "offsides": "3/3[H]+1/0[A]+1/5[H]+2/3[A]+3/0[H]+0/4[A]+0/1[H]+0/3[A]",
+        "shotsOnTarget": "4/2[H]+3/6[A]+8/5[H]+2/1[A]+6/5[H]+9/4[A]+6/1[H]+5/4[A]",
+        "yellowCards": "2/3[H]+7/2[A]+1/4[H]+0/3[A]+2/5[H]+4/3[A]+2/4[H]+2/4[A]",
+        "goals": "1/0[H]+3/2[A]+2/1[H]+1/0[A]+0/2[H]+3/2[A]+2/0[H]+2/1[A]",
+        "throwIns": "14/22[H]+8/20[A]+15/11[H]+19/18[A]+26/11[H]+17/14[A]+16/14[H]+18/15[A]",
+        "averageBallPossession": "56/44[H]+38/62[A]+62/38[H]+58/42[A]+70/30[H]+57/43[A]+66/34[H]+59/41[A]",
+        "teams": "Independiente del Valle,Barcelona SC Guayaquil,Home+Independiente del Valle,Universidad Católica del Ecuador,Away+Independiente del Valle,Leones del Norte,Home+Independiente del Valle,Delfín,Away+Independiente del Valle,LDU,Home+Independiente del Valle,Deportivo Cuenca,Away+Independiente del Valle,Orense SC,Home+Independiente del Valle,Técnico Universitario,Away",
+        "tackles": "13/13[H]+15/5[A]+10/8[H]+14/9[A]+12/13[H]+9/9[A]+15/17[H]+17/12[A]",
+        "interceptions": "2/13[H]+9/3[A]+8/9[H]+6/12[A]+7/9[H]+8/6[A]+6/8[H]+3/4[A]",
+        "aerialDuels": "20/14[H]+9/8[A]+10/7[H]+17/13[A]+17/17[H]+12/13[A]+11/8[H]+14/8[A]",
+        "aerialDuelsAttempted": "34/34[H]+17/17[A]+17/17[H]+30/30[A]+34/34[H]+25/25[A]+19/19[H]+22/22[A]",
+        "dribbles": "9/1[H]+7/9[A]+8/1[H]+2/5[A]+5/4[H]+8/6[A]+3/8[H]+6/3[A]",
+        "dribblesAttempted": "15/9[H]+10/13[A]+12/6[H]+6/13[A]+12/9[H]+12/13[A]+9/15[H]+12/12[A]",
+        "isHome": "true+false+true+false+true+false+true+false",
+        "cornersTotals": "55/34",
+        "cornersTotalsHome": "36/11",
+        "cornersTotalsAway": "19/23",
+        "cornersAverage": "6.88/4.25",
+        "cornersAverageHome": "9.00/2.75",
+        "cornersAverageAway": "4.75/5.75",
+        "foulsTotals": "83/98",
+        "foulsTotalsHome": "42/45",
+        "foulsTotalsAway": "41/53",
+        "foulsAverage": "10.38/12.25",
+        "foulsAverageHome": "10.50/11.25",
+        "foulsAverageAway": "10.25/13.25",
+        "goalKicksTotals": "68/96",
+        "goalKicksTotalsHome": "21/56",
+        "goalKicksTotalsAway": "47/40",
+        "goalKicksAverage": "8.50/12.00",
+        "goalKicksAverageHome": "5.25/14.00",
+        "goalKicksAverageAway": "11.75/10.00",
+        "savesTotals": "20/30",
+        "savesTotalsHome": "10/19",
+        "savesTotalsAway": "10/11",
+        "savesAverage": "2.50/3.75",
+        "savesAverageHome": "2.50/4.75",
+        "savesAverageAway": "2.50/2.75",
+        "offsidesTotals": "10/19",
+        "offsidesTotalsHome": "7/9",
+        "offsidesTotalsAway": "3/10",
+        "offsidesAverage": "1.25/2.38",
+        "offsidesAverageHome": "1.75/2.25",
+        "offsidesAverageAway": "0.75/2.50",
+        "shotsOnTargetTotals": "43/28",
+        "shotsOnTargetTotalsHome": "24/13",
+        "shotsOnTargetTotalsAway": "19/15",
+        "shotsOnTargetAverage": "5.38/3.50",
+        "shotsOnTargetAverageHome": "6.00/3.25",
+        "shotsOnTargetAverageAway": "4.75/3.75",
+        "yellowCardsTotals": "20/28",
+        "yellowCardsTotalsHome": "7/16",
+        "yellowCardsTotalsAway": "13/12",
+        "yellowCardsAverage": "2.50/3.50",
+        "yellowCardsAverageHome": "1.75/4.00",
+        "yellowCardsAverageAway": "3.25/3.00",
+        "goalsTotals": "14/8",
+        "goalsTotalsHome": "5/3",
+        "goalsTotalsAway": "9/5",
+        "goalsAverage": "1.75/1.00",
+        "goalsAverageHome": "1.25/0.75",
+        "goalsAverageAway": "2.25/1.25",
+        "throwInsTotals": "133/125",
+        "throwInsTotalsHome": "71/58",
+        "throwInsTotalsAway": "62/67",
+        "throwInsAverage": "16.63/15.63",
+        "throwInsAverageHome": "17.75/14.50",
+        "throwInsAverageAway": "15.50/16.75",
+        "averageBallPossessionTotals": "466/334",
+        "averageBallPossessionTotalsHome": "254/146",
+        "averageBallPossessionTotalsAway": "212/188",
+        "averageBallPossessionAverage": "58.25/41.75",
+        "averageBallPossessionAverageHome": "63.50/36.50",
+        "averageBallPossessionAverageAway": "53.00/47.00",
+        "tacklesTotals": "105/86",
+        "tacklesTotalsHome": "50/51",
+        "tacklesTotalsAway": "55/35",
+        "tacklesAverage": "13.13/10.75",
+        "tacklesAverageHome": "12.50/12.75",
+        "tacklesAverageAway": "13.75/8.75",
+        "interceptionsTotals": "49/64",
+        "interceptionsTotalsHome": "23/39",
+        "interceptionsTotalsAway": "26/25",
+        "interceptionsAverage": "6.13/8.00",
+        "interceptionsAverageHome": "5.75/9.75",
+        "interceptionsAverageAway": "6.50/6.25",
+        "aerialDuelsTotals": "110/88",
+        "aerialDuelsTotalsHome": "58/46",
+        "aerialDuelsTotalsAway": "52/42",
+        "aerialDuelsAverage": "13.75/11.00",
+        "aerialDuelsAverageHome": "14.50/11.50",
+        "aerialDuelsAverageAway": "13.00/10.50",
+        "aerialDuelsAttemptedTotals": "198/198",
+        "aerialDuelsAttemptedTotalsHome": "104/104",
+        "aerialDuelsAttemptedTotalsAway": "94/94",
+        "aerialDuelsAttemptedAverage": "24.75/24.75",
+        "aerialDuelsAttemptedAverageHome": "26.00/26.00",
+        "aerialDuelsAttemptedAverageAway": "23.50/23.50",
+        "dribblesTotals": "48/37",
+        "dribblesTotalsHome": "25/14",
+        "dribblesTotalsAway": "23/23",
+        "dribblesAverage": "6.00/4.63",
+        "dribblesAverageHome": "6.25/3.50",
+        "dribblesAverageAway": "5.75/5.75",
+        "dribblesAttemptedTotals": "88/90",
+        "dribblesAttemptedTotalsHome": "48/39",
+        "dribblesAttemptedTotalsAway": "40/51",
+        "dribblesAttemptedAverage": "11.00/11.25",
+        "dribblesAttemptedAverageHome": "12.00/9.75",
+        "dribblesAttemptedAverageAway": "10.00/12.75"
+    }
+}

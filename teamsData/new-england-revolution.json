@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.33",
+        "fouls": "11.17",
+        "goalKicks": "6.67",
+        "saves": "4.17",
+        "offsides": "1.42",
+        "shotsOnTarget": "4.00/5.67",
+        "yellowCards": "1.67/2.33",
+        "goals": "1.67/1.33",
+        "throwIns": "14.17",
+        "ballPossession": 48.083333333333,
+        "tackles": "14.08/15.83",
+        "interceptions": "9.08/7.75",
+        "aerialDuels": "9.75",
+        "aerialDuelsAttempted": "20.58",
+        "dribbles": "4.67/6.00",
+        "dribblesAttempted": "13.08/12.33"
+    },
+    "teamSlug": "new-england-revolution",
+    "teamId": "2511",
+    "teamName": "New England Revolution",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nashville-sc-new-england-revolution/labsmcKc#id:15171544,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "Nashville SC"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                2511,
+                337612
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/philadelphia-union-new-england-revolution/labsIWp#id:15171529,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "Philadelphia Union"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2511,
+                39833
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/charlotte-fc-new-england-revolution/labsiHld#id:15171516,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "Charlotte FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2511,
+                404108
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/inter-miami-cf-new-england-revolution/labsccKc#id:15171511,tab:statistics",
+            "teams": [
+                "Inter Miami CF",
+                "New England Revolution"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                337602,
+                2511
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-new-england-revolution/labsloXb#id:15171485,tab:statistics",
+            "teams": [
+                "Atlanta United",
+                "New England Revolution"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                243211,
+                2511
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-england-revolution-columbus-crew/eabslab#id:15171477,tab:statistics",
+            "teams": [
+                "New England Revolution",
+                "Columbus Crew"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2511,
+                2504
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/stlouis-city-new-england-revolution/labsdgnd#id:15137930,tab:statistics",
+            "teams": [
+                "St.Louis City",
+                "New England Revolution"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                407803,
+                2511
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/new-england-revolution-new-york-red-bulls/gabslab#id:15137938,tab:statistics",
+            "teams": [
+                "New York Red Bulls",
+                "New England Revolution"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2506,
+                2511
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/7[H]",
+            "fouls": "8/12[H]",
+            "goalKicks": "4/8[H]",
+            "saves": "1/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "2/3[H]",
+            "goals": "0/3[H]",
+            "throwIns": "15/24[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "New England Revolution,Nashville SC,Home",
+            "tackles": "18/18[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "14/6[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "3/9[H]",
+            "dribblesAttempted": "12/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "8/16[H]",
+            "goalKicks": "9/9[H]",
+            "saves": "1/0[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "2/2[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "16/17[H]",
+            "averageBallPossession": "61/39[H]",
+            "teams": "New England Revolution,Philadelphia Union,Home",
+            "tackles": "12/25[H]",
+            "interceptions": "6/10[H]",
+            "aerialDuels": "8/16[H]",
+            "aerialDuelsAttempted": "24/24[H]",
+            "dribbles": "9/6[H]",
+            "dribblesAttempted": "24/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "3/4[H]",
+            "goals": "1/0[H]",
+            "throwIns": "12/16[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "New England Revolution,Charlotte FC,Home",
+            "tackles": "16/11[H]",
+            "interceptions": "12/10[H]",
+            "aerialDuels": "9/12[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "2/3[H]",
+            "dribblesAttempted": "8/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[A]",
+            "fouls": "7/14[A]",
+            "goalKicks": "11/6[A]",
+            "saves": "9/6[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "7/10[A]",
+            "yellowCards": "0/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "7/20[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "New England Revolution,Inter Miami CF,Away",
+            "tackles": "10/15[A]",
+            "interceptions": "13/3[A]",
+            "aerialDuels": "7/3[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "15/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "10/14[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "8/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "4/9[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "2/1[A]",
+            "throwIns": "15/24[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "New England Revolution,Atlanta United,Away",
+            "tackles": "11/9[A]",
+            "interceptions": "4/8[A]",
+            "aerialDuels": "10/11[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "4/7[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/7[H]",
+            "fouls": "8/12[H]",
+            "goalKicks": "6/5[H]",
+            "saves": "3/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "3/4[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "13/14[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "New England Revolution,Columbus Crew,Home",
+            "tackles": "17/12[H]",
+            "interceptions": "11/8[H]",
+            "aerialDuels": "9/8[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "6/2[H]",
+            "dribblesAttempted": "13/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/6[A]",
+            "fouls": "12/11[A]",
+            "goalKicks": "5/4[A]",
+            "saves": "3/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "1/3[A]",
+            "throwIns": "17/17[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "New England Revolution,St.Louis City,Away",
+            "tackles": "8/19[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "11/14[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "1/4[A]",
+            "dribblesAttempted": "8/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "19/14[A]",
+            "goalKicks": "10/3[A]",
+            "saves": "3/2[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/34[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "New England Revolution,New York Red Bulls,Away",
+            "tackles": "20/13[A]",
+            "interceptions": "8/8[A]",
+            "aerialDuels": "9/10[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "5/15[A]",
+            "dribblesAttempted": "10/21[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T14:00:29.033Z",
+    "endTime": "2026-05-16T14:01:05.329Z",
+    "totalTimeSeconds": 36.3,
+    "combinedMatchStatistics": {
+        "corners": "6/7[H]+9/3[H]+3/5[H]+1/7[A]+3/8[A]+3/7[H]+3/6[A]+6/6[A]",
+        "fouls": "8/12[H]+8/16[H]+10/16[H]+7/14[A]+10/14[A]+8/12[H]+12/11[A]+19/14[A]",
+        "goalKicks": "4/8[H]+9/9[H]+6/8[H]+11/6[A]+10/5[A]+6/5[H]+5/4[A]+10/3[A]",
+        "saves": "1/2[H]+1/0[H]+3/3[H]+9/6[A]+8/2[A]+3/1[H]+3/1[A]+3/2[A]",
+        "offsides": "1/0[H]+2/0[H]+0/0[H]+1/1[A]+1/1[A]+2/1[H]+3/1[A]+2/4[A]",
+        "shotsOnTarget": "2/4[H]+2/2[H]+4/4[H]+7/10[A]+4/9[A]+3/4[H]+2/6[A]+3/4[A]",
+        "yellowCards": "2/3[H]+0/3[H]+3/4[H]+0/3[A]+2/2[A]+1/3[H]+2/3[A]+4/2[A]",
+        "goals": "0/3[H]+2/1[H]+1/0[H]+1/1[A]+2/1[A]+2/1[H]+1/3[A]+0/1[A]",
+        "throwIns": "15/24[H]+16/17[H]+12/16[H]+7/20[A]+15/24[A]+13/14[H]+17/17[A]+21/34[A]",
+        "averageBallPossession": "52/48[H]+61/39[H]+55/45[H]+32/68[A]+52/48[A]+48/52[H]+52/48[A]+35/65[A]",
+        "teams": "New England Revolution,Nashville SC,Home+New England Revolution,Philadelphia Union,Home+New England Revolution,Charlotte FC,Home+New England Revolution,Inter Miami CF,Away+New England Revolution,Atlanta United,Away+New England Revolution,Columbus Crew,Home+New England Revolution,St.Louis City,Away+New England Revolution,New York Red Bulls,Away",
+        "tackles": "18/18[H]+12/25[H]+16/11[H]+10/15[A]+11/9[A]+17/12[H]+8/19[A]+20/13[A]",
+        "interceptions": "7/6[H]+6/10[H]+12/10[H]+13/3[A]+4/8[A]+11/8[H]+9/10[A]+8/8[A]",
+        "aerialDuels": "14/6[H]+8/16[H]+9/12[H]+7/3[A]+10/11[A]+9/8[H]+11/14[A]+9/10[A]",
+        "aerialDuelsAttempted": "20/20[H]+24/24[H]+21/21[H]+10/10[A]+21/21[A]+17/17[H]+25/25[A]+19/19[A]",
+        "dribbles": "3/9[H]+9/6[H]+2/3[H]+6/4[A]+4/7[A]+6/2[H]+1/4[A]+5/15[A]",
+        "dribblesAttempted": "12/17[H]+24/12[H]+8/9[H]+15/12[A]+10/13[A]+13/11[H]+8/7[A]+10/21[A]",
+        "isHome": "true+true+true+false+false+true+false+false",
+        "cornersTotals": "34/49",
+        "cornersTotalsHome": "21/22",
+        "cornersTotalsAway": "13/27",
+        "cornersAverage": "4.25/6.13",
+        "cornersAverageHome": "5.25/5.50",
+        "cornersAverageAway": "3.25/6.75",
+        "foulsTotals": "82/109",
+        "foulsTotalsHome": "34/56",
+        "foulsTotalsAway": "48/53",
+        "foulsAverage": "10.25/13.63",
+        "foulsAverageHome": "8.50/14.00",
+        "foulsAverageAway": "12.00/13.25",
+        "goalKicksTotals": "61/48",
+        "goalKicksTotalsHome": "25/30",
+        "goalKicksTotalsAway": "36/18",
+        "goalKicksAverage": "7.63/6.00",
+        "goalKicksAverageHome": "6.25/7.50",
+        "goalKicksAverageAway": "9.00/4.50",
+        "savesTotals": "31/17",
+        "savesTotalsHome": "8/6",
+        "savesTotalsAway": "23/11",
+        "savesAverage": "3.88/2.13",
+        "savesAverageHome": "2.00/1.50",
+        "savesAverageAway": "5.75/2.75",
+        "offsidesTotals": "12/8",
+        "offsidesTotalsHome": "5/1",
+        "offsidesTotalsAway": "7/7",
+        "offsidesAverage": "1.50/1.00",
+        "offsidesAverageHome": "1.25/0.25",
+        "offsidesAverageAway": "1.75/1.75",
+        "shotsOnTargetTotals": "27/43",
+        "shotsOnTargetTotalsHome": "11/14",
+        "shotsOnTargetTotalsAway": "16/29",
+        "shotsOnTargetAverage": "3.38/5.38",
+        "shotsOnTargetAverageHome": "2.75/3.50",
+        "shotsOnTargetAverageAway": "4.00/7.25",
+        "yellowCardsTotals": "14/23",
+        "yellowCardsTotalsHome": "6/13",
+        "yellowCardsTotalsAway": "8/10",
+        "yellowCardsAverage": "1.75/2.88",
+        "yellowCardsAverageHome": "1.50/3.25",
+        "yellowCardsAverageAway": "2.00/2.50",
+        "goalsTotals": "9/11",
+        "goalsTotalsHome": "5/5",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.13/1.38",
+        "goalsAverageHome": "1.25/1.25",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "116/166",
+        "throwInsTotalsHome": "56/71",
+        "throwInsTotalsAway": "60/95",
+        "throwInsAverage": "14.50/20.75",
+        "throwInsAverageHome": "14.00/17.75",
+        "throwInsAverageAway": "15.00/23.75",
+        "averageBallPossessionTotals": "387/413",
+        "averageBallPossessionTotalsHome": "216/184",
+        "averageBallPossessionTotalsAway": "171/229",
+        "averageBallPossessionAverage": "48.38/51.63",
+        "averageBallPossessionAverageHome": "54.00/46.00",
+        "averageBallPossessionAverageAway": "42.75/57.25",
+        "tacklesTotals": "112/122",
+        "tacklesTotalsHome": "63/66",
+        "tacklesTotalsAway": "49/56",
+        "tacklesAverage": "14.00/15.25",
+        "tacklesAverageHome": "15.75/16.50",
+        "tacklesAverageAway": "12.25/14.00",
+        "interceptionsTotals": "70/63",
+        "interceptionsTotalsHome": "36/34",
+        "interceptionsTotalsAway": "34/29",
+        "interceptionsAverage": "8.75/7.88",
+        "interceptionsAverageHome": "9.00/8.50",
+        "interceptionsAverageAway": "8.50/7.25",
+        "aerialDuelsTotals": "77/80",
+        "aerialDuelsTotalsHome": "40/42",
+        "aerialDuelsTotalsAway": "37/38",
+        "aerialDuelsAverage": "9.63/10.00",
+        "aerialDuelsAverageHome": "10.00/10.50",
+        "aerialDuelsAverageAway": "9.25/9.50",
+        "aerialDuelsAttemptedTotals": "157/157",
+        "aerialDuelsAttemptedTotalsHome": "82/82",
+        "aerialDuelsAttemptedTotalsAway": "75/75",
+        "aerialDuelsAttemptedAverage": "19.63/19.63",
+        "aerialDuelsAttemptedAverageHome": "20.50/20.50",
+        "aerialDuelsAttemptedAverageAway": "18.75/18.75",
+        "dribblesTotals": "36/50",
+        "dribblesTotalsHome": "20/20",
+        "dribblesTotalsAway": "16/30",
+        "dribblesAverage": "4.50/6.25",
+        "dribblesAverageHome": "5.00/5.00",
+        "dribblesAverageAway": "4.00/7.50",
+        "dribblesAttemptedTotals": "100/102",
+        "dribblesAttemptedTotalsHome": "57/49",
+        "dribblesAttemptedTotalsAway": "43/53",
+        "dribblesAttemptedAverage": "12.50/12.75",
+        "dribblesAttemptedAverageHome": "14.25/12.25",
+        "dribblesAttemptedAverageAway": "10.75/13.25"
+    }
+}

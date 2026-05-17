@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "4.71",
+        "fouls": "10.76",
+        "goalKicks": "8.38",
+        "saves": "2.62",
+        "offsides": "1.57",
+        "shotsOnTarget": "4.48/3.38",
+        "yellowCards": "2.38/2.24",
+        "goals": "1.43/0.81",
+        "throwIns": "17.86",
+        "ballPossession": 55.142857142857,
+        "tackles": "12.71/11.10",
+        "interceptions": "6.76/9.48",
+        "aerialDuels": "7.05",
+        "aerialDuelsAttempted": "14.33",
+        "dribbles": "3.52/3.76",
+        "dribblesAttempted": "9.14/10.05"
+    },
+    "teamSlug": "deportes-tolima",
+    "teamId": "6111",
+    "teamName": "Deportes Tolima",
+    "tournament": "Primera A, Apertura",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-pasto-deportes-tolima/lxcsnxc#id:16129179,tab:statistics",
+            "teams": [
+                "Deportivo Pasto",
+                "Deportes Tolima"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                6113,
+                6111
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-pasto-deportes-tolima/lxcsnxc#id:16129181,tab:statistics",
+            "teams": [
+                "Deportes Tolima",
+                "Deportivo Pasto"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6111,
+                6113
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-cali-deportes-tolima/lxcsmxc#id:15367446,tab:statistics",
+            "teams": [
+                "Deportes Tolima",
+                "Deportivo Cali"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6111,
+                6112
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/millonarios-deportes-tolima/lxcsrxc#id:15944386,tab:statistics",
+            "teams": [
+                "Millonarios",
+                "Deportes Tolima"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                6117,
+                6111
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-tolima-deportivo-pereira/jxcslxc#id:15367432,tab:statistics",
+            "teams": [
+                "Deportes Tolima",
+                "Deportivo Pereira"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                6111,
+                6109
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-pasto-deportes-tolima/lxcsnxc#id:15367424,tab:statistics",
+            "teams": [
+                "Deportivo Pasto",
+                "Deportes Tolima"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6113,
+                6111
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/independiente-santa-fe-deportes-tolima/lxcsqxc#id:15647961,tab:statistics",
+            "teams": [
+                "Deportes Tolima",
+                "Independiente Santa Fe"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                6111,
+                6116
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportes-tolima-boyaca-chico-fc/hxcslxc#id:15367399,tab:statistics",
+            "teams": [
+                "Boyacá Chicó FC",
+                "Deportes Tolima"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                6107,
+                6111
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "2/9[A]",
+            "fouls": "10/8[A]",
+            "goalKicks": "10/8[A]",
+            "saves": "1/2[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "4/1[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/0[A]",
+            "throwIns": "16/22[A]",
+            "averageBallPossession": "51/49[A]",
+            "teams": "Deportes Tolima,Deportivo Pasto,Away",
+            "tackles": "12/12[A]",
+            "interceptions": "8/11[A]",
+            "aerialDuels": "4/5[A]",
+            "aerialDuelsAttempted": "9/9[A]",
+            "dribbles": "5/4[A]",
+            "dribblesAttempted": "12/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/6[H]",
+            "fouls": "8/6[H]",
+            "goalKicks": "3/4[H]",
+            "saves": "4/4[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "5/4[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/17[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Deportes Tolima,Deportivo Pasto,Home",
+            "tackles": "22/15[H]",
+            "interceptions": "10/10[H]",
+            "aerialDuels": "6/4[H]",
+            "aerialDuelsAttempted": "10/10[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "12/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "9/11[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "4/3[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "5/3[H]",
+            "goals": "1/1[H]",
+            "throwIns": "18/20[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Deportes Tolima,Deportivo Cali,Home",
+            "tackles": "17/14[H]",
+            "interceptions": "8/8[H]",
+            "aerialDuels": "11/15[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "2/6[H]",
+            "dribblesAttempted": "6/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "10/12[A]",
+            "goalKicks": "4/6[A]",
+            "saves": "4/3[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "3/6[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "0/2[A]",
+            "throwIns": "16/19[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Deportes Tolima,Millonarios,Away",
+            "tackles": "20/13[A]",
+            "interceptions": "8/9[A]",
+            "aerialDuels": "4/4[A]",
+            "aerialDuelsAttempted": "8/8[A]",
+            "dribbles": "4/5[A]",
+            "dribblesAttempted": "10/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "11/6[H]",
+            "goalKicks": "3/13[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "6/2[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "15/9[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Deportes Tolima,Deportivo Pereira,Home",
+            "tackles": "7/7[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "3/1[H]",
+            "aerialDuelsAttempted": "4/4[H]",
+            "dribbles": "1/7[H]",
+            "dribblesAttempted": "5/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/1[A]",
+            "fouls": "17/10[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "1/1[A]",
+            "offsides": "1/10[A]",
+            "shotsOnTarget": "2/1[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "26/21[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Deportes Tolima,Deportivo Pasto,Away",
+            "tackles": "17/3[A]",
+            "interceptions": "6/7[A]",
+            "aerialDuels": "5/7[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "1/4[A]",
+            "dribblesAttempted": "2/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "8/6[H]",
+            "goalKicks": "12/8[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/4[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "18/12[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Deportes Tolima,Independiente Santa Fe,Home",
+            "tackles": "8/7[H]",
+            "interceptions": "4/11[H]",
+            "aerialDuels": "6/7[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "2/2[H]",
+            "dribblesAttempted": "6/6[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/3[A]",
+            "fouls": "6/12[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "1/1[A]",
+            "offsides": "4/4[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "24/21[A]",
+            "averageBallPossession": "60/40[A]",
+            "teams": "Deportes Tolima,Boyacá Chicó FC,Away",
+            "tackles": "13/11[A]",
+            "interceptions": "6/9[A]",
+            "aerialDuels": "7/8[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "11/9[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-16T16:37:07.670Z",
+    "endTime": "2026-05-16T16:37:39.953Z",
+    "totalTimeSeconds": 32.28,
+    "combinedMatchStatistics": {
+        "corners": "2/9[A]+6/6[H]+5/3[H]+2/6[A]+8/3[H]+4/1[A]+5/3[H]+6/3[A]",
+        "fouls": "10/8[A]+8/6[H]+9/11[H]+10/12[A]+11/6[H]+17/10[A]+8/6[H]+6/12[A]",
+        "goalKicks": "10/8[A]+3/4[H]+12/8[H]+4/6[A]+3/13[H]+7/6[A]+12/8[H]+7/8[A]",
+        "saves": "1/2[A]+4/4[H]+4/3[H]+4/3[A]+2/4[H]+1/1[A]+4/2[H]+1/1[A]",
+        "offsides": "2/3[A]+5/1[H]+0/2[H]+1/3[A]+1/3[H]+1/10[A]+1/4[H]+4/4[A]",
+        "shotsOnTarget": "4/1[A]+5/4[H]+4/4[H]+3/6[A]+6/2[H]+2/1[A]+4/6[H]+2/2[A]",
+        "yellowCards": "2/0[A]+0/3[H]+5/3[H]+3/3[A]+0/0[H]+2/1[A]+4/2[H]+3/2[A]",
+        "goals": "2/0[A]+1/0[H]+1/1[H]+0/2[A]+2/0[H]+0/1[A]+2/2[H]+1/1[A]",
+        "throwIns": "16/22[A]+22/17[H]+18/20[H]+16/19[A]+15/9[H]+26/21[A]+18/12[H]+24/21[A]",
+        "averageBallPossession": "51/49[A]+63/37[H]+45/55[H]+59/41[A]+65/35[H]+46/54[A]+64/36[H]+60/40[A]",
+        "teams": "Deportes Tolima,Deportivo Pasto,Away+Deportes Tolima,Deportivo Pasto,Home+Deportes Tolima,Deportivo Cali,Home+Deportes Tolima,Millonarios,Away+Deportes Tolima,Deportivo Pereira,Home+Deportes Tolima,Deportivo Pasto,Away+Deportes Tolima,Independiente Santa Fe,Home+Deportes Tolima,Boyacá Chicó FC,Away",
+        "tackles": "12/12[A]+22/15[H]+17/14[H]+20/13[A]+7/7[H]+17/3[A]+8/7[H]+13/11[A]",
+        "interceptions": "8/11[A]+10/10[H]+8/8[H]+8/9[A]+7/6[H]+6/7[A]+4/11[H]+6/9[A]",
+        "aerialDuels": "4/5[A]+6/4[H]+11/15[H]+4/4[A]+3/1[H]+5/7[A]+6/7[H]+7/8[A]",
+        "aerialDuelsAttempted": "9/9[A]+10/10[H]+26/26[H]+8/8[A]+4/4[H]+12/12[A]+13/13[H]+15/15[A]",
+        "dribbles": "5/4[A]+5/6[H]+2/6[H]+4/5[A]+1/7[H]+1/4[A]+2/2[H]+6/4[A]",
+        "dribblesAttempted": "12/12[A]+12/10[H]+6/19[H]+10/16[A]+5/13[H]+2/13[A]+6/6[H]+11/9[A]",
+        "isHome": "false+true+true+false+true+false+true+false",
+        "cornersTotals": "38/34",
+        "cornersTotalsHome": "24/15",
+        "cornersTotalsAway": "14/19",
+        "cornersAverage": "4.75/4.25",
+        "cornersAverageHome": "6.00/3.75",
+        "cornersAverageAway": "3.50/4.75",
+        "foulsTotals": "79/71",
+        "foulsTotalsHome": "36/29",
+        "foulsTotalsAway": "43/42",
+        "foulsAverage": "9.88/8.88",
+        "foulsAverageHome": "9.00/7.25",
+        "foulsAverageAway": "10.75/10.50",
+        "goalKicksTotals": "58/61",
+        "goalKicksTotalsHome": "30/33",
+        "goalKicksTotalsAway": "28/28",
+        "goalKicksAverage": "7.25/7.63",
+        "goalKicksAverageHome": "7.50/8.25",
+        "goalKicksAverageAway": "7.00/7.00",
+        "savesTotals": "21/20",
+        "savesTotalsHome": "14/13",
+        "savesTotalsAway": "7/7",
+        "savesAverage": "2.63/2.50",
+        "savesAverageHome": "3.50/3.25",
+        "savesAverageAway": "1.75/1.75",
+        "offsidesTotals": "15/30",
+        "offsidesTotalsHome": "7/10",
+        "offsidesTotalsAway": "8/20",
+        "offsidesAverage": "1.88/3.75",
+        "offsidesAverageHome": "1.75/2.50",
+        "offsidesAverageAway": "2.00/5.00",
+        "shotsOnTargetTotals": "30/26",
+        "shotsOnTargetTotalsHome": "19/16",
+        "shotsOnTargetTotalsAway": "11/10",
+        "shotsOnTargetAverage": "3.75/3.25",
+        "shotsOnTargetAverageHome": "4.75/4.00",
+        "shotsOnTargetAverageAway": "2.75/2.50",
+        "yellowCardsTotals": "19/14",
+        "yellowCardsTotalsHome": "9/8",
+        "yellowCardsTotalsAway": "10/6",
+        "yellowCardsAverage": "2.38/1.75",
+        "yellowCardsAverageHome": "2.25/2.00",
+        "yellowCardsAverageAway": "2.50/1.50",
+        "goalsTotals": "9/7",
+        "goalsTotalsHome": "6/3",
+        "goalsTotalsAway": "3/4",
+        "goalsAverage": "1.13/0.88",
+        "goalsAverageHome": "1.50/0.75",
+        "goalsAverageAway": "0.75/1.00",
+        "throwInsTotals": "155/141",
+        "throwInsTotalsHome": "73/58",
+        "throwInsTotalsAway": "82/83",
+        "throwInsAverage": "19.38/17.63",
+        "throwInsAverageHome": "18.25/14.50",
+        "throwInsAverageAway": "20.50/20.75",
+        "averageBallPossessionTotals": "453/347",
+        "averageBallPossessionTotalsHome": "237/163",
+        "averageBallPossessionTotalsAway": "216/184",
+        "averageBallPossessionAverage": "56.63/43.38",
+        "averageBallPossessionAverageHome": "59.25/40.75",
+        "averageBallPossessionAverageAway": "54.00/46.00",
+        "tacklesTotals": "116/82",
+        "tacklesTotalsHome": "54/43",
+        "tacklesTotalsAway": "62/39",
+        "tacklesAverage": "14.50/10.25",
+        "tacklesAverageHome": "13.50/10.75",
+        "tacklesAverageAway": "15.50/9.75",
+        "interceptionsTotals": "57/71",
+        "interceptionsTotalsHome": "29/35",
+        "interceptionsTotalsAway": "28/36",
+        "interceptionsAverage": "7.13/8.88",
+        "interceptionsAverageHome": "7.25/8.75",
+        "interceptionsAverageAway": "7.00/9.00",
+        "aerialDuelsTotals": "46/51",
+        "aerialDuelsTotalsHome": "26/27",
+        "aerialDuelsTotalsAway": "20/24",
+        "aerialDuelsAverage": "5.75/6.38",
+        "aerialDuelsAverageHome": "6.50/6.75",
+        "aerialDuelsAverageAway": "5.00/6.00",
+        "aerialDuelsAttemptedTotals": "97/97",
+        "aerialDuelsAttemptedTotalsHome": "53/53",
+        "aerialDuelsAttemptedTotalsAway": "44/44",
+        "aerialDuelsAttemptedAverage": "12.13/12.13",
+        "aerialDuelsAttemptedAverageHome": "13.25/13.25",
+        "aerialDuelsAttemptedAverageAway": "11.00/11.00",
+        "dribblesTotals": "26/38",
+        "dribblesTotalsHome": "10/21",
+        "dribblesTotalsAway": "16/17",
+        "dribblesAverage": "3.25/4.75",
+        "dribblesAverageHome": "2.50/5.25",
+        "dribblesAverageAway": "4.00/4.25",
+        "dribblesAttemptedTotals": "64/98",
+        "dribblesAttemptedTotalsHome": "29/48",
+        "dribblesAttemptedTotalsAway": "35/50",
+        "dribblesAttemptedAverage": "8.00/12.25",
+        "dribblesAttemptedAverageHome": "7.25/12.00",
+        "dribblesAttemptedAverageAway": "8.75/12.50"
+    }
+}

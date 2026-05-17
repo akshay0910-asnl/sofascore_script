@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "5.08",
+        "fouls": "12.17",
+        "goalKicks": "8.00",
+        "saves": "2.50",
+        "offsides": "2.33",
+        "shotsOnTarget": "4.08/4.25",
+        "yellowCards": "2.33/1.25",
+        "goals": "1.08/1.67",
+        "throwIns": "20.42",
+        "ballPossession": 53.833333333333,
+        "tackles": "16.25/14.42",
+        "interceptions": "9.67/9.17",
+        "aerialDuels": "12.00",
+        "aerialDuelsAttempted": "23.92",
+        "dribbles": "5.50/6.25",
+        "dribblesAttempted": "11.92/15.08"
+    },
+    "teamSlug": "atlanta-united",
+    "teamId": "243211",
+    "teamName": "Atlanta United",
+    "tournament": "MLS",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-la-galaxy/nabsloXb#id:15171530,tab:statistics",
+            "teams": [
+                "Atlanta United",
+                "LA Galaxy"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                243211,
+                2513
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-cf-montreal/gPisloXb#id:15171509,tab:statistics",
+            "teams": [
+                "Atlanta United",
+                "CF Montréal"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                243211,
+                22006
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-toronto-fc/FQcsloXb#id:15171493,tab:statistics",
+            "teams": [
+                "Toronto FC",
+                "Atlanta United"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                7080,
+                243211
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-new-england-revolution/labsloXb#id:15171485,tab:statistics",
+            "teams": [
+                "Atlanta United",
+                "New England Revolution"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                243211,
+                2511
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nashville-sc-atlanta-united/loXbsmcKc#id:15171472,tab:statistics",
+            "teams": [
+                "Atlanta United",
+                "Nashville SC"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                243211,
+                337612
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-chicago-fire/fabsloXb#id:15171443,tab:statistics",
+            "teams": [
+                "Chicago Fire",
+                "Atlanta United"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2505,
+                243211
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-san-jose-earthquakes/ALisloXb#id:15137940,tab:statistics",
+            "teams": [
+                "San Jose Earthquakes",
+                "Atlanta United"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                21825,
+                243211
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atlanta-united-fc-cincinnati/rdLbsloXb#id:15289381,tab:statistics",
+            "teams": [
+                "FC Cincinnati",
+                "Atlanta United"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                215167,
+                243211
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/5[H]",
+            "fouls": "7/5[H]",
+            "goalKicks": "4/12[H]",
+            "saves": "4/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "17/21[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Atlanta United,LA Galaxy,Home",
+            "tackles": "21/8[H]",
+            "interceptions": "8/9[H]",
+            "aerialDuels": "12/6[H]",
+            "aerialDuelsAttempted": "18/18[H]",
+            "dribbles": "6/9[H]",
+            "dribblesAttempted": "9/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "14/9[H]",
+            "goalKicks": "16/6[H]",
+            "saves": "4/2[H]",
+            "offsides": "2/8[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "3/1[H]",
+            "throwIns": "17/22[H]",
+            "averageBallPossession": "53/47[H]",
+            "teams": "Atlanta United,CF Montréal,Home",
+            "tackles": "19/17[H]",
+            "interceptions": "3/9[H]",
+            "aerialDuels": "11/15[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "9/11[H]",
+            "dribblesAttempted": "18/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/8[A]",
+            "fouls": "15/10[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "1/0[A]",
+            "offsides": "4/2[A]",
+            "shotsOnTarget": "2/2[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "2/1[A]",
+            "throwIns": "25/15[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Atlanta United,Toronto FC,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "11/11[A]",
+            "aerialDuels": "16/13[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "5/10[A]",
+            "dribblesAttempted": "14/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/3[H]",
+            "fouls": "14/10[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/8[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "9/4[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "24/15[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Atlanta United,New England Revolution,Home",
+            "tackles": "9/11[H]",
+            "interceptions": "8/4[H]",
+            "aerialDuels": "11/10[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "7/4[H]",
+            "dribblesAttempted": "13/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/7[H]",
+            "fouls": "11/6[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "6/4[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/8[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "0/2[H]",
+            "throwIns": "23/16[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Atlanta United,Nashville SC,Home",
+            "tackles": "12/18[H]",
+            "interceptions": "14/3[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "5/6[H]",
+            "dribblesAttempted": "11/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/6[A]",
+            "fouls": "5/12[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "2/5[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "6/3[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "15/16[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Atlanta United,Chicago Fire,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "13/5[A]",
+            "aerialDuels": "12/12[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "10/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "19/9[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "3/1[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "1/5[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "20/21[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Atlanta United,San Jose Earthquakes,Away",
+            "tackles": "16/12[A]",
+            "interceptions": "5/8[A]",
+            "aerialDuels": "11/8[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "4/2[A]",
+            "dribblesAttempted": "9/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "18/10[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "0/3[A]",
+            "offsides": "7/5[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/16[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Atlanta United,FC Cincinnati,Away",
+            "tackles": "21/16[A]",
+            "interceptions": "14/10[A]",
+            "aerialDuels": "15/16[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "6/13[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-05-16T14:03:58.203Z",
+    "endTime": "2026-05-16T14:04:44.316Z",
+    "totalTimeSeconds": 46.11,
+    "combinedMatchStatistics": {
+        "corners": "6/5[H]+3/2[H]+7/8[A]+8/3[H]+5/7[H]+11/6[A]+4/7[A]+2/5[A]",
+        "fouls": "7/5[H]+14/9[H]+15/10[A]+14/10[H]+11/6[H]+5/12[A]+19/9[A]+18/10[A]",
+        "goalKicks": "4/12[H]+16/6[H]+6/5[A]+5/10[H]+9/6[H]+9/8[A]+9/8[A]+8/5[A]",
+        "saves": "4/2[H]+4/2[H]+1/0[A]+2/8[H]+6/4[H]+2/5[A]+3/1[A]+0/3[A]",
+        "offsides": "2/3[H]+2/8[H]+4/2[A]+1/1[H]+2/2[H]+2/2[A]+2/4[A]+7/5[A]",
+        "shotsOnTarget": "3/6[H]+5/5[H]+2/2[A]+9/4[H]+4/8[H]+6/3[A]+1/5[A]+3/3[A]",
+        "yellowCards": "3/1[H]+4/3[H]+2/0[A]+2/2[H]+2/0[H]+1/2[A]+3/1[A]+2/1[A]",
+        "goals": "1/2[H]+3/1[H]+2/1[A]+1/2[H]+0/2[H]+0/1[A]+0/2[A]+0/2[A]",
+        "throwIns": "17/21[H]+17/22[H]+25/15[A]+24/15[H]+23/16[H]+15/16[A]+20/21[A]+21/16[A]",
+        "averageBallPossession": "53/47[H]+53/47[H]+49/51[A]+48/52[H]+55/45[H]+55/45[A]+54/46[A]+46/54[A]",
+        "teams": "Atlanta United,LA Galaxy,Home+Atlanta United,CF Montréal,Home+Atlanta United,Toronto FC,Away+Atlanta United,New England Revolution,Home+Atlanta United,Nashville SC,Home+Atlanta United,Chicago Fire,Away+Atlanta United,San Jose Earthquakes,Away+Atlanta United,FC Cincinnati,Away",
+        "tackles": "21/8[H]+19/17[H]+12/15[A]+9/11[H]+12/18[H]+15/12[A]+16/12[A]+21/16[A]",
+        "interceptions": "8/9[H]+3/9[H]+11/11[A]+8/4[H]+14/3[H]+13/5[A]+5/8[A]+14/10[A]",
+        "aerialDuels": "12/6[H]+11/15[H]+16/13[A]+11/10[H]+9/10[H]+12/12[A]+11/8[A]+15/16[A]",
+        "aerialDuelsAttempted": "18/18[H]+26/26[H]+29/29[A]+21/21[H]+19/19[H]+24/24[A]+19/19[A]+31/31[A]",
+        "dribbles": "6/9[H]+9/11[H]+5/10[A]+7/4[H]+5/6[H]+5/7[A]+4/2[A]+6/13[A]",
+        "dribblesAttempted": "9/21[H]+18/23[H]+14/16[A]+13/10[H]+11/13[H]+10/18[A]+9/13[A]+14/20[A]",
+        "isHome": "true+true+false+true+true+false+false+false",
+        "cornersTotals": "46/43",
+        "cornersTotalsHome": "22/17",
+        "cornersTotalsAway": "24/26",
+        "cornersAverage": "5.75/5.38",
+        "cornersAverageHome": "5.50/4.25",
+        "cornersAverageAway": "6.00/6.50",
+        "foulsTotals": "103/71",
+        "foulsTotalsHome": "46/30",
+        "foulsTotalsAway": "57/41",
+        "foulsAverage": "12.88/8.88",
+        "foulsAverageHome": "11.50/7.50",
+        "foulsAverageAway": "14.25/10.25",
+        "goalKicksTotals": "66/60",
+        "goalKicksTotalsHome": "34/34",
+        "goalKicksTotalsAway": "32/26",
+        "goalKicksAverage": "8.25/7.50",
+        "goalKicksAverageHome": "8.50/8.50",
+        "goalKicksAverageAway": "8.00/6.50",
+        "savesTotals": "22/25",
+        "savesTotalsHome": "16/16",
+        "savesTotalsAway": "6/9",
+        "savesAverage": "2.75/3.13",
+        "savesAverageHome": "4.00/4.00",
+        "savesAverageAway": "1.50/2.25",
+        "offsidesTotals": "22/27",
+        "offsidesTotalsHome": "7/14",
+        "offsidesTotalsAway": "15/13",
+        "offsidesAverage": "2.75/3.38",
+        "offsidesAverageHome": "1.75/3.50",
+        "offsidesAverageAway": "3.75/3.25",
+        "shotsOnTargetTotals": "33/36",
+        "shotsOnTargetTotalsHome": "21/23",
+        "shotsOnTargetTotalsAway": "12/13",
+        "shotsOnTargetAverage": "4.13/4.50",
+        "shotsOnTargetAverageHome": "5.25/5.75",
+        "shotsOnTargetAverageAway": "3.00/3.25",
+        "yellowCardsTotals": "19/10",
+        "yellowCardsTotalsHome": "11/6",
+        "yellowCardsTotalsAway": "8/4",
+        "yellowCardsAverage": "2.38/1.25",
+        "yellowCardsAverageHome": "2.75/1.50",
+        "yellowCardsAverageAway": "2.00/1.00",
+        "goalsTotals": "7/13",
+        "goalsTotalsHome": "5/7",
+        "goalsTotalsAway": "2/6",
+        "goalsAverage": "0.88/1.63",
+        "goalsAverageHome": "1.25/1.75",
+        "goalsAverageAway": "0.50/1.50",
+        "throwInsTotals": "162/142",
+        "throwInsTotalsHome": "81/74",
+        "throwInsTotalsAway": "81/68",
+        "throwInsAverage": "20.25/17.75",
+        "throwInsAverageHome": "20.25/18.50",
+        "throwInsAverageAway": "20.25/17.00",
+        "averageBallPossessionTotals": "413/387",
+        "averageBallPossessionTotalsHome": "209/191",
+        "averageBallPossessionTotalsAway": "204/196",
+        "averageBallPossessionAverage": "51.63/48.38",
+        "averageBallPossessionAverageHome": "52.25/47.75",
+        "averageBallPossessionAverageAway": "51.00/49.00",
+        "tacklesTotals": "125/109",
+        "tacklesTotalsHome": "61/54",
+        "tacklesTotalsAway": "64/55",
+        "tacklesAverage": "15.63/13.63",
+        "tacklesAverageHome": "15.25/13.50",
+        "tacklesAverageAway": "16.00/13.75",
+        "interceptionsTotals": "76/59",
+        "interceptionsTotalsHome": "33/25",
+        "interceptionsTotalsAway": "43/34",
+        "interceptionsAverage": "9.50/7.38",
+        "interceptionsAverageHome": "8.25/6.25",
+        "interceptionsAverageAway": "10.75/8.50",
+        "aerialDuelsTotals": "97/90",
+        "aerialDuelsTotalsHome": "43/41",
+        "aerialDuelsTotalsAway": "54/49",
+        "aerialDuelsAverage": "12.13/11.25",
+        "aerialDuelsAverageHome": "10.75/10.25",
+        "aerialDuelsAverageAway": "13.50/12.25",
+        "aerialDuelsAttemptedTotals": "187/187",
+        "aerialDuelsAttemptedTotalsHome": "84/84",
+        "aerialDuelsAttemptedTotalsAway": "103/103",
+        "aerialDuelsAttemptedAverage": "23.38/23.38",
+        "aerialDuelsAttemptedAverageHome": "21.00/21.00",
+        "aerialDuelsAttemptedAverageAway": "25.75/25.75",
+        "dribblesTotals": "47/62",
+        "dribblesTotalsHome": "27/30",
+        "dribblesTotalsAway": "20/32",
+        "dribblesAverage": "5.88/7.75",
+        "dribblesAverageHome": "6.75/7.50",
+        "dribblesAverageAway": "5.00/8.00",
+        "dribblesAttemptedTotals": "98/134",
+        "dribblesAttemptedTotalsHome": "51/67",
+        "dribblesAttemptedTotalsAway": "47/67",
+        "dribblesAttemptedAverage": "12.25/16.75",
+        "dribblesAttemptedAverageHome": "12.75/16.75",
+        "dribblesAttemptedAverageAway": "11.75/16.75"
+    }
+}
