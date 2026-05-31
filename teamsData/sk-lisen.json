@@ -1,0 +1,420 @@
+{
+    "globalStatistics": {
+        "corners": "5.90",
+        "fouls": "12.10",
+        "goalKicks": "6.10",
+        "saves": "3.33",
+        "offsides": "1.80",
+        "shotsOnTarget": "NaN/NaN",
+        "yellowCards": "2.10/NaN",
+        "goals": "1.67/1.17",
+        "throwIns": "NaN",
+        "ballPossession": 49.4,
+        "tackles": "NaN/NaN",
+        "interceptions": "35.43/NaN",
+        "aerialDuels": "18.50",
+        "aerialDuelsAttempted": "38.93",
+        "dribbles": "15.90/NaN",
+        "dribblesAttempted": "21.50/NaN"
+    },
+    "teamSlug": "sk-lisen",
+    "teamId": "35264",
+    "teamName": "SK Artis Brno",
+    "tournament": "FNL",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/mfk-chrudim-sk-artis-brno/ofosQJo#id:14028861,tab:statistics",
+            "teams": [
+                "MFK Chrudim",
+                "SK Artis Brno"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                36741,
+                35264
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-artis-brno-fk-viktoria-zizkov/lUsofo#id:14028843,tab:statistics",
+            "teams": [
+                "SK Artis Brno",
+                "FK Viktoria Žižkov"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                35264,
+                2211
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-artis-brno-slezsky-fc-opava/pUsofo#id:14028835,tab:statistics",
+            "teams": [
+                "Slezský FC Opava",
+                "SK Artis Brno"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                2215,
+                35264
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-artis-brno-1fk-pribram/nUsofo#id:14203072,tab:statistics",
+            "teams": [
+                "SK Artis Brno",
+                "1.FK Příbram"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                35264,
+                2213
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/1-sk-prostejov-sk-artis-brno/ofosAKF#id:14028806,tab:statistics",
+            "teams": [
+                "1. SK Prostějov",
+                "SK Artis Brno"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                76775,
+                35264
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-artis-brno-sk-dynamo-ceske-budejovice/wUsofo#id:14028801,tab:statistics",
+            "teams": [
+                "SK Artis Brno",
+                "SK Dynamo České Budějovice"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                35264,
+                2221
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-artis-brno-fc-silon-taborsko/HVjsofo#id:14028855,tab:statistics",
+            "teams": [
+                "SK Artis Brno",
+                "FC Silon Táborsko"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                35264,
+                24782
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sk-artis-brno-sparta-prahau21/qXbsofo#id:14028819,tab:statistics",
+            "teams": [
+                "Sparta Praha B U21",
+                "SK Artis Brno"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                4866,
+                35264
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "6/3[A]",
+            "fouls": "12/9[A]",
+            "goalKicks": "12/9[A]",
+            "saves": "4/7[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "15/16[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "SK Artis Brno,MFK Chrudim,Away",
+            "tackles": "1/0[A]",
+            "interceptions": "12/17[A]",
+            "aerialDuels": "10/8[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "22/10[A]",
+            "dribblesAttempted": "25/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/2[H]",
+            "fouls": "21/13[H]",
+            "goalKicks": "2/8[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "5/1[H]",
+            "throwIns": "18/16[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "SK Artis Brno,FK Viktoria Žižkov,Home",
+            "tackles": "2/6[H]",
+            "interceptions": "21/12[H]",
+            "aerialDuels": "15/11[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "19/6[H]",
+            "dribblesAttempted": "26/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/2[A]",
+            "fouls": "17/16[A]",
+            "goalKicks": "18/11[A]",
+            "saves": "6/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "4/6[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "21/30[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "SK Artis Brno,Slezský FC Opava,Away",
+            "tackles": "1/3[A]",
+            "interceptions": "16/14[A]",
+            "aerialDuels": "27/19[A]",
+            "aerialDuelsAttempted": "49/49[A]",
+            "dribbles": "9/22[A]",
+            "dribblesAttempted": "16/28[A]",
+            "isHome": false
+        },
+        null,
+        {
+            "corners": "6/4[A]",
+            "fouls": "17/13[A]",
+            "goalKicks": "4/13[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "2/0[A]",
+            "goals": "1/1[A]",
+            "throwIns": "27/21[A]",
+            "averageBallPossession": "63/37[A]",
+            "teams": "SK Artis Brno,1. SK Prostějov,Away",
+            "tackles": "0/2[A]",
+            "interceptions": "9/16[A]",
+            "aerialDuels": "21/20[A]",
+            "aerialDuelsAttempted": "47/46[A]",
+            "dribbles": "21/5[A]",
+            "dribblesAttempted": "30/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/5[H]",
+            "fouls": "11/6[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "1/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/14[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "SK Artis Brno,SK Dynamo České Budějovice,Home",
+            "tackles": "1/1[H]",
+            "interceptions": "13/8[H]",
+            "aerialDuels": "16/15[H]",
+            "aerialDuelsAttempted": "28/31[H]",
+            "dribbles": "16/11[H]",
+            "dribblesAttempted": "17/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/3[H]",
+            "fouls": "16/13[H]",
+            "goalKicks": "11/9[H]",
+            "saves": "5/2[H]",
+            "offsides": "4/2[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/1[H]",
+            "throwIns": "17/25[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "SK Artis Brno,FC Silon Táborsko,Home",
+            "tackles": "2/2[H]",
+            "interceptions": "10/15[H]",
+            "aerialDuels": "20/15[H]",
+            "aerialDuelsAttempted": "35/36[H]",
+            "dribbles": "13/8[H]",
+            "dribblesAttempted": "13/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/7[A]",
+            "fouls": "13/10[A]",
+            "goalKicks": "10/12[A]",
+            "saves": "5/5[A]",
+            "offsides": "3/2[A]",
+            "shotsOnTarget": "7/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "16/26[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "SK Artis Brno,Sparta Praha B U21,Away",
+            "tackles": "1/1[A]",
+            "interceptions": "12/17[A]",
+            "aerialDuels": "19/19[A]",
+            "aerialDuelsAttempted": "47/44[A]",
+            "dribbles": "12/19[A]",
+            "dribblesAttempted": "15/28[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 6,
+    "startTime": "2026-05-31T08:35:29.389Z",
+    "endTime": "2026-05-31T08:36:06.253Z",
+    "totalTimeSeconds": 36.86,
+    "combinedMatchStatistics": {
+        "corners": "6/3[A]+10/2[H]+5/2[A]+6/4[A]+13/5[H]+7/3[H]+7/7[A]",
+        "fouls": "12/9[A]+21/13[H]+17/16[A]+17/13[A]+11/6[H]+16/13[H]+13/10[A]",
+        "goalKicks": "12/9[A]+2/8[H]+18/11[A]+4/13[A]+6/13[H]+11/9[H]+10/12[A]",
+        "saves": "4/7[A]+3/2[H]+6/2[A]+5/2[A]+1/1[H]+5/2[H]+5/5[A]",
+        "offsides": "2/1[A]+1/2[H]+0/0[A]+1/1[A]+1/1[H]+4/2[H]+3/2[A]",
+        "shotsOnTarget": "8/6[A]+7/3[H]+4/6[A]+3/4[A]+3/2[H]+3/6[H]+7/5[A]",
+        "yellowCards": "2/2[A]+2/1[H]+4/4[A]+2/0[A]+2/0[H]+1/1[H]+3/2[A]",
+        "goals": "1/2[A]+5/1[H]+2/0[A]+1/1[A]+2/1[H]+1/1[H]+3/1[A]",
+        "throwIns": "15/16[A]+18/16[H]+21/30[A]+27/21[A]+19/14[H]+17/25[H]+16/26[A]",
+        "averageBallPossession": "47/53[A]+48/52[H]+39/61[A]+63/37[A]+49/51[H]+56/44[H]+43/57[A]",
+        "teams": "SK Artis Brno,MFK Chrudim,Away+SK Artis Brno,FK Viktoria Žižkov,Home+SK Artis Brno,Slezský FC Opava,Away+SK Artis Brno,1. SK Prostějov,Away+SK Artis Brno,SK Dynamo České Budějovice,Home+SK Artis Brno,FC Silon Táborsko,Home+SK Artis Brno,Sparta Praha B U21,Away",
+        "tackles": "1/0[A]+2/6[H]+1/3[A]+0/2[A]+1/1[H]+2/2[H]+1/1[A]",
+        "interceptions": "12/17[A]+21/12[H]+16/14[A]+9/16[A]+13/8[H]+10/15[H]+12/17[A]",
+        "aerialDuels": "10/8[A]+15/11[H]+27/19[A]+21/20[A]+16/15[H]+20/15[H]+19/19[A]",
+        "aerialDuelsAttempted": "18/18[A]+27/27[H]+49/49[A]+47/46[A]+28/31[H]+35/36[H]+47/44[A]",
+        "dribbles": "22/10[A]+19/6[H]+9/22[A]+21/5[A]+16/11[H]+13/8[H]+12/19[A]",
+        "dribblesAttempted": "25/14[A]+26/11[H]+16/28[A]+30/12[A]+17/13[H]+13/13[H]+15/28[A]",
+        "isHome": "false+true+false+false+true+true+false",
+        "cornersTotals": "54/26",
+        "cornersTotalsHome": "30/10",
+        "cornersTotalsAway": "24/16",
+        "cornersAverage": "7.71/3.71",
+        "cornersAverageHome": "10.00/3.33",
+        "cornersAverageAway": "6.00/4.00",
+        "foulsTotals": "107/80",
+        "foulsTotalsHome": "48/32",
+        "foulsTotalsAway": "59/48",
+        "foulsAverage": "15.29/11.43",
+        "foulsAverageHome": "16.00/10.67",
+        "foulsAverageAway": "14.75/12.00",
+        "goalKicksTotals": "63/75",
+        "goalKicksTotalsHome": "19/30",
+        "goalKicksTotalsAway": "44/45",
+        "goalKicksAverage": "9.00/10.71",
+        "goalKicksAverageHome": "6.33/10.00",
+        "goalKicksAverageAway": "11.00/11.25",
+        "savesTotals": "29/21",
+        "savesTotalsHome": "9/5",
+        "savesTotalsAway": "20/16",
+        "savesAverage": "4.14/3.00",
+        "savesAverageHome": "3.00/1.67",
+        "savesAverageAway": "5.00/4.00",
+        "offsidesTotals": "12/9",
+        "offsidesTotalsHome": "6/5",
+        "offsidesTotalsAway": "6/4",
+        "offsidesAverage": "1.71/1.29",
+        "offsidesAverageHome": "2.00/1.67",
+        "offsidesAverageAway": "1.50/1.00",
+        "shotsOnTargetTotals": "35/32",
+        "shotsOnTargetTotalsHome": "13/11",
+        "shotsOnTargetTotalsAway": "22/21",
+        "shotsOnTargetAverage": "5.00/4.57",
+        "shotsOnTargetAverageHome": "4.33/3.67",
+        "shotsOnTargetAverageAway": "5.50/5.25",
+        "yellowCardsTotals": "16/10",
+        "yellowCardsTotalsHome": "5/2",
+        "yellowCardsTotalsAway": "11/8",
+        "yellowCardsAverage": "2.29/1.43",
+        "yellowCardsAverageHome": "1.67/0.67",
+        "yellowCardsAverageAway": "2.75/2.00",
+        "goalsTotals": "15/7",
+        "goalsTotalsHome": "8/3",
+        "goalsTotalsAway": "7/4",
+        "goalsAverage": "2.14/1.00",
+        "goalsAverageHome": "2.67/1.00",
+        "goalsAverageAway": "1.75/1.00",
+        "throwInsTotals": "133/148",
+        "throwInsTotalsHome": "54/55",
+        "throwInsTotalsAway": "79/93",
+        "throwInsAverage": "19.00/21.14",
+        "throwInsAverageHome": "18.00/18.33",
+        "throwInsAverageAway": "19.75/23.25",
+        "averageBallPossessionTotals": "345/355",
+        "averageBallPossessionTotalsHome": "153/147",
+        "averageBallPossessionTotalsAway": "192/208",
+        "averageBallPossessionAverage": "49.29/50.71",
+        "averageBallPossessionAverageHome": "51.00/49.00",
+        "averageBallPossessionAverageAway": "48.00/52.00",
+        "tacklesTotals": "8/15",
+        "tacklesTotalsHome": "5/9",
+        "tacklesTotalsAway": "3/6",
+        "tacklesAverage": "1.14/2.14",
+        "tacklesAverageHome": "1.67/3.00",
+        "tacklesAverageAway": "0.75/1.50",
+        "interceptionsTotals": "93/99",
+        "interceptionsTotalsHome": "44/35",
+        "interceptionsTotalsAway": "49/64",
+        "interceptionsAverage": "13.29/14.14",
+        "interceptionsAverageHome": "14.67/11.67",
+        "interceptionsAverageAway": "12.25/16.00",
+        "aerialDuelsTotals": "128/107",
+        "aerialDuelsTotalsHome": "51/41",
+        "aerialDuelsTotalsAway": "77/66",
+        "aerialDuelsAverage": "18.29/15.29",
+        "aerialDuelsAverageHome": "17.00/13.67",
+        "aerialDuelsAverageAway": "19.25/16.50",
+        "aerialDuelsAttemptedTotals": "251/251",
+        "aerialDuelsAttemptedTotalsHome": "90/94",
+        "aerialDuelsAttemptedTotalsAway": "161/157",
+        "aerialDuelsAttemptedAverage": "35.86/35.86",
+        "aerialDuelsAttemptedAverageHome": "30.00/31.33",
+        "aerialDuelsAttemptedAverageAway": "40.25/39.25",
+        "dribblesTotals": "112/81",
+        "dribblesTotalsHome": "48/25",
+        "dribblesTotalsAway": "64/56",
+        "dribblesAverage": "16.00/11.57",
+        "dribblesAverageHome": "16.00/8.33",
+        "dribblesAverageAway": "16.00/14.00",
+        "dribblesAttemptedTotals": "142/119",
+        "dribblesAttemptedTotalsHome": "56/37",
+        "dribblesAttemptedTotalsAway": "86/82",
+        "dribblesAttemptedAverage": "20.29/17.00",
+        "dribblesAttemptedAverageHome": "18.67/12.33",
+        "dribblesAttemptedAverageAway": "21.50/20.50"
+    }
+}
