@@ -1,27 +1,123 @@
 {
     "globalStatistics": {
-        "corners": "4.03",
+        "corners": "7.25",
         "fouls": "12.25",
-        "goalKicks": "7.89",
-        "saves": "2.64",
-        "offsides": "1.89",
-        "shotsOnTarget": "4.50/3.78",
-        "yellowCards": "2.14/2.08",
-        "goals": "1.86/1.19",
-        "throwIns": "18.11",
-        "ballPossession": 44.361111111111,
-        "tackles": "17.39/17.14",
-        "interceptions": "8.81/8.17",
-        "aerialDuels": "10.03",
-        "aerialDuelsAttempted": "20.94",
-        "dribbles": "7.67/9.47",
-        "dribblesAttempted": "16.42/19.75"
+        "goalKicks": "7.75",
+        "saves": "1.50",
+        "offsides": "2.50",
+        "shotsOnTarget": "6.00/3.00",
+        "yellowCards": "2.25/2.50",
+        "goals": "1.50/2.00",
+        "throwIns": "19.50",
+        "ballPossession": 61.5,
+        "tackles": "16.50/22.25",
+        "interceptions": "8.75/13.00",
+        "aerialDuels": "9.00",
+        "aerialDuelsAttempted": "17.50",
+        "dribbles": "11.00/8.00",
+        "dribblesAttempted": "24.25/17.75"
     },
     "teamSlug": "villarreal",
     "teamId": "2819",
     "teamName": "Villarreal",
     "tournament": "LaLiga",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-de-la-coruna-villarreal/ugbsHgb#id:16416324,tab:statistics",
+            "teams": [
+                "Villarreal",
+                "Deportivo de A Coruña"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                2819,
+                2832
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/deportivo-alaves-villarreal/ugbsKhb#id:16416290,tab:statistics",
+            "teams": [
+                "Deportivo Alavés",
+                "Villarreal"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2885,
+                2819
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atletico-madrid-villarreal/ugbsLgb#id:16416302,tab:statistics",
+            "teams": [
+                "Atlético Madrid",
+                "Villarreal"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2836,
+                2819
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-racing-club-villarreal/ugbsKgb#id:16421061,tab:statistics",
+            "teams": [
+                "Real Racing Club",
+                "Villarreal"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2835,
+                2819
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/atletico-madrid-villarreal/ugbsLgb#id:14083735,tab:statistics",
+            "teams": [
+                "Villarreal",
+                "Atlético Madrid"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                2819,
+                2836
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/villarreal-rayo-vallecano/tgbsugb#id:14083682,tab:statistics",
+            "teams": [
+                "Rayo Vallecano",
+                "Villarreal"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2818,
+                2819
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/sevilla-villarreal/ugbsIgb#id:14083644,tab:statistics",
             "teams": [
@@ -39,22 +135,6 @@
             "isHome": true
         },
         {
-            "href": "https://www.sofascore.com/football/match/mallorca-villarreal/ugbsBgb#id:14083573,tab:statistics",
-            "teams": [
-                "Mallorca",
-                "Villarreal"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                2826,
-                2819
-            ],
-            "isHome": false
-        },
-        {
             "href": "https://www.sofascore.com/football/match/levante-ud-villarreal/ugbsZgb#id:14083512,tab:statistics",
             "teams": [
                 "Villarreal",
@@ -69,91 +149,131 @@
                 2849
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/celta-vigo-villarreal/ugbswgb#id:14083248,tab:statistics",
-            "teams": [
-                "Villarreal",
-                "Celta Vigo"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2819,
-                2821
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/real-oviedo-villarreal/ugbsbhb#id:14083282,tab:statistics",
-            "teams": [
-                "Real Oviedo",
-                "Villarreal"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                2851,
-                2819
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/athletic-club-villarreal/ugbsAgb#id:14083102,tab:statistics",
-            "teams": [
-                "Athletic Club",
-                "Villarreal"
-            ],
-            "goals": [
-                1,
-                2
-            ],
-            "teamIds": [
-                2825,
-                2819
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/girona-fc-villarreal/ugbsoKj#id:14081812,tab:statistics",
-            "teams": [
-                "Girona FC",
-                "Villarreal"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                24264,
-                2819
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/real-sociedad-villarreal/ugbszgb#id:14081808,tab:statistics",
-            "teams": [
-                "Villarreal",
-                "Real Sociedad"
-            ],
-            "goals": [
-                3,
-                1
-            ],
-            "teamIds": [
-                2819,
-                2824
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "7/1[H]",
+            "fouls": "14/14[H]",
+            "goalKicks": "7/9[H]",
+            "saves": "0/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "22/8[H]",
+            "averageBallPossession": "63/37[H]",
+            "teams": "Villarreal,Deportivo de A Coruña,Home",
+            "tackles": "13/20[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "10/6[H]",
+            "aerialDuelsAttempted": "16/16[H]",
+            "dribbles": "7/7[H]",
+            "dribblesAttempted": "22/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/5[A]",
+            "fouls": "8/15[A]",
+            "goalKicks": "8/10[A]",
+            "saves": "1/6[A]",
+            "offsides": "4/5[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "0/1[A]",
+            "throwIns": "34/14[A]",
+            "averageBallPossession": "76/24[A]",
+            "teams": "Villarreal,Deportivo Alavés,Away",
+            "tackles": "19/22[A]",
+            "interceptions": "7/17[A]",
+            "aerialDuels": "12/13[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "11/7[A]",
+            "dribblesAttempted": "25/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "9/7[A]",
+            "saves": "2/4[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "6/4[A]",
+            "yellowCards": "2/3[A]",
+            "goals": "2/2[A]",
+            "throwIns": "9/10[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Villarreal,Atlético Madrid,Away",
+            "tackles": "11/26[A]",
+            "interceptions": "13/10[A]",
+            "aerialDuels": "6/4[A]",
+            "aerialDuelsAttempted": "10/10[A]",
+            "dribbles": "11/8[A]",
+            "dribblesAttempted": "24/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/6[A]",
+            "fouls": "14/14[A]",
+            "goalKicks": "7/7[A]",
+            "saves": "3/5[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "7/3[A]",
+            "yellowCards": "4/2[A]",
+            "goals": "2/2[A]",
+            "throwIns": "13/13[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "Villarreal,Real Racing Club,Away",
+            "tackles": "23/21[A]",
+            "interceptions": "7/13[A]",
+            "aerialDuels": "8/11[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "15/10[A]",
+            "dribblesAttempted": "26/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/9[H]",
+            "fouls": "3/12[H]",
+            "goalKicks": "6/4[H]",
+            "saves": "3/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "8/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "5/1[H]",
+            "throwIns": "13/12[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Villarreal,Atlético Madrid,Home",
+            "tackles": "15/14[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "8/6[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "9/3[H]",
+            "dribblesAttempted": "18/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/1[A]",
+            "fouls": "10/12[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "5/2[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "21/22[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Villarreal,Rayo Vallecano,Away",
+            "tackles": "14/30[A]",
+            "interceptions": "6/3[A]",
+            "aerialDuels": "5/8[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "4/11[A]",
+            "dribblesAttempted": "19/17[A]",
+            "isHome": false
+        },
         {
             "corners": "6/4[H]",
             "fouls": "11/9[H]",
@@ -175,26 +295,6 @@
             "isHome": true
         },
         {
-            "corners": "4/5[A]",
-            "fouls": "13/17[A]",
-            "goalKicks": "10/6[A]",
-            "saves": "7/1[A]",
-            "offsides": "0/3[A]",
-            "shotsOnTarget": "2/8[A]",
-            "yellowCards": "0/2[A]",
-            "goals": "1/1[A]",
-            "throwIns": "18/21[A]",
-            "averageBallPossession": "44/56[A]",
-            "teams": "Villarreal,Mallorca,Away",
-            "tackles": "11/21[A]",
-            "interceptions": "4/5[A]",
-            "aerialDuels": "9/9[A]",
-            "aerialDuelsAttempted": "18/18[A]",
-            "dribbles": "5/10[A]",
-            "dribblesAttempted": "13/14[A]",
-            "isHome": false
-        },
-        {
             "corners": "7/3[H]",
             "fouls": "14/7[H]",
             "goalKicks": "7/10[H]",
@@ -213,227 +313,127 @@
             "dribbles": "7/7[H]",
             "dribblesAttempted": "14/14[H]",
             "isHome": true
-        },
-        {
-            "corners": "7/5[H]",
-            "fouls": "13/16[H]",
-            "goalKicks": "9/3[H]",
-            "saves": "2/2[H]",
-            "offsides": "1/2[H]",
-            "shotsOnTarget": "4/3[H]",
-            "yellowCards": "3/6[H]",
-            "goals": "2/1[H]",
-            "throwIns": "9/15[H]",
-            "averageBallPossession": "47/53[H]",
-            "teams": "Villarreal,Celta Vigo,Home",
-            "tackles": "12/12[H]",
-            "interceptions": "9/6[H]",
-            "aerialDuels": "4/3[H]",
-            "aerialDuelsAttempted": "7/7[H]",
-            "dribbles": "9/5[H]",
-            "dribblesAttempted": "17/12[H]",
-            "isHome": true
-        },
-        {
-            "corners": "0/7[A]",
-            "fouls": "11/9[A]",
-            "goalKicks": "11/5[A]",
-            "saves": "3/2[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "3/4[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "1/1[A]",
-            "throwIns": "23/23[A]",
-            "averageBallPossession": "42/58[A]",
-            "teams": "Villarreal,Real Oviedo,Away",
-            "tackles": "20/20[A]",
-            "interceptions": "9/11[A]",
-            "aerialDuels": "12/8[A]",
-            "aerialDuelsAttempted": "20/20[A]",
-            "dribbles": "8/16[A]",
-            "dribblesAttempted": "17/27[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/15[A]",
-            "fouls": "8/15[A]",
-            "goalKicks": "10/4[A]",
-            "saves": "5/5[A]",
-            "offsides": "3/1[A]",
-            "shotsOnTarget": "6/6[A]",
-            "yellowCards": "3/2[A]",
-            "goals": "2/1[A]",
-            "throwIns": "9/21[A]",
-            "averageBallPossession": "39/61[A]",
-            "teams": "Villarreal,Athletic Club,Away",
-            "tackles": "20/14[A]",
-            "interceptions": "9/12[A]",
-            "aerialDuels": "13/12[A]",
-            "aerialDuelsAttempted": "25/25[A]",
-            "dribbles": "4/10[A]",
-            "dribblesAttempted": "11/26[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/7[A]",
-            "fouls": "9/8[A]",
-            "goalKicks": "7/5[A]",
-            "saves": "2/0[A]",
-            "offsides": "1/2[A]",
-            "shotsOnTarget": "0/2[A]",
-            "yellowCards": "2/2[A]",
-            "goals": "0/1[A]",
-            "throwIns": "25/15[A]",
-            "averageBallPossession": "46/54[A]",
-            "teams": "Villarreal,Girona FC,Away",
-            "tackles": "15/15[A]",
-            "interceptions": "6/6[A]",
-            "aerialDuels": "12/8[A]",
-            "aerialDuelsAttempted": "20/20[A]",
-            "dribbles": "10/16[A]",
-            "dribblesAttempted": "20/26[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/5[H]",
-            "fouls": "10/11[H]",
-            "goalKicks": "5/6[H]",
-            "saves": "3/7[H]",
-            "offsides": "1/6[H]",
-            "shotsOnTarget": "10/4[H]",
-            "yellowCards": "0/2[H]",
-            "goals": "3/1[H]",
-            "throwIns": "17/25[H]",
-            "averageBallPossession": "35/65[H]",
-            "teams": "Villarreal,Real Sociedad,Home",
-            "tackles": "16/16[H]",
-            "interceptions": "17/7[H]",
-            "aerialDuels": "3/9[H]",
-            "aerialDuelsAttempted": "12/12[H]",
-            "dribbles": "8/5[H]",
-            "dribblesAttempted": "14/11[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
     "currentIndex": 6,
-    "startTime": "2026-05-16T12:53:29.796Z",
-    "endTime": "2026-05-16T12:54:18.970Z",
-    "totalTimeSeconds": 49.17,
+    "startTime": "2026-09-14T06:44:49.697Z",
+    "endTime": "2026-09-14T06:45:05.906Z",
+    "totalTimeSeconds": 16.21,
     "combinedMatchStatistics": {
-        "corners": "6/4[H]+4/5[A]+7/3[H]+7/5[H]+0/7[A]+3/15[A]+4/7[A]+4/5[H]",
-        "fouls": "11/9[H]+13/17[A]+14/7[H]+13/16[H]+11/9[A]+8/15[A]+9/8[A]+10/11[H]",
-        "goalKicks": "8/7[H]+10/6[A]+7/10[H]+9/3[H]+11/5[A]+10/4[A]+7/5[A]+5/6[H]",
-        "saves": "2/1[H]+7/1[A]+2/3[H]+2/2[H]+3/2[A]+5/5[A]+2/0[A]+3/7[H]",
-        "offsides": "0/3[H]+0/3[A]+3/0[H]+1/2[H]+1/1[A]+3/1[A]+1/2[A]+1/6[H]",
-        "shotsOnTarget": "4/5[H]+2/8[A]+8/3[H]+4/3[H]+3/4[A]+6/6[A]+0/2[A]+10/4[H]",
-        "yellowCards": "2/1[H]+0/2[A]+3/1[H]+3/6[H]+1/1[A]+3/2[A]+2/2[A]+0/2[H]",
-        "goals": "2/3[H]+1/1[A]+5/1[H]+2/1[H]+1/1[A]+2/1[A]+0/1[A]+3/1[H]",
-        "throwIns": "20/17[H]+18/21[A]+20/11[H]+9/15[H]+23/23[A]+9/21[A]+25/15[A]+17/25[H]",
-        "averageBallPossession": "63/37[H]+44/56[A]+53/47[H]+47/53[H]+42/58[A]+39/61[A]+46/54[A]+35/65[H]",
-        "teams": "Villarreal,Sevilla,Home+Villarreal,Mallorca,Away+Villarreal,Levante UD,Home+Villarreal,Celta Vigo,Home+Villarreal,Real Oviedo,Away+Villarreal,Athletic Club,Away+Villarreal,Girona FC,Away+Villarreal,Real Sociedad,Home",
-        "tackles": "12/22[H]+11/21[A]+16/11[H]+12/12[H]+20/20[A]+20/14[A]+15/15[A]+16/16[H]",
-        "interceptions": "4/2[H]+4/5[A]+7/7[H]+9/6[H]+9/11[A]+9/12[A]+6/6[A]+17/7[H]",
-        "aerialDuels": "10/9[H]+9/9[A]+4/5[H]+4/3[H]+12/8[A]+13/12[A]+12/8[A]+3/9[H]",
-        "aerialDuelsAttempted": "19/19[H]+18/18[A]+9/9[H]+7/7[H]+20/20[A]+25/25[A]+20/20[A]+12/12[H]",
-        "dribbles": "8/12[H]+5/10[A]+7/7[H]+9/5[H]+8/16[A]+4/10[A]+10/16[A]+8/5[H]",
-        "dribblesAttempted": "20/22[H]+13/14[A]+14/14[H]+17/12[H]+17/27[A]+11/26[A]+20/26[A]+14/11[H]",
-        "isHome": "true+false+true+true+false+false+false+true",
-        "cornersTotals": "35/51",
-        "cornersTotalsHome": "24/17",
-        "cornersTotalsAway": "11/34",
-        "cornersAverage": "4.38/6.38",
-        "cornersAverageHome": "6.00/4.25",
-        "cornersAverageAway": "2.75/8.50",
-        "foulsTotals": "89/92",
-        "foulsTotalsHome": "48/43",
-        "foulsTotalsAway": "41/49",
-        "foulsAverage": "11.13/11.50",
-        "foulsAverageHome": "12.00/10.75",
-        "foulsAverageAway": "10.25/12.25",
-        "goalKicksTotals": "67/46",
-        "goalKicksTotalsHome": "29/26",
-        "goalKicksTotalsAway": "38/20",
-        "goalKicksAverage": "8.38/5.75",
-        "goalKicksAverageHome": "7.25/6.50",
-        "goalKicksAverageAway": "9.50/5.00",
-        "savesTotals": "26/21",
-        "savesTotalsHome": "9/13",
-        "savesTotalsAway": "17/8",
-        "savesAverage": "3.25/2.63",
-        "savesAverageHome": "2.25/3.25",
-        "savesAverageAway": "4.25/2.00",
-        "offsidesTotals": "10/18",
-        "offsidesTotalsHome": "5/11",
-        "offsidesTotalsAway": "5/7",
-        "offsidesAverage": "1.25/2.25",
-        "offsidesAverageHome": "1.25/2.75",
-        "offsidesAverageAway": "1.25/1.75",
-        "shotsOnTargetTotals": "37/35",
-        "shotsOnTargetTotalsHome": "26/15",
-        "shotsOnTargetTotalsAway": "11/20",
-        "shotsOnTargetAverage": "4.63/4.38",
-        "shotsOnTargetAverageHome": "6.50/3.75",
-        "shotsOnTargetAverageAway": "2.75/5.00",
-        "yellowCardsTotals": "14/17",
-        "yellowCardsTotalsHome": "8/10",
-        "yellowCardsTotalsAway": "6/7",
-        "yellowCardsAverage": "1.75/2.13",
-        "yellowCardsAverageHome": "2.00/2.50",
-        "yellowCardsAverageAway": "1.50/1.75",
-        "goalsTotals": "16/10",
-        "goalsTotalsHome": "12/6",
-        "goalsTotalsAway": "4/4",
-        "goalsAverage": "2.00/1.25",
-        "goalsAverageHome": "3.00/1.50",
-        "goalsAverageAway": "1.00/1.00",
-        "throwInsTotals": "141/148",
-        "throwInsTotalsHome": "66/68",
-        "throwInsTotalsAway": "75/80",
-        "throwInsAverage": "17.63/18.50",
-        "throwInsAverageHome": "16.50/17.00",
-        "throwInsAverageAway": "18.75/20.00",
-        "averageBallPossessionTotals": "369/431",
-        "averageBallPossessionTotalsHome": "198/202",
-        "averageBallPossessionTotalsAway": "171/229",
-        "averageBallPossessionAverage": "46.13/53.88",
-        "averageBallPossessionAverageHome": "49.50/50.50",
-        "averageBallPossessionAverageAway": "42.75/57.25",
-        "tacklesTotals": "122/131",
-        "tacklesTotalsHome": "56/61",
-        "tacklesTotalsAway": "66/70",
-        "tacklesAverage": "15.25/16.38",
-        "tacklesAverageHome": "14.00/15.25",
-        "tacklesAverageAway": "16.50/17.50",
-        "interceptionsTotals": "65/56",
-        "interceptionsTotalsHome": "37/22",
-        "interceptionsTotalsAway": "28/34",
-        "interceptionsAverage": "8.13/7.00",
-        "interceptionsAverageHome": "9.25/5.50",
-        "interceptionsAverageAway": "7.00/8.50",
-        "aerialDuelsTotals": "67/63",
-        "aerialDuelsTotalsHome": "21/26",
-        "aerialDuelsTotalsAway": "46/37",
-        "aerialDuelsAverage": "8.38/7.88",
-        "aerialDuelsAverageHome": "5.25/6.50",
-        "aerialDuelsAverageAway": "11.50/9.25",
-        "aerialDuelsAttemptedTotals": "130/130",
-        "aerialDuelsAttemptedTotalsHome": "47/47",
-        "aerialDuelsAttemptedTotalsAway": "83/83",
-        "aerialDuelsAttemptedAverage": "16.25/16.25",
-        "aerialDuelsAttemptedAverageHome": "11.75/11.75",
-        "aerialDuelsAttemptedAverageAway": "20.75/20.75",
-        "dribblesTotals": "59/81",
-        "dribblesTotalsHome": "32/29",
-        "dribblesTotalsAway": "27/52",
-        "dribblesAverage": "7.38/10.13",
-        "dribblesAverageHome": "8.00/7.25",
-        "dribblesAverageAway": "6.75/13.00",
-        "dribblesAttemptedTotals": "126/152",
-        "dribblesAttemptedTotalsHome": "65/59",
-        "dribblesAttemptedTotalsAway": "61/93",
-        "dribblesAttemptedAverage": "15.75/19.00",
-        "dribblesAttemptedAverageHome": "16.25/14.75",
-        "dribblesAttemptedAverageAway": "15.25/23.25"
+        "corners": "7/1[H]+9/5[A]+3/5[A]+10/6[A]+5/9[H]+9/1[A]+6/4[H]+7/3[H]",
+        "fouls": "14/14[H]+8/15[A]+13/12[A]+14/14[A]+3/12[H]+10/12[A]+11/9[H]+14/7[H]",
+        "goalKicks": "7/9[H]+8/10[A]+9/7[A]+7/7[A]+6/4[H]+10/7[A]+8/7[H]+7/10[H]",
+        "saves": "0/4[H]+1/6[A]+2/4[A]+3/5[A]+3/3[H]+5/2[A]+2/1[H]+2/3[H]",
+        "offsides": "2/1[H]+4/5[A]+1/3[A]+3/1[A]+0/1[H]+0/1[A]+0/3[H]+3/0[H]",
+        "shotsOnTarget": "5/3[H]+6/2[A]+6/4[A]+7/3[A]+8/4[H]+2/7[A]+4/5[H]+8/3[H]",
+        "yellowCards": "2/2[H]+1/3[A]+2/3[A]+4/2[A]+0/1[H]+1/2[A]+2/1[H]+3/1[H]",
+        "goals": "2/3[H]+0/1[A]+2/2[A]+2/2[A]+5/1[H]+0/2[A]+2/3[H]+5/1[H]",
+        "throwIns": "22/8[H]+34/14[A]+9/10[A]+13/13[A]+13/12[H]+21/22[A]+20/17[H]+20/11[H]",
+        "averageBallPossession": "63/37[H]+76/24[A]+48/52[A]+59/41[A]+48/52[H]+47/53[A]+63/37[H]+53/47[H]",
+        "teams": "Villarreal,Deportivo de A Coruña,Home+Villarreal,Deportivo Alavés,Away+Villarreal,Atlético Madrid,Away+Villarreal,Real Racing Club,Away+Villarreal,Atlético Madrid,Home+Villarreal,Rayo Vallecano,Away+Villarreal,Sevilla,Home+Villarreal,Levante UD,Home",
+        "tackles": "13/20[H]+19/22[A]+11/26[A]+23/21[A]+15/14[H]+14/30[A]+12/22[H]+16/11[H]",
+        "interceptions": "8/12[H]+7/17[A]+13/10[A]+7/13[A]+8/7[H]+6/3[A]+4/2[H]+7/7[H]",
+        "aerialDuels": "10/6[H]+12/13[A]+6/4[A]+8/11[A]+8/6[H]+5/8[A]+10/9[H]+4/5[H]",
+        "aerialDuelsAttempted": "16/16[H]+25/25[A]+10/10[A]+19/19[A]+14/14[H]+13/13[A]+19/19[H]+9/9[H]",
+        "dribbles": "7/7[H]+11/7[A]+11/8[A]+15/10[A]+9/3[H]+4/11[A]+8/12[H]+7/7[H]",
+        "dribblesAttempted": "22/15[H]+25/19[A]+24/14[A]+26/23[A]+18/7[H]+19/17[A]+20/22[H]+14/14[H]",
+        "isHome": "true+false+false+false+true+false+true+true",
+        "cornersTotals": "56/34",
+        "cornersTotalsHome": "25/17",
+        "cornersTotalsAway": "31/17",
+        "cornersAverage": "7.00/4.25",
+        "cornersAverageHome": "6.25/4.25",
+        "cornersAverageAway": "7.75/4.25",
+        "foulsTotals": "87/95",
+        "foulsTotalsHome": "42/42",
+        "foulsTotalsAway": "45/53",
+        "foulsAverage": "10.88/11.88",
+        "foulsAverageHome": "10.50/10.50",
+        "foulsAverageAway": "11.25/13.25",
+        "goalKicksTotals": "62/61",
+        "goalKicksTotalsHome": "28/30",
+        "goalKicksTotalsAway": "34/31",
+        "goalKicksAverage": "7.75/7.63",
+        "goalKicksAverageHome": "7.00/7.50",
+        "goalKicksAverageAway": "8.50/7.75",
+        "savesTotals": "18/28",
+        "savesTotalsHome": "7/11",
+        "savesTotalsAway": "11/17",
+        "savesAverage": "2.25/3.50",
+        "savesAverageHome": "1.75/2.75",
+        "savesAverageAway": "2.75/4.25",
+        "offsidesTotals": "13/15",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "8/10",
+        "offsidesAverage": "1.63/1.88",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "2.00/2.50",
+        "shotsOnTargetTotals": "46/31",
+        "shotsOnTargetTotalsHome": "25/15",
+        "shotsOnTargetTotalsAway": "21/16",
+        "shotsOnTargetAverage": "5.75/3.88",
+        "shotsOnTargetAverageHome": "6.25/3.75",
+        "shotsOnTargetAverageAway": "5.25/4.00",
+        "yellowCardsTotals": "15/15",
+        "yellowCardsTotalsHome": "7/5",
+        "yellowCardsTotalsAway": "8/10",
+        "yellowCardsAverage": "1.88/1.88",
+        "yellowCardsAverageHome": "1.75/1.25",
+        "yellowCardsAverageAway": "2.00/2.50",
+        "goalsTotals": "18/15",
+        "goalsTotalsHome": "14/8",
+        "goalsTotalsAway": "4/7",
+        "goalsAverage": "2.25/1.88",
+        "goalsAverageHome": "3.50/2.00",
+        "goalsAverageAway": "1.00/1.75",
+        "throwInsTotals": "152/107",
+        "throwInsTotalsHome": "75/48",
+        "throwInsTotalsAway": "77/59",
+        "throwInsAverage": "19.00/13.38",
+        "throwInsAverageHome": "18.75/12.00",
+        "throwInsAverageAway": "19.25/14.75",
+        "averageBallPossessionTotals": "457/343",
+        "averageBallPossessionTotalsHome": "227/173",
+        "averageBallPossessionTotalsAway": "230/170",
+        "averageBallPossessionAverage": "57.13/42.88",
+        "averageBallPossessionAverageHome": "56.75/43.25",
+        "averageBallPossessionAverageAway": "57.50/42.50",
+        "tacklesTotals": "123/166",
+        "tacklesTotalsHome": "56/67",
+        "tacklesTotalsAway": "67/99",
+        "tacklesAverage": "15.38/20.75",
+        "tacklesAverageHome": "14.00/16.75",
+        "tacklesAverageAway": "16.75/24.75",
+        "interceptionsTotals": "60/71",
+        "interceptionsTotalsHome": "27/28",
+        "interceptionsTotalsAway": "33/43",
+        "interceptionsAverage": "7.50/8.88",
+        "interceptionsAverageHome": "6.75/7.00",
+        "interceptionsAverageAway": "8.25/10.75",
+        "aerialDuelsTotals": "63/62",
+        "aerialDuelsTotalsHome": "32/26",
+        "aerialDuelsTotalsAway": "31/36",
+        "aerialDuelsAverage": "7.88/7.75",
+        "aerialDuelsAverageHome": "8.00/6.50",
+        "aerialDuelsAverageAway": "7.75/9.00",
+        "aerialDuelsAttemptedTotals": "125/125",
+        "aerialDuelsAttemptedTotalsHome": "58/58",
+        "aerialDuelsAttemptedTotalsAway": "67/67",
+        "aerialDuelsAttemptedAverage": "15.63/15.63",
+        "aerialDuelsAttemptedAverageHome": "14.50/14.50",
+        "aerialDuelsAttemptedAverageAway": "16.75/16.75",
+        "dribblesTotals": "72/65",
+        "dribblesTotalsHome": "31/29",
+        "dribblesTotalsAway": "41/36",
+        "dribblesAverage": "9.00/8.13",
+        "dribblesAverageHome": "7.75/7.25",
+        "dribblesAverageAway": "10.25/9.00",
+        "dribblesAttemptedTotals": "168/131",
+        "dribblesAttemptedTotalsHome": "74/58",
+        "dribblesAttemptedTotalsAway": "94/73",
+        "dribblesAttemptedAverage": "21.00/16.38",
+        "dribblesAttemptedAverageHome": "18.50/14.50",
+        "dribblesAttemptedAverageAway": "23.50/18.25"
     }
 }

@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "5.35",
-        "fouls": "11.38",
-        "goalKicks": "7.59",
-        "saves": "2.46",
-        "offsides": "2.14",
-        "shotsOnTarget": "4.35/3.76",
-        "yellowCards": "2.00/1.59",
-        "goals": "1.27/1.30",
-        "throwIns": "18.92",
-        "ballPossession": 49.162162162162,
-        "tackles": "15.81/14.73",
-        "interceptions": "8.62/8.00",
-        "aerialDuels": "17.24",
-        "aerialDuelsAttempted": "33.78",
-        "dribbles": "6.89/5.62",
-        "dribblesAttempted": "13.51/13.70"
+        "corners": "6.20",
+        "fouls": "8.80",
+        "goalKicks": "8.60",
+        "saves": "2.20",
+        "offsides": "1.80",
+        "shotsOnTarget": "5.80/3.00",
+        "yellowCards": "0.60/1.20",
+        "goals": "2.20/1.00",
+        "throwIns": "22.60",
+        "ballPossession": 56.6,
+        "tackles": "22.00/21.40",
+        "interceptions": "9.60/11.40",
+        "aerialDuels": "13.20",
+        "aerialDuelsAttempted": "27.20",
+        "dribbles": "8.60/7.40",
+        "dribblesAttempted": "19.60/17.80"
     },
     "teamSlug": "rc-sporting-charleroi",
     "teamId": "2898",
     "teamName": "RC Sporting Charleroi",
     "tournament": "Pro League",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/royale-union-saint-gilloise-rc-sporting-charleroi/YhbskXb#id:16361906,tab:statistics",
+            "teams": [
+                "RC Sporting Charleroi",
+                "Royale Union Saint-Gilloise"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                2898,
+                4860
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kv-kortrijk-rc-sporting-charleroi/YhbsiXb#id:16361898,tab:statistics",
+            "teams": [
+                "KV Kortrijk",
+                "RC Sporting Charleroi"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                4858,
+                2898
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/kv-mechelen-rc-sporting-charleroi/YhbsUac#id:16361890,tab:statistics",
+            "teams": [
+                "RC Sporting Charleroi",
+                "KV Mechelen"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2898,
+                5044
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/lommel-sk-rc-sporting-charleroi/YhbsWac#id:16361887,tab:statistics",
+            "teams": [
+                "Lommel SK",
+                "RC Sporting Charleroi"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                5046,
+                2898
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-rc-sporting-charleroi/Yhbstib#id:16361871,tab:statistics",
+            "teams": [
+                "RC Sporting Charleroi",
+                "Oud-Heverlee Leuven"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                2898,
+                2918
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/standard-liege-rc-sporting-charleroi/Yhbsbib#id:15858603,tab:statistics",
+            "teams": [
+                "Standard Liège",
+                "RC Sporting Charleroi"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                2901,
+                2898
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-rc-sporting-charleroi/Yhbstib#id:15858598,tab:statistics",
+            "teams": [
+                "RC Sporting Charleroi",
+                "Oud-Heverlee Leuven"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2898,
+                2918
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/rc-sporting-charleroi-royal-antwerp-fc/OhbsYhb#id:15858590,tab:statistics",
             "teams": [
@@ -37,123 +149,132 @@
                 2898
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rc-sporting-charleroi-krc-genk/PhbsYhb#id:15858586,tab:statistics",
-            "teams": [
-                "RC Sporting Charleroi",
-                "KRC Genk"
-            ],
-            "goals": [
-                2,
-                0
-            ],
-            "teamIds": [
-                2898,
-                2890
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-rc-sporting-charleroi/Yhbstib#id:15858585,tab:statistics",
-            "teams": [
-                "Oud-Heverlee Leuven",
-                "RC Sporting Charleroi"
-            ],
-            "goals": [
-                0,
-                2
-            ],
-            "teamIds": [
-                2918,
-                2898
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rc-sporting-charleroi-krc-genk/PhbsYhb#id:15858593,tab:statistics",
-            "teams": [
-                "KRC Genk",
-                "RC Sporting Charleroi"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                2890,
-                2898
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/standard-liege-rc-sporting-charleroi/Yhbsbib#id:15858616,tab:statistics",
-            "teams": [
-                "RC Sporting Charleroi",
-                "Standard Liège"
-            ],
-            "goals": [
-                1,
-                2
-            ],
-            "teamIds": [
-                2898,
-                2901
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rc-sporting-charleroi-royal-antwerp-fc/OhbsYhb#id:15858612,tab:statistics",
-            "teams": [
-                "RC Sporting Charleroi",
-                "Royal Antwerp FC"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2898,
-                2889
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rc-sporting-charleroi-kvc-westerlo/ThbsYhb#id:15858611,tab:statistics",
-            "teams": [
-                "KVC Westerlo",
-                "RC Sporting Charleroi"
-            ],
-            "goals": [
-                2,
-                0
-            ],
-            "teamIds": [
-                2893,
-                2898
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/oud-heverlee-leuven-rc-sporting-charleroi/Yhbstib#id:14032373,tab:statistics",
-            "teams": [
-                "RC Sporting Charleroi",
-                "Oud-Heverlee Leuven"
-            ],
-            "goals": [
-                0,
-                2
-            ],
-            "teamIds": [
-                2898,
-                2918
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/6[H]",
+            "fouls": "12/17[H]",
+            "goalKicks": "4/6[H]",
+            "saves": "5/3[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "5/7[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "2/3[H]",
+            "throwIns": "22/19[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "RC Sporting Charleroi,Royale Union Saint-Gilloise,Home",
+            "tackles": "24/20[H]",
+            "interceptions": "14/14[H]",
+            "aerialDuels": "16/17[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "7/8[H]",
+            "dribblesAttempted": "17/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/6[A]",
+            "fouls": "10/13[A]",
+            "goalKicks": "9/11[A]",
+            "saves": "4/2[A]",
+            "offsides": "2/4[A]",
+            "shotsOnTarget": "5/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "3/1[A]",
+            "throwIns": "27/20[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "RC Sporting Charleroi,KV Kortrijk,Away",
+            "tackles": "21/20[A]",
+            "interceptions": "8/7[A]",
+            "aerialDuels": "9/12[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "12/19[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/2[H]",
+            "fouls": "8/15[H]",
+            "goalKicks": "10/8[H]",
+            "saves": "0/2[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "4/0[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "2/0[H]",
+            "throwIns": "24/21[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "RC Sporting Charleroi,KV Mechelen,Home",
+            "tackles": "27/27[H]",
+            "interceptions": "10/13[H]",
+            "aerialDuels": "13/14[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "12/14[H]",
+            "dribblesAttempted": "26/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/2[A]",
+            "fouls": "7/8[A]",
+            "goalKicks": "8/12[A]",
+            "saves": "1/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "5/0[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "21/23[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "RC Sporting Charleroi,Lommel SK,Away",
+            "tackles": "13/20[A]",
+            "interceptions": "10/8[A]",
+            "aerialDuels": "9/15[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "11/4[A]",
+            "dribblesAttempted": "24/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/2[H]",
+            "fouls": "7/13[H]",
+            "goalKicks": "12/11[H]",
+            "saves": "2/6[H]",
+            "offsides": "5/1[H]",
+            "shotsOnTarget": "10/3[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "3/1[H]",
+            "throwIns": "19/15[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "RC Sporting Charleroi,Oud-Heverlee Leuven,Home",
+            "tackles": "25/20[H]",
+            "interceptions": "6/15[H]",
+            "aerialDuels": "19/12[H]",
+            "aerialDuelsAttempted": "31/31[H]",
+            "dribbles": "10/4[H]",
+            "dribblesAttempted": "19/17[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/6[A]",
+            "fouls": "12/10[A]",
+            "goalKicks": "8/5[A]",
+            "saves": "4/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "5/3[A]",
+            "goals": "2/0[A]",
+            "throwIns": "12/26[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "RC Sporting Charleroi,Standard Liège,Away",
+            "tackles": "19/15[A]",
+            "interceptions": "7/1[A]",
+            "aerialDuels": "17/12[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "12/16[A]",
+            "isHome": false
+        },
+        null,
         {
             "corners": "3/4[A]",
             "fouls": "10/16[A]",
@@ -173,267 +294,127 @@
             "dribbles": "6/4[A]",
             "dribblesAttempted": "17/16[A]",
             "isHome": false
-        },
-        {
-            "corners": "3/6[H]",
-            "fouls": "14/11[H]",
-            "goalKicks": "8/6[H]",
-            "saves": "4/2[H]",
-            "offsides": "1/1[H]",
-            "shotsOnTarget": "4/4[H]",
-            "yellowCards": "2/0[H]",
-            "goals": "2/0[H]",
-            "throwIns": "12/14[H]",
-            "averageBallPossession": "49/51[H]",
-            "teams": "RC Sporting Charleroi,KRC Genk,Home",
-            "tackles": "23/16[H]",
-            "interceptions": "12/5[H]",
-            "aerialDuels": "6/13[H]",
-            "aerialDuelsAttempted": "19/19[H]",
-            "dribbles": "4/5[H]",
-            "dribblesAttempted": "10/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "6/4[A]",
-            "fouls": "12/8[A]",
-            "goalKicks": "4/5[A]",
-            "saves": "3/2[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "4/3[A]",
-            "yellowCards": "0/2[A]",
-            "goals": "2/0[A]",
-            "throwIns": "19/13[A]",
-            "averageBallPossession": "43/57[A]",
-            "teams": "RC Sporting Charleroi,Oud-Heverlee Leuven,Away",
-            "tackles": "4/11[A]",
-            "interceptions": "8/6[A]",
-            "aerialDuels": "10/10[A]",
-            "aerialDuelsAttempted": "20/20[A]",
-            "dribbles": "6/1[A]",
-            "dribblesAttempted": "10/4[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/10[A]",
-            "fouls": "8/11[A]",
-            "goalKicks": "14/7[A]",
-            "saves": "6/4[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "5/7[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "1/1[A]",
-            "throwIns": "20/22[A]",
-            "averageBallPossession": "40/60[A]",
-            "teams": "RC Sporting Charleroi,KRC Genk,Away",
-            "tackles": "12/24[A]",
-            "interceptions": "8/8[A]",
-            "aerialDuels": "22/15[A]",
-            "aerialDuelsAttempted": "37/37[A]",
-            "dribbles": "3/6[A]",
-            "dribblesAttempted": "13/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/4[H]",
-            "fouls": "11/8[H]",
-            "goalKicks": "2/11[H]",
-            "saves": "0/3[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "4/2[H]",
-            "yellowCards": "3/1[H]",
-            "goals": "1/2[H]",
-            "throwIns": "22/20[H]",
-            "averageBallPossession": "59/41[H]",
-            "teams": "RC Sporting Charleroi,Standard Liège,Home",
-            "tackles": "18/10[H]",
-            "interceptions": "8/10[H]",
-            "aerialDuels": "11/21[H]",
-            "aerialDuelsAttempted": "32/32[H]",
-            "dribbles": "6/4[H]",
-            "dribblesAttempted": "11/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/9[H]",
-            "fouls": "12/14[H]",
-            "goalKicks": "11/8[H]",
-            "saves": "2/3[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "5/3[H]",
-            "yellowCards": "3/2[H]",
-            "goals": "2/1[H]",
-            "throwIns": "24/16[H]",
-            "averageBallPossession": "45/55[H]",
-            "teams": "RC Sporting Charleroi,Royal Antwerp FC,Home",
-            "tackles": "22/17[H]",
-            "interceptions": "8/9[H]",
-            "aerialDuels": "7/11[H]",
-            "aerialDuelsAttempted": "18/18[H]",
-            "dribbles": "10/8[H]",
-            "dribblesAttempted": "18/22[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/5[A]",
-            "fouls": "14/10[A]",
-            "goalKicks": "9/6[A]",
-            "saves": "3/4[A]",
-            "offsides": "6/0[A]",
-            "shotsOnTarget": "4/5[A]",
-            "yellowCards": "2/2[A]",
-            "goals": "0/2[A]",
-            "throwIns": "16/20[A]",
-            "averageBallPossession": "47/53[A]",
-            "teams": "RC Sporting Charleroi,KVC Westerlo,Away",
-            "tackles": "30/17[A]",
-            "interceptions": "11/9[A]",
-            "aerialDuels": "10/11[A]",
-            "aerialDuelsAttempted": "21/21[A]",
-            "dribbles": "6/5[A]",
-            "dribblesAttempted": "11/26[A]",
-            "isHome": false
-        },
-        {
-            "corners": "10/3[H]",
-            "fouls": "5/15[H]",
-            "goalKicks": "3/11[H]",
-            "saves": "3/4[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "5/5[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "0/2[H]",
-            "throwIns": "18/26[H]",
-            "averageBallPossession": "64/36[H]",
-            "teams": "RC Sporting Charleroi,Oud-Heverlee Leuven,Home",
-            "tackles": "10/15[H]",
-            "interceptions": "13/12[H]",
-            "aerialDuels": "14/16[H]",
-            "aerialDuelsAttempted": "30/30[H]",
-            "dribbles": "11/6[H]",
-            "dribblesAttempted": "19/13[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 6,
-    "startTime": "2026-05-16T09:16:12.195Z",
-    "endTime": "2026-05-16T09:16:57.093Z",
-    "totalTimeSeconds": 44.9,
+    "currentIndex": 7,
+    "startTime": "2026-09-13T12:32:00.931Z",
+    "endTime": "2026-09-13T12:32:37.493Z",
+    "totalTimeSeconds": 36.56,
     "combinedMatchStatistics": {
-        "corners": "3/4[A]+3/6[H]+6/4[A]+1/10[A]+6/4[H]+2/9[H]+5/5[A]+10/3[H]",
-        "fouls": "10/16[A]+14/11[H]+12/8[A]+8/11[A]+11/8[H]+12/14[H]+14/10[A]+5/15[H]",
-        "goalKicks": "9/5[A]+8/6[H]+4/5[A]+14/7[A]+2/11[H]+11/8[H]+9/6[A]+3/11[H]",
-        "saves": "1/1[A]+4/2[H]+3/2[A]+6/4[A]+0/3[H]+2/3[H]+3/4[A]+3/4[H]",
-        "offsides": "0/3[A]+1/1[H]+1/0[A]+1/0[A]+0/0[H]+2/2[H]+6/0[A]+2/2[H]",
-        "shotsOnTarget": "2/1[A]+4/4[H]+4/3[A]+5/7[A]+4/2[H]+5/3[H]+4/5[A]+5/5[H]",
-        "yellowCards": "3/2[A]+2/0[H]+0/2[A]+1/1[A]+3/1[H]+3/2[H]+2/2[A]+1/1[H]",
-        "goals": "1/0[A]+2/0[H]+2/0[A]+1/1[A]+1/2[H]+2/1[H]+0/2[A]+0/2[H]",
-        "throwIns": "14/21[A]+12/14[H]+19/13[A]+20/22[A]+22/20[H]+24/16[H]+16/20[A]+18/26[H]",
-        "averageBallPossession": "45/55[A]+49/51[H]+43/57[A]+40/60[A]+59/41[H]+45/55[H]+47/53[A]+64/36[H]",
-        "teams": "RC Sporting Charleroi,Royal Antwerp FC,Away+RC Sporting Charleroi,KRC Genk,Home+RC Sporting Charleroi,Oud-Heverlee Leuven,Away+RC Sporting Charleroi,KRC Genk,Away+RC Sporting Charleroi,Standard Liège,Home+RC Sporting Charleroi,Royal Antwerp FC,Home+RC Sporting Charleroi,KVC Westerlo,Away+RC Sporting Charleroi,Oud-Heverlee Leuven,Home",
-        "tackles": "21/22[A]+23/16[H]+4/11[A]+12/24[A]+18/10[H]+22/17[H]+30/17[A]+10/15[H]",
-        "interceptions": "7/7[A]+12/5[H]+8/6[A]+8/8[A]+8/10[H]+8/9[H]+11/9[A]+13/12[H]",
-        "aerialDuels": "14/17[A]+6/13[H]+10/10[A]+22/15[A]+11/21[H]+7/11[H]+10/11[A]+14/16[H]",
-        "aerialDuelsAttempted": "31/31[A]+19/19[H]+20/20[A]+37/37[A]+32/32[H]+18/18[H]+21/21[A]+30/30[H]",
-        "dribbles": "6/4[A]+4/5[H]+6/1[A]+3/6[A]+6/4[H]+10/8[H]+6/5[A]+11/6[H]",
-        "dribblesAttempted": "17/16[A]+10/16[H]+10/4[A]+13/12[A]+11/11[H]+18/22[H]+11/26[A]+19/13[H]",
-        "isHome": "false+true+false+false+true+true+false+true",
-        "cornersTotals": "36/45",
-        "cornersTotalsHome": "21/22",
-        "cornersTotalsAway": "15/23",
-        "cornersAverage": "4.50/5.63",
-        "cornersAverageHome": "5.25/5.50",
-        "cornersAverageAway": "3.75/5.75",
-        "foulsTotals": "86/93",
-        "foulsTotalsHome": "42/48",
-        "foulsTotalsAway": "44/45",
-        "foulsAverage": "10.75/11.63",
-        "foulsAverageHome": "10.50/12.00",
-        "foulsAverageAway": "11.00/11.25",
-        "goalKicksTotals": "60/59",
-        "goalKicksTotalsHome": "24/36",
-        "goalKicksTotalsAway": "36/23",
-        "goalKicksAverage": "7.50/7.38",
-        "goalKicksAverageHome": "6.00/9.00",
-        "goalKicksAverageAway": "9.00/5.75",
-        "savesTotals": "22/23",
-        "savesTotalsHome": "9/12",
-        "savesTotalsAway": "13/11",
-        "savesAverage": "2.75/2.88",
-        "savesAverageHome": "2.25/3.00",
-        "savesAverageAway": "3.25/2.75",
-        "offsidesTotals": "13/8",
-        "offsidesTotalsHome": "5/5",
-        "offsidesTotalsAway": "8/3",
-        "offsidesAverage": "1.63/1.00",
-        "offsidesAverageHome": "1.25/1.25",
-        "offsidesAverageAway": "2.00/0.75",
-        "shotsOnTargetTotals": "33/30",
-        "shotsOnTargetTotalsHome": "18/14",
-        "shotsOnTargetTotalsAway": "15/16",
-        "shotsOnTargetAverage": "4.13/3.75",
-        "shotsOnTargetAverageHome": "4.50/3.50",
-        "shotsOnTargetAverageAway": "3.75/4.00",
-        "yellowCardsTotals": "15/11",
-        "yellowCardsTotalsHome": "9/4",
-        "yellowCardsTotalsAway": "6/7",
-        "yellowCardsAverage": "1.88/1.38",
-        "yellowCardsAverageHome": "2.25/1.00",
-        "yellowCardsAverageAway": "1.50/1.75",
-        "goalsTotals": "9/8",
-        "goalsTotalsHome": "5/5",
-        "goalsTotalsAway": "4/3",
-        "goalsAverage": "1.13/1.00",
-        "goalsAverageHome": "1.25/1.25",
-        "goalsAverageAway": "1.00/0.75",
-        "throwInsTotals": "145/152",
-        "throwInsTotalsHome": "76/76",
-        "throwInsTotalsAway": "69/76",
-        "throwInsAverage": "18.13/19.00",
-        "throwInsAverageHome": "19.00/19.00",
-        "throwInsAverageAway": "17.25/19.00",
-        "averageBallPossessionTotals": "392/408",
-        "averageBallPossessionTotalsHome": "217/183",
-        "averageBallPossessionTotalsAway": "175/225",
-        "averageBallPossessionAverage": "49.00/51.00",
-        "averageBallPossessionAverageHome": "54.25/45.75",
-        "averageBallPossessionAverageAway": "43.75/56.25",
-        "tacklesTotals": "140/132",
-        "tacklesTotalsHome": "73/58",
-        "tacklesTotalsAway": "67/74",
-        "tacklesAverage": "17.50/16.50",
-        "tacklesAverageHome": "18.25/14.50",
-        "tacklesAverageAway": "16.75/18.50",
-        "interceptionsTotals": "75/66",
-        "interceptionsTotalsHome": "41/36",
-        "interceptionsTotalsAway": "34/30",
-        "interceptionsAverage": "9.38/8.25",
-        "interceptionsAverageHome": "10.25/9.00",
-        "interceptionsAverageAway": "8.50/7.50",
-        "aerialDuelsTotals": "94/114",
-        "aerialDuelsTotalsHome": "38/61",
-        "aerialDuelsTotalsAway": "56/53",
-        "aerialDuelsAverage": "11.75/14.25",
-        "aerialDuelsAverageHome": "9.50/15.25",
-        "aerialDuelsAverageAway": "14.00/13.25",
-        "aerialDuelsAttemptedTotals": "208/208",
-        "aerialDuelsAttemptedTotalsHome": "99/99",
-        "aerialDuelsAttemptedTotalsAway": "109/109",
-        "aerialDuelsAttemptedAverage": "26.00/26.00",
-        "aerialDuelsAttemptedAverageHome": "24.75/24.75",
-        "aerialDuelsAttemptedAverageAway": "27.25/27.25",
-        "dribblesTotals": "52/39",
-        "dribblesTotalsHome": "31/23",
-        "dribblesTotalsAway": "21/16",
-        "dribblesAverage": "6.50/4.88",
-        "dribblesAverageHome": "7.75/5.75",
-        "dribblesAverageAway": "5.25/4.00",
-        "dribblesAttemptedTotals": "109/120",
-        "dribblesAttemptedTotalsHome": "58/62",
-        "dribblesAttemptedTotalsAway": "51/58",
-        "dribblesAttemptedAverage": "13.63/15.00",
-        "dribblesAttemptedAverageHome": "14.50/15.50",
-        "dribblesAttemptedAverageAway": "12.75/14.50"
+        "corners": "5/6[H]+5/6[A]+3/2[H]+12/2[A]+6/2[H]+9/6[A]+3/4[A]",
+        "fouls": "12/17[H]+10/13[A]+8/15[H]+7/8[A]+7/13[H]+12/10[A]+10/16[A]",
+        "goalKicks": "4/6[H]+9/11[A]+10/8[H]+8/12[A]+12/11[H]+8/5[A]+9/5[A]",
+        "saves": "5/3[H]+4/2[A]+0/2[H]+1/3[A]+2/6[H]+4/3[A]+1/1[A]",
+        "offsides": "1/1[H]+2/4[A]+0/0[H]+1/0[A]+5/1[H]+2/2[A]+0/3[A]",
+        "shotsOnTarget": "5/7[H]+5/5[A]+4/0[H]+5/0[A]+10/3[H]+5/3[A]+2/1[A]",
+        "yellowCards": "1/2[H]+1/1[A]+0/0[H]+0/1[A]+1/2[H]+5/3[A]+3/2[A]",
+        "goals": "2/3[H]+3/1[A]+2/0[H]+1/0[A]+3/1[H]+2/0[A]+1/0[A]",
+        "throwIns": "22/19[H]+27/20[A]+24/21[H]+21/23[A]+19/15[H]+12/26[A]+14/21[A]",
+        "averageBallPossession": "59/41[H]+49/51[A]+60/40[H]+56/44[A]+59/41[H]+56/44[A]+45/55[A]",
+        "teams": "RC Sporting Charleroi,Royale Union Saint-Gilloise,Home+RC Sporting Charleroi,KV Kortrijk,Away+RC Sporting Charleroi,KV Mechelen,Home+RC Sporting Charleroi,Lommel SK,Away+RC Sporting Charleroi,Oud-Heverlee Leuven,Home+RC Sporting Charleroi,Standard Liège,Away+RC Sporting Charleroi,Royal Antwerp FC,Away",
+        "tackles": "24/20[H]+21/20[A]+27/27[H]+13/20[A]+25/20[H]+19/15[A]+21/22[A]",
+        "interceptions": "14/14[H]+8/7[A]+10/13[H]+10/8[A]+6/15[H]+7/1[A]+7/7[A]",
+        "aerialDuels": "16/17[H]+9/12[A]+13/14[H]+9/15[A]+19/12[H]+17/12[A]+14/17[A]",
+        "aerialDuelsAttempted": "33/33[H]+21/21[A]+27/27[H]+24/24[A]+31/31[H]+29/29[A]+31/31[A]",
+        "dribbles": "7/8[H]+3/7[A]+12/14[H]+11/4[A]+10/4[H]+5/9[A]+6/4[A]",
+        "dribblesAttempted": "17/20[H]+12/19[A]+26/23[H]+24/10[A]+19/17[H]+12/16[A]+17/16[A]",
+        "isHome": "true+false+true+false+true+false+false",
+        "cornersTotals": "43/28",
+        "cornersTotalsHome": "14/10",
+        "cornersTotalsAway": "29/18",
+        "cornersAverage": "6.14/4.00",
+        "cornersAverageHome": "4.67/3.33",
+        "cornersAverageAway": "7.25/4.50",
+        "foulsTotals": "66/92",
+        "foulsTotalsHome": "27/45",
+        "foulsTotalsAway": "39/47",
+        "foulsAverage": "9.43/13.14",
+        "foulsAverageHome": "9.00/15.00",
+        "foulsAverageAway": "9.75/11.75",
+        "goalKicksTotals": "60/58",
+        "goalKicksTotalsHome": "26/25",
+        "goalKicksTotalsAway": "34/33",
+        "goalKicksAverage": "8.57/8.29",
+        "goalKicksAverageHome": "8.67/8.33",
+        "goalKicksAverageAway": "8.50/8.25",
+        "savesTotals": "17/20",
+        "savesTotalsHome": "7/11",
+        "savesTotalsAway": "10/9",
+        "savesAverage": "2.43/2.86",
+        "savesAverageHome": "2.33/3.67",
+        "savesAverageAway": "2.50/2.25",
+        "offsidesTotals": "11/11",
+        "offsidesTotalsHome": "6/2",
+        "offsidesTotalsAway": "5/9",
+        "offsidesAverage": "1.57/1.57",
+        "offsidesAverageHome": "2.00/0.67",
+        "offsidesAverageAway": "1.25/2.25",
+        "shotsOnTargetTotals": "36/19",
+        "shotsOnTargetTotalsHome": "19/10",
+        "shotsOnTargetTotalsAway": "17/9",
+        "shotsOnTargetAverage": "5.14/2.71",
+        "shotsOnTargetAverageHome": "6.33/3.33",
+        "shotsOnTargetAverageAway": "4.25/2.25",
+        "yellowCardsTotals": "11/11",
+        "yellowCardsTotalsHome": "2/4",
+        "yellowCardsTotalsAway": "9/7",
+        "yellowCardsAverage": "1.57/1.57",
+        "yellowCardsAverageHome": "0.67/1.33",
+        "yellowCardsAverageAway": "2.25/1.75",
+        "goalsTotals": "14/5",
+        "goalsTotalsHome": "7/4",
+        "goalsTotalsAway": "7/1",
+        "goalsAverage": "2.00/0.71",
+        "goalsAverageHome": "2.33/1.33",
+        "goalsAverageAway": "1.75/0.25",
+        "throwInsTotals": "139/145",
+        "throwInsTotalsHome": "65/55",
+        "throwInsTotalsAway": "74/90",
+        "throwInsAverage": "19.86/20.71",
+        "throwInsAverageHome": "21.67/18.33",
+        "throwInsAverageAway": "18.50/22.50",
+        "averageBallPossessionTotals": "384/316",
+        "averageBallPossessionTotalsHome": "178/122",
+        "averageBallPossessionTotalsAway": "206/194",
+        "averageBallPossessionAverage": "54.86/45.14",
+        "averageBallPossessionAverageHome": "59.33/40.67",
+        "averageBallPossessionAverageAway": "51.50/48.50",
+        "tacklesTotals": "150/144",
+        "tacklesTotalsHome": "76/67",
+        "tacklesTotalsAway": "74/77",
+        "tacklesAverage": "21.43/20.57",
+        "tacklesAverageHome": "25.33/22.33",
+        "tacklesAverageAway": "18.50/19.25",
+        "interceptionsTotals": "62/65",
+        "interceptionsTotalsHome": "30/42",
+        "interceptionsTotalsAway": "32/23",
+        "interceptionsAverage": "8.86/9.29",
+        "interceptionsAverageHome": "10.00/14.00",
+        "interceptionsAverageAway": "8.00/5.75",
+        "aerialDuelsTotals": "97/99",
+        "aerialDuelsTotalsHome": "48/43",
+        "aerialDuelsTotalsAway": "49/56",
+        "aerialDuelsAverage": "13.86/14.14",
+        "aerialDuelsAverageHome": "16.00/14.33",
+        "aerialDuelsAverageAway": "12.25/14.00",
+        "aerialDuelsAttemptedTotals": "196/196",
+        "aerialDuelsAttemptedTotalsHome": "91/91",
+        "aerialDuelsAttemptedTotalsAway": "105/105",
+        "aerialDuelsAttemptedAverage": "28.00/28.00",
+        "aerialDuelsAttemptedAverageHome": "30.33/30.33",
+        "aerialDuelsAttemptedAverageAway": "26.25/26.25",
+        "dribblesTotals": "54/50",
+        "dribblesTotalsHome": "29/26",
+        "dribblesTotalsAway": "25/24",
+        "dribblesAverage": "7.71/7.14",
+        "dribblesAverageHome": "9.67/8.67",
+        "dribblesAverageAway": "6.25/6.00",
+        "dribblesAttemptedTotals": "127/121",
+        "dribblesAttemptedTotalsHome": "62/60",
+        "dribblesAttemptedTotalsAway": "65/61",
+        "dribblesAttemptedAverage": "18.14/17.29",
+        "dribblesAttemptedAverageHome": "20.67/20.00",
+        "dribblesAttemptedAverageAway": "16.25/15.25"
     }
 }

@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "3.89",
-        "fouls": "11.72",
-        "goalKicks": "7.81",
-        "saves": "2.86",
-        "offsides": "2.00",
-        "shotsOnTarget": "4.11/4.14",
-        "yellowCards": "1.92/2.25",
-        "goals": "1.42/1.31",
-        "throwIns": "17.64",
-        "ballPossession": 50.5,
-        "tackles": "14.19/15.06",
-        "interceptions": "7.08/8.89",
-        "aerialDuels": "7.72",
-        "aerialDuelsAttempted": "16.89",
-        "dribbles": "6.69/6.69",
-        "dribblesAttempted": "14.78/13.81"
+        "corners": "3.80",
+        "fouls": "10.40",
+        "goalKicks": "6.20",
+        "saves": "3.00",
+        "offsides": "2.40",
+        "shotsOnTarget": "2.40/4.20",
+        "yellowCards": "1.60/2.20",
+        "goals": "0.40/1.00",
+        "throwIns": "16.60",
+        "ballPossession": 56,
+        "tackles": "12.20/13.40",
+        "interceptions": "8.00/9.20",
+        "aerialDuels": "7.20",
+        "aerialDuelsAttempted": "18.00",
+        "dribbles": "4.20/6.00",
+        "dribblesAttempted": "10.20/11.60"
     },
     "teamSlug": "celta-vigo",
     "teamId": "2821",
     "teamName": "Celta Vigo",
     "tournament": "LaLiga",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/getafe-celta-vigo/wgbsjhb#id:16416348,tab:statistics",
+            "teams": [
+                "Getafe",
+                "Celta Vigo"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2859,
+                2821
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/real-sociedad-celta-vigo/wgbszgb#id:16416340,tab:statistics",
+            "teams": [
+                "Real Sociedad",
+                "Celta Vigo"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                2824,
+                2821
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-celta-vigo/wgbsAgb#id:16416308,tab:statistics",
+            "teams": [
+                "Celta Vigo",
+                "Athletic Club"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                2821,
+                2825
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/celta-vigo-osasuna/vgbswgb#id:16815992,tab:statistics",
+            "teams": [
+                "Celta Vigo",
+                "Osasuna"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2821,
+                2820
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/valencia-celta-vigo/wgbsDgb#id:16416298,tab:statistics",
+            "teams": [
+                "Valencia",
+                "Celta Vigo"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                2828,
+                2821
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sevilla-celta-vigo/wgbsIgb#id:14083715,tab:statistics",
+            "teams": [
+                "Celta Vigo",
+                "Sevilla"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2821,
+                2833
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/athletic-club-celta-vigo/wgbsAgb#id:14083656,tab:statistics",
+            "teams": [
+                "Athletic Club",
+                "Celta Vigo"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2825,
+                2821
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/levante-ud-celta-vigo/wgbsZgb#id:14083613,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 2849
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/atletico-madrid-celta-vigo/wgbsLgb#id:14083551,tab:statistics",
-            "teams": [
-                "Atlético Madrid",
-                "Celta Vigo"
-            ],
-            "goals": [
-                0,
-                1
-            ],
-            "teamIds": [
-                2836,
-                2821
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/elche-celta-vigo/wgbsWgb#id:14083401,tab:statistics",
-            "teams": [
-                "Celta Vigo",
-                "Elche"
-            ],
-            "goals": [
-                3,
-                1
-            ],
-            "teamIds": [
-                2821,
-                2846
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/celta-vigo-villarreal/ugbswgb#id:14083248,tab:statistics",
-            "teams": [
-                "Villarreal",
-                "Celta Vigo"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2819,
-                2821
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/celta-vigo-barcelona/rgbswgb#id:14083261,tab:statistics",
-            "teams": [
-                "FC Barcelona",
-                "Celta Vigo"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                2817,
-                2821
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/real-oviedo-celta-vigo/wgbsbhb#id:14083123,tab:statistics",
-            "teams": [
-                "Celta Vigo",
-                "Real Oviedo"
-            ],
-            "goals": [
-                0,
-                3
-            ],
-            "teamIds": [
-                2821,
-                2851
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/valencia-celta-vigo/wgbsDgb#id:14081817,tab:statistics",
-            "teams": [
-                "Valencia",
-                "Celta Vigo"
-            ],
-            "goals": [
-                2,
-                3
-            ],
-            "teamIds": [
-                2828,
-                2821
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/deportivo-alaves-celta-vigo/wgbsKhb#id:14083689,tab:statistics",
-            "teams": [
-                "Celta Vigo",
-                "Deportivo Alavés"
-            ],
-            "goals": [
-                3,
-                4
-            ],
-            "teamIds": [
-                2821,
-                2885
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/3[A]",
+            "fouls": "9/8[A]",
+            "goalKicks": "9/17[A]",
+            "saves": "1/2[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "2/4[A]",
+            "goals": "1/1[A]",
+            "throwIns": "21/11[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "Celta Vigo,Getafe,Away",
+            "tackles": "14/9[A]",
+            "interceptions": "7/13[A]",
+            "aerialDuels": "8/11[A]",
+            "aerialDuelsAttempted": "19/19[A]",
+            "dribbles": "6/6[A]",
+            "dribblesAttempted": "10/13[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/11[A]",
+            "fouls": "11/15[A]",
+            "goalKicks": "4/10[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "15/14[A]",
+            "averageBallPossession": "49/51[A]",
+            "teams": "Celta Vigo,Real Sociedad,Away",
+            "tackles": "14/20[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "9/14[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "13/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/7[H]",
+            "fouls": "8/17[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "5/2[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "17/13[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Celta Vigo,Athletic Club,Home",
+            "tackles": "17/11[H]",
+            "interceptions": "7/11[H]",
+            "aerialDuels": "6/14[H]",
+            "aerialDuelsAttempted": "20/20[H]",
+            "dribbles": "2/5[H]",
+            "dribblesAttempted": "8/14[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/3[H]",
+            "fouls": "7/16[H]",
+            "goalKicks": "5/1[H]",
+            "saves": "2/1[H]",
+            "offsides": "3/4[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "18/14[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Celta Vigo,Osasuna,Home",
+            "tackles": "8/15[H]",
+            "interceptions": "9/9[H]",
+            "aerialDuels": "9/10[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "8/8[H]",
+            "dribblesAttempted": "12/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/1[A]",
+            "fouls": "17/17[A]",
+            "goalKicks": "3/2[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "3/2[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/0[A]",
+            "throwIns": "12/19[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Celta Vigo,Valencia,Away",
+            "tackles": "8/12[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "4/5[A]",
+            "aerialDuelsAttempted": "9/9[A]",
+            "dribbles": "2/2[A]",
+            "dribblesAttempted": "8/4[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "11/20[H]",
+            "goalKicks": "9/8[H]",
+            "saves": "2/2[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "11/15[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "Celta Vigo,Sevilla,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "8/10[H]",
+            "aerialDuels": "7/8[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "9/8[H]",
+            "dribblesAttempted": "15/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/5[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "16/1[A]",
+            "saves": "8/1[A]",
+            "offsides": "4/1[A]",
+            "shotsOnTarget": "2/9[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/24[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "Celta Vigo,Athletic Club,Away",
+            "tackles": "18/9[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "10/23[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "9/8[A]",
+            "dribblesAttempted": "13/15[A]",
+            "isHome": false
+        },
         {
             "corners": "4/4[H]",
             "fouls": "7/10[H]",
@@ -173,267 +313,127 @@
             "dribbles": "7/8[H]",
             "dribblesAttempted": "15/8[H]",
             "isHome": true
-        },
-        {
-            "corners": "0/10[A]",
-            "fouls": "13/11[A]",
-            "goalKicks": "13/3[A]",
-            "saves": "4/0[A]",
-            "offsides": "5/2[A]",
-            "shotsOnTarget": "1/4[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "1/0[A]",
-            "throwIns": "12/16[A]",
-            "averageBallPossession": "44/56[A]",
-            "teams": "Celta Vigo,Atlético Madrid,Away",
-            "tackles": "14/14[A]",
-            "interceptions": "6/6[A]",
-            "aerialDuels": "7/10[A]",
-            "aerialDuelsAttempted": "17/17[A]",
-            "dribbles": "5/2[A]",
-            "dribblesAttempted": "9/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/2[H]",
-            "fouls": "14/15[H]",
-            "goalKicks": "11/4[H]",
-            "saves": "3/1[H]",
-            "offsides": "0/1[H]",
-            "shotsOnTarget": "4/4[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "3/1[H]",
-            "throwIns": "15/22[H]",
-            "averageBallPossession": "33/67[H]",
-            "teams": "Celta Vigo,Elche,Home",
-            "tackles": "22/13[H]",
-            "interceptions": "9/5[H]",
-            "aerialDuels": "7/16[H]",
-            "aerialDuelsAttempted": "23/23[H]",
-            "dribbles": "5/8[H]",
-            "dribblesAttempted": "12/19[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/7[A]",
-            "fouls": "16/13[A]",
-            "goalKicks": "3/9[A]",
-            "saves": "2/2[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "3/4[A]",
-            "yellowCards": "6/3[A]",
-            "goals": "1/2[A]",
-            "throwIns": "15/9[A]",
-            "averageBallPossession": "53/47[A]",
-            "teams": "Celta Vigo,Villarreal,Away",
-            "tackles": "12/12[A]",
-            "interceptions": "6/9[A]",
-            "aerialDuels": "3/4[A]",
-            "aerialDuelsAttempted": "7/7[A]",
-            "dribbles": "5/9[A]",
-            "dribblesAttempted": "12/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/5[A]",
-            "fouls": "10/13[A]",
-            "goalKicks": "6/2[A]",
-            "saves": "2/3[A]",
-            "offsides": "0/3[A]",
-            "shotsOnTarget": "3/3[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "0/1[A]",
-            "throwIns": "16/12[A]",
-            "averageBallPossession": "39/61[A]",
-            "teams": "Celta Vigo,FC Barcelona,Away",
-            "tackles": "19/21[A]",
-            "interceptions": "7/11[A]",
-            "aerialDuels": "3/9[A]",
-            "aerialDuelsAttempted": "12/12[A]",
-            "dribbles": "7/10[A]",
-            "dribblesAttempted": "20/22[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/1[H]",
-            "fouls": "9/13[H]",
-            "goalKicks": "6/6[H]",
-            "saves": "3/6[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "6/5[H]",
-            "yellowCards": "1/2[H]",
-            "goals": "0/3[H]",
-            "throwIns": "30/26[H]",
-            "averageBallPossession": "68/32[H]",
-            "teams": "Celta Vigo,Real Oviedo,Home",
-            "tackles": "19/20[H]",
-            "interceptions": "6/12[H]",
-            "aerialDuels": "6/9[H]",
-            "aerialDuelsAttempted": "15/15[H]",
-            "dribbles": "8/10[H]",
-            "dribblesAttempted": "21/17[H]",
-            "isHome": true
-        },
-        {
-            "corners": "0/6[A]",
-            "fouls": "21/14[A]",
-            "goalKicks": "9/6[A]",
-            "saves": "2/2[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "5/4[A]",
-            "yellowCards": "3/1[A]",
-            "goals": "3/2[A]",
-            "throwIns": "19/15[A]",
-            "averageBallPossession": "58/42[A]",
-            "teams": "Celta Vigo,Valencia,Away",
-            "tackles": "15/19[A]",
-            "interceptions": "7/6[A]",
-            "aerialDuels": "7/6[A]",
-            "aerialDuelsAttempted": "13/13[A]",
-            "dribbles": "6/3[A]",
-            "dribblesAttempted": "13/8[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/1[H]",
-            "fouls": "13/16[H]",
-            "goalKicks": "13/7[H]",
-            "saves": "2/2[H]",
-            "offsides": "0/2[H]",
-            "shotsOnTarget": "5/6[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "3/4[H]",
-            "throwIns": "13/19[H]",
-            "averageBallPossession": "55/45[H]",
-            "teams": "Celta Vigo,Deportivo Alavés,Home",
-            "tackles": "12/20[H]",
-            "interceptions": "4/6[H]",
-            "aerialDuels": "9/7[H]",
-            "aerialDuelsAttempted": "16/16[H]",
-            "dribbles": "11/6[H]",
-            "dribblesAttempted": "22/13[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 6,
-    "startTime": "2026-05-16T12:46:26.147Z",
-    "endTime": "2026-05-16T12:47:00.022Z",
-    "totalTimeSeconds": 33.88,
+    "currentIndex": 7,
+    "startTime": "2026-09-13T12:15:22.371Z",
+    "endTime": "2026-09-13T12:15:54.337Z",
+    "totalTimeSeconds": 31.97,
     "combinedMatchStatistics": {
-        "corners": "4/4[H]+0/10[A]+4/2[H]+5/7[A]+3/5[A]+4/1[H]+0/6[A]+4/1[H]",
-        "fouls": "7/10[H]+13/11[A]+14/15[H]+16/13[A]+10/13[A]+9/13[H]+21/14[A]+13/16[H]",
-        "goalKicks": "10/5[H]+13/3[A]+11/4[H]+3/9[A]+6/2[A]+6/6[H]+9/6[A]+13/7[H]",
-        "saves": "3/4[H]+4/0[A]+3/1[H]+2/2[A]+2/3[A]+3/6[H]+2/2[A]+2/2[H]",
-        "offsides": "5/1[H]+5/2[A]+0/1[H]+2/1[A]+0/3[A]+2/2[H]+2/0[A]+0/2[H]",
-        "shotsOnTarget": "6/6[H]+1/4[A]+4/4[H]+3/4[A]+3/3[A]+6/5[H]+5/4[A]+5/6[H]",
-        "yellowCards": "0/2[H]+2/1[A]+2/1[H]+6/3[A]+1/1[A]+1/2[H]+3/1[A]+2/2[H]",
-        "goals": "2/3[H]+1/0[A]+3/1[H]+1/2[A]+0/1[A]+0/3[H]+3/2[A]+3/4[H]",
-        "throwIns": "28/14[H]+12/16[A]+15/22[H]+15/9[A]+16/12[A]+30/26[H]+19/15[A]+13/19[H]",
-        "averageBallPossession": "57/43[H]+44/56[A]+33/67[H]+53/47[A]+39/61[A]+68/32[H]+58/42[A]+55/45[H]",
-        "teams": "Celta Vigo,Levante UD,Home+Celta Vigo,Atlético Madrid,Away+Celta Vigo,Elche,Home+Celta Vigo,Villarreal,Away+Celta Vigo,FC Barcelona,Away+Celta Vigo,Real Oviedo,Home+Celta Vigo,Valencia,Away+Celta Vigo,Deportivo Alavés,Home",
-        "tackles": "1/12[H]+14/14[A]+22/13[H]+12/12[A]+19/21[A]+19/20[H]+15/19[A]+12/20[H]",
-        "interceptions": "6/11[H]+6/6[A]+9/5[H]+6/9[A]+7/11[A]+6/12[H]+7/6[A]+4/6[H]",
-        "aerialDuels": "9/13[H]+7/10[A]+7/16[H]+3/4[A]+3/9[A]+6/9[H]+7/6[A]+9/7[H]",
-        "aerialDuelsAttempted": "22/22[H]+17/17[A]+23/23[H]+7/7[A]+12/12[A]+15/15[H]+13/13[A]+16/16[H]",
-        "dribbles": "7/8[H]+5/2[A]+5/8[H]+5/9[A]+7/10[A]+8/10[H]+6/3[A]+11/6[H]",
-        "dribblesAttempted": "15/8[H]+9/13[A]+12/19[H]+12/17[A]+20/22[A]+21/17[H]+13/8[A]+22/13[H]",
-        "isHome": "true+false+true+false+false+true+false+true",
-        "cornersTotals": "24/36",
-        "cornersTotalsHome": "16/8",
-        "cornersTotalsAway": "8/28",
-        "cornersAverage": "3.00/4.50",
-        "cornersAverageHome": "4.00/2.00",
-        "cornersAverageAway": "2.00/7.00",
-        "foulsTotals": "103/105",
-        "foulsTotalsHome": "43/54",
-        "foulsTotalsAway": "60/51",
-        "foulsAverage": "12.88/13.13",
-        "foulsAverageHome": "10.75/13.50",
-        "foulsAverageAway": "15.00/12.75",
-        "goalKicksTotals": "71/42",
-        "goalKicksTotalsHome": "40/22",
-        "goalKicksTotalsAway": "31/20",
-        "goalKicksAverage": "8.88/5.25",
-        "goalKicksAverageHome": "10.00/5.50",
-        "goalKicksAverageAway": "7.75/5.00",
-        "savesTotals": "21/20",
-        "savesTotalsHome": "11/13",
-        "savesTotalsAway": "10/7",
-        "savesAverage": "2.63/2.50",
-        "savesAverageHome": "2.75/3.25",
-        "savesAverageAway": "2.50/1.75",
-        "offsidesTotals": "16/12",
-        "offsidesTotalsHome": "7/6",
-        "offsidesTotalsAway": "9/6",
-        "offsidesAverage": "2.00/1.50",
-        "offsidesAverageHome": "1.75/1.50",
-        "offsidesAverageAway": "2.25/1.50",
-        "shotsOnTargetTotals": "33/36",
-        "shotsOnTargetTotalsHome": "21/21",
-        "shotsOnTargetTotalsAway": "12/15",
-        "shotsOnTargetAverage": "4.13/4.50",
-        "shotsOnTargetAverageHome": "5.25/5.25",
-        "shotsOnTargetAverageAway": "3.00/3.75",
-        "yellowCardsTotals": "17/13",
-        "yellowCardsTotalsHome": "5/7",
-        "yellowCardsTotalsAway": "12/6",
-        "yellowCardsAverage": "2.13/1.63",
-        "yellowCardsAverageHome": "1.25/1.75",
-        "yellowCardsAverageAway": "3.00/1.50",
-        "goalsTotals": "13/16",
-        "goalsTotalsHome": "8/11",
-        "goalsTotalsAway": "5/5",
-        "goalsAverage": "1.63/2.00",
-        "goalsAverageHome": "2.00/2.75",
-        "goalsAverageAway": "1.25/1.25",
-        "throwInsTotals": "148/133",
-        "throwInsTotalsHome": "86/81",
-        "throwInsTotalsAway": "62/52",
-        "throwInsAverage": "18.50/16.63",
-        "throwInsAverageHome": "21.50/20.25",
-        "throwInsAverageAway": "15.50/13.00",
-        "averageBallPossessionTotals": "407/393",
-        "averageBallPossessionTotalsHome": "213/187",
-        "averageBallPossessionTotalsAway": "194/206",
-        "averageBallPossessionAverage": "50.88/49.13",
-        "averageBallPossessionAverageHome": "53.25/46.75",
-        "averageBallPossessionAverageAway": "48.50/51.50",
-        "tacklesTotals": "114/131",
-        "tacklesTotalsHome": "54/65",
-        "tacklesTotalsAway": "60/66",
-        "tacklesAverage": "14.25/16.38",
-        "tacklesAverageHome": "13.50/16.25",
-        "tacklesAverageAway": "15.00/16.50",
-        "interceptionsTotals": "51/66",
-        "interceptionsTotalsHome": "25/34",
-        "interceptionsTotalsAway": "26/32",
-        "interceptionsAverage": "6.38/8.25",
-        "interceptionsAverageHome": "6.25/8.50",
-        "interceptionsAverageAway": "6.50/8.00",
-        "aerialDuelsTotals": "51/74",
+        "corners": "5/3[A]+3/11[A]+4/7[H]+5/3[H]+2/1[A]+4/3[H]+0/5[A]+4/4[H]",
+        "fouls": "9/8[A]+11/15[A]+8/17[H]+7/16[H]+17/17[A]+11/20[H]+11/14[A]+7/10[H]",
+        "goalKicks": "9/17[A]+4/10[A]+10/6[H]+5/1[H]+3/2[A]+9/8[H]+16/1[A]+10/5[H]",
+        "saves": "1/2[A]+5/2[A]+5/2[H]+2/1[H]+2/3[A]+2/2[H]+8/1[A]+3/4[H]",
+        "offsides": "3/0[A]+1/2[A]+3/0[H]+3/4[H]+2/3[A]+0/2[H]+4/1[A]+5/1[H]",
+        "shotsOnTarget": "3/2[A]+2/5[A]+2/7[H]+2/5[H]+3/2[A]+3/2[H]+2/9[A]+6/6[H]",
+        "yellowCards": "2/4[A]+3/2[A]+0/3[H]+1/1[H]+3/2[A]+1/1[H]+2/2[A]+0/2[H]",
+        "goals": "1/1[A]+0/0[A]+0/2[H]+1/2[H]+0/0[A]+1/0[H]+1/1[A]+2/3[H]",
+        "throwIns": "21/11[A]+15/14[A]+17/13[H]+18/14[H]+12/19[A]+11/15[H]+17/24[A]+28/14[H]",
+        "averageBallPossession": "70/30[A]+49/51[A]+54/46[H]+52/48[H]+55/45[A]+55/45[H]+42/58[A]+57/43[H]",
+        "teams": "Celta Vigo,Getafe,Away+Celta Vigo,Real Sociedad,Away+Celta Vigo,Athletic Club,Home+Celta Vigo,Osasuna,Home+Celta Vigo,Valencia,Away+Celta Vigo,Sevilla,Home+Celta Vigo,Athletic Club,Away+Celta Vigo,Levante UD,Home",
+        "tackles": "14/9[A]+14/20[A]+17/11[H]+8/15[H]+8/12[A]+16/16[H]+18/9[A]+1/12[H]",
+        "interceptions": "7/13[A]+8/6[A]+7/11[H]+9/9[H]+9/7[A]+8/10[H]+11/12[A]+6/11[H]",
+        "aerialDuels": "8/11[A]+9/14[A]+6/14[H]+9/10[H]+4/5[A]+7/8[H]+10/23[A]+9/13[H]",
+        "aerialDuelsAttempted": "19/19[A]+23/23[A]+20/20[H]+19/19[H]+9/9[A]+15/15[H]+33/33[A]+22/22[H]",
+        "dribbles": "6/6[A]+3/9[A]+2/5[H]+8/8[H]+2/2[A]+9/8[H]+9/8[A]+7/8[H]",
+        "dribblesAttempted": "10/13[A]+13/14[A]+8/14[H]+12/13[H]+8/4[A]+15/15[H]+13/15[A]+15/8[H]",
+        "isHome": "false+false+true+true+false+true+false+true",
+        "cornersTotals": "27/37",
+        "cornersTotalsHome": "17/17",
+        "cornersTotalsAway": "10/20",
+        "cornersAverage": "3.38/4.63",
+        "cornersAverageHome": "4.25/4.25",
+        "cornersAverageAway": "2.50/5.00",
+        "foulsTotals": "81/117",
+        "foulsTotalsHome": "33/63",
+        "foulsTotalsAway": "48/54",
+        "foulsAverage": "10.13/14.63",
+        "foulsAverageHome": "8.25/15.75",
+        "foulsAverageAway": "12.00/13.50",
+        "goalKicksTotals": "66/50",
+        "goalKicksTotalsHome": "34/20",
+        "goalKicksTotalsAway": "32/30",
+        "goalKicksAverage": "8.25/6.25",
+        "goalKicksAverageHome": "8.50/5.00",
+        "goalKicksAverageAway": "8.00/7.50",
+        "savesTotals": "28/17",
+        "savesTotalsHome": "12/9",
+        "savesTotalsAway": "16/8",
+        "savesAverage": "3.50/2.13",
+        "savesAverageHome": "3.00/2.25",
+        "savesAverageAway": "4.00/2.00",
+        "offsidesTotals": "21/13",
+        "offsidesTotalsHome": "11/7",
+        "offsidesTotalsAway": "10/6",
+        "offsidesAverage": "2.63/1.63",
+        "offsidesAverageHome": "2.75/1.75",
+        "offsidesAverageAway": "2.50/1.50",
+        "shotsOnTargetTotals": "23/38",
+        "shotsOnTargetTotalsHome": "13/20",
+        "shotsOnTargetTotalsAway": "10/18",
+        "shotsOnTargetAverage": "2.88/4.75",
+        "shotsOnTargetAverageHome": "3.25/5.00",
+        "shotsOnTargetAverageAway": "2.50/4.50",
+        "yellowCardsTotals": "12/17",
+        "yellowCardsTotalsHome": "2/7",
+        "yellowCardsTotalsAway": "10/10",
+        "yellowCardsAverage": "1.50/2.13",
+        "yellowCardsAverageHome": "0.50/1.75",
+        "yellowCardsAverageAway": "2.50/2.50",
+        "goalsTotals": "6/9",
+        "goalsTotalsHome": "4/7",
+        "goalsTotalsAway": "2/2",
+        "goalsAverage": "0.75/1.13",
+        "goalsAverageHome": "1.00/1.75",
+        "goalsAverageAway": "0.50/0.50",
+        "throwInsTotals": "139/124",
+        "throwInsTotalsHome": "74/56",
+        "throwInsTotalsAway": "65/68",
+        "throwInsAverage": "17.38/15.50",
+        "throwInsAverageHome": "18.50/14.00",
+        "throwInsAverageAway": "16.25/17.00",
+        "averageBallPossessionTotals": "434/366",
+        "averageBallPossessionTotalsHome": "218/182",
+        "averageBallPossessionTotalsAway": "216/184",
+        "averageBallPossessionAverage": "54.25/45.75",
+        "averageBallPossessionAverageHome": "54.50/45.50",
+        "averageBallPossessionAverageAway": "54.00/46.00",
+        "tacklesTotals": "96/104",
+        "tacklesTotalsHome": "42/54",
+        "tacklesTotalsAway": "54/50",
+        "tacklesAverage": "12.00/13.00",
+        "tacklesAverageHome": "10.50/13.50",
+        "tacklesAverageAway": "13.50/12.50",
+        "interceptionsTotals": "65/79",
+        "interceptionsTotalsHome": "30/41",
+        "interceptionsTotalsAway": "35/38",
+        "interceptionsAverage": "8.13/9.88",
+        "interceptionsAverageHome": "7.50/10.25",
+        "interceptionsAverageAway": "8.75/9.50",
+        "aerialDuelsTotals": "62/98",
         "aerialDuelsTotalsHome": "31/45",
-        "aerialDuelsTotalsAway": "20/29",
-        "aerialDuelsAverage": "6.38/9.25",
+        "aerialDuelsTotalsAway": "31/53",
+        "aerialDuelsAverage": "7.75/12.25",
         "aerialDuelsAverageHome": "7.75/11.25",
-        "aerialDuelsAverageAway": "5.00/7.25",
-        "aerialDuelsAttemptedTotals": "125/125",
+        "aerialDuelsAverageAway": "7.75/13.25",
+        "aerialDuelsAttemptedTotals": "160/160",
         "aerialDuelsAttemptedTotalsHome": "76/76",
-        "aerialDuelsAttemptedTotalsAway": "49/49",
-        "aerialDuelsAttemptedAverage": "15.63/15.63",
+        "aerialDuelsAttemptedTotalsAway": "84/84",
+        "aerialDuelsAttemptedAverage": "20.00/20.00",
         "aerialDuelsAttemptedAverageHome": "19.00/19.00",
-        "aerialDuelsAttemptedAverageAway": "12.25/12.25",
-        "dribblesTotals": "54/56",
-        "dribblesTotalsHome": "31/32",
-        "dribblesTotalsAway": "23/24",
-        "dribblesAverage": "6.75/7.00",
-        "dribblesAverageHome": "7.75/8.00",
-        "dribblesAverageAway": "5.75/6.00",
-        "dribblesAttemptedTotals": "124/117",
-        "dribblesAttemptedTotalsHome": "70/57",
-        "dribblesAttemptedTotalsAway": "54/60",
-        "dribblesAttemptedAverage": "15.50/14.63",
-        "dribblesAttemptedAverageHome": "17.50/14.25",
-        "dribblesAttemptedAverageAway": "13.50/15.00"
+        "aerialDuelsAttemptedAverageAway": "21.00/21.00",
+        "dribblesTotals": "46/54",
+        "dribblesTotalsHome": "26/29",
+        "dribblesTotalsAway": "20/25",
+        "dribblesAverage": "5.75/6.75",
+        "dribblesAverageHome": "6.50/7.25",
+        "dribblesAverageAway": "5.00/6.25",
+        "dribblesAttemptedTotals": "94/96",
+        "dribblesAttemptedTotalsHome": "50/50",
+        "dribblesAttemptedTotalsAway": "44/46",
+        "dribblesAttemptedAverage": "11.75/12.00",
+        "dribblesAttemptedAverageHome": "12.50/12.50",
+        "dribblesAttemptedAverageAway": "11.00/11.50"
     }
 }

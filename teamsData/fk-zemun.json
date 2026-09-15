@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "3.38",
+        "fouls": "12.50",
+        "goalKicks": "12.75",
+        "saves": "5.50",
+        "offsides": "1.63",
+        "shotsOnTarget": "2.38/7.50",
+        "yellowCards": "3.00/2.38",
+        "goals": "0.38/2.00",
+        "throwIns": "17.63",
+        "ballPossession": 36.625,
+        "tackles": "16.13/13.13",
+        "interceptions": "8.38/6.88",
+        "aerialDuels": "17.13",
+        "aerialDuelsAttempted": "32.38",
+        "dribbles": "5.75/7.50",
+        "dribblesAttempted": "11.75/16.25"
+    },
+    "teamSlug": "fk-zemun",
+    "teamId": "5157",
+    "teamName": "FK Zemun",
+    "tournament": "Mozzart Bet Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zemun-fk-vojvodina/adcshdc#id:16326448,tab:statistics",
+            "teams": [
+                "FK Vojvodina",
+                "FK Zemun"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                5150,
+                5157
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zemun-fk-crvena-zvezda/Zccshdc#id:16326446,tab:statistics",
+            "teams": [
+                "FK Zemun",
+                "FK Crvena Zvezda"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                5157,
+                5149
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zemun-ofk-beograd/ddcshdc#id:16326435,tab:statistics",
+            "teams": [
+                "OFK Beograd Mozzart Bet",
+                "FK Zemun"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                5153,
+                5157
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-mladost-lucani-fk-zemun/hdcswfd#id:16326430,tab:statistics",
+            "teams": [
+                "FK Zemun",
+                "FK Mladost Lučani"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                5157,
+                7771
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnicki-1923-fk-zemun/hdcsGEr#id:16326420,tab:statistics",
+            "teams": [
+                "FK Radnički 1923",
+                "FK Zemun"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                43981,
+                5157
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnicki-nis-fk-zemun/hdcsMok#id:16326415,tab:statistics",
+            "teams": [
+                "FK Zemun",
+                "FK Radnički Niš"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                5157,
+                25737
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-zemun/hdcsBnyc#id:16326405,tab:statistics",
+            "teams": [
+                "FK IMT Beograd",
+                "FK Zemun"
+            ],
+            "goals": [
+                4,
+                0
+            ],
+            "teamIds": [
+                308176,
+                5157
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zemun-fk-partizan/cdcshdc#id:16326600,tab:statistics",
+            "teams": [
+                "FK Zemun",
+                "FK Partizan"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                5157,
+                5152
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/5[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "20/3[A]",
+            "saves": "6/4[A]",
+            "offsides": "2/0[A]",
+            "shotsOnTarget": "5/8[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "17/26[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "FK Zemun,FK Vojvodina,Away",
+            "tackles": "15/12[A]",
+            "interceptions": "9/6[A]",
+            "aerialDuels": "24/21[A]",
+            "aerialDuelsAttempted": "45/45[A]",
+            "dribbles": "5/7[A]",
+            "dribblesAttempted": "13/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/5[H]",
+            "fouls": "13/11[H]",
+            "goalKicks": "11/4[H]",
+            "saves": "10/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "3/12[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/2[H]",
+            "throwIns": "9/12[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "FK Zemun,FK Crvena Zvezda,Home",
+            "tackles": "23/19[H]",
+            "interceptions": "6/9[H]",
+            "aerialDuels": "8/9[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "5/11[H]",
+            "dribblesAttempted": "15/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/2[A]",
+            "fouls": "24/21[A]",
+            "goalKicks": "15/3[A]",
+            "saves": "2/1[A]",
+            "offsides": "6/0[A]",
+            "shotsOnTarget": "1/3[A]",
+            "yellowCards": "4/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/18[A]",
+            "averageBallPossession": "30/70[A]",
+            "teams": "FK Zemun,OFK Beograd Mozzart Bet,Away",
+            "tackles": "12/15[A]",
+            "interceptions": "10/7[A]",
+            "aerialDuels": "15/13[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "12/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "9/21[H]",
+            "goalKicks": "6/13[H]",
+            "saves": "2/3[H]",
+            "offsides": "0/1[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "2/4[H]",
+            "goals": "0/1[H]",
+            "throwIns": "20/16[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "FK Zemun,FK Mladost Lučani,Home",
+            "tackles": "15/13[H]",
+            "interceptions": "10/9[H]",
+            "aerialDuels": "19/20[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "13/3[H]",
+            "dribblesAttempted": "22/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "8/15[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "3/2[A]",
+            "offsides": "0/0[A]",
+            "shotsOnTarget": "2/6[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "0/3[A]",
+            "throwIns": "28/16[A]",
+            "averageBallPossession": "42/58[A]",
+            "teams": "FK Zemun,FK Radnički 1923,Away",
+            "tackles": "13/15[A]",
+            "interceptions": "3/6[A]",
+            "aerialDuels": "23/12[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "10/17[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "15/17[H]",
+            "goalKicks": "18/3[H]",
+            "saves": "10/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/11[H]",
+            "yellowCards": "5/2[H]",
+            "goals": "0/1[H]",
+            "throwIns": "18/16[H]",
+            "averageBallPossession": "34/66[H]",
+            "teams": "FK Zemun,FK Radnički Niš,Home",
+            "tackles": "16/14[H]",
+            "interceptions": "15/4[H]",
+            "aerialDuels": "17/17[H]",
+            "aerialDuelsAttempted": "34/34[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "7/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/11[A]",
+            "fouls": "4/15[A]",
+            "goalKicks": "11/3[A]",
+            "saves": "5/0[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "0/9[A]",
+            "yellowCards": "0/2[A]",
+            "goals": "0/4[A]",
+            "throwIns": "15/18[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "FK Zemun,FK IMT Beograd,Away",
+            "tackles": "16/9[A]",
+            "interceptions": "5/6[A]",
+            "aerialDuels": "15/13[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "3/3[A]",
+            "dribblesAttempted": "7/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "0/5[H]",
+            "fouls": "14/11[H]",
+            "goalKicks": "10/8[H]",
+            "saves": "6/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/8[H]",
+            "yellowCards": "4/2[H]",
+            "goals": "2/2[H]",
+            "throwIns": "13/18[H]",
+            "averageBallPossession": "32/68[H]",
+            "teams": "FK Zemun,FK Partizan,Home",
+            "tackles": "19/8[H]",
+            "interceptions": "9/8[H]",
+            "aerialDuels": "16/17[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "3/11[H]",
+            "dribblesAttempted": "8/22[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-09-14T06:34:37.748Z",
+    "endTime": "2026-09-14T06:34:54.848Z",
+    "totalTimeSeconds": 17.1,
+    "combinedMatchStatistics": {
+        "corners": "3/5[A]+4/5[H]+3/2[A]+9/3[H]+5/5[A]+1/7[H]+2/11[A]+0/5[H]",
+        "fouls": "13/14[A]+13/11[H]+24/21[A]+9/21[H]+8/15[A]+15/17[H]+4/15[A]+14/11[H]",
+        "goalKicks": "20/3[A]+11/4[H]+15/3[A]+6/13[H]+11/8[A]+18/3[H]+11/3[A]+10/8[H]",
+        "saves": "6/4[A]+10/3[H]+2/1[A]+2/3[H]+3/2[A]+10/2[H]+5/0[A]+6/2[H]",
+        "offsides": "2/0[A]+1/2[H]+6/0[A]+0/1[H]+0/0[A]+1/2[H]+2/2[A]+1/0[H]",
+        "shotsOnTarget": "5/8[A]+3/12[H]+1/3[A]+3/3[H]+2/6[A]+2/11[H]+0/9[A]+3/8[H]",
+        "yellowCards": "3/1[A]+3/3[H]+4/1[A]+2/4[H]+4/4[A]+5/2[H]+0/2[A]+4/2[H]",
+        "goals": "1/2[A]+0/2[H]+0/1[A]+0/1[H]+0/3[A]+0/1[H]+0/4[A]+2/2[H]",
+        "throwIns": "17/26[A]+9/12[H]+21/18[A]+20/16[H]+28/16[A]+18/16[H]+15/18[A]+13/18[H]",
+        "averageBallPossession": "30/70[A]+34/66[H]+30/70[A]+60/40[H]+42/58[A]+34/66[H]+31/69[A]+32/68[H]",
+        "teams": "FK Zemun,FK Vojvodina,Away+FK Zemun,FK Crvena Zvezda,Home+FK Zemun,OFK Beograd Mozzart Bet,Away+FK Zemun,FK Mladost Lučani,Home+FK Zemun,FK Radnički 1923,Away+FK Zemun,FK Radnički Niš,Home+FK Zemun,FK IMT Beograd,Away+FK Zemun,FK Partizan,Home",
+        "tackles": "15/12[A]+23/19[H]+12/15[A]+15/13[H]+13/15[A]+16/14[H]+16/9[A]+19/8[H]",
+        "interceptions": "9/6[A]+6/9[H]+10/7[A]+10/9[H]+3/6[A]+15/4[H]+5/6[A]+9/8[H]",
+        "aerialDuels": "24/21[A]+8/9[H]+15/13[A]+19/20[H]+23/12[A]+17/17[H]+15/13[A]+16/17[H]",
+        "aerialDuelsAttempted": "45/45[A]+17/17[H]+28/28[A]+39/39[H]+35/35[A]+34/34[H]+28/28[A]+33/33[H]",
+        "dribbles": "5/7[A]+5/11[H]+7/10[A]+13/3[H]+8/7[A]+2/8[H]+3/3[A]+3/11[H]",
+        "dribblesAttempted": "13/14[A]+15/24[H]+12/15[A]+22/10[H]+10/17[A]+7/13[H]+7/15[A]+8/22[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "27/43",
+        "cornersTotalsHome": "14/20",
+        "cornersTotalsAway": "13/23",
+        "cornersAverage": "3.38/5.38",
+        "cornersAverageHome": "3.50/5.00",
+        "cornersAverageAway": "3.25/5.75",
+        "foulsTotals": "100/125",
+        "foulsTotalsHome": "51/60",
+        "foulsTotalsAway": "49/65",
+        "foulsAverage": "12.50/15.63",
+        "foulsAverageHome": "12.75/15.00",
+        "foulsAverageAway": "12.25/16.25",
+        "goalKicksTotals": "102/45",
+        "goalKicksTotalsHome": "45/28",
+        "goalKicksTotalsAway": "57/17",
+        "goalKicksAverage": "12.75/5.63",
+        "goalKicksAverageHome": "11.25/7.00",
+        "goalKicksAverageAway": "14.25/4.25",
+        "savesTotals": "44/17",
+        "savesTotalsHome": "28/10",
+        "savesTotalsAway": "16/7",
+        "savesAverage": "5.50/2.13",
+        "savesAverageHome": "7.00/2.50",
+        "savesAverageAway": "4.00/1.75",
+        "offsidesTotals": "13/7",
+        "offsidesTotalsHome": "3/5",
+        "offsidesTotalsAway": "10/2",
+        "offsidesAverage": "1.63/0.88",
+        "offsidesAverageHome": "0.75/1.25",
+        "offsidesAverageAway": "2.50/0.50",
+        "shotsOnTargetTotals": "19/60",
+        "shotsOnTargetTotalsHome": "11/34",
+        "shotsOnTargetTotalsAway": "8/26",
+        "shotsOnTargetAverage": "2.38/7.50",
+        "shotsOnTargetAverageHome": "2.75/8.50",
+        "shotsOnTargetAverageAway": "2.00/6.50",
+        "yellowCardsTotals": "25/19",
+        "yellowCardsTotalsHome": "14/11",
+        "yellowCardsTotalsAway": "11/8",
+        "yellowCardsAverage": "3.13/2.38",
+        "yellowCardsAverageHome": "3.50/2.75",
+        "yellowCardsAverageAway": "2.75/2.00",
+        "goalsTotals": "3/16",
+        "goalsTotalsHome": "2/6",
+        "goalsTotalsAway": "1/10",
+        "goalsAverage": "0.38/2.00",
+        "goalsAverageHome": "0.50/1.50",
+        "goalsAverageAway": "0.25/2.50",
+        "throwInsTotals": "141/140",
+        "throwInsTotalsHome": "60/62",
+        "throwInsTotalsAway": "81/78",
+        "throwInsAverage": "17.63/17.50",
+        "throwInsAverageHome": "15.00/15.50",
+        "throwInsAverageAway": "20.25/19.50",
+        "averageBallPossessionTotals": "293/507",
+        "averageBallPossessionTotalsHome": "160/240",
+        "averageBallPossessionTotalsAway": "133/267",
+        "averageBallPossessionAverage": "36.63/63.38",
+        "averageBallPossessionAverageHome": "40.00/60.00",
+        "averageBallPossessionAverageAway": "33.25/66.75",
+        "tacklesTotals": "129/105",
+        "tacklesTotalsHome": "73/54",
+        "tacklesTotalsAway": "56/51",
+        "tacklesAverage": "16.13/13.13",
+        "tacklesAverageHome": "18.25/13.50",
+        "tacklesAverageAway": "14.00/12.75",
+        "interceptionsTotals": "67/55",
+        "interceptionsTotalsHome": "40/30",
+        "interceptionsTotalsAway": "27/25",
+        "interceptionsAverage": "8.38/6.88",
+        "interceptionsAverageHome": "10.00/7.50",
+        "interceptionsAverageAway": "6.75/6.25",
+        "aerialDuelsTotals": "137/122",
+        "aerialDuelsTotalsHome": "60/63",
+        "aerialDuelsTotalsAway": "77/59",
+        "aerialDuelsAverage": "17.13/15.25",
+        "aerialDuelsAverageHome": "15.00/15.75",
+        "aerialDuelsAverageAway": "19.25/14.75",
+        "aerialDuelsAttemptedTotals": "259/259",
+        "aerialDuelsAttemptedTotalsHome": "123/123",
+        "aerialDuelsAttemptedTotalsAway": "136/136",
+        "aerialDuelsAttemptedAverage": "32.38/32.38",
+        "aerialDuelsAttemptedAverageHome": "30.75/30.75",
+        "aerialDuelsAttemptedAverageAway": "34.00/34.00",
+        "dribblesTotals": "46/60",
+        "dribblesTotalsHome": "23/33",
+        "dribblesTotalsAway": "23/27",
+        "dribblesAverage": "5.75/7.50",
+        "dribblesAverageHome": "5.75/8.25",
+        "dribblesAverageAway": "5.75/6.75",
+        "dribblesAttemptedTotals": "94/130",
+        "dribblesAttemptedTotalsHome": "52/69",
+        "dribblesAttemptedTotalsAway": "42/61",
+        "dribblesAttemptedAverage": "11.75/16.25",
+        "dribblesAttemptedAverageHome": "13.00/17.25",
+        "dribblesAttemptedAverageAway": "10.50/15.25"
+    }
+}

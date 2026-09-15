@@ -1,27 +1,123 @@
 {
     "globalStatistics": {
-        "corners": "7.03",
-        "fouls": "10.33",
-        "goalKicks": "6.94",
-        "saves": "2.67",
-        "offsides": "1.48",
-        "shotsOnTarget": "7.24/4.03",
-        "yellowCards": "1.45/1.55",
-        "goals": "2.91/1.33",
-        "throwIns": "18.48",
-        "ballPossession": 61.060606060606,
-        "tackles": "17.00/16.94",
-        "interceptions": "8.15/9.67",
-        "aerialDuels": "13.85",
-        "aerialDuelsAttempted": "25.15",
-        "dribbles": "8.91/6.55",
-        "dribblesAttempted": "17.97/15.85"
+        "corners": "7.80",
+        "fouls": "8.60",
+        "goalKicks": "4.00",
+        "saves": "2.40",
+        "offsides": "0.60",
+        "shotsOnTarget": "9.00/3.80",
+        "yellowCards": "1.80/2.40",
+        "goals": "3.60/1.20",
+        "throwIns": "21.60",
+        "ballPossession": 62,
+        "tackles": "16.20/17.60",
+        "interceptions": "9.80/8.00",
+        "aerialDuels": "11.60",
+        "aerialDuelsAttempted": "20.60",
+        "dribbles": "8.60/5.00",
+        "dribblesAttempted": "17.60/10.40"
     },
     "teamSlug": "psv-eindhoven",
     "teamId": "2952",
     "teamName": "PSV Eindhoven",
     "tournament": "VriendenLoterij Eredivisie",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/afc-ajax-psv-eindhoven/cjbsdjb#id:16316804,tab:statistics",
+            "teams": [
+                "AFC Ajax",
+                "PSV Eindhoven"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                2953,
+                2952
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/psv-eindhoven-fc-utrecht/Yibscjb#id:16316795,tab:statistics",
+            "teams": [
+                "FC Utrecht",
+                "PSV Eindhoven"
+            ],
+            "goals": [
+                1,
+                6
+            ],
+            "teamIds": [
+                2948,
+                2952
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/psv-eindhoven-fc-groningen/bjbscjb#id:16316774,tab:statistics",
+            "teams": [
+                "PSV Eindhoven",
+                "FC Groningen"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                2952,
+                2951
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-psv-eindhoven/cjbsrjb#id:16316790,tab:statistics",
+            "teams": [
+                "Excelsior",
+                "PSV Eindhoven"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2967,
+                2952
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fortuna-sittard-psv-eindhoven/cjbshjb#id:16316792,tab:statistics",
+            "teams": [
+                "PSV Eindhoven",
+                "Fortuna Sittard"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2952,
+                2957
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-twente-psv-eindhoven/cjbsfjb#id:14028530,tab:statistics",
+            "teams": [
+                "PSV Eindhoven",
+                "FC Twente"
+            ],
+            "goals": [
+                5,
+                1
+            ],
+            "teamIds": [
+                2952,
+                2955
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/go-ahead-eagles-psv-eindhoven/cjbsEjb#id:14028548,tab:statistics",
             "teams": [
@@ -34,22 +130,6 @@
             ],
             "teamIds": [
                 2979,
-                2952
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/afc-ajax-psv-eindhoven/cjbsdjb#id:14028539,tab:statistics",
-            "teams": [
-                "AFC Ajax",
-                "PSV Eindhoven"
-            ],
-            "goals": [
-                2,
-                2
-            ],
-            "teamIds": [
-                2953,
                 2952
             ],
             "isHome": false
@@ -69,91 +149,131 @@
                 2971
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sparta-rotterdam-psv-eindhoven/cjbskjb#id:14053789,tab:statistics",
-            "teams": [
-                "Sparta Rotterdam",
-                "PSV Eindhoven"
-            ],
-            "goals": [
-                0,
-                2
-            ],
-            "teamIds": [
-                2960,
-                2952
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/psv-eindhoven-fc-utrecht/Yibscjb#id:14053764,tab:statistics",
-            "teams": [
-                "PSV Eindhoven",
-                "FC Utrecht"
-            ],
-            "goals": [
-                4,
-                3
-            ],
-            "teamIds": [
-                2952,
-                2948
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/sc-telstar-psv-eindhoven/cjbsxjb#id:14053751,tab:statistics",
-            "teams": [
-                "SC Telstar",
-                "PSV Eindhoven"
-            ],
-            "goals": [
-                3,
-                1
-            ],
-            "teamIds": [
-                2972,
-                2952
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nec-nijmegen-psv-eindhoven/cjbsmjb#id:14053716,tab:statistics",
-            "teams": [
-                "PSV Eindhoven",
-                "NEC Nijmegen"
-            ],
-            "goals": [
-                2,
-                3
-            ],
-            "teamIds": [
-                2952,
-                2962
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/psv-eindhoven-az-alkmaar/ajbscjb#id:14053691,tab:statistics",
-            "teams": [
-                "PSV Eindhoven",
-                "AZ Alkmaar"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2952,
-                2950
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "1/1[A]",
+            "fouls": "13/6[A]",
+            "goalKicks": "7/6[A]",
+            "saves": "5/2[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "6/4[A]",
+            "goals": "3/1[A]",
+            "throwIns": "16/23[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "PSV Eindhoven,AFC Ajax,Away",
+            "tackles": "26/24[A]",
+            "interceptions": "15/14[A]",
+            "aerialDuels": "11/11[A]",
+            "aerialDuelsAttempted": "22/22[A]",
+            "dribbles": "11/7[A]",
+            "dribblesAttempted": "21/12[A]",
+            "isHome": false
+        },
+        {
+            "corners": "13/0[A]",
+            "fouls": "8/21[A]",
+            "goalKicks": "2/13[A]",
+            "saves": "0/7[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "14/1[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "6/1[A]",
+            "throwIns": "23/16[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "PSV Eindhoven,FC Utrecht,Away",
+            "tackles": "11/23[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "10/7[A]",
+            "aerialDuelsAttempted": "17/17[A]",
+            "dribbles": "8/3[A]",
+            "dribblesAttempted": "18/8[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/4[H]",
+            "fouls": "10/4[H]",
+            "goalKicks": "3/15[H]",
+            "saves": "2/7[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "12/4[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "5/1[H]",
+            "throwIns": "15/13[H]",
+            "averageBallPossession": "62/38[H]",
+            "teams": "PSV Eindhoven,FC Groningen,Home",
+            "tackles": "14/14[H]",
+            "interceptions": "11/5[H]",
+            "aerialDuels": "11/4[H]",
+            "aerialDuelsAttempted": "15/15[H]",
+            "dribbles": "10/6[H]",
+            "dribblesAttempted": "20/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/1[A]",
+            "fouls": "3/9[A]",
+            "goalKicks": "5/9[A]",
+            "saves": "1/7[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "8/2[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "2/1[A]",
+            "throwIns": "29/24[A]",
+            "averageBallPossession": "59/41[A]",
+            "teams": "PSV Eindhoven,Excelsior,Away",
+            "tackles": "18/16[A]",
+            "interceptions": "8/6[A]",
+            "aerialDuels": "14/14[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "8/2[A]",
+            "dribblesAttempted": "16/6[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/0[H]",
+            "fouls": "9/6[H]",
+            "goalKicks": "3/9[H]",
+            "saves": "4/4[H]",
+            "offsides": "0/4[H]",
+            "shotsOnTarget": "6/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "25/13[H]",
+            "averageBallPossession": "76/24[H]",
+            "teams": "PSV Eindhoven,Fortuna Sittard,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "12/9[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "6/7[H]",
+            "dribblesAttempted": "13/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "11/9[H]",
+            "fouls": "7/5[H]",
+            "goalKicks": "12/7[H]",
+            "saves": "5/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "7/6[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "5/1[H]",
+            "throwIns": "21/20[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "PSV Eindhoven,FC Twente,Home",
+            "tackles": "7/13[H]",
+            "interceptions": "10/14[H]",
+            "aerialDuels": "18/15[H]",
+            "aerialDuelsAttempted": "33/33[H]",
+            "dribbles": "16/3[H]",
+            "dribblesAttempted": "24/9[H]",
+            "isHome": true
+        },
         {
             "corners": "4/8[A]",
             "fouls": "7/9[A]",
@@ -175,26 +295,6 @@
             "isHome": false
         },
         {
-            "corners": "4/6[A]",
-            "fouls": "14/7[A]",
-            "goalKicks": "6/6[A]",
-            "saves": "2/1[A]",
-            "offsides": "0/1[A]",
-            "shotsOnTarget": "2/4[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "2/2[A]",
-            "throwIns": "17/15[A]",
-            "averageBallPossession": "51/49[A]",
-            "teams": "PSV Eindhoven,AFC Ajax,Away",
-            "tackles": "17/14[A]",
-            "interceptions": "11/10[A]",
-            "aerialDuels": "16/10[A]",
-            "aerialDuelsAttempted": "26/26[A]",
-            "dribbles": "4/8[A]",
-            "dribblesAttempted": "7/19[A]",
-            "isHome": false
-        },
-        {
             "corners": "4/4[H]",
             "fouls": "10/4[H]",
             "goalKicks": "2/5[H]",
@@ -213,227 +313,127 @@
             "dribbles": "13/5[H]",
             "dribblesAttempted": "26/15[H]",
             "isHome": true
-        },
-        {
-            "corners": "5/2[A]",
-            "fouls": "12/6[A]",
-            "goalKicks": "7/9[A]",
-            "saves": "4/3[A]",
-            "offsides": "0/0[A]",
-            "shotsOnTarget": "5/4[A]",
-            "yellowCards": "6/1[A]",
-            "goals": "2/0[A]",
-            "throwIns": "16/11[A]",
-            "averageBallPossession": "61/39[A]",
-            "teams": "PSV Eindhoven,Sparta Rotterdam,Away",
-            "tackles": "16/16[A]",
-            "interceptions": "9/10[A]",
-            "aerialDuels": "16/16[A]",
-            "aerialDuelsAttempted": "32/32[A]",
-            "dribbles": "6/8[A]",
-            "dribblesAttempted": "13/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "8/3[H]",
-            "fouls": "6/10[H]",
-            "goalKicks": "4/9[H]",
-            "saves": "4/4[H]",
-            "offsides": "1/0[H]",
-            "shotsOnTarget": "8/7[H]",
-            "yellowCards": "0/1[H]",
-            "goals": "4/3[H]",
-            "throwIns": "16/18[H]",
-            "averageBallPossession": "63/37[H]",
-            "teams": "PSV Eindhoven,FC Utrecht,Home",
-            "tackles": "16/19[H]",
-            "interceptions": "11/7[H]",
-            "aerialDuels": "10/12[H]",
-            "aerialDuelsAttempted": "22/22[H]",
-            "dribbles": "10/4[H]",
-            "dribblesAttempted": "17/10[H]",
-            "isHome": true
-        },
-        {
-            "corners": "12/1[A]",
-            "fouls": "4/5[A]",
-            "goalKicks": "11/10[A]",
-            "saves": "5/7[A]",
-            "offsides": "2/2[A]",
-            "shotsOnTarget": "8/8[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "1/3[A]",
-            "throwIns": "13/20[A]",
-            "averageBallPossession": "52/48[A]",
-            "teams": "PSV Eindhoven,SC Telstar,Away",
-            "tackles": "16/15[A]",
-            "interceptions": "7/4[A]",
-            "aerialDuels": "16/7[A]",
-            "aerialDuelsAttempted": "23/23[A]",
-            "dribbles": "11/9[A]",
-            "dribblesAttempted": "19/19[A]",
-            "isHome": false
-        },
-        {
-            "corners": "7/7[H]",
-            "fouls": "8/12[H]",
-            "goalKicks": "9/12[H]",
-            "saves": "3/4[H]",
-            "offsides": "3/0[H]",
-            "shotsOnTarget": "6/6[H]",
-            "yellowCards": "0/3[H]",
-            "goals": "2/3[H]",
-            "throwIns": "39/18[H]",
-            "averageBallPossession": "70/30[H]",
-            "teams": "PSV Eindhoven,NEC Nijmegen,Home",
-            "tackles": "21/18[H]",
-            "interceptions": "2/8[H]",
-            "aerialDuels": "18/18[H]",
-            "aerialDuelsAttempted": "36/36[H]",
-            "dribbles": "10/4[H]",
-            "dribblesAttempted": "22/20[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/6[H]",
-            "fouls": "7/4[H]",
-            "goalKicks": "5/9[H]",
-            "saves": "4/7[H]",
-            "offsides": "0/1[H]",
-            "shotsOnTarget": "8/5[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "2/1[H]",
-            "throwIns": "13/18[H]",
-            "averageBallPossession": "64/36[H]",
-            "teams": "PSV Eindhoven,AZ Alkmaar,Home",
-            "tackles": "15/16[H]",
-            "interceptions": "5/12[H]",
-            "aerialDuels": "27/10[H]",
-            "aerialDuelsAttempted": "37/37[H]",
-            "dribbles": "11/8[H]",
-            "dribblesAttempted": "18/13[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 7,
-    "startTime": "2026-05-16T13:21:05.581Z",
-    "endTime": "2026-05-16T13:21:45.499Z",
-    "totalTimeSeconds": 39.92,
+    "currentIndex": 6,
+    "startTime": "2026-09-13T12:25:37.781Z",
+    "endTime": "2026-09-13T12:26:08.626Z",
+    "totalTimeSeconds": 30.84,
     "combinedMatchStatistics": {
-        "corners": "4/8[A]+4/6[A]+4/4[H]+5/2[A]+8/3[H]+12/1[A]+7/7[H]+5/6[H]",
-        "fouls": "7/9[A]+14/7[A]+10/4[H]+12/6[A]+6/10[H]+4/5[A]+8/12[H]+7/4[H]",
-        "goalKicks": "4/7[A]+6/6[A]+2/5[H]+7/9[A]+4/9[H]+11/10[A]+9/12[H]+5/9[H]",
-        "saves": "3/6[A]+2/1[A]+3/5[H]+4/3[A]+4/4[H]+5/7[A]+3/4[H]+4/7[H]",
-        "offsides": "1/2[A]+0/1[A]+2/0[H]+0/0[A]+1/0[H]+2/2[A]+3/0[H]+0/1[H]",
-        "shotsOnTarget": "10/4[A]+2/4[A]+11/4[H]+5/4[A]+8/7[H]+8/8[A]+6/6[H]+8/5[H]",
-        "yellowCards": "0/0[A]+2/1[A]+1/1[H]+6/1[A]+0/1[H]+1/1[A]+0/3[H]+2/1[H]",
-        "goals": "4/1[A]+2/2[A]+6/1[H]+2/0[A]+4/3[H]+1/3[A]+2/3[H]+2/1[H]",
-        "throwIns": "15/11[A]+17/15[A]+22/10[H]+16/11[A]+16/18[H]+13/20[A]+39/18[H]+13/18[H]",
-        "averageBallPossession": "59/41[A]+51/49[A]+67/33[H]+61/39[A]+63/37[H]+52/48[A]+70/30[H]+64/36[H]",
-        "teams": "PSV Eindhoven,Go Ahead Eagles,Away+PSV Eindhoven,AFC Ajax,Away+PSV Eindhoven,PEC Zwolle,Home+PSV Eindhoven,Sparta Rotterdam,Away+PSV Eindhoven,FC Utrecht,Home+PSV Eindhoven,SC Telstar,Away+PSV Eindhoven,NEC Nijmegen,Home+PSV Eindhoven,AZ Alkmaar,Home",
-        "tackles": "15/15[A]+17/14[A]+17/20[H]+16/16[A]+16/19[H]+16/15[A]+21/18[H]+15/16[H]",
-        "interceptions": "5/4[A]+11/10[A]+11/11[H]+9/10[A]+11/7[H]+7/4[A]+2/8[H]+5/12[H]",
-        "aerialDuels": "13/10[A]+16/10[A]+6/4[H]+16/16[A]+10/12[H]+16/7[A]+18/18[H]+27/10[H]",
-        "aerialDuelsAttempted": "23/23[A]+26/26[A]+10/10[H]+32/32[A]+22/22[H]+23/23[A]+36/36[H]+37/37[H]",
-        "dribbles": "11/7[A]+4/8[A]+13/5[H]+6/8[A]+10/4[H]+11/9[A]+10/4[H]+11/8[H]",
-        "dribblesAttempted": "15/18[A]+7/19[A]+26/15[H]+13/17[A]+17/10[H]+19/19[A]+22/20[H]+18/13[H]",
-        "isHome": "false+false+true+false+true+false+true+true",
-        "cornersTotals": "49/37",
-        "cornersTotalsHome": "24/20",
-        "cornersTotalsAway": "25/17",
-        "cornersAverage": "6.13/4.63",
-        "cornersAverageHome": "6.00/5.00",
-        "cornersAverageAway": "6.25/4.25",
-        "foulsTotals": "68/57",
-        "foulsTotalsHome": "31/30",
-        "foulsTotalsAway": "37/27",
-        "foulsAverage": "8.50/7.13",
-        "foulsAverageHome": "7.75/7.50",
-        "foulsAverageAway": "9.25/6.75",
-        "goalKicksTotals": "48/67",
-        "goalKicksTotalsHome": "20/35",
-        "goalKicksTotalsAway": "28/32",
-        "goalKicksAverage": "6.00/8.38",
-        "goalKicksAverageHome": "5.00/8.75",
-        "goalKicksAverageAway": "7.00/8.00",
-        "savesTotals": "28/37",
-        "savesTotalsHome": "14/20",
-        "savesTotalsAway": "14/17",
-        "savesAverage": "3.50/4.63",
-        "savesAverageHome": "3.50/5.00",
-        "savesAverageAway": "3.50/4.25",
-        "offsidesTotals": "9/6",
-        "offsidesTotalsHome": "6/1",
-        "offsidesTotalsAway": "3/5",
-        "offsidesAverage": "1.13/0.75",
-        "offsidesAverageHome": "1.50/0.25",
-        "offsidesAverageAway": "0.75/1.25",
-        "shotsOnTargetTotals": "58/42",
-        "shotsOnTargetTotalsHome": "33/22",
-        "shotsOnTargetTotalsAway": "25/20",
-        "shotsOnTargetAverage": "7.25/5.25",
-        "shotsOnTargetAverageHome": "8.25/5.50",
-        "shotsOnTargetAverageAway": "6.25/5.00",
-        "yellowCardsTotals": "12/9",
-        "yellowCardsTotalsHome": "3/6",
-        "yellowCardsTotalsAway": "9/3",
-        "yellowCardsAverage": "1.50/1.13",
-        "yellowCardsAverageHome": "0.75/1.50",
-        "yellowCardsAverageAway": "2.25/0.75",
-        "goalsTotals": "23/14",
-        "goalsTotalsHome": "14/8",
-        "goalsTotalsAway": "9/6",
-        "goalsAverage": "2.88/1.75",
-        "goalsAverageHome": "3.50/2.00",
-        "goalsAverageAway": "2.25/1.50",
-        "throwInsTotals": "151/121",
-        "throwInsTotalsHome": "90/64",
-        "throwInsTotalsAway": "61/57",
-        "throwInsAverage": "18.88/15.13",
-        "throwInsAverageHome": "22.50/16.00",
-        "throwInsAverageAway": "15.25/14.25",
-        "averageBallPossessionTotals": "487/313",
-        "averageBallPossessionTotalsHome": "264/136",
-        "averageBallPossessionTotalsAway": "223/177",
-        "averageBallPossessionAverage": "60.88/39.13",
-        "averageBallPossessionAverageHome": "66.00/34.00",
-        "averageBallPossessionAverageAway": "55.75/44.25",
-        "tacklesTotals": "133/133",
-        "tacklesTotalsHome": "69/73",
-        "tacklesTotalsAway": "64/60",
-        "tacklesAverage": "16.63/16.63",
-        "tacklesAverageHome": "17.25/18.25",
-        "tacklesAverageAway": "16.00/15.00",
-        "interceptionsTotals": "61/66",
-        "interceptionsTotalsHome": "29/38",
-        "interceptionsTotalsAway": "32/28",
-        "interceptionsAverage": "7.63/8.25",
-        "interceptionsAverageHome": "7.25/9.50",
-        "interceptionsAverageAway": "8.00/7.00",
-        "aerialDuelsTotals": "122/87",
-        "aerialDuelsTotalsHome": "61/44",
-        "aerialDuelsTotalsAway": "61/43",
-        "aerialDuelsAverage": "15.25/10.88",
-        "aerialDuelsAverageHome": "15.25/11.00",
-        "aerialDuelsAverageAway": "15.25/10.75",
-        "aerialDuelsAttemptedTotals": "209/209",
-        "aerialDuelsAttemptedTotalsHome": "105/105",
-        "aerialDuelsAttemptedTotalsAway": "104/104",
-        "aerialDuelsAttemptedAverage": "26.13/26.13",
-        "aerialDuelsAttemptedAverageHome": "26.25/26.25",
-        "aerialDuelsAttemptedAverageAway": "26.00/26.00",
-        "dribblesTotals": "76/53",
-        "dribblesTotalsHome": "44/21",
-        "dribblesTotalsAway": "32/32",
-        "dribblesAverage": "9.50/6.63",
-        "dribblesAverageHome": "11.00/5.25",
-        "dribblesAverageAway": "8.00/8.00",
-        "dribblesAttemptedTotals": "137/131",
-        "dribblesAttemptedTotalsHome": "83/58",
-        "dribblesAttemptedTotalsAway": "54/73",
-        "dribblesAttemptedAverage": "17.13/16.38",
-        "dribblesAttemptedAverageHome": "20.75/14.50",
-        "dribblesAttemptedAverageAway": "13.50/18.25"
+        "corners": "1/1[A]+13/0[A]+9/4[H]+7/1[A]+9/0[H]+11/9[H]+4/8[A]+4/4[H]",
+        "fouls": "13/6[A]+8/21[A]+10/4[H]+3/9[A]+9/6[H]+7/5[H]+7/9[A]+10/4[H]",
+        "goalKicks": "7/6[A]+2/13[A]+3/15[H]+5/9[A]+3/9[H]+12/7[H]+4/7[A]+2/5[H]",
+        "saves": "5/2[A]+0/7[A]+2/7[H]+1/7[A]+4/4[H]+5/3[H]+3/6[A]+3/5[H]",
+        "offsides": "1/1[A]+1/1[A]+0/0[H]+1/1[A]+0/4[H]+2/0[H]+1/2[A]+2/0[H]",
+        "shotsOnTarget": "5/6[A]+14/1[A]+12/4[H]+8/2[A]+6/6[H]+7/6[H]+10/4[A]+11/4[H]",
+        "yellowCards": "6/4[A]+1/5[A]+1/1[H]+0/1[A]+1/1[H]+1/1[H]+0/0[A]+1/1[H]",
+        "goals": "3/1[A]+6/1[A]+5/1[H]+2/1[A]+2/2[H]+5/1[H]+4/1[A]+6/1[H]",
+        "throwIns": "16/23[A]+23/16[A]+15/13[H]+29/24[A]+25/13[H]+21/20[H]+15/11[A]+22/10[H]",
+        "averageBallPossession": "47/53[A]+66/34[A]+62/38[H]+59/41[A]+76/24[H]+52/48[H]+59/41[A]+67/33[H]",
+        "teams": "PSV Eindhoven,AFC Ajax,Away+PSV Eindhoven,FC Utrecht,Away+PSV Eindhoven,FC Groningen,Home+PSV Eindhoven,Excelsior,Away+PSV Eindhoven,Fortuna Sittard,Home+PSV Eindhoven,FC Twente,Home+PSV Eindhoven,Go Ahead Eagles,Away+PSV Eindhoven,PEC Zwolle,Home",
+        "tackles": "26/24[A]+11/23[A]+14/14[H]+18/16[A]+12/11[H]+7/13[H]+15/15[A]+17/20[H]",
+        "interceptions": "15/14[A]+7/8[A]+11/5[H]+8/6[A]+8/7[H]+10/14[H]+5/4[A]+11/11[H]",
+        "aerialDuels": "11/11[A]+10/7[A]+11/4[H]+14/14[A]+12/9[H]+18/15[H]+13/10[A]+6/4[H]",
+        "aerialDuelsAttempted": "22/22[A]+17/17[A]+15/15[H]+28/28[A]+21/21[H]+33/33[H]+23/23[A]+10/10[H]",
+        "dribbles": "11/7[A]+8/3[A]+10/6[H]+8/2[A]+6/7[H]+16/3[H]+11/7[A]+13/5[H]",
+        "dribblesAttempted": "21/12[A]+18/8[A]+20/15[H]+16/6[A]+13/11[H]+24/9[H]+15/18[A]+26/15[H]",
+        "isHome": "false+false+true+false+true+true+false+true",
+        "cornersTotals": "58/27",
+        "cornersTotalsHome": "33/17",
+        "cornersTotalsAway": "25/10",
+        "cornersAverage": "7.25/3.38",
+        "cornersAverageHome": "8.25/4.25",
+        "cornersAverageAway": "6.25/2.50",
+        "foulsTotals": "67/64",
+        "foulsTotalsHome": "36/19",
+        "foulsTotalsAway": "31/45",
+        "foulsAverage": "8.38/8.00",
+        "foulsAverageHome": "9.00/4.75",
+        "foulsAverageAway": "7.75/11.25",
+        "goalKicksTotals": "38/71",
+        "goalKicksTotalsHome": "20/36",
+        "goalKicksTotalsAway": "18/35",
+        "goalKicksAverage": "4.75/8.88",
+        "goalKicksAverageHome": "5.00/9.00",
+        "goalKicksAverageAway": "4.50/8.75",
+        "savesTotals": "23/41",
+        "savesTotalsHome": "14/19",
+        "savesTotalsAway": "9/22",
+        "savesAverage": "2.88/5.13",
+        "savesAverageHome": "3.50/4.75",
+        "savesAverageAway": "2.25/5.50",
+        "offsidesTotals": "8/9",
+        "offsidesTotalsHome": "4/4",
+        "offsidesTotalsAway": "4/5",
+        "offsidesAverage": "1.00/1.13",
+        "offsidesAverageHome": "1.00/1.00",
+        "offsidesAverageAway": "1.00/1.25",
+        "shotsOnTargetTotals": "73/33",
+        "shotsOnTargetTotalsHome": "36/20",
+        "shotsOnTargetTotalsAway": "37/13",
+        "shotsOnTargetAverage": "9.13/4.13",
+        "shotsOnTargetAverageHome": "9.00/5.00",
+        "shotsOnTargetAverageAway": "9.25/3.25",
+        "yellowCardsTotals": "11/14",
+        "yellowCardsTotalsHome": "4/4",
+        "yellowCardsTotalsAway": "7/10",
+        "yellowCardsAverage": "1.38/1.75",
+        "yellowCardsAverageHome": "1.00/1.00",
+        "yellowCardsAverageAway": "1.75/2.50",
+        "goalsTotals": "33/9",
+        "goalsTotalsHome": "18/5",
+        "goalsTotalsAway": "15/4",
+        "goalsAverage": "4.13/1.13",
+        "goalsAverageHome": "4.50/1.25",
+        "goalsAverageAway": "3.75/1.00",
+        "throwInsTotals": "166/130",
+        "throwInsTotalsHome": "83/56",
+        "throwInsTotalsAway": "83/74",
+        "throwInsAverage": "20.75/16.25",
+        "throwInsAverageHome": "20.75/14.00",
+        "throwInsAverageAway": "20.75/18.50",
+        "averageBallPossessionTotals": "488/312",
+        "averageBallPossessionTotalsHome": "257/143",
+        "averageBallPossessionTotalsAway": "231/169",
+        "averageBallPossessionAverage": "61.00/39.00",
+        "averageBallPossessionAverageHome": "64.25/35.75",
+        "averageBallPossessionAverageAway": "57.75/42.25",
+        "tacklesTotals": "120/136",
+        "tacklesTotalsHome": "50/58",
+        "tacklesTotalsAway": "70/78",
+        "tacklesAverage": "15.00/17.00",
+        "tacklesAverageHome": "12.50/14.50",
+        "tacklesAverageAway": "17.50/19.50",
+        "interceptionsTotals": "75/69",
+        "interceptionsTotalsHome": "40/37",
+        "interceptionsTotalsAway": "35/32",
+        "interceptionsAverage": "9.38/8.63",
+        "interceptionsAverageHome": "10.00/9.25",
+        "interceptionsAverageAway": "8.75/8.00",
+        "aerialDuelsTotals": "95/74",
+        "aerialDuelsTotalsHome": "47/32",
+        "aerialDuelsTotalsAway": "48/42",
+        "aerialDuelsAverage": "11.88/9.25",
+        "aerialDuelsAverageHome": "11.75/8.00",
+        "aerialDuelsAverageAway": "12.00/10.50",
+        "aerialDuelsAttemptedTotals": "169/169",
+        "aerialDuelsAttemptedTotalsHome": "79/79",
+        "aerialDuelsAttemptedTotalsAway": "90/90",
+        "aerialDuelsAttemptedAverage": "21.13/21.13",
+        "aerialDuelsAttemptedAverageHome": "19.75/19.75",
+        "aerialDuelsAttemptedAverageAway": "22.50/22.50",
+        "dribblesTotals": "83/40",
+        "dribblesTotalsHome": "45/21",
+        "dribblesTotalsAway": "38/19",
+        "dribblesAverage": "10.38/5.00",
+        "dribblesAverageHome": "11.25/5.25",
+        "dribblesAverageAway": "9.50/4.75",
+        "dribblesAttemptedTotals": "153/94",
+        "dribblesAttemptedTotalsHome": "83/50",
+        "dribblesAttemptedTotalsAway": "70/44",
+        "dribblesAttemptedAverage": "19.13/11.75",
+        "dribblesAttemptedAverageHome": "20.75/12.50",
+        "dribblesAttemptedAverageAway": "17.50/11.00"
     }
 }

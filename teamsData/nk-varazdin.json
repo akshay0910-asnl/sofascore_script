@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "3.76",
-        "fouls": "12.27",
-        "goalKicks": "8.15",
-        "saves": "3.39",
-        "offsides": "1.06",
-        "shotsOnTarget": "3.79/4.76",
-        "yellowCards": "2.24/2.48",
-        "goals": "1.27/1.36",
-        "throwIns": "20.88",
-        "ballPossession": 44.818181818182,
-        "tackles": "17.52/15.61",
-        "interceptions": "8.48/8.39",
-        "aerialDuels": "13.06",
-        "aerialDuelsAttempted": "26.88",
-        "dribbles": "7.39/6.91",
-        "dribblesAttempted": "15.70/15.58"
+        "corners": "4.50",
+        "fouls": "11.67",
+        "goalKicks": "7.00",
+        "saves": "4.17",
+        "offsides": "1.00",
+        "shotsOnTarget": "3.83/5.00",
+        "yellowCards": "1.67/2.00",
+        "goals": "1.83/0.83",
+        "throwIns": "21.17",
+        "ballPossession": 47,
+        "tackles": "14.67/15.33",
+        "interceptions": "9.33/8.33",
+        "aerialDuels": "11.50",
+        "aerialDuelsAttempted": "18.17",
+        "dribbles": "10.00/5.83",
+        "dribblesAttempted": "18.67/13.00"
     },
     "teamSlug": "nk-varazdin",
     "teamId": "231380",
     "teamName": "NK Varaždin",
     "tournament": "HNL",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-nk-istra-1961/EkksFCRb#id:16275200,tab:statistics",
+            "teams": [
+                "NK Varaždin",
+                "NK Istra 1961"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                231380,
+                25529
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-nk-rudes/BeosFCRb#id:16275190,tab:statistics",
+            "teams": [
+                "NK Varaždin",
+                "NK Rudeš"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                231380,
+                35226
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-gnk-dinamo-zagreb/HPsFCRb#id:16275189,tab:statistics",
+            "teams": [
+                "GNK Dinamo Zagreb",
+                "NK Varaždin"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                2032,
+                231380
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-rijeka/OPsFCRb#id:16275181,tab:statistics",
+            "teams": [
+                "NK Varaždin",
+                "HNK Rijeka"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                231380,
+                2039
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-nk-slaven-belupo/RPsFCRb#id:16275178,tab:statistics",
+            "teams": [
+                "NK Slaven Belupo",
+                "NK Varaždin"
+            ],
+            "goals": [
+                1,
+                4
+            ],
+            "teamIds": [
+                2042,
+                231380
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-hajduk-split/LPsFCRb#id:16275172,tab:statistics",
+            "teams": [
+                "NK Varaždin",
+                "HNK Hajduk Split"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                231380,
+                2036
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-vukovar-1991/xIcsFCRb#id:14023417,tab:statistics",
+            "teams": [
+                "HNK Vukovar 1991",
+                "NK Varaždin"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                6672,
+                231380
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-hajduk-split/LPsFCRb#id:14023416,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 231380
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-gnk-dinamo-zagreb/HPsFCRb#id:14023445,tab:statistics",
-            "teams": [
-                "GNK Dinamo Zagreb",
-                "NK Varaždin"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2032,
-                231380
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-rijeka/OPsFCRb#id:14023414,tab:statistics",
-            "teams": [
-                "NK Varaždin",
-                "HNK Rijeka"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                231380,
-                2039
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-nk-osijek/PPsFCRb#id:14023438,tab:statistics",
-            "teams": [
-                "NK Osijek",
-                "NK Varaždin"
-            ],
-            "goals": [
-                0,
-                2
-            ],
-            "teamIds": [
-                2040,
-                231380
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-nk-slaven-belupo/RPsFCRb#id:14023531,tab:statistics",
-            "teams": [
-                "NK Varaždin",
-                "NK Slaven Belupo"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                231380,
-                2042
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-gorica/rDrsFCRb#id:15417582,tab:statistics",
-            "teams": [
-                "NK Varaždin",
-                "HNK Gorica"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                231380,
-                43917
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-nk-istra-1961/EkksFCRb#id:14023519,tab:statistics",
-            "teams": [
-                "NK Istra 1961",
-                "NK Varaždin"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                25529,
-                231380
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nk-varazdin-hnk-vukovar-1991/xIcsFCRb#id:14023514,tab:statistics",
-            "teams": [
-                "NK Varaždin",
-                "HNK Vukovar 1991"
-            ],
-            "goals": [
-                2,
-                0
-            ],
-            "teamIds": [
-                231380,
-                6672
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "8/4[H]",
+            "fouls": "12/14[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/4[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "4/2[H]",
+            "yellowCards": "3/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "26/13[H]",
+            "averageBallPossession": "59/41[H]",
+            "teams": "NK Varaždin,NK Istra 1961,Home",
+            "tackles": "18/21[H]",
+            "interceptions": "13/14[H]",
+            "aerialDuels": "7/4[H]",
+            "aerialDuelsAttempted": "11/11[H]",
+            "dribbles": "8/3[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "9/4[H]",
+            "fouls": "10/16[H]",
+            "goalKicks": "8/6[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/0[H]",
+            "shotsOnTarget": "3/3[H]",
+            "yellowCards": "0/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "16/16[H]",
+            "averageBallPossession": "55/45[H]",
+            "teams": "NK Varaždin,NK Rudeš,Home",
+            "tackles": "9/13[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "15/7[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "12/4[H]",
+            "dribblesAttempted": "22/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "13/11[A]",
+            "goalKicks": "9/6[A]",
+            "saves": "8/0[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "1/11[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/3[A]",
+            "throwIns": "22/21[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "NK Varaždin,GNK Dinamo Zagreb,Away",
+            "tackles": "18/21[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "6/9[A]",
+            "aerialDuelsAttempted": "15/15[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "17/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/9[H]",
+            "fouls": "11/14[H]",
+            "goalKicks": "7/5[H]",
+            "saves": "3/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/0[H]",
+            "throwIns": "26/29[H]",
+            "averageBallPossession": "38/62[H]",
+            "teams": "NK Varaždin,HNK Rijeka,Home",
+            "tackles": "21/19[H]",
+            "interceptions": "7/4[H]",
+            "aerialDuels": "15/4[H]",
+            "aerialDuelsAttempted": "19/19[H]",
+            "dribbles": "8/10[H]",
+            "dribblesAttempted": "19/20[H]",
+            "isHome": true
+        },
+        {
+            "corners": "5/5[A]",
+            "fouls": "12/8[A]",
+            "goalKicks": "8/8[A]",
+            "saves": "5/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "8/6[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "4/1[A]",
+            "throwIns": "20/17[A]",
+            "averageBallPossession": "43/57[A]",
+            "teams": "NK Varaždin,NK Slaven Belupo,Away",
+            "tackles": "9/7[A]",
+            "interceptions": "15/6[A]",
+            "aerialDuels": "17/8[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "14/5[A]",
+            "dribblesAttempted": "18/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "1/6[H]",
+            "fouls": "12/20[H]",
+            "goalKicks": "5/5[H]",
+            "saves": "4/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "3/5[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "2/1[H]",
+            "throwIns": "17/17[H]",
+            "averageBallPossession": "46/54[H]",
+            "teams": "NK Varaždin,HNK Hajduk Split,Home",
+            "tackles": "13/11[H]",
+            "interceptions": "5/10[H]",
+            "aerialDuels": "9/8[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "11/3[H]",
+            "dribblesAttempted": "18/10[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[A]",
+            "fouls": "18/13[A]",
+            "goalKicks": "6/7[A]",
+            "saves": "2/4[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "2/1[A]",
+            "goals": "2/0[A]",
+            "throwIns": "23/27[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "NK Varaždin,HNK Vukovar 1991,Away",
+            "tackles": "18/8[A]",
+            "interceptions": "7/8[A]",
+            "aerialDuels": "10/10[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "8/7[A]",
+            "dribblesAttempted": "12/19[A]",
+            "isHome": false
+        },
         {
             "corners": "3/4[A]",
             "fouls": "9/13[A]",
@@ -173,267 +313,127 @@
             "dribbles": "15/10[A]",
             "dribblesAttempted": "24/21[A]",
             "isHome": false
-        },
-        {
-            "corners": "4/10[A]",
-            "fouls": "12/4[A]",
-            "goalKicks": "9/5[A]",
-            "saves": "6/1[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "2/8[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "1/2[A]",
-            "throwIns": "22/25[A]",
-            "averageBallPossession": "36/64[A]",
-            "teams": "NK Varaždin,GNK Dinamo Zagreb,Away",
-            "tackles": "25/22[A]",
-            "interceptions": "9/9[A]",
-            "aerialDuels": "5/12[A]",
-            "aerialDuelsAttempted": "17/17[A]",
-            "dribbles": "10/10[A]",
-            "dribblesAttempted": "14/25[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/12[H]",
-            "fouls": "5/8[H]",
-            "goalKicks": "14/7[H]",
-            "saves": "3/0[H]",
-            "offsides": "0/3[H]",
-            "shotsOnTarget": "1/3[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "1/0[H]",
-            "throwIns": "23/37[H]",
-            "averageBallPossession": "47/53[H]",
-            "teams": "NK Varaždin,HNK Rijeka,Home",
-            "tackles": "15/13[H]",
-            "interceptions": "4/10[H]",
-            "aerialDuels": "9/13[H]",
-            "aerialDuelsAttempted": "22/22[H]",
-            "dribbles": "2/3[H]",
-            "dribblesAttempted": "6/12[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/8[A]",
-            "fouls": "15/10[A]",
-            "goalKicks": "16/3[A]",
-            "saves": "4/5[A]",
-            "offsides": "3/1[A]",
-            "shotsOnTarget": "7/5[A]",
-            "yellowCards": "6/2[A]",
-            "goals": "2/0[A]",
-            "throwIns": "19/37[A]",
-            "averageBallPossession": "26/74[A]",
-            "teams": "NK Varaždin,NK Osijek,Away",
-            "tackles": "21/8[A]",
-            "interceptions": "13/7[A]",
-            "aerialDuels": "13/12[A]",
-            "aerialDuelsAttempted": "25/25[A]",
-            "dribbles": "3/8[A]",
-            "dribblesAttempted": "8/14[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/5[H]",
-            "fouls": "12/18[H]",
-            "goalKicks": "4/10[H]",
-            "saves": "5/4[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "6/6[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "2/1[H]",
-            "throwIns": "30/25[H]",
-            "averageBallPossession": "53/47[H]",
-            "teams": "NK Varaždin,NK Slaven Belupo,Home",
-            "tackles": "12/16[H]",
-            "interceptions": "11/9[H]",
-            "aerialDuels": "14/9[H]",
-            "aerialDuelsAttempted": "23/23[H]",
-            "dribbles": "11/6[H]",
-            "dribblesAttempted": "21/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "8/1[H]",
-            "fouls": "19/12[H]",
-            "goalKicks": "6/6[H]",
-            "saves": "1/4[H]",
-            "offsides": "0/4[H]",
-            "shotsOnTarget": "5/2[H]",
-            "yellowCards": "3/5[H]",
-            "goals": "1/1[H]",
-            "throwIns": "28/14[H]",
-            "averageBallPossession": "51/49[H]",
-            "teams": "NK Varaždin,HNK Gorica,Home",
-            "tackles": "22/16[H]",
-            "interceptions": "7/9[H]",
-            "aerialDuels": "20/14[H]",
-            "aerialDuelsAttempted": "34/34[H]",
-            "dribbles": "6/8[H]",
-            "dribblesAttempted": "16/23[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/4[A]",
-            "fouls": "17/10[A]",
-            "goalKicks": "3/11[A]",
-            "saves": "3/3[A]",
-            "offsides": "0/1[A]",
-            "shotsOnTarget": "4/5[A]",
-            "yellowCards": "1/1[A]",
-            "goals": "1/2[A]",
-            "throwIns": "28/26[A]",
-            "averageBallPossession": "53/47[A]",
-            "teams": "NK Varaždin,NK Istra 1961,Away",
-            "tackles": "9/16[A]",
-            "interceptions": "4/12[A]",
-            "aerialDuels": "10/22[A]",
-            "aerialDuelsAttempted": "32/32[A]",
-            "dribbles": "6/4[A]",
-            "dribblesAttempted": "16/7[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/3[H]",
-            "fouls": "10/15[H]",
-            "goalKicks": "9/13[H]",
-            "saves": "3/4[H]",
-            "offsides": "2/0[H]",
-            "shotsOnTarget": "6/3[H]",
-            "yellowCards": "2/2[H]",
-            "goals": "2/0[H]",
-            "throwIns": "26/24[H]",
-            "averageBallPossession": "45/55[H]",
-            "teams": "NK Varaždin,HNK Vukovar 1991,Home",
-            "tackles": "14/16[H]",
-            "interceptions": "6/9[H]",
-            "aerialDuels": "28/21[H]",
-            "aerialDuelsAttempted": "49/49[H]",
-            "dribbles": "5/2[H]",
-            "dribblesAttempted": "11/9[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 7,
-    "startTime": "2026-05-09T09:28:01.082Z",
-    "endTime": "2026-05-09T09:28:34.881Z",
-    "totalTimeSeconds": 33.8,
+    "currentIndex": 6,
+    "startTime": "2026-09-14T06:34:22.166Z",
+    "endTime": "2026-09-14T06:34:36.924Z",
+    "totalTimeSeconds": 14.76,
     "combinedMatchStatistics": {
-        "corners": "3/4[A]+4/10[A]+1/12[H]+3/8[A]+3/5[H]+8/1[H]+3/4[A]+6/3[H]",
-        "fouls": "9/13[A]+12/4[A]+5/8[H]+15/10[A]+12/18[H]+19/12[H]+17/10[A]+10/15[H]",
-        "goalKicks": "6/3[A]+9/5[A]+14/7[H]+16/3[A]+4/10[H]+6/6[H]+3/11[A]+9/13[H]",
-        "saves": "6/2[A]+6/1[A]+3/0[H]+4/5[A]+5/4[H]+1/4[H]+3/3[A]+3/4[H]",
-        "offsides": "1/5[A]+1/1[A]+0/3[H]+3/1[A]+0/0[H]+0/4[H]+0/1[A]+2/0[H]",
-        "shotsOnTarget": "3/8[A]+2/8[A]+1/3[H]+7/5[A]+6/6[H]+5/2[H]+4/5[A]+6/3[H]",
-        "yellowCards": "1/3[A]+1/1[A]+1/1[H]+6/2[A]+2/2[H]+3/5[H]+1/1[A]+2/2[H]",
-        "goals": "1/3[A]+1/2[A]+1/0[H]+2/0[A]+2/1[H]+1/1[H]+1/2[A]+2/0[H]",
-        "throwIns": "20/26[A]+22/25[A]+23/37[H]+19/37[A]+30/25[H]+28/14[H]+28/26[A]+26/24[H]",
-        "averageBallPossession": "50/50[A]+36/64[A]+47/53[H]+26/74[A]+53/47[H]+51/49[H]+53/47[A]+45/55[H]",
-        "teams": "NK Varaždin,HNK Hajduk Split,Away+NK Varaždin,GNK Dinamo Zagreb,Away+NK Varaždin,HNK Rijeka,Home+NK Varaždin,NK Osijek,Away+NK Varaždin,NK Slaven Belupo,Home+NK Varaždin,HNK Gorica,Home+NK Varaždin,NK Istra 1961,Away+NK Varaždin,HNK Vukovar 1991,Home",
-        "tackles": "21/17[A]+25/22[A]+15/13[H]+21/8[A]+12/16[H]+22/16[H]+9/16[A]+14/16[H]",
-        "interceptions": "8/11[A]+9/9[A]+4/10[H]+13/7[A]+11/9[H]+7/9[H]+4/12[A]+6/9[H]",
-        "aerialDuels": "6/8[A]+5/12[A]+9/13[H]+13/12[A]+14/9[H]+20/14[H]+10/22[A]+28/21[H]",
-        "aerialDuelsAttempted": "14/14[A]+17/17[A]+22/22[H]+25/25[A]+23/23[H]+34/34[H]+32/32[A]+49/49[H]",
-        "dribbles": "15/10[A]+10/10[A]+2/3[H]+3/8[A]+11/6[H]+6/8[H]+6/4[A]+5/2[H]",
-        "dribblesAttempted": "24/21[A]+14/25[A]+6/12[H]+8/14[A]+21/11[H]+16/23[H]+16/7[A]+11/9[H]",
-        "isHome": "false+false+true+false+true+true+false+true",
-        "cornersTotals": "31/47",
-        "cornersTotalsHome": "18/21",
-        "cornersTotalsAway": "13/26",
-        "cornersAverage": "3.88/5.88",
-        "cornersAverageHome": "4.50/5.25",
-        "cornersAverageAway": "3.25/6.50",
-        "foulsTotals": "99/90",
-        "foulsTotalsHome": "46/53",
-        "foulsTotalsAway": "53/37",
-        "foulsAverage": "12.38/11.25",
-        "foulsAverageHome": "11.50/13.25",
-        "foulsAverageAway": "13.25/9.25",
-        "goalKicksTotals": "67/58",
-        "goalKicksTotalsHome": "33/36",
-        "goalKicksTotalsAway": "34/22",
-        "goalKicksAverage": "8.38/7.25",
-        "goalKicksAverageHome": "8.25/9.00",
-        "goalKicksAverageAway": "8.50/5.50",
-        "savesTotals": "31/23",
-        "savesTotalsHome": "12/12",
-        "savesTotalsAway": "19/11",
-        "savesAverage": "3.88/2.88",
-        "savesAverageHome": "3.00/3.00",
-        "savesAverageAway": "4.75/2.75",
-        "offsidesTotals": "7/15",
-        "offsidesTotalsHome": "2/7",
-        "offsidesTotalsAway": "5/8",
-        "offsidesAverage": "0.88/1.88",
-        "offsidesAverageHome": "0.50/1.75",
-        "offsidesAverageAway": "1.25/2.00",
-        "shotsOnTargetTotals": "34/40",
-        "shotsOnTargetTotalsHome": "18/14",
-        "shotsOnTargetTotalsAway": "16/26",
-        "shotsOnTargetAverage": "4.25/5.00",
-        "shotsOnTargetAverageHome": "4.50/3.50",
-        "shotsOnTargetAverageAway": "4.00/6.50",
-        "yellowCardsTotals": "17/17",
-        "yellowCardsTotalsHome": "8/10",
-        "yellowCardsTotalsAway": "9/7",
-        "yellowCardsAverage": "2.13/2.13",
-        "yellowCardsAverageHome": "2.00/2.50",
-        "yellowCardsAverageAway": "2.25/1.75",
-        "goalsTotals": "11/9",
-        "goalsTotalsHome": "6/2",
-        "goalsTotalsAway": "5/7",
-        "goalsAverage": "1.38/1.13",
-        "goalsAverageHome": "1.50/0.50",
-        "goalsAverageAway": "1.25/1.75",
-        "throwInsTotals": "196/214",
-        "throwInsTotalsHome": "107/100",
-        "throwInsTotalsAway": "89/114",
-        "throwInsAverage": "24.50/26.75",
-        "throwInsAverageHome": "26.75/25.00",
-        "throwInsAverageAway": "22.25/28.50",
-        "averageBallPossessionTotals": "361/439",
-        "averageBallPossessionTotalsHome": "196/204",
-        "averageBallPossessionTotalsAway": "165/235",
-        "averageBallPossessionAverage": "45.13/54.88",
-        "averageBallPossessionAverageHome": "49.00/51.00",
-        "averageBallPossessionAverageAway": "41.25/58.75",
-        "tacklesTotals": "139/124",
-        "tacklesTotalsHome": "63/61",
-        "tacklesTotalsAway": "76/63",
-        "tacklesAverage": "17.38/15.50",
-        "tacklesAverageHome": "15.75/15.25",
-        "tacklesAverageAway": "19.00/15.75",
-        "interceptionsTotals": "62/76",
-        "interceptionsTotalsHome": "28/37",
-        "interceptionsTotalsAway": "34/39",
-        "interceptionsAverage": "7.75/9.50",
-        "interceptionsAverageHome": "7.00/9.25",
-        "interceptionsAverageAway": "8.50/9.75",
-        "aerialDuelsTotals": "105/111",
-        "aerialDuelsTotalsHome": "71/57",
-        "aerialDuelsTotalsAway": "34/54",
-        "aerialDuelsAverage": "13.13/13.88",
-        "aerialDuelsAverageHome": "17.75/14.25",
-        "aerialDuelsAverageAway": "8.50/13.50",
-        "aerialDuelsAttemptedTotals": "216/216",
-        "aerialDuelsAttemptedTotalsHome": "128/128",
-        "aerialDuelsAttemptedTotalsAway": "88/88",
-        "aerialDuelsAttemptedAverage": "27.00/27.00",
-        "aerialDuelsAttemptedAverageHome": "32.00/32.00",
-        "aerialDuelsAttemptedAverageAway": "22.00/22.00",
-        "dribblesTotals": "58/51",
-        "dribblesTotalsHome": "24/19",
-        "dribblesTotalsAway": "34/32",
-        "dribblesAverage": "7.25/6.38",
-        "dribblesAverageHome": "6.00/4.75",
-        "dribblesAverageAway": "8.50/8.00",
-        "dribblesAttemptedTotals": "116/122",
-        "dribblesAttemptedTotalsHome": "54/55",
-        "dribblesAttemptedTotalsAway": "62/67",
-        "dribblesAttemptedAverage": "14.50/15.25",
-        "dribblesAttemptedAverageHome": "13.50/13.75",
-        "dribblesAttemptedAverageAway": "15.50/16.75"
+        "corners": "8/4[H]+9/4[H]+2/5[A]+2/9[H]+5/5[A]+1/6[H]+3/5[A]+3/4[A]",
+        "fouls": "12/14[H]+10/16[H]+13/11[A]+11/14[H]+12/8[A]+12/20[H]+18/13[A]+9/13[A]",
+        "goalKicks": "5/10[H]+8/6[H]+9/6[A]+7/5[H]+8/8[A]+5/5[H]+6/7[A]+6/3[A]",
+        "saves": "2/4[H]+3/2[H]+8/0[A]+3/2[H]+5/4[A]+4/1[H]+2/4[A]+6/2[A]",
+        "offsides": "1/0[H]+1/0[H]+1/0[A]+1/2[H]+1/2[A]+1/1[H]+3/1[A]+1/5[A]",
+        "shotsOnTarget": "4/2[H]+3/3[H]+1/11[A]+4/3[H]+8/6[A]+3/5[H]+6/2[A]+3/8[A]",
+        "yellowCards": "3/3[H]+0/3[H]+2/2[A]+2/1[H]+1/1[A]+2/2[H]+2/1[A]+1/3[A]",
+        "goals": "0/0[H]+2/0[H]+1/3[A]+2/0[H]+4/1[A]+2/1[H]+2/0[A]+1/3[A]",
+        "throwIns": "26/13[H]+16/16[H]+22/21[A]+26/29[H]+20/17[A]+17/17[H]+23/27[A]+20/26[A]",
+        "averageBallPossession": "59/41[H]+55/45[H]+41/59[A]+38/62[H]+43/57[A]+46/54[H]+50/50[A]+50/50[A]",
+        "teams": "NK Varaždin,NK Istra 1961,Home+NK Varaždin,NK Rudeš,Home+NK Varaždin,GNK Dinamo Zagreb,Away+NK Varaždin,HNK Rijeka,Home+NK Varaždin,NK Slaven Belupo,Away+NK Varaždin,HNK Hajduk Split,Home+NK Varaždin,HNK Vukovar 1991,Away+NK Varaždin,HNK Hajduk Split,Away",
+        "tackles": "18/21[H]+9/13[H]+18/21[A]+21/19[H]+9/7[A]+13/11[H]+18/8[A]+21/17[A]",
+        "interceptions": "13/14[H]+7/6[H]+9/10[A]+7/4[H]+15/6[A]+5/10[H]+7/8[A]+8/11[A]",
+        "aerialDuels": "7/4[H]+15/7[H]+6/9[A]+15/4[H]+17/8[A]+9/8[H]+10/10[A]+6/8[A]",
+        "aerialDuelsAttempted": "11/11[H]+22/22[H]+15/15[A]+19/19[H]+25/25[A]+17/17[H]+20/20[A]+14/14[A]",
+        "dribbles": "8/3[H]+12/4[H]+7/10[A]+8/10[H]+14/5[A]+11/3[H]+8/7[A]+15/10[A]",
+        "dribblesAttempted": "18/10[H]+22/11[H]+17/18[A]+19/20[H]+18/9[A]+18/10[H]+12/19[A]+24/21[A]",
+        "isHome": "true+true+false+true+false+true+false+false",
+        "cornersTotals": "33/42",
+        "cornersTotalsHome": "20/23",
+        "cornersTotalsAway": "13/19",
+        "cornersAverage": "4.13/5.25",
+        "cornersAverageHome": "5.00/5.75",
+        "cornersAverageAway": "3.25/4.75",
+        "foulsTotals": "97/109",
+        "foulsTotalsHome": "45/64",
+        "foulsTotalsAway": "52/45",
+        "foulsAverage": "12.13/13.63",
+        "foulsAverageHome": "11.25/16.00",
+        "foulsAverageAway": "13.00/11.25",
+        "goalKicksTotals": "54/50",
+        "goalKicksTotalsHome": "25/26",
+        "goalKicksTotalsAway": "29/24",
+        "goalKicksAverage": "6.75/6.25",
+        "goalKicksAverageHome": "6.25/6.50",
+        "goalKicksAverageAway": "7.25/6.00",
+        "savesTotals": "33/19",
+        "savesTotalsHome": "12/9",
+        "savesTotalsAway": "21/10",
+        "savesAverage": "4.13/2.38",
+        "savesAverageHome": "3.00/2.25",
+        "savesAverageAway": "5.25/2.50",
+        "offsidesTotals": "10/11",
+        "offsidesTotalsHome": "4/3",
+        "offsidesTotalsAway": "6/8",
+        "offsidesAverage": "1.25/1.38",
+        "offsidesAverageHome": "1.00/0.75",
+        "offsidesAverageAway": "1.50/2.00",
+        "shotsOnTargetTotals": "32/40",
+        "shotsOnTargetTotalsHome": "14/13",
+        "shotsOnTargetTotalsAway": "18/27",
+        "shotsOnTargetAverage": "4.00/5.00",
+        "shotsOnTargetAverageHome": "3.50/3.25",
+        "shotsOnTargetAverageAway": "4.50/6.75",
+        "yellowCardsTotals": "13/16",
+        "yellowCardsTotalsHome": "7/9",
+        "yellowCardsTotalsAway": "6/7",
+        "yellowCardsAverage": "1.63/2.00",
+        "yellowCardsAverageHome": "1.75/2.25",
+        "yellowCardsAverageAway": "1.50/1.75",
+        "goalsTotals": "14/8",
+        "goalsTotalsHome": "6/1",
+        "goalsTotalsAway": "8/7",
+        "goalsAverage": "1.75/1.00",
+        "goalsAverageHome": "1.50/0.25",
+        "goalsAverageAway": "2.00/1.75",
+        "throwInsTotals": "170/166",
+        "throwInsTotalsHome": "85/75",
+        "throwInsTotalsAway": "85/91",
+        "throwInsAverage": "21.25/20.75",
+        "throwInsAverageHome": "21.25/18.75",
+        "throwInsAverageAway": "21.25/22.75",
+        "averageBallPossessionTotals": "382/418",
+        "averageBallPossessionTotalsHome": "198/202",
+        "averageBallPossessionTotalsAway": "184/216",
+        "averageBallPossessionAverage": "47.75/52.25",
+        "averageBallPossessionAverageHome": "49.50/50.50",
+        "averageBallPossessionAverageAway": "46.00/54.00",
+        "tacklesTotals": "127/117",
+        "tacklesTotalsHome": "61/64",
+        "tacklesTotalsAway": "66/53",
+        "tacklesAverage": "15.88/14.63",
+        "tacklesAverageHome": "15.25/16.00",
+        "tacklesAverageAway": "16.50/13.25",
+        "interceptionsTotals": "71/69",
+        "interceptionsTotalsHome": "32/34",
+        "interceptionsTotalsAway": "39/35",
+        "interceptionsAverage": "8.88/8.63",
+        "interceptionsAverageHome": "8.00/8.50",
+        "interceptionsAverageAway": "9.75/8.75",
+        "aerialDuelsTotals": "85/58",
+        "aerialDuelsTotalsHome": "46/23",
+        "aerialDuelsTotalsAway": "39/35",
+        "aerialDuelsAverage": "10.63/7.25",
+        "aerialDuelsAverageHome": "11.50/5.75",
+        "aerialDuelsAverageAway": "9.75/8.75",
+        "aerialDuelsAttemptedTotals": "143/143",
+        "aerialDuelsAttemptedTotalsHome": "69/69",
+        "aerialDuelsAttemptedTotalsAway": "74/74",
+        "aerialDuelsAttemptedAverage": "17.88/17.88",
+        "aerialDuelsAttemptedAverageHome": "17.25/17.25",
+        "aerialDuelsAttemptedAverageAway": "18.50/18.50",
+        "dribblesTotals": "83/52",
+        "dribblesTotalsHome": "39/20",
+        "dribblesTotalsAway": "44/32",
+        "dribblesAverage": "10.38/6.50",
+        "dribblesAverageHome": "9.75/5.00",
+        "dribblesAverageAway": "11.00/8.00",
+        "dribblesAttemptedTotals": "148/118",
+        "dribblesAttemptedTotalsHome": "77/51",
+        "dribblesAttemptedTotalsAway": "71/67",
+        "dribblesAttemptedAverage": "18.50/14.75",
+        "dribblesAttemptedAverageHome": "19.25/12.75",
+        "dribblesAttemptedAverageAway": "17.75/16.75"
     }
 }

@@ -102,53 +102,48 @@ async function processBatches(teamIds, useProxies = null) {
 //processBatches([60]);
 
 const originalBatch = [
-  "1963",
-  "21845",
-  "1974",
-  "1977",
-  "1954",
-  "1961",
-  "2012",
-  "1981",
-  "2850",
-  "24265",
-  "2845",
-  "35092",
-  "2001",
-  "39634",
-  "49202",
-  "22032",
-  "3164",
-  "3151",
-  "3163",
-  "5032",
-  "3157",
-  "3162",
-  "7060",
-  "47700",
-  "33820",
-  "6968",
-  "32529",
-  "7059",
-  "188850",
-  "39723",
-  "5255",
+  "36534",
+  "1950",
+  "204268",
+  "25528",
+  "24336",
+  "2839",
+  "1973",
+  "47504",
+  "1979",
+  "1960",
+  "7315",
+  "2021",
+  "52874",
+  "1651",
+  "61702",
+  "86406",
+  "5204",
+  "5333",
+  "48242",
+  "331131",
+  "35268",
+  "3113",
   "21942",
-  "252254",
-  "87854",
-  "2301",
-  "2302",
-  "44255",
-  "260356",
-  "313716",
-  "309889",
+  "277525",
+  "3179",
+  "3169",
+  "3174",
+  "3180",
+  "3190",
+  "137382",
+  "3194",
+  "3170",
+  "2449",
+  "2452",
 ];
+
 const halfway = Math.ceil(originalBatch.length / 2);
 const batch1 = originalBatch.slice(0, halfway);
 const batch2 = originalBatch.slice(halfway);
 const batch3 = [2686, 2713];
 
-processBatches(originalBatch);
+processBatches(originalBatch); // Use proxies with default rotation interval
 
 // WITH PROXIES - Auto rotate every 10-15 teams
 // processBatches(["11", "27"], true);
@@ -184,13 +179,14 @@ function getElementsBetween(temp1, temp2) {
 
   const elementsInBetween1 = [],
     elementsInBetween2 = [];
-  let currentNode = temp1.nextElementSibling;
+  //let currentNode = temp1.nextElementSibling;
+  let currentNode = temp1;
 
   while (currentNode && currentNode !== temp2) {
-    if (!currentNode.getAttribute("class").includes("pb_sm")) {
-      currentNode = currentNode.nextElementSibling;
-      continue;
-    }
+    // if (!currentNode.getAttribute("class").includes("pb_sm")) {
+    //   currentNode = currentNode.nextElementSibling;
+    //   continue;
+    // }
 
     if (
       currentNode.querySelectorAll(`a[data-id][class^="event"] `).length > 0

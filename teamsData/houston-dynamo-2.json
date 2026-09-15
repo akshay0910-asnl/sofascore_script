@@ -1,0 +1,420 @@
+{
+    "globalStatistics": {
+        "corners": "4.81",
+        "fouls": "13.22",
+        "goalKicks": "7.59",
+        "saves": "3.59",
+        "offsides": "1.63",
+        "shotsOnTarget": "5.59/4.67",
+        "yellowCards": "2.22/2.04",
+        "goals": "1.89/1.11",
+        "throwIns": "17.41",
+        "ballPossession": 49.37037037037,
+        "tackles": "17.33/18.11",
+        "interceptions": "9.41/8.56",
+        "aerialDuels": "7.52",
+        "aerialDuelsAttempted": "15.93",
+        "dribbles": "7.70/8.07",
+        "dribblesAttempted": "16.63/17.22"
+    },
+    "teamSlug": "houston-dynamo-2",
+    "teamId": "407234",
+    "teamName": "Houston Dynamo 2",
+    "tournament": "MLS Next Pro",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/houston-dynamo-2-north-texas-sc/KcAcsJUmd#id:15421214,tab:statistics",
+            "teams": [
+                "North Texas SC",
+                "Houston Dynamo 2"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                312635,
+                407234
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/austin-fc-ii-houston-dynamo-2/JUmdsbWLd#id:15421211,tab:statistics",
+            "teams": [
+                "Houston Dynamo 2",
+                "Austin FC II"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                407234,
+                467301
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/minnesota-united-fc-2-houston-dynamo-2/JUmdsqCod#id:15421195,tab:statistics",
+            "teams": [
+                "Houston Dynamo 2",
+                "Minnesota United FC 2"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                407234,
+                411366
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/houston-dynamo-2-ventura-county-fc/PulbsJUmd#id:15421148,tab:statistics",
+            "teams": [
+                "Houston Dynamo 2",
+                "Ventura County FC"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                407234,
+                153490
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/houston-dynamo-2-real-monarchs-slc/oQDbsJUmd#id:15421142,tab:statistics",
+            "teams": [
+                "Houston Dynamo 2",
+                "Real Monarchs SLC"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                407234,
+                197064
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/houston-dynamo-2-sporting-kansas-city-ii/vbKbsJUmd#id:15421122,tab:statistics",
+            "teams": [
+                "Sporting Kansas City II",
+                "Houston Dynamo 2"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                212570,
+                407234
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/los-angeles-fc-2-houston-dynamo-2/JUmdsYVLd#id:15421058,tab:statistics",
+            "teams": [
+                "Los Angeles FC 2",
+                "Houston Dynamo 2"
+            ],
+            "goals": [
+                3,
+                1
+            ],
+            "teamIds": [
+                467298,
+                407234
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/houston-dynamo-2-tacoma-defiance/mQDbsJUmd#id:15421031,tab:statistics",
+            "teams": [
+                "Tacoma Defiance",
+                "Houston Dynamo 2"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                197062,
+                407234
+            ],
+            "isHome": false
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "3/6[A]",
+            "fouls": "8/17[A]",
+            "goalKicks": "6/9[A]",
+            "saves": "5/2[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "5/7[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "3/2[A]",
+            "throwIns": "19/20[A]",
+            "averageBallPossession": "52/48[A]",
+            "teams": "Houston Dynamo 2,North Texas SC,Away",
+            "tackles": "20/13[A]",
+            "interceptions": "11/12[A]",
+            "aerialDuels": "8/5[A]",
+            "aerialDuelsAttempted": "13/13[A]",
+            "dribbles": "10/7[A]",
+            "dribblesAttempted": "21/23[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/6[H]",
+            "fouls": "8/18[H]",
+            "goalKicks": "6/15[H]",
+            "saves": "2/5[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "5/5[H]",
+            "yellowCards": "3/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "21/12[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Houston Dynamo 2,Austin FC II,Home",
+            "tackles": "14/19[H]",
+            "interceptions": "6/4[H]",
+            "aerialDuels": "9/4[H]",
+            "aerialDuelsAttempted": "13/13[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "11/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/1[H]",
+            "fouls": "12/20[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/4[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "1/2[H]",
+            "goals": "0/2[H]",
+            "throwIns": "17/19[H]",
+            "averageBallPossession": "52/48[H]",
+            "teams": "Houston Dynamo 2,Minnesota United FC 2,Home",
+            "tackles": "19/25[H]",
+            "interceptions": "9/14[H]",
+            "aerialDuels": "11/11[H]",
+            "aerialDuelsAttempted": "22/22[H]",
+            "dribbles": "5/10[H]",
+            "dribblesAttempted": "18/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "12/3[H]",
+            "fouls": "13/14[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/4[H]",
+            "yellowCards": "0/1[H]",
+            "goals": "0/2[H]",
+            "throwIns": "13/18[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Houston Dynamo 2,Ventura County FC,Home",
+            "tackles": "13/12[H]",
+            "interceptions": "12/12[H]",
+            "aerialDuels": "7/7[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "6/10[H]",
+            "dribblesAttempted": "12/21[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/2[H]",
+            "fouls": "24/13[H]",
+            "goalKicks": "7/7[H]",
+            "saves": "3/4[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "3/0[H]",
+            "throwIns": "8/9[H]",
+            "averageBallPossession": "65/35[H]",
+            "teams": "Houston Dynamo 2,Real Monarchs SLC,Home",
+            "tackles": "16/22[H]",
+            "interceptions": "7/6[H]",
+            "aerialDuels": "5/9[H]",
+            "aerialDuelsAttempted": "14/14[H]",
+            "dribbles": "12/5[H]",
+            "dribblesAttempted": "26/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/6[A]",
+            "fouls": "15/14[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "10/3[A]",
+            "offsides": "0/5[A]",
+            "shotsOnTarget": "5/13[A]",
+            "yellowCards": "2/5[A]",
+            "goals": "2/3[A]",
+            "throwIns": "19/10[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Houston Dynamo 2,Sporting Kansas City II,Away",
+            "tackles": "11/18[A]",
+            "interceptions": "9/10[A]",
+            "aerialDuels": "3/8[A]",
+            "aerialDuelsAttempted": "11/11[A]",
+            "dribbles": "12/9[A]",
+            "dribblesAttempted": "18/16[A]",
+            "isHome": false
+        },
+        null,
+        {
+            "corners": "4/4[A]",
+            "fouls": "12/15[A]",
+            "goalKicks": "7/8[A]",
+            "saves": "2/4[A]",
+            "offsides": "0/4[A]",
+            "shotsOnTarget": "5/4[A]",
+            "yellowCards": "1/5[A]",
+            "goals": "1/2[A]",
+            "throwIns": "28/24[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Houston Dynamo 2,Tacoma Defiance,Away",
+            "tackles": "18/18[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "15/16[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "4/11[A]",
+            "dribblesAttempted": "8/17[A]",
+            "isHome": false
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-09-14T06:43:24.133Z",
+    "endTime": "2026-09-14T06:43:40.197Z",
+    "totalTimeSeconds": 16.06,
+    "combinedMatchStatistics": {
+        "corners": "3/6[A]+7/6[H]+7/1[H]+12/3[H]+7/2[H]+2/6[A]+4/4[A]",
+        "fouls": "8/17[A]+8/18[H]+12/20[H]+13/14[H]+24/13[H]+15/14[A]+12/15[A]",
+        "goalKicks": "6/9[A]+6/15[H]+6/8[H]+7/7[H]+7/7[H]+9/5[A]+7/8[A]",
+        "saves": "5/2[A]+2/5[H]+4/4[H]+2/2[H]+3/4[H]+10/3[A]+2/4[A]",
+        "offsides": "2/2[A]+0/0[H]+2/3[H]+1/1[H]+2/1[H]+0/5[A]+0/4[A]",
+        "shotsOnTarget": "5/7[A]+5/5[H]+4/6[H]+2/4[H]+7/3[H]+5/13[A]+5/4[A]",
+        "yellowCards": "3/3[A]+3/1[H]+1/2[H]+0/1[H]+3/0[H]+2/5[A]+1/5[A]",
+        "goals": "3/2[A]+0/2[H]+0/2[H]+0/2[H]+3/0[H]+2/3[A]+1/2[A]",
+        "throwIns": "19/20[A]+21/12[H]+17/19[H]+13/18[H]+8/9[H]+19/10[A]+28/24[A]",
+        "averageBallPossession": "52/48[A]+54/46[H]+52/48[H]+56/44[H]+65/35[H]+47/53[A]+53/47[A]",
+        "teams": "Houston Dynamo 2,North Texas SC,Away+Houston Dynamo 2,Austin FC II,Home+Houston Dynamo 2,Minnesota United FC 2,Home+Houston Dynamo 2,Ventura County FC,Home+Houston Dynamo 2,Real Monarchs SLC,Home+Houston Dynamo 2,Sporting Kansas City II,Away+Houston Dynamo 2,Tacoma Defiance,Away",
+        "tackles": "20/13[A]+14/19[H]+19/25[H]+13/12[H]+16/22[H]+11/18[A]+18/18[A]",
+        "interceptions": "11/12[A]+6/4[H]+9/14[H]+12/12[H]+7/6[H]+9/10[A]+6/8[A]",
+        "aerialDuels": "8/5[A]+9/4[H]+11/11[H]+7/7[H]+5/9[H]+3/8[A]+15/16[A]",
+        "aerialDuelsAttempted": "13/13[A]+13/13[H]+22/22[H]+14/14[H]+14/14[H]+11/11[A]+31/31[A]",
+        "dribbles": "10/7[A]+8/5[H]+5/10[H]+6/10[H]+12/5[H]+12/9[A]+4/11[A]",
+        "dribblesAttempted": "21/23[A]+11/11[H]+18/19[H]+12/21[H]+26/15[H]+18/16[A]+8/17[A]",
+        "isHome": "false+true+true+true+true+false+false",
+        "cornersTotals": "42/28",
+        "cornersTotalsHome": "33/12",
+        "cornersTotalsAway": "9/16",
+        "cornersAverage": "6.00/4.00",
+        "cornersAverageHome": "8.25/3.00",
+        "cornersAverageAway": "3.00/5.33",
+        "foulsTotals": "92/111",
+        "foulsTotalsHome": "57/65",
+        "foulsTotalsAway": "35/46",
+        "foulsAverage": "13.14/15.86",
+        "foulsAverageHome": "14.25/16.25",
+        "foulsAverageAway": "11.67/15.33",
+        "goalKicksTotals": "48/59",
+        "goalKicksTotalsHome": "26/37",
+        "goalKicksTotalsAway": "22/22",
+        "goalKicksAverage": "6.86/8.43",
+        "goalKicksAverageHome": "6.50/9.25",
+        "goalKicksAverageAway": "7.33/7.33",
+        "savesTotals": "28/24",
+        "savesTotalsHome": "11/15",
+        "savesTotalsAway": "17/9",
+        "savesAverage": "4.00/3.43",
+        "savesAverageHome": "2.75/3.75",
+        "savesAverageAway": "5.67/3.00",
+        "offsidesTotals": "7/16",
+        "offsidesTotalsHome": "5/5",
+        "offsidesTotalsAway": "2/11",
+        "offsidesAverage": "1.00/2.29",
+        "offsidesAverageHome": "1.25/1.25",
+        "offsidesAverageAway": "0.67/3.67",
+        "shotsOnTargetTotals": "33/42",
+        "shotsOnTargetTotalsHome": "18/18",
+        "shotsOnTargetTotalsAway": "15/24",
+        "shotsOnTargetAverage": "4.71/6.00",
+        "shotsOnTargetAverageHome": "4.50/4.50",
+        "shotsOnTargetAverageAway": "5.00/8.00",
+        "yellowCardsTotals": "13/17",
+        "yellowCardsTotalsHome": "7/4",
+        "yellowCardsTotalsAway": "6/13",
+        "yellowCardsAverage": "1.86/2.43",
+        "yellowCardsAverageHome": "1.75/1.00",
+        "yellowCardsAverageAway": "2.00/4.33",
+        "goalsTotals": "9/13",
+        "goalsTotalsHome": "3/6",
+        "goalsTotalsAway": "6/7",
+        "goalsAverage": "1.29/1.86",
+        "goalsAverageHome": "0.75/1.50",
+        "goalsAverageAway": "2.00/2.33",
+        "throwInsTotals": "125/112",
+        "throwInsTotalsHome": "59/58",
+        "throwInsTotalsAway": "66/54",
+        "throwInsAverage": "17.86/16.00",
+        "throwInsAverageHome": "14.75/14.50",
+        "throwInsAverageAway": "22.00/18.00",
+        "averageBallPossessionTotals": "379/321",
+        "averageBallPossessionTotalsHome": "227/173",
+        "averageBallPossessionTotalsAway": "152/148",
+        "averageBallPossessionAverage": "54.14/45.86",
+        "averageBallPossessionAverageHome": "56.75/43.25",
+        "averageBallPossessionAverageAway": "50.67/49.33",
+        "tacklesTotals": "111/127",
+        "tacklesTotalsHome": "62/78",
+        "tacklesTotalsAway": "49/49",
+        "tacklesAverage": "15.86/18.14",
+        "tacklesAverageHome": "15.50/19.50",
+        "tacklesAverageAway": "16.33/16.33",
+        "interceptionsTotals": "60/66",
+        "interceptionsTotalsHome": "34/36",
+        "interceptionsTotalsAway": "26/30",
+        "interceptionsAverage": "8.57/9.43",
+        "interceptionsAverageHome": "8.50/9.00",
+        "interceptionsAverageAway": "8.67/10.00",
+        "aerialDuelsTotals": "58/60",
+        "aerialDuelsTotalsHome": "32/31",
+        "aerialDuelsTotalsAway": "26/29",
+        "aerialDuelsAverage": "8.29/8.57",
+        "aerialDuelsAverageHome": "8.00/7.75",
+        "aerialDuelsAverageAway": "8.67/9.67",
+        "aerialDuelsAttemptedTotals": "118/118",
+        "aerialDuelsAttemptedTotalsHome": "63/63",
+        "aerialDuelsAttemptedTotalsAway": "55/55",
+        "aerialDuelsAttemptedAverage": "16.86/16.86",
+        "aerialDuelsAttemptedAverageHome": "15.75/15.75",
+        "aerialDuelsAttemptedAverageAway": "18.33/18.33",
+        "dribblesTotals": "57/57",
+        "dribblesTotalsHome": "31/30",
+        "dribblesTotalsAway": "26/27",
+        "dribblesAverage": "8.14/8.14",
+        "dribblesAverageHome": "7.75/7.50",
+        "dribblesAverageAway": "8.67/9.00",
+        "dribblesAttemptedTotals": "114/122",
+        "dribblesAttemptedTotalsHome": "67/66",
+        "dribblesAttemptedTotalsAway": "47/56",
+        "dribblesAttemptedAverage": "16.29/17.43",
+        "dribblesAttemptedAverageHome": "16.75/16.50",
+        "dribblesAttemptedAverageAway": "15.67/18.67"
+    }
+}
