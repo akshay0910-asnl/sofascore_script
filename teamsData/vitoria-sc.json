@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "4.39",
-        "fouls": "14.58",
-        "goalKicks": "6.79",
-        "saves": "3.18",
-        "offsides": "1.82",
-        "shotsOnTarget": "3.94/4.67",
-        "yellowCards": "2.24/2.61",
-        "goals": "1.18/1.48",
-        "throwIns": "21.12",
-        "ballPossession": 50.939393939394,
-        "tackles": "15.55/14.73",
-        "interceptions": "8.52/8.52",
-        "aerialDuels": "13.85",
-        "aerialDuelsAttempted": "28.42",
-        "dribbles": "6.70/6.12",
-        "dribblesAttempted": "14.55/13.55"
+        "corners": "6.17",
+        "fouls": "15.50",
+        "goalKicks": "5.67",
+        "saves": "1.50",
+        "offsides": "1.17",
+        "shotsOnTarget": "4.67/2.67",
+        "yellowCards": "2.67/2.83",
+        "goals": "0.67/1.17",
+        "throwIns": "24.00",
+        "ballPossession": 54,
+        "tackles": "16.83/16.50",
+        "interceptions": "10.00/11.17",
+        "aerialDuels": "17.83",
+        "aerialDuelsAttempted": "35.50",
+        "dribbles": "4.67/4.67",
+        "dribblesAttempted": "11.33/12.17"
     },
     "teamSlug": "vitoria-sc",
     "teamId": "3009",
     "teamName": "Vitória SC",
     "tournament": "Liga Portugal Betclic",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/academico-viseu-fc-vitoria-sc/jkbsxkb#id:16432049,tab:statistics",
+            "teams": [
+                "Académico Viseu FC",
+                "Vitória SC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                3022,
+                3009
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/casa-pia-vitoria-sc/jkbspCo#id:16450888,tab:statistics",
+            "teams": [
+                "Vitória SC",
+                "Casa Pia"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                3009,
+                36365
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vitoria-sc-sporting-braga/Zjbsjkb#id:16450844,tab:statistics",
+            "teams": [
+                "Sporting Braga",
+                "Vitória SC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2999,
+                3009
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cd-nacional-vitoria-sc/jkbsnkb#id:16450798,tab:statistics",
+            "teams": [
+                "Vitória SC",
+                "CD Nacional"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                3009,
+                3013
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/vitoria-sc-sporting-cp/bkbsjkb#id:16450754,tab:statistics",
+            "teams": [
+                "Sporting CP",
+                "Vitória SC"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                3001,
+                3009
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fc-arouca-vitoria-sc/jkbsCpk#id:16450743,tab:statistics",
+            "teams": [
+                "Vitória SC",
+                "FC Arouca"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3009,
+                25777
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/cd-nacional-vitoria-sc/jkbsnkb#id:14336199,tab:statistics",
+            "teams": [
+                "CD Nacional",
+                "Vitória SC"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                3013,
+                3009
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/casa-pia-vitoria-sc/jkbspCo#id:14288889,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 36365
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/vitoria-sc-sporting/bkbsjkb#id:14288884,tab:statistics",
-            "teams": [
-                "Sporting CP",
-                "Vitória SC"
-            ],
-            "goals": [
-                5,
-                1
-            ],
-            "teamIds": [
-                3001,
-                3009
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/rio-ave-vitoria-sc/jkbsLkb#id:14288878,tab:statistics",
-            "teams": [
-                "Vitória SC",
-                "Rio Ave"
-            ],
-            "goals": [
-                2,
-                0
-            ],
-            "teamIds": [
-                3009,
-                3036
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/gil-vicente-vitoria-sc/jkbskkb#id:14288866,tab:statistics",
-            "teams": [
-                "Gil Vicente",
-                "Vitória SC"
-            ],
-            "goals": [
-                0,
-                1
-            ],
-            "teamIds": [
-                3010,
-                3009
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/avs-futebol-sad-vitoria-sc/jkbsNlTd#id:14288853,tab:statistics",
-            "teams": [
-                "AVS - Futebol SAD",
-                "Vitória SC"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                483088,
-                3009
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/tondela-vitoria-sc/jkbsWrp#id:14288850,tab:statistics",
-            "teams": [
-                "Vitória SC",
-                "Tondela"
-            ],
-            "goals": [
-                5,
-                0
-            ],
-            "teamIds": [
-                3009,
-                38396
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/vitoria-sc-benfica/gkbsjkb#id:14288841,tab:statistics",
-            "teams": [
-                "Benfica",
-                "Vitória SC"
-            ],
-            "goals": [
-                3,
-                0
-            ],
-            "teamIds": [
-                3006,
-                3009
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/famalicao-vitoria-sc/jkbsGPu#id:14288826,tab:statistics",
-            "teams": [
-                "Vitória SC",
-                "Famalicão"
-            ],
-            "goals": [
-                1,
-                2
-            ],
-            "teamIds": [
-                3009,
-                49531
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "8/4[A]",
+            "fouls": "11/14[A]",
+            "goalKicks": "6/10[A]",
+            "saves": "2/6[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "7/4[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "1/2[A]",
+            "throwIns": "20/21[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Vitória SC,Académico Viseu FC,Away",
+            "tackles": "14/13[A]",
+            "interceptions": "9/11[A]",
+            "aerialDuels": "18/12[A]",
+            "aerialDuelsAttempted": "30/30[A]",
+            "dribbles": "0/5[A]",
+            "dribblesAttempted": "8/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "17/4[H]",
+            "fouls": "16/6[H]",
+            "goalKicks": "9/10[H]",
+            "saves": "3/7[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "8/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "0/0[H]",
+            "throwIns": "31/21[H]",
+            "averageBallPossession": "74/26[H]",
+            "teams": "Vitória SC,Casa Pia,Home",
+            "tackles": "13/25[H]",
+            "interceptions": "9/6[H]",
+            "aerialDuels": "25/26[H]",
+            "aerialDuelsAttempted": "51/51[H]",
+            "dribbles": "12/5[H]",
+            "dribblesAttempted": "23/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/2[A]",
+            "fouls": "18/11[A]",
+            "goalKicks": "6/2[A]",
+            "saves": "3/2[A]",
+            "offsides": "1/5[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "21/23[A]",
+            "averageBallPossession": "46/54[A]",
+            "teams": "Vitória SC,Sporting Braga,Away",
+            "tackles": "14/9[A]",
+            "interceptions": "10/16[A]",
+            "aerialDuels": "15/24[A]",
+            "aerialDuelsAttempted": "39/39[A]",
+            "dribbles": "4/4[A]",
+            "dribblesAttempted": "6/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "18/8[H]",
+            "goalKicks": "6/15[H]",
+            "saves": "0/3[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "5/0[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "1/0[H]",
+            "throwIns": "28/20[H]",
+            "averageBallPossession": "48/52[H]",
+            "teams": "Vitória SC,CD Nacional,Home",
+            "tackles": "15/15[H]",
+            "interceptions": "13/11[H]",
+            "aerialDuels": "20/23[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "3/3[H]",
+            "dribblesAttempted": "11/7[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/5[A]",
+            "fouls": "21/12[A]",
+            "goalKicks": "5/10[A]",
+            "saves": "0/1[A]",
+            "offsides": "0/2[A]",
+            "shotsOnTarget": "3/3[A]",
+            "yellowCards": "4/4[A]",
+            "goals": "2/3[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "44/56[A]",
+            "teams": "Vitória SC,Sporting CP,Away",
+            "tackles": "27/17[A]",
+            "interceptions": "7/12[A]",
+            "aerialDuels": "14/13[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "10/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "9/7[H]",
+            "goalKicks": "2/23[H]",
+            "saves": "1/3[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "3/2[H]",
+            "yellowCards": "2/5[H]",
+            "goals": "0/1[H]",
+            "throwIns": "31/17[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Vitória SC,FC Arouca,Home",
+            "tackles": "18/20[H]",
+            "interceptions": "12/11[H]",
+            "aerialDuels": "15/8[H]",
+            "aerialDuelsAttempted": "23/23[H]",
+            "dribbles": "6/2[H]",
+            "dribblesAttempted": "10/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/2[A]",
+            "fouls": "13/17[A]",
+            "goalKicks": "5/8[A]",
+            "saves": "1/5[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "4/3[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "0/2[A]",
+            "throwIns": "15/21[A]",
+            "averageBallPossession": "66/34[A]",
+            "teams": "Vitória SC,CD Nacional,Away",
+            "tackles": "11/8[A]",
+            "interceptions": "7/7[A]",
+            "aerialDuels": "13/20[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "6/4[A]",
+            "dribblesAttempted": "12/8[A]",
+            "isHome": false
+        },
         {
             "corners": "6/4[H]",
             "fouls": "11/16[H]",
@@ -173,267 +313,127 @@
             "dribbles": "7/1[H]",
             "dribblesAttempted": "18/11[H]",
             "isHome": true
-        },
-        {
-            "corners": "7/1[A]",
-            "fouls": "13/7[A]",
-            "goalKicks": "9/8[A]",
-            "saves": "5/6[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "5/10[A]",
-            "yellowCards": "2/0[A]",
-            "goals": "1/5[A]",
-            "throwIns": "15/16[A]",
-            "averageBallPossession": "48/52[A]",
-            "teams": "Vitória SC,Sporting CP,Away",
-            "tackles": "14/21[A]",
-            "interceptions": "13/10[A]",
-            "aerialDuels": "7/8[A]",
-            "aerialDuelsAttempted": "15/15[A]",
-            "dribbles": "5/11[A]",
-            "dribblesAttempted": "17/19[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/5[H]",
-            "fouls": "7/13[H]",
-            "goalKicks": "4/11[H]",
-            "saves": "4/1[H]",
-            "offsides": "1/2[H]",
-            "shotsOnTarget": "3/4[H]",
-            "yellowCards": "4/4[H]",
-            "goals": "2/0[H]",
-            "throwIns": "21/22[H]",
-            "averageBallPossession": "56/44[H]",
-            "teams": "Vitória SC,Rio Ave,Home",
-            "tackles": "26/18[H]",
-            "interceptions": "9/11[H]",
-            "aerialDuels": "15/21[H]",
-            "aerialDuelsAttempted": "36/36[H]",
-            "dribbles": "6/8[H]",
-            "dribblesAttempted": "12/19[H]",
-            "isHome": true
-        },
-        {
-            "corners": "3/10[A]",
-            "fouls": "16/11[A]",
-            "goalKicks": "5/7[A]",
-            "saves": "6/2[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "3/6[A]",
-            "yellowCards": "2/2[A]",
-            "goals": "1/0[A]",
-            "throwIns": "26/21[A]",
-            "averageBallPossession": "48/52[A]",
-            "teams": "Vitória SC,Gil Vicente,Away",
-            "tackles": "22/10[A]",
-            "interceptions": "12/12[A]",
-            "aerialDuels": "23/29[A]",
-            "aerialDuelsAttempted": "52/52[A]",
-            "dribbles": "7/6[A]",
-            "dribblesAttempted": "13/17[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/5[A]",
-            "fouls": "9/16[A]",
-            "goalKicks": "8/9[A]",
-            "saves": "3/5[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "6/4[A]",
-            "yellowCards": "1/5[A]",
-            "goals": "1/1[A]",
-            "throwIns": "25/21[A]",
-            "averageBallPossession": "60/40[A]",
-            "teams": "Vitória SC,AVS - Futebol SAD,Away",
-            "tackles": "17/15[A]",
-            "interceptions": "6/7[A]",
-            "aerialDuels": "14/15[A]",
-            "aerialDuelsAttempted": "29/29[A]",
-            "dribbles": "5/3[A]",
-            "dribblesAttempted": "18/15[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/1[H]",
-            "fouls": "14/17[H]",
-            "goalKicks": "4/5[H]",
-            "saves": "1/1[H]",
-            "offsides": "1/3[H]",
-            "shotsOnTarget": "5/1[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "5/0[H]",
-            "throwIns": "18/18[H]",
-            "averageBallPossession": "52/48[H]",
-            "teams": "Vitória SC,Tondela,Home",
-            "tackles": "21/12[H]",
-            "interceptions": "7/9[H]",
-            "aerialDuels": "11/18[H]",
-            "aerialDuelsAttempted": "29/29[H]",
-            "dribbles": "5/7[H]",
-            "dribblesAttempted": "12/13[H]",
-            "isHome": true
-        },
-        {
-            "corners": "8/4[A]",
-            "fouls": "15/15[A]",
-            "goalKicks": "5/9[A]",
-            "saves": "2/2[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "2/4[A]",
-            "yellowCards": "1/0[A]",
-            "goals": "0/3[A]",
-            "throwIns": "15/16[A]",
-            "averageBallPossession": "51/49[A]",
-            "teams": "Vitória SC,Benfica,Away",
-            "tackles": "18/18[A]",
-            "interceptions": "9/8[A]",
-            "aerialDuels": "8/3[A]",
-            "aerialDuelsAttempted": "11/11[A]",
-            "dribbles": "4/5[A]",
-            "dribblesAttempted": "14/14[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/11[H]",
-            "fouls": "22/13[H]",
-            "goalKicks": "8/5[H]",
-            "saves": "1/5[H]",
-            "offsides": "0/2[H]",
-            "shotsOnTarget": "6/3[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "1/2[H]",
-            "throwIns": "18/14[H]",
-            "averageBallPossession": "44/56[H]",
-            "teams": "Vitória SC,Famalicão,Home",
-            "tackles": "16/14[H]",
-            "interceptions": "12/8[H]",
-            "aerialDuels": "17/13[H]",
-            "aerialDuelsAttempted": "30/30[H]",
-            "dribbles": "9/7[H]",
-            "dribblesAttempted": "19/10[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 6,
-    "startTime": "2026-05-16T09:04:04.614Z",
-    "endTime": "2026-05-16T09:04:46.651Z",
-    "totalTimeSeconds": 42.04,
+    "currentIndex": 7,
+    "startTime": "2026-09-20T08:29:19.945Z",
+    "endTime": "2026-09-20T08:29:43.575Z",
+    "totalTimeSeconds": 23.63,
     "combinedMatchStatistics": {
-        "corners": "6/4[H]+7/1[A]+3/5[H]+3/10[A]+4/5[A]+3/1[H]+8/4[A]+3/11[H]",
-        "fouls": "11/16[H]+13/7[A]+7/13[H]+16/11[A]+9/16[A]+14/17[H]+15/15[A]+22/13[H]",
-        "goalKicks": "5/10[H]+9/8[A]+4/11[H]+5/7[A]+8/9[A]+4/5[H]+5/9[A]+8/5[H]",
-        "saves": "4/3[H]+5/6[A]+4/1[H]+6/2[A]+3/5[A]+1/1[H]+2/2[A]+1/5[H]",
-        "offsides": "3/1[H]+2/3[A]+1/2[H]+2/1[A]+2/3[A]+1/3[H]+1/0[A]+0/2[H]",
-        "shotsOnTarget": "2/5[H]+5/10[A]+3/4[H]+3/6[A]+6/4[A]+5/1[H]+2/4[A]+6/3[H]",
-        "yellowCards": "2/1[H]+2/0[A]+4/4[H]+2/2[A]+1/5[A]+1/1[H]+1/0[A]+1/1[H]",
-        "goals": "0/1[H]+1/5[A]+2/0[H]+1/0[A]+1/1[A]+5/0[H]+0/3[A]+1/2[H]",
-        "throwIns": "18/20[H]+15/16[A]+21/22[H]+26/21[A]+25/21[A]+18/18[H]+15/16[A]+18/14[H]",
-        "averageBallPossession": "71/29[H]+48/52[A]+56/44[H]+48/52[A]+60/40[A]+52/48[H]+51/49[A]+44/56[H]",
-        "teams": "Vitória SC,Casa Pia,Home+Vitória SC,Sporting CP,Away+Vitória SC,Rio Ave,Home+Vitória SC,Gil Vicente,Away+Vitória SC,AVS - Futebol SAD,Away+Vitória SC,Tondela,Home+Vitória SC,Benfica,Away+Vitória SC,Famalicão,Home",
-        "tackles": "17/16[H]+14/21[A]+26/18[H]+22/10[A]+17/15[A]+21/12[H]+18/18[A]+16/14[H]",
-        "interceptions": "8/15[H]+13/10[A]+9/11[H]+12/12[A]+6/7[A]+7/9[H]+9/8[A]+12/8[H]",
-        "aerialDuels": "22/18[H]+7/8[A]+15/21[H]+23/29[A]+14/15[A]+11/18[H]+8/3[A]+17/13[H]",
-        "aerialDuelsAttempted": "40/40[H]+15/15[A]+36/36[H]+52/52[A]+29/29[A]+29/29[H]+11/11[A]+30/30[H]",
-        "dribbles": "7/1[H]+5/11[A]+6/8[H]+7/6[A]+5/3[A]+5/7[H]+4/5[A]+9/7[H]",
-        "dribblesAttempted": "18/11[H]+17/19[A]+12/19[H]+13/17[A]+18/15[A]+12/13[H]+14/14[A]+19/10[H]",
-        "isHome": "true+false+true+false+false+true+false+true",
-        "cornersTotals": "37/41",
-        "cornersTotalsHome": "15/21",
-        "cornersTotalsAway": "22/20",
-        "cornersAverage": "4.63/5.13",
-        "cornersAverageHome": "3.75/5.25",
-        "cornersAverageAway": "5.50/5.00",
-        "foulsTotals": "107/108",
-        "foulsTotalsHome": "54/59",
-        "foulsTotalsAway": "53/49",
-        "foulsAverage": "13.38/13.50",
-        "foulsAverageHome": "13.50/14.75",
-        "foulsAverageAway": "13.25/12.25",
-        "goalKicksTotals": "48/64",
-        "goalKicksTotalsHome": "21/31",
-        "goalKicksTotalsAway": "27/33",
-        "goalKicksAverage": "6.00/8.00",
-        "goalKicksAverageHome": "5.25/7.75",
-        "goalKicksAverageAway": "6.75/8.25",
-        "savesTotals": "26/25",
-        "savesTotalsHome": "10/10",
-        "savesTotalsAway": "16/15",
-        "savesAverage": "3.25/3.13",
-        "savesAverageHome": "2.50/2.50",
-        "savesAverageAway": "4.00/3.75",
-        "offsidesTotals": "12/15",
-        "offsidesTotalsHome": "5/8",
-        "offsidesTotalsAway": "7/7",
-        "offsidesAverage": "1.50/1.88",
-        "offsidesAverageHome": "1.25/2.00",
-        "offsidesAverageAway": "1.75/1.75",
-        "shotsOnTargetTotals": "32/37",
-        "shotsOnTargetTotalsHome": "16/13",
-        "shotsOnTargetTotalsAway": "16/24",
-        "shotsOnTargetAverage": "4.00/4.63",
-        "shotsOnTargetAverageHome": "4.00/3.25",
-        "shotsOnTargetAverageAway": "4.00/6.00",
-        "yellowCardsTotals": "14/14",
-        "yellowCardsTotalsHome": "8/7",
-        "yellowCardsTotalsAway": "6/7",
-        "yellowCardsAverage": "1.75/1.75",
-        "yellowCardsAverageHome": "2.00/1.75",
-        "yellowCardsAverageAway": "1.50/1.75",
-        "goalsTotals": "11/12",
-        "goalsTotalsHome": "8/3",
-        "goalsTotalsAway": "3/9",
-        "goalsAverage": "1.38/1.50",
-        "goalsAverageHome": "2.00/0.75",
-        "goalsAverageAway": "0.75/2.25",
-        "throwInsTotals": "156/148",
-        "throwInsTotalsHome": "75/74",
-        "throwInsTotalsAway": "81/74",
-        "throwInsAverage": "19.50/18.50",
-        "throwInsAverageHome": "18.75/18.50",
-        "throwInsAverageAway": "20.25/18.50",
-        "averageBallPossessionTotals": "430/370",
-        "averageBallPossessionTotalsHome": "223/177",
-        "averageBallPossessionTotalsAway": "207/193",
-        "averageBallPossessionAverage": "53.75/46.25",
-        "averageBallPossessionAverageHome": "55.75/44.25",
-        "averageBallPossessionAverageAway": "51.75/48.25",
-        "tacklesTotals": "151/124",
-        "tacklesTotalsHome": "80/60",
-        "tacklesTotalsAway": "71/64",
-        "tacklesAverage": "18.88/15.50",
-        "tacklesAverageHome": "20.00/15.00",
-        "tacklesAverageAway": "17.75/16.00",
-        "interceptionsTotals": "76/80",
-        "interceptionsTotalsHome": "36/43",
-        "interceptionsTotalsAway": "40/37",
-        "interceptionsAverage": "9.50/10.00",
-        "interceptionsAverageHome": "9.00/10.75",
-        "interceptionsAverageAway": "10.00/9.25",
-        "aerialDuelsTotals": "117/125",
-        "aerialDuelsTotalsHome": "65/70",
-        "aerialDuelsTotalsAway": "52/55",
-        "aerialDuelsAverage": "14.63/15.63",
-        "aerialDuelsAverageHome": "16.25/17.50",
-        "aerialDuelsAverageAway": "13.00/13.75",
-        "aerialDuelsAttemptedTotals": "242/242",
-        "aerialDuelsAttemptedTotalsHome": "135/135",
-        "aerialDuelsAttemptedTotalsAway": "107/107",
-        "aerialDuelsAttemptedAverage": "30.25/30.25",
-        "aerialDuelsAttemptedAverageHome": "33.75/33.75",
-        "aerialDuelsAttemptedAverageAway": "26.75/26.75",
-        "dribblesTotals": "48/48",
-        "dribblesTotalsHome": "27/23",
-        "dribblesTotalsAway": "21/25",
-        "dribblesAverage": "6.00/6.00",
-        "dribblesAverageHome": "6.75/5.75",
-        "dribblesAverageAway": "5.25/6.25",
-        "dribblesAttemptedTotals": "123/118",
-        "dribblesAttemptedTotalsHome": "61/53",
-        "dribblesAttemptedTotalsAway": "62/65",
-        "dribblesAttemptedAverage": "15.38/14.75",
-        "dribblesAttemptedAverageHome": "15.25/13.25",
-        "dribblesAttemptedAverageAway": "15.50/16.25"
+        "corners": "8/4[A]+17/4[H]+2/2[A]+4/3[H]+1/5[A]+5/2[H]+6/2[A]+6/4[H]",
+        "fouls": "11/14[A]+16/6[H]+18/11[A]+18/8[H]+21/12[A]+9/7[H]+13/17[A]+11/16[H]",
+        "goalKicks": "6/10[A]+9/10[H]+6/2[A]+6/15[H]+5/10[A]+2/23[H]+5/8[A]+5/10[H]",
+        "saves": "2/6[A]+3/7[H]+3/2[A]+0/3[H]+0/1[A]+1/3[H]+1/5[A]+4/3[H]",
+        "offsides": "1/3[A]+2/0[H]+1/5[A]+2/1[H]+0/2[A]+1/3[H]+2/1[A]+3/1[H]",
+        "shotsOnTarget": "7/4[A]+8/3[H]+2/4[A]+5/0[H]+3/3[A]+3/2[H]+4/3[A]+2/5[H]",
+        "yellowCards": "3/4[A]+2/2[H]+3/2[A]+2/1[H]+4/4[A]+2/5[H]+3/4[A]+2/1[H]",
+        "goals": "1/2[A]+0/0[H]+0/1[A]+1/0[H]+2/3[A]+0/1[H]+0/2[A]+0/1[H]",
+        "throwIns": "20/21[A]+31/21[H]+21/23[A]+28/20[H]+13/18[A]+31/17[H]+15/21[A]+18/20[H]",
+        "averageBallPossession": "54/46[A]+74/26[H]+46/54[A]+48/52[H]+44/56[A]+58/42[H]+66/34[A]+71/29[H]",
+        "teams": "Vitória SC,Académico Viseu FC,Away+Vitória SC,Casa Pia,Home+Vitória SC,Sporting Braga,Away+Vitória SC,CD Nacional,Home+Vitória SC,Sporting CP,Away+Vitória SC,FC Arouca,Home+Vitória SC,CD Nacional,Away+Vitória SC,Casa Pia,Home",
+        "tackles": "14/13[A]+13/25[H]+14/9[A]+15/15[H]+27/17[A]+18/20[H]+11/8[A]+17/16[H]",
+        "interceptions": "9/11[A]+9/6[H]+10/16[A]+13/11[H]+7/12[A]+12/11[H]+7/7[A]+8/15[H]",
+        "aerialDuels": "18/12[A]+25/26[H]+15/24[A]+20/23[H]+14/13[A]+15/8[H]+13/20[A]+22/18[H]",
+        "aerialDuelsAttempted": "30/30[A]+51/51[H]+39/39[A]+43/43[H]+27/27[A]+23/23[H]+33/33[A]+40/40[H]",
+        "dribbles": "0/5[A]+12/5[H]+4/4[A]+3/3[H]+3/9[A]+6/2[H]+6/4[A]+7/1[H]",
+        "dribblesAttempted": "8/11[A]+23/11[H]+6/11[A]+11/7[H]+10/22[A]+10/11[H]+12/8[A]+18/11[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "49/26",
+        "cornersTotalsHome": "32/13",
+        "cornersTotalsAway": "17/13",
+        "cornersAverage": "6.13/3.25",
+        "cornersAverageHome": "8.00/3.25",
+        "cornersAverageAway": "4.25/3.25",
+        "foulsTotals": "117/91",
+        "foulsTotalsHome": "54/37",
+        "foulsTotalsAway": "63/54",
+        "foulsAverage": "14.63/11.38",
+        "foulsAverageHome": "13.50/9.25",
+        "foulsAverageAway": "15.75/13.50",
+        "goalKicksTotals": "44/88",
+        "goalKicksTotalsHome": "22/58",
+        "goalKicksTotalsAway": "22/30",
+        "goalKicksAverage": "5.50/11.00",
+        "goalKicksAverageHome": "5.50/14.50",
+        "goalKicksAverageAway": "5.50/7.50",
+        "savesTotals": "14/30",
+        "savesTotalsHome": "8/16",
+        "savesTotalsAway": "6/14",
+        "savesAverage": "1.75/3.75",
+        "savesAverageHome": "2.00/4.00",
+        "savesAverageAway": "1.50/3.50",
+        "offsidesTotals": "12/16",
+        "offsidesTotalsHome": "8/5",
+        "offsidesTotalsAway": "4/11",
+        "offsidesAverage": "1.50/2.00",
+        "offsidesAverageHome": "2.00/1.25",
+        "offsidesAverageAway": "1.00/2.75",
+        "shotsOnTargetTotals": "34/24",
+        "shotsOnTargetTotalsHome": "18/10",
+        "shotsOnTargetTotalsAway": "16/14",
+        "shotsOnTargetAverage": "4.25/3.00",
+        "shotsOnTargetAverageHome": "4.50/2.50",
+        "shotsOnTargetAverageAway": "4.00/3.50",
+        "yellowCardsTotals": "21/23",
+        "yellowCardsTotalsHome": "8/9",
+        "yellowCardsTotalsAway": "13/14",
+        "yellowCardsAverage": "2.63/2.88",
+        "yellowCardsAverageHome": "2.00/2.25",
+        "yellowCardsAverageAway": "3.25/3.50",
+        "goalsTotals": "4/10",
+        "goalsTotalsHome": "1/2",
+        "goalsTotalsAway": "3/8",
+        "goalsAverage": "0.50/1.25",
+        "goalsAverageHome": "0.25/0.50",
+        "goalsAverageAway": "0.75/2.00",
+        "throwInsTotals": "177/161",
+        "throwInsTotalsHome": "108/78",
+        "throwInsTotalsAway": "69/83",
+        "throwInsAverage": "22.13/20.13",
+        "throwInsAverageHome": "27.00/19.50",
+        "throwInsAverageAway": "17.25/20.75",
+        "averageBallPossessionTotals": "461/339",
+        "averageBallPossessionTotalsHome": "251/149",
+        "averageBallPossessionTotalsAway": "210/190",
+        "averageBallPossessionAverage": "57.63/42.38",
+        "averageBallPossessionAverageHome": "62.75/37.25",
+        "averageBallPossessionAverageAway": "52.50/47.50",
+        "tacklesTotals": "129/123",
+        "tacklesTotalsHome": "63/76",
+        "tacklesTotalsAway": "66/47",
+        "tacklesAverage": "16.13/15.38",
+        "tacklesAverageHome": "15.75/19.00",
+        "tacklesAverageAway": "16.50/11.75",
+        "interceptionsTotals": "75/89",
+        "interceptionsTotalsHome": "42/43",
+        "interceptionsTotalsAway": "33/46",
+        "interceptionsAverage": "9.38/11.13",
+        "interceptionsAverageHome": "10.50/10.75",
+        "interceptionsAverageAway": "8.25/11.50",
+        "aerialDuelsTotals": "142/144",
+        "aerialDuelsTotalsHome": "82/75",
+        "aerialDuelsTotalsAway": "60/69",
+        "aerialDuelsAverage": "17.75/18.00",
+        "aerialDuelsAverageHome": "20.50/18.75",
+        "aerialDuelsAverageAway": "15.00/17.25",
+        "aerialDuelsAttemptedTotals": "286/286",
+        "aerialDuelsAttemptedTotalsHome": "157/157",
+        "aerialDuelsAttemptedTotalsAway": "129/129",
+        "aerialDuelsAttemptedAverage": "35.75/35.75",
+        "aerialDuelsAttemptedAverageHome": "39.25/39.25",
+        "aerialDuelsAttemptedAverageAway": "32.25/32.25",
+        "dribblesTotals": "41/33",
+        "dribblesTotalsHome": "28/11",
+        "dribblesTotalsAway": "13/22",
+        "dribblesAverage": "5.13/4.13",
+        "dribblesAverageHome": "7.00/2.75",
+        "dribblesAverageAway": "3.25/5.50",
+        "dribblesAttemptedTotals": "98/92",
+        "dribblesAttemptedTotalsHome": "62/40",
+        "dribblesAttemptedTotalsAway": "36/52",
+        "dribblesAttemptedAverage": "12.25/11.50",
+        "dribblesAttemptedAverageHome": "15.50/10.00",
+        "dribblesAttemptedAverageAway": "9.00/13.00"
     }
 }

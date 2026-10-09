@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "3.81",
-        "fouls": "9.11",
-        "goalKicks": "9.38",
-        "saves": "3.81",
-        "offsides": "1.27",
-        "shotsOnTarget": "3.19/5.46",
-        "yellowCards": "1.43/2.00",
-        "goals": "1.05/1.59",
-        "throwIns": "21.57",
-        "ballPossession": 43.351351351351,
-        "tackles": "14.11/15.57",
-        "interceptions": "7.89/6.65",
-        "aerialDuels": "20.76",
-        "aerialDuelsAttempted": "37.30",
-        "dribbles": "5.70/6.14",
-        "dribblesAttempted": "12.73/12.32"
+        "corners": "3.67",
+        "fouls": "11.67",
+        "goalKicks": "13.33",
+        "saves": "4.00",
+        "offsides": "0.83",
+        "shotsOnTarget": "3.33/4.83",
+        "yellowCards": "1.50/2.17",
+        "goals": "1.17/1.00",
+        "throwIns": "17.00",
+        "ballPossession": 36.666666666667,
+        "tackles": "14.00/16.00",
+        "interceptions": "10.17/7.00",
+        "aerialDuels": "25.50",
+        "aerialDuelsAttempted": "50.67",
+        "dribbles": "4.83/7.00",
+        "dribblesAttempted": "13.00/14.50"
     },
     "teamSlug": "dundee-fc",
     "teamId": "2357",
     "teamName": "Dundee FC",
     "tournament": "Scottish Premiership",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-heart-of-midlothian/dXshX#id:16362011,tab:statistics",
+            "teams": [
+                "Heart of Midlothian",
+                "Dundee FC"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2353,
+                2357
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-st-johnstone/YWshX#id:16361996,tab:statistics",
+            "teams": [
+                "Dundee FC",
+                "St. Johnstone"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                2357,
+                2348
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-hibernian/eXshX#id:16362143,tab:statistics",
+            "teams": [
+                "Dundee FC",
+                "Hibernian"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2357,
+                2354
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-dundee-united/ZWshX#id:16362067,tab:statistics",
+            "teams": [
+                "Dundee United",
+                "Dundee FC"
+            ],
+            "goals": [
+                0,
+                2
+            ],
+            "teamIds": [
+                2349,
+                2357
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-aberdeen/fXshX#id:16361995,tab:statistics",
+            "teams": [
+                "Dundee FC",
+                "Aberdeen"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                2357,
+                2355
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-celtic/cXshX#id:16362021,tab:statistics",
+            "teams": [
+                "Celtic",
+                "Dundee FC"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                2352,
+                2357
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/dundee-fc-aberdeen/fXshX#id:15981451,tab:statistics",
+            "teams": [
+                "Dundee FC",
+                "Aberdeen"
+            ],
+            "goals": [
+                3,
+                2
+            ],
+            "teamIds": [
+                2357,
+                2355
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/dundee-fc-kilmarnock/XWshX#id:15981450,tab:statistics",
             "teams": [
@@ -37,123 +149,132 @@
                 2357
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dundee-fc-livingston/gXshX#id:15981447,tab:statistics",
-            "teams": [
-                "Dundee FC",
-                "Livingston"
-            ],
-            "goals": [
-                3,
-                0
-            ],
-            "teamIds": [
-                2357,
-                2356
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/st-mirren-dundee-fc/hXsjX#id:15981444,tab:statistics",
-            "teams": [
-                "Dundee FC",
-                "St. Mirren"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                2357,
-                2359
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dundee-fc-dundee-united/ZWshX#id:15981442,tab:statistics",
-            "teams": [
-                "Dundee United",
-                "Dundee FC"
-            ],
-            "goals": [
-                3,
-                0
-            ],
-            "teamIds": [
-                2349,
-                2357
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dundee-fc-kilmarnock/XWshX#id:14035317,tab:statistics",
-            "teams": [
-                "Kilmarnock",
-                "Dundee FC"
-            ],
-            "goals": [
-                2,
-                2
-            ],
-            "teamIds": [
-                2347,
-                2357
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dundee-fc-celtic/cXshX#id:14035304,tab:statistics",
-            "teams": [
-                "Dundee FC",
-                "Celtic"
-            ],
-            "goals": [
-                1,
-                2
-            ],
-            "teamIds": [
-                2357,
-                2352
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dundee-fc-heart-of-midlothian/dXshX#id:14035300,tab:statistics",
-            "teams": [
-                "Heart of Midlothian",
-                "Dundee FC"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                2353,
-                2357
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/dundee-fc-dundee-united/ZWshX#id:14035294,tab:statistics",
-            "teams": [
-                "Dundee FC",
-                "Dundee United"
-            ],
-            "goals": [
-                2,
-                2
-            ],
-            "teamIds": [
-                2357,
-                2349
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "2/14[A]",
+            "fouls": "19/11[A]",
+            "goalKicks": "16/4[A]",
+            "saves": "5/0[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "1/7[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "1/2[A]",
+            "throwIns": "8/29[A]",
+            "averageBallPossession": "28/72[A]",
+            "teams": "Dundee FC,Heart of Midlothian,Away",
+            "tackles": "25/14[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "27/28[A]",
+            "aerialDuelsAttempted": "55/55[A]",
+            "dribbles": "4/8[A]",
+            "dribblesAttempted": "14/25[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "16/14[H]",
+            "goalKicks": "14/6[H]",
+            "saves": "4/2[H]",
+            "offsides": "0/3[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "22/24[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "Dundee FC,St. Johnstone,Home",
+            "tackles": "6/8[H]",
+            "interceptions": "8/5[H]",
+            "aerialDuels": "29/27[H]",
+            "aerialDuelsAttempted": "56/56[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "8/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "8/14[H]",
+            "goalKicks": "9/6[H]",
+            "saves": "5/2[H]",
+            "offsides": "2/4[H]",
+            "shotsOnTarget": "3/7[H]",
+            "yellowCards": "1/1[H]",
+            "goals": "1/2[H]",
+            "throwIns": "14/19[H]",
+            "averageBallPossession": "39/61[H]",
+            "teams": "Dundee FC,Hibernian,Home",
+            "tackles": "11/20[H]",
+            "interceptions": "6/2[H]",
+            "aerialDuels": "25/14[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "8/6[H]",
+            "dribblesAttempted": "17/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "11/11[A]",
+            "goalKicks": "17/2[A]",
+            "saves": "4/2[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "3/4[A]",
+            "goals": "2/0[A]",
+            "throwIns": "18/29[A]",
+            "averageBallPossession": "32/68[A]",
+            "teams": "Dundee FC,Dundee United,Away",
+            "tackles": "14/24[A]",
+            "interceptions": "13/10[A]",
+            "aerialDuels": "35/35[A]",
+            "aerialDuelsAttempted": "70/70[A]",
+            "dribbles": "7/8[A]",
+            "dribblesAttempted": "17/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/4[H]",
+            "fouls": "9/12[H]",
+            "goalKicks": "13/9[H]",
+            "saves": "3/5[H]",
+            "offsides": "0/2[H]",
+            "shotsOnTarget": "7/3[H]",
+            "yellowCards": "1/3[H]",
+            "goals": "2/0[H]",
+            "throwIns": "21/27[H]",
+            "averageBallPossession": "47/53[H]",
+            "teams": "Dundee FC,Aberdeen,Home",
+            "tackles": "16/16[H]",
+            "interceptions": "12/8[H]",
+            "aerialDuels": "23/26[H]",
+            "aerialDuelsAttempted": "49/49[H]",
+            "dribbles": "5/5[H]",
+            "dribblesAttempted": "11/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/9[A]",
+            "fouls": "7/9[A]",
+            "goalKicks": "11/8[A]",
+            "saves": "3/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "19/13[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "Dundee FC,Celtic,Away",
+            "tackles": "12/14[A]",
+            "interceptions": "16/9[A]",
+            "aerialDuels": "14/21[A]",
+            "aerialDuelsAttempted": "35/35[A]",
+            "dribbles": "3/7[A]",
+            "dribblesAttempted": "11/11[A]",
+            "isHome": false
+        },
+        null,
         {
             "corners": "2/6[A]",
             "fouls": "18/13[A]",
@@ -173,267 +294,127 @@
             "dribbles": "1/4[A]",
             "dribblesAttempted": "3/7[A]",
             "isHome": false
-        },
-        {
-            "corners": "7/5[H]",
-            "fouls": "3/5[H]",
-            "goalKicks": "8/7[H]",
-            "saves": "3/1[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "4/3[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "3/0[H]",
-            "throwIns": "16/22[H]",
-            "averageBallPossession": "43/57[H]",
-            "teams": "Dundee FC,Livingston,Home",
-            "tackles": "14/11[H]",
-            "interceptions": "12/5[H]",
-            "aerialDuels": "17/14[H]",
-            "aerialDuelsAttempted": "31/31[H]",
-            "dribbles": "7/4[H]",
-            "dribblesAttempted": "13/10[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/6[H]",
-            "fouls": "9/12[H]",
-            "goalKicks": "10/7[H]",
-            "saves": "6/4[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "5/6[H]",
-            "yellowCards": "1/2[H]",
-            "goals": "1/0[H]",
-            "throwIns": "22/21[H]",
-            "averageBallPossession": "39/61[H]",
-            "teams": "Dundee FC,St. Mirren,Home",
-            "tackles": "19/24[H]",
-            "interceptions": "3/4[H]",
-            "aerialDuels": "20/18[H]",
-            "aerialDuelsAttempted": "38/38[H]",
-            "dribbles": "13/4[H]",
-            "dribblesAttempted": "22/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "4/2[A]",
-            "fouls": "7/22[A]",
-            "goalKicks": "9/10[A]",
-            "saves": "2/3[A]",
-            "offsides": "0/1[A]",
-            "shotsOnTarget": "4/5[A]",
-            "yellowCards": "0/1[A]",
-            "goals": "0/3[A]",
-            "throwIns": "22/24[A]",
-            "averageBallPossession": "51/49[A]",
-            "teams": "Dundee FC,Dundee United,Away",
-            "tackles": "13/16[A]",
-            "interceptions": "10/4[A]",
-            "aerialDuels": "35/31[A]",
-            "aerialDuelsAttempted": "66/66[A]",
-            "dribbles": "5/2[A]",
-            "dribblesAttempted": "12/7[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/4[A]",
-            "fouls": "7/24[A]",
-            "goalKicks": "6/5[A]",
-            "saves": "1/4[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "6/3[A]",
-            "yellowCards": "2/4[A]",
-            "goals": "2/2[A]",
-            "throwIns": "23/21[A]",
-            "averageBallPossession": "49/51[A]",
-            "teams": "Dundee FC,Kilmarnock,Away",
-            "tackles": "14/17[A]",
-            "interceptions": "4/2[A]",
-            "aerialDuels": "11/16[A]",
-            "aerialDuelsAttempted": "27/27[A]",
-            "dribbles": "2/3[A]",
-            "dribblesAttempted": "7/11[A]",
-            "isHome": false
-        },
-        {
-            "corners": "1/4[H]",
-            "fouls": "7/13[H]",
-            "goalKicks": "13/7[H]",
-            "saves": "5/2[H]",
-            "offsides": "0/0[H]",
-            "shotsOnTarget": "3/8[H]",
-            "yellowCards": "0/2[H]",
-            "goals": "1/2[H]",
-            "throwIns": "20/23[H]",
-            "averageBallPossession": "42/58[H]",
-            "teams": "Dundee FC,Celtic,Home",
-            "tackles": "16/18[H]",
-            "interceptions": "9/8[H]",
-            "aerialDuels": "10/13[H]",
-            "aerialDuelsAttempted": "23/23[H]",
-            "dribbles": "3/8[H]",
-            "dribblesAttempted": "8/17[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/4[A]",
-            "fouls": "11/12[A]",
-            "goalKicks": "11/6[A]",
-            "saves": "5/1[A]",
-            "offsides": "1/1[A]",
-            "shotsOnTarget": "1/6[A]",
-            "yellowCards": "2/3[A]",
-            "goals": "0/1[A]",
-            "throwIns": "23/18[A]",
-            "averageBallPossession": "43/57[A]",
-            "teams": "Dundee FC,Heart of Midlothian,Away",
-            "tackles": "17/21[A]",
-            "interceptions": "7/6[A]",
-            "aerialDuels": "32/27[A]",
-            "aerialDuelsAttempted": "59/59[A]",
-            "dribbles": "4/8[A]",
-            "dribblesAttempted": "12/15[A]",
-            "isHome": false
-        },
-        {
-            "corners": "4/7[H]",
-            "fouls": "5/13[H]",
-            "goalKicks": "8/7[H]",
-            "saves": "7/1[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "1/10[H]",
-            "yellowCards": "1/4[H]",
-            "goals": "2/2[H]",
-            "throwIns": "27/21[H]",
-            "averageBallPossession": "57/43[H]",
-            "teams": "Dundee FC,Dundee United,Home",
-            "tackles": "9/14[H]",
-            "interceptions": "11/14[H]",
-            "aerialDuels": "32/22[H]",
-            "aerialDuelsAttempted": "54/54[H]",
-            "dribbles": "6/8[H]",
-            "dribblesAttempted": "9/11[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
-    "currentIndex": 6,
-    "startTime": "2026-05-16T13:42:55.003Z",
-    "endTime": "2026-05-16T13:43:32.147Z",
-    "totalTimeSeconds": 37.14,
+    "currentIndex": 7,
+    "startTime": "2026-09-19T12:24:17.886Z",
+    "endTime": "2026-09-19T12:24:38.011Z",
+    "totalTimeSeconds": 20.13,
     "combinedMatchStatistics": {
-        "corners": "2/6[A]+7/5[H]+5/6[H]+4/2[A]+2/4[A]+1/4[H]+7/4[A]+4/7[H]",
-        "fouls": "18/13[A]+3/5[H]+9/12[H]+7/22[A]+7/24[A]+7/13[H]+11/12[A]+5/13[H]",
-        "goalKicks": "11/2[A]+8/7[H]+10/7[H]+9/10[A]+6/5[A]+13/7[H]+11/6[A]+8/7[H]",
-        "saves": "5/2[A]+3/1[H]+6/4[H]+2/3[A]+1/4[A]+5/2[H]+5/1[A]+7/1[H]",
-        "offsides": "0/1[A]+0/0[H]+0/0[H]+0/1[A]+1/1[A]+0/0[H]+1/1[A]+3/1[H]",
-        "shotsOnTarget": "2/8[A]+4/3[H]+5/6[H]+4/5[A]+6/3[A]+3/8[H]+1/6[A]+1/10[H]",
-        "yellowCards": "3/4[A]+1/1[H]+1/2[H]+0/1[A]+2/4[A]+0/2[H]+2/3[A]+1/4[H]",
-        "goals": "1/3[A]+3/0[H]+1/0[H]+0/3[A]+2/2[A]+1/2[H]+0/1[A]+2/2[H]",
-        "throwIns": "16/18[A]+16/22[H]+22/21[H]+22/24[A]+23/21[A]+20/23[H]+23/18[A]+27/21[H]",
-        "averageBallPossession": "48/52[A]+43/57[H]+39/61[H]+51/49[A]+49/51[A]+42/58[H]+43/57[A]+57/43[H]",
-        "teams": "Dundee FC,Kilmarnock,Away+Dundee FC,Livingston,Home+Dundee FC,St. Mirren,Home+Dundee FC,Dundee United,Away+Dundee FC,Kilmarnock,Away+Dundee FC,Celtic,Home+Dundee FC,Heart of Midlothian,Away+Dundee FC,Dundee United,Home",
-        "tackles": "10/7[A]+14/11[H]+19/24[H]+13/16[A]+14/17[A]+16/18[H]+17/21[A]+9/14[H]",
-        "interceptions": "6/7[A]+12/5[H]+3/4[H]+10/4[A]+4/2[A]+9/8[H]+7/6[A]+11/14[H]",
-        "aerialDuels": "33/26[A]+17/14[H]+20/18[H]+35/31[A]+11/16[A]+10/13[H]+32/27[A]+32/22[H]",
-        "aerialDuelsAttempted": "59/59[A]+31/31[H]+38/38[H]+66/66[A]+27/27[A]+23/23[H]+59/59[A]+54/54[H]",
-        "dribbles": "1/4[A]+7/4[H]+13/4[H]+5/2[A]+2/3[A]+3/8[H]+4/8[A]+6/8[H]",
-        "dribblesAttempted": "3/7[A]+13/10[H]+22/11[H]+12/7[A]+7/11[A]+8/17[H]+12/15[A]+9/11[H]",
-        "isHome": "false+true+true+false+false+true+false+true",
-        "cornersTotals": "32/38",
-        "cornersTotalsHome": "17/22",
-        "cornersTotalsAway": "15/16",
-        "cornersAverage": "4.00/4.75",
-        "cornersAverageHome": "4.25/5.50",
-        "cornersAverageAway": "3.75/4.00",
-        "foulsTotals": "67/114",
-        "foulsTotalsHome": "24/43",
-        "foulsTotalsAway": "43/71",
-        "foulsAverage": "8.38/14.25",
-        "foulsAverageHome": "6.00/10.75",
-        "foulsAverageAway": "10.75/17.75",
-        "goalKicksTotals": "76/51",
-        "goalKicksTotalsHome": "39/28",
-        "goalKicksTotalsAway": "37/23",
-        "goalKicksAverage": "9.50/6.38",
-        "goalKicksAverageHome": "9.75/7.00",
-        "goalKicksAverageAway": "9.25/5.75",
-        "savesTotals": "34/18",
-        "savesTotalsHome": "21/8",
-        "savesTotalsAway": "13/10",
-        "savesAverage": "4.25/2.25",
-        "savesAverageHome": "5.25/2.00",
-        "savesAverageAway": "3.25/2.50",
-        "offsidesTotals": "5/5",
-        "offsidesTotalsHome": "3/1",
-        "offsidesTotalsAway": "2/4",
-        "offsidesAverage": "0.63/0.63",
-        "offsidesAverageHome": "0.75/0.25",
-        "offsidesAverageAway": "0.50/1.00",
-        "shotsOnTargetTotals": "26/49",
-        "shotsOnTargetTotalsHome": "13/27",
-        "shotsOnTargetTotalsAway": "13/22",
-        "shotsOnTargetAverage": "3.25/6.13",
-        "shotsOnTargetAverageHome": "3.25/6.75",
-        "shotsOnTargetAverageAway": "3.25/5.50",
-        "yellowCardsTotals": "10/21",
-        "yellowCardsTotalsHome": "3/9",
-        "yellowCardsTotalsAway": "7/12",
-        "yellowCardsAverage": "1.25/2.63",
-        "yellowCardsAverageHome": "0.75/2.25",
-        "yellowCardsAverageAway": "1.75/3.00",
-        "goalsTotals": "10/13",
-        "goalsTotalsHome": "7/4",
-        "goalsTotalsAway": "3/9",
-        "goalsAverage": "1.25/1.63",
-        "goalsAverageHome": "1.75/1.00",
-        "goalsAverageAway": "0.75/2.25",
-        "throwInsTotals": "169/168",
-        "throwInsTotalsHome": "85/87",
-        "throwInsTotalsAway": "84/81",
-        "throwInsAverage": "21.13/21.00",
-        "throwInsAverageHome": "21.25/21.75",
-        "throwInsAverageAway": "21.00/20.25",
-        "averageBallPossessionTotals": "372/428",
-        "averageBallPossessionTotalsHome": "181/219",
-        "averageBallPossessionTotalsAway": "191/209",
-        "averageBallPossessionAverage": "46.50/53.50",
-        "averageBallPossessionAverageHome": "45.25/54.75",
-        "averageBallPossessionAverageAway": "47.75/52.25",
-        "tacklesTotals": "112/128",
-        "tacklesTotalsHome": "58/67",
-        "tacklesTotalsAway": "54/61",
-        "tacklesAverage": "14.00/16.00",
-        "tacklesAverageHome": "14.50/16.75",
-        "tacklesAverageAway": "13.50/15.25",
-        "interceptionsTotals": "62/50",
-        "interceptionsTotalsHome": "35/31",
-        "interceptionsTotalsAway": "27/19",
-        "interceptionsAverage": "7.75/6.25",
-        "interceptionsAverageHome": "8.75/7.75",
-        "interceptionsAverageAway": "6.75/4.75",
-        "aerialDuelsTotals": "190/167",
-        "aerialDuelsTotalsHome": "79/67",
-        "aerialDuelsTotalsAway": "111/100",
-        "aerialDuelsAverage": "23.75/20.88",
-        "aerialDuelsAverageHome": "19.75/16.75",
-        "aerialDuelsAverageAway": "27.75/25.00",
-        "aerialDuelsAttemptedTotals": "357/357",
-        "aerialDuelsAttemptedTotalsHome": "146/146",
-        "aerialDuelsAttemptedTotalsAway": "211/211",
-        "aerialDuelsAttemptedAverage": "44.63/44.63",
-        "aerialDuelsAttemptedAverageHome": "36.50/36.50",
-        "aerialDuelsAttemptedAverageAway": "52.75/52.75",
-        "dribblesTotals": "41/41",
-        "dribblesTotalsHome": "29/24",
-        "dribblesTotalsAway": "12/17",
-        "dribblesAverage": "5.13/5.13",
-        "dribblesAverageHome": "7.25/6.00",
-        "dribblesAverageAway": "3.00/4.25",
-        "dribblesAttemptedTotals": "86/89",
-        "dribblesAttemptedTotalsHome": "52/49",
-        "dribblesAttemptedTotalsAway": "34/40",
-        "dribblesAttemptedAverage": "10.75/11.13",
-        "dribblesAttemptedAverageHome": "13.00/12.25",
-        "dribblesAttemptedAverageAway": "8.50/10.00"
+        "corners": "2/14[A]+2/5[H]+3/5[H]+6/6[A]+5/4[H]+4/9[A]+2/6[A]",
+        "fouls": "19/11[A]+16/14[H]+8/14[H]+11/11[A]+9/12[H]+7/9[A]+18/13[A]",
+        "goalKicks": "16/4[A]+14/6[H]+9/6[H]+17/2[A]+13/9[H]+11/8[A]+11/2[A]",
+        "saves": "5/0[A]+4/2[H]+5/2[H]+4/2[A]+3/5[H]+3/3[A]+5/2[A]",
+        "offsides": "1/1[A]+0/3[H]+2/4[H]+1/2[A]+0/2[H]+1/0[A]+0/1[A]",
+        "shotsOnTarget": "1/7[A]+2/3[H]+3/7[H]+4/5[A]+7/3[H]+3/4[A]+2/8[A]",
+        "yellowCards": "3/2[A]+0/2[H]+1/1[H]+3/4[A]+1/3[H]+1/1[A]+3/4[A]",
+        "goals": "1/2[A]+1/1[H]+1/2[H]+2/0[A]+2/0[H]+0/1[A]+1/3[A]",
+        "throwIns": "8/29[A]+22/24[H]+14/19[H]+18/29[A]+21/27[H]+19/13[A]+16/18[A]",
+        "averageBallPossession": "28/72[A]+40/60[H]+39/61[H]+32/68[A]+47/53[H]+34/66[A]+48/52[A]",
+        "teams": "Dundee FC,Heart of Midlothian,Away+Dundee FC,St. Johnstone,Home+Dundee FC,Hibernian,Home+Dundee FC,Dundee United,Away+Dundee FC,Aberdeen,Home+Dundee FC,Celtic,Away+Dundee FC,Kilmarnock,Away",
+        "tackles": "25/14[A]+6/8[H]+11/20[H]+14/24[A]+16/16[H]+12/14[A]+10/7[A]",
+        "interceptions": "6/8[A]+8/5[H]+6/2[H]+13/10[A]+12/8[H]+16/9[A]+6/7[A]",
+        "aerialDuels": "27/28[A]+29/27[H]+25/14[H]+35/35[A]+23/26[H]+14/21[A]+33/26[A]",
+        "aerialDuelsAttempted": "55/55[A]+56/56[H]+39/39[H]+70/70[A]+49/49[H]+35/35[A]+59/59[A]",
+        "dribbles": "4/8[A]+2/8[H]+8/6[H]+7/8[A]+5/5[H]+3/7[A]+1/4[A]",
+        "dribblesAttempted": "14/25[A]+8/11[H]+17/12[H]+17/16[A]+11/12[H]+11/11[A]+3/7[A]",
+        "isHome": "false+true+true+false+true+false+false",
+        "cornersTotals": "24/49",
+        "cornersTotalsHome": "10/14",
+        "cornersTotalsAway": "14/35",
+        "cornersAverage": "3.43/7.00",
+        "cornersAverageHome": "3.33/4.67",
+        "cornersAverageAway": "3.50/8.75",
+        "foulsTotals": "88/84",
+        "foulsTotalsHome": "33/40",
+        "foulsTotalsAway": "55/44",
+        "foulsAverage": "12.57/12.00",
+        "foulsAverageHome": "11.00/13.33",
+        "foulsAverageAway": "13.75/11.00",
+        "goalKicksTotals": "91/37",
+        "goalKicksTotalsHome": "36/21",
+        "goalKicksTotalsAway": "55/16",
+        "goalKicksAverage": "13.00/5.29",
+        "goalKicksAverageHome": "12.00/7.00",
+        "goalKicksAverageAway": "13.75/4.00",
+        "savesTotals": "29/16",
+        "savesTotalsHome": "12/9",
+        "savesTotalsAway": "17/7",
+        "savesAverage": "4.14/2.29",
+        "savesAverageHome": "4.00/3.00",
+        "savesAverageAway": "4.25/1.75",
+        "offsidesTotals": "5/13",
+        "offsidesTotalsHome": "2/9",
+        "offsidesTotalsAway": "3/4",
+        "offsidesAverage": "0.71/1.86",
+        "offsidesAverageHome": "0.67/3.00",
+        "offsidesAverageAway": "0.75/1.00",
+        "shotsOnTargetTotals": "22/37",
+        "shotsOnTargetTotalsHome": "12/13",
+        "shotsOnTargetTotalsAway": "10/24",
+        "shotsOnTargetAverage": "3.14/5.29",
+        "shotsOnTargetAverageHome": "4.00/4.33",
+        "shotsOnTargetAverageAway": "2.50/6.00",
+        "yellowCardsTotals": "12/17",
+        "yellowCardsTotalsHome": "2/6",
+        "yellowCardsTotalsAway": "10/11",
+        "yellowCardsAverage": "1.71/2.43",
+        "yellowCardsAverageHome": "0.67/2.00",
+        "yellowCardsAverageAway": "2.50/2.75",
+        "goalsTotals": "8/9",
+        "goalsTotalsHome": "4/3",
+        "goalsTotalsAway": "4/6",
+        "goalsAverage": "1.14/1.29",
+        "goalsAverageHome": "1.33/1.00",
+        "goalsAverageAway": "1.00/1.50",
+        "throwInsTotals": "118/159",
+        "throwInsTotalsHome": "57/70",
+        "throwInsTotalsAway": "61/89",
+        "throwInsAverage": "16.86/22.71",
+        "throwInsAverageHome": "19.00/23.33",
+        "throwInsAverageAway": "15.25/22.25",
+        "averageBallPossessionTotals": "268/432",
+        "averageBallPossessionTotalsHome": "126/174",
+        "averageBallPossessionTotalsAway": "142/258",
+        "averageBallPossessionAverage": "38.29/61.71",
+        "averageBallPossessionAverageHome": "42.00/58.00",
+        "averageBallPossessionAverageAway": "35.50/64.50",
+        "tacklesTotals": "94/103",
+        "tacklesTotalsHome": "33/44",
+        "tacklesTotalsAway": "61/59",
+        "tacklesAverage": "13.43/14.71",
+        "tacklesAverageHome": "11.00/14.67",
+        "tacklesAverageAway": "15.25/14.75",
+        "interceptionsTotals": "67/49",
+        "interceptionsTotalsHome": "26/15",
+        "interceptionsTotalsAway": "41/34",
+        "interceptionsAverage": "9.57/7.00",
+        "interceptionsAverageHome": "8.67/5.00",
+        "interceptionsAverageAway": "10.25/8.50",
+        "aerialDuelsTotals": "186/177",
+        "aerialDuelsTotalsHome": "77/67",
+        "aerialDuelsTotalsAway": "109/110",
+        "aerialDuelsAverage": "26.57/25.29",
+        "aerialDuelsAverageHome": "25.67/22.33",
+        "aerialDuelsAverageAway": "27.25/27.50",
+        "aerialDuelsAttemptedTotals": "363/363",
+        "aerialDuelsAttemptedTotalsHome": "144/144",
+        "aerialDuelsAttemptedTotalsAway": "219/219",
+        "aerialDuelsAttemptedAverage": "51.86/51.86",
+        "aerialDuelsAttemptedAverageHome": "48.00/48.00",
+        "aerialDuelsAttemptedAverageAway": "54.75/54.75",
+        "dribblesTotals": "30/46",
+        "dribblesTotalsHome": "15/19",
+        "dribblesTotalsAway": "15/27",
+        "dribblesAverage": "4.29/6.57",
+        "dribblesAverageHome": "5.00/6.33",
+        "dribblesAverageAway": "3.75/6.75",
+        "dribblesAttemptedTotals": "81/94",
+        "dribblesAttemptedTotalsHome": "36/35",
+        "dribblesAttemptedTotalsAway": "45/59",
+        "dribblesAttemptedAverage": "11.57/13.43",
+        "dribblesAttemptedAverageHome": "12.00/11.67",
+        "dribblesAttemptedAverageAway": "11.25/14.75"
     }
 }

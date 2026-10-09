@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "4.94",
-        "fouls": "12.39",
-        "goalKicks": "7.27",
-        "saves": "3.30",
-        "offsides": "1.79",
-        "shotsOnTarget": "3.94/5.21",
-        "yellowCards": "1.97/1.97",
-        "goals": "1.12/1.82",
-        "throwIns": "17.15",
-        "ballPossession": 46.212121212121,
-        "tackles": "15.76/16.48",
-        "interceptions": "9.76/9.45",
-        "aerialDuels": "12.55",
-        "aerialDuelsAttempted": "26.18",
-        "dribbles": "7.33/7.42",
-        "dribblesAttempted": "15.73/15.03"
+        "corners": "6.50",
+        "fouls": "8.25",
+        "goalKicks": "6.75",
+        "saves": "2.25",
+        "offsides": "2.25",
+        "shotsOnTarget": "2.75/4.00",
+        "yellowCards": "1.25/0.75",
+        "goals": "0.25/1.25",
+        "throwIns": "18.25",
+        "ballPossession": 60.75,
+        "tackles": "14.00/17.00",
+        "interceptions": "11.25/12.25",
+        "aerialDuels": "13.75",
+        "aerialDuelsAttempted": "23.00",
+        "dribbles": "5.00/9.00",
+        "dribblesAttempted": "12.50/15.25"
     },
     "teamSlug": "nice",
     "teamId": "1661",
     "teamName": "Nice",
     "tournament": "Ligue 1",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/nice-auxerre/WHslI#id:16310947,tab:statistics",
+            "teams": [
+                "Auxerre",
+                "Nice"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                1646,
+                1661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/le-mans-nice/lIsxI#id:16310943,tab:statistics",
+            "teams": [
+                "Nice",
+                "Le Mans"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                1661,
+                1672
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/paris-fc-nice/lIsvwc#id:16310934,tab:statistics",
+            "teams": [
+                "Paris FC",
+                "Nice"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                6070,
+                1661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nice-lorient/gIslI#id:16310923,tab:statistics",
+            "teams": [
+                "Nice",
+                "Lorient"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1661,
+                1656
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/saint-etienne-nice/lIsDI#id:16198901,tab:statistics",
+            "teams": [
+                "Nice",
+                "Saint-Étienne"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                1661,
+                1678
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/saint-etienne-nice/lIsDI#id:16198895,tab:statistics",
+            "teams": [
+                "Saint-Étienne",
+                "Nice"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1678,
+                1661
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/nice-metz/bIslI#id:14061909,tab:statistics",
+            "teams": [
+                "Nice",
+                "Metz"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                1661,
+                1651
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/nice-auxerre/WHslI#id:14064519,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 1661
             ],
             "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nice-rc-lens/YHslI#id:14167992,tab:statistics",
-            "teams": [
-                "Nice",
-                "RC Lens"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                1661,
-                1648
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nice-olympique-de-marseille/QHslI#id:14167983,tab:statistics",
-            "teams": [
-                "Olympique de Marseille",
-                "Nice"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                1641,
-                1661
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nice-lille/THslI#id:14167973,tab:statistics",
-            "teams": [
-                "Lille",
-                "Nice"
-            ],
-            "goals": [
-                0,
-                0
-            ],
-            "teamIds": [
-                1643,
-                1661
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/le-havre-nice/lIsmI#id:14167960,tab:statistics",
-            "teams": [
-                "Nice",
-                "Le Havre"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                1661,
-                1662
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nice-rc-strasbourg/jIslI#id:14167956,tab:statistics",
-            "teams": [
-                "RC Strasbourg",
-                "Nice"
-            ],
-            "goals": [
-                3,
-                1
-            ],
-            "teamIds": [
-                1659,
-                1661
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nice-paris-saint-germain/UHslI#id:14167944,tab:statistics",
-            "teams": [
-                "Nice",
-                "Paris Saint-Germain"
-            ],
-            "goals": [
-                0,
-                4
-            ],
-            "teamIds": [
-                1661,
-                1644
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/nice-stade-rennais/iIslI#id:14167900,tab:statistics",
-            "teams": [
-                "Nice",
-                "Stade Rennais"
-            ],
-            "goals": [
-                0,
-                4
-            ],
-            "teamIds": [
-                1661,
-                1658
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "8/3[A]",
+            "fouls": "7/9[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "4/4[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "4/7[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "0/1[A]",
+            "throwIns": "19/9[A]",
+            "averageBallPossession": "70/30[A]",
+            "teams": "Nice,Auxerre,Away",
+            "tackles": "13/22[A]",
+            "interceptions": "12/11[A]",
+            "aerialDuels": "17/7[A]",
+            "aerialDuelsAttempted": "24/24[A]",
+            "dribbles": "5/15[A]",
+            "dribblesAttempted": "13/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/2[H]",
+            "fouls": "4/11[H]",
+            "goalKicks": "5/10[H]",
+            "saves": "2/1[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "2/3[H]",
+            "yellowCards": "2/2[H]",
+            "goals": "1/1[H]",
+            "throwIns": "20/21[H]",
+            "averageBallPossession": "58/42[H]",
+            "teams": "Nice,Le Mans,Home",
+            "tackles": "15/20[H]",
+            "interceptions": "10/11[H]",
+            "aerialDuels": "18/12[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "3/9[H]",
+            "dribblesAttempted": "14/15[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "7/7[A]",
+            "goalKicks": "9/8[A]",
+            "saves": "1/4[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "1/0[A]",
+            "goals": "0/3[A]",
+            "throwIns": "13/12[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Nice,Paris FC,Away",
+            "tackles": "16/15[A]",
+            "interceptions": "17/13[A]",
+            "aerialDuels": "8/4[A]",
+            "aerialDuelsAttempted": "12/12[A]",
+            "dribbles": "8/8[A]",
+            "dribblesAttempted": "16/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "9/3[H]",
+            "fouls": "15/8[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "2/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "1/2[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "0/0[H]",
+            "throwIns": "21/10[H]",
+            "averageBallPossession": "60/40[H]",
+            "teams": "Nice,Lorient,Home",
+            "tackles": "12/11[H]",
+            "interceptions": "6/14[H]",
+            "aerialDuels": "12/14[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "4/4[H]",
+            "dribblesAttempted": "7/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "10/5[H]",
+            "goalKicks": "9/7[H]",
+            "saves": "1/6[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "10/2[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "4/1[H]",
+            "throwIns": "20/22[H]",
+            "averageBallPossession": "51/49[H]",
+            "teams": "Nice,Saint-Étienne,Home",
+            "tackles": "18/10[H]",
+            "interceptions": "13/9[H]",
+            "aerialDuels": "5/5[H]",
+            "aerialDuelsAttempted": "10/10[H]",
+            "dribbles": "7/5[H]",
+            "dribblesAttempted": "14/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "6/6[A]",
+            "fouls": "7/10[A]",
+            "goalKicks": "8/9[A]",
+            "saves": "0/0[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "0/0[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "0/0[A]",
+            "throwIns": "25/22[A]",
+            "averageBallPossession": "55/45[A]",
+            "teams": "Nice,Saint-Étienne,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "4/9[A]",
+            "aerialDuels": "12/9[A]",
+            "aerialDuelsAttempted": "21/21[A]",
+            "dribbles": "4/3[A]",
+            "dribblesAttempted": "13/11[A]",
+            "isHome": false
+        },
+        {
+            "corners": "10/4[H]",
+            "fouls": "11/15[H]",
+            "goalKicks": "9/13[H]",
+            "saves": "4/4[H]",
+            "offsides": "2/2[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "0/0[H]",
+            "throwIns": "18/13[H]",
+            "averageBallPossession": "49/51[H]",
+            "teams": "Nice,Metz,Home",
+            "tackles": "17/22[H]",
+            "interceptions": "5/6[H]",
+            "aerialDuels": "19/9[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "5/9[H]",
+            "dribblesAttempted": "16/16[H]",
+            "isHome": true
+        },
         {
             "corners": "1/10[A]",
             "fouls": "9/15[A]",
@@ -173,267 +313,127 @@
             "dribbles": "6/7[A]",
             "dribblesAttempted": "16/12[A]",
             "isHome": false
-        },
-        {
-            "corners": "7/8[H]",
-            "fouls": "11/10[H]",
-            "goalKicks": "7/5[H]",
-            "saves": "3/1[H]",
-            "offsides": "2/1[H]",
-            "shotsOnTarget": "2/4[H]",
-            "yellowCards": "2/3[H]",
-            "goals": "1/1[H]",
-            "throwIns": "19/19[H]",
-            "averageBallPossession": "46/54[H]",
-            "teams": "Nice,RC Lens,Home",
-            "tackles": "17/28[H]",
-            "interceptions": "11/14[H]",
-            "aerialDuels": "12/15[H]",
-            "aerialDuelsAttempted": "27/27[H]",
-            "dribbles": "8/8[H]",
-            "dribblesAttempted": "23/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "1/7[A]",
-            "fouls": "7/14[A]",
-            "goalKicks": "13/7[A]",
-            "saves": "5/1[A]",
-            "offsides": "2/0[A]",
-            "shotsOnTarget": "2/6[A]",
-            "yellowCards": "1/4[A]",
-            "goals": "1/1[A]",
-            "throwIns": "15/21[A]",
-            "averageBallPossession": "32/68[A]",
-            "teams": "Nice,Olympique de Marseille,Away",
-            "tackles": "14/15[A]",
-            "interceptions": "9/11[A]",
-            "aerialDuels": "8/11[A]",
-            "aerialDuelsAttempted": "19/19[A]",
-            "dribbles": "5/5[A]",
-            "dribblesAttempted": "14/15[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/5[A]",
-            "fouls": "10/9[A]",
-            "goalKicks": "4/4[A]",
-            "saves": "2/1[A]",
-            "offsides": "3/1[A]",
-            "shotsOnTarget": "1/2[A]",
-            "yellowCards": "1/3[A]",
-            "goals": "0/0[A]",
-            "throwIns": "19/20[A]",
-            "averageBallPossession": "38/62[A]",
-            "teams": "Nice,Lille,Away",
-            "tackles": "20/14[A]",
-            "interceptions": "11/8[A]",
-            "aerialDuels": "6/13[A]",
-            "aerialDuelsAttempted": "19/19[A]",
-            "dribbles": "6/6[A]",
-            "dribblesAttempted": "11/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "5/2[H]",
-            "fouls": "20/14[H]",
-            "goalKicks": "9/11[H]",
-            "saves": "4/4[H]",
-            "offsides": "4/1[H]",
-            "shotsOnTarget": "5/6[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "1/1[H]",
-            "throwIns": "26/21[H]",
-            "averageBallPossession": "46/54[H]",
-            "teams": "Nice,Le Havre,Home",
-            "tackles": "19/15[H]",
-            "interceptions": "10/10[H]",
-            "aerialDuels": "18/17[H]",
-            "aerialDuelsAttempted": "35/35[H]",
-            "dribbles": "7/11[H]",
-            "dribblesAttempted": "16/20[H]",
-            "isHome": true
-        },
-        {
-            "corners": "10/4[A]",
-            "fouls": "15/7[A]",
-            "goalKicks": "9/6[A]",
-            "saves": "3/2[A]",
-            "offsides": "2/1[A]",
-            "shotsOnTarget": "3/6[A]",
-            "yellowCards": "2/0[A]",
-            "goals": "1/3[A]",
-            "throwIns": "10/17[A]",
-            "averageBallPossession": "41/59[A]",
-            "teams": "Nice,RC Strasbourg,Away",
-            "tackles": "26/18[A]",
-            "interceptions": "15/7[A]",
-            "aerialDuels": "8/14[A]",
-            "aerialDuelsAttempted": "22/22[A]",
-            "dribbles": "8/11[A]",
-            "dribblesAttempted": "16/27[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/5[H]",
-            "fouls": "12/5[H]",
-            "goalKicks": "4/6[H]",
-            "saves": "5/1[H]",
-            "offsides": "5/4[H]",
-            "shotsOnTarget": "1/10[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "0/4[H]",
-            "throwIns": "10/18[H]",
-            "averageBallPossession": "26/74[H]",
-            "teams": "Nice,Paris Saint-Germain,Home",
-            "tackles": "11/12[H]",
-            "interceptions": "16/8[H]",
-            "aerialDuels": "5/6[H]",
-            "aerialDuelsAttempted": "11/11[H]",
-            "dribbles": "5/8[H]",
-            "dribblesAttempted": "11/13[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/1[H]",
-            "fouls": "9/8[H]",
-            "goalKicks": "4/9[H]",
-            "saves": "3/3[H]",
-            "offsides": "4/3[H]",
-            "shotsOnTarget": "2/7[H]",
-            "yellowCards": "2/1[H]",
-            "goals": "0/4[H]",
-            "throwIns": "24/14[H]",
-            "averageBallPossession": "40/60[H]",
-            "teams": "Nice,Stade Rennais,Home",
-            "tackles": "16/18[H]",
-            "interceptions": "10/18[H]",
-            "aerialDuels": "10/10[H]",
-            "aerialDuelsAttempted": "20/20[H]",
-            "dribbles": "10/12[H]",
-            "dribblesAttempted": "21/21[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
     "currentIndex": 6,
-    "startTime": "2026-05-17T01:07:13.117Z",
-    "endTime": "2026-05-17T01:07:57.429Z",
-    "totalTimeSeconds": 44.31,
+    "startTime": "2026-09-20T08:24:12.078Z",
+    "endTime": "2026-09-20T08:24:41.763Z",
+    "totalTimeSeconds": 29.68,
     "combinedMatchStatistics": {
-        "corners": "1/10[A]+7/8[H]+1/7[A]+3/5[A]+5/2[H]+10/4[A]+2/5[H]+7/1[H]",
-        "fouls": "9/15[A]+11/10[H]+7/14[A]+10/9[A]+20/14[H]+15/7[A]+12/5[H]+9/8[H]",
-        "goalKicks": "10/3[A]+7/5[H]+13/7[A]+4/4[A]+9/11[H]+9/6[A]+4/6[H]+4/9[H]",
-        "saves": "2/2[A]+3/1[H]+5/1[A]+2/1[A]+4/4[H]+3/2[A]+5/1[H]+3/3[H]",
-        "offsides": "2/0[A]+2/1[H]+2/0[A]+3/1[A]+4/1[H]+2/1[A]+5/4[H]+4/3[H]",
-        "shotsOnTarget": "6/4[A]+2/4[H]+2/6[A]+1/2[A]+5/6[H]+3/6[A]+1/10[H]+2/7[H]",
-        "yellowCards": "0/1[A]+2/3[H]+1/4[A]+1/3[A]+1/1[H]+2/0[A]+1/1[H]+2/1[H]",
-        "goals": "1/2[A]+1/1[H]+1/1[A]+0/0[A]+1/1[H]+1/3[A]+0/4[H]+0/4[H]",
-        "throwIns": "25/22[A]+19/19[H]+15/21[A]+19/20[A]+26/21[H]+10/17[A]+10/18[H]+24/14[H]",
-        "averageBallPossession": "48/52[A]+46/54[H]+32/68[A]+38/62[A]+46/54[H]+41/59[A]+26/74[H]+40/60[H]",
-        "teams": "Nice,Auxerre,Away+Nice,RC Lens,Home+Nice,Olympique de Marseille,Away+Nice,Lille,Away+Nice,Le Havre,Home+Nice,RC Strasbourg,Away+Nice,Paris Saint-Germain,Home+Nice,Stade Rennais,Home",
-        "tackles": "13/19[A]+17/28[H]+14/15[A]+20/14[A]+19/15[H]+26/18[A]+11/12[H]+16/18[H]",
-        "interceptions": "7/15[A]+11/14[H]+9/11[A]+11/8[A]+10/10[H]+15/7[A]+16/8[H]+10/18[H]",
-        "aerialDuels": "17/16[A]+12/15[H]+8/11[A]+6/13[A]+18/17[H]+8/14[A]+5/6[H]+10/10[H]",
-        "aerialDuelsAttempted": "33/33[A]+27/27[H]+19/19[A]+19/19[A]+35/35[H]+22/22[A]+11/11[H]+20/20[H]",
-        "dribbles": "6/7[A]+8/8[H]+5/5[A]+6/6[A]+7/11[H]+8/11[A]+5/8[H]+10/12[H]",
-        "dribblesAttempted": "16/12[A]+23/16[H]+14/15[A]+11/12[A]+16/20[H]+16/27[A]+11/13[H]+21/21[H]",
-        "isHome": "false+true+false+false+true+false+true+true",
-        "cornersTotals": "36/42",
-        "cornersTotalsHome": "21/16",
-        "cornersTotalsAway": "15/26",
-        "cornersAverage": "4.50/5.25",
-        "cornersAverageHome": "5.25/4.00",
-        "cornersAverageAway": "3.75/6.50",
-        "foulsTotals": "93/82",
-        "foulsTotalsHome": "52/37",
-        "foulsTotalsAway": "41/45",
-        "foulsAverage": "11.63/10.25",
-        "foulsAverageHome": "13.00/9.25",
-        "foulsAverageAway": "10.25/11.25",
-        "goalKicksTotals": "60/51",
-        "goalKicksTotalsHome": "24/31",
-        "goalKicksTotalsAway": "36/20",
-        "goalKicksAverage": "7.50/6.38",
-        "goalKicksAverageHome": "6.00/7.75",
-        "goalKicksAverageAway": "9.00/5.00",
-        "savesTotals": "27/15",
-        "savesTotalsHome": "15/9",
-        "savesTotalsAway": "12/6",
-        "savesAverage": "3.38/1.88",
-        "savesAverageHome": "3.75/2.25",
-        "savesAverageAway": "3.00/1.50",
-        "offsidesTotals": "24/11",
-        "offsidesTotalsHome": "15/9",
-        "offsidesTotalsAway": "9/2",
-        "offsidesAverage": "3.00/1.38",
-        "offsidesAverageHome": "3.75/2.25",
-        "offsidesAverageAway": "2.25/0.50",
-        "shotsOnTargetTotals": "22/45",
-        "shotsOnTargetTotalsHome": "10/27",
-        "shotsOnTargetTotalsAway": "12/18",
-        "shotsOnTargetAverage": "2.75/5.63",
-        "shotsOnTargetAverageHome": "2.50/6.75",
-        "shotsOnTargetAverageAway": "3.00/4.50",
-        "yellowCardsTotals": "10/14",
-        "yellowCardsTotalsHome": "6/6",
-        "yellowCardsTotalsAway": "4/8",
-        "yellowCardsAverage": "1.25/1.75",
-        "yellowCardsAverageHome": "1.50/1.50",
-        "yellowCardsAverageAway": "1.00/2.00",
-        "goalsTotals": "5/16",
-        "goalsTotalsHome": "2/10",
-        "goalsTotalsAway": "3/6",
-        "goalsAverage": "0.63/2.00",
-        "goalsAverageHome": "0.50/2.50",
-        "goalsAverageAway": "0.75/1.50",
-        "throwInsTotals": "148/152",
-        "throwInsTotalsHome": "79/72",
-        "throwInsTotalsAway": "69/80",
-        "throwInsAverage": "18.50/19.00",
-        "throwInsAverageHome": "19.75/18.00",
-        "throwInsAverageAway": "17.25/20.00",
-        "averageBallPossessionTotals": "317/483",
-        "averageBallPossessionTotalsHome": "158/242",
-        "averageBallPossessionTotalsAway": "159/241",
-        "averageBallPossessionAverage": "39.63/60.38",
-        "averageBallPossessionAverageHome": "39.50/60.50",
-        "averageBallPossessionAverageAway": "39.75/60.25",
-        "tacklesTotals": "136/139",
-        "tacklesTotalsHome": "63/73",
-        "tacklesTotalsAway": "73/66",
-        "tacklesAverage": "17.00/17.38",
-        "tacklesAverageHome": "15.75/18.25",
-        "tacklesAverageAway": "18.25/16.50",
-        "interceptionsTotals": "89/91",
-        "interceptionsTotalsHome": "47/50",
-        "interceptionsTotalsAway": "42/41",
-        "interceptionsAverage": "11.13/11.38",
-        "interceptionsAverageHome": "11.75/12.50",
-        "interceptionsAverageAway": "10.50/10.25",
-        "aerialDuelsTotals": "84/102",
-        "aerialDuelsTotalsHome": "45/48",
-        "aerialDuelsTotalsAway": "39/54",
-        "aerialDuelsAverage": "10.50/12.75",
-        "aerialDuelsAverageHome": "11.25/12.00",
-        "aerialDuelsAverageAway": "9.75/13.50",
-        "aerialDuelsAttemptedTotals": "186/186",
-        "aerialDuelsAttemptedTotalsHome": "93/93",
-        "aerialDuelsAttemptedTotalsAway": "93/93",
-        "aerialDuelsAttemptedAverage": "23.25/23.25",
-        "aerialDuelsAttemptedAverageHome": "23.25/23.25",
-        "aerialDuelsAttemptedAverageAway": "23.25/23.25",
-        "dribblesTotals": "55/68",
-        "dribblesTotalsHome": "30/39",
-        "dribblesTotalsAway": "25/29",
-        "dribblesAverage": "6.88/8.50",
-        "dribblesAverageHome": "7.50/9.75",
-        "dribblesAverageAway": "6.25/7.25",
-        "dribblesAttemptedTotals": "128/136",
-        "dribblesAttemptedTotalsHome": "71/70",
-        "dribblesAttemptedTotalsAway": "57/66",
-        "dribblesAttemptedAverage": "16.00/17.00",
-        "dribblesAttemptedAverageHome": "17.75/17.50",
-        "dribblesAttemptedAverageAway": "14.25/16.50"
+        "corners": "8/3[A]+5/2[H]+4/2[A]+9/3[H]+6/4[H]+6/6[A]+10/4[H]+1/10[A]",
+        "fouls": "7/9[A]+4/11[H]+7/7[A]+15/8[H]+10/5[H]+7/10[A]+11/15[H]+9/15[A]",
+        "goalKicks": "7/9[A]+5/10[H]+9/8[A]+6/8[H]+9/7[H]+8/9[A]+9/13[H]+10/3[A]",
+        "saves": "4/4[A]+2/1[H]+1/4[A]+2/1[H]+1/6[H]+0/0[A]+4/4[H]+2/2[A]",
+        "offsides": "3/0[A]+3/1[H]+1/2[A]+2/1[H]+1/1[H]+2/1[A]+2/2[H]+2/0[A]",
+        "shotsOnTarget": "4/7[A]+2/3[H]+4/4[A]+1/2[H]+10/2[H]+0/0[A]+4/4[H]+6/4[A]",
+        "yellowCards": "1/1[A]+2/2[H]+1/0[A]+1/0[H]+2/0[H]+0/1[A]+2/1[H]+0/1[A]",
+        "goals": "0/1[A]+1/1[H]+0/3[A]+0/0[H]+4/1[H]+0/0[A]+0/0[H]+1/2[A]",
+        "throwIns": "19/9[A]+20/21[H]+13/12[A]+21/10[H]+20/22[H]+25/22[A]+18/13[H]+25/22[A]",
+        "averageBallPossession": "70/30[A]+58/42[H]+55/45[A]+60/40[H]+51/49[H]+55/45[A]+49/51[H]+48/52[A]",
+        "teams": "Nice,Auxerre,Away+Nice,Le Mans,Home+Nice,Paris FC,Away+Nice,Lorient,Home+Nice,Saint-Étienne,Home+Nice,Saint-Étienne,Away+Nice,Metz,Home+Nice,Auxerre,Away",
+        "tackles": "13/22[A]+15/20[H]+16/15[A]+12/11[H]+18/10[H]+15/14[A]+17/22[H]+13/19[A]",
+        "interceptions": "12/11[A]+10/11[H]+17/13[A]+6/14[H]+13/9[H]+4/9[A]+5/6[H]+7/15[A]",
+        "aerialDuels": "17/7[A]+18/12[H]+8/4[A]+12/14[H]+5/5[H]+12/9[A]+19/9[H]+17/16[A]",
+        "aerialDuelsAttempted": "24/24[A]+30/30[H]+12/12[A]+26/26[H]+10/10[H]+21/21[A]+28/28[H]+33/33[A]",
+        "dribbles": "5/15[A]+3/9[H]+8/8[A]+4/4[H]+7/5[H]+4/3[A]+5/9[H]+6/7[A]",
+        "dribblesAttempted": "13/20[A]+14/15[H]+16/15[A]+7/11[H]+14/13[H]+13/11[A]+16/16[H]+16/12[A]",
+        "isHome": "false+true+false+true+true+false+true+false",
+        "cornersTotals": "49/34",
+        "cornersTotalsHome": "30/13",
+        "cornersTotalsAway": "19/21",
+        "cornersAverage": "6.13/4.25",
+        "cornersAverageHome": "7.50/3.25",
+        "cornersAverageAway": "4.75/5.25",
+        "foulsTotals": "70/80",
+        "foulsTotalsHome": "40/39",
+        "foulsTotalsAway": "30/41",
+        "foulsAverage": "8.75/10.00",
+        "foulsAverageHome": "10.00/9.75",
+        "foulsAverageAway": "7.50/10.25",
+        "goalKicksTotals": "63/67",
+        "goalKicksTotalsHome": "29/38",
+        "goalKicksTotalsAway": "34/29",
+        "goalKicksAverage": "7.88/8.38",
+        "goalKicksAverageHome": "7.25/9.50",
+        "goalKicksAverageAway": "8.50/7.25",
+        "savesTotals": "16/22",
+        "savesTotalsHome": "9/12",
+        "savesTotalsAway": "7/10",
+        "savesAverage": "2.00/2.75",
+        "savesAverageHome": "2.25/3.00",
+        "savesAverageAway": "1.75/2.50",
+        "offsidesTotals": "16/8",
+        "offsidesTotalsHome": "8/5",
+        "offsidesTotalsAway": "8/3",
+        "offsidesAverage": "2.00/1.00",
+        "offsidesAverageHome": "2.00/1.25",
+        "offsidesAverageAway": "2.00/0.75",
+        "shotsOnTargetTotals": "31/26",
+        "shotsOnTargetTotalsHome": "17/11",
+        "shotsOnTargetTotalsAway": "14/15",
+        "shotsOnTargetAverage": "3.88/3.25",
+        "shotsOnTargetAverageHome": "4.25/2.75",
+        "shotsOnTargetAverageAway": "3.50/3.75",
+        "yellowCardsTotals": "9/6",
+        "yellowCardsTotalsHome": "7/3",
+        "yellowCardsTotalsAway": "2/3",
+        "yellowCardsAverage": "1.13/0.75",
+        "yellowCardsAverageHome": "1.75/0.75",
+        "yellowCardsAverageAway": "0.50/0.75",
+        "goalsTotals": "6/8",
+        "goalsTotalsHome": "5/2",
+        "goalsTotalsAway": "1/6",
+        "goalsAverage": "0.75/1.00",
+        "goalsAverageHome": "1.25/0.50",
+        "goalsAverageAway": "0.25/1.50",
+        "throwInsTotals": "161/131",
+        "throwInsTotalsHome": "79/66",
+        "throwInsTotalsAway": "82/65",
+        "throwInsAverage": "20.13/16.38",
+        "throwInsAverageHome": "19.75/16.50",
+        "throwInsAverageAway": "20.50/16.25",
+        "averageBallPossessionTotals": "446/354",
+        "averageBallPossessionTotalsHome": "218/182",
+        "averageBallPossessionTotalsAway": "228/172",
+        "averageBallPossessionAverage": "55.75/44.25",
+        "averageBallPossessionAverageHome": "54.50/45.50",
+        "averageBallPossessionAverageAway": "57.00/43.00",
+        "tacklesTotals": "119/133",
+        "tacklesTotalsHome": "62/63",
+        "tacklesTotalsAway": "57/70",
+        "tacklesAverage": "14.88/16.63",
+        "tacklesAverageHome": "15.50/15.75",
+        "tacklesAverageAway": "14.25/17.50",
+        "interceptionsTotals": "74/88",
+        "interceptionsTotalsHome": "34/40",
+        "interceptionsTotalsAway": "40/48",
+        "interceptionsAverage": "9.25/11.00",
+        "interceptionsAverageHome": "8.50/10.00",
+        "interceptionsAverageAway": "10.00/12.00",
+        "aerialDuelsTotals": "108/76",
+        "aerialDuelsTotalsHome": "54/40",
+        "aerialDuelsTotalsAway": "54/36",
+        "aerialDuelsAverage": "13.50/9.50",
+        "aerialDuelsAverageHome": "13.50/10.00",
+        "aerialDuelsAverageAway": "13.50/9.00",
+        "aerialDuelsAttemptedTotals": "184/184",
+        "aerialDuelsAttemptedTotalsHome": "94/94",
+        "aerialDuelsAttemptedTotalsAway": "90/90",
+        "aerialDuelsAttemptedAverage": "23.00/23.00",
+        "aerialDuelsAttemptedAverageHome": "23.50/23.50",
+        "aerialDuelsAttemptedAverageAway": "22.50/22.50",
+        "dribblesTotals": "42/60",
+        "dribblesTotalsHome": "19/27",
+        "dribblesTotalsAway": "23/33",
+        "dribblesAverage": "5.25/7.50",
+        "dribblesAverageHome": "4.75/6.75",
+        "dribblesAverageAway": "5.75/8.25",
+        "dribblesAttemptedTotals": "109/113",
+        "dribblesAttemptedTotalsHome": "51/55",
+        "dribblesAttemptedTotalsAway": "58/58",
+        "dribblesAttemptedAverage": "13.63/14.13",
+        "dribblesAttemptedAverageHome": "12.75/13.75",
+        "dribblesAttemptedAverageAway": "14.50/14.50"
     }
 }

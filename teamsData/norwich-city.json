@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "5.31",
-        "fouls": "10.09",
-        "goalKicks": "7.56",
-        "saves": "2.60",
-        "offsides": "1.98",
-        "shotsOnTarget": "4.51/3.84",
-        "yellowCards": "1.91/1.98",
-        "goals": "1.38/1.20",
-        "throwIns": "20.53",
-        "ballPossession": 53.466666666667,
-        "tackles": "16.98/16.91",
-        "interceptions": "8.27/9.02",
-        "aerialDuels": "16.96",
-        "aerialDuelsAttempted": "36.20",
-        "dribbles": "7.58/5.98",
-        "dribblesAttempted": "15.73/14.31"
+        "corners": "4.86",
+        "fouls": "11.29",
+        "goalKicks": "9.14",
+        "saves": "2.29",
+        "offsides": "2.14",
+        "shotsOnTarget": "5.71/4.29",
+        "yellowCards": "2.57/2.00",
+        "goals": "1.86/1.86",
+        "throwIns": "20.57",
+        "ballPossession": 52,
+        "tackles": "15.57/17.86",
+        "interceptions": "11.00/12.14",
+        "aerialDuels": "13.86",
+        "aerialDuelsAttempted": "26.71",
+        "dribbles": "7.00/5.86",
+        "dribblesAttempted": "15.14/13.29"
     },
     "teamSlug": "norwich-city",
     "teamId": "263",
     "teamName": "Norwich City",
     "tournament": "Championship",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-middlesbrough/Lsnf#id:16391674,tab:statistics",
+            "teams": [
+                "Middlesbrough",
+                "Norwich City"
+            ],
+            "goals": [
+                4,
+                3
+            ],
+            "teamIds": [
+                36,
+                263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-birmingham-city/jnf#id:16391668,tab:statistics",
+            "teams": [
+                "Norwich City",
+                "Birmingham City"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                263,
+                9
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-sheffield-united/psnf#id:16391652,tab:statistics",
+            "teams": [
+                "Sheffield United",
+                "Norwich City"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                15,
+                263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-stoke-city/GNGc#id:16391197,tab:statistics",
+            "teams": [
+                "Stoke City",
+                "Norwich City"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                29,
+                263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-burnley/gsnf#id:16391187,tab:statistics",
+            "teams": [
+                "Norwich City",
+                "Burnley"
+            ],
+            "goals": [
+                4,
+                1
+            ],
+            "teamIds": [
+                263,
+                6
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-millwall/Anf#id:16391151,tab:statistics",
+            "teams": [
+                "Millwall",
+                "Norwich City"
+            ],
+            "goals": [
+                3,
+                0
+            ],
+            "teamIds": [
+                25,
+                263
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/norwich-city-west-bromwich-albion/inf#id:16391139,tab:statistics",
+            "teams": [
+                "Norwich City",
+                "West Bromwich Albion"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                263,
+                8
+            ],
+            "isHome": true
+        },
         {
             "href": "https://www.sofascore.com/football/match/norwich-city-swansea-city/zbnf#id:14059998,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 74
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-derby-county/Cnf#id:14059979,tab:statistics",
-            "teams": [
-                "Norwich City",
-                "Derby County"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                263,
-                27
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-bristol-city/ibsnf#id:14059970,tab:statistics",
-            "teams": [
-                "Bristol City",
-                "Norwich City"
-            ],
-            "goals": [
-                2,
-                4
-            ],
-            "teamIds": [
-                58,
-                263
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-ipswich-town/Hsnf#id:14059956,tab:statistics",
-            "teams": [
-                "Norwich City",
-                "Ipswich Town"
-            ],
-            "goals": [
-                0,
-                2
-            ],
-            "teamIds": [
-                263,
-                32
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-millwall/Anf#id:14059943,tab:statistics",
-            "teams": [
-                "Millwall",
-                "Norwich City"
-            ],
-            "goals": [
-                1,
-                2
-            ],
-            "teamIds": [
-                25,
-                263
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-portsmouth/csnf#id:14059930,tab:statistics",
-            "teams": [
-                "Norwich City",
-                "Portsmouth"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                263,
-                2
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-charlton-athletic/Xsnf#id:14059917,tab:statistics",
-            "teams": [
-                "Charlton Athletic",
-                "Norwich City"
-            ],
-            "goals": [
-                0,
-                1
-            ],
-            "teamIds": [
-                47,
-                263
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/norwich-city-southampton/Aptd#id:15591818,tab:statistics",
-            "teams": [
-                "Southampton",
-                "Norwich City"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                45,
-                263
-            ],
-            "isHome": false
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/3[A]",
+            "fouls": "9/13[A]",
+            "goalKicks": "16/11[A]",
+            "saves": "2/2[A]",
+            "offsides": "1/3[A]",
+            "shotsOnTarget": "5/6[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/4[A]",
+            "throwIns": "17/12[A]",
+            "averageBallPossession": "50/50[A]",
+            "teams": "Norwich City,Middlesbrough,Away",
+            "tackles": "10/17[A]",
+            "interceptions": "18/15[A]",
+            "aerialDuels": "8/15[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "9/3[A]",
+            "dribblesAttempted": "16/9[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/7[H]",
+            "fouls": "12/9[H]",
+            "goalKicks": "10/6[H]",
+            "saves": "2/4[H]",
+            "offsides": "3/4[H]",
+            "shotsOnTarget": "6/3[H]",
+            "yellowCards": "6/3[H]",
+            "goals": "2/1[H]",
+            "throwIns": "19/23[H]",
+            "averageBallPossession": "50/50[H]",
+            "teams": "Norwich City,Birmingham City,Home",
+            "tackles": "15/21[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "29/18[H]",
+            "aerialDuelsAttempted": "47/47[H]",
+            "dribbles": "11/1[H]",
+            "dribblesAttempted": "23/12[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/7[A]",
+            "fouls": "13/14[A]",
+            "goalKicks": "7/9[A]",
+            "saves": "3/4[A]",
+            "offsides": "3/6[A]",
+            "shotsOnTarget": "8/4[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "3/1[A]",
+            "throwIns": "14/14[A]",
+            "averageBallPossession": "54/46[A]",
+            "teams": "Norwich City,Sheffield United,Away",
+            "tackles": "16/16[A]",
+            "interceptions": "10/19[A]",
+            "aerialDuels": "17/10[A]",
+            "aerialDuelsAttempted": "27/27[A]",
+            "dribbles": "7/1[A]",
+            "dribblesAttempted": "11/2[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/3[A]",
+            "fouls": "10/16[A]",
+            "goalKicks": "6/6[A]",
+            "saves": "1/5[A]",
+            "offsides": "4/6[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "0/1[A]",
+            "throwIns": "27/19[A]",
+            "averageBallPossession": "71/29[A]",
+            "teams": "Norwich City,Stoke City,Away",
+            "tackles": "19/22[A]",
+            "interceptions": "12/13[A]",
+            "aerialDuels": "9/11[A]",
+            "aerialDuelsAttempted": "20/20[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "21/15[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/5[H]",
+            "fouls": "14/5[H]",
+            "goalKicks": "10/9[H]",
+            "saves": "3/2[H]",
+            "offsides": "3/1[H]",
+            "shotsOnTarget": "6/4[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "4/1[H]",
+            "throwIns": "11/16[H]",
+            "averageBallPossession": "37/63[H]",
+            "teams": "Norwich City,Burnley,Home",
+            "tackles": "19/7[H]",
+            "interceptions": "12/9[H]",
+            "aerialDuels": "10/7[H]",
+            "aerialDuelsAttempted": "17/17[H]",
+            "dribbles": "4/12[H]",
+            "dribblesAttempted": "11/24[H]",
+            "isHome": true
+        },
+        {
+            "corners": "3/8[A]",
+            "fouls": "8/14[A]",
+            "goalKicks": "12/9[A]",
+            "saves": "4/2[A]",
+            "offsides": "0/9[A]",
+            "shotsOnTarget": "2/7[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "0/3[A]",
+            "throwIns": "25/18[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "Norwich City,Millwall,Away",
+            "tackles": "17/16[A]",
+            "interceptions": "6/8[A]",
+            "aerialDuels": "12/14[A]",
+            "aerialDuelsAttempted": "26/26[A]",
+            "dribbles": "3/4[A]",
+            "dribblesAttempted": "7/10[A]",
+            "isHome": false
+        },
+        {
+            "corners": "8/2[H]",
+            "fouls": "13/13[H]",
+            "goalKicks": "3/11[H]",
+            "saves": "1/7[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "7/4[H]",
+            "yellowCards": "0/2[H]",
+            "goals": "1/2[H]",
+            "throwIns": "31/11[H]",
+            "averageBallPossession": "54/46[H]",
+            "teams": "Norwich City,West Bromwich Albion,Home",
+            "tackles": "13/26[H]",
+            "interceptions": "11/9[H]",
+            "aerialDuels": "12/15[H]",
+            "aerialDuelsAttempted": "27/27[H]",
+            "dribbles": "10/11[H]",
+            "dribblesAttempted": "17/21[H]",
+            "isHome": true
+        },
         {
             "corners": "5/2[H]",
             "fouls": "13/9[H]",
@@ -173,267 +313,127 @@
             "dribbles": "4/3[H]",
             "dribblesAttempted": "16/5[H]",
             "isHome": true
-        },
-        {
-            "corners": "3/4[H]",
-            "fouls": "9/17[H]",
-            "goalKicks": "4/8[H]",
-            "saves": "7/4[H]",
-            "offsides": "2/5[H]",
-            "shotsOnTarget": "6/8[H]",
-            "yellowCards": "2/3[H]",
-            "goals": "2/1[H]",
-            "throwIns": "22/24[H]",
-            "averageBallPossession": "56/44[H]",
-            "teams": "Norwich City,Derby County,Home",
-            "tackles": "14/15[H]",
-            "interceptions": "6/13[H]",
-            "aerialDuels": "23/21[H]",
-            "aerialDuelsAttempted": "44/44[H]",
-            "dribbles": "9/5[H]",
-            "dribblesAttempted": "17/15[H]",
-            "isHome": true
-        },
-        {
-            "corners": "10/2[A]",
-            "fouls": "12/8[A]",
-            "goalKicks": "2/14[A]",
-            "saves": "3/6[A]",
-            "offsides": "0/7[A]",
-            "shotsOnTarget": "9/6[A]",
-            "yellowCards": "2/0[A]",
-            "goals": "4/2[A]",
-            "throwIns": "18/13[A]",
-            "averageBallPossession": "55/45[A]",
-            "teams": "Norwich City,Bristol City,Away",
-            "tackles": "15/14[A]",
-            "interceptions": "6/10[A]",
-            "aerialDuels": "9/9[A]",
-            "aerialDuelsAttempted": "18/18[A]",
-            "dribbles": "5/1[A]",
-            "dribblesAttempted": "12/7[A]",
-            "isHome": false
-        },
-        {
-            "corners": "13/1[H]",
-            "fouls": "16/17[H]",
-            "goalKicks": "2/12[H]",
-            "saves": "3/3[H]",
-            "offsides": "0/3[H]",
-            "shotsOnTarget": "3/5[H]",
-            "yellowCards": "4/6[H]",
-            "goals": "0/2[H]",
-            "throwIns": "25/18[H]",
-            "averageBallPossession": "67/33[H]",
-            "teams": "Norwich City,Ipswich Town,Home",
-            "tackles": "11/14[H]",
-            "interceptions": "7/7[H]",
-            "aerialDuels": "8/18[H]",
-            "aerialDuelsAttempted": "26/26[H]",
-            "dribbles": "8/4[H]",
-            "dribblesAttempted": "11/10[H]",
-            "isHome": true
-        },
-        {
-            "corners": "5/2[A]",
-            "fouls": "7/12[A]",
-            "goalKicks": "5/13[A]",
-            "saves": "1/3[A]",
-            "offsides": "3/4[A]",
-            "shotsOnTarget": "5/2[A]",
-            "yellowCards": "2/1[A]",
-            "goals": "2/1[A]",
-            "throwIns": "22/33[A]",
-            "averageBallPossession": "53/47[A]",
-            "teams": "Norwich City,Millwall,Away",
-            "tackles": "4/14[A]",
-            "interceptions": "8/6[A]",
-            "aerialDuels": "22/26[A]",
-            "aerialDuelsAttempted": "48/48[A]",
-            "dribbles": "3/3[A]",
-            "dribblesAttempted": "11/5[A]",
-            "isHome": false
-        },
-        {
-            "corners": "5/6[H]",
-            "fouls": "17/11[H]",
-            "goalKicks": "10/3[H]",
-            "saves": "1/1[H]",
-            "offsides": "2/3[H]",
-            "shotsOnTarget": "2/1[H]",
-            "yellowCards": "3/5[H]",
-            "goals": "1/1[H]",
-            "throwIns": "14/18[H]",
-            "averageBallPossession": "58/42[H]",
-            "teams": "Norwich City,Portsmouth,Home",
-            "tackles": "14/14[H]",
-            "interceptions": "3/14[H]",
-            "aerialDuels": "17/29[H]",
-            "aerialDuelsAttempted": "46/46[H]",
-            "dribbles": "5/7[H]",
-            "dribblesAttempted": "12/11[H]",
-            "isHome": true
-        },
-        {
-            "corners": "7/7[A]",
-            "fouls": "6/7[A]",
-            "goalKicks": "6/11[A]",
-            "saves": "2/4[A]",
-            "offsides": "1/2[A]",
-            "shotsOnTarget": "5/2[A]",
-            "yellowCards": "2/2[A]",
-            "goals": "1/0[A]",
-            "throwIns": "26/22[A]",
-            "averageBallPossession": "60/40[A]",
-            "teams": "Norwich City,Charlton Athletic,Away",
-            "tackles": "13/20[A]",
-            "interceptions": "11/7[A]",
-            "aerialDuels": "18/21[A]",
-            "aerialDuelsAttempted": "39/39[A]",
-            "dribbles": "4/8[A]",
-            "dribblesAttempted": "13/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/5[A]",
-            "fouls": "13/13[A]",
-            "goalKicks": "6/5[A]",
-            "saves": "3/7[A]",
-            "offsides": "0/3[A]",
-            "shotsOnTarget": "7/4[A]",
-            "yellowCards": "4/4[A]",
-            "goals": "0/1[A]",
-            "throwIns": "15/24[A]",
-            "averageBallPossession": "57/43[A]",
-            "teams": "Norwich City,Southampton,Away",
-            "tackles": "17/20[A]",
-            "interceptions": "10/13[A]",
-            "aerialDuels": "12/18[A]",
-            "aerialDuelsAttempted": "30/30[A]",
-            "dribbles": "14/5[A]",
-            "dribblesAttempted": "18/10[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
     "currentIndex": 7,
-    "startTime": "2026-05-02T12:17:54.399Z",
-    "endTime": "2026-05-02T12:18:30.962Z",
-    "totalTimeSeconds": 36.56,
+    "startTime": "2026-09-20T08:53:31.791Z",
+    "endTime": "2026-09-20T08:53:59.580Z",
+    "totalTimeSeconds": 27.79,
     "combinedMatchStatistics": {
-        "corners": "5/2[H]+3/4[H]+10/2[A]+13/1[H]+5/2[A]+5/6[H]+7/7[A]+6/5[A]",
-        "fouls": "13/9[H]+9/17[H]+12/8[A]+16/17[H]+7/12[A]+17/11[H]+6/7[A]+13/13[A]",
-        "goalKicks": "5/11[H]+4/8[H]+2/14[A]+2/12[H]+5/13[A]+10/3[H]+6/11[A]+6/5[A]",
-        "saves": "1/8[H]+7/4[H]+3/6[A]+3/3[H]+1/3[A]+1/1[H]+2/4[A]+3/7[A]",
-        "offsides": "0/2[H]+2/5[H]+0/7[A]+0/3[H]+3/4[A]+2/3[H]+1/2[A]+0/3[A]",
-        "shotsOnTarget": "8/2[H]+6/8[H]+9/6[A]+3/5[H]+5/2[A]+2/1[H]+5/2[A]+7/4[A]",
-        "yellowCards": "3/5[H]+2/3[H]+2/0[A]+4/6[H]+2/1[A]+3/5[H]+2/2[A]+4/4[A]",
-        "goals": "1/1[H]+2/1[H]+4/2[A]+0/2[H]+2/1[A]+1/1[H]+1/0[A]+0/1[A]",
-        "throwIns": "24/15[H]+22/24[H]+18/13[A]+25/18[H]+22/33[A]+14/18[H]+26/22[A]+15/24[A]",
-        "averageBallPossession": "51/49[H]+56/44[H]+55/45[A]+67/33[H]+53/47[A]+58/42[H]+60/40[A]+57/43[A]",
-        "teams": "Norwich City,Swansea City,Home+Norwich City,Derby County,Home+Norwich City,Bristol City,Away+Norwich City,Ipswich Town,Home+Norwich City,Millwall,Away+Norwich City,Portsmouth,Home+Norwich City,Charlton Athletic,Away+Norwich City,Southampton,Away",
-        "tackles": "11/19[H]+14/15[H]+15/14[A]+11/14[H]+4/14[A]+14/14[H]+13/20[A]+17/20[A]",
-        "interceptions": "13/9[H]+6/13[H]+6/10[A]+7/7[H]+8/6[A]+3/14[H]+11/7[A]+10/13[A]",
-        "aerialDuels": "11/13[H]+23/21[H]+9/9[A]+8/18[H]+22/26[A]+17/29[H]+18/21[A]+12/18[A]",
-        "aerialDuelsAttempted": "24/24[H]+44/44[H]+18/18[A]+26/26[H]+48/48[A]+46/46[H]+39/39[A]+30/30[A]",
-        "dribbles": "4/3[H]+9/5[H]+5/1[A]+8/4[H]+3/3[A]+5/7[H]+4/8[A]+14/5[A]",
-        "dribblesAttempted": "16/5[H]+17/15[H]+12/7[A]+11/10[H]+11/5[A]+12/11[H]+13/13[A]+18/10[A]",
-        "isHome": "true+true+false+true+false+true+false+false",
-        "cornersTotals": "54/29",
-        "cornersTotalsHome": "26/13",
-        "cornersTotalsAway": "28/16",
-        "cornersAverage": "6.75/3.63",
-        "cornersAverageHome": "6.50/3.25",
-        "cornersAverageAway": "7.00/4.00",
-        "foulsTotals": "93/94",
-        "foulsTotalsHome": "55/54",
-        "foulsTotalsAway": "38/40",
-        "foulsAverage": "11.63/11.75",
-        "foulsAverageHome": "13.75/13.50",
-        "foulsAverageAway": "9.50/10.00",
-        "goalKicksTotals": "40/77",
-        "goalKicksTotalsHome": "21/34",
-        "goalKicksTotalsAway": "19/43",
-        "goalKicksAverage": "5.00/9.63",
-        "goalKicksAverageHome": "5.25/8.50",
-        "goalKicksAverageAway": "4.75/10.75",
-        "savesTotals": "21/36",
-        "savesTotalsHome": "12/16",
-        "savesTotalsAway": "9/20",
-        "savesAverage": "2.63/4.50",
-        "savesAverageHome": "3.00/4.00",
-        "savesAverageAway": "2.25/5.00",
-        "offsidesTotals": "8/29",
-        "offsidesTotalsHome": "4/13",
-        "offsidesTotalsAway": "4/16",
-        "offsidesAverage": "1.00/3.63",
-        "offsidesAverageHome": "1.00/3.25",
-        "offsidesAverageAway": "1.00/4.00",
-        "shotsOnTargetTotals": "45/30",
-        "shotsOnTargetTotalsHome": "19/16",
-        "shotsOnTargetTotalsAway": "26/14",
-        "shotsOnTargetAverage": "5.63/3.75",
-        "shotsOnTargetAverageHome": "4.75/4.00",
-        "shotsOnTargetAverageAway": "6.50/3.50",
-        "yellowCardsTotals": "22/26",
-        "yellowCardsTotalsHome": "12/19",
-        "yellowCardsTotalsAway": "10/7",
-        "yellowCardsAverage": "2.75/3.25",
-        "yellowCardsAverageHome": "3.00/4.75",
-        "yellowCardsAverageAway": "2.50/1.75",
-        "goalsTotals": "11/9",
-        "goalsTotalsHome": "4/5",
-        "goalsTotalsAway": "7/4",
-        "goalsAverage": "1.38/1.13",
-        "goalsAverageHome": "1.00/1.25",
-        "goalsAverageAway": "1.75/1.00",
-        "throwInsTotals": "166/167",
-        "throwInsTotalsHome": "85/75",
-        "throwInsTotalsAway": "81/92",
-        "throwInsAverage": "20.75/20.88",
-        "throwInsAverageHome": "21.25/18.75",
-        "throwInsAverageAway": "20.25/23.00",
-        "averageBallPossessionTotals": "457/343",
-        "averageBallPossessionTotalsHome": "232/168",
-        "averageBallPossessionTotalsAway": "225/175",
-        "averageBallPossessionAverage": "57.13/42.88",
-        "averageBallPossessionAverageHome": "58.00/42.00",
-        "averageBallPossessionAverageAway": "56.25/43.75",
-        "tacklesTotals": "99/130",
-        "tacklesTotalsHome": "50/62",
-        "tacklesTotalsAway": "49/68",
-        "tacklesAverage": "12.38/16.25",
-        "tacklesAverageHome": "12.50/15.50",
-        "tacklesAverageAway": "12.25/17.00",
-        "interceptionsTotals": "64/79",
-        "interceptionsTotalsHome": "29/43",
-        "interceptionsTotalsAway": "35/36",
-        "interceptionsAverage": "8.00/9.88",
-        "interceptionsAverageHome": "7.25/10.75",
-        "interceptionsAverageAway": "8.75/9.00",
-        "aerialDuelsTotals": "120/155",
-        "aerialDuelsTotalsHome": "59/81",
-        "aerialDuelsTotalsAway": "61/74",
-        "aerialDuelsAverage": "15.00/19.38",
-        "aerialDuelsAverageHome": "14.75/20.25",
-        "aerialDuelsAverageAway": "15.25/18.50",
-        "aerialDuelsAttemptedTotals": "275/275",
-        "aerialDuelsAttemptedTotalsHome": "140/140",
-        "aerialDuelsAttemptedTotalsAway": "135/135",
-        "aerialDuelsAttemptedAverage": "34.38/34.38",
-        "aerialDuelsAttemptedAverageHome": "35.00/35.00",
-        "aerialDuelsAttemptedAverageAway": "33.75/33.75",
-        "dribblesTotals": "52/36",
-        "dribblesTotalsHome": "26/19",
-        "dribblesTotalsAway": "26/17",
-        "dribblesAverage": "6.50/4.50",
-        "dribblesAverageHome": "6.50/4.75",
-        "dribblesAverageAway": "6.50/4.25",
-        "dribblesAttemptedTotals": "110/76",
-        "dribblesAttemptedTotalsHome": "56/41",
-        "dribblesAttemptedTotalsAway": "54/35",
-        "dribblesAttemptedAverage": "13.75/9.50",
-        "dribblesAttemptedAverageHome": "14.00/10.25",
-        "dribblesAttemptedAverageAway": "13.50/8.75"
+        "corners": "5/3[A]+6/7[H]+4/7[A]+5/3[A]+3/5[H]+3/8[A]+8/2[H]+5/2[H]",
+        "fouls": "9/13[A]+12/9[H]+13/14[A]+10/16[A]+14/5[H]+8/14[A]+13/13[H]+13/9[H]",
+        "goalKicks": "16/11[A]+10/6[H]+7/9[A]+6/6[A]+10/9[H]+12/9[A]+3/11[H]+5/11[H]",
+        "saves": "2/2[A]+2/4[H]+3/4[A]+1/5[A]+3/2[H]+4/2[A]+1/7[H]+1/8[H]",
+        "offsides": "1/3[A]+3/4[H]+3/6[A]+4/6[A]+3/1[H]+0/9[A]+1/3[H]+0/2[H]",
+        "shotsOnTarget": "5/6[A]+6/3[H]+8/4[A]+6/2[A]+6/4[H]+2/7[A]+7/4[H]+8/2[H]",
+        "yellowCards": "1/2[A]+6/3[H]+3/2[A]+2/2[A]+4/3[H]+3/1[A]+0/2[H]+3/5[H]",
+        "goals": "3/4[A]+2/1[H]+3/1[A]+0/1[A]+4/1[H]+0/3[A]+1/2[H]+1/1[H]",
+        "throwIns": "17/12[A]+19/23[H]+14/14[A]+27/19[A]+11/16[H]+25/18[A]+31/11[H]+24/15[H]",
+        "averageBallPossession": "50/50[A]+50/50[H]+54/46[A]+71/29[A]+37/63[H]+48/52[A]+54/46[H]+51/49[H]",
+        "teams": "Norwich City,Middlesbrough,Away+Norwich City,Birmingham City,Home+Norwich City,Sheffield United,Away+Norwich City,Stoke City,Away+Norwich City,Burnley,Home+Norwich City,Millwall,Away+Norwich City,West Bromwich Albion,Home+Norwich City,Swansea City,Home",
+        "tackles": "10/17[A]+15/21[H]+16/16[A]+19/22[A]+19/7[H]+17/16[A]+13/26[H]+11/19[H]",
+        "interceptions": "18/15[A]+8/12[H]+10/19[A]+12/13[A]+12/9[H]+6/8[A]+11/9[H]+13/9[H]",
+        "aerialDuels": "8/15[A]+29/18[H]+17/10[A]+9/11[A]+10/7[H]+12/14[A]+12/15[H]+11/13[H]",
+        "aerialDuelsAttempted": "23/23[A]+47/47[H]+27/27[A]+20/20[A]+17/17[H]+26/26[A]+27/27[H]+24/24[H]",
+        "dribbles": "9/3[A]+11/1[H]+7/1[A]+5/9[A]+4/12[H]+3/4[A]+10/11[H]+4/3[H]",
+        "dribblesAttempted": "16/9[A]+23/12[H]+11/2[A]+21/15[A]+11/24[H]+7/10[A]+17/21[H]+16/5[H]",
+        "isHome": "false+true+false+false+true+false+true+true",
+        "cornersTotals": "39/37",
+        "cornersTotalsHome": "22/16",
+        "cornersTotalsAway": "17/21",
+        "cornersAverage": "4.88/4.63",
+        "cornersAverageHome": "5.50/4.00",
+        "cornersAverageAway": "4.25/5.25",
+        "foulsTotals": "92/93",
+        "foulsTotalsHome": "52/36",
+        "foulsTotalsAway": "40/57",
+        "foulsAverage": "11.50/11.63",
+        "foulsAverageHome": "13.00/9.00",
+        "foulsAverageAway": "10.00/14.25",
+        "goalKicksTotals": "69/72",
+        "goalKicksTotalsHome": "28/37",
+        "goalKicksTotalsAway": "41/35",
+        "goalKicksAverage": "8.63/9.00",
+        "goalKicksAverageHome": "7.00/9.25",
+        "goalKicksAverageAway": "10.25/8.75",
+        "savesTotals": "17/34",
+        "savesTotalsHome": "7/21",
+        "savesTotalsAway": "10/13",
+        "savesAverage": "2.13/4.25",
+        "savesAverageHome": "1.75/5.25",
+        "savesAverageAway": "2.50/3.25",
+        "offsidesTotals": "15/34",
+        "offsidesTotalsHome": "7/10",
+        "offsidesTotalsAway": "8/24",
+        "offsidesAverage": "1.88/4.25",
+        "offsidesAverageHome": "1.75/2.50",
+        "offsidesAverageAway": "2.00/6.00",
+        "shotsOnTargetTotals": "48/32",
+        "shotsOnTargetTotalsHome": "27/13",
+        "shotsOnTargetTotalsAway": "21/19",
+        "shotsOnTargetAverage": "6.00/4.00",
+        "shotsOnTargetAverageHome": "6.75/3.25",
+        "shotsOnTargetAverageAway": "5.25/4.75",
+        "yellowCardsTotals": "22/20",
+        "yellowCardsTotalsHome": "13/13",
+        "yellowCardsTotalsAway": "9/7",
+        "yellowCardsAverage": "2.75/2.50",
+        "yellowCardsAverageHome": "3.25/3.25",
+        "yellowCardsAverageAway": "2.25/1.75",
+        "goalsTotals": "14/14",
+        "goalsTotalsHome": "8/5",
+        "goalsTotalsAway": "6/9",
+        "goalsAverage": "1.75/1.75",
+        "goalsAverageHome": "2.00/1.25",
+        "goalsAverageAway": "1.50/2.25",
+        "throwInsTotals": "168/128",
+        "throwInsTotalsHome": "85/65",
+        "throwInsTotalsAway": "83/63",
+        "throwInsAverage": "21.00/16.00",
+        "throwInsAverageHome": "21.25/16.25",
+        "throwInsAverageAway": "20.75/15.75",
+        "averageBallPossessionTotals": "415/385",
+        "averageBallPossessionTotalsHome": "192/208",
+        "averageBallPossessionTotalsAway": "223/177",
+        "averageBallPossessionAverage": "51.88/48.13",
+        "averageBallPossessionAverageHome": "48.00/52.00",
+        "averageBallPossessionAverageAway": "55.75/44.25",
+        "tacklesTotals": "120/144",
+        "tacklesTotalsHome": "58/73",
+        "tacklesTotalsAway": "62/71",
+        "tacklesAverage": "15.00/18.00",
+        "tacklesAverageHome": "14.50/18.25",
+        "tacklesAverageAway": "15.50/17.75",
+        "interceptionsTotals": "90/94",
+        "interceptionsTotalsHome": "44/39",
+        "interceptionsTotalsAway": "46/55",
+        "interceptionsAverage": "11.25/11.75",
+        "interceptionsAverageHome": "11.00/9.75",
+        "interceptionsAverageAway": "11.50/13.75",
+        "aerialDuelsTotals": "108/103",
+        "aerialDuelsTotalsHome": "62/53",
+        "aerialDuelsTotalsAway": "46/50",
+        "aerialDuelsAverage": "13.50/12.88",
+        "aerialDuelsAverageHome": "15.50/13.25",
+        "aerialDuelsAverageAway": "11.50/12.50",
+        "aerialDuelsAttemptedTotals": "211/211",
+        "aerialDuelsAttemptedTotalsHome": "115/115",
+        "aerialDuelsAttemptedTotalsAway": "96/96",
+        "aerialDuelsAttemptedAverage": "26.38/26.38",
+        "aerialDuelsAttemptedAverageHome": "28.75/28.75",
+        "aerialDuelsAttemptedAverageAway": "24.00/24.00",
+        "dribblesTotals": "53/44",
+        "dribblesTotalsHome": "29/27",
+        "dribblesTotalsAway": "24/17",
+        "dribblesAverage": "6.63/5.50",
+        "dribblesAverageHome": "7.25/6.75",
+        "dribblesAverageAway": "6.00/4.25",
+        "dribblesAttemptedTotals": "122/98",
+        "dribblesAttemptedTotalsHome": "67/62",
+        "dribblesAttemptedTotalsAway": "55/36",
+        "dribblesAttemptedAverage": "15.25/12.25",
+        "dribblesAttemptedAverageHome": "16.75/15.50",
+        "dribblesAttemptedAverageAway": "13.75/9.00"
     }
 }

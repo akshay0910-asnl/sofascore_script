@@ -1,27 +1,123 @@
 {
     "globalStatistics": {
-        "corners": "4.70",
-        "fouls": "12.24",
-        "goalKicks": "6.97",
-        "saves": "2.76",
-        "offsides": "1.18",
-        "shotsOnTarget": "4.09/4.03",
-        "yellowCards": "2.45/2.15",
-        "goals": "1.21/1.18",
-        "throwIns": "18.88",
-        "ballPossession": 47.909090909091,
-        "tackles": "11.33/13.88",
-        "interceptions": "7.64/9.27",
-        "aerialDuels": "11.52",
-        "aerialDuelsAttempted": "22.97",
-        "dribbles": "6.00/5.97",
-        "dribblesAttempted": "13.06/11.15"
+        "corners": "5.80",
+        "fouls": "16.00",
+        "goalKicks": "9.40",
+        "saves": "3.80",
+        "offsides": "2.40",
+        "shotsOnTarget": "2.60/4.80",
+        "yellowCards": "1.40/1.60",
+        "goals": "1.20/1.00",
+        "throwIns": "17.80",
+        "ballPossession": 42,
+        "tackles": "11.60/10.20",
+        "interceptions": "8.20/10.00",
+        "aerialDuels": "16.60",
+        "aerialDuelsAttempted": "26.80",
+        "dribbles": "4.60/6.00",
+        "dribblesAttempted": "10.40/12.80"
     },
     "teamSlug": "alanyaspor",
     "teamId": "6362",
     "teamName": "Alanyaspor",
     "tournament": "Trendyol Süper Lig",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/alanyaspor-goztepe/elbsmCc#id:16483667,tab:statistics",
+            "teams": [
+                "Alanyaspor",
+                "Göztepe"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                6362,
+                3054
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/alanyaspor-caykur-rizespor/olbsmCc#id:16483644,tab:statistics",
+            "teams": [
+                "Çaykur Rizespor",
+                "Alanyaspor"
+            ],
+            "goals": [
+                0,
+                1
+            ],
+            "teamIds": [
+                3064,
+                6362
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/eyupspor-alanyaspor/mCcsPPc#id:16483653,tab:statistics",
+            "teams": [
+                "Eyüpspor",
+                "Alanyaspor"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                7040,
+                6362
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/alanyaspor-besiktas-jk/albsmCc#id:16483649,tab:statistics",
+            "teams": [
+                "Alanyaspor",
+                "Beşiktaş JK"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                6362,
+                3050
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/alanyaspor-gaziantep-fk/NccsmCc#id:16483633,tab:statistics",
+            "teams": [
+                "Gaziantep FK",
+                "Alanyaspor"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                5138,
+                6362
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/alanyaspor-fatih-karagumruk/eZbsmCc#id:14109921,tab:statistics",
+            "teams": [
+                "Fatih Karagümrük",
+                "Alanyaspor"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                4954,
+                6362
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/alanyaspor-kayserispor/xlbsmCc#id:14109917,tab:statistics",
             "teams": [
@@ -39,22 +135,6 @@
             "isHome": true
         },
         {
-            "href": "https://www.sofascore.com/football/match/alanyaspor-antalyaspor/glbsmCc#id:14109903,tab:statistics",
-            "teams": [
-                "Antalyaspor",
-                "Alanyaspor"
-            ],
-            "goals": [
-                0,
-                0
-            ],
-            "teamIds": [
-                3056,
-                6362
-            ],
-            "isHome": false
-        },
-        {
             "href": "https://www.sofascore.com/football/match/alanyaspor-samsunspor/dlbsmCc#id:14109894,tab:statistics",
             "teams": [
                 "Alanyaspor",
@@ -69,91 +149,131 @@
                 3053
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/alanyaspor-kasimpasa/nwcsmCc#id:14109883,tab:statistics",
-            "teams": [
-                "Kasımpaşa",
-                "Alanyaspor"
-            ],
-            "goals": [
-                1,
-                0
-            ],
-            "teamIds": [
-                6063,
-                6362
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/alanyaspor-trabzonspor/blbsmCc#id:14109873,tab:statistics",
-            "teams": [
-                "Alanyaspor",
-                "Trabzonspor"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                6362,
-                3051
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/alanyaspor-gaziantep-fk/NccsmCc#id:14109863,tab:statistics",
-            "teams": [
-                "Gaziantep FK",
-                "Alanyaspor"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                5138,
-                6362
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/alanyaspor-kocaelispor/plbsmCc#id:14109859,tab:statistics",
-            "teams": [
-                "Alanyaspor",
-                "Kocaelispor"
-            ],
-            "goals": [
-                5,
-                0
-            ],
-            "teamIds": [
-                6362,
-                3065
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/alanyaspor-goztepe/elbsmCc#id:14109843,tab:statistics",
-            "teams": [
-                "Göztepe",
-                "Alanyaspor"
-            ],
-            "goals": [
-                2,
-                2
-            ],
-            "teamIds": [
-                3054,
-                6362
-            ],
-            "isHome": false
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "9/3[H]",
+            "fouls": "8/10[H]",
+            "goalKicks": "11/13[H]",
+            "saves": "2/2[H]",
+            "offsides": "1/3[H]",
+            "shotsOnTarget": "4/4[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/2[H]",
+            "throwIns": "22/12[H]",
+            "averageBallPossession": "64/36[H]",
+            "teams": "Alanyaspor,Göztepe,Home",
+            "tackles": "10/11[H]",
+            "interceptions": "8/12[H]",
+            "aerialDuels": "26/13[H]",
+            "aerialDuelsAttempted": "39/39[H]",
+            "dribbles": "1/4[H]",
+            "dribblesAttempted": "10/11[H]",
+            "isHome": true
+        },
+        {
+            "corners": "7/8[A]",
+            "fouls": "15/8[A]",
+            "goalKicks": "10/5[A]",
+            "saves": "5/1[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/0[A]",
+            "throwIns": "24/28[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "Alanyaspor,Çaykur Rizespor,Away",
+            "tackles": "17/15[A]",
+            "interceptions": "10/5[A]",
+            "aerialDuels": "16/9[A]",
+            "aerialDuelsAttempted": "25/25[A]",
+            "dribbles": "7/6[A]",
+            "dribblesAttempted": "14/14[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/1[A]",
+            "fouls": "22/16[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "2/1[A]",
+            "offsides": "3/1[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "1/3[A]",
+            "goals": "1/2[A]",
+            "throwIns": "13/18[A]",
+            "averageBallPossession": "37/63[A]",
+            "teams": "Alanyaspor,Eyüpspor,Away",
+            "tackles": "8/2[A]",
+            "interceptions": "7/6[A]",
+            "aerialDuels": "22/9[A]",
+            "aerialDuelsAttempted": "31/31[A]",
+            "dribbles": "2/12[A]",
+            "dribblesAttempted": "3/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "7/7[H]",
+            "fouls": "14/14[H]",
+            "goalKicks": "7/4[H]",
+            "saves": "6/2[H]",
+            "offsides": "2/3[H]",
+            "shotsOnTarget": "3/6[H]",
+            "yellowCards": "0/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "13/15[H]",
+            "averageBallPossession": "35/65[H]",
+            "teams": "Alanyaspor,Beşiktaş JK,Home",
+            "tackles": "13/9[H]",
+            "interceptions": "6/14[H]",
+            "aerialDuels": "10/11[H]",
+            "aerialDuelsAttempted": "21/21[H]",
+            "dribbles": "8/5[H]",
+            "dribblesAttempted": "15/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/0[A]",
+            "fouls": "21/14[A]",
+            "goalKicks": "10/7[A]",
+            "saves": "4/1[A]",
+            "offsides": "4/3[A]",
+            "shotsOnTarget": "2/5[A]",
+            "yellowCards": "3/3[A]",
+            "goals": "1/1[A]",
+            "throwIns": "17/20[A]",
+            "averageBallPossession": "39/61[A]",
+            "teams": "Alanyaspor,Gaziantep FK,Away",
+            "tackles": "10/14[A]",
+            "interceptions": "10/13[A]",
+            "aerialDuels": "9/9[A]",
+            "aerialDuelsAttempted": "18/18[A]",
+            "dribbles": "5/3[A]",
+            "dribblesAttempted": "10/7[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/0[A]",
+            "fouls": "13/12[A]",
+            "goalKicks": "2/4[A]",
+            "saves": "2/3[A]",
+            "offsides": "2/2[A]",
+            "shotsOnTarget": "4/4[A]",
+            "yellowCards": "0/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "24/14[A]",
+            "averageBallPossession": "56/44[A]",
+            "teams": "Alanyaspor,Fatih Karagümrük,Away",
+            "tackles": "7/14[A]",
+            "interceptions": "14/6[A]",
+            "aerialDuels": "7/7[A]",
+            "aerialDuelsAttempted": "14/14[A]",
+            "dribbles": "9/7[A]",
+            "dribblesAttempted": "13/8[A]",
+            "isHome": false
+        },
         {
             "corners": "1/7[H]",
             "fouls": "13/15[H]",
@@ -175,26 +295,6 @@
             "isHome": true
         },
         {
-            "corners": "8/3[A]",
-            "fouls": "15/10[A]",
-            "goalKicks": "4/6[A]",
-            "saves": "1/2[A]",
-            "offsides": "0/2[A]",
-            "shotsOnTarget": "2/1[A]",
-            "yellowCards": "5/4[A]",
-            "goals": "0/0[A]",
-            "throwIns": "24/23[A]",
-            "averageBallPossession": "44/56[A]",
-            "teams": "Alanyaspor,Antalyaspor,Away",
-            "tackles": "14/18[A]",
-            "interceptions": "5/15[A]",
-            "aerialDuels": "13/6[A]",
-            "aerialDuelsAttempted": "19/19[A]",
-            "dribbles": "6/5[A]",
-            "dribblesAttempted": "17/15[A]",
-            "isHome": false
-        },
-        {
             "corners": "12/5[H]",
             "fouls": "11/18[H]",
             "goalKicks": "2/11[H]",
@@ -213,227 +313,127 @@
             "dribbles": "3/5[H]",
             "dribblesAttempted": "12/8[H]",
             "isHome": true
-        },
-        {
-            "corners": "1/6[A]",
-            "fouls": "15/11[A]",
-            "goalKicks": "7/8[A]",
-            "saves": "1/4[A]",
-            "offsides": "1/0[A]",
-            "shotsOnTarget": "4/2[A]",
-            "yellowCards": "4/2[A]",
-            "goals": "0/1[A]",
-            "throwIns": "17/16[A]",
-            "averageBallPossession": "55/45[A]",
-            "teams": "Alanyaspor,Kasımpaşa,Away",
-            "tackles": "6/13[A]",
-            "interceptions": "5/9[A]",
-            "aerialDuels": "12/12[A]",
-            "aerialDuelsAttempted": "24/24[A]",
-            "dribbles": "7/6[A]",
-            "dribblesAttempted": "14/7[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/5[H]",
-            "fouls": "8/13[H]",
-            "goalKicks": "11/8[H]",
-            "saves": "2/1[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "2/3[H]",
-            "yellowCards": "3/1[H]",
-            "goals": "1/1[H]",
-            "throwIns": "12/20[H]",
-            "averageBallPossession": "41/59[H]",
-            "teams": "Alanyaspor,Trabzonspor,Home",
-            "tackles": "9/7[H]",
-            "interceptions": "6/5[H]",
-            "aerialDuels": "10/14[H]",
-            "aerialDuelsAttempted": "24/24[H]",
-            "dribbles": "5/3[H]",
-            "dribblesAttempted": "8/8[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/2[A]",
-            "fouls": "20/16[A]",
-            "goalKicks": "10/5[A]",
-            "saves": "4/2[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "3/5[A]",
-            "yellowCards": "3/2[A]",
-            "goals": "1/1[A]",
-            "throwIns": "28/16[A]",
-            "averageBallPossession": "42/58[A]",
-            "teams": "Alanyaspor,Gaziantep FK,Away",
-            "tackles": "14/11[A]",
-            "interceptions": "8/15[A]",
-            "aerialDuels": "13/5[A]",
-            "aerialDuelsAttempted": "18/18[A]",
-            "dribbles": "8/9[A]",
-            "dribblesAttempted": "13/13[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/3[H]",
-            "fouls": "14/14[H]",
-            "goalKicks": "8/6[H]",
-            "saves": "1/1[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "6/1[H]",
-            "yellowCards": "0/3[H]",
-            "goals": "5/0[H]",
-            "throwIns": "17/20[H]",
-            "averageBallPossession": "40/60[H]",
-            "teams": "Alanyaspor,Kocaelispor,Home",
-            "tackles": "11/7[H]",
-            "interceptions": "10/12[H]",
-            "aerialDuels": "11/12[H]",
-            "aerialDuelsAttempted": "23/23[H]",
-            "dribbles": "3/4[H]",
-            "dribblesAttempted": "7/9[H]",
-            "isHome": true
-        },
-        {
-            "corners": "8/5[A]",
-            "fouls": "7/19[A]",
-            "goalKicks": "7/8[A]",
-            "saves": "3/1[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "3/5[A]",
-            "yellowCards": "3/3[A]",
-            "goals": "2/2[A]",
-            "throwIns": "25/4[A]",
-            "averageBallPossession": "68/32[A]",
-            "teams": "Alanyaspor,Göztepe,Away",
-            "tackles": "12/15[A]",
-            "interceptions": "7/15[A]",
-            "aerialDuels": "11/18[A]",
-            "aerialDuelsAttempted": "29/29[A]",
-            "dribbles": "4/5[A]",
-            "dribblesAttempted": "11/9[A]",
-            "isHome": false
         }
     ],
     "attempts": 0,
     "currentIndex": 7,
-    "startTime": "2026-05-16T09:11:47.837Z",
-    "endTime": "2026-05-16T09:12:43.307Z",
-    "totalTimeSeconds": 55.47,
+    "startTime": "2026-09-19T12:19:23.779Z",
+    "endTime": "2026-09-19T12:19:46.279Z",
+    "totalTimeSeconds": 22.5,
     "combinedMatchStatistics": {
-        "corners": "1/7[H]+8/3[A]+12/5[H]+1/6[A]+2/5[H]+2/2[A]+3/3[H]+8/5[A]",
-        "fouls": "13/15[H]+15/10[A]+11/18[H]+15/11[A]+8/13[H]+20/16[A]+14/14[H]+7/19[A]",
-        "goalKicks": "10/8[H]+4/6[A]+2/11[H]+7/8[A]+11/8[H]+10/5[A]+8/6[H]+7/8[A]",
-        "saves": "8/5[H]+1/2[A]+3/3[H]+1/4[A]+2/1[H]+4/2[A]+1/1[H]+3/1[A]",
-        "offsides": "0/2[H]+0/2[A]+1/4[H]+1/0[A]+3/1[H]+2/3[A]+3/1[H]+2/3[A]",
-        "shotsOnTarget": "8/9[H]+2/1[A]+5/7[H]+4/2[A]+2/3[H]+3/5[A]+6/1[H]+3/5[A]",
-        "yellowCards": "2/2[H]+5/4[A]+2/3[H]+4/2[A]+3/1[H]+3/2[A]+0/3[H]+3/3[A]",
-        "goals": "3/1[H]+0/0[A]+2/3[H]+0/1[A]+1/1[H]+1/1[A]+5/0[H]+2/2[A]",
-        "throwIns": "18/19[H]+24/23[A]+20/12[H]+17/16[A]+12/20[H]+28/16[A]+17/20[H]+25/4[A]",
-        "averageBallPossession": "46/54[H]+44/56[A]+48/52[H]+55/45[A]+41/59[H]+42/58[A]+40/60[H]+68/32[A]",
-        "teams": "Alanyaspor,Kayserispor,Home+Alanyaspor,Antalyaspor,Away+Alanyaspor,Samsunspor,Home+Alanyaspor,Kasımpaşa,Away+Alanyaspor,Trabzonspor,Home+Alanyaspor,Gaziantep FK,Away+Alanyaspor,Kocaelispor,Home+Alanyaspor,Göztepe,Away",
-        "tackles": "9/12[H]+14/18[A]+11/23[H]+6/13[A]+9/7[H]+14/11[A]+11/7[H]+12/15[A]",
-        "interceptions": "3/7[H]+5/15[A]+3/6[H]+5/9[A]+6/5[H]+8/15[A]+10/12[H]+7/15[A]",
-        "aerialDuels": "5/16[H]+13/6[A]+17/10[H]+12/12[A]+10/14[H]+13/5[A]+11/12[H]+11/18[A]",
-        "aerialDuelsAttempted": "21/21[H]+19/19[A]+27/27[H]+24/24[A]+24/24[H]+18/18[A]+23/23[H]+29/29[A]",
-        "dribbles": "4/3[H]+6/5[A]+3/5[H]+7/6[A]+5/3[H]+8/9[A]+3/4[H]+4/5[A]",
-        "dribblesAttempted": "11/7[H]+17/15[A]+12/8[H]+14/7[A]+8/8[H]+13/13[A]+7/9[H]+11/9[A]",
-        "isHome": "true+false+true+false+true+false+true+false",
-        "cornersTotals": "37/36",
-        "cornersTotalsHome": "18/20",
-        "cornersTotalsAway": "19/16",
-        "cornersAverage": "4.63/4.50",
-        "cornersAverageHome": "4.50/5.00",
-        "cornersAverageAway": "4.75/4.00",
-        "foulsTotals": "103/116",
-        "foulsTotalsHome": "46/60",
-        "foulsTotalsAway": "57/56",
-        "foulsAverage": "12.88/14.50",
-        "foulsAverageHome": "11.50/15.00",
-        "foulsAverageAway": "14.25/14.00",
-        "goalKicksTotals": "59/60",
-        "goalKicksTotalsHome": "31/33",
-        "goalKicksTotalsAway": "28/27",
-        "goalKicksAverage": "7.38/7.50",
-        "goalKicksAverageHome": "7.75/8.25",
-        "goalKicksAverageAway": "7.00/6.75",
-        "savesTotals": "23/19",
-        "savesTotalsHome": "14/10",
-        "savesTotalsAway": "9/9",
-        "savesAverage": "2.88/2.38",
-        "savesAverageHome": "3.50/2.50",
-        "savesAverageAway": "2.25/2.25",
-        "offsidesTotals": "12/16",
-        "offsidesTotalsHome": "7/8",
-        "offsidesTotalsAway": "5/8",
-        "offsidesAverage": "1.50/2.00",
-        "offsidesAverageHome": "1.75/2.00",
-        "offsidesAverageAway": "1.25/2.00",
-        "shotsOnTargetTotals": "33/33",
-        "shotsOnTargetTotalsHome": "21/20",
-        "shotsOnTargetTotalsAway": "12/13",
-        "shotsOnTargetAverage": "4.13/4.13",
-        "shotsOnTargetAverageHome": "5.25/5.00",
-        "shotsOnTargetAverageAway": "3.00/3.25",
-        "yellowCardsTotals": "22/20",
-        "yellowCardsTotalsHome": "7/9",
-        "yellowCardsTotalsAway": "15/11",
-        "yellowCardsAverage": "2.75/2.50",
-        "yellowCardsAverageHome": "1.75/2.25",
-        "yellowCardsAverageAway": "3.75/2.75",
-        "goalsTotals": "14/9",
-        "goalsTotalsHome": "11/5",
-        "goalsTotalsAway": "3/4",
-        "goalsAverage": "1.75/1.13",
-        "goalsAverageHome": "2.75/1.25",
-        "goalsAverageAway": "0.75/1.00",
-        "throwInsTotals": "161/130",
-        "throwInsTotalsHome": "67/71",
-        "throwInsTotalsAway": "94/59",
-        "throwInsAverage": "20.13/16.25",
-        "throwInsAverageHome": "16.75/17.75",
-        "throwInsAverageAway": "23.50/14.75",
-        "averageBallPossessionTotals": "384/416",
-        "averageBallPossessionTotalsHome": "175/225",
-        "averageBallPossessionTotalsAway": "209/191",
-        "averageBallPossessionAverage": "48.00/52.00",
-        "averageBallPossessionAverageHome": "43.75/56.25",
-        "averageBallPossessionAverageAway": "52.25/47.75",
-        "tacklesTotals": "86/106",
-        "tacklesTotalsHome": "40/49",
-        "tacklesTotalsAway": "46/57",
-        "tacklesAverage": "10.75/13.25",
-        "tacklesAverageHome": "10.00/12.25",
-        "tacklesAverageAway": "11.50/14.25",
-        "interceptionsTotals": "47/84",
-        "interceptionsTotalsHome": "22/30",
-        "interceptionsTotalsAway": "25/54",
-        "interceptionsAverage": "5.88/10.50",
-        "interceptionsAverageHome": "5.50/7.50",
-        "interceptionsAverageAway": "6.25/13.50",
-        "aerialDuelsTotals": "92/93",
-        "aerialDuelsTotalsHome": "43/52",
-        "aerialDuelsTotalsAway": "49/41",
-        "aerialDuelsAverage": "11.50/11.63",
-        "aerialDuelsAverageHome": "10.75/13.00",
-        "aerialDuelsAverageAway": "12.25/10.25",
-        "aerialDuelsAttemptedTotals": "185/185",
-        "aerialDuelsAttemptedTotalsHome": "95/95",
-        "aerialDuelsAttemptedTotalsAway": "90/90",
-        "aerialDuelsAttemptedAverage": "23.13/23.13",
-        "aerialDuelsAttemptedAverageHome": "23.75/23.75",
-        "aerialDuelsAttemptedAverageAway": "22.50/22.50",
-        "dribblesTotals": "40/40",
-        "dribblesTotalsHome": "15/15",
-        "dribblesTotalsAway": "25/25",
-        "dribblesAverage": "5.00/5.00",
-        "dribblesAverageHome": "3.75/3.75",
-        "dribblesAverageAway": "6.25/6.25",
-        "dribblesAttemptedTotals": "93/76",
-        "dribblesAttemptedTotalsHome": "38/32",
-        "dribblesAttemptedTotalsAway": "55/44",
-        "dribblesAttemptedAverage": "11.63/9.50",
-        "dribblesAttemptedAverageHome": "9.50/8.00",
-        "dribblesAttemptedAverageAway": "13.75/11.00"
+        "corners": "9/3[H]+7/8[A]+2/1[A]+7/7[H]+4/0[A]+4/0[A]+1/7[H]+12/5[H]",
+        "fouls": "8/10[H]+15/8[A]+22/16[A]+14/14[H]+21/14[A]+13/12[A]+13/15[H]+11/18[H]",
+        "goalKicks": "11/13[H]+10/5[A]+9/5[A]+7/4[H]+10/7[A]+2/4[A]+10/8[H]+2/11[H]",
+        "saves": "2/2[H]+5/1[A]+2/1[A]+6/2[H]+4/1[A]+2/3[A]+8/5[H]+3/3[H]",
+        "offsides": "1/3[H]+2/1[A]+3/1[A]+2/3[H]+4/3[A]+2/2[A]+0/2[H]+1/4[H]",
+        "shotsOnTarget": "4/4[H]+2/5[A]+2/4[A]+3/6[H]+2/5[A]+4/4[A]+8/9[H]+5/7[H]",
+        "yellowCards": "2/1[H]+1/1[A]+1/3[A]+0/0[H]+3/3[A]+0/1[A]+2/2[H]+2/3[H]",
+        "goals": "2/2[H]+1/0[A]+1/2[A]+1/0[H]+1/1[A]+1/2[A]+3/1[H]+2/3[H]",
+        "throwIns": "22/12[H]+24/28[A]+13/18[A]+13/15[H]+17/20[A]+24/14[A]+18/19[H]+20/12[H]",
+        "averageBallPossession": "64/36[H]+35/65[A]+37/63[A]+35/65[H]+39/61[A]+56/44[A]+46/54[H]+48/52[H]",
+        "teams": "Alanyaspor,Göztepe,Home+Alanyaspor,Çaykur Rizespor,Away+Alanyaspor,Eyüpspor,Away+Alanyaspor,Beşiktaş JK,Home+Alanyaspor,Gaziantep FK,Away+Alanyaspor,Fatih Karagümrük,Away+Alanyaspor,Kayserispor,Home+Alanyaspor,Samsunspor,Home",
+        "tackles": "10/11[H]+17/15[A]+8/2[A]+13/9[H]+10/14[A]+7/14[A]+9/12[H]+11/23[H]",
+        "interceptions": "8/12[H]+10/5[A]+7/6[A]+6/14[H]+10/13[A]+14/6[A]+3/7[H]+3/6[H]",
+        "aerialDuels": "26/13[H]+16/9[A]+22/9[A]+10/11[H]+9/9[A]+7/7[A]+5/16[H]+17/10[H]",
+        "aerialDuelsAttempted": "39/39[H]+25/25[A]+31/31[A]+21/21[H]+18/18[A]+14/14[A]+21/21[H]+27/27[H]",
+        "dribbles": "1/4[H]+7/6[A]+2/12[A]+8/5[H]+5/3[A]+9/7[A]+4/3[H]+3/5[H]",
+        "dribblesAttempted": "10/11[H]+14/14[A]+3/16[A]+15/16[H]+10/7[A]+13/8[A]+11/7[H]+12/8[H]",
+        "isHome": "true+false+false+true+false+false+true+true",
+        "cornersTotals": "46/31",
+        "cornersTotalsHome": "29/22",
+        "cornersTotalsAway": "17/9",
+        "cornersAverage": "5.75/3.88",
+        "cornersAverageHome": "7.25/5.50",
+        "cornersAverageAway": "4.25/2.25",
+        "foulsTotals": "117/107",
+        "foulsTotalsHome": "46/57",
+        "foulsTotalsAway": "71/50",
+        "foulsAverage": "14.63/13.38",
+        "foulsAverageHome": "11.50/14.25",
+        "foulsAverageAway": "17.75/12.50",
+        "goalKicksTotals": "61/57",
+        "goalKicksTotalsHome": "30/36",
+        "goalKicksTotalsAway": "31/21",
+        "goalKicksAverage": "7.63/7.13",
+        "goalKicksAverageHome": "7.50/9.00",
+        "goalKicksAverageAway": "7.75/5.25",
+        "savesTotals": "32/18",
+        "savesTotalsHome": "19/12",
+        "savesTotalsAway": "13/6",
+        "savesAverage": "4.00/2.25",
+        "savesAverageHome": "4.75/3.00",
+        "savesAverageAway": "3.25/1.50",
+        "offsidesTotals": "15/19",
+        "offsidesTotalsHome": "4/12",
+        "offsidesTotalsAway": "11/7",
+        "offsidesAverage": "1.88/2.38",
+        "offsidesAverageHome": "1.00/3.00",
+        "offsidesAverageAway": "2.75/1.75",
+        "shotsOnTargetTotals": "30/44",
+        "shotsOnTargetTotalsHome": "20/26",
+        "shotsOnTargetTotalsAway": "10/18",
+        "shotsOnTargetAverage": "3.75/5.50",
+        "shotsOnTargetAverageHome": "5.00/6.50",
+        "shotsOnTargetAverageAway": "2.50/4.50",
+        "yellowCardsTotals": "11/14",
+        "yellowCardsTotalsHome": "6/6",
+        "yellowCardsTotalsAway": "5/8",
+        "yellowCardsAverage": "1.38/1.75",
+        "yellowCardsAverageHome": "1.50/1.50",
+        "yellowCardsAverageAway": "1.25/2.00",
+        "goalsTotals": "12/11",
+        "goalsTotalsHome": "8/6",
+        "goalsTotalsAway": "4/5",
+        "goalsAverage": "1.50/1.38",
+        "goalsAverageHome": "2.00/1.50",
+        "goalsAverageAway": "1.00/1.25",
+        "throwInsTotals": "151/138",
+        "throwInsTotalsHome": "73/58",
+        "throwInsTotalsAway": "78/80",
+        "throwInsAverage": "18.88/17.25",
+        "throwInsAverageHome": "18.25/14.50",
+        "throwInsAverageAway": "19.50/20.00",
+        "averageBallPossessionTotals": "360/440",
+        "averageBallPossessionTotalsHome": "193/207",
+        "averageBallPossessionTotalsAway": "167/233",
+        "averageBallPossessionAverage": "45.00/55.00",
+        "averageBallPossessionAverageHome": "48.25/51.75",
+        "averageBallPossessionAverageAway": "41.75/58.25",
+        "tacklesTotals": "85/100",
+        "tacklesTotalsHome": "43/55",
+        "tacklesTotalsAway": "42/45",
+        "tacklesAverage": "10.63/12.50",
+        "tacklesAverageHome": "10.75/13.75",
+        "tacklesAverageAway": "10.50/11.25",
+        "interceptionsTotals": "61/69",
+        "interceptionsTotalsHome": "20/39",
+        "interceptionsTotalsAway": "41/30",
+        "interceptionsAverage": "7.63/8.63",
+        "interceptionsAverageHome": "5.00/9.75",
+        "interceptionsAverageAway": "10.25/7.50",
+        "aerialDuelsTotals": "112/84",
+        "aerialDuelsTotalsHome": "58/50",
+        "aerialDuelsTotalsAway": "54/34",
+        "aerialDuelsAverage": "14.00/10.50",
+        "aerialDuelsAverageHome": "14.50/12.50",
+        "aerialDuelsAverageAway": "13.50/8.50",
+        "aerialDuelsAttemptedTotals": "196/196",
+        "aerialDuelsAttemptedTotalsHome": "108/108",
+        "aerialDuelsAttemptedTotalsAway": "88/88",
+        "aerialDuelsAttemptedAverage": "24.50/24.50",
+        "aerialDuelsAttemptedAverageHome": "27.00/27.00",
+        "aerialDuelsAttemptedAverageAway": "22.00/22.00",
+        "dribblesTotals": "39/45",
+        "dribblesTotalsHome": "16/17",
+        "dribblesTotalsAway": "23/28",
+        "dribblesAverage": "4.88/5.63",
+        "dribblesAverageHome": "4.00/4.25",
+        "dribblesAverageAway": "5.75/7.00",
+        "dribblesAttemptedTotals": "88/87",
+        "dribblesAttemptedTotalsHome": "48/42",
+        "dribblesAttemptedTotalsAway": "40/45",
+        "dribblesAttemptedAverage": "11.00/10.88",
+        "dribblesAttemptedAverageHome": "12.00/10.50",
+        "dribblesAttemptedAverageAway": "10.00/11.25"
     }
 }

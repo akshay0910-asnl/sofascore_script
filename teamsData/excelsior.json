@@ -1,27 +1,139 @@
 {
     "globalStatistics": {
-        "corners": "4.15",
-        "fouls": "12.21",
-        "goalKicks": "8.21",
-        "saves": "3.85",
-        "offsides": "1.03",
-        "shotsOnTarget": "4.24/5.55",
-        "yellowCards": "1.24/1.36",
-        "goals": "1.21/1.64",
-        "throwIns": "18.73",
-        "ballPossession": 47.666666666667,
-        "tackles": "14.21/15.09",
-        "interceptions": "9.06/7.33",
-        "aerialDuels": "16.67",
-        "aerialDuelsAttempted": "32.88",
-        "dribbles": "6.97/7.45",
-        "dribblesAttempted": "14.73/14.55"
+        "corners": "5.00",
+        "fouls": "12.00",
+        "goalKicks": "8.17",
+        "saves": "2.67",
+        "offsides": "0.50",
+        "shotsOnTarget": "5.17/3.83",
+        "yellowCards": "1.50/0.67",
+        "goals": "2.17/1.17",
+        "throwIns": "18.00",
+        "ballPossession": 44.5,
+        "tackles": "15.50/15.00",
+        "interceptions": "8.50/7.50",
+        "aerialDuels": "18.67",
+        "aerialDuelsAttempted": "34.83",
+        "dribbles": "5.50/10.83",
+        "dribblesAttempted": "11.67/19.33"
     },
     "teamSlug": "excelsior",
     "teamId": "2967",
     "teamName": "Excelsior",
     "tournament": "VriendenLoterij Eredivisie",
     "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-fc-utrecht/Yibsrjb#id:16316817,tab:statistics",
+            "teams": [
+                "Excelsior",
+                "FC Utrecht"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2967,
+                2948
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-nec-nijmegen/mjbsrjb#id:16929939,tab:statistics",
+            "teams": [
+                "NEC Nijmegen",
+                "Excelsior"
+            ],
+            "goals": [
+                2,
+                2
+            ],
+            "teamIds": [
+                2962,
+                2967
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-willem-ii-tilburg/ljbsrjb#id:16316801,tab:statistics",
+            "teams": [
+                "Willem II Tilburg",
+                "Excelsior"
+            ],
+            "goals": [
+                0,
+                3
+            ],
+            "teamIds": [
+                2961,
+                2967
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-sparta-rotterdam/kjbsrjb#id:16316765,tab:statistics",
+            "teams": [
+                "Excelsior",
+                "Sparta Rotterdam"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                2967,
+                2960
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-psv-eindhoven/cjbsrjb#id:16316790,tab:statistics",
+            "teams": [
+                "Excelsior",
+                "PSV Eindhoven"
+            ],
+            "goals": [
+                1,
+                2
+            ],
+            "teamIds": [
+                2967,
+                2952
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/sc-cambuur-excelsior/rjbsvjb#id:16316793,tab:statistics",
+            "teams": [
+                "SC Cambuur",
+                "Excelsior"
+            ],
+            "goals": [
+                0,
+                4
+            ],
+            "teamIds": [
+                2970,
+                2967
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/excelsior-sparta-rotterdam/kjbsrjb#id:14028557,tab:statistics",
+            "teams": [
+                "Sparta Rotterdam",
+                "Excelsior"
+            ],
+            "goals": [
+                2,
+                3
+            ],
+            "teamIds": [
+                2960,
+                2967
+            ],
+            "isHome": false
+        },
         {
             "href": "https://www.sofascore.com/football/match/fc-volendam-excelsior/rjbstjb#id:14028546,tab:statistics",
             "teams": [
@@ -37,123 +149,151 @@
                 2968
             ],
             "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/excelsior-fc-groningen/bjbsrjb#id:14028540,tab:statistics",
-            "teams": [
-                "FC Groningen",
-                "Excelsior"
-            ],
-            "goals": [
-                2,
-                3
-            ],
-            "teamIds": [
-                2951,
-                2967
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/excelsior-fc-utrecht/Yibsrjb#id:14028547,tab:statistics",
-            "teams": [
-                "Excelsior",
-                "FC Utrecht"
-            ],
-            "goals": [
-                5,
-                0
-            ],
-            "teamIds": [
-                2967,
-                2948
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/pec-zwolle-excelsior/rjbswjb#id:14053782,tab:statistics",
-            "teams": [
-                "PEC Zwolle",
-                "Excelsior"
-            ],
-            "goals": [
-                2,
-                2
-            ],
-            "teamIds": [
-                2971,
-                2967
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/excelsior-nec-nijmegen/mjbsrjb#id:14053754,tab:statistics",
-            "teams": [
-                "Excelsior",
-                "NEC Nijmegen"
-            ],
-            "goals": [
-                0,
-                2
-            ],
-            "teamIds": [
-                2967,
-                2962
-            ],
-            "isHome": true
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/heracles-almelo-excelsior/rjbsCjb#id:14053725,tab:statistics",
-            "teams": [
-                "Heracles Almelo",
-                "Excelsior"
-            ],
-            "goals": [
-                1,
-                1
-            ],
-            "teamIds": [
-                2977,
-                2967
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/excelsior-feyenoord/jjbsrjb#id:14053697,tab:statistics",
-            "teams": [
-                "Feyenoord",
-                "Excelsior"
-            ],
-            "goals": [
-                2,
-                1
-            ],
-            "teamIds": [
-                2959,
-                2967
-            ],
-            "isHome": false
-        },
-        {
-            "href": "https://www.sofascore.com/football/match/excelsior-sc-heerenveen/ojbsrjb#id:14053669,tab:statistics",
-            "teams": [
-                "Excelsior",
-                "SC Heerenveen"
-            ],
-            "goals": [
-                1,
-                2
-            ],
-            "teamIds": [
-                2967,
-                2964
-            ],
-            "isHome": true
         }
     ],
     "homeMatchCount": 4,
     "awayMatchCount": 4,
     "matchStatistics": [
+        {
+            "corners": "5/2[H]",
+            "fouls": "9/8[H]",
+            "goalKicks": "6/8[H]",
+            "saves": "4/3[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "4/6[H]",
+            "yellowCards": "2/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "18/20[H]",
+            "averageBallPossession": "56/44[H]",
+            "teams": "Excelsior,FC Utrecht,Home",
+            "tackles": "12/6[H]",
+            "interceptions": "11/3[H]",
+            "aerialDuels": "22/13[H]",
+            "aerialDuelsAttempted": "35/35[H]",
+            "dribbles": "2/10[H]",
+            "dribblesAttempted": "3/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/2[A]",
+            "fouls": "16/5[A]",
+            "goalKicks": "11/7[A]",
+            "saves": "1/3[A]",
+            "offsides": "0/3[A]",
+            "shotsOnTarget": "5/3[A]",
+            "yellowCards": "3/1[A]",
+            "goals": "2/2[A]",
+            "throwIns": "14/29[A]",
+            "averageBallPossession": "31/69[A]",
+            "teams": "Excelsior,NEC Nijmegen,Away",
+            "tackles": "27/21[A]",
+            "interceptions": "13/10[A]",
+            "aerialDuels": "16/12[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "7/10[A]",
+            "dribblesAttempted": "18/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/7[A]",
+            "fouls": "14/10[A]",
+            "goalKicks": "6/5[A]",
+            "saves": "2/3[A]",
+            "offsides": "0/1[A]",
+            "shotsOnTarget": "6/2[A]",
+            "yellowCards": "1/2[A]",
+            "goals": "3/0[A]",
+            "throwIns": "19/20[A]",
+            "averageBallPossession": "41/59[A]",
+            "teams": "Excelsior,Willem II Tilburg,Away",
+            "tackles": "9/11[A]",
+            "interceptions": "4/10[A]",
+            "aerialDuels": "26/21[A]",
+            "aerialDuelsAttempted": "47/47[A]",
+            "dribbles": "3/12[A]",
+            "dribblesAttempted": "12/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "6/4[H]",
+            "fouls": "13/7[H]",
+            "goalKicks": "8/7[H]",
+            "saves": "1/3[H]",
+            "offsides": "0/0[H]",
+            "shotsOnTarget": "5/2[H]",
+            "yellowCards": "2/1[H]",
+            "goals": "2/1[H]",
+            "throwIns": "18/9[H]",
+            "averageBallPossession": "45/55[H]",
+            "teams": "Excelsior,Sparta Rotterdam,Home",
+            "tackles": "10/13[H]",
+            "interceptions": "8/7[H]",
+            "aerialDuels": "18/25[H]",
+            "aerialDuelsAttempted": "43/43[H]",
+            "dribbles": "10/7[H]",
+            "dribblesAttempted": "15/13[H]",
+            "isHome": true
+        },
+        {
+            "corners": "1/7[H]",
+            "fouls": "9/3[H]",
+            "goalKicks": "9/5[H]",
+            "saves": "7/1[H]",
+            "offsides": "1/1[H]",
+            "shotsOnTarget": "2/8[H]",
+            "yellowCards": "1/0[H]",
+            "goals": "1/2[H]",
+            "throwIns": "24/29[H]",
+            "averageBallPossession": "41/59[H]",
+            "teams": "Excelsior,PSV Eindhoven,Home",
+            "tackles": "16/18[H]",
+            "interceptions": "6/8[H]",
+            "aerialDuels": "14/14[H]",
+            "aerialDuelsAttempted": "28/28[H]",
+            "dribbles": "2/8[H]",
+            "dribblesAttempted": "6/16[H]",
+            "isHome": true
+        },
+        {
+            "corners": "8/5[A]",
+            "fouls": "11/6[A]",
+            "goalKicks": "9/5[A]",
+            "saves": "1/5[A]",
+            "offsides": "1/1[A]",
+            "shotsOnTarget": "9/2[A]",
+            "yellowCards": "0/0[A]",
+            "goals": "4/0[A]",
+            "throwIns": "15/15[A]",
+            "averageBallPossession": "53/47[A]",
+            "teams": "Excelsior,SC Cambuur,Away",
+            "tackles": "19/21[A]",
+            "interceptions": "9/7[A]",
+            "aerialDuels": "16/12[A]",
+            "aerialDuelsAttempted": "28/28[A]",
+            "dribbles": "9/18[A]",
+            "dribblesAttempted": "16/28[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[A]",
+            "fouls": "15/11[A]",
+            "goalKicks": "9/14[A]",
+            "saves": "3/1[A]",
+            "offsides": "1/2[A]",
+            "shotsOnTarget": "4/5[A]",
+            "yellowCards": "0/4[A]",
+            "goals": "3/2[A]",
+            "throwIns": "19/13[A]",
+            "averageBallPossession": "47/53[A]",
+            "teams": "Excelsior,Sparta Rotterdam,Away",
+            "tackles": "10/12[A]",
+            "interceptions": "3/16[A]",
+            "aerialDuels": "21/23[A]",
+            "aerialDuelsAttempted": "44/44[A]",
+            "dribbles": "6/7[A]",
+            "dribblesAttempted": "10/11[A]",
+            "isHome": false
+        },
         {
             "corners": "5/0[H]",
             "fouls": "10/7[H]",
@@ -173,267 +313,127 @@
             "dribbles": "6/6[H]",
             "dribblesAttempted": "14/7[H]",
             "isHome": true
-        },
-        {
-            "corners": "8/5[A]",
-            "fouls": "10/5[A]",
-            "goalKicks": "7/4[A]",
-            "saves": "3/5[A]",
-            "offsides": "2/2[A]",
-            "shotsOnTarget": "9/5[A]",
-            "yellowCards": "0/0[A]",
-            "goals": "3/2[A]",
-            "throwIns": "16/26[A]",
-            "averageBallPossession": "44/56[A]",
-            "teams": "Excelsior,FC Groningen,Away",
-            "tackles": "9/16[A]",
-            "interceptions": "10/9[A]",
-            "aerialDuels": "18/13[A]",
-            "aerialDuelsAttempted": "31/31[A]",
-            "dribbles": "5/4[A]",
-            "dribblesAttempted": "15/6[A]",
-            "isHome": false
-        },
-        {
-            "corners": "3/2[H]",
-            "fouls": "12/8[H]",
-            "goalKicks": "5/8[H]",
-            "saves": "3/4[H]",
-            "offsides": "3/1[H]",
-            "shotsOnTarget": "9/3[H]",
-            "yellowCards": "0/3[H]",
-            "goals": "5/0[H]",
-            "throwIns": "17/20[H]",
-            "averageBallPossession": "60/40[H]",
-            "teams": "Excelsior,FC Utrecht,Home",
-            "tackles": "14/17[H]",
-            "interceptions": "12/11[H]",
-            "aerialDuels": "8/16[H]",
-            "aerialDuelsAttempted": "24/24[H]",
-            "dribbles": "6/8[H]",
-            "dribblesAttempted": "15/16[H]",
-            "isHome": true
-        },
-        {
-            "corners": "2/5[A]",
-            "fouls": "13/10[A]",
-            "goalKicks": "6/11[A]",
-            "saves": "3/1[A]",
-            "offsides": "1/3[A]",
-            "shotsOnTarget": "3/5[A]",
-            "yellowCards": "1/0[A]",
-            "goals": "2/2[A]",
-            "throwIns": "21/18[A]",
-            "averageBallPossession": "51/49[A]",
-            "teams": "Excelsior,PEC Zwolle,Away",
-            "tackles": "15/15[A]",
-            "interceptions": "5/5[A]",
-            "aerialDuels": "27/20[A]",
-            "aerialDuelsAttempted": "47/47[A]",
-            "dribbles": "12/6[A]",
-            "dribblesAttempted": "22/12[A]",
-            "isHome": false
-        },
-        {
-            "corners": "2/5[H]",
-            "fouls": "8/9[H]",
-            "goalKicks": "10/5[H]",
-            "saves": "3/4[H]",
-            "offsides": "2/2[H]",
-            "shotsOnTarget": "4/5[H]",
-            "yellowCards": "0/0[H]",
-            "goals": "0/2[H]",
-            "throwIns": "18/26[H]",
-            "averageBallPossession": "45/55[H]",
-            "teams": "Excelsior,NEC Nijmegen,Home",
-            "tackles": "16/9[H]",
-            "interceptions": "9/7[H]",
-            "aerialDuels": "16/16[H]",
-            "aerialDuelsAttempted": "32/32[H]",
-            "dribbles": "4/10[H]",
-            "dribblesAttempted": "9/15[H]",
-            "isHome": true
-        },
-        {
-            "corners": "1/6[A]",
-            "fouls": "15/17[A]",
-            "goalKicks": "12/8[A]",
-            "saves": "3/3[A]",
-            "offsides": "2/3[A]",
-            "shotsOnTarget": "4/4[A]",
-            "yellowCards": "1/2[A]",
-            "goals": "1/1[A]",
-            "throwIns": "24/22[A]",
-            "averageBallPossession": "50/50[A]",
-            "teams": "Excelsior,Heracles Almelo,Away",
-            "tackles": "14/15[A]",
-            "interceptions": "11/5[A]",
-            "aerialDuels": "18/21[A]",
-            "aerialDuelsAttempted": "39/39[A]",
-            "dribbles": "5/2[A]",
-            "dribblesAttempted": "13/10[A]",
-            "isHome": false
-        },
-        {
-            "corners": "5/9[A]",
-            "fouls": "12/10[A]",
-            "goalKicks": "3/8[A]",
-            "saves": "7/2[A]",
-            "offsides": "0/3[A]",
-            "shotsOnTarget": "3/9[A]",
-            "yellowCards": "1/3[A]",
-            "goals": "1/2[A]",
-            "throwIns": "26/16[A]",
-            "averageBallPossession": "51/49[A]",
-            "teams": "Excelsior,Feyenoord,Away",
-            "tackles": "22/19[A]",
-            "interceptions": "8/8[A]",
-            "aerialDuels": "12/20[A]",
-            "aerialDuelsAttempted": "32/32[A]",
-            "dribbles": "8/10[A]",
-            "dribblesAttempted": "17/26[A]",
-            "isHome": false
-        },
-        {
-            "corners": "6/8[H]",
-            "fouls": "4/7[H]",
-            "goalKicks": "11/9[H]",
-            "saves": "3/4[H]",
-            "offsides": "1/1[H]",
-            "shotsOnTarget": "5/5[H]",
-            "yellowCards": "1/1[H]",
-            "goals": "1/2[H]",
-            "throwIns": "30/16[H]",
-            "averageBallPossession": "51/49[H]",
-            "teams": "Excelsior,SC Heerenveen,Home",
-            "tackles": "18/14[H]",
-            "interceptions": "7/11[H]",
-            "aerialDuels": "29/20[H]",
-            "aerialDuelsAttempted": "49/49[H]",
-            "dribbles": "8/3[H]",
-            "dribblesAttempted": "15/11[H]",
-            "isHome": true
         }
     ],
     "attempts": 0,
     "currentIndex": 6,
-    "startTime": "2026-05-16T13:24:30.351Z",
-    "endTime": "2026-05-16T13:25:09.327Z",
-    "totalTimeSeconds": 38.98,
+    "startTime": "2026-09-19T12:18:02.900Z",
+    "endTime": "2026-09-19T12:18:21.811Z",
+    "totalTimeSeconds": 18.91,
     "combinedMatchStatistics": {
-        "corners": "5/0[H]+8/5[A]+3/2[H]+2/5[A]+2/5[H]+1/6[A]+5/9[A]+6/8[H]",
-        "fouls": "10/7[H]+10/5[A]+12/8[H]+13/10[A]+8/9[H]+15/17[A]+12/10[A]+4/7[H]",
-        "goalKicks": "5/13[H]+7/4[A]+5/8[H]+6/11[A]+10/5[H]+12/8[A]+3/8[A]+11/9[H]",
-        "saves": "1/2[H]+3/5[A]+3/4[H]+3/1[A]+3/4[H]+3/3[A]+7/2[A]+3/4[H]",
-        "offsides": "0/1[H]+2/2[A]+3/1[H]+1/3[A]+2/2[H]+2/3[A]+0/3[A]+1/1[H]",
-        "shotsOnTarget": "2/2[H]+9/5[A]+9/3[H]+3/5[A]+4/5[H]+4/4[A]+3/9[A]+5/5[H]",
-        "yellowCards": "1/3[H]+0/0[A]+0/3[H]+1/0[A]+0/0[H]+1/2[A]+1/3[A]+1/1[H]",
-        "goals": "1/1[H]+3/2[A]+5/0[H]+2/2[A]+0/2[H]+1/1[A]+1/2[A]+1/2[H]",
-        "throwIns": "22/19[H]+16/26[A]+17/20[H]+21/18[A]+18/26[H]+24/22[A]+26/16[A]+30/16[H]",
-        "averageBallPossession": "68/32[H]+44/56[A]+60/40[H]+51/49[A]+45/55[H]+50/50[A]+51/49[A]+51/49[H]",
-        "teams": "Excelsior,FC Volendam,Home+Excelsior,FC Groningen,Away+Excelsior,FC Utrecht,Home+Excelsior,PEC Zwolle,Away+Excelsior,NEC Nijmegen,Home+Excelsior,Heracles Almelo,Away+Excelsior,Feyenoord,Away+Excelsior,SC Heerenveen,Home",
-        "tackles": "12/15[H]+9/16[A]+14/17[H]+15/15[A]+16/9[H]+14/15[A]+22/19[A]+18/14[H]",
-        "interceptions": "5/8[H]+10/9[A]+12/11[H]+5/5[A]+9/7[H]+11/5[A]+8/8[A]+7/11[H]",
-        "aerialDuels": "24/22[H]+18/13[A]+8/16[H]+27/20[A]+16/16[H]+18/21[A]+12/20[A]+29/20[H]",
-        "aerialDuelsAttempted": "46/46[H]+31/31[A]+24/24[H]+47/47[A]+32/32[H]+39/39[A]+32/32[A]+49/49[H]",
-        "dribbles": "6/6[H]+5/4[A]+6/8[H]+12/6[A]+4/10[H]+5/2[A]+8/10[A]+8/3[H]",
-        "dribblesAttempted": "14/7[H]+15/6[A]+15/16[H]+22/12[A]+9/15[H]+13/10[A]+17/26[A]+15/11[H]",
-        "isHome": "true+false+true+false+true+false+false+true",
-        "cornersTotals": "32/40",
-        "cornersTotalsHome": "16/15",
-        "cornersTotalsAway": "16/25",
-        "cornersAverage": "4.00/5.00",
-        "cornersAverageHome": "4.00/3.75",
-        "cornersAverageAway": "4.00/6.25",
-        "foulsTotals": "84/73",
-        "foulsTotalsHome": "34/31",
-        "foulsTotalsAway": "50/42",
-        "foulsAverage": "10.50/9.13",
-        "foulsAverageHome": "8.50/7.75",
-        "foulsAverageAway": "12.50/10.50",
-        "goalKicksTotals": "59/66",
-        "goalKicksTotalsHome": "31/35",
-        "goalKicksTotalsAway": "28/31",
-        "goalKicksAverage": "7.38/8.25",
-        "goalKicksAverageHome": "7.75/8.75",
-        "goalKicksAverageAway": "7.00/7.75",
-        "savesTotals": "26/25",
-        "savesTotalsHome": "10/14",
-        "savesTotalsAway": "16/11",
-        "savesAverage": "3.25/3.13",
-        "savesAverageHome": "2.50/3.50",
-        "savesAverageAway": "4.00/2.75",
-        "offsidesTotals": "11/16",
-        "offsidesTotalsHome": "6/5",
-        "offsidesTotalsAway": "5/11",
-        "offsidesAverage": "1.38/2.00",
-        "offsidesAverageHome": "1.50/1.25",
-        "offsidesAverageAway": "1.25/2.75",
-        "shotsOnTargetTotals": "39/38",
-        "shotsOnTargetTotalsHome": "20/15",
-        "shotsOnTargetTotalsAway": "19/23",
-        "shotsOnTargetAverage": "4.88/4.75",
-        "shotsOnTargetAverageHome": "5.00/3.75",
-        "shotsOnTargetAverageAway": "4.75/5.75",
-        "yellowCardsTotals": "5/12",
-        "yellowCardsTotalsHome": "2/7",
-        "yellowCardsTotalsAway": "3/5",
-        "yellowCardsAverage": "0.63/1.50",
-        "yellowCardsAverageHome": "0.50/1.75",
-        "yellowCardsAverageAway": "0.75/1.25",
-        "goalsTotals": "14/12",
-        "goalsTotalsHome": "7/5",
-        "goalsTotalsAway": "7/7",
-        "goalsAverage": "1.75/1.50",
-        "goalsAverageHome": "1.75/1.25",
-        "goalsAverageAway": "1.75/1.75",
-        "throwInsTotals": "174/163",
-        "throwInsTotalsHome": "87/81",
-        "throwInsTotalsAway": "87/82",
-        "throwInsAverage": "21.75/20.38",
-        "throwInsAverageHome": "21.75/20.25",
-        "throwInsAverageAway": "21.75/20.50",
-        "averageBallPossessionTotals": "420/380",
-        "averageBallPossessionTotalsHome": "224/176",
-        "averageBallPossessionTotalsAway": "196/204",
-        "averageBallPossessionAverage": "52.50/47.50",
-        "averageBallPossessionAverageHome": "56.00/44.00",
-        "averageBallPossessionAverageAway": "49.00/51.00",
-        "tacklesTotals": "120/120",
-        "tacklesTotalsHome": "60/55",
-        "tacklesTotalsAway": "60/65",
-        "tacklesAverage": "15.00/15.00",
-        "tacklesAverageHome": "15.00/13.75",
-        "tacklesAverageAway": "15.00/16.25",
-        "interceptionsTotals": "67/64",
-        "interceptionsTotalsHome": "33/37",
-        "interceptionsTotalsAway": "34/27",
-        "interceptionsAverage": "8.38/8.00",
-        "interceptionsAverageHome": "8.25/9.25",
-        "interceptionsAverageAway": "8.50/6.75",
-        "aerialDuelsTotals": "152/148",
-        "aerialDuelsTotalsHome": "77/74",
-        "aerialDuelsTotalsAway": "75/74",
-        "aerialDuelsAverage": "19.00/18.50",
-        "aerialDuelsAverageHome": "19.25/18.50",
-        "aerialDuelsAverageAway": "18.75/18.50",
-        "aerialDuelsAttemptedTotals": "300/300",
-        "aerialDuelsAttemptedTotalsHome": "151/151",
-        "aerialDuelsAttemptedTotalsAway": "149/149",
-        "aerialDuelsAttemptedAverage": "37.50/37.50",
-        "aerialDuelsAttemptedAverageHome": "37.75/37.75",
-        "aerialDuelsAttemptedAverageAway": "37.25/37.25",
-        "dribblesTotals": "54/49",
-        "dribblesTotalsHome": "24/27",
-        "dribblesTotalsAway": "30/22",
-        "dribblesAverage": "6.75/6.13",
-        "dribblesAverageHome": "6.00/6.75",
-        "dribblesAverageAway": "7.50/5.50",
-        "dribblesAttemptedTotals": "120/103",
-        "dribblesAttemptedTotalsHome": "53/49",
-        "dribblesAttemptedTotalsAway": "67/54",
-        "dribblesAttemptedAverage": "15.00/12.88",
-        "dribblesAttemptedAverageHome": "13.25/12.25",
-        "dribblesAttemptedAverageAway": "16.75/13.50"
+        "corners": "5/2[H]+4/2[A]+6/7[A]+6/4[H]+1/7[H]+8/5[A]+2/5[A]+5/0[H]",
+        "fouls": "9/8[H]+16/5[A]+14/10[A]+13/7[H]+9/3[H]+11/6[A]+15/11[A]+10/7[H]",
+        "goalKicks": "6/8[H]+11/7[A]+6/5[A]+8/7[H]+9/5[H]+9/5[A]+9/14[A]+5/13[H]",
+        "saves": "4/3[H]+1/3[A]+2/3[A]+1/3[H]+7/1[H]+1/5[A]+3/1[A]+1/2[H]",
+        "offsides": "1/2[H]+0/3[A]+0/1[A]+0/0[H]+1/1[H]+1/1[A]+1/2[A]+0/1[H]",
+        "shotsOnTarget": "4/6[H]+5/3[A]+6/2[A]+5/2[H]+2/8[H]+9/2[A]+4/5[A]+2/2[H]",
+        "yellowCards": "2/0[H]+3/1[A]+1/2[A]+2/1[H]+1/0[H]+0/0[A]+0/4[A]+1/3[H]",
+        "goals": "1/2[H]+2/2[A]+3/0[A]+2/1[H]+1/2[H]+4/0[A]+3/2[A]+1/1[H]",
+        "throwIns": "18/20[H]+14/29[A]+19/20[A]+18/9[H]+24/29[H]+15/15[A]+19/13[A]+22/19[H]",
+        "averageBallPossession": "56/44[H]+31/69[A]+41/59[A]+45/55[H]+41/59[H]+53/47[A]+47/53[A]+68/32[H]",
+        "teams": "Excelsior,FC Utrecht,Home+Excelsior,NEC Nijmegen,Away+Excelsior,Willem II Tilburg,Away+Excelsior,Sparta Rotterdam,Home+Excelsior,PSV Eindhoven,Home+Excelsior,SC Cambuur,Away+Excelsior,Sparta Rotterdam,Away+Excelsior,FC Volendam,Home",
+        "tackles": "12/6[H]+27/21[A]+9/11[A]+10/13[H]+16/18[H]+19/21[A]+10/12[A]+12/15[H]",
+        "interceptions": "11/3[H]+13/10[A]+4/10[A]+8/7[H]+6/8[H]+9/7[A]+3/16[A]+5/8[H]",
+        "aerialDuels": "22/13[H]+16/12[A]+26/21[A]+18/25[H]+14/14[H]+16/12[A]+21/23[A]+24/22[H]",
+        "aerialDuelsAttempted": "35/35[H]+28/28[A]+47/47[A]+43/43[H]+28/28[H]+28/28[A]+44/44[A]+46/46[H]",
+        "dribbles": "2/10[H]+7/10[A]+3/12[A]+10/7[H]+2/8[H]+9/18[A]+6/7[A]+6/6[H]",
+        "dribblesAttempted": "3/19[H]+18/22[A]+12/18[A]+15/13[H]+6/16[H]+16/28[A]+10/11[A]+14/7[H]",
+        "isHome": "true+false+false+true+true+false+false+true",
+        "cornersTotals": "37/32",
+        "cornersTotalsHome": "17/13",
+        "cornersTotalsAway": "20/19",
+        "cornersAverage": "4.63/4.00",
+        "cornersAverageHome": "4.25/3.25",
+        "cornersAverageAway": "5.00/4.75",
+        "foulsTotals": "97/57",
+        "foulsTotalsHome": "41/25",
+        "foulsTotalsAway": "56/32",
+        "foulsAverage": "12.13/7.13",
+        "foulsAverageHome": "10.25/6.25",
+        "foulsAverageAway": "14.00/8.00",
+        "goalKicksTotals": "63/64",
+        "goalKicksTotalsHome": "28/33",
+        "goalKicksTotalsAway": "35/31",
+        "goalKicksAverage": "7.88/8.00",
+        "goalKicksAverageHome": "7.00/8.25",
+        "goalKicksAverageAway": "8.75/7.75",
+        "savesTotals": "20/21",
+        "savesTotalsHome": "13/9",
+        "savesTotalsAway": "7/12",
+        "savesAverage": "2.50/2.63",
+        "savesAverageHome": "3.25/2.25",
+        "savesAverageAway": "1.75/3.00",
+        "offsidesTotals": "4/11",
+        "offsidesTotalsHome": "2/4",
+        "offsidesTotalsAway": "2/7",
+        "offsidesAverage": "0.50/1.38",
+        "offsidesAverageHome": "0.50/1.00",
+        "offsidesAverageAway": "0.50/1.75",
+        "shotsOnTargetTotals": "37/30",
+        "shotsOnTargetTotalsHome": "13/18",
+        "shotsOnTargetTotalsAway": "24/12",
+        "shotsOnTargetAverage": "4.63/3.75",
+        "shotsOnTargetAverageHome": "3.25/4.50",
+        "shotsOnTargetAverageAway": "6.00/3.00",
+        "yellowCardsTotals": "10/11",
+        "yellowCardsTotalsHome": "6/4",
+        "yellowCardsTotalsAway": "4/7",
+        "yellowCardsAverage": "1.25/1.38",
+        "yellowCardsAverageHome": "1.50/1.00",
+        "yellowCardsAverageAway": "1.00/1.75",
+        "goalsTotals": "17/10",
+        "goalsTotalsHome": "5/6",
+        "goalsTotalsAway": "12/4",
+        "goalsAverage": "2.13/1.25",
+        "goalsAverageHome": "1.25/1.50",
+        "goalsAverageAway": "3.00/1.00",
+        "throwInsTotals": "149/154",
+        "throwInsTotalsHome": "82/77",
+        "throwInsTotalsAway": "67/77",
+        "throwInsAverage": "18.63/19.25",
+        "throwInsAverageHome": "20.50/19.25",
+        "throwInsAverageAway": "16.75/19.25",
+        "averageBallPossessionTotals": "382/418",
+        "averageBallPossessionTotalsHome": "210/190",
+        "averageBallPossessionTotalsAway": "172/228",
+        "averageBallPossessionAverage": "47.75/52.25",
+        "averageBallPossessionAverageHome": "52.50/47.50",
+        "averageBallPossessionAverageAway": "43.00/57.00",
+        "tacklesTotals": "115/117",
+        "tacklesTotalsHome": "50/52",
+        "tacklesTotalsAway": "65/65",
+        "tacklesAverage": "14.38/14.63",
+        "tacklesAverageHome": "12.50/13.00",
+        "tacklesAverageAway": "16.25/16.25",
+        "interceptionsTotals": "59/69",
+        "interceptionsTotalsHome": "30/26",
+        "interceptionsTotalsAway": "29/43",
+        "interceptionsAverage": "7.38/8.63",
+        "interceptionsAverageHome": "7.50/6.50",
+        "interceptionsAverageAway": "7.25/10.75",
+        "aerialDuelsTotals": "157/142",
+        "aerialDuelsTotalsHome": "78/74",
+        "aerialDuelsTotalsAway": "79/68",
+        "aerialDuelsAverage": "19.63/17.75",
+        "aerialDuelsAverageHome": "19.50/18.50",
+        "aerialDuelsAverageAway": "19.75/17.00",
+        "aerialDuelsAttemptedTotals": "299/299",
+        "aerialDuelsAttemptedTotalsHome": "152/152",
+        "aerialDuelsAttemptedTotalsAway": "147/147",
+        "aerialDuelsAttemptedAverage": "37.38/37.38",
+        "aerialDuelsAttemptedAverageHome": "38.00/38.00",
+        "aerialDuelsAttemptedAverageAway": "36.75/36.75",
+        "dribblesTotals": "45/78",
+        "dribblesTotalsHome": "20/31",
+        "dribblesTotalsAway": "25/47",
+        "dribblesAverage": "5.63/9.75",
+        "dribblesAverageHome": "5.00/7.75",
+        "dribblesAverageAway": "6.25/11.75",
+        "dribblesAttemptedTotals": "94/134",
+        "dribblesAttemptedTotalsHome": "38/55",
+        "dribblesAttemptedTotalsAway": "56/79",
+        "dribblesAttemptedAverage": "11.75/16.75",
+        "dribblesAttemptedAverageHome": "9.50/13.75",
+        "dribblesAttemptedAverageAway": "14.00/19.75"
     }
 }

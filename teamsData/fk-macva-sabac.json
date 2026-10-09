@@ -1,0 +1,439 @@
+{
+    "globalStatistics": {
+        "corners": "2.22",
+        "fouls": "16.56",
+        "goalKicks": "13.78",
+        "saves": "4.33",
+        "offsides": "1.78",
+        "shotsOnTarget": "1.89/6.33",
+        "yellowCards": "3.11/2.56",
+        "goals": "0.56/1.67",
+        "throwIns": "20.33",
+        "ballPossession": 38,
+        "tackles": "14.89/15.00",
+        "interceptions": "9.56/7.11",
+        "aerialDuels": "14.56",
+        "aerialDuelsAttempted": "33.44",
+        "dribbles": "7.67/8.11",
+        "dribblesAttempted": "14.33/16.67"
+    },
+    "teamSlug": "fk-macva-sabac",
+    "teamId": "56019",
+    "teamName": "FK Mačva Šabac",
+    "tournament": "Mozzart Bet Superliga",
+    "matchLinks": [
+        {
+            "href": "https://www.sofascore.com/football/match/fk-zeleznicar-pancevo-fk-macva-sabac/uvxsdUmc#id:16326454,tab:statistics",
+            "teams": [
+                "FK Železničar Pančevo",
+                "FK Mačva Šabac"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                282203,
+                56019
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-macva-sabac-fk-radnicki-1923/GErsuvx#id:16326451,tab:statistics",
+            "teams": [
+                "FK Mačva Šabac",
+                "FK Radnički 1923"
+            ],
+            "goals": [
+                0,
+                0
+            ],
+            "teamIds": [
+                56019,
+                43981
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-macva-sabac-fk-novi-pazar/Loksuvx#id:16326441,tab:statistics",
+            "teams": [
+                "FK Novi Pazar",
+                "FK Mačva Šabac"
+            ],
+            "goals": [
+                1,
+                1
+            ],
+            "teamIds": [
+                25736,
+                56019
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-macva-sabac-fk-radnicki-nis/Moksuvx#id:16326436,tab:statistics",
+            "teams": [
+                "FK Mačva Šabac",
+                "FK Radnički Niš"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                56019,
+                25737
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-radnik-surdulica-fk-macva-sabac/uvxsCxU#id:16326426,tab:statistics",
+            "teams": [
+                "FK Radnik Surdulica",
+                "FK Mačva Šabac"
+            ],
+            "goals": [
+                2,
+                1
+            ],
+            "teamIds": [
+                111127,
+                56019
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-imt-beograd-fk-macva-sabac/uvxsBnyc#id:16326419,tab:statistics",
+            "teams": [
+                "FK Mačva Šabac",
+                "FK IMT Beograd"
+            ],
+            "goals": [
+                1,
+                0
+            ],
+            "teamIds": [
+                56019,
+                308176
+            ],
+            "isHome": true
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-macva-sabac-fk-vojvodina/adcsuvx#id:16326414,tab:statistics",
+            "teams": [
+                "FK Vojvodina",
+                "FK Mačva Šabac"
+            ],
+            "goals": [
+                2,
+                0
+            ],
+            "teamIds": [
+                5150,
+                56019
+            ],
+            "isHome": false
+        },
+        {
+            "href": "https://www.sofascore.com/football/match/fk-macva-sabac-fk-partizan/cdcsuvx#id:16326397,tab:statistics",
+            "teams": [
+                "FK Mačva Šabac",
+                "FK Partizan"
+            ],
+            "goals": [
+                1,
+                3
+            ],
+            "teamIds": [
+                56019,
+                5152
+            ],
+            "isHome": true
+        }
+    ],
+    "homeMatchCount": 4,
+    "awayMatchCount": 4,
+    "matchStatistics": [
+        {
+            "corners": "0/9[A]",
+            "fouls": "21/14[A]",
+            "goalKicks": "18/1[A]",
+            "saves": "9/1[A]",
+            "offsides": "3/0[A]",
+            "shotsOnTarget": "1/13[A]",
+            "yellowCards": "3/2[A]",
+            "goals": "0/2[A]",
+            "throwIns": "22/13[A]",
+            "averageBallPossession": "34/66[A]",
+            "teams": "FK Mačva Šabac,FK Železničar Pančevo,Away",
+            "tackles": "13/10[A]",
+            "interceptions": "3/9[A]",
+            "aerialDuels": "8/15[A]",
+            "aerialDuelsAttempted": "23/23[A]",
+            "dribbles": "3/9[A]",
+            "dribblesAttempted": "7/16[A]",
+            "isHome": false
+        },
+        {
+            "corners": "3/6[H]",
+            "fouls": "21/22[H]",
+            "goalKicks": "11/6[H]",
+            "saves": "4/2[H]",
+            "offsides": "1/2[H]",
+            "shotsOnTarget": "2/5[H]",
+            "yellowCards": "4/3[H]",
+            "goals": "0/0[H]",
+            "throwIns": "29/16[H]",
+            "averageBallPossession": "42/58[H]",
+            "teams": "FK Mačva Šabac,FK Radnički 1923,Home",
+            "tackles": "18/20[H]",
+            "interceptions": "11/6[H]",
+            "aerialDuels": "15/15[H]",
+            "aerialDuelsAttempted": "30/30[H]",
+            "dribbles": "9/7[H]",
+            "dribblesAttempted": "18/19[H]",
+            "isHome": true
+        },
+        {
+            "corners": "2/8[A]",
+            "fouls": "11/9[A]",
+            "goalKicks": "21/14[A]",
+            "saves": "5/1[A]",
+            "offsides": "2/1[A]",
+            "shotsOnTarget": "1/6[A]",
+            "yellowCards": "2/2[A]",
+            "goals": "1/1[A]",
+            "throwIns": "20/23[A]",
+            "averageBallPossession": "35/65[A]",
+            "teams": "FK Mačva Šabac,FK Novi Pazar,Away",
+            "tackles": "15/14[A]",
+            "interceptions": "15/2[A]",
+            "aerialDuels": "11/18[A]",
+            "aerialDuelsAttempted": "29/29[A]",
+            "dribbles": "9/11[A]",
+            "dribblesAttempted": "14/20[A]",
+            "isHome": false
+        },
+        {
+            "corners": "5/5[H]",
+            "fouls": "12/18[H]",
+            "goalKicks": "10/7[H]",
+            "saves": "3/3[H]",
+            "offsides": "2/0[H]",
+            "shotsOnTarget": "4/3[H]",
+            "yellowCards": "4/5[H]",
+            "goals": "1/0[H]",
+            "throwIns": "22/37[H]",
+            "averageBallPossession": "43/57[H]",
+            "teams": "FK Mačva Šabac,FK Radnički Niš,Home",
+            "tackles": "22/17[H]",
+            "interceptions": "14/10[H]",
+            "aerialDuels": "14/23[H]",
+            "aerialDuelsAttempted": "37/37[H]",
+            "dribbles": "11/10[H]",
+            "dribblesAttempted": "20/23[H]",
+            "isHome": true
+        },
+        {
+            "corners": "0/6[A]",
+            "fouls": "17/19[A]",
+            "goalKicks": "14/8[A]",
+            "saves": "2/1[A]",
+            "offsides": "2/3[A]",
+            "shotsOnTarget": "2/4[A]",
+            "yellowCards": "1/1[A]",
+            "goals": "1/2[A]",
+            "throwIns": "24/32[A]",
+            "averageBallPossession": "48/52[A]",
+            "teams": "FK Mačva Šabac,FK Radnik Surdulica,Away",
+            "tackles": "15/17[A]",
+            "interceptions": "14/12[A]",
+            "aerialDuels": "19/23[A]",
+            "aerialDuelsAttempted": "42/42[A]",
+            "dribbles": "5/9[A]",
+            "dribblesAttempted": "12/18[A]",
+            "isHome": false
+        },
+        {
+            "corners": "2/5[H]",
+            "fouls": "22/14[H]",
+            "goalKicks": "14/4[H]",
+            "saves": "6/1[H]",
+            "offsides": "3/0[H]",
+            "shotsOnTarget": "2/7[H]",
+            "yellowCards": "3/0[H]",
+            "goals": "1/0[H]",
+            "throwIns": "20/24[H]",
+            "averageBallPossession": "40/60[H]",
+            "teams": "FK Mačva Šabac,FK IMT Beograd,Home",
+            "tackles": "9/13[H]",
+            "interceptions": "11/5[H]",
+            "aerialDuels": "26/31[H]",
+            "aerialDuelsAttempted": "57/57[H]",
+            "dribbles": "9/4[H]",
+            "dribblesAttempted": "15/9[H]",
+            "isHome": true
+        },
+        {
+            "corners": "4/4[A]",
+            "fouls": "14/16[A]",
+            "goalKicks": "11/6[A]",
+            "saves": "2/3[A]",
+            "offsides": "1/0[A]",
+            "shotsOnTarget": "3/4[A]",
+            "yellowCards": "4/5[A]",
+            "goals": "0/2[A]",
+            "throwIns": "18/22[A]",
+            "averageBallPossession": "33/67[A]",
+            "teams": "FK Mačva Šabac,FK Vojvodina,Away",
+            "tackles": "17/14[A]",
+            "interceptions": "9/4[A]",
+            "aerialDuels": "18/15[A]",
+            "aerialDuelsAttempted": "33/33[A]",
+            "dribbles": "7/11[A]",
+            "dribblesAttempted": "13/22[A]",
+            "isHome": false
+        },
+        {
+            "corners": "4/3[H]",
+            "fouls": "21/10[H]",
+            "goalKicks": "9/3[H]",
+            "saves": "3/1[H]",
+            "offsides": "2/1[H]",
+            "shotsOnTarget": "2/6[H]",
+            "yellowCards": "6/4[H]",
+            "goals": "1/3[H]",
+            "throwIns": "13/13[H]",
+            "averageBallPossession": "36/64[H]",
+            "teams": "FK Mačva Šabac,FK Partizan,Home",
+            "tackles": "10/17[H]",
+            "interceptions": "6/3[H]",
+            "aerialDuels": "10/16[H]",
+            "aerialDuelsAttempted": "26/26[H]",
+            "dribbles": "9/8[H]",
+            "dribblesAttempted": "19/12[H]",
+            "isHome": true
+        }
+    ],
+    "attempts": 0,
+    "currentIndex": 7,
+    "startTime": "2026-09-20T08:50:16.031Z",
+    "endTime": "2026-09-20T08:50:40.651Z",
+    "totalTimeSeconds": 24.62,
+    "combinedMatchStatistics": {
+        "corners": "0/9[A]+3/6[H]+2/8[A]+5/5[H]+0/6[A]+2/5[H]+4/4[A]+4/3[H]",
+        "fouls": "21/14[A]+21/22[H]+11/9[A]+12/18[H]+17/19[A]+22/14[H]+14/16[A]+21/10[H]",
+        "goalKicks": "18/1[A]+11/6[H]+21/14[A]+10/7[H]+14/8[A]+14/4[H]+11/6[A]+9/3[H]",
+        "saves": "9/1[A]+4/2[H]+5/1[A]+3/3[H]+2/1[A]+6/1[H]+2/3[A]+3/1[H]",
+        "offsides": "3/0[A]+1/2[H]+2/1[A]+2/0[H]+2/3[A]+3/0[H]+1/0[A]+2/1[H]",
+        "shotsOnTarget": "1/13[A]+2/5[H]+1/6[A]+4/3[H]+2/4[A]+2/7[H]+3/4[A]+2/6[H]",
+        "yellowCards": "3/2[A]+4/3[H]+2/2[A]+4/5[H]+1/1[A]+3/0[H]+4/5[A]+6/4[H]",
+        "goals": "0/2[A]+0/0[H]+1/1[A]+1/0[H]+1/2[A]+1/0[H]+0/2[A]+1/3[H]",
+        "throwIns": "22/13[A]+29/16[H]+20/23[A]+22/37[H]+24/32[A]+20/24[H]+18/22[A]+13/13[H]",
+        "averageBallPossession": "34/66[A]+42/58[H]+35/65[A]+43/57[H]+48/52[A]+40/60[H]+33/67[A]+36/64[H]",
+        "teams": "FK Mačva Šabac,FK Železničar Pančevo,Away+FK Mačva Šabac,FK Radnički 1923,Home+FK Mačva Šabac,FK Novi Pazar,Away+FK Mačva Šabac,FK Radnički Niš,Home+FK Mačva Šabac,FK Radnik Surdulica,Away+FK Mačva Šabac,FK IMT Beograd,Home+FK Mačva Šabac,FK Vojvodina,Away+FK Mačva Šabac,FK Partizan,Home",
+        "tackles": "13/10[A]+18/20[H]+15/14[A]+22/17[H]+15/17[A]+9/13[H]+17/14[A]+10/17[H]",
+        "interceptions": "3/9[A]+11/6[H]+15/2[A]+14/10[H]+14/12[A]+11/5[H]+9/4[A]+6/3[H]",
+        "aerialDuels": "8/15[A]+15/15[H]+11/18[A]+14/23[H]+19/23[A]+26/31[H]+18/15[A]+10/16[H]",
+        "aerialDuelsAttempted": "23/23[A]+30/30[H]+29/29[A]+37/37[H]+42/42[A]+57/57[H]+33/33[A]+26/26[H]",
+        "dribbles": "3/9[A]+9/7[H]+9/11[A]+11/10[H]+5/9[A]+9/4[H]+7/11[A]+9/8[H]",
+        "dribblesAttempted": "7/16[A]+18/19[H]+14/20[A]+20/23[H]+12/18[A]+15/9[H]+13/22[A]+19/12[H]",
+        "isHome": "false+true+false+true+false+true+false+true",
+        "cornersTotals": "20/46",
+        "cornersTotalsHome": "14/19",
+        "cornersTotalsAway": "6/27",
+        "cornersAverage": "2.50/5.75",
+        "cornersAverageHome": "3.50/4.75",
+        "cornersAverageAway": "1.50/6.75",
+        "foulsTotals": "139/122",
+        "foulsTotalsHome": "76/64",
+        "foulsTotalsAway": "63/58",
+        "foulsAverage": "17.38/15.25",
+        "foulsAverageHome": "19.00/16.00",
+        "foulsAverageAway": "15.75/14.50",
+        "goalKicksTotals": "108/49",
+        "goalKicksTotalsHome": "44/20",
+        "goalKicksTotalsAway": "64/29",
+        "goalKicksAverage": "13.50/6.13",
+        "goalKicksAverageHome": "11.00/5.00",
+        "goalKicksAverageAway": "16.00/7.25",
+        "savesTotals": "34/13",
+        "savesTotalsHome": "16/7",
+        "savesTotalsAway": "18/6",
+        "savesAverage": "4.25/1.63",
+        "savesAverageHome": "4.00/1.75",
+        "savesAverageAway": "4.50/1.50",
+        "offsidesTotals": "16/7",
+        "offsidesTotalsHome": "8/3",
+        "offsidesTotalsAway": "8/4",
+        "offsidesAverage": "2.00/0.88",
+        "offsidesAverageHome": "2.00/0.75",
+        "offsidesAverageAway": "2.00/1.00",
+        "shotsOnTargetTotals": "17/48",
+        "shotsOnTargetTotalsHome": "10/21",
+        "shotsOnTargetTotalsAway": "7/27",
+        "shotsOnTargetAverage": "2.13/6.00",
+        "shotsOnTargetAverageHome": "2.50/5.25",
+        "shotsOnTargetAverageAway": "1.75/6.75",
+        "yellowCardsTotals": "27/22",
+        "yellowCardsTotalsHome": "17/12",
+        "yellowCardsTotalsAway": "10/10",
+        "yellowCardsAverage": "3.38/2.75",
+        "yellowCardsAverageHome": "4.25/3.00",
+        "yellowCardsAverageAway": "2.50/2.50",
+        "goalsTotals": "5/10",
+        "goalsTotalsHome": "3/3",
+        "goalsTotalsAway": "2/7",
+        "goalsAverage": "0.63/1.25",
+        "goalsAverageHome": "0.75/0.75",
+        "goalsAverageAway": "0.50/1.75",
+        "throwInsTotals": "168/180",
+        "throwInsTotalsHome": "84/90",
+        "throwInsTotalsAway": "84/90",
+        "throwInsAverage": "21.00/22.50",
+        "throwInsAverageHome": "21.00/22.50",
+        "throwInsAverageAway": "21.00/22.50",
+        "averageBallPossessionTotals": "311/489",
+        "averageBallPossessionTotalsHome": "161/239",
+        "averageBallPossessionTotalsAway": "150/250",
+        "averageBallPossessionAverage": "38.88/61.13",
+        "averageBallPossessionAverageHome": "40.25/59.75",
+        "averageBallPossessionAverageAway": "37.50/62.50",
+        "tacklesTotals": "119/122",
+        "tacklesTotalsHome": "59/67",
+        "tacklesTotalsAway": "60/55",
+        "tacklesAverage": "14.88/15.25",
+        "tacklesAverageHome": "14.75/16.75",
+        "tacklesAverageAway": "15.00/13.75",
+        "interceptionsTotals": "83/51",
+        "interceptionsTotalsHome": "42/24",
+        "interceptionsTotalsAway": "41/27",
+        "interceptionsAverage": "10.38/6.38",
+        "interceptionsAverageHome": "10.50/6.00",
+        "interceptionsAverageAway": "10.25/6.75",
+        "aerialDuelsTotals": "121/156",
+        "aerialDuelsTotalsHome": "65/85",
+        "aerialDuelsTotalsAway": "56/71",
+        "aerialDuelsAverage": "15.13/19.50",
+        "aerialDuelsAverageHome": "16.25/21.25",
+        "aerialDuelsAverageAway": "14.00/17.75",
+        "aerialDuelsAttemptedTotals": "277/277",
+        "aerialDuelsAttemptedTotalsHome": "150/150",
+        "aerialDuelsAttemptedTotalsAway": "127/127",
+        "aerialDuelsAttemptedAverage": "34.63/34.63",
+        "aerialDuelsAttemptedAverageHome": "37.50/37.50",
+        "aerialDuelsAttemptedAverageAway": "31.75/31.75",
+        "dribblesTotals": "62/69",
+        "dribblesTotalsHome": "38/29",
+        "dribblesTotalsAway": "24/40",
+        "dribblesAverage": "7.75/8.63",
+        "dribblesAverageHome": "9.50/7.25",
+        "dribblesAverageAway": "6.00/10.00",
+        "dribblesAttemptedTotals": "118/139",
+        "dribblesAttemptedTotalsHome": "72/63",
+        "dribblesAttemptedTotalsAway": "46/76",
+        "dribblesAttemptedAverage": "14.75/17.38",
+        "dribblesAttemptedAverageHome": "18.00/15.75",
+        "dribblesAttemptedAverageAway": "11.50/19.00"
+    }
+}
